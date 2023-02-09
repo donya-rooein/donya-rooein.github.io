@@ -11,7 +11,7 @@ canonical: https://milanlproc.github.io/authors/donya_rooein/
 description: Donya Rooein is a postdoctoral fellow at Bocconi University. Her research lies in NLP, Conversational AI, and Applied ML.
 
 # The option is used to enable the Johns Hopkins template.
-enable_jhu_logo: true
+enable_jhu_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
