@@ -18,13 +18,17 @@ My research lies at the intersection of **NLP** and **applied machine learning**
 
 ## Selected Projects
 
+
+<img align="left" width="100" height="100" src="files/project-TT.png"/>
+
 - **TalkyTutor** the chatbot that supports your learning experience.
-<img align="left" width="100" height="100" src="files/project-TT.png">
+<br clear="left"/>
 
 
+<img align="left" width="100" height="100" src="files/project-BT.jpg"/>
 
 - **BOT Easy Access Tribunale** the chatbot that supports citizens in Legal systems.
-<img align="left" width="100" height="100" src="files/project-BT.jpg">
+<br clear="left"/>
 
 
 ## Selected Publications
