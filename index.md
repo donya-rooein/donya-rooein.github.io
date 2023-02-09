@@ -16,6 +16,15 @@ My research lies at the intersection of **NLP** and **applied machine learning**
 <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
 -->
 
+## Selected Projects
+
+- **TalkyTutor** the chatbot that supports your learning experience.
+<img align="left" width="100" height="100" src="files/project-TT.png">
+
+-- **BOT Easy Access Tribunale** the chatbot that supports citizens in Legal systems.
+<img align="left" width="100" height="100" src="files/project-BT.jpg">
+
+
 ## Selected Publications
 
 - **Rooein, D.**; Paolini, P. and Pernici, B. (2022). Educational Chatbots: A Sustainable Approach for Customizable Conversations for Education.  In Proceedings of the 14th International Conference on Computer Supported Education - Volume 1, ISBN 978-989-758-562-3, ISSN 2184-5026, pages 314-321.
