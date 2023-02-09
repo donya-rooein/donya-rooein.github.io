@@ -34,15 +34,12 @@ My research lies at the intersection of **NLP** and **applied machine learning**
 
 
     
-    
-
-<!-- {% include_relative _includes/publications.md %} -->
 
 ## Teaching
 
 - Teaching Assistant, [Digital Technologies](https://pernici.faculty.polimi.it/teaching/) at [Politecnico di Milano](https://www.polimi.it/), 2019 and 2020
 
-{% include_relative _includes/services.md %}
+
 
 <!--
 ## Contact
