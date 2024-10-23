@@ -4,17 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I am fortunate to work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)). I joined MilaNLP LAB for [INTERGRATOR](https://milanlproc.github.io/project/integrator/) project to study demographic factors anto language processing systems and rple of them in the future of the Conversational AI. 
+I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I am fortunate to work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)). I joined MilaNLP LAB for [INTERGRATOR](https://milanlproc.github.io/project/integrator/) project to study demographic factors to language processing systems and their role of them in the future of Conversational AI. 
 
- I received my Ph.D. in Information Technology Engineering at [Politecnico di Milano](https://www.polimi.it/), where I was fortunate to be advised by [Prof. Barbara Pernici](https://pernici.faculty.polimi.it/) and [Prof. Paolo Paolini](https://www.deib.polimi.it/eng/people/details/60294). I was also research visitor at [ETH Zurich](https://ethz.ch/en.html). 
+ I received my Ph.D. in Information Technology Engineering at [Politecnico di Milano](https://www.polimi.it/), where I was fortunate to be advised by [Prof. Barbara Pernici](https://pernici.faculty.polimi.it/) and [Prof. Paolo Paolini](https://www.deib.polimi.it/eng/people/details/60294). I was also a research visitor at [ETH Zurich](https://ethz.ch/en.html) at my last year of PhD. 
  
   My Ph.D. thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During My Ph.D., I focused on adaptive conversational agents; in particular, I designed and developed highly configurable chatbots in education to support various actors with different demographics.
 
-My research lies at the intersection of **NLP** and **applied machine learning** -- with a special focus on building intelligent conversational systems that are data-driven. My research interests include **conversational AI**, **adaptive conversation**, **chatbots** ,**few-shot learning**, and **conversational human-machine interactions**.
+My research focuses on the intersection of NLP and human-computer interaction, with a special emphasis on educational applications. My research interests include conversational AI, adaptive learning systems, intelligent tutoring systems, and human-AI collaboration in educational settings.
 
-<!--
-<strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
--->
 
 ## Selected Projects
 
