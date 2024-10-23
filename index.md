@@ -29,7 +29,7 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 
 
 ## Selected Publications
-- Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts](https://aclanthology.org/2024.bea-1.5) (**Rooein** et al., BEA 2024)
+- (**Rooein** et al., BEA 2024) Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts [link](https://aclanthology.org/2024.bea-1.5) 
 
 - **Rooein, Donya**, and Dirk Hovy. "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels." arXiv preprint arXiv:2404.10475 (2024).
 
