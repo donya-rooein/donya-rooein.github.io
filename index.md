@@ -29,6 +29,11 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 
 
 ## Selected Publications
+- Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts](https://aclanthology.org/2024.bea-1.5) (**Rooein** et al., BEA 2024)
+
+- **Rooein, Donya**, and Dirk Hovy. "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels." arXiv preprint arXiv:2404.10475 (2024).
+
+- **Rooein, Donya**, Amanda Cercas Curry, and Dirk Hovy. "Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?." arXiv preprint arXiv:2312.02065 (2023).
 
 - **Rooein, D.**; Paolini, P. and Pernici, B. (2022). Educational Chatbots: A Sustainable Approach for Customizable Conversations for Education.  In Proceedings of the 14th International Conference on Computer Supported Education - Volume 1, ISBN 978-989-758-562-3, ISSN 2184-5026, pages 314-321.
 
@@ -45,11 +50,7 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 [Link](https://doi.org/10.1145/3308560.3314191).
 
 
-    
 
-## Teaching
-
-- Teaching Assistant, [Digital Technologies](https://pernici.faculty.polimi.it/teaching/) at [Politecnico di Milano](https://www.polimi.it/), 2019 and 2020
 
 
 
