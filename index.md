@@ -14,22 +14,27 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 
 
 ## Selected Projects
-<img align="left" width="100" src="files/project-bias.png"/>
 
-- **Biased Tales** A dataset of annotated, LLM-generated children's bedtime stories.
-<br clear="left"/>
+<div style="margin-bottom: 20px;">
+  <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
+  <strong>Biased Tales</strong><br/>
+  <span>A dataset of annotated, LLM-generated children's bedtime stories.</span>
+  <br clear="left"/>
+</div>
 
+<div style="margin-bottom: 20px;">
+  <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
+  <strong>TalkyTutor</strong><br/>
+  <span>The chatbot that supports your learning experience.</span>
+  <br clear="left"/>
+</div>
 
-<img align="left" width="100" height="100" src="files/project-TT.png"/>
-
-- **TalkyTutor** the chatbot that supports your learning experience.
-<br clear="left"/>
-
-
-<img align="left" width="90" height="100" src="files/project-BT.jpg"/>
-
-- **BOT Easy Access Tribunale** the chatbot that supports citizens in Legal systems.
-<br clear="left"/>
+<div style="margin-bottom: 20px;">
+  <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
+  <strong>BOT Easy Access Tribunale</strong><br/>
+  <span>The chatbot that supports citizens in legal systems.</span>
+  <br clear="left"/>
+</div>
 
 
 ## Selected Publications
