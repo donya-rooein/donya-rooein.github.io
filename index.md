@@ -5,13 +5,19 @@ layout: homepage
 ## About Me
 
 I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I am fortunate to work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)). I joined MilaNLP LAB for [INTERGRATOR](https://milanlproc.github.io/project/integrator/) project to study demographic factors to language processing systems and their role of them in the future of Conversational AI. 
+<p>
+    <b>I'm on the academic and industry job market 2025-26.</b> If you think I’d be a good fit to your team, I’d love to hear from you!
+</p>
+<p>
+My research focuses on the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI), with a special emphasis on educational applications. I am particularly interested in evaluating Large Language Models (LLMs) in educational settings, with a focus on young users. My work includes developing metrics for text difficulty, creating benchmarks for complexity prediction, and examining cultural relevance and biases in AI-generated content for children.
+
+I am also interested in NLP for social good, and I work on studies related to biases and social norms in the Farsi language.
+</p>
+
 
  I received my Ph.D. in Information Technology Engineering at [Politecnico di Milano](https://www.polimi.it/), where I was fortunate to be advised by [Prof. Barbara Pernici](https://pernici.faculty.polimi.it/) and [Prof. Paolo Paolini](https://www.deib.polimi.it/eng/people/details/60294). I was also a research visitor at [ETH Zurich](https://ethz.ch/en.html) at my last year of PhD. 
  
   My Ph.D. thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During My Ph.D., I focused on adaptive conversational agents; in particular, I designed and developed highly configurable chatbots in education to support various actors with different demographics.
-
-My research focuses on the intersection of NLP and human-computer interaction, with a special emphasis on educational applications. My research interests include conversational AI, adaptive learning systems, intelligent tutoring systems, and human-AI collaboration in educational settings.
-
 
 ## Recent News
 
@@ -50,27 +56,54 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 </div>
 
 
-## Selected Publications
-- (**Rooein** et al., BEA 2024) Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts [link](https://aclanthology.org/2024.bea-1.5) 
+<div class="docs-section" id="publications">
+  <h4>Publications</h4>
 
-- **Rooein, Donya**, and Dirk Hovy. "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels." arXiv preprint arXiv:2404.10475 (2024).
+  <p>Please find all publications on my 
+    <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en" target="_blank">Google Scholar</a>.  
+    <br>* denotes equal contributions.
+  </p>
 
-- **Rooein, Donya**, Amanda Cercas Curry, and Dirk Hovy. "Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?." arXiv preprint arXiv:2312.02065 (2023).
+  <div class="paper">
+    <p class="title"><b>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification</b></p>
+    <p><i>To appear at NAACL 2025</i></p>
+    <p><a class="button" href="https://arxiv.org/abs/2406.09123" target="_blank">arXiv</a></p>
+  </div>
 
-- **Rooein, D.**; Paolini, P. and Pernici, B. (2022). Educational Chatbots: A Sustainable Approach for Customizable Conversations for Education.  In Proceedings of the 14th International Conference on Computer Supported Education - Volume 1, ISBN 978-989-758-562-3, ISSN 2184-5026, pages 314-321.
+  <div class="paper">
+    <p class="title"><b>Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts</b></p>
+    <p><i>Proceedings of BEA 2024</i></p>
+    <p><a class="button" href="https://aclanthology.org/2024.bea-1.5" target="_blank">Paper</a></p>
+  </div>
 
-- **Rooein, D.**, Bianchini, D., Leotta, F. et al. aCHAT-WF: Generating conversational agents for teaching business process models. Software System Model (2021). [link](https://doi.org/10.1007/s10270-021-00925-7).
+  <div class="paper">
+    <p class="title"><b>Conversations as a Source for Teaching Scientific Concepts at Different Education Levels</b></p>
+    <p><i>arXiv preprint, 2024</i></p>
+    <p><a class="button" href="https://arxiv.org/abs/2404.10475" target="_blank">arXiv</a></p>
+  </div>
 
-- **Rooein, Donya**, and Paolini. Paolo. " Adaptive Conversations for Adaptive Learning: Sustainable Development of Educational Chatbots." Position paper presented at CONVERSATIONS 2020 – the 4th International Workshop on Chatbot Research, an online virtual event hosted by the University of Amsterdam, the Netherlands, November 23-24.
+  <div class="paper">
+    <p class="title"><b>Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?</b></p>
+    <p><i>arXiv preprint, 2023</i></p>
+    <p><a class="button" href="https://arxiv.org/abs/2312.02065" target="_blank">arXiv</a></p>
+  </div>
 
--  **Rooein, D**. Paolini, P. (2021). Adaptive Conversations for Adaptive Learning TalkyTutors: sustainable chatbots as tutors. In T. Bastiaens (Ed.), Proceedings of EdMedia + Innovate Learning (pp. 1020-1029). United States: Association for the Advancement of Computing in Education (AACE). Retrieved July 27, 2021. 
-[Link](https://www.learntechlib.org/primary/p/219783/).
 
-- Negri, V., Scuratti, D., Agresti, S., **Rooein, D.**, Shankar, A. R., Marquez, J. L. F., ... \& Pernici, B. (2020). Image-based Social Sensing: Combining AI and the Crowd to Mine Policy-Adherence Indicators from Twitter. ICSE-SEIS 2021: 92-101.
 
-- **Donya Rooein**. 2019. Data-Driven Edu Chatbots. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 46-49. 
-[Link](https://doi.org/10.1145/3308560.3314191).
+  <div class="paper">
+    <p class="title"><b>aCHAT-WF: Generating Conversational Agents for Teaching Business Process Models</b></p>
+    <p><i>Software and Systems Modeling (SoSyM), 2021</i></p>
+    <p><a class="button" href="https://doi.org/10.1007/s10270-021-00925-7" target="_blank">Springer</a></p>
+  </div>
 
+
+
+  <div class="paper">
+    <p class="title"><b>Data-Driven Edu Chatbots</b></p>
+    <p><i>WWW '19 Companion Proceedings</i></p>
+    <p><a class="button" href="https://doi.org/10.1145/3308560.3314191" target="_blank">ACM</a></p>
+  </div>
+</div>
 
 
 
