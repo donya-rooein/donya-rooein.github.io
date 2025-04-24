@@ -35,6 +35,7 @@ My research focuses on the intersection of NLP and human-computer interaction, w
   <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
   <strong>BOT Easy Access Tribunale</strong><br/>
   <span>The chatbot that supports citizens in legal systems.</span>
+  <a href="https://legalbot.i3lab.group/" target="_blank">🚀 View Demo</a>
   <br clear="left"/>
 </div>
 
