@@ -61,7 +61,6 @@ I am also interested in NLP for social good, and I work on studies related to bi
 
   <p>Please find all publications on my 
     <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en" target="_blank">Google Scholar</a>.  
-    <br>* denotes equal contributions.
   </p>
 
   <div class="paper">
