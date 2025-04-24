@@ -13,6 +13,16 @@ I am currently a postdoctoral fellow in the Department of Computer Science at [B
 My research focuses on the intersection of NLP and human-computer interaction, with a special emphasis on educational applications. My research interests include conversational AI, adaptive learning systems, intelligent tutoring systems, and human-AI collaboration in educational settings.
 
 
+## Recent News
+
+- **April 2025**: Presenting paper *[Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification](https://arxiv.org/abs/2406.09123)* at **NAACL 2025**.
+
+- **April 2025**: Invited talk at Università della Svizzera italiana (USI) on [Child-Centred AI in Education](https://www.usi.ch/en/feeds/31424).
+- **November 2024 – February 2025**: Visiting researcher at [ETH Zurich, Language, Reasoning and Education (LRE) Lab](https://lre.inf.ethz.ch/).
+
+
+
+
 ## Selected Projects
 
 <div style="margin-bottom: 20px;">
