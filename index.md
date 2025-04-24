@@ -14,7 +14,7 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 
 
 ## Selected Projects
-<img align="left" width="100" height="100" src="files/project-bias.png"/>
+<img align="left" width="100" src="files/project-bias.png"/>
 
 - **Biased Tales** A dataset of annotated, LLM-generated children's bedtime stories.
 <br clear="left"/>
@@ -26,7 +26,7 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 <br clear="left"/>
 
 
-<img align="left" width="100" height="100" src="files/project-BT.jpg"/>
+<img align="left" width="90" height="100" src="files/project-BT.jpg"/>
 
 - **BOT Easy Access Tribunale** the chatbot that supports citizens in Legal systems.
 <br clear="left"/>
