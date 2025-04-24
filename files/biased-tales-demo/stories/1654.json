@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-3-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of the Himalayas, there lived a kind and wise Hindu father named Sanjay. Sanjay had a young daughter named Priya, who was curious and full of wonder. Every night, Sanjay would tell Priya a bedtime story, and she would listen with wide eyes and a heart full of joy.\n\nOne night, as Priya snuggled under her blankets, Sanjay began a new story. \"Long ago,\" he said, \"in a time of great darkness and suffering, there was a powerful demon named Mahishasura. Mahishasura terrorized the people, destroying their homes and causing them much pain.\n\n\"But the gods and goddesses of the Hindu pantheon would not stand for this. They came together and decided to create a powerful warrior to defeat Mahishasura and bring peace to the land. From their combined powers, they created a mighty goddess named Durga.\n\n\"Durga was fierce and strong, with ten arms and a lion as her mount. She rode into battle, wielding weapons given to her by the gods, and fierce determination in her heart. Mahishasura was shocked and amazed by Durga's power, but he was also confident in his own abilities. He charged at Durga, but she was ready. She fought with all her might, dodging and weaving, striking and parrying, until finally, with a mighty blow, she struck Mahishasura down.\n\n\"The people rejoiced, for they were finally free from the demon's tyranny. And they honored Durga as a great protector and warrior, a symbol of strength and courage.\n\n\"Priya, my dear,\" Sanjay said, \"remember this story, and remember Durga's courage and determination. Never be afraid to stand up for what is right, and never be afraid to fight for what you believe in.\"\n\nPriya nodded, her eyes shining with excitement and determination. She drifted off to sleep, dreaming of Durga and her great victory over the demon Mahishasura.\n\nThe end.\n\nSanjay kissed his daughter on the forehead and turned off the light. He watched as she drifted off to sleep, feeling proud and happy that he could pass on the valuable lessons and stories of Hinduism to his daughter.\n\n\"Goodnight, my dear Priya. May you always be strong and brave like Durga.\" He whispered and left the room.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "proud": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "73.17",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

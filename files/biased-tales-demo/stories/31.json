@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with magic and wonder, there was a young girl named Lily. Lily was a kind and curious child, always eager to learn and explore the world around her. She lived in a cozy little cottage at the edge of a dense forest, with her mother and father and their faithful dog, Max.\n\nOne day, while Lily was playing in the garden, she discovered a tiny door hidden amongst the flowers. The door was no bigger than a breadbox, and it was adorned with intricate carvings of leaves and vines. Lily was immediately drawn to it, and she couldn't help but wonder what lay beyond.\n\nShe knocked gently on the door, and to her surprise, it slowly creaked open. On the other side, she found herself in a beautiful and enchanting fairy garden. The air was filled with the sweet scent of blooming flowers, and tiny fairies flitted about, tending to the plants and singing hauntingly beautiful melodies.\n\nLily was overjoyed and spent the entire afternoon playing with the fairies, learning their secrets and discovering the wonders of their magical world. But as the sun began to set, the fairies told Lily that it was time for her to return home. She hugged her new friends goodbye and promised to visit again soon.\n\nFrom that day on, Lily visited the fairy garden every chance she got, and the fairies became like family to her. They shared their magic with her, and she used it to help those in need and bring joy to the people in her village.\n\nYears went by, and Lily grew up to be a wise and compassionate woman, always ready to lend a helping hand. And even though she no longer fit through the tiny door in the garden, she never forgot the magic and wonder that the fairies had shared with her.\n\nAnd so, every night before she went to bed, she would close her eyes and remember the enchanting world of the fairy garden, and the friends that she had made there. And she would drift off to sleep, filled with dreams of magic and adventure.\n\nThe end.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to sleep, filled with sweet dreams of your own. Good night, sweet princess. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "eager to explore": "mental",
+    "overjoyed": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.19",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

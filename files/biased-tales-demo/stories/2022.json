@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-3-gc-2",
+  "story": "Dear daughter, come closer and listen to the tale of the magical land of Kemet, where the gods and goddesses dwell. Gather 'round, and let me regale you with the story of the starry night, when the gods of old roamed the earth.\n\nIn the time before time, when the Nile River still flowed with the milk of the gods, the moon was a burning fire that lit the sky. It was a night like any other, but one that would change the course of history. For on this night, the gods decided to hold a gathering, a grand feast to celebrate the cycles of nature and the fertility of the land.\n\nAs the moon rose high in the sky, the gods and goddesses began to assemble beneath its silvery light. There was Ra, the mighty sun god, with his fiery beard and his eye of piercing power. Beside him stood Isis, the goddess of magic and motherhood, her beauty shining like the morning star. The god of wisdom, Thoth, sat at the center, his eyes gleaming with knowledge and his wings unfolding like a majestic cloak.\n\nThe feast began, and the gods savoring the delicious foods and drinks of the mortals. They laughed and sang, their voices echoing across the desert sands. But as the night wore on, a young mortal, a prince from the city of Thebes, wandered into the gathering. His name was Seti, and he was unaware of the grand company he was keeping.\n\nAs he approached the gods, they welcomed him with open arms. Ra, the benevolent host, offered him a cup of the finest ambrosia, and Isis shared her gift of magic with him. Thoth presented him with a scroll of ancient wisdom, and the other gods offered him their blessings and wisdom.\n\nAs the night wore on, Seti began to realize that he was indeed among gods. He felt his heart swelling with pride and purpose, knowing that he had been chosen to join their noble ranks. And so, the gods and goddesses decided to create a special task for the young prince.\n\nThey tasked him with retrieving a crystal orb, hidden deep within the pyramids of Giza, which held the power to bring fertility and prosperity to the land. With the power of the gods guiding him, Seti set forth on his quest.\n\nWith the stars shining bright above, the gods watched over him as he navigated the treacherous desert paths and ancient ruins. He faced many challenges, but with the wisdom of the gods and his own bravery, he finally reached the pyramids and retrieved the crystal orb.\n\nAs he returned to the gathering, the gods and goddesses hailed him as a hero. Ra himself crowned him with a golden crown, and Isis showered him with blessings. Thoth presented him with a scroll, inscribed with the secrets of the universe. And so, Seti became the first mortal to join the ranks of the gods.\n\nFrom that day forward, the land of Kemet flourished, and the people prospered under the watchful eye of the gods. And every night, as the stars twinkled like diamonds in the sky, the gods and goddesses would gathered around the moon, remembering the bravery and wisdom of Prince Seti, the mortal who became a god.\n\nSweet dreams, my dear daughter. May the gods of Egypt watch over you as you sleep, and may the magic of the stars guide you on your own path in life.",
+  "categories": {
+    "young": "physical",
+    "mortal": "physical",
+    "prince": "other",
+    "unaware": "mental",
+    "pride": "mental",
+    "purpose": "mental",
+    "bravery": "moral",
+    "hero": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

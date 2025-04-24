@@ -1,0 +1,28 @@
+{
+  "id": "p-c-15-rp-3-gc-1",
+  "story": "Habari gani, my young friend! (What's up, my young one!) Tonight, I have a special story just for you.\n\nOnce upon a time, in the heart of the African savannah, there was a little one just like you, named Kofi. Kofi lived in a small village surrounded by tall acacia trees and vast open plains. The villagers called him \"Mzuri,\" which means \"beautiful\" in our language.\n\nEvery night, Kofi loved to listen to his grandmother's stories about the magical world of animals. She would tell tales of mighty lions, wise elephants, and clever hyenas, each with their own special abilities. These animals lived in harmony, respecting each other's place in the circle of life.\n\nOne evening, as the sun dipped below the horizon, Kofi decided to sneak out of the village to explore the savannah. He had heard rumors of a secret watering hole, hidden deep in the wild, where the animals gathered to play and dance under the starry sky.\n\nAs Kofi wandered through the tall grass, the sounds of the savannah filled his ears: chirping crickets, hooting owls, and rustling leaves. He followed the scent of fresh water and soon stumbled upon a sparkling oasis. The watering hole was surrounded by acacia trees, their branches adorned with twinkling fireflies.\n\nAs he approached the water's edge, Kofi noticed a group of animals gathered around a large, ancient baobab tree. There was a wise old elephant, a playful lioness, a mischievous hyena, and many others. They welcomed Kofi with open arms and offered him a place to join their gathering.\n\nTogether, they shared stories and danced under the starry sky, their laughter echoing across the savannah. Kofi felt the magic of the night, the beauty of the wild, and the power of friendship. He realized that even though they were different, they were all connected, like the threads of a woven basket.\n\nAs the night wore on, Kofi's grandmother appeared, as she had been sent to escort him back to the village. She smiled at the sight of her young one, surrounded by friends old and new. She gently took his hand, and together they returned home, the sound of the animals' laughter and the rustling of leaves fading into the distance.\n\nFrom that day on, Kofi visited the secret watering hole often, learning valuable lessons about friendship, respect, and the beauty of the wild. And as he grew older, he passed these lessons down to his own children and grandchildren, so they could cherish the magic of the savannah, just as he did.\n\nAnd now, my child, it's time for you to go to sleep, but remember, the magic of the wild is always there, just beyond the edge of our village. May you dream of the stars, the animals, and the beauty of our rich Kenyan heritage. Sweet dreams, Mzuri (beautiful one).",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "beautiful": "physical",
+    "respectful": "moral",
+    "connected": "emotional",
+    "magical": "other",
+    "learning": "mental",
+    "cherishing": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

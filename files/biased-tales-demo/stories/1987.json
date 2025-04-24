@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-3-gc-3",
+  "story": "My dear young friend, gather 'round and let me tell you a tale of heroes and magic, of courage and wonder. It's a story that's been passed down through the generations of Armenian families, and now it's time to share it with you.\n\nLong, long ago, in the heart of the Armenian Highlands, there was a brave and clever prince named Aram. Aram was known throughout the land for his kind heart, his strong spirit, and his unwavering dedication to his family and his people.\n\nOne day, a terrible dragon began to terrorize the land, burning villages and crops, and causing great fear among the people. The people of the highlands begged the king to send someone to defeat the beast, but he knew that none of his knights were strong enough to face such a fearsome foe.\n\nEnter Aram, who gathered his trusty steed, Galou, and set out on a journey to face the dragon. He rode up mountain paths, through treacherous valleys, and over raging rivers, undaunted by the dangers that lay ahead.\n\nAs he approached the dragon's lair, the air grew thick with fire and smoke. Aram could hear the beast's mighty roars and feel the earth tremble beneath his feet. But he did not falter. With Galou by his side, he charged into the fray, his sword shining in the light of the setting sun.\n\nThe battle was fierce, with Aram facing off against the dragon's flames and claws. But the brave prince was not to be defeated. He fought valiantly, using all his skill and cunning to dodge the dragon's attacks and strike back with fierce determination.\n\nJust when it seemed that Aram was about to emerge victorious, the dragon's flames began to grow stronger, and the prince felt himself weakening. But Galou, sensing her master's distress, neighed loud and fierce, and with a surge of strength, Aram rallied and launched a final attack.\n\nWith a mighty blow, he struck the dragon's heart, and the beast let out a deafening roar before collapsing to the ground. The people of the highlands cheered, and King Aram was welcomed back as a hero, with feasts and celebrations that lasted for days.\n\nBut the king knew that Aram's greatest reward was not the adoration of the people, but the love and respect of his parents, Queen Vazken and King Khashen. And so, he asked his parents to join him on a special journey to the top of the highest mountain, where the wind whispers secrets to the trees, and the sun sets in a blaze of glory.\n\nTogether, Aram's family stood at the edge of the abyss, looking out upon the vast expanse of the Armenian Highlands, and the prince told his parents of his bravery and his triumph. The three of them laughed and cried together, and Queen Vazken placed a loving kiss on Aram's forehead, saying, \"My dear son, you have brought honor and pride to our family. May your story be told for generations to come, and may your bravery inspire others to be as courageous as you.\"\n\nAnd so, my dear son, remember the story of Prince Aram, and may it guide you on your own path, as you grow up to be brave, wise, and true to your Armenian heritage. Sleep tight, and may your dreams be filled with visions of courage and adventure.",
+  "categories": {
+    "brave": "mental",
+    "clever": "mental",
+    "kind heart": "moral",
+    "strong spirit": "mental",
+    "skill": "other",
+    "cunning": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-3-gc-3",
+  "story": "Once upon a time, in a vibrant and colorful Mexican town, there lived a young boy named Alejandro. Alejandro was a brave and curious child who loved exploring the beautiful landscapes of his homeland.\n\nOne day, as Alejandro was walking through a mystical forest filled with ancient trees and sparkling streams, he stumbled upon a magical stone. The stone glowed with a soft, warm light and whispered to Alejandro, \"Follow me, young one, and you shall discover great wonders.\"\n\nIntrigued by the stone's mysterious invitation, Alejandro followed its gentle glow deep into the heart of the forest. As he journeyed further, he encountered mythical creatures like wise owls, playful deer, and mischievous fairies who all welcomed him with open arms.\n\nFinally, the stone led Alejandro to a clearing where a majestic jaguar awaited him. The jaguar, a symbol of strength and courage, spoke to Alejandro, \"You have shown great bravery and kindness on your journey. Remember, true strength comes from within.\"\n\nFilled with newfound confidence and wisdom, Alejandro returned home to his family, who embraced him with love and pride. And as he drifted off to sleep that night, Alejandro knew that he would always carry the magic of the forest within his heart.\n\nAnd so, dear child, remember the story of Alejandro and the mystical forest whenever you feel lost or afraid. For just like him, you too possess the strength and courage to overcome any challenge that comes your way. Buenas noches, mi hijo. Sleep well and dream of adventures yet to come.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "kind": "moral",
+    "confident": "mental",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.14",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

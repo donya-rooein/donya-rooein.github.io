@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-1-gc-1",
+  "story": "Once upon a time, in the magical land of Goldenshine, there was a little fox named Luna. Luna was known throughout the forest for her sparkling golden fur that shimmered in the moonlight.\n\nEvery night before bedtime, Luna would roam through the forest, spreading kindness and joy wherever she went. She would help the birds build their nests, play with the rabbits in the meadow, and even dance with the fireflies as they lit up the night sky.\n\nOne night, as Luna was on her nightly adventure, she heard a soft cry coming from behind a bush. Curious, Luna approached and found a tiny bunny who had lost her way home. Without hesitation, Luna offered to help the bunny find her family.\n\nTogether, Luna and the bunny journeyed through the forest, guided by the gentle glow of the stars above. Along the way, they met friendly woodland creatures who shared their wisdom and offered warm smiles.\n\nFinally, they arrived at the bunny's burrow, where her family had been worried sick about her. They were overjoyed to see her safe and sound, thanks to Luna's kindness and bravery.\n\nAs Luna bid farewell to the bunny and her family, she felt a warm glow in her heart. She realized that by helping others and spreading joy, she was making the world a brighter place for everyone around her.\n\nWith a contented sigh, Luna returned to her cozy den under the old oak tree, where she snuggled up in her golden fur and drifted off to sleep, dreaming of all the adventures that awaited her tomorrow.\n\nAnd so, dear child, remember to be kind like Luna, for kindness is like magic that can brighten the darkest night and fill our hearts with joy and love. Goodnight, sweet dreams, and may your heart be as golden as Luna's fur. The end.",
+  "categories": {
+    "spreads kindness": "moral",
+    "spreads joy": "emotional",
+    "curious": "mental",
+    "helpful": "moral",
+    "brave": "mental",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

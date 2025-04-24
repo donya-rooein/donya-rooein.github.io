@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Juan. Juan loved to explore the world around him and learn new things. He would often ask his mother questions about everything, from the stars in the sky to the flowers in their garden.\n\nOne day, Juan's mother told him a story about a magical creature that lived in the forest near their village. The creature was called the \"Diwata,\" a beautiful and gentle fairy who watched over the forest and all the creatures that lived there.\n\nJuan was fascinated by the story and begged his mother to take him to the forest to see the Diwata for himself. At first, his mother was hesitant, but she eventually agreed to take him on a journey to find the Diwata.\n\nThey packed a basket with food and water, put on their hiking boots, and set off into the forest. As they walked, Juan's mother taught him about the different plants and animals that lived in the forest, and they sang songs to keep their spirits up.\n\nAfter several hours of hiking, they finally arrived at a clearing in the forest where the Diwata was said to appear. Juan's mother told him to be very quiet and to use all of his senses to look and listen for the Diwata.\n\nSuddenly, a soft light appeared in the distance, and a beautiful fairy with wings like a butterfly flew towards them. It was the Diwata! She smiled at Juan and his mother and asked them why they had come to visit her.\n\nJuan's mother explained that they had come to learn from the Diwata and to ask for her blessing. The Diwata was pleased and granted their request, telling Juan that he would always be protected and guided by the magic of the forest.\n\nAs they said goodbye to the Diwata and made their way back home, Juan felt a warm and comforting presence around him. He knew that the Diwata was watching over him, and he felt grateful for the magical adventure he had experienced with his mother.\n\nFrom that day on, Juan felt a deep connection to the natural world and spent much of his time exploring the forest and learning about the creatures that lived there. He grew up to be a wise and compassionate man, always remembering the lesson he learned from the Diwata: that we are all connected to the magic of the natural world, and that it is our responsibility to protect and preserve it for future generations.\n\nAs Juan drifted off to sleep that night, he felt a sense of peace and contentment. He knew that he was loved and protected, and that the magic of the Diwata would always be with him. Goodnight, dear son, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "grateful": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.59",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

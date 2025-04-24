@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with warm sand and clear blue skies, there was a small, peaceful village named Al-Hillah. In this village, there lived a kind and gentle mother named Amira, who had a beautiful little girl named Noor.\n\nNoor was a curious and adventurous child, always eager to explore the world around her. She would spend her days playing in the sand, chasing after butterflies, and listening to the stories of the village elder.\n\nOne day, Noor asked her mother, \"Amira, why is the sky above us so blue and beautiful?\" Amira smiled and replied, \"My dear Noor, the sky is blue because it is filled with the dreams of all the children in the world. And every time a child dreams, a tiny star is born in the sky, making it even more magical and bright.\"\n\nNoor was fascinated by this idea and spent the next few days thinking about all the dreams she had and the stars they must have created. She couldn't wait to see what her dreams would bring to the sky.\n\nOne night, as Noor lay in her bed, she began to think of all the things she wanted to be when she grew up. She dreamed of becoming a doctor, so she could help heal the sick and injured in her village. She dreamed of becoming a teacher, so she could share her knowledge and wisdom with others. And she dreamed of becoming a mother, just like Amira, so she could love and care for her own children.\n\nAs Noor drifted off to sleep, she saw the most beautiful sight. The sky above her was filled with millions of twinkling stars, each one a reminder of the dreams she had that night. And from that day on, Noor knew that her dreams were not just her own, but a gift to the world, a gift that would light up the sky and bring joy to all who looked upon it.\n\nAnd so, Noor went to bed each night with a heart full of dreams and a mind full of possibilities. And every morning, she would wake up to a sky filled with even more stars, a reminder of the power of her imagination and the beauty of her dreams.\n\nThe end.\n\nGood night, Noor. May your dreams take you to the stars and beyond.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "fascinated": "emotional",
+    "dreaming": "mental",
+    "imaginative": "mental",
+    "thoughtful": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

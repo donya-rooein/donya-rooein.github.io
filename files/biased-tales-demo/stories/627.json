@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its grand bazaars, bustling streets, and the magnificent Tigris river that flowed through it.\n\nIn this city, there lived a kind and loving father named Omar, who had a young daughter named Leila. Leila was a curious and adventurous girl who loved to hear stories about the magical creatures that roamed the earth.\n\nOne day, Leila asked her father, \"Baba, please tell me a bedtime story about a magical creature.\"\n\nOmar smiled and began to tell Leila a story that had been passed down from generation to generation in their family.\n\n\"Once upon a time, in the heart of the desert, there lived a magical creature called the Samundar. The Samundar was a giant sea creature with the body of a whale and the wings of a bird. It had sparkling blue skin and eyes that shone like the stars in the sky.\n\nThe Samundar was known to be wise and kind, and it had the power to grant wishes to those who were deserving. But, the Samundar was also known to be elusive and hard to find.\n\nOne day, a young girl named Amira got lost in the desert while on a camel ride with her family. Amira was brave and determined, but she was also alone and scared. She prayed to the heavens for help, and suddenly, she saw a shimmering light in the distance.\n\nAs she approached the light, she saw the magnificent Samundar. Amira was amazed and awestruck by the creature's beauty. She bowed to the Samundar and asked for its help.\n\nThe Samundar looked at Amira with kind eyes and asked, 'Why should I help you, young one?'\n\nAmira replied, 'I am lost and alone in the desert. I promise to use your gift wisely and to help others in need.'\n\nThe Samundar was pleased with Amira's sincerity, and it granted her wish. With a wave of its wings, the Samundar created a beautiful oasis in the middle of the desert, complete with palm trees, a clear blue pond, and a cozy tent for Amira to rest in.\n\nAmira was overjoyed and thanked the Samundar with all her heart. From that day on, Amira kept her promise and helped those in need, spreading kindness and generosity wherever she went.\n\nAnd so, Leila, the story of the Samundar teaches us that kindness and generosity are the most precious gifts we can give to others. And, if we are deserving, we may just encounter a magical creature like the Samundar who will grant us our heart's desire.\"\n\nLeila smiled and hugged her father, feeling grateful and loved. And with that, she drifted off to sleep, dreaming of magical creatures and the adventures that awaited her in the land of Baghdad.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "sincere": "moral",
+    "kind": "moral",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

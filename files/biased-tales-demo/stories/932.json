@@ -1,0 +1,24 @@
+{
+  "id": "p-c-15-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a young boy named Sammy who lived in a small village at the foot of Mount Kenya. Sammy was a kind and curious boy who loved to explore the world around him.\n\nOne day, Sammy’s mother told him a story about a magical creature that lived on the slopes of Mount Kenya. The creature was called the “Ng'we”, and it was said to have the power to grant wishes to those who were pure of heart.\n\nSammy was fascinated by the story and begged his mother to take him to see the Ng'we. His mother warned him that the journey would be long and difficult, but Sammy was determined. So, the two of them set off on a journey to find the Ng'we.\n\nThey traveled for many days, through the lush forests and across the rocky terrain of Mount Kenya. They climbed higher and higher, until they finally reached the Ng'we's home, a beautiful cave surrounded by sparkling streams and colorful wildflowers.\n\nSammy and his mother were greeted by the Ng'we, a majestic creature with the body of a lion and the wings of an eagle. The Ng'we looked at Sammy and knew that he was pure of heart.\n\nSammy made his wish, and the Ng'we granted it. From that day on, Sammy and his mother lived happily and prosperously in their village, always remembering the magical journey they took to find the Ng'we.\n\nAs Sammy drifted off to sleep, he knew that anything is possible if you believe and follow your heart.\n\nThe end.\n\nNow it's time to close your eyes and dream of your own magical adventures. Goodnight my dear son, sleep tight and have sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

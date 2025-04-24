@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and prosperous kingdom called Azerbaijan. This kingdom was known for its lush gardens, towering mountains, and clear blue skies. The people of Azerbaijan were happy and content, and they lived in harmony with one another.\n\nIn this kingdom, there was a little girl named Leyla. Leyla was a kind and curious child, always eager to learn about the world around her. She loved to explore the gardens and hills near her home, and she spent hours playing with her friends and listening to stories from her elders.\n\nOne day, Leyla's father told her a story about a magical bird that lived in the highest mountains of Azerbaijan. This bird, he said, was known as the Huma bird, and it was said to bring good fortune to anyone who was lucky enough to see it.\n\nLeyla was fascinated by this story, and she begged her father to take her to see the Huma bird for herself. Her father smiled and agreed, and the two of them set off on a journey to the mountains.\n\nAs they climbed higher and higher, the air grew colder and the terrain became more rugged. But Leyla was undaunted, and she pressed on, determined to see the Huma bird.\n\nFinally, after many long hours of hiking, Leyla and her father reached the top of the mountain. And there, perched on a nearby branch, was the most beautiful bird Leyla had ever seen. It had feathers of gold and silver, and its eyes sparkled like diamonds.\n\nLeyla was overjoyed, and she knew that her father's story was true. From that day on, she always remembered the lesson of the Huma bird: that with determination and hard work, anything is possible.\n\nAnd with that, Leyla closed her eyes and drifted off to sleep, dreaming of the magical Huma bird and the adventures that lay ahead.\n\nThe end.\n\nGood night, my dear daughter. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "undaunted": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

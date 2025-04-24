@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with rolling green hills and sparkling blue streams, there was a sweet little girl named Lily. Lily was a curious and kind-hearted child, always eager to explore the world around her and lend a helping hand to those in need.\n\nOne day, while playing in her backyard, Lily stumbled upon a tiny door hidden behind a bush. She had never seen anything like it before, and she couldn't help but wonder what could be inside.\n\nShe carefully opened the door and found herself in a magical world filled with all sorts of wonderful creatures. There were talking animals, mischievous fairies, and even a wise old dragon.\n\nThe creatures of the magical world were overjoyed to meet Lily, and they welcomed her with open arms. They told her that they had been waiting for a special person like her to come and help them with a problem.\n\nYou see, the magical world was in danger. A wicked witch had cast a spell that was causing all of the colors to fade away. The trees were losing their leaves, the flowers were wilting, and even the rainbows had disappeared from the sky.\n\nLily knew that she had to help, so she set out on a quest to find the witch and break the spell. She journeyed through dense forests, climbed steep mountains, and crossed wide rivers. Along the way, she met many new friends who joined her on her quest.\n\nFinally, they reached the witch's castle, and Lily bravely faced the witch. With the help of her friends, she was able to outsmart the witch and break the spell, restoring color and life to the magical world.\n\nThe creatures of the magical world were so grateful to Lily that they threw her a huge celebration. They danced and sang, and Lily was crowned the princess of the magical world.\n\nFrom that day on, Lily visited the magical world whenever she could, bringing joy and color to all who lived there. And she always knew that, no matter where she went, she would always have a home in the magical world.\n\nAs Lily closed her eyes and drifted off to sleep, she couldn't wait for the next adventure in the magical world. And she knew that, as long as she had her imagination, she could go anywhere and do anything.\n\nGoodnight, sweet dreams, Lily. May your dreams be filled with magic, wonder, and adventure.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "eager to explore": "mental",
+    "helpful": "moral",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

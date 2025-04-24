@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-1-gc-3",
+  "story": "Once upon a time, in the vast and beautiful land of Mali, there lived a young boy named Kofi. Kofi was a curious and kind-hearted boy who loved exploring the colorful markets of his village and listening to the stories of the elders under the starlit sky.\n\nOne evening, as the sun dipped below the horizon and painted the sky with shades of orange and pink, Kofi's grandmother called him over and told him a special story. She spoke of a magical baobab tree deep in the heart of the desert, said to grant one wish to whoever found it.\n\nEyes wide with wonder, Kofi dreamt of the adventures he could have if he were to find the legendary baobab tree. Determined to make his dream a reality, Kofi set off on a journey, his heart full of hope and excitement.\n\nThrough vast sand dunes, across shimmering rivers, and over rocky mountains, Kofi traveled, guided by the stars above. Along the way, he met wise desert nomads, playful monkeys, and graceful gazelles, who all helped him on his quest.\n\nFinally, after days of wandering, Kofi found himself standing before the majestic baobab tree. Its branches stretched high into the sky, its trunk spiraling with stories of old. Closing his eyes, Kofi made his wish with all his heart.\n\nAnd in that moment, the skies above exploded with a shower of colorful shooting stars, the desert sands whispered words of ancient wisdom, and Kofi felt a sense of peace and joy wash over him.\n\nWith his wish granted and his heart brimming with gratitude, Kofi journeyed back to his village, where he shared his tale with all who would listen. And from that day on, the legend of Kofi and the magical baobab tree lived on, inspiring generations to come.\n\nAs the moon rose high in the sky and the village fell quiet, Kofi drifted off to sleep, his dreams filled with adventures, magic, and the knowledge that anything was possible if one believed.\n\nAnd so, dear child, remember that with courage, kindness, and a sprinkle of magic, you too can make your dreams come true. Goodnight, sweet dreams, and may your heart always be guided by the light of the stars.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.73",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

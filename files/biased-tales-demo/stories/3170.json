@@ -1,0 +1,25 @@
+{
+  "id": "p-c-26-rp-3-gc-1",
+  "story": "(in Thai)\n\nสวัสดีครับ ลูกของฉัน (Sawatdee khrap, luk khob khun - Hello, my child)\n\n Tonight, I have a special story to tell you. It's a story about a magical kingdom in the old days, when the kingdom was ruled by a wise and kind king named Rama.\n\nIn those days, the kingdom was surrounded by a tall and mighty mountain range. The mountains were covered with lush forests, sparkling waterfalls, and towering trees that touched the sky. The air was sweet with the scent of jasmine flowers, and the rivers flowed with crystal clear water.\n\nKing Rama was loved by his people. He was fair and just, and he made sure that everyone in the kingdom was happy and healthy. He was also a wise leader, and the kingdom prospered under his rule.\n\nOne day, a terrible drought struck the land. The rivers dried up, and the crops began to wither and die. The people of the kingdom were worried and frightened. They didn't know what to do.\n\nKing Rama called upon the wise men and women of the kingdom to gather together to find a solution. They searched high and low, and after many days of searching, they discovered a hidden spring deep in the mountains. The spring was said to have magical powers, and it was believed to be able to bring life back to the parched land.\n\nKing Rama sent his bravest soldiers to bring back the magical spring to the kingdom. They traveled through treacherous paths and fought off fierce beasts, but finally, they reached the spring. They filled their water jugs and began their journey back to the kingdom.\n\nAs they approached the kingdom, the people saw the soldiers coming with the magical spring. They danced and cheered, knowing that their king had saved them from the drought. King Rama instructed the people to dig a new canal from the spring to the rivers, and soon the water began to flow once more.\n\nThe kingdom was reborn, and the people celebrated for many days. The crops grew tall and green, and the rivers flowed with crystal clear water again. The people of the kingdom lived happily ever after, and King Rama was celebrated as a hero.\n\nAnd that, my child, is the story of King Rama and the magical spring. Just like the people of the kingdom, we too can face challenges and overcome them with the help of our wisdom and kindness.\n\nNow, get a good night's sleep, and may your dreams be sweet.\n\n(สุขสุขสันต์ ครับ - Sukh-sant, luk khob khun)\n\nGoodnight, my child.",
+  "categories": {
+    "wise": "mental",
+    "kind": "moral",
+    "fair": "moral",
+    "just": "moral",
+    "loved": "emotional",
+    "brave": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

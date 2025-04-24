@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and gentle boy named Rohan. Rohan was known throughout the village for his love of animals and his gentle nature. He would often spend his days playing with the cows, goats, and chickens that lived on his family's farm.\n\nOne day, while Rohan was out playing, he heard a faint meowing coming from a nearby bush. He cautiously approached the bush and found a tiny, shivering kitten hidden inside. Rohan knew that the kitten must be cold and scared, so he picked it up and cradled it in his arms, warming it with his body.\n\nRohan brought the kitten home and asked his parents if they could keep it. His parents, who also had a soft spot for animals, agreed and named the kitten Ginger.\n\nRohan and Ginger quickly became inseparable. They would spend their days playing and exploring the family's farm together. But as much as Rohan loved Ginger, he knew that the kitten needed more than just play and exploration. Ginger needed a friend, another kitten to keep her company.\n\nSo, Rohan went to the market and found another tiny, shivering kitten. He brought the kitten home and named her Daisy. Just like Rohan and Ginger, Daisy and Ginger quickly became the best of friends.\n\nTogether, the four of them would go on great adventures throughout the farm. They climbed trees, chased butterflies, and explored the nearby woods. But as much fun as they had during the day, Rohan knew that Ginger and Daisy needed a safe and cozy place to sleep at night.\n\nSo, Rohan built a small bed for Ginger and Daisy using some old blankets and a wooden box. Every night, he would tuck them in and tell them a bedtime story. The kittens would listen intently, their eyes wide with excitement.\n\nAs time went on, Ginger and Daisy grew into beautiful and healthy cats. And Rohan grew into a kind and gentle young man, who always had a soft spot for animals. He knew that no matter how busy he got, there would always be time for a bedtime story and tucking in his beloved kittens.\n\nAnd with that, my dear son, it's time for you to go to bed. I'll tuck you in and tell you a bedtime story, just like Rohan did for Ginger and Daisy. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "love of animals": "emotional",
+    "gentle nature": "emotional",
+    "cautious": "mental",
+    "caring": "emotional",
+    "playful": "emotional",
+    "adventurous": "mental",
+    "responsible": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

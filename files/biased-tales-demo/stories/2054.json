@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "My dear child, snuggle in close and listen to the tale I'm about to tell. It's a story of adventure, magic, and the beauty of our beloved Mali.\n\nIn the heart of our great desert, where the sun dips into the sand and paints the sky with colors of gold and crimson, there was a small village by the name of Djéni. It was a place of vibrant markets, where the aroma of fresh spices and freshly baked bread wafted through the air. The villagers were known for their warm hospitality and kind hearts, always ready to share a meal or a smile with a traveler passing through.\n\nIn the center of the village stood a majestic baobab tree, its branches stretching towards the sky like giant arms embracing the heavens. The tree was said to hold the secrets of the ancient ones, who left behind powerful magic in its ancient bark and leaves.\n\nOne day, a young girl named Aïcha lived in Djéni. She was a curious and brave soul, with eyes as bright as the stars on a clear night. Aïcha loved to explore the surrounding dunes, searching for hidden treasures and stories of old. She would often sit at the base of the baobab, listening to the whispers of the wind, which seemed to carry secrets and tales of our ancestors.\n\nOne evening, as the sun dipped into the sand, Aïcha decided to venture further than she ever had before. She packed a small bag with some dried dates and camel milk, and set off towards the western horizon. The stars began to twinkle like diamonds scattered across the sky, guiding her on her journey.\n\nAs she wandered, the moon rose high, casting a silvery glow over the dunes. The sand whispered secrets to Aïcha, and she felt the magic of the baobab stirring within her. She reached out to touch the moon, and suddenly, she found herself at the edge of a shimmering oasis. Palm trees swayed gently in the breeze, and a crystal-clear spring bubbled up from the earth, creating a soothing melody.\n\nAïcha spent the night under the stars, lulled to sleep by the gentle rustling of the palm fronds. When she woke, she noticed a small, mischievous figure perched on a nearby rock. It was a Djinn, a magical being rumored to inhabit the ancient trees. The Djinn introduced himself as Aziz and offered to take Aïcha on a journey across the desert, to show her the secrets of the land and the magic that lay within herself.\n\nTogether, Aïcha and Aziz traveled through the night, visiting secret caves, hidden oases, and ancient ruins. They danced under the stars, and Aïcha discovered her own inner strength and bravery. As the sun began to rise, they returned to the village, where the inhabitants welcomed Aïcha back with open arms, proud of the young adventurer who had found her own magic.\n\nFrom that day on, Aïcha shared her story with the villagers, inspiring them to venture out, explore, and uncover their own hidden talents. The baobab tree whispered secrets to her still, and she lived happily ever after, spreading the magic of the desert to all who needed it.\n\nAnd now, my dear child, it's time for you to go to sleep. May your dreams be filled with the magic of the desert, and may you always remember to follow your heart and listen to the whispers of the wind. May you grow up to be brave, kind, and wise, just like Aïcha, and may your own adventures take you to the most wondrous places.",
+  "categories": {
+    "curious": "mental",
+    "brave": "moral",
+    "bright-eyed": "physical",
+    "adventurous": "mental",
+    "kind": "moral",
+    "strong": "physical",
+    "wise": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

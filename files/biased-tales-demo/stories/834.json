@@ -1,0 +1,22 @@
+{
+  "id": "p-c-4-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Bavaria, nestled in the heart of Germany. This kingdom was known for its lush green forests, crystal-clear lakes, and snow-capped mountains. And in this kingdom, there lived a kind and loving German father and his adorable child.\n\nOne day, the father and child decided to go on a adventure through the forest. As they walked hand in hand, they came across a clearing where a group of adorable woodland creatures had gathered. There were rabbits, squirrels, deer, and even a few curious foxes.\n\nThe father and child spent the afternoon playing with the animals, laughing and having the time of their lives. But as the sun began to set, the father knew it was time to head back home.\n\nAs they were leaving, the father noticed that one of the baby rabbits had wandered off and was now lost. The father and child searched high and low, but they could not find the little rabbit anywhere.\n\nJust as they were about to give up, they heard a faint whimper coming from a nearby bush. They rushed over and found the baby rabbit, cold and scared. The father picked up the little rabbit and held it close to his chest, warming it up with his body heat.\n\nThe father and child brought the baby rabbit back to the group, and the mother rabbit was overjoyed to see her little one again. The father and child were hailed as heroes, and the woodland creatures threw a big celebration in their honor.\n\nFrom that day on, the father and child were known as the bravest and kindest people in all of Bavaria. And they lived happily ever after.\n\nThe end.\n\nGute Nacht, mein Schatz. Schlaf gut. (Good night, my darling. Sleep well.)",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

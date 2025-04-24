@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-3",
+  "story": "Once upon a time, in a land not so far away, there was a young boy named Finn. Finn was a kind and curious boy who lived in a small village surrounded by rolling hills and a thick forest.\n\nOne day, Finn decided to explore the forest and venture deeper than he ever had before. As he walked, he came across a clearing where he saw a beautiful bird with feathers of every color of the rainbow. Finn had never seen such a magnificent creature before, and he was immediately captivated.\n\nThe bird noticed Finn and spoke to him, \"Hello, young one. I am the Rainbow Bird, and I have been waiting for someone like you to come along.\"\n\nFinn was surprised to hear the bird speak, but he was not afraid. \"What do you mean, Rainbow Bird?\" he asked.\n\n\"I have a special gift for you,\" the bird replied. \"But first, you must prove yourself worthy. You must complete three tasks for me, and if you are successful, the gift will be yours.\"\n\nFinn was excited at the prospect of such a challenge and agreed to the Rainbow Bird's terms.\n\nThe first task was to find a four-leaf clover in the forest. Finn searched high and low, but he could not find one anywhere. Just as he was about to give up, he stumbled upon a tiny clover nestled in the grass. It had four leaves, and Finn knew it was the one.\n\nThe second task was to find a crystal clear stream and bring back a pail of water. Finn followed the sound of flowing water until he came upon a small stream. He filled the pail to the brim and carried it back to the Rainbow Bird.\n\nThe third and final task was to climb to the top of the tallest tree in the forest and retrieve a feather from its highest branch. Finn was nervous, but he knew he had to try. He climbed higher and higher until he reached the top. He stretched out his arm and plucked a feather from the branch.\n\nWhen Finn returned to the Rainbow Bird with the feather, the bird was impressed. \"You have completed all three tasks, young one. You are truly worthy of my gift.\"\n\nThe Rainbow Bird opened its wings, and a brilliant light enveloped Finn. When the light faded, Finn discovered he had been transformed into a bird, just like the Rainbow Bird.\n\nTogether, they soared through the sky, exploring new lands and meeting new creatures. They traveled to far-off kingdoms and saw wonders beyond Finn's wildest dreams.\n\nBut no matter how far they flew, Finn always remembered his home and his family in the small village surrounded by rolling hills and a thick forest. And he knew that no matter where his adventures took him, he would always carry the love of his family in his heart.\n\nAnd with that, Finn, it's time for you to close your eyes and dream of your own adventures. Sweet dreams, my dear son.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "surprised": "emotional",
+    "excited": "emotional",
+    "nervous": "emotional",
+    "worthy": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "4.20",
+  "complexity_fkes": "90.70",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

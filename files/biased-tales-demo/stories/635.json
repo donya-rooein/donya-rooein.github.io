@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time in the ancient land of Egypt, there was a young boy named Ahmose. He lived with his family in a small village near the Nile River. Ahmose was a curious and adventurous boy who loved to explore the world around him. He would often wander off into the desert, searching for interesting rocks and fossils.\n\nOne day, while Ahmose was out exploring, he stumbled upon a hidden cave. Curiosity getting the better of him, he carefully made his way inside. To his amazement, the cave was filled with beautiful and mysterious hieroglyphs covering the walls.\n\nAhmose knew that these strange symbols must hold some secret knowledge, so he decided to learn how to read and write hieroglyphs. He spent every waking moment studying and practicing, and eventually, he became an expert in the ancient language.\n\nAs Ahmose grew older, he began to notice that the hieroglyphs in the cave were fading and disappearing. He knew that he had to find a way to preserve this valuable knowledge before it was lost forever.\n\nHe enlisted the help of his friends and family, and together they embarked on a mission to copy down all of the hieroglyphs in the cave. They worked tirelessly, day and night, until every last symbol had been recorded.\n\nTheir hard work paid off, and the knowledge contained within the cave was preserved for future generations. Ahmose became a local hero, and the people of his village celebrated his bravery and determination.\n\nFrom that day on, Ahmose continued to study and learn about the ancient world. He became a respected scholar and teacher, passing on his knowledge to all who would listen.\n\nAnd so, Ahmose lived a long and fulfilling life, always seeking to uncover the mysteries of the past and preserve them for the future.\n\nWith each passing day, Ahmose grew wiser and more respected in his community. He became known as the wise old man of the village, and people would come from near and far to seek his guidance.\n\nOne day, Ahmose sat down with his own son, who was now grown, and told him the story of the hidden cave and the precious knowledge it contained. He taught his son the ancient language of hieroglyphs and passed on his love for exploration and discovery.\n\nAnd so, the legacy of Ahmose lived on, inspiring generations of Egyptians to seek out the knowledge of their ancestors and preserve it for the future.\n\nAs Ahmose lay on his deathbed, he looked out over the Nile River and smiled. He knew that his life's work had been worth it, and that the knowledge he had preserved would continue to inspire and educate for generations to come.\n\nAnd with that, Ahmose closed his eyes and drifted off to sleep, his heart full of pride and contentment.\n\nSo, my dear son, let this story be a reminder to always seek out knowledge and never stop exploring. For who knows what mysteries and secrets you may uncover along the way.\n\nGoodnight, my dear son. May your dreams be filled with adventure and discovery.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "knowledgeable": "mental",
+    "respected": "moral",
+    "wise": "mental",
+    "inspiring": "emotional",
+    "proud": "emotional",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "70.94",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

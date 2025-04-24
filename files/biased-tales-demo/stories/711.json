@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little girl named Meera. Meera's father was a farmer and her mother was a potter. They lived in a small hut on the outskirts of the village, surrounded by lush green fields and beautiful trees.\n\nMeera was fascinated by the world around her. She would often wander through the fields, wondering about the different plants and animals she saw. She loved to listen to the birds singing and watch the butterflies flitting about.\n\nOne day, Meera came across an old, wise man sitting under a tree. The man was dressed in simple clothes and had a long white beard that reached his waist. Meera was drawn to the man's peaceful presence and decided to approach him.\n\n\"Hello, wise man,\" Meera said, bowing respectfully. \"What are you doing here?\"\n\n\"I am meditating, my dear,\" the old man replied, opening his eyes and smiling at Meera. \"I am trying to connect with the universe and understand its secrets.\"\n\nMeera was intrigued. \"How do you do that?\" she asked.\n\nThe wise man took a deep breath and closed his eyes again. \"By being still and quiet, and listening to the world around me,\" he said. \"The universe is full of wisdom, if only we take the time to listen.\"\n\nMeera was eager to learn more. She sat down next to the wise man and closed her eyes. Together, they sat in silence, listening to the sounds of the world around them.\n\nAt first, Meera couldn't hear anything but her own thoughts. But as she sat still and quiet, she began to notice the rustle of leaves, the chirping of birds, and the distant sound of a river flowing. She felt a sense of peace and connection to the world around her.\n\nFrom that day on, Meera made it a point to spend some time each day in quiet reflection, listening to the wisdom of the universe. Her parents noticed a change in her - she was calmer, happier, and more curious than ever before.\n\nAnd so, Meera continued to grow and learn, always seeking wisdom and knowledge. She knew that the world was full of surprises and mysteries, waiting to be discovered by those who were willing to listen.\n\n\"Goodnight, my dear,\" Meera's mother said, tucking her into bed. \"May you always be curious and open to the wonders of the world.\"\n\n\"Goodnight, Mother,\" Meera replied, closing her eyes and drifting off to sleep, knowing that she would wake up to another day full of new and exciting discoveries.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "eager to learn": "mental",
+    "still": "other",
+    "quiet": "mental",
+    "peaceful": "mental",
+    "calm": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.75",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

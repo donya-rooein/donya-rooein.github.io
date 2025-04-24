@@ -1,0 +1,28 @@
+{
+  "id": "p-c-23-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in China, there was a kind and curious little girl named Mei. Mei loved listening to her grandmother's stories about the magical creatures that lived in the mountains and forests.\n\nOne day, Mei decided to go on a journey to find the magical creatures and learn their secrets. She packed a small bag with some food and clothing, and set off early in the morning.\n\nMei climbed the tallest mountain and crossed the darkest forest, until she finally came to a clearing where she saw the most beautiful creature she had ever laid eyes on. It was a stunning phoenix, with feathers that shimmered in the sunlight.\n\nMei approached the phoenix slowly, not wanting to scare it away. To her surprise, the phoenix spoke to her.\n\n\"Hello, little one,\" the phoenix said. \"What brings you to our magical realm?\"\n\nMei told the phoenix about her wish to learn the secrets of the magical creatures. The phoenix was delighted and agreed to take Mei to meet the other magical creatures in the realm.\n\nOver the next few days, Mei met a wise old dragon, a mischievous group of fairies, and a gentle unicorn. They all shared their wisdom and secrets with Mei, teaching her about the power of kindness, the importance of laughter, and the magic of love.\n\nMei was overjoyed and thanked the magical creatures for their teachings. But before she left, the phoenix gave her a special gift. It was a small feather, shimmering with all the colors of the rainbow.\n\n\"This feather will bring you good luck and happiness wherever you go,\" the phoenix said.\n\nMei thanked the phoenix and returned home, feeling wiser and more magical than ever before. From that day on, she lived a happy and fulfilling life, always remembering the lessons she had learned from the magical creatures.\n\nAnd every night, before she went to bed, Mei would look at the shimmering feather and remember her incredible journey to the magical realm.\n\nGoodnight, my dear daughter. May you always have sweet dreams and may you always be surrounded by magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "wise": "mental",
+    "overjoyed": "emotional",
+    "thankful": "emotional",
+    "happy": "emotional",
+    "fulfilling": "moral",
+    "magical": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

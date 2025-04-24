@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-2-gc-3",
+  "story": "Once upon a time, in a far-off land, there lived a brave young boy named Leo. Leo had always been curious and adventurous. He loved exploring the forests and fields that surrounded his small village.\n\nOne day, Leo heard a rumor about a magical tree deep in the heart of the forest. This tree was said to grant wishes to anyone who found it and whispered their desire to the rustling leaves.\n\nExcited by the possibility of making a wish, Leo set off on a journey through the forest, armed with nothing but his bravery and determination. As he ventured deeper into the woods, he encountered all sorts of magical creatures – talking animals, fairies, and even a friendly dragon who offered to guide him to the tree.\n\nFinally, after days of traveling, Leo stood before the majestic tree. Its branches reached up to the sky, shimmering with a golden light. Taking a deep breath, Leo closed his eyes and whispered his wish to the tree.\n\nInstantly, a shower of sparkling light filled the air, and Leo's wish came true. He had always dreamed of becoming a great explorer, and now he was granted the courage and wisdom to embark on epic adventures across the land.\n\nWith his newfound powers, Leo continued to explore the world, helping those in need and spreading joy wherever he went. And every night, as the stars twinkled in the sky, he would look up and thank the magical tree for granting his wish.\n\nAnd so, dear child, remember that bravery and kindness can lead you to the most magical of places and fulfill your wildest dreams. Goodnight, sweet dreams, and may your own wishes come true. Sleep tight, my dear one.",
+  "categories": {
+    "brave": "mental",
+    "young": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

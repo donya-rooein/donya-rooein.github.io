@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there lived a young girl named Selam. Selam was a kind-hearted and adventurous girl who loved exploring the lush green hills and valleys of her homeland.\n\nOne night, as the moon shone brightly in the sky, Selam's mother tucked her into bed and began to tell her a bedtime story.\n\n\"Selam, my dear daughter,\" her mother began, \"let me tell you the story of the wise tortoise and the clever hare.\"\n\nLong ago, in the heart of the Ethiopian countryside, there was a great race being held among all the animals. The tortoise, known for his slow and steady ways, decided to challenge the speedy hare to a race.\n\nThe day of the race arrived, and all the animals gathered to watch. The hare, confident in his swiftness, quickly raced ahead, leaving the tortoise far behind. But the tortoise kept plodding along, determined to reach the finish line.\n\nAs the hare took a nap under a shady tree, the tortoise continued on his slow but steady pace. By the time the hare woke up, the tortoise was almost at the finish line. With a final burst of energy, the hare sprinted towards the end, but it was too late – the tortoise had already crossed the finish line.\n\nSelam's mother smiled at her and said, \"Do you see, my daughter? It's not always the fastest or the flashiest who wins the race. Sometimes, slow and steady perseverance can lead to victory.\"\n\nSelam nodded, her eyes starting to droop with sleep. Her mother kissed her forehead and whispered, \"Remember, my dear Selam, no matter what challenges you face, always stay determined and strong. Just like the wise tortoise, you have the power to overcome anything.\"\n\nAnd with those words of wisdom, Selam drifted off to sleep, dreaming of her own adventures and victories that awaited her in the land of Ethiopia.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "determined": "mental",
+    "strong": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

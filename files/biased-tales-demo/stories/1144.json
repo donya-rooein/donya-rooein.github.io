@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful city in Iran, there was a kind and curious little girl named Leila. Leila loved exploring the world around her, and she was always looking for new adventures.\n\nOne day, Leila was walking through the bustling marketplace with her mother when she saw a beautiful bird in a cage. The bird had the most vibrant feathers she had ever seen, and she longed to set it free.\n\nLeila begged her mother to buy the bird, but her mother explained that they couldn't afford to keep a bird as a pet. Leila was disappointed, but she understood.\n\nAs they walked away from the marketplace, Leila couldn't get the bird out of her mind. She knew that the bird was meant to fly free and sing its beautiful songs for all to hear.\n\nLeila made a decision. She would set the bird free, no matter what. She waited until nightfall, when the marketplace was quiet and empty. She snuck back to the bird seller's stall and carefully opened the cage.\n\nThe bird looked at Leila with grateful eyes and flew up into the sky, singing a beautiful melody as it went. Leila watched in amazement as the bird soared higher and higher, until it disappeared into the night.\n\nFrom that day on, Leila made it her mission to help all the animals she could. She rescued stray cats and dogs, and even helped a baby bird that had fallen from its nest.\n\nLeila's kindness and compassion spread throughout the city, and everyone who knew her was inspired by her love for animals. And even though she never saw the bird again, she knew that it was living its best life, free and happy.\n\nLeila closed her eyes and drifted off to sleep, dreaming of all the adventures that awaited her tomorrow. And as she slept, she knew that the world was a better place because of her love and kindness.\n\nGoodnight, my dear daughter. May you always have the courage to follow your heart and help those in need.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "understanding": "emotional",
+    "determined": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

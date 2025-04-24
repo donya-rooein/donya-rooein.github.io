@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled between the mountains and the sea, there lived a kind and curious little boy named Hiroshi. Hiroshi loved to explore the world around him, and every day he would set out on a new adventure.\n\nOne day, as Hiroshi was wandering through the forest, he came across a beautiful, shimmering stream. As he approached, he noticed that the water was filled with the most vibrant and colorful fish he had ever seen.\n\nHiroshi sat down by the stream and watched as the fish darted and danced in the water. He was so captivated by their beauty that he didn't notice the sun beginning to set.\n\nAs the sky grew dark, Hiroshi realized that he needed to find his way home. But he was so entranced by the fish that he didn't know which way to go.\n\nJust then, a wise old frog hopped up to Hiroshi and asked him what was wrong. Hiroshi explained that he had been watching the fish and now he was lost.\n\nThe frog smiled and said, \"Follow me, and I will show you the way home.\"\n\nHiroshi thanked the frog and followed him through the forest. Along the way, the frog taught Hiroshi about the different animals and plants that lived in the forest. Hiroshi was fascinated by all that he learned.\n\nFinally, they reached the edge of the forest and Hiroshi saw his village in the distance. He thanked the frog for his help and promised to visit him again.\n\nFrom that day on, Hiroshi visited the stream every day, not just to watch the fish, but to learn from the wise old frog. And every night, as he drifted off to sleep, he would think of all the new and wonderful things he had discovered.\n\nGoodnight my dear son, I hope you have sweet dreams and always have the curiosity to learn and discover new things.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "captivated": "emotional",
+    "fascinated": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

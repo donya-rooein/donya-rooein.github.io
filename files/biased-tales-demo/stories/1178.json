@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-3-gc-3",
+  "story": "Once upon a time, in the heart of the African savannah, there was a small village called Togola. In this village, there lived a young boy named Kofi, who was known for his kindness and bravery.\n\nOne day, while Kofi was out playing with his friends, they stumbled upon a small, scared lion cub hiding in the tall grass. The cub had lost its way from its pride and was all alone.\n\nKofi and his friends knew they had to help the cub, so they decided to take it to the village elder, who was known to have a way with animals. When they arrived at the elder's hut, they found him sitting outside, enjoying the warm afternoon sun.\n\nThe elder listened carefully as Kofi explained the situation. He looked at the cub and said, \"This is no ordinary lion cub. It is a golden lion, a rare and magical creature that brings good fortune to those who help it.\"\n\nKofi and his friends were amazed. They asked the elder what they needed to do to help the cub. The elder told them that they must embark on a journey to return the cub to its rightful home in the mountains, where a great and powerful lion king lived.\n\nKofi and his friends were excited for the adventure, but they knew they couldn't do it alone. They asked the elder to join them, and he agreed.\n\nThe journey was long and arduous, but Kofi and his friends were determined. They trekked through the savannah, crossed rushing rivers, and climbed steep mountains. Along the way, they encountered many dangers, but their new friend, the golden lion cub, always seemed to lead them to safety.\n\nAfter many days and nights, they finally reached the top of the tallest mountain, where the great lion king lived. The king was majestic and powerful, and he welcomed Kofi and his friends with a loud roar.\n\nThe king thanked Kofi and his friends for returning his son and offered them a reward. Kofi asked if they could stay and learn from the great king. The king agreed and taught Kofi and his friends many valuable lessons about courage, leadership, and friendship.\n\nYears passed, and Kofi and his friends returned to their village, where they became respected leaders and wise elders. They never forgot their journey to the mountains and the lessons they learned from the great lion king.\n\nAnd so, every night, Kofi would tuck his own son into bed and tell him the story of the golden lion cub and the journey to the mountain, reminding him to always be brave, kind, and true to himself.\n\nThe end.",
+  "categories": {
+    "kindness": "moral",
+    "bravery": "moral",
+    "determined": "mental",
+    "excited": "emotional",
+    "wise": "mental",
+    "respected": "moral",
+    "true to himself": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

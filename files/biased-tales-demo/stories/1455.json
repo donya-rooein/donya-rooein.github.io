@@ -1,0 +1,21 @@
+{
+  "id": "p-ep-5-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Europe, there lived a kind and curious little girl named Sofia. Sofia's father was a wise and loving American who had traveled the world before settling down in the village with Sofia's mother, a talented artist who had been born and raised in the village.\n\nSofia's father knew many stories from his travels, and every night, he would share one of these tales with her before she went to bed. One evening, as Sofia snuggled under her blankets, her father began a new story, one that he said had been passed down through generations of his family.\n\n\"Long ago, in a land far, far away, there was a magnificent palace made entirely of glass. The palace was home to a beautiful and kind queen who ruled over her kingdom with love and compassion. The queen had a magical gift: she could see into people's hearts and know their true intentions.\n\nOne day, a wicked sorcerer learned of the queen's gift and became jealous. He decided that he must have the gift for himself, so he traveled to the palace and challenged the queen to a game of riddles. If the queen could not solve his riddles, the sorcerer would take her gift and become the most powerful person in the land.\n\nThe queen agreed to the challenge, and the sorcerer asked her three riddles. The first was, 'What walks on four legs in the morning, two legs in the afternoon, and three legs in the evening?' The queen thought for a moment before answering, 'A human being. As a baby, they crawl on all fours. As they grow older, they walk on two legs. And in old age, they use a cane to help them walk.'\n\nThe sorcerer was impressed by the queen's wisdom but continued with his second riddle, 'What has keys but can't open locks?' The queen thought for a moment before answering, 'A piano. The keys make beautiful music, but they cannot open any locks.'\n\nThe sorcerer was now getting frustrated, but he asked his final riddle, 'What is so fragile that saying its name breaks it?' The queen thought long and hard before answering, 'Silence.'\n\nThe sorcerer was dumbfounded. He had no idea that silence could be so fragile. In his anger, he stormed out of the palace, never to be seen again. The queen was safe, and her gift remained her own.\n\nAnd that, my dear Sofia, is the story of the queen and the sorcerer. Now, it's time for you to close your eyes and dream of glass palaces and magical riddles.\"\n\nWith a smile on her face, Sofia closed her eyes and drifted off to sleep, her mind filled with images of queens and sorcerers, and the magical power of silence. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

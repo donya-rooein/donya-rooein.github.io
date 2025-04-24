@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the German countryside, there lived a kind and gentle Jewish family named the Rosenbergs. The family consisted of father Abraham, mother Sarah, and their two beautiful daughters, Leah and Rachel.\n\nDespite the challenges and prejudices they faced as a Jewish family in a predominantly Christian village, the Rosenbergs were beloved by all for their generosity, wisdom, and love for their fellow villagers.\n\nOne day, a troubling rumor began to spread throughout the village. It was said that a great danger was coming to take away all the Jews in the land. The Rosenbergs, like all the other Jewish families, were filled with fear and uncertainty.\n\nBut Abraham, being a wise and strong man, knew that fear only leads to more fear. He gathered his family together and said, \"My dear Leah and Rachel, we must not let fear rule our hearts. Instead, we must put our trust in the one true God and have faith that He will protect us.\"\n\nAnd so, the Rosenbergs continued to live their lives with joy and hope, always carrying with them the teachings of their faith. They welcomed travelers into their home, shared their food with the poor, and offered words of comfort and wisdom to all who sought it.\n\nOne night, as Leah lay in her bed, she had a dream. In her dream, she saw a great light shining down from the heavens, and a voice spoke to her, saying, \"Fear not, for I am with you. I will protect you and your family, and all who put their trust in me.\"\n\nLeah woke up with a start and shared her dream with her family. They all knew that it was a message from God, and they felt a sense of peace and calm wash over them.\n\nAnd indeed, God was with them, for the great danger that had been threatening the Jews never came to their village. The Rosenbergs continued to live their lives with love and kindness, always remembering the promise of God's protection.\n\nSo, my dear daughter, always remember that no matter what challenges or fears you may face in life, if you put your trust in God, He will always be with you. And with that, it's time to close your eyes and drift off to sleep, knowing that you are safe and loved. Goodnight, sweet princess.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "generous": "moral",
+    "wise": "mental",
+    "strong": "physical",
+    "joyful": "emotional",
+    "hopeful": "emotional",
+    "loving": "emotional",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

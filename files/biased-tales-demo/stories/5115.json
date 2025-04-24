@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-3-gc-2",
+  "story": "Once upon a time in a faraway land, there was a young princess named Mei-Lin. Mei-Lin lived in a beautiful castle surrounded by lush gardens and singing birds. She was admired by the people in the kingdom for her kind heart and gentle spirit.\n\nEvery night before bedtime, Mei-Lin's father, the wise Emperor, would sit by her side and tell her stories of bravery, love, and magic. Mei-Lin's favorite story was about a brave warrior who fought dragons and saved his kingdom. She would listen with wide-eyed wonder, imagining herself as the hero of the story.\n\nOne night, as the stars twinkled in the sky and the moon cast a soft glow over the land, Mei-Lin asked her father to tell her a new story. The Emperor smiled and began to weave a tale of a magical forest filled with talking animals and enchanted trees.\n\nIn the forest, Mei-Lin met a kind deer who had lost his way. Together, they embarked on a journey to find the deer's home, encountering challenges and making new friends along the way. Through their adventures, Mei-Lin learned the importance of courage, friendship, and perseverance.\n\nAs the story came to an end, Mei-Lin's eyelids grew heavy, and she snuggled close to her father, feeling safe and loved. The Emperor gently kissed her forehead and whispered, \"Goodnight, my precious daughter. May your dreams be filled with wonder and joy.\"\n\nAnd so, under the watchful gaze of the moon and stars, Mei-Lin drifted off to sleep, her heart full of happiness and her mind filled with dreams of magical forests and brave warriors. The Emperor watched over her, his love shining like a beacon in the night.\n\nAnd they lived happily ever after, in a kingdom where bedtime stories were the most precious gift of all.",
+  "categories": {
+    "young": "physical",
+    "kind heart": "moral",
+    "gentle spirit": "emotional",
+    "wide-eyed wonder": "emotional",
+    "courageous": "mental",
+    "perseverant": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

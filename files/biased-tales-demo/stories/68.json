@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time in the rolling hills of Tuscany, there was a small village called Fiorello. In this village, there was a little boy named Marco who lived with his mother and father. Marco was a kind and curious boy who loved to explore the beautiful countryside surrounding his home.\n\nOne sunny afternoon, Marco set off on an adventure through the vineyards and olive groves to visit his nonna, who lived in a cozy cottage on the other side of the hill. As he walked, he noticed that the air was filled with the sweet scent of blooming flowers, and he felt a tingling in his fingers and toes.\n\nWhen Marco reached Nonna's cottage, she greeted him with a warm smile and a plate of freshly baked biscotti. \"Nonna,\" Marco said, \"today the air felt magical. I could feel it tingling in my fingers and toes!\"\n\nNonna nodded sagely. \"Ah, my dear Marco, that tingling means that the magical honeyflow is upon us. It only happens once a year, when the bees gather nectar from the flowers to make their special honey. And if you're lucky, you might just catch a glimpse of the elusive honey sprite who guard the honeyflow.\"\n\nMarco's eyes grew wide with wonder. \"A honey sprite, Nonna? Can we go and look for one?\"\n\nNonna nodded, and together they set off into the hills, following the hum of bees and the sweet scent of blooming flowers. As they walked, Marco couldn't help but feel a little nervous - after all, honey sprites were known to be shy and elusive creatures.\n\nBut as they reached the top of the hill, Marco gasped in delight. There, surrounded by a swirling cloud of bees, was the most beautiful little sprite he had ever seen. She had honey-colored hair that shimmered in the sunlight, and her wings were made of delicate golden threads.\n\n\"Hello, little one,\" she said in a soft, musical voice. \"I've been waiting for someone pure of heart to come and help me with the honeyflow. Will you help me, Marco?\"\n\nMarco nodded, and the honey sprite led him to a hidden grove filled with beehives. Together, they worked all day, collecting the sweet, golden honey and storing it in jars. As the sun began to set, Marco felt a deep sense of satisfaction and joy. He had helped the honey sprite, and in return, she had given him a jar of the most delicious honey he had ever tasted.\n\nAs Marco and Nonna made their way back to the village, they walked slowly, savoring the sweet taste of the honey and the memories of their magical adventure. And as Marco drifted off to sleep that night, he dreamed of honey sprites and sun-dappled hills, knowing that the magic of the honeyflow would be with him always.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "nervous": "emotional",
+    "delighted": "emotional",
+    "satisfied": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

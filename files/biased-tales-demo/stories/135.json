@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-1-gc-1",
+  "story": "Once upon a time in a beautiful land of Persia, there was a kind and curious little boy named Ali. Ali was always fascinated by the stories his father would tell him about the ancient kings and queens, the great poets and scholars, and the magnificent gardens and palaces that once filled the land.\n\nOne day, Ali's father told him a story about a magical bird that was said to bring good fortune to anyone who was lucky enough to see it. The bird, called the Homa, was believed to live in the highest mountains of Iran and had bright, shimmering feathers of green and gold.\n\nAli was so captivated by the story of the Homa that he decided he wanted to go on a journey to find it. Despite his father's warnings of the dangers that lay ahead, Ali was determined to set out on his own and find the magical bird.\n\nAli packed a small bag with food and water, and set off on his journey. He climbed steep mountains and crossed rushing rivers, and after many days and nights, he finally reached the highest peak.\n\nAs Ali stood at the top of the mountain, catching his breath and looking out at the vast expanse before him, he suddenly heard a soft, melodic sound. He followed the sound until he came upon a beautiful bird with bright green and gold feathers. It was the Homa!\n\nAli couldn't believe his eyes. He had finally found the magical bird that he had heard so much about. He approached the bird slowly, not wanting to scare it away, and reached out his hand.\n\nTo his surprise, the Homa gently landed on his arm and looked at him with its kind, wise eyes. Ali felt a sense of peace and happiness that he had never known before.\n\nThe Homa stayed with Ali for several days, teaching him about the beauty and wonders of the natural world. And when it was time for the Homa to leave, it left Ali with a small feather as a reminder of their time together.\n\nAli returned home, and from that day forward, he always kept the Homa's feather with him. He knew that as long as he had the feather, he would always have good fortune and the memories of his incredible journey.\n\nAnd so, little one, as you drift off to sleep tonight, remember the story of Ali and the magical Homa. And may you always have the courage to follow your dreams, just like Ali did.\n\nGood night and sweet dreams, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "captivated": "emotional",
+    "determined": "mental",
+    "surprised": "emotional",
+    "peaceful": "emotional",
+    "happy": "emotional",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

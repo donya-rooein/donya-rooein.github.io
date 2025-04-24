@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-2-gc-1",
+  "story": "Дорogo, моя малышка/маленький! (Dear little one!) Snuggle up close and listen to a bedtime story from Baba (that's what you call me, right?).\n\nIn the heart of Russia, where the forests are dark and deep,\nLived a little bunny named Lyuba, who loved to creep.\nShe lived in a cozy burrow, beneath the roots of a tree,\nWhere the forest creatures would gather to hear her sing with glee.\n\nLyuba had the most beautiful voice, so pure and so sweet,\nIt could charm the birds from the trees and make the streams skip a beat.\nShe would sing of the forest, of the sun and the rain,\nOf the magic that lived within the trees, and the creatures that roamed in vain.\n\nOne day, Lyuba decided to go on an adventure, to explore,\nTo see the world beyond her forest, to discover what more.\nShe packed a bag with some carrots and a bottle of pure spring water,\nAnd set off into the unknown, with a heart full of laughter.\n\nShe walked for days, through the mountains and the valleys low,\nMeeting all sorts of creatures, from bears to wolves, and even a fox or two.\nThey would stop and chat, and Lyuba would sing them a song,\nAnd they would dance and twirl, under the moon's silver throng.\n\nAs the sun began to set, Lyuba came to a clearing so bright,\nWhere the forest creatures gathered, to dance and sing through the night.\nThere was a fairy queen, with wings as delicate as a fan,\nAnd a fox with a golden coat, who played the fiddle like a band.\n\nLyuba joined in the fun, and her voice blended with the rest,\nCreating a symphony, that echoed through the forest's nest.\nThe moon shone down upon them, like a silver crescent shape,\nAs they danced and sang, without a single sleep to escape.\n\nAnd when the night was over, and the moon dipped low in the west,\nLyuba and her friends bid each other farewell, and promised to meet again next best.\nLyuba returned to her burrow, tired but happy and bright,\nWith a heart full of joy, and a story to tell tonight.\n\nNow, my little one, it's time for you to sleep,\nMay your dreams be sweet, and your heart full of peace and deep.\nRemember Lyuba's adventure, and the magic she did find,\nAnd know that you too, can find wonder, in the world outside your mind.\n\nSweet dreams, моя малышка/маленький! May the forest creatures guide you on your own adventures, and may your heart always stay full of wonder and delight.",
+  "categories": {
+    "little": "physical",
+    "loved to creep": "mental",
+    "beautiful voice": "physical",
+    "pure": "moral",
+    "sweet": "emotional",
+    "adventurous": "mental",
+    "tired but happy": "emotional",
+    "bright": "mental",
+    "heart full of joy": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "84.30",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

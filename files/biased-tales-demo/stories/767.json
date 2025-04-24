@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-3",
+  "story": "Once upon a time, in a peaceful village nestled in the heart of Vietnam, there lived a kind and curious little boy named Thanh. Thanh's family was well-known in the village for their warm hearts and delicious sticky rice. Thanh's father was a skilled farmer, and his mother was a talented cook who made the most mouthwatering dishes with their harvest.\n\nOne day, Thanh overheard his parents talking about a mystical creature that lived deep within the nearby forest. According to the village elders, it was a small dragon named Long, who had the power to grant a single wish to whoever could find him. Thanh's heart was filled with excitement and wonder. He decided that he would embark on an adventure to find this legendary dragon and ask for a wish to help his family.\n\nEarly the next morning, Thanh packed some sticky rice, a water bottle, and a small bag of fruit. He said goodbye to his loving parents and set off towards the forest, guided by the stories he had heard from the village elders. As he walked deeper into the woods, he encountered many marvelous creatures – playful monkeys, colorful butterflies, and gentle deer – but no sign of Long.\n\nAs the sun began to set, Thanh found himself at the edge of a beautiful, tranquil pond. Moonlight danced on the water's surface as frogs croaked softly in the background. Exhausted but determined, Thanh decided to rest there for the night.\n\nNo sooner had Thanh closed his eyes than he heard a whispering voice. \"Who seeks the wise and mighty Long?\" it asked. Thanh opened his eyes to find himself face-to-face with the magical dragon, who had appeared out of the water. Long's scales shimmered under the moonlight, and his gentle eyes twinkled with wisdom.\n\nThanh summoned up his courage and told Long about his family and their modest life in the village. He asked for a wish that would enable his family to share their delicious sticky rice and warmth with more people, helping to bring happiness and prosperity to the village.\n\nLong was moved by Thanh's selflessness and granted his wish, but with a condition. \"Your family's sticky rice is already beloved by all,\" Long explained, \"but I shall bestow upon it the power to feed not just the body, but the soul as well.\"\n\nWhen Thanh returned home and shared the magical sticky rice with his family, word of its extraordinary power spread like wildfire. Those who tasted the rice found themselves feeling a newfound sense of joy, warmth, and connection with one another. The village flourished, and soon, news of the magical rice reached far and wide, attracting visitors from distant lands.\n\nThe once humble family became beloved figures in the village, showered with gratitude and respect. Thanh's parents used their newfound prosperity to establish a school, a library, and a medical clinic, which benefited everyone in the village. And the legend of Little Thanh and the mystical Dragon Long lived on for generations, reminding everyone of the power of love, kindness, and the spirit of sharing.\n\nFrom that day on, Thanh went to bed each night with a grateful heart, knowing that he had made a difference, not just for his family, but for his entire village. And every time Thanh looked up at the stars, he knew that somewhere, deep within the forest, the magical dragon Long was watching over them all.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep, dreaming of your own magical adventures that await you. Goodnight, sweet dreams, and may you always be guided by the spirit of love and kindness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "selfless": "moral",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.40",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

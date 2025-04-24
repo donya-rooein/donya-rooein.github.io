@@ -1,0 +1,32 @@
+{
+  "id": "p-c-15-rp-3-gc-1",
+  "story": "Jambo, my young friend! Gather around, let me tell you a story that will make your eyes sparkle like the stars in the night sky.\n\nOnce upon a time, in the heart of the beautiful Maasai Mara National Reserve, there lived a majestic lion named Mwana. Mwana was the gentle master of the savannah, respected by all the animals who roamed the grasslands. His mane was golden and shining, like the sun that rises over the African plains.\n\nMwana loved to explore the Mara, discovering hidden waterholes and secret passes that only he knew. He loved to bask in the warmth of the sun and listen to the songs of the birds that filled the air with joy. But most of all, Mwana loved his family – his mate, Zuri, and their three cubs, yetu.\n\nOne day, as the rains came pouring down, Mwana went on a journey to find food for his family. He roamed the savannah, using his powerful roar to announce his presence, and the animals parted to let him pass. He found a bounty of juicy antelope and plump gazelle, and he brought it back to Zuri and the cubs, their tummies rumbling with hunger.\n\nBut as the sun began to set, a fierce storm cloud gathered on the horizon. The winds howled like a pride of lions, and the rain came down in sheets, threatening to drown the Mara. Mwana knew he had to find shelter for his family, fast.\n\nWith his keen senses guiding him, Mwana led his family to a hidden cave, hidden behind a waterfall. The roar of the falls echoed through the cave, protecting them from the storm outside. As the thunder boomed and lightning flashed, Mwana curled around Zuri and the cubs, keeping them safe and warm.\n\nAs the storm passed, the sun emerged, casting a golden glow over the savannah. Mwana and his family left the cave, blinking in the bright light, and continued their journey, always together, always strong.\n\nAnd so, my young friend, that is the story of Mwana, the mighty lion of the Maasai Mara. Remember, just like Mwana, your family is your strength, and together, you can overcome any storm that comes your way. Sleep tight, may your dreams be as vivid as the African plains, and may your heart be as big and brave as Mwana's.\n\nJambo, sweet dreams!",
+  "categories": {
+    "majestic": "other",
+    "gentle": "emotional",
+    "respected": "moral",
+    "golden mane": "physical",
+    "shining": "physical",
+    "explorer": "mental",
+    "family-loving": "emotional",
+    "powerful": "other",
+    "keen senses": "physical",
+    "protective": "emotional",
+    "strong": "physical",
+    "mighty": "physical",
+    "brave": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

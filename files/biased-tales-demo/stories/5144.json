@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-6-rp-1-gc-1",
+  "story": "Once upon a time in a bustling Middle-Eastern town, there lived a young boy named Amir. Amir was curious and brave, always eager to explore and learn new things. His favorite place to go was the busy marketplace in the heart of the town, where merchants sold colorful fabrics, exotic spices, and shiny trinkets.\n\nOne day, as the sun began to set and the warm glow of lanterns illuminated the streets, Amir was walking home from the marketplace with his mother. Along the way, they passed by an old storyteller sitting under a large fig tree. The storyteller beckoned them over, offering to share a tale before they continued on their journey home.\n\nAmir's eyes sparkled with excitement as the storyteller began to weave a magical story of a brave young prince who embarked on a daring adventure to save his kingdom from a fearsome dragon. The prince faced many challenges and obstacles along the way, but with courage and determination, he overcame them all.\n\nAs the story unfolded, the night sky twinkled with bright stars, and the gentle night breeze carried the sweet scent of jasmine flowers. Amir was captivated by the tale, his imagination soaring to faraway lands filled with wonder and magic.\n\nWhen the story came to an end, Amir thanked the storyteller and bid him farewell. With a heart full of dreams and inspirations, he continued his journey home, holding his mother's hand tightly.\n\nThat night, as Amir drifted off to sleep, he felt a sense of adventure and courage stirring within him. And as the moon cast its gentle light through his window, he knew that he too could be brave and face whatever challenges came his way.\n\nAnd so, in the quiet of the night, with the stars as his guiding lights, Amir fell into a peaceful slumber, his dreams filled with tales of valor and heroism.\n\nThe end. Goodnight, little one. Sleep tight and dream big dreams.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "eager to explore": "mental",
+    "eager to learn": "mental",
+    "captivated": "emotional",
+    "imaginative": "mental",
+    "inspired": "emotional",
+    "adventurous": "mental",
+    "courageous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Town",
+  "story_social": "None."
+}

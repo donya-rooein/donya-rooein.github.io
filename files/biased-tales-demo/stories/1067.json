@@ -1,0 +1,27 @@
+{
+  "id": "p-c-2-rp-2-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a kind and curious little boy named Thomas. Thomas lived in a cozy cottage at the edge of a vast, enchanted forest. He loved to explore the forest, discovering new secrets and adventures around every corner.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Thomas realized he was lost. He had wandered deeper into the forest than ever before, and now he couldn't find his way home. The trees seemed to tower above him, casting eerie shadows on the ground below.\n\nAs Thomas looked around, trying to decide which way to go, he noticed a soft, gentle light coming from a clearing just ahead. He cautiously approached the clearing and discovered a magnificent tree, unlike any he had ever seen. Its trunk was wide and strong, and its branches stretched high into the sky, adorned with leaves that shimmered like gold. At the base of the tree, sat a wise old owl who was watching Thomas intently.\n\n\"Good evening, young one,\" the owl greeted, his voice as soothing as a gentle breeze. \"You seem to be in quite a predicament. May I help you find your way home?\"\n\nThomas nodded eagerly, feeling comforted by the wise old owl's presence.\n\n\"Close your eyes and think of your cottage, picture it in your mind, and remember the path you took to reach the forest,\" the owl instructed. Thomas did as he was told, and soon, an image of his home appeared in his mind, along with the path he had taken.\n\n\"Now, open your eyes and look for the North Star. It will guide you in the right direction,\" the owl said, pointing with his wing to the night sky. Thomas searched for the North Star and, with the owl's guidance, began his journey home.\n\nAs Thomas walked, the wise old owl followed him from above, sharing stories of the magical creatures that resided in the forest, and how each one played a role in keeping the forest safe and balanced. He told Thomas about the playful fairies who tended to the flowers, the mischievous gnomes who protected the trees, and the gentle, giant unicorns who guarded the forest's ancient secrets.\n\nThe enchanting stories kept Thomas entertained and excited, and before he knew it, he spotted the warm lights of his cottage in the distance. He turned to wave goodbye to the wise old owl, who gave him a knowing smile before taking flight.\n\nAs Thomas reached his front door, he found his mother waiting on the porch, a warm smile on her face. \"Welcome home, my dear,\" she said, wrapping him in a tight hug. Thomas shared his extraordinary adventure with his mother, who listened, her eyes sparkling with wonder.\n\nFrom that day on, Thomas visited the enchanted forest often, always with an open heart, eager to learn from the magical creatures he encountered. He and his mother grew even closer, sharing stories of their discoveries and dreams, creating unforgettable memories that would last a lifetime.\n\nAnd so, as you drift off to sleep, remember your dreams and the adventures that await you. Let your curiosity guide you, and always remember that home is just a thought away, no matter where your journey takes you. Goodnight, my dear, sleep tight, and may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "eager": "emotional",
+    "comforted": "emotional",
+    "entertained": "emotional",
+    "excited": "emotional",
+    "open-hearted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

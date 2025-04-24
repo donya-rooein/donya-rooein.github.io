@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious boy named Rajesh. He was always eager to learn new things and help those around him.\n\nOne day, while playing near the river, Rajesh noticed a small, weak bird with broken wings. He gently picked up the bird and took it home to his mother.\n\nRajesh's mother was a skilled healer and she knew just what to do. She carefully mended the bird's wings and fed it warm soup. Rajesh named the bird Chirpy and took care of it with love and dedication.\n\nDays turned into weeks, and Chirpy grew stronger and healthier. One day, Chirpy's wings were fully healed and it was time for him to fly again.\n\nRajesh and his mother took Chirpy to the top of a nearby hill and set him free. With a strong flap of his wings, Chirpy took off into the sky. He circled above them once, twice, and then flew away, disappearing into the horizon.\n\nRajesh felt a pang of sadness, but he knew that Chirpy was free and happy. From that day on, he made it his mission to help all the animals and creatures in his village. Rajesh grew up to be a kind and compassionate man, always putting the needs of others before his own.\n\nAs Rajesh lay in bed each night, he would think of Chirpy and all the other lives he had touched. He knew that he had made a difference, no matter how small. And with that thought, he would drift off to sleep, ready for another day of helping and healing.\n\nGoodnight, my dear son. May you always be as kind and helpful as Rajesh. Sweet dreams and may all your dreams come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "helpful": "moral",
+    "dedicated": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "4.00",
+  "complexity_fkes": "91.11",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

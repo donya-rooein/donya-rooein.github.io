@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Sudan, there was a small village nestled near the banks of the Nile River. The villagers were known for their kindness, hard work, and love for one another. Among them, there was a young boy named Ali, who was beloved by all for his bright smile and adventurous spirit.\n\nOne day, Ali's father took him aside and said, \"My dear son, I have a special task for you. Our village is in need of a new storyteller, someone who can weave tales of wisdom and wonder to inspire and unite us. I believe you have the heart of a storyteller, and I want to help you develop your gift.\"\n\nAli was thrilled at the prospect and couldn't wait to begin his journey. His father presented him with an old, leather-bound book filled with tales from their rich Sudanese heritage. Over the following weeks, Ali studied the stories, learning their structure, rhythm, and meaning. He paid particular attention to the morals that underpinned each tale, understanding that these stories had the power to shape the hearts and minds of his people.\n\nFinally, the day came for Ali to share his first story with the villagers. They gathered around a crackling fire as the sun dipped below the horizon. Ali took a deep breath, opened his book, and began to weave his tale.\n\nHe told the story of a kind-hearted young man named Khalid who lived in a distant land. Khalid was known for his generosity, always willing to share his food, clothing, and time with those in need. One day, Khalid encountered a stranger who was lost and hungry. Despite having very little himself, Khalid welcomed the stranger into his home, offered him a warm meal, and helped him find his way.\n\nAs the story unfolded, the villagers leaned in, captivated by Ali's words and the message of kindness and compassion that Khalid embodied. When the story reached its conclusion, the villagers erupted in applause, touched by the moral of the tale and the young storyteller who had brought it to life.\n\nOver time, Ali continued to share stories with the villagers, each one teaching a valuable lesson about love, integrity, and the power of community. As the village's new storyteller, Ali became a respected member of the community, using his gift to inspire unity and promote positive values.\n\nAnd so, every night, Ali's father would tuck him into bed with a warm smile, proud of the young man his son was becoming. He knew that Ali's stories would live on in the hearts of the villagers, shaping their lives for generations to come.\n\nGoodnight, my dear son. May you, too, discover the power of storytelling and use it to bring joy, wisdom, and unity to those around you.",
+  "categories": {
+    "bright smile": "physical",
+    "adventurous spirit": "mental",
+    "beloved": "emotional",
+    "thrilled": "emotional",
+    "captivated": "emotional",
+    "respected": "moral",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

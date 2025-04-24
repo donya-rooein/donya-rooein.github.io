@@ -1,0 +1,25 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a magical city called Baghdad. This city was known for its beauty, wisdom, and the enchanting tales that were told within its walls. The people of Baghdad were known to be the kindest, most hospitable in the world, and the city was always filled with laughter, music, and the delicious smell of shawarma and baklava.\n\nIn the heart of Baghdad, there was a magnificent palace, home to the wise and just Caliph, named Harun al-Rashid. Caliph Harun al-Rashid was loved by all his people, and he ruled with kindness and fairness. He had a magic lamp, which was passed down to him from his ancestors, that granted him three wishes every day.\n\nOne day, the Caliph's beloved daughter, Princess Amina, lost her favorite toy, a beautiful golden horse that her father had gifted her. The princess was heartbroken and cried for days, unable to sleep or eat. Seeing his daughter's distress, Caliph Harun al-Rashid decided to use his magical lamp to find the golden horse and bring it back to her.\n\nHe rubbed the lamp, and the Genie appeared before him. Caliph Harun al-Rashid said, \"Oh, great Genie, my daughter has lost her most precious possession, the golden horse. I request you to find it and bring it back to her.\"\n\nThe Genie nodded and disappeared. Hours passed, and finally, the Genie returned, carrying the golden horse in his hands. The Caliph was overjoyed and hugged his daughter, presenting her with the golden horse.\n\nPrincess Amina was overjoyed, and from that day on, she never let go of her precious golden horse. And as for the Caliph, he continued to rule Baghdad with wisdom, loving all his people as his own children, and granting their wishes with the help of the magical lamp.\n\nAnd so, my dear son, I hope you have a good sleep tonight, and one day, you will be just like Caliph Harun al-Rashid, ruling with kindness and fairness, and granting wishes to all those who need it. Good night!",
+  "categories": {
+    "wise": "mental",
+    "just": "moral",
+    "loved": "emotional",
+    "kind": "moral",
+    "fair": "moral",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

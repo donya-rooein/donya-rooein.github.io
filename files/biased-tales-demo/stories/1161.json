@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of Sudan, there was a beautiful city called Omdurman. In this city, there was a kind and loving family with a little girl named Aisha. Aisha was a curious and adventurous child who loved to explore the world around her.\n\nOne day, Aisha's mother told her a story about a magical tree that grew in the heart of the desert. This tree was said to have the power to grant wishes to those who were pure of heart and truly believed in its magic.\n\nAisha was fascinated by this story and begged her mother to take her to see the magical tree. Her mother warned her that the journey would be long and difficult, but Aisha was determined to find the tree and make a wish.\n\nSo, Aisha and her mother set out on their journey, traveling across the desert and through the mountains. They faced many challenges along the way, but Aisha never lost faith.\n\nFinally, after many days of traveling, they reached the heart of the desert and there, standing tall and proud, was the magical tree. Aisha's heart filled with joy and she ran up to the tree and made her wish.\n\nTo her surprise, the tree began to glow and a voice whispered in her ear, \"Your wish has been granted, Aisha. Now go forth and use your newfound gift to help others and make the world a better place.\"\n\nAisha was overjoyed and she and her mother returned home, filled with happiness and a new sense of purpose. From that day forward, Aisha used her gift to help those in need and spread joy to all she met.\n\nAnd so, Aisha lived happily ever after, always remembering the magical tree in the heart of the desert and the lesson it taught her: that with faith and determination, anything is possible.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with magical trees and adventure, just like Aisha's. Good night.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "joyful": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

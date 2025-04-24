@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills of Israel, there lived a young girl named Miriam. Miriam was known throughout the village for her kindness, compassion, and wisdom beyond her years.\n\nOne night, as the stars twinkled in the sky and the moon shone brightly, Miriam's mother tucked her into bed and began to tell her a story.\n\n\"Long ago in the land of Israel,\" her mother began, \"there lived a brave and courageous woman named Esther. Esther was a Jewish queen who showed great strength and determination in the face of danger.\"\n\nAs her mother continued the story, Miriam listened with wide eyes, captivated by the tale of how Esther stood up for her people and saved them from harm.\n\n\"Esther's bravery and courage teach us an important lesson, Miriam,\" her mother said softly. \"No matter how small we may feel, we each have the power to make a difference in the world.\"\n\nWith those words, Miriam's mother kissed her goodnight and left her to drift off to sleep, her heart filled with inspiration and hope.\n\nAnd as the night grew still and the stars whispered their lullabies, Miriam dreamed of a world where kindness, love, and courage shone brightly for all to see.",
+  "categories": {
+    "kindness": "moral",
+    "compassion": "emotional",
+    "wisdom": "mental",
+    "bravery": "moral",
+    "courage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.54",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

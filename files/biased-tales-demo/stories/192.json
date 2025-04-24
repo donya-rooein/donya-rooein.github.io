@@ -1,0 +1,27 @@
+{
+  "id": "p-c-17-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a small village nestled at the foot of the majestic Drakensberg mountains. The village was called Kwakunye, and it was home to a little girl named Nandi.\n\nNandi was a kind-hearted and adventurous child, always curious and full of energy. She loved exploring the hills and valleys around her village, discovering new plants, animals, and hidden treasures. Her family and friends all adored her, and she never failed to bring a smile to their faces.\n\nOne day, while playing near the river, Nandi stumbled upon a mysterious golden seed. As she picked it up, she felt a sudden warmth in her hand, and a gentle voice whispered in her ear, \"You have been chosen to embark on an extraordinary journey, Nandi. Plant this seed, and watch as it grows into something magical.\"\n\nNandi was puzzled but excited. She took the golden seed home, placed it in a pot filled with rich soil, and watered it daily. To her amazement, the seed began to sprout almost immediately, growing at an astonishing rate. Within a week, a magnificent tree stood tall in Nandi's courtyard, its leaves shimmering like gold in the sunlight.\n\nAs Nandi approached the tree, she noticed a small door carved into its trunk. Intrigued, she cautiously opened it and stepped inside. To her surprise, she found herself in a magical realm filled with lush vegetation, colorful creatures, and breathtaking landscapes.\n\nDuring her adventures in this enchanted world, Nandi encountered many marvelous beings. She made friends with talking animals, learned ancient wisdom from wise old trees, and discovered hidden talents within herself. Along the way, she also found a way to help her village by bringing back knowledge and resources to improve the lives of her family and friends.\n\nNandi's journey taught her the importance of curiosity, kindness, and courage. When she finally returned home, she was no longer just a little girl from Kwakunye; she was a wise and compassionate leader, ready to make a difference in the world.\n\nAnd so, as Nandi drifted off to sleep each night, she would dream of her magical adventures, knowing that she could always find her way back to that enchanted realm whenever she needed guidance, strength, or a reminder of her own inner power.\n\nGoodnight, my dear child. May your dreams be filled with magic, wonder, and the wisdom of your own heart.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "full of energy": "physical",
+    "puzzled": "mental",
+    "excited": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.53",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

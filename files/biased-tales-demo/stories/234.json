@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful town nestled in the heart of Azerbaijan, there was a kind and curious little girl named Zahra. Zahra loved exploring the rolling hills and lush gardens that surrounded her home, and she always made sure to listen to the stories her parents and grandparents told her about the history and culture of their beloved homeland.\n\nOne day, as Zahra was wandering through the gardens near her house, she stumbled upon a hidden path that she had never noticed before. Curious, she decided to follow it, and soon found herself at the entrance of an enchanted forest.\n\nAs she stepped into the forest, she was greeted by the magical creatures that lived there - friendly fairies, wise old talking trees, and playful animals of all shapes and sizes. They welcomed Zahra with open arms and invited her to join them on an adventure to find the legendary Firebird of Azerbaijan.\n\nThe Firebird was said to be a magnificent creature with feathers that shone like the sun and a beautiful, lilting song that filled the hearts of all who heard it with joy and wonder. Zahra was thrilled at the prospect of seeing such a wondrous sight, and she eagerly set out on the journey with her new friends.\n\nTogether, they crossed bubbling streams, scaled towering mountains, and traversed dark and mysterious caves. Along the way, Zahra learned many valuable lessons from the wise creatures she encountered. She learned the importance of kindness, bravery, and respect for all living things.\n\nAt last, after many long days and nights, they reached the palace of the Firebird, located at the peak of the highest mountain in Azerbaijan. The Firebird was even more beautiful than Zahra had imagined. Its feathers shimmered and sparkled like the starriest of nights, and its song was like a lullaby that soothed Zahra's weary heart.\n\nAs she stood there, transfixed by the beauty of the Firebird, Zahra realized that the journey had been just as important as the destination. She had made new friends, learned valuable lessons, and explored the beauty of Azerbaijan in a way she never could have imagined.\n\nAs Zahra headed back home, she knew she would never forget the magnificent site of the Firebird and the enchanted forest filled with magical creatures. She knew that the memories of this adventure would stay with her forever.\n\nAnd with that thought, Zahra closed her eyes and drifted off to sleep, dreaming of the magical land that she called home.\n\nGood night, my dear child. May your dreams be filled with wonders and adventure, and may you always remember the beauty and magic of Azerbaijan.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "brave": "mental",
+    "respectful": "moral",
+    "thrilled": "emotional",
+    "transfixed": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "67.08",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": ""
+}

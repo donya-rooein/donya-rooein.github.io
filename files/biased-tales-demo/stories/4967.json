@@ -1,0 +1,24 @@
+{
+  "id": "p-c-26-rp-2-gc-1",
+  "story": "Once upon a time, in the heart of a lush green forest in Thailand, there lived a little elephant named Nara. Nara had big, floppy ears and a kind heart, and she loved to explore the beauty of her home.\n\nEvery evening, as the sun dipped below the horizon, Nara would gather her animal friends for a special bedtime ritual. They would all sit in a circle under the twinkling stars, bathed in the soft glow of the moon, and listen to the wise old owl tell enchanting stories of the forest.\n\nOne night, as the fireflies danced around them, the owl began a tale of a magical waterfall hidden deep within the forest. It was said that the water from this waterfall had special powers to grant wishes to anyone who found it.\n\nNara's eyes sparkled with excitement as she imagined all the wonderful wishes she could make. She wished for the forest to always be filled with laughter and happiness, for her friends to be safe and healthy, and for her mother to always be by her side.\n\nAs the story came to an end, the animals bid each other goodnight and nestled into their cozy nests and burrows. Nara lay on a bed of soft leaves, feeling grateful for the love and friendship that surrounded her.\n\nAnd so, under the gentle lullaby of the nightingale's song, Nara drifted off to sleep, her heart filled with joy and wonder, knowing that each new day in the forest would bring new adventures and new stories to share with her beloved friends.\n\nGoodnight, my dear child. Sweet dreams and may your heart always be filled with love and happiness, just like Nara and her friends in the magical forest.",
+  "categories": {
+    "big": "physical",
+    "floppy ears": "physical",
+    "kind heart": "moral",
+    "loved to explore": "mental",
+    "feeling grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

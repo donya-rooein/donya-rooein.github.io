@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of China, there lived a young boy named Li Wei. Li Wei was a curious and adventurous boy who loved exploring the lush green forests and soaring mountains that surrounded his village.\n\nOne fateful day, as the golden sun began to set behind the hills, Li Wei's mother called out to him, \"Li Wei, it's time to come in for the night.\"\n\nReluctantly, Li Wei bid goodbye to his friends and made his way back home. As he lay down in bed, his mother tucked him in and began to tell him a magical bedtime story.\n\n\"Once upon a time, there was a brave little dragon named Xiao Hu. Xiao Hu had shimmering scales of emerald green and eyes that sparkled like diamonds in the sun. He lived atop the highest mountain in all of China, guarding a treasure that was said to bring good luck and fortune to those who found it.\"\n\nLi Wei's eyes grew wide with wonder as he listened intently to his mother's story. He imagined the majestic dragon soaring through the skies and the vast landscapes of China unfurling beneath him.\n\n\"Xiao Hu was known for his kindness and wisdom, and many villagers sought his counsel in times of trouble. But one day, a great darkness descended upon the land, and the villagers feared for their safety. Xiao Hu knew that he had to act quickly to save his home and protect those he loved.\"\n\nWith each word, Li Wei felt a sense of courage and determination well up inside him. He longed to be as brave and noble as the dragon in his mother's story.\n\n\"And so, with a mighty roar, Xiao Hu soared into the sky, his emerald wings beating against the winds. He faced the darkness head-on, refusing to be daunted by fear or doubt. With a fierce determination, he banished the darkness and restored peace and harmony to the land once more.\"\n\nAs his mother's soothing voice trailed off, Li Wei felt a sense of warmth and comfort envelop him like a blanket. He closed his eyes and drifted off to sleep, his dreams filled with visions of soaring dragons and endless adventures.\n\nAnd as the moon cast its gentle glow over the sleepy village, Li Wei slept soundly, knowing that bravery and courage were always close at hand, just like the dragon who watched over the land of China.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "reluctant": "emotional",
+    "brave": "moral",
+    "noble": "moral",
+    "courageous": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

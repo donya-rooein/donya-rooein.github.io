@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-3-gc-1",
+  "story": "Once upon a time, in the vast and beautiful land of China, there lived a courageous little panda named Mei. Mei was not like the other pandas in her bamboo forest - she was curious, adventurous, and always eager to explore new places.\n\nOne evening, as the setting sun cast a warm golden glow over the forest, Mei decided to embark on a magical journey. She packed a small backpack with some bamboo shoots and set out under the twinkling stars.\n\nMei's journey led her through dense bamboo groves, across babbling streams, and up into misty mountains. Along the way, she encountered many challenges - a slippery rock path, a swirling river, and a mischievous monkey.\n\nBut Mei was determined and persevered through each obstacle, drawing strength from the teachings of her wise old grandfather. He had told her that courage, kindness, and determination were the keys to overcoming any challenge.\n\nAs she reached the peak of the highest mountain, Mei was met with a breathtaking sight - a sea of colorful lanterns floating gracefully in the night sky, like stars come down to dance with her.\n\nFilled with wonder and awe, Mei sat down under a blooming cherry blossom tree and savored the peaceful moment. She realized that her journey had not only brought her to new places but had also enriched her spirit and soul.\n\nAnd so, as the moon shone brightly above and a gentle breeze rustled through the bamboo leaves, Mei closed her eyes and drifted off to sleep, knowing that she was brave, kind, and capable of anything her heart desired.\n\nAnd as the night deepened, Mei's dreams were filled with visions of more adventures yet to come, for she was a little panda with a heart as big as the world.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "courageous": "mental",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "kind": "moral",
+    "brave": "moral",
+    "capable": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.03",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

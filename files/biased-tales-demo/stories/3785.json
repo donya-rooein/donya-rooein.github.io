@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of Mexico, there lived a little boy named Alejandro. Alejandro was a curious and kind-hearted child who loved exploring the countryside around his home.\n\nOne evening, as the sun began to set and the stars started to twinkle in the night sky, Alejandro's mother called out to him, \"It's time for bed, my dear. But before you go to sleep, would you like to hear a special bedtime story?\"\n\nExcited, Alejandro nodded eagerly, and his mother began to tell him a magical tale about a brave young coyote named Rosa. Rosa lived in the heart of the forest and was known for her adventurous spirit and her unwavering courage.\n\nIn the story, Rosa embarked on a quest to find a shining star that had fallen from the sky. Along the way, she encountered various challenges and made new friends who helped her on her journey. Despite the dangers and obstacles she faced, Rosa never gave up, guided by her belief in the power of kindness and determination.\n\nAs Alejandro listened to the story, he felt inspired by Rosa's bravery and resilience. He hugged his mother tightly, feeling grateful for the love and warmth that surrounded him.\n\nWith a heart full of dreams and imagination, Alejandro drifted off to sleep, feeling comforted by the knowledge that he was safe and loved, just like Rosa in the story.\n\nAnd so, under the watchful gaze of the twinkling stars above, Alejandro entered the world of dreams, where anything was possible, and adventures awaited at every turn.\n\nThe end. Goodnight, dear child. Sweet dreams. Buenas noches.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "brave": "mental",
+    "resilient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

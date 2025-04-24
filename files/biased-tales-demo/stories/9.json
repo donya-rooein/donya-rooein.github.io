@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wondrous creatures. In this forest lived a kind and gentle creature named Wally the Wise Wisewock. Wally was a wisewock, which is a creature that looks a bit like a wise old owl, but with the body of a bear and the tail of a fox.\n\nWally was known throughout the forest for his wisdom and kindness, and all the creatures in the forest would come to him for advice and help. Wally was always happy to help, and he would listen carefully to each and every creature that came to him.\n\nOne day, a small bird named Chirpy came to see Wally. Chirpy was feeling very sad because she couldn't fly. She had tried and tried, but no matter how hard she flapped her wings, she just couldn't get off the ground.\n\nWally listened carefully to Chirpy's problem and thought for a moment. Then, he had an idea.\n\n\"Chirpy,\" he said, \"I think I know a way to help you fly. But first, you need to do something for me. Can you gather all the flowers in the forest and bring them to me?\"\n\nChirpy was a little skeptical, but she was also very determined to learn how to fly, so she agreed. She flew all over the forest, gathering every flower she could find. It took her all day, but she finally had a huge pile of flowers.\n\nWally took the flowers and mashed them up, making a big, colorful mess. Then, he took some of the mashed up flowers and smeared them on Chirpy's wings.\n\n\"Now, Chirpy,\" he said, \"flap your wings as hard as you can.\"\n\nChirpy did as she was told, and to her amazement, she found herself soaring through the air. She couldn't believe it! She flew and flew, feeling free and happy.\n\nWally smiled as he watched Chirpy fly. \"You see, Chirpy,\" he said, \"the flowers have magical properties. When mixed together and applied to your wings, they give you the power of flight. But remember, the most important thing is not the flowers, but your determination to learn and grow. Never give up on your dreams, my dear.\"\n\nChirpy thanked Wally for his help and flew off, feeling grateful and happy. From then on, she would visit Wally every now and then, and he would always have some words of wisdom to share.\n\nAnd as for Wally, he continued to live in the magical forest, always ready to lend a helping hand to any creature in need.\n\nSo, my dear child, remember that just like Chirpy, with determination, hard work, and a little bit of magic, you too can make your dreams come true. Good night and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "helpful": "moral",
+    "listens carefully": "mental",
+    "happy to help": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.04",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

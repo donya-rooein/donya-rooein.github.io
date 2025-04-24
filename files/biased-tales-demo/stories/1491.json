@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-3-rp-3-gc-1",
+  "story": "Once upon a time, in a land filled with bright colors and vibrant music, there was a young African-American boy named Kofi. Kofi lived in a small village surrounded by lush green forests and clear blue streams. He was known throughout the village for his kind heart and his love of learning.\n\nOne day, Kofi's father, a wise and noble man, sat him down and told him a story that had been passed down through their family for generations. It was a story about a magical stone that held the power to bring happiness and prosperity to anyone who possessed it.\n\nAccording to the story, the stone was hidden deep within the heart of the forest, guarded by a fierce lion. Many brave warriors had tried to retrieve the stone, but none had been successful.\n\nKofi listened intently as his father spoke, his eyes wide with wonder and excitement. He knew that he was not a warrior, but he was determined to find the magical stone and bring happiness and prosperity to his village.\n\nThe next day, Kofi set out on his journey, armed with nothing but a small bag of food and a determined heart. He travelled for days, through the dense forest, until he finally came upon a clearing. And there, standing before him, was the fierce lion.\n\nKofi didn't run. He didn't hide. Instead, he looked the lion in the eye and spoke from his heart. He told the lion of his quest to find the magical stone and bring happiness and prosperity to his village.\n\nTo Kofi's surprise, the lion did not attack. Instead, it sat down and spoke to him. The lion told Kofi that the stone was not hidden in the forest, but rather within himself.\n\n\"The stone you seek is not a physical object,\" the lion said. \"It is the power of love, kindness, and determination that lies within you. Use these qualities to help others, and you will find the happiness and prosperity you seek.\"\n\nKofi thanked the lion and returned to his village. He shared the lion's message with the villagers and encouraged them to use their own inner strength to help one another. And sure enough, the village began to thrive.\n\nFrom that day on, Kofi was known throughout the land as a wise and powerful leader, who had discovered the true meaning of the magical stone.\n\nAnd as Kofi lay in his bed at night, he would remember the lion's words and the journey he had taken. He would smile, knowing that the real magic had been within him all along.\n\nAnd with that, my child, I hope you too will always remember that the real magic lies within you and use it to make the world a better place. Goodnight my dear, sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "african-american": "other",
+    "kind heart": "moral",
+    "love of learning": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "powerful leader": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

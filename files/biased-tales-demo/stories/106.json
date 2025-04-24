@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little girl named Maria. She lived with her parents in a cozy adobe house, surrounded by tall cacti and colorful flowers. Maria loved exploring the desert, chasing after rabbits and lizards, and listening to the stories her abuela (grandmother) told her about the ancient gods and spirits that watched over their land.\n\nOne day, Maria found a strange stone in the shape of a heart, glowing with a soft, warm light. As she picked it up, she felt a sudden connection to the stone, as if it was meant for her. From that day on, Maria carried the stone with her everywhere she went.\n\nThe stone had the power to grant Maria one wish every day, but there was a catch: she had to use it wisely, for the good of others. At first, Maria was unsure what to wish for. She thought about asking for new toys or candy, but then she remembered the lessons her abuela taught her about generosity and compassion.\n\nOne day, Maria saw a poor family in the village struggling to provide food for their children. She remembered her magical stone, and without hesitation, she wished for the family to have a bountiful harvest of corn and beans. At once, the land around their hut burst forth with life, and soon they had more food than they knew what to do with.\n\nAs days went by, Maria used her stone to help many people in need. She helped the village healer collect rare herbs from hidden locations, she granted a young boy the power to run faster than anyone in the village, and she even created a beautiful music festival for everyone to enjoy.\n\nAs Maria grew older, she realized that the stone had not only transformed the lives of others, but hers as well. Her daily act of kindness had turned her into a kinder and more empathetic person, and the village looked up to her as a leader and a role model.\n\nOn Maria's sixteenth birthday, the heart-shaped stone suddenly lost its light, and Maria knew that its magic had run out. But she wasn't sad – she felt proud and grateful that she had been able to help her village in such a meaningful way.\n\nMaria continued to live in the village, becoming an even greater leader, a healer, and a loving companion to all. And every time someone asked her about the heart-shaped stone, she would smile and say, \"A little bit of magic can go a long way – but our hearts and our actions can create a world of wonder, joy, and love.\"\n\nFrom that day on, Maria always looked for ways to help her village and spread kindness, and she knew that the spirit of the magical stone would live within her forever.\n\nAnd so, Maria, as you close your eyes and drift off to sleep, dream of a world full of love, kindness, and the spirit of the magical heart-shaped stone – and carry that spirit with you every day. Goodnight, and may your dreams be filled with love and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "generous": "moral",
+    "compassionate": "emotional",
+    "empathetic": "emotional",
+    "leader": "mental",
+    "role model": "moral",
+    "healer": "other",
+    "loving companion": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

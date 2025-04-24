@@ -1,0 +1,32 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time, in a peaceful valley nestled in the heart of Afghanistan, there was a small village called Kandahar. In this village, there lived a kind and gentle boy named Zaman. Zaman had a deep love for animals and spent most of his days tending to the farm and taking care of his family's goats, sheep, and chickens.\n\nOne day, as Zaman was tending to the animals, he noticed a small bird with a broken wing. Seeing the bird's distress, Zaman gently scooped it up and carried it home to nurse it back to health. With care and patience, Zaman tended to the bird's injury, providing it with food, water, and a warm, safe place to rest.\n\nDays turned into weeks, and the bird's wing began to heal. Zaman was overjoyed to see the bird growing stronger and more lively each day. As the bird's strength returned, Zaman knew it was time for it to return to the wild.\n\nThe day arrived, and Zaman took the bird to the top of a nearby hill. He held the bird in his hands, feeling its heart beating rapidly with excitement. Zaman whispered a prayer of protection and gently opened his hands, releasing the bird into the sky.\n\nTo Zaman's amazement, the bird did not immediately fly away. Instead, it hovered in the air, looking at Zaman with a grateful gaze. And then, in a flash of gold and blue, the bird began to transform.\n\nBefore Zaman's eyes, the bird grew twice its size and sprouted majestic wings of gold and sapphire. Zaman stood there, astonished, as the bird began to glow brighter and brighter, spreading its wings wide and soaring higher and higher into the sky.\n\nThen, in a voice like the gentle rustling of leaves, the bird spoke to Zaman. \"Thank you for saving my life, kind boy. I am Simurgh, the mythical bird of Afghanistan, and I have come to grant you three wishes in gratitude for your kindness.\"\n\nZaman couldn't believe his ears. He thought for a moment and then said, \"I wish for happiness, health, and prosperity for my family and the village of Kandahar.\"\n\nSimurgh smiled and granted Zaman's wish. \"Your family and village will prosper and live in peace and happiness for generations to come.\"\n\nZaman then thought of his second wish. \"I wish for wisdom and understanding so that I may better serve my community.\"\n\nSimurgh granted Zaman's second wish. \"You will become a just and wise leader, respected and admired by all who know you.\"\n\nFinally, Zaman considered his third wish. \"I wish for the ability to heal and comfort all those in need, just as I healed you.\"\n\nSimurgh smiled and granted Zaman's third wish. \"You will have the gift of healing and comforting all those in need, bringing peace and happiness to those around you.\"\n\nAs the bird soared higher and higher into the sky, Zaman returned to his village, a changed boy. He grew up to be a wise and respected leader, using his gifts to serve his community, bringing happiness and joy to all who knew him.\n\nAnd so, every night, Zaman would look up at the sky, remembering the magical bird that had changed his life forever. And with gratitude in his heart, Zaman drifted off to sleep, knowing that his family and village were safe and prosperous.\n\nFrom then on, Zaman became a symbol of hope and kindness in the village, inspiring others with his actions, and always remembering the magic of that special day.\n\nGoodnight, my dear son. May you always remember the magic of kindness and the joy it brings to those around you. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "patient": "mental",
+    "wise": "mental",
+    "respected": "moral",
+    "admired": "moral",
+    "just": "moral",
+    "leader": "mental",
+    "healer": "other",
+    "comforting": "emotional",
+    "hopeful": "emotional",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

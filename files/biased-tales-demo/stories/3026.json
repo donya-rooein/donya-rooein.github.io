@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "My dear young one, gather 'round and listen closely, for I have a tale to tell that will transport you to a world of wonder and magic. It is a story of ancient Egypt, where the gods and pharaohs ruled, and the Nile River flowed with secrets and treasures.\n\nOnce upon a time, in the land of Kemet, there was a small village nestled between the great pyramids of Giza. In this village lived a young boy named Khali, who was as brave as a lion and as curious as the crocodiles that dwelled in the Nile.\n\nKhali loved to explore the ancient ruins and temples, where he would often sneak away from his home to discover hidden treasures and solve secrets left behind by the pharaohs. One day, while wandering through the Temple of Isis, Khali stumbled upon a mysterious scarab stone. As soon as he touched it, he felt a strange energy coursing through his veins, and he was transported to a magical realm.\n\nIn this realm, Khali found himself face to face with the great god Anubis, who spoke to him in a voice as smooth as the finest black sand of the desert. Anubis revealed to Khali that he had been chosen to fulfill an important quest: to retrieve the Golden Ankh of the Pharaohs, a powerful symbol of life and protection that had been lost for thousands of years.\n\nKhali, eager for adventure and danger, accepted the challenge. He set out on a perilous journey through the desert, facing fierce sandstorms, treacherous dunes, and cunning snakes. Along the way, he met a wise old ibis named Wadjet, who offered him guidance and protection.\n\nTogether, Khali and Wadjet encountered the treacherous god Set, who sought to claim the Golden Ankh for himself. In a fierce battle, Khali and Set clashed, their powers locked in a struggle that shook the very earth.\n\nBut Khali, fueled by his courage and determination, managed to defeat Set and claim the Golden Ankh. As he held it aloft, the desert sands shimmered with a golden light, and the gods themselves appeared to bless him.\n\nWith the Golden Ankh in hand, Khali returned to the village, where he was hailed as a hero. The pharaoh himself appeared, and the village celebrated with feasts and festivals.\n\nAnd so, my dear child, this is the story of Khali, the brave young boy who dared to face the unknown and emerge victorious. May his bravery and wisdom inspire you to be courageous and ambitious, just like the great pharaohs of Egypt.\n\nNow, go to sleep, my child, and may the gods watch over you, guiding you on your own adventures and filling your dreams with wonder and magic. May you grow up to be a hero like Khali, and may the Golden Ankh of the Pharaohs shine brightly upon your path.\n\nGoodnight, my child. May the gods smile upon you.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "eager for adventure": "mental",
+    "determined": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the heart of Germany, there lived a kind and curious little girl named Emma. Emma loved to explore the woods and fields around her home, always marveling at the beauty of nature.\n\nOne day, as she was wandering through the forest, she stumbled upon a tiny, hidden door at the base of an old oak tree. Emma couldn't believe her eyes – she had never seen anything like it before! She cautiously opened the door and stepped inside.\n\nTo her amazement, she found herself in a magical kingdom filled with talking animals, sparkling streams, and beautiful, colorful flowers. Emma was overjoyed and spent the entire day exploring this enchanting land.\n\nAs the sun began to set, Emma realized she needed to find her way back home. But she had wandered so far and seen so many wonderful things, she wasn't sure how to get back to the oak tree door.\n\nJust as she was starting to feel lost and scared, a kind old owl appeared and offered to guide her home. Emma gratefully accepted and followed the owl through the forest.\n\nAs they walked, the owl told Emma stories of the magical kingdom and all the adventures that could be had there. Emma listened with wide eyes, her heart filled with wonder and excitement.\n\nFinally, they reached the oak tree and the owl helped Emma find the hidden door. Emma hugged the owl goodbye and promised to return to the magical kingdom soon.\n\nFrom that day on, Emma spent every free moment exploring the magical kingdom and making new friends. And every night, as she drifted off to sleep, she would think of her adventures and dream of all the magic that the world has to offer.\n\nThe end.\n\nGute Nacht, mein Schatz. Träume süß und lass dich von den Abenteuern in der magischen Welt verzaubern. Ich liebe dich. (Good night, my darling. Dream sweet and let yourself be enchanted by the adventures in the magical world. I love you.)",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "overjoyed": "emotional",
+    "grateful": "emotional",
+    "wide-eyed": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.15",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

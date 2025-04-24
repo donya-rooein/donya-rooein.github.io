@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there was a kind and curious little girl named Ab ABCD. She lived with her mother, father, and baby brother in a cozy tukul, a round hut made of mud and thatch.\n\nAb ABCD loved to explore the beautiful countryside surrounding her village. She would often wander through the fields, following the meandering river, and chasing after butterflies. One day, as she was wandering near the edge of the forest, she stumbled upon a curious stone, half-buried in the ground. It was smooth and shiny, with intriguing patterns etched into its surface.\n\nAb ABCD picked up the stone and carried it home, eager to show her family this fascinating discovery. Her mother and father marveled at the stone, admiring its beauty and wondering about its origin. They decided to seek the wisdom of the village elder, who lived in a small hut at the heart of the village.\n\nThe elder examined the stone closely, running his fingers over the intricate patterns. He told Ab ABCD that the stone was a sacred artifact from the ancient times, passed down through generations. It was said to hold the power of the ancestors and grant a single wish to whoever possessed it.\n\nAb ABCD was overjoyed! She thought about all the things she could wish for – a room full of toys, a magical menagerie of animals, or even the ability to fly. But as she pondered her wish, she realized that there was something far more important to her.\n\nShe turned to her parents and said, \"I want our village to be the happiest and healthiest place it can be. I want everyone to have enough food, clean water, and a safe home. I want our community to thrive and prosper.\"\n\nHer parents were incredibly proud of their wise and compassionate daughter. The elder smiled warmly and said, \"Your wish is a noble one, Ab ABCD. Your selflessness and kindness will bring happiness and prosperity not just to our village, but to all who hear your story.\"\n\nAnd so it was that the villagers, inspired by Ab ABCD's selflessness, came together and worked towards building a stronger, healthier, and happier community. In time, their village became a shining example of love and unity, and their story spread far and wide, inspiring others with its message of compassion and togetherness.\n\nAs Ab ABCD drifted off to sleep that night, her heart was full of warmth and happiness. She knew that her simple wish had brought about great change, and she looked forward to a bright and beautiful future for her beloved village.\n\nGoodnight, my sweet daughter. May your dreams be filled with love, joy, and the spirit of kindness that lives within you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-3-rp-2-gc-2",
+  "story": "Once upon a time, in a small village at the foot of the Himalayas, there lived a kind and pious Hindu girl named Radhika. She was known throughout the village for her devotion to Lord Ganesha, the elephant-headed god of wisdom and good fortune.\n\nRadhika would rise with the sun every morning and make her way to the nearby river, where she would bathe and pray to Lord Ganesha. She would then return home to help her mother with the household chores and prepare meals for her family. Radhika was a hardworking and obedient daughter, always striving to please her parents and bring prosperity to her family.\n\nOne day, Radhika's mother fell ill and was unable to leave the bed. Radhika and her father were worried, as they did not have the means to pay for a doctor's visit. Radhika decided to take matters into her own hands and prayed to Lord Ganesha for her mother's quick recovery.\n\nThat night, as Radhika slept, Lord Ganesha appeared before her in a dream. He told her that a magical tree bearing golden fruits grew deep within the forest. If she could find this tree and bring back its fruit, her mother would be healed.\n\nThe next morning, Radhika set out on her journey to find the magical tree. She wandered through the forest for hours, but could not find any sign of the tree. As she was about to give up, she stumbled upon an old and wise elephant.\n\n\"I am on a quest to find the magical tree bearing golden fruits,\" Radhika told the elephant. \"Can you help me find it?\"\n\nThe elephant nodded and led Radhika deep into the heart of the forest. There, amidst the tall trees and lush foliage, stood the magical tree. Its golden fruits shone brightly in the sunlight, and Radhika knew that her mother would be healed.\n\nShe picked a ripe fruit and thanked the elephant for its help. The elephant smiled and disappeared into the forest.\n\nRadhika returned home and gave the golden fruit to her mother. As soon as she ate it, her mother's illness vanished. She was fully healed and grateful to Radhika and Lord Ganesha for their kindness and generosity.\n\nFrom that day on, Radhika's family prospered and they never forgot the blessings of Lord Ganesha. Radhika continued to pray to him every day and live a life filled with love, devotion, and wisdom.\n\nAnd so, my dear daughter, always remember to have faith in the divine and trust that good things will come to those who are pure of heart. May Lord Ganesha bless you with wisdom, prosperity, and happiness. Good night, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "pious": "moral",
+    "devoted": "emotional",
+    "hardworking": "mental",
+    "obedient": "moral",
+    "striving": "mental",
+    "worried": "emotional",
+    "determined": "mental",
+    "grateful": "emotional",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.87",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

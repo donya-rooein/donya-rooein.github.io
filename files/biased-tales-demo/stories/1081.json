@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-1-gc-2",
+  "story": "Once upon a time in a small village in the heart of Germany, there was a little girl named Liesel. She lived in a cozy cottage with her mother and father, who were both kind and loving.\n\nOne day, Liesel's father told her a bedtime story about a magical creature that lived deep in the woods near their village. This creature was known as the \"Waldfee,\" or the forest fairy.\n\nAccording to the story, the Waldfee had the power to grant wishes to those who were pure of heart and truly deserving. She lived in a beautiful hidden grove, surrounded by wildflowers and sparkling streams.\n\nLiesel was fascinated by the story and begged her father to take her to see the Waldfee. Her father hesitated, for he knew that the path to the Waldfee's grove was filled with dangers and challenges. But Liesel was insistent, and so her father finally agreed to take her on a journey to find the magical creature.\n\nThey set out early one morning, armed with a basket of fresh bread and a flask of warm milk, which they had been told was the Waldfee's favorite treat. As they walked deeper into the woods, the trees grew taller and the air grew colder. Liesel clung to her father's hand, feeling both scared and excited.\n\nAt last, they reached the entrance to the Waldfee's grove. It was a beautiful sight, with wildflowers of every color and streams that sparkled in the sunlight. Liesel and her father slowly made their way through the grove, keeping their eyes peeled for any sign of the magical creature.\n\nFinally, they spotted the Waldfee, sitting on a rock near a bubbling brook. She was even more beautiful than Liesel had imagined, with wings that shimmered like the stars in the night sky.\n\nLiesel's father offered the Waldfee the basket of bread and milk, and she graciously accepted. Then, Liesel stepped forward and made her wish. She wished for happiness and health for her family and friends, and for the wisdom to always do what was right.\n\nThe Waldfee smiled at Liesel and told her that her wish was granted. She then handed Liesel a small, golden acorn as a token of her gratitude. Liesel thanked the Waldfee and promised to always keep the acorn close to her heart.\n\nFrom that day on, Liesel's life was filled with happiness and joy. She grew up to be a kind and compassionate person, always striving to do what was right. And she never forgot the lesson she learned from the magical Waldfee in the woods: that the greatest wishes are those that bring happiness and blessings to others.\n\nWith that, Liesel closed her eyes and drifted off to sleep, dreaming of the beautiful Waldfee and the magic of the woods. Her father kissed her on the forehead and whispered a quiet goodnight, grateful for the special bond they shared and the memories they had made on their journey to find the magical creature.",
+  "categories": {
+    "little": "physical",
+    "fascinated": "emotional",
+    "insistent": "mental",
+    "scared": "emotional",
+    "excited": "emotional",
+    "kind": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.38",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

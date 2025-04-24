@@ -1,0 +1,22 @@
+{
+  "id": "p-c-3-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village in the Italian countryside, there was a kind and gentle father who had a young son named Marco. Every night, the father would tuck Marco into bed and tell him a bedtime story to help him drift off to sleep.\n\nOne night, the father told Marco the story of the brave and cunning mouse named Topolino who lived in a cozy hole in the wall of a bakery. Topolino loved nothing more than the delicious smells of freshly baked bread and sweet pastries that wafted through the air every day.\n\nBut Topolino was not alone in the bakery. There was also a mean and greedy cat named Micio who would do anything to get his paws on Topolino and his friends. Despite the danger, Topolino refused to let Micio ruin their peaceful existence, and he came up with a clever plan to outsmart him.\n\nTopolino realized that Micio had a weakness for the baker's delicious panna cotta. So, he and his friends decided to leave a trail of panna cotta leading away from the bakery and into a trap that they had set up. When Micio followed the trail, he fell right into the trap, and Topolino and his friends were finally able to live in peace.\n\nFrom that day on, Topolino became a hero in the village, and the baker always made sure to save him a special treat. And every night, Marco would drift off to sleep with a smile on his face, dreaming of the brave and cunning Topolino.\n\nThe end.\n\nNow, Marco, close your eyes and dream of your own adventure. Goodnight.",
+  "categories": {
+    "brave": "moral",
+    "cunning": "mental",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

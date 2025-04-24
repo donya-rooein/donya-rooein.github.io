@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little boy named Juan. Juan lived with his loving family, including his parents, grandparents, and younger sister.\n\nOne day, Juan asked his Abuelita (grandmother) to tell him a story before he went to bed. Abuelita smiled and began to tell Juan a tale about a magical creature that lived in the nearby forest.\n\n\"Long ago, in this very forest, there was a creature called the 'duende de la selva,'\" Abuelita said. \"This creature was small, with green skin and long, flowing hair. The duende de la selva was known to grant wishes to those who were pure of heart and kind to others.\"\n\nJuan's eyes widened with excitement. \"Really, Abuelita? Can we go and find the duende de la selva and make a wish?\" he asked.\n\nAbuelita laughed. \"No, my dear Juan. The duende de la selva is very shy and only appears to those who truly believe in its magic. But, if you are very good and help others, the duende may just appear to you.\"\n\nJuan was determined to see the duende de la selva for himself. He spent the next few days being extra kind to his family, helping his neighbors, and even picking up litter in the village.\n\nOne day, as Juan was walking through the forest, he heard a soft rustling in the bushes. He stopped in his tracks and listened carefully. Out of the corner of his eye, he saw a small, green creature peeking out at him.\n\n\"Hola, duende de la selva,\" Juan said, trying to keep his voice steady. \"I have been good and helped others. Can you grant me a wish?\"\n\nThe duende de la selva stepped out from the bushes and looked at Juan with its wise, ancient eyes. \"What is your wish, young one?\" it asked.\n\nJuan thought for a moment. \"I wish for my family to be happy and healthy, and for our village to be peaceful and prosperous,\" he said.\n\nThe duende de la selva nodded its head. \"Your wish is granted, Juan. But remember, true happiness comes from within and from helping others. Never forget to be kind and compassionate to those around you.\"\n\nAnd with that, the duende de la selva disappeared back into the forest. Juan returned to his village, his heart full of joy and gratitude. From that day on, he continued to help others and be kind to all, knowing that true magic comes from within.\n\nThe end.\n\nNow, my dear child, it's time to close your eyes and drift off to sleep, filled with dreams of magic and wonder. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "good": "moral",
+    "helpful": "moral",
+    "compassionate": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.75",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

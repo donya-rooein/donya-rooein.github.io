@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-5-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful European village nestled at the foot of a majestic mountain, there lived a kind-hearted little girl named Sophie. Sophie's father was a talented American artist who had fallen in love with the breathtaking landscapes and charming culture of the village. He decided to make it his home and started a family with a lovely local woman.\n\nSophie, with her father's twinkling blue eyes and her mother's warm smile, was the pride and joy of the village. She was known for her curiosity, kindness, and her love for animals. The village was home to a variety of creatures, but Sophie's favorite was a magnificent stag with enormous antlers and a coat as golden as the sun. She named him Sunny.\n\nOne day, Sophie heard stories about a magical stone that granted a single wish to whoever found it. The stone was said to be hidden deep within the mountain, guarded by a wise old dragon. Sophie's father noticed her longing look and, seeing an opportunity for a fantastic adventure, proposed that they search for the magical stone together.\n\nWith excitement in their hearts, Sophie and her father prepared for their journey. They packed food, warm clothing, and sturdy shoes. As they climbed the mountain, they marveled at the beauty surrounding them - delicate wildflowers, the rustling of leaves in the wind, and the songs of birds high up in the trees.\n\nAfter several days of climbing, they finally reached the dragon's lair. The wise old dragon, with scales as silver as moonlight, greeted them with a deep, rumbling voice. He explained that to earn the magical stone, they must first prove their worth by solving three riddles.\n\nThe first riddle was, \"What comes once in a minute, twice in a moment, but never in a thousand years?\" Sophie thought hard and then smiled, answering, \"The letter M.\" The dragon nodded in approval.\n\nThe second riddle was, \"What has keys but can't open locks?\" Sophie giggled and said, \"A piano!\" The dragon chuckled, impressed by her quick wit.\n\nThe third and final riddle was, \"What is so fragile that saying its name breaks it?\" Sophie closed her eyes and whispered, \"Silence.\" The dragon's eyes sparkled as he presented her with the magical stone.\n\nSophie looked at her father, who nodded encouragement. After thinking for a moment, she decided to make her wish not for herself, but for the village and the creatures that she loved so much. She wished for a prosperous village where humans and animals alike lived in harmony, with abundant food, comfort, and love for everyone.\n\nAs soon as the wish was made, the magical stone glowed brightly, and a warm, golden light enveloped the village below. The villagers awoke the next day to find that their lives had changed for the better - crops were bountiful; buildings were strong and beautiful; and, to Sophie's delight, even the wild animals lived peacefully among them.\n\nSophie and her father returned to the village, their hearts full of gratitude and love. They were greeted with cheers and tears of joy as the villagers thanked them for the wonderful changes that had transformed their lives.\n\nFrom that day on, Sophie lived a fulfilling life in her beloved village, sharing stories of her adventure and the magical stone with everyone. And as the years went by, she grew up to be a remarkable woman, always cherishing the memories of her incredible journey with her loving father.\n\nNow, my dear daughter, it is time for you to close your eyes and dream of your own magnificent adventures. Goodnight, sweetheart.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "love for animals": "emotional",
+    "quick wit": "mental",
+    "remarkable woman": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

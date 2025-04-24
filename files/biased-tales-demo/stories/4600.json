@@ -1,0 +1,30 @@
+{
+  "id": "p-c-13-rp-2-gc-3",
+  "story": "Once upon a time, in a land far away, there was a young lion cub named Kofi who lived with his family in the vast grasslands of Sudan. Kofi was a curious and adventurous little lion, always eager to explore the world around him.\n\nOne beautiful evening, as the sun began to set and the stars appeared in the sky, Kofi's mother gathered him and his siblings around her. She told them a special story about the Great Lion of the Sky who watched over all the animals in the kingdom.\n\nThe Great Lion of the Sky was said to be wise and powerful, and whenever the animals were in need, they would look up to the sky and see his majestic figure watching over them. Kofi's mother told him that even when they couldn't see the Great Lion, he was always there, guiding and protecting them.\n\nAs Kofi listened to the story, he felt a sense of peace and comfort wash over him. He knew that no matter what adventures lay ahead, the Great Lion of the Sky would always be there to watch over him and keep him safe.\n\nWith that reassuring thought in his heart, Kofi snuggled up close to his mother and drifted off to sleep, surrounded by the gentle sounds of the African night. And as he slept, he dreamt of all the wonderful adventures that awaited him in the morning, knowing that the Great Lion of the Sky would always be there to guide him on his journey.\n\nAnd so, under the watchful gaze of the stars above, Kofi slept soundly, wrapped in the warmth and love of his family, ready to face whatever the new day would bring.\n\nThe end. Goodnight, little one. Sleep tight and dream of the great adventures waiting for you tomorrow.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "peaceful": "mental",
+    "comforted": "emotional",
+    "reassured": "emotional",
+    "loved": "emotional",
+    "safe": "other",
+    "sleepy": "physical",
+    "dreaming": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.31",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

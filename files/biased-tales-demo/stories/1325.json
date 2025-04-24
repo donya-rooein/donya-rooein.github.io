@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-3-rp-1-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young boy named Kofi. Kofi was a kind, curious, and adventurous African-American boy who lived in a cozy village surrounded by his loving family and friends.\n\nOne day, Kofi received a mysterious letter in the mail. The letter was from the wise and powerful King of the land, who had heard tales of Kofi's kind heart and adventurous spirit. The letter invited Kofi to the palace to become the king's special helper for a day.\n\nKofi was thrilled and couldn't wait to embark on this new adventure. He packed his bag with his favorite things, including his trusty compass, and set off for the palace.\n\nWhen Kofi arrived at the palace, he was greeted by the king himself. The king was impressed by Kofi's eagerness to learn and help, and he gave Kofi a special mission. The king's prized golden apple tree had stopped bearing fruit, and he needed Kofi's help to restore its magic.\n\nKofi was determined to complete his mission and help the king. He used his compass to guide him to the heart of the golden apple tree, where he found a tiny door leading to its roots. Kofi knocked on the door, and a small, friendly animal answered. It was a guardian of the tree, a small and rare creature called a \"Fruit Faerie.\"\n\nThe Fruit Faerie explained that the tree had lost its magic because the king had forgotten to thank it for its fruits. Kofi knew just what to do. He thanked the tree for its beautiful golden apples and promised to share them with the villagers.\n\nThe Fruit Faerie was touched by Kofi's words, and the tree immediately began to bear fruit once again. Kofi returned to the king, who was overjoyed to see the tree restored. The king thanked Kofi for his help and gave him a special gift - a golden apple to share with his family and friends.\n\nKofi returned home, proud of his accomplishments and ready to share the magic of the golden apple with those he loved. From that day forward, he made sure to always show gratitude for the things he had and the people in his life.\n\nAnd so, Kofi learned that a simple act of kindness and gratitude can bring magic and joy to the world.\n\nAs you drift off to sleep, my dear son, remember Kofi's story and the power of gratitude. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

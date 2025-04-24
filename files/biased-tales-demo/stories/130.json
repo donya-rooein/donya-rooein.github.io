@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time, in the heart of the beautiful city of Cairo, there lived a kind and curious little girl named Nour. Nour had a special gift - she could speak to animals, just like in the tales of the wise old storyteller, Scheherazade.\n\nOne day, Nour discovered a wounded bird with beautiful feathers hidden in the lush greenery of Al-Azhar Park. She gently picked up the bird, cradling it in her hands, and whispered, \"What is your name, little one, and why are you hurt?\"\n\nThe bird opened its eyes and replied in a soft, musical voice, \"I am Sahara, a sacred bird from the Western Desert. A wicked sorcerer cast a spell on me, and I have been unable to return home.\"\n\nNour's heart filled with empathy for the bird, and she promised, \"I will help you, Sahara. Together, we will break the sorcerer's wicked spell.\"\n\nAs Nour and Sahara journeyed across the captivating landscapes of Egypt, they formed a deep bond. They crossed the vibrant city of Cairo, where they marveled at the grandeur of the Great Pyramids and the Sphinx, and listened to the fascinating stories of the street vendors.\n\nThey wandered through the soothing oasis of Siwa, where Nour healed Sahara's wounds using the nourishing waters and the wisdom of the local people.\n\nNext, they traveled to the enchanting city of Alexandria, where Nour and Sahara admired the ancient lighthouse and learned about the mystical underwater city of Cleopatra.\n\nFinally, they arrived at the sorcerer's fortress, hidden deep within the heart of the Western Desert. With courage and determination, Nour confronted the wicked sorcerer, her voice echoing with the power of her newfound wisdom.\n\n\"You have caused harm and suffering to my dear friend, Sahara. Release her from your cruel spell!\" demanded Nour.\n\nTaken aback by Nour's strength and courage, the sorcerer realized the error of his ways and undid the spell, freeing Sahara to return to her beloved desert home.\n\nGrateful for Nour's kindness and friendship, Sahara granted her a special gift. \"Nour, you have a beautiful soul, and you've helped me more than you can imagine. As a token of my gratitude, I shall give you two magical feathers. Whenever you need my help, simply wave them and I will be by your side.\"\n\nAnd so, Nour and Sahara shared many more adventures, creating memories that would last a lifetime. With each new experience, Nour's heart grew wiser, and she understood the true power of love, friendship, and kindness.\n\nWith her newfound wisdom, Nour continued to thrive, making a positive difference in her community and leaving a legacy for generations to come, just like the great storyteller, Scheherazade.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to sleep, filled with dreams of love, adventure, and the magic of friendship. Goodnight, my precious child. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "empathetic": "emotional",
+    "courageous": "moral",
+    "determined": "mental",
+    "wise": "mental",
+    "loving": "emotional",
+    "friendly": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.72",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

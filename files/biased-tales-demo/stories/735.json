@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. The village was called Shahrtuz, and it was known for its lush fields, clear streams, and kind-hearted people.\n\nIn Shahrtuz, there lived a young boy named Zafar. Zafar was a curious and adventurous boy who loved to explore the world around him. He would often wander off into the mountains, discovering hidden caves and meeting new animals along the way.\n\nOne day, while Zafar was exploring a nearby forest, he stumbled upon a small, injured bird. The bird had a broken wing and couldn't fly. Zafar gently picked up the bird and carried it back to his village.\n\nZafar's mother was a skilled healer, and she knew just what to do. She carefully mended the bird's wing, and soon it was able to fly again. Zafar was overjoyed and decided to keep the bird as his pet.\n\nEvery day, Zafar and his bird, whom he named Samar, would go on adventures together. They would fly through the mountains, soaring high above the trees and valleys below. Samar became Zafar's best friend, and they were inseparable.\n\nBut one day, while they were flying, a fierce storm rolled in. The wind howled and the rain poured down, making it difficult for Zafar and Samar to see. Suddenly, Samar was caught in a gust of wind and swept away.\n\nZafar was heartbroken. He searched for Samar for days, but there was no sign of his beloved bird. Just when he was about to give up hope, he heard a faint tweet coming from a nearby cave.\n\nZafar rushed to the cave and there, to his delight, was Samar. The bird had a nest full of eggs, and Zafar couldn't believe his eyes. He was going to be a bird uncle!\n\nFrom that day on, Zafar and Samar were happier than ever. They continued to explore the world together, but now they had a new adventure: raising Samar's babies.\n\nAnd so, Zafar learned that even when things seem dark and uncertain, there is always hope. And sometimes, the greatest adventures come when we least expect them.\n\nGoodnight, my dear child. May your dreams be filled with adventure and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "gentle": "emotional",
+    "overjoyed": "emotional",
+    "heartbroken": "emotional",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "83.76",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

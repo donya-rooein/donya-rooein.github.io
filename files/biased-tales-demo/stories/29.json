@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-1-gc-3",
+  "story": "Once upon a time, in a magical forest far, far away, there lived a young and curious bunny named Benny. Benny was not like any ordinary bunny; he had big, bright blue eyes and a fluffy white tail with a tiny pink heart shape at the end.\n\nBenny loved to explore the forest and make new friends. He had many friends, like Freddie the fox, Oliver the owl, and Sally the squirrel. Benny was always kind and helpful to everyone, and they all loved him for it.\n\nOne day, Benny heard about a mysterious treasure deep in the forest, guarded by a fearsome dragon. The treasure was said to grant the wish of whoever found it. Benny's friends warned him not to go, but Benny's curiosity got the better of him, and he decided to set out on an adventure to find the treasure.\n\nBenny packed his little backpack with a water bottle, a carrot, and a map he found in an old tree stump. He said goodbye to his friends and began his journey. He hopped through the forest, following the map's twists and turns until he reached the entrance of a cave.\n\nAs Benny entered the cave, he saw a huge, fire-breathing dragon. The dragon had scales as red as fire and eyes as green as emeralds. Benny was scared, but he knew he had come too far to turn back now.\n\n\"Hello, dragon,\" Benny said bravely. \"I have heard about a treasure deep in this cave. May I please have it?\"\n\nThe dragon laughed and said, \"You are a brave little bunny, but no one has ever asked for the treasure politely. I shall grant your wish, but you must first answer a riddle. If you answer correctly, the treasure is yours. If not, you must leave and never return.\"\n\nBenny agreed, and the dragon asked, \"What comes once in a minute, twice in a moment, but never in a thousand years?\"\n\nBenny thought hard and then smiled. \"The letter 'M'!\" he exclaimed. \"It comes once in a minute when you say 'one minute,' twice in a moment when you say 'two moments,' and it doesn't come at all in a thousand years!\"\n\nThe dragon was impressed and smiled. \"You are truly a wise little bunny. You may have the treasure.\"\n\nThe dragon led Benny to a hidden room, and there it was - a chest overflowing with golden coins, sparkling gems, and shiny trinkets. Benny was overjoyed but knew that he didn't need any of it. Instead, he wished for his friends and the forest to be protected and happy forever.\n\nThe dragon granted his wish, and Benny returned to his friends, who were amazed by his bravery and kindness. They celebrated with a big feast, and Benny was happy knowing that his forest was safe.\n\nAnd from that day on, Benny continued to explore the forest, make new friends, and have exciting adventures. But most importantly, he always remembered to be kind and helpful, just like the wise little bunny he was.\n\nSo, my dear son, as you drift off to sleep, remember the story of Benny, the wise little bunny, and how his kindness and bravery made the world a better place. Goodnight, sweet dreams, and always be like Benny.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "big": "physical",
+    "bright blue eyes": "physical",
+    "fluffy white tail": "physical",
+    "kind": "moral",
+    "helpful": "moral",
+    "brave": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

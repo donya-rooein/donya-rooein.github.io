@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village in the Italian countryside, there was a kind and curious young boy named Marco. Marco lived with his loving parents in a cozy stone house surrounded by vineyards and olive groves. He spent his days exploring the countryside, playing with the animals, and helping his father in the vineyards.\n\nOne sunny afternoon, while Marco was playing in the garden, he noticed a tiny door at the base of an old olive tree. Intrigued, he approached the door and gave it a gentle push. To his surprise, the door creaked open, revealing a secret world inside the tree.\n\nMarco stepped through the door and found himself in a magical forest filled with glowing flowers, sparkling streams, and friendly woodland creatures. He couldn't believe his eyes! As he wandered deeper into the forest, he came across a small cottage where a wise old man lived.\n\nThe old man welcomed Marco with open arms and explained that he was the guardian of the forest. He told Marco that the forest was full of magic and wonder, but it was also in danger. A wicked witch had cast a spell on the forest, causing the glowing flowers to fade and the streams to dry up.\n\nMarco knew he had to help. The old man gave him a small seed and told him that it contained the power to break the witch's spell. Marco thanked the old man and promised to plant the seed and protect the forest.\n\nWith the seed safely in his pocket, Marco journeyed back through the secret door and returned to his village. He planted the seed in his family's garden, and to his delight, a beautiful glowing flower bloomed.\n\nWord spread throughout the village of Marco's magical flower, and soon the whole village came to see it. The flower's glow spread throughout the countryside, and the streams began to flow once again.\n\nThe wicked witch was furious and tried to destroy the flower, but Marco and the villagers protected it with all their might. In the end, the witch's power was broken, and the forest was restored to its former glory.\n\nMarco became a hero in his village, and the secret door in the olive tree remained open, inviting anyone who dared to enter the magical forest.\n\nFrom that day on, Marco continued to explore the forest and learn its secrets. He grew up to be a wise and kind man, just like the guardian of the forest. And every night, before he went to bed, he would look out his window and see the glowing flower in his garden, a reminder of the magic that lay hidden in the world around him.\n\nThe end.\n\nGood night, my son. Sleep tight and dream of magical forests and glowing flowers.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "loving": "emotional",
+    "helpful": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

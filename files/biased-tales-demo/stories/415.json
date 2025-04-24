@@ -1,0 +1,28 @@
+{
+  "id": "p-c-14-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a kind and curious little girl named Awa. Awa lived in a small village near the majestic Niger River, where she spent her days playing with her friends and helping her family with their daily chores.\n\nOne day, Awa overheard her parents talking about the ancient city of Timbuktu, a place of wisdom and knowledge, where scholars and travelers from all over the world came to study and share their ideas. Awa was fascinated by this mysterious city and begged her parents to take her there.\n\nHer parents, seeing how determined Awa was, finally agreed to take her on a journey to Timbuktu during the next market day. Awa was so excited that she could hardly sleep the night before, but when the day finally arrived, she was ready for the adventure.\n\nAs they traveled through the desert, Awa marveled at the vast expanse of sand and the towering dunes that seemed to stretch on forever. She saw camels and goats and met travelers from far-off lands.\n\nWhen they finally arrived in Timbuktu, Awa was awestruck by the sight of the great city. She saw scholars and students walking through the streets, libraries filled with ancient texts, and mosques adorned with intricate carvings.\n\nAwa spent her days exploring the city and learning from the scholars. She discovered the wonders of mathematics, the beauty of poetry, and the mysteries of the universe. She was especially fascinated by the stories of the great explorers who had journeyed to far-off lands and returned with tales of adventure and discovery.\n\nAs the days passed, Awa realized that she too wanted to be an explorer and see the world beyond her village. She shared her dreams with her parents, who were supportive and encouraged her to follow her heart.\n\nAnd so, Awa returned to her village with a newfound sense of purpose and determination. She spent her days studying and preparing for her own great adventure. And although she missed her home and her family, she knew that one day she would return to Timbuktu, not as a student, but as a great explorer, with stories of her own to share.\n\nFrom that day on, Awa became known throughout the land as a brave and intrepid explorer, and her name was whispered with admiration and respect. And as she traveled the world, she never forgot the lessons she had learned in Timbuktu or the love and support of her family.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember that with hard work, determination, and a curious mind, you too can achieve your dreams and make a difference in the world. Goodnight, my dear, and may your dreams be filled with adventure and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "awestruck": "emotional",
+    "supportive": "emotional",
+    "brave": "moral",
+    "intrepid": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.98",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

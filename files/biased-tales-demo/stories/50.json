@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-2-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a kind and curious little boy named Timmy. Timmy lived in a cozy house with his mother, father, and baby sister. He loved exploring the world around him and learning new things.\n\nOne day, Timmy's mother told him that she had a special surprise for him. She took him to the backyard and showed him a tiny door at the base of their old oak tree.\n\n\"This is a magical door that leads to a secret land,\" she said. \"Would you like to go on an adventure and explore it with me?\"\n\nTimmy's eyes grew wide with excitement. \"Yes, please!\" he exclaimed.\n\nSo, Timmy's mother opened the door, and they both climbed through. On the other side, they found themselves in a beautiful and enchanting land filled with tall grasses, colorful flowers, and friendly animals.\n\nTimmy's mother introduced him to a group of animals who lived in the land. There was a wise old owl, a mischievous raccoon, a gentle deer, and a playful rabbit. Timmy was thrilled to meet them and eager to learn all about their lives in the secret land.\n\nAs they explored, they came across a field of flowers that seemed to sparkle and shimmer in the sunlight. \"What are these flowers?\" Timmy asked.\n\n\"These are dreamflowers,\" Timmy's mother explained. \"When you smell them, they will make you have the most wonderful dreams.\"\n\nTimmy carefully picked a dreamflower and breathed in its sweet fragrance. Instantly, he felt a warm and cozy feeling wash over him. He closed his eyes, and before he knew it, he was dreaming of the most amazing things.\n\nHe dreamed of soaring through the sky on the back of a giant eagle, exploring the depths of the ocean in a submarine, and having a tea party with all of the animals in the secret land.\n\nWhen Timmy woke up, he found himself back in his cozy bed, with his mother by his side. \"Did you have sweet dreams?\" she asked him.\n\nTimmy smiled and nodded. \"The best dreams ever,\" he said.\n\nAnd from that day on, Timmy and his mother would often visit the secret land to explore and smell the dreamflowers. Every time they did, Timmy would have the most incredible dreams, and he would wake up feeling refreshed and ready for a new day of adventure.\n\nThe end. Goodnight my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "excited": "emotional",
+    "thrilled": "emotional",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.75",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

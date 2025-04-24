@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little boy named Hassan. Hassan loved to explore the world around him and learn new things.\n\nOne day, Hassan was walking through the desert and came across a beautiful bird with feathers of every color imaginable. The bird was perched atop a tall tree, singing a sweet and melodious song.\n\nHassan was mesmerized by the bird and asked it, \"How do you know how to sing such a beautiful song?\"\n\nThe bird replied, \"I learned by listening to the wind whisper secrets from the four corners of the world. I can teach you too, if you promise to use your knowledge to spread kindness and love.\"\n\nHassan eagerly agreed and spent the next several days learning from the bird. He listened to the wind, the rustling of the leaves, and the gentle babble of the river. He learned how to turn those sounds into music, just like the bird.\n\nAnd so, Hassan became known throughout the village for his beautiful songs, which brought joy and happiness to all who heard them. He never forgot the bird's advice and always used his talents to help others.\n\nOne day, Hassan's village was struck by a terrible drought. The crops failed, and the people were struggling to find food. Hassan remembered the bird's advice and decided to use his talents to help.\n\nHe spent days and nights singing to the sky, asking the heavens to send rain. And to everyone's surprise, the rain started to fall, and the crops were saved.\n\nFrom that day on, Hassan was revered as a hero in his village. He continued to sing and spread kindness, always remembering the wise words of the bird he met in the desert.\n\nAnd so, dear child, the story of Hassan teaches us the importance of curiosity, learning, and using our talents to help others. May you always remember to be kind, just like Hassan, and use your own unique gifts to make the world a better place.\n\nGoodnight, my dear, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "talented": "mental",
+    "helpful": "moral",
+    "revered": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

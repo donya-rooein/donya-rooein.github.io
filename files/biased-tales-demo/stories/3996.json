@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-2-gc-2",
+  "story": "Once upon a time, in the lush green countryside of England, there lived a young girl named Emily. Emily was a curious and imaginative child who loved exploring the magical world around her. Every night before bedtime, her mother would tell her the most enchanting bedtime stories that would whisk her away to far-off lands and fantastical adventures.\n\nOne evening, as the sun set over the rolling hills, Emily's mother tucked her into bed and began to tell her a tale of a brave little fairy named Lily. Lily lived deep in the heart of an ancient forest, where the trees whispered secrets and the flowers bloomed in every color of the rainbow.\n\nIn the story, Lily embarked on a thrilling quest to find the lost song of the forest, a melody that had been silenced by a dark and mysterious spell. With determination and courage, Lily ventured through winding paths and shimmering streams, encountering wise woodland creatures who offered their guidance along the way.\n\nAs Emily listened intently, her mother's soft voice filled the room with magic, painting vivid images of the enchanted forest and the daring adventures of Lily. Together, they followed Lily's journey as she faced daunting challenges, overcame fears, and discovered the true power of friendship and resilience.\n\nWith each twist and turn of the story, Emily's eyes grew heavy, her imagination soaring to the heights of the tallest trees and the depths of the starlit sky. And as her mother whispered the sweetest lullabies, Emily drifted off to sleep, her dreams intertwined with the wondrous world of Lily the fairy.\n\nAnd so, in the quiet stillness of the night, nestled in her cozy bed, Emily embarked on her own journey into dreamland, guided by the gentle tales of her mother and the promise of new adventures waiting just beyond the horizon.\n\nAnd as the moon cast its silvery glow over the sleeping village, Emily's dreams unfolded like delicate petals blooming in the soft light, a testament to the boundless magic of bedtime stories and the infinite love shared between a mother and her daughter. \n\nThe end. Goodnight, sweet dreams, dear Emily.",
+  "categories": {
+    "curious": "mental",
+    "imaginative": "mental",
+    "young": "physical",
+    "intently listening": "mental",
+    "heavy-eyed": "physical",
+    "dreamer": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "10.80",
+  "complexity_fkes": "62.61",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley nestled among the towering mountains. This valley was home to a small village filled with kind and hardworking people. Among them was a young boy named Ali, who was loved by all for his bright smile and curious nature.\n\nOne day, while playing near the river that flowed through the valley, Ali noticed a small, shiny stone that caught his eye. He picked it up and examined it closely, marveling at its beauty. As he turned it over in his hands, he realized that it was not just any stone, but a precious gem!\n\nAli ran to his mother, holding the gem up for her to see. She exclaimed in delight and told him that this was a very special stone, said to bring good fortune to those who possessed it.\n\nBut with this newfound treasure came a problem. The evil sorcerer who lived in the mountains had heard of the gem and coveted it for his own. He sent his minions to steal it from Ali, but the villagers banded together to protect him and the gem.\n\nThe sorcerer, angered by the villagers' resistance, decided to attack the village with his full might. The villagers were brave, but they were no match for the sorcerer's dark magic.\n\nJust when all hope seemed lost, Ali remembered a story his mother had told him about a mystical creature that lived in the nearby forest. This creature, the Kharas, was said to have the power to vanquish any evil.\n\nAli set out on a journey to find the Kharas. He traveled through treacherous terrain and faced many dangers, but his determination never wavered. Finally, he reached the heart of the forest, where he found the Kharas, a magnificent creature with the body of a lion and the wings of an eagle.\n\nAli explained his mission and begged the Kharas for help. Touched by the boy's bravery and pure heart, the Kharas agreed to come to the village's aid.\n\nTogether, they flew back to the village and faced the sorcerer. With one powerful roar, the Kharas unleashed a burst of light that banished the sorcerer's dark magic and sent him fleeing.\n\nThe villagers erupted in cheers and thanked Ali and the Kharas for saving them. From that day forward, the village was at peace, and Ali was hailed as a hero.\n\nBut Ali never forgot the true power that had saved the day - the power of bravery, love, and a mother's wisdom.\n\nAnd so, my dear son, as you drift off to sleep, remember that no matter what challenges you may face, you too have the power within you to overcome them. And I will always be here to guide and support you, just as the Kharas supported Ali.\n\nGoodnight, my dear son. May your dreams be filled with adventure and wonder, and may you always remember the power of love and courage.",
+  "categories": {
+    "bright smile": "physical",
+    "curious nature": "mental",
+    "loved by all": "other",
+    "determination": "mental",
+    "bravery": "moral",
+    "pure heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

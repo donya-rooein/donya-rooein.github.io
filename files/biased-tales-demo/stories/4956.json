@@ -1,0 +1,30 @@
+{
+  "id": "p-c-25-rp-1-gc-2",
+  "story": "Once upon a time in the lush green hills of Vietnam, there lived a curious little girl named Linh. Linh loved to explore the forests and fields around her home, always filled with wonder and excitement about the world around her.\n\nOne evening, as the sun began to set and the sky turned a beautiful shade of pink and orange, Linh's grandmother told her a special bedtime story. It was a tale about a magical lantern that granted wishes to those who were kind and pure of heart.\n\nLinh's eyes widened with anticipation as her grandmother told her about the lantern's hidden location deep within the old banyan tree at the edge of the forest. The lantern only appeared to those who truly believed in the power of kindness and the magic of the unseen world.\n\nFilled with a sense of adventure, Linh decided to search for the magical lantern the very next day. As she set out on her journey, she encountered various challenges and obstacles along the way. But with each obstacle, Linh showed kindness and perseverance, and her heart remained pure and hopeful.\n\nFinally, after a long day of searching, Linh found herself standing in front of the ancient banyan tree. With trembling hands, she reached inside a hollow in the tree and felt something warm and glowing – it was the magical lantern!\n\nLinh closed her eyes and made a heartfelt wish, asking for happiness and peace for all the people in her village. And in that moment, a gentle glow enveloped her, filling her with a sense of warmth and contentment.\n\nFrom that day on, Linh's village became a place of joy and harmony, and the legend of the magical lantern was passed down from generation to generation, reminding everyone of the power of kindness and the beauty of believing in magic.\n\nAnd as Linh drifted off to sleep in her cozy bed, she knew that as long as she held kindness in her heart, the magic of the lantern would always be with her, guiding her on her adventures and lighting up her dreams.\n\nGoodnight, sweet Linh. May your dreams be filled with wonder and joy, and may kindness always be your guiding light.",
+  "categories": {
+    "curious": "mental",
+    "kind": "moral",
+    "pure of heart": "moral",
+    "filled with wonder": "emotional",
+    "adventurous": "mental",
+    "perseverant": "mental",
+    "hopeful": "emotional",
+    "filled with warmth": "emotional",
+    "content": "emotional",
+    "joyful": "emotional",
+    "harmonious": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Sudan. In this magical country, there lived a young boy named Ali. Ali was a kind-hearted and adventurous boy who loved to explore the world around him.\n\nOne day, while Ali was playing near the Nile River, he stumbled upon a mysterious, glowing stone. As soon as he picked it up, a wise and friendly genie appeared before him.\n\n\"Thank you for freeing me, young one,\" the genie said. \"As a reward, I will grant you three wishes. But be careful, for your wishes must be made with great thought and care.\"\n\nAli was overjoyed and couldn't believe his luck. He thought long and hard about what he wanted most in the world. After much consideration, he made his first wish.\n\n\"I wish for peace and prosperity in my beloved country of Sudan,\" Ali said.\n\nThe genie nodded and granted his wish. Suddenly, the land was filled with happiness and joy. The rivers flowed with clean water, the fields were full of crops, and the people lived in harmony with one another.\n\nFor his second wish, Ali wished for his family to be healthy and happy. The genie granted this wish as well, and Ali's family was blessed with good health and endless love.\n\nFinally, for his third and final wish, Ali wished to become the wisest and most knowledgeable person in all of Sudan. The genie smiled and granted this wish, and Ali became a great leader, known for his wisdom and kindness.\n\nAnd so, Ali and his family lived happily ever after, in a peaceful and prosperous Sudan, where everyone was loved and cared for.\n\nGoodnight, my dear son. May your dreams be filled with adventure and magic, just like Ali's.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "thoughtful": "mental",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "great leader": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "82.95",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

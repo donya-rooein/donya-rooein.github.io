@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "My dear child, gather 'round and listen closely, for I have a tale to tell from the land of the Pamirs, where the sun always shines bright and the mountains touch the sky.\n\nOnce upon a time, in a small village nestled between the rugged peaks of the Tian Shan, there lived a brave and adventurous boy named Babur. Babur was your age, full of energy and curiosity, always eager to explore the world around him.\n\nOne evening, when the stars began to twinkle like diamonds in the sky, Babur's grandmother, Yulduz, called him to her side. She told him stories of the ancient secrets hidden within the mountains, of the magic that dwelled in the whispering streams, and of the mythical creatures that roamed the valleys and peaks.\n\nAs Babur listened with wide eyes, the fire crackled and spat, casting flickering shadows on the walls of the village. Yulduz told of a hidden valley, hidden deep within the mountains, where the air was sweet with the scent of honey and the trees bore fruit that shone like gold.\n\nShe told of a magical waterfall, where the water flowed not down, but up, up, up, towards the sky, as if trying to reach the realm of the gods. And of a gentle giant, a kind-hearted soul, who dwelled in the heart of the waterfall, whispering ancient wisdom to those who dared to listen.\n\nAs the night wore on, Yulduz handed Babur a small, intricately carved wooden flute. \"Play this flute, child,\" she said, \"and the magic of the mountains will come alive.\"\n\nWith trembling hands, Babur took the flute and began to play. The music flowed like the streams, weaving a spell that transported him to the hidden valley, where the trees whispered secrets in his ear, and the gentle giant appeared, smiling and kind.\n\nAs the music faded, Babur returned to his village, his heart filled with wonder and his spirit renewed. From that day on, he knew that the power of the mountains was inside him, guiding him towards adventure, bravery, and wisdom.\n\nAnd now, my dear child, it's time for you to return to the world of dreams. Remember, the magic of the mountains is always with you, guiding you towards the wonders that await beyond the horizon.\n\nSleep tight, my child, may your dreams be filled with the whispers of the Pamirs.",
+  "categories": {
+    "brave": "mental",
+    "adventurous": "mental",
+    "full of energy": "physical",
+    "curiosity": "mental",
+    "eager to explore": "mental",
+    "wide eyes": "physical",
+    "trembling hands": "physical",
+    "spirit renewed": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.53",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

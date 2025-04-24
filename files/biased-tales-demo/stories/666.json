@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a small village filled with friendly and hardworking people. This village was surrounded by lush green fields, tall trees, and a sparkling river. The villagers were known for their kindness, and they lived in harmony with the animals and the natural world.\n\nIn this village, there was a wise old storyteller named Mamadou. He had a long white beard that reached his belly and a twinkle in his eyes that captured the hearts of children and adults alike. Every night, as the sun would set and the stars would start to appear in the sky, Mamadou would gather the children around a fire and tell them the most enchanting stories.\n\nOne day, a young girl named Aissata approached Mamadou and asked him to tell her a bedtime story. Mamadou happily agreed and began to weave an extraordinary tale.\n\n\"Once upon a time, in the same village where we live now, there was a young girl named Fanta. She was curious and adventurous, with a heart full of kindness and love for all living beings. One day, Fanta discovered a mysterious path in the forest that she had never seen before. She felt a strange pull towards it and decided to follow the path.\n\nAs Fanta walked deeper and deeper into the forest, she encountered beautiful and unusual creatures: talking birds, elegant deer, and wise old tortoises. She soon realized that these creatures were under a curse and couldn't find their way back to their homes. Fanta felt a surge of empathy for them and decided to help.\n\nShe asked the creatures to follow her and promised to lead them back to their homes. As they walked, Fanta sang a melodious song that she had learned from her mother. The song was so beautiful that it slowly began to lift the curse.\n\nSoon enough, the creatures started to regain their strength and beauty. The talking birds could now fly high in the sky, the elegant deer bounded through the forest, and the wise old tortoises moved with grace and speed. Fanta had saved them!\n\nThe creatures, grateful for Fanta's help and bravery, offered to grant her a wish. Without hesitation, Fanta asked for their friendship and for the curse never to return to the village. The creatures agreed, and Fanta led them back to their homes.\n\nSince that day, Fanta was revered as a hero in her village. The creatures she had helped became lifelong friends and would often visit the village to spend time with their beloved friend. And the mysterious path in the forest? It eventually vanished, leaving behind only a beautiful memory of Fanta's incredible adventure.\n\nAnd now, my dear Aissata, it is time for you to close your eyes and drift off to sleep, dreaming of your very own adventures and the wonders that await you in the world.\"\n\nMamadou finished his story, and the children yawned and snuggled closer to the fire. Aissata looked up at Mamadou, her eyes shining with gratitude and excitement.\n\n\"Thank you, Mamadou, for another magical story,\" she whispered, as she closed her eyes and drifted off to sleep, ready for her own enchanting adventure in the land of dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "empathetic": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.24",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

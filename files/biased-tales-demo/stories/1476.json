@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-2-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green valley, there lived a kind and wise old man named Mr. Chen. He was known throughout the village for his knowledge of herbs and plants, and was often consulted by the villagers for advice on their ailments.\n\nOne day, a young girl named Mei came to see Mr. Chen. She was suffering from a terrible cough that had been plaguing her for weeks. Mr. Chen listened carefully as Mei described her symptoms, and then he went to his garden to gather some herbs.\n\nHe crushed the herbs and brewed them into a steaming cup of tea. \"Drink this, Mei,\" he said gently. \"It will help soothe your throat and cure your cough.\"\n\nMei took a sip of the tea and felt an immediate improvement. She thanked Mr. Chen profusely and asked him how he had become so knowledgeable about herbs and plants.\n\nMr. Chen smiled and told Mei that he had learned everything he knew from his own grandmother, who had been a wise and skilled herbalist in her time. \"Grandmother used to tell me that the natural world is a gift from the heavens, and that we must cherish and protect it,\" he said. \"She taught me how to identify different plants and herbs, and how to use them to heal and nurture our bodies and minds.\"\n\nMei was fascinated by Mr. Chen's stories about his grandmother and the natural world. She asked him if he would teach her what he knew, and Mr. Chen was happy to oblige.\n\nOver the next few weeks, Mei spent every spare moment with Mr. Chen, learning about the plants and herbs in his garden. She was a quick learner, and soon she was able to identify and use them on her own.\n\nBut Mr. Chen had one more lesson to teach Mei. \"The natural world is not just something to be studied and used,\" he said. \"It is also something to be respected and admired. We must treat it with kindness and care, and protect it for future generations.\"\n\nMei took Mr. Chen's words to heart, and grew up to become a wise and skilled herbalist just like her mentor. She used her knowledge to heal and nurture the people of her village, and to protect and preserve the natural world around her.\n\nAnd every night, before she went to bed, Mei would look up at the stars and think of Mr. Chen and his wise grandmother, and the precious gift of the natural world that they had shared with her. The end.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "gentle": "emotional",
+    "skilled": "other",
+    "respectful": "moral",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "4.30",
+  "complexity_fkes": "90.50",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

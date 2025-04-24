@@ -1,0 +1,29 @@
+{
+  "id": "p-c-27-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there was a kind and curious little boy named Bayu. Bayu lived with his mother, father, and baby sister in a cozy house near the edge of the village. Bayu loved to explore the world around him and learn new things.\n\nOne day, Bayu's mother told him a story about a magical creature that lived in the nearby forest. The creature was called the \"tuyul,\" and it was said to have the power to grant wishes to those who were pure of heart.\n\nBayu was fascinated by the story and begged his mother to take him to the forest to search for the tuyul. At first, his mother was hesitant, but she eventually agreed to take him on a journey to find the magical creature.\n\nThey packed a bag with food and supplies and set out early the next morning. As they walked deeper into the forest, Bayu's mother told him more about the tuyul and its powers. She warned him that the creature was very shy and would only show itself to those who truly believed in its magic.\n\nAs they continued their journey, Bayu began to feel a little scared. The forest was so dark and dense, and he couldn't help but think about all the strange noises he was hearing. But his mother held his hand and reassured him that they were safe and that the tuyul would help them if they could just find it.\n\nFinally, after hours of searching, they came upon a small clearing in the forest. In the center of the clearing stood a tiny, wrinkled old man. He had long, thin arms and legs, and his skin was bright green.\n\nBayu's mother whispered to him, \"That's the tuyul. Be very respectful and ask it for a wish.\"\n\nBayu approached the tuyul and bowed low. \"Hello, Mr. Tuyul,\" he said. \"I am Bayu, and I have come to ask for a wish. I wish for my family to always be healthy and happy, and for me to grow up to be a kind and wise man.\"\n\nThe tuyul looked at Bayu and smiled. \"Your wish is granted, Bayu,\" it said in a tiny, high-pitched voice. \"But remember, true happiness comes from within, and it is up to you to make the world a better place.\"\n\nWith that, the tuyul disappeared in a puff of smoke, leaving Bayu and his mother in the clearing. They made their way back to the village, their hearts full of joy and gratitude.\n\nFrom that day on, Bayu always remembered the lesson he learned from the tuyul. He worked hard to be kind and wise, and he cherished every moment with his family. And every night, before he went to bed, he would look up at the stars and whisper a thank you to the magical creature that had granted him his wish.\n\nAnd with that, Bayu closed his eyes and drifted off to sleep, dreaming of all the adventures that awaited him in the world. Goodnight, my dear son, may you always have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "respectful": "moral",
+    "pure of heart": "moral",
+    "fascinated": "emotional",
+    "a little scared": "emotional",
+    "grateful": "emotional",
+    "hardworking": "mental",
+    "wise": "mental",
+    "cherishing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

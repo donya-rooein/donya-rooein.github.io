@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Nigeria, there lived a young boy named Kola. Kola was a curious and adventurous child who loved exploring the lush forests and vibrant villages that surrounded his home.\n\nOne day, as the sun began to set and the stars started to twinkle in the night sky, Kola's grandmother called him over and said, \"Kola, let me tell you a special bedtime story.\"\n\nWith eyes wide with excitement, Kola snuggled up next to his grandmother as she began to weave a tale of bravery and friendship. It was the story of a young boy who embarked on a magical journey to find a precious gem that could bring prosperity and happiness to his village.\n\nAs the story unfolded, Kola imagined himself as the brave young boy, navigating through dense forests, crossing treacherous rivers, and overcoming daunting challenges with the help of his loyal friends. Each twist and turn in the story filled Kola's heart with wonder and joy.\n\nFinally, as the story came to an end, Kola's grandmother leaned in and whispered, \"Remember, Kola, courage and kindness can light up even the darkest of paths. Always believe in yourself and never forget the power of friendship.\"\n\nWith a smile on his face, Kola hugged his grandmother tightly, feeling grateful for the special bedtime story that had filled his heart with courage and hope.\n\nAs he drifted off to sleep, surrounded by the comforting embrace of his family and the gentle whispers of the night, Kola knew that he was ready to face whatever adventures awaited him in the morning, guided by the lessons of the magical tale his grandmother had shared with him.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Kola closed his eyes and fell into a peaceful slumber, his dreams filled with promises of endless possibilities and endless adventures.\n\nThe end. Goodnight, dear child. May your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "grateful": "emotional",
+    "courageous": "mental",
+    "hopeful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.54",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful country of Azerbaijan, there was a young boy named Ali. Ali was a curious and adventurous child who loved exploring the mountains and valleys that surrounded his village.\n\nOne evening, as the sun was setting and the stars began to twinkle in the night sky, Ali's father sat down next to him and said, \"Ali, I have a special story to tell you tonight.\"\n\nAli's eyes widened with excitement as he snuggled closer to his father, eager to hear the tale.\n\n\"Long ago, in the ancient land of Azerbaijan, there lived a magical bird called Simurg,\" Ali's father began. \"Simurg was known for its wisdom and kindness, and it was said that anyone who laid eyes on the bird would be filled with hope and courage.\"\n\nAs Ali listened intently, his father continued, \"One day, a young shepherd boy named Javid ventured deep into the mountains in search of his lost sheep. As the evening approached, Javid found himself lost and alone, with no one to guide him home.\"\n\n\"With a heavy heart, Javid sat down by a sparkling stream, feeling scared and helpless. But just then, a magnificent bird with shimmering feathers landed before him. It was Simurg, the legendary bird of Azerbaijan.\"\n\n\"Simurg looked into Javid's eyes with compassion and spoke in a soft, soothing voice, 'Do not be afraid, young one. I will guide you safely back to your village.' With Simurg's guidance, Javid found his way back home, filled with a newfound sense of courage and gratitude.\"\n\n\"And from that day on, Javid knew that no matter how lost or afraid he may feel, he could always look up to the sky and find comfort in the presence of Simurg, the magical bird of hope.\"\n\nAs Ali's father finished the story, he looked down at his son, whose eyes were shining with wonder and awe. \"Remember, Ali,\" he said, \"just like Javid found strength in the help of Simurg, always remember that you have the courage and resilience within you to overcome any challenge that comes your way.\"\n\nWith a smile on his face, Ali drifted off to sleep, his heart filled with the magical tale of Simurg, ready to dream of adventures yet to come in the enchanting land of Azerbaijan.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "courageous": "mental",
+    "resilient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.24",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

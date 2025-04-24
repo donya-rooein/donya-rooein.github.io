@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and curious young boy named Karim. Karim was known throughout the village for his boundless imagination and his love of adventure. Every day after school, he would run to the edge of the desert, close his eyes, and let the warm wind carry him away to far-off lands.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Karim's mother called him inside to prepare for bed. He protested, wanting to stay outside and play a little longer, but his mother insisted.\n\n\"But mother, I'm not tired,\" Karim complained.\n\nHis mother smiled and said, \"Well, how about I tell you a bedtime story instead?\"\n\nKarim's eyes lit up with excitement. He loved his mother's stories, especially the ones about the magical creatures that lived in the desert.\n\n\"Once upon a time,\" his mother began, \"there was a magical creature called the Djinni of the Sands. This Djinni had the power to grant wishes to those who were pure of heart and true of spirit.\n\n\"One day, a poor farmer from the village lost his prized camel in a sandstorm. The farmer was heartbroken, as the camel was his only means of making a living. He wandered the desert for days, searching for his beloved animal.\n\n\"Finally, in desperation, he called out to the Djinni of the Sands. To his surprise, the Djinni appeared before him in a swirl of golden sand.\n\n\"'What is your wish, mortal?' the Djinni asked.\n\n\"The farmer looked into the Djinni's eyes and said, 'I wish for my camel to be returned to me, safe and sound.'\n\n\"The Djinni smiled and waved his hand. In an instant, the farmer's camel appeared before him, unharmed and ready to work.\n\n\"The farmer was overjoyed and thanked the Djinni profusely. But the Djinni had one more surprise for him.\n\n\"'As a reward for your pure heart,' the Djinni said, 'I will grant you one more wish. What do you desire?'\n\n\"The farmer thought for a moment and then said, 'I wish for the people of my village to never go hungry again.'\n\n\"The Djinni nodded and granted the wish. From that day forward, the village was blessed with an abundance of food, and no one ever went hungry again.\n\n\"And so, my dear Karim, the Djinni of the Sands reminds us that with a pure heart and a kind spirit, we can overcome any obstacle and make the world a better place.\"\n\nKarim's eyes were wide with wonder as his mother finished her story. He snuggled under his blankets and drifted off to sleep, dreaming of magical Djinni and the power of kindness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of adventure": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

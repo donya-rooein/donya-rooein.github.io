@@ -1,0 +1,28 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village in Sudan, there lived a young boy named Malik. Malik was a curious and adventurous child who loved exploring the vast desert that surrounded his village. He spent his days playing with his friends and learning from the elders about the rich culture and history of his homeland.\n\nOne evening, as the sun began to set and cast a golden glow over the village, Malik's grandmother called him to sit by the fire. She told him a magical story about the stars in the night sky. She explained how each star had a special meaning and purpose, guiding travelers on their journeys and watching over the earth below.\n\nMesmerized by his grandmother's tale, Malik looked up at the darkening sky and saw the twinkling stars above. He felt a sense of wonder and awe at the vastness of the universe and the beauty of the night.\n\n\"Remember, Malik,\" his grandmother said, \"no matter where you go or what challenges you face, the stars will always be there to guide you and protect you. Just like our ancestors have done for generations.\"\n\nFeeling comforted by his grandmother's words, Malik laid down on his mat and drifted off to sleep, dreaming of adventures under the starlit sky.\n\nAs his eyes grew heavy and the night grew quiet, Malik knew that he was safe and loved in his village, with the stars watching over him until the morning light. And so, nestled in the warmth and security of his home, Malik drifted into a peaceful and restful sleep, ready to continue his own adventures when the sun rose once again.\n\nAnd with that, the village fell into a peaceful slumber, wrapped in the gentle embrace of the starry night sky.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "mesmerized": "emotional",
+    "comforted": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "peaceful": "emotional",
+    "restful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.88",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

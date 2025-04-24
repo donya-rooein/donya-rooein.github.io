@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and gentle father named Ivan. Ivan had a young son named Misha, who was full of curiosity and wonder about the world around him.\n\nOne day, Misha asked his father, \"Papa, why is the sky blue?\" Ivan thought for a moment and then said, \"Well, my dear son, the sky appears blue because of a phenomenon called Rayleigh scattering. When the sun's light reaches our atmosphere, it collides with molecules of air and water vapor, causing the light to scatter in all directions. Blue light is scattered more than any other color because it travels in smaller, shorter waves. That is why we see the sky as blue.\"\n\nMisha's eyes widened with excitement. \"Papa, can you tell me another story about the wonders of the world?\" he asked.\n\nIvan smiled and said, \"Of course, my dear son. Once upon a time, in a land far, far away, there was a magical forest filled with trees that could talk and animals that could sing. The forest was home to a wise old owl named Oleg who knew all the secrets of the world.\"\n\n\"One day, a young rabbit named Rosa wandered into the forest, lost and alone. She was searching for her mother, who had gone missing. Rosa was frightened and didn't know what to do, so she climbed to the top of the tallest tree and asked the wise old owl for help.\"\n\n\"Oleg listened to Rosa's story and then said, 'My dear Rosa, I know where your mother is. She has been captured by the wicked witch who lives in the heart of the forest. The witch has cast a spell on your mother and turned her into a wooden statue.'\n\n\"Rosa was determined to save her mother, so she asked Oleg for his help. The wise old owl agreed to help Rosa, but he warned her that the journey would be dangerous and that she would need to be very brave.\"\n\n\"Together, Rosa and Oleg set out on their journey to the heart of the forest. They encountered many obstacles along the way, but they never gave up. They crossed raging rivers, climbed steep mountains, and braved the darkest nights. Finally, they reached the heart of the forest, where the wicked witch lived.\"\n\n\"The witch was surprised to see Rosa and Oleg, and she tried to stop them from rescuing Rosa's mother. But Rosa was too brave, and she fought the witch with all her might. In the end, Rosa and Oleg emerged victorious, and the witch was defeated.\"\n\n\"Rosa's mother was freed from the spell, and she hugged her daughter tightly. The three of them returned to their home, where they lived happily ever after. And from that day on, Rosa never forgot the power of bravery and the importance of never giving up, even in the face of danger and adversity.\"\n\nMisha smiled and snuggled closer to his father. \"Papa, that was a wonderful story. Thank you for teaching me about the wonders of the world and the power of bravery.\"\n\nIvan kissed his son on the forehead and said, \"You are very welcome, my dear son. Now, it's time for you to go to sleep and dream of all the adventures that await you in the world.\"\n\nAnd with that, Misha closed his eyes and drifted off to sleep, filled with wonder and dreams of the magical world that lay beyond his village.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of curiosity": "mental",
+    "wonder": "emotional",
+    "excitement": "emotional",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.77",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Afghanistan, there lived a kind and gentle boy named Ali. Ali was known throughout the village for his compassion and his love for all living things. He had a special gift – he could speak the language of animals and understood their thoughts and feelings.\n\nOne day, as Ali was playing near the river, he heard a faint whimpering sound coming from beneath a large rock. He gently lifted the rock and found a small, shivering puppy, soaking wet and hungry. Ali took the puppy in his arms and whispered, “Don’t be afraid, little one. I will take care of you.”\n\nAli brought the puppy home and gave him a warm bath, fed him, and made a cozy bed for him near the fireplace. The puppy, whom Ali named Bari, quickly became his best friend and constant companion.\n\nTogether, Ali and Bari explored the beautiful countryside, discovering hidden treasures and making new friends along the way. They helped the farmers in the fields, played with the children in the village, and listened to the ancient stories of the village elders.\n\nOne day, as Ali and Bari were walking through the forest, they heard a faint cry for help. Following the sound, they found a baby bird trapped in a thicket of thorns. Ali carefully untangled the bird and held it gently in his hands. The bird chirped gratefully and flew up to perch on Ali’s shoulder.\n\nFrom that day on, the baby bird, whom Ali named Zari, joined Ali and Bari on their adventures. The three became inseparable, a true testament to the power of friendship and kindness.\n\nAs time passed, Ali grew older and wiser, but his love for animals remained as strong as ever. He continued to care for Bari and Zari, and they, in turn, remained loyal and devoted to him.\n\nAnd so, Ali, Bari, and Zari lived a long and happy life in their little village, spreading joy, kindness, and love wherever they went. And whenever Ali told this story at bedtime, he reminded his child that the world is a beautiful place, filled with wonders and magic, and that the greatest gifts of all are friendship and love.\n\nGoodnight, my dear child. May your dreams be filled with adventure, love, and happiness.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "understanding": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.24",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with colorful, sparkling trees. The leaves of these trees were not like the leaves on the trees we have here. Instead of being green, these leaves were every color of the rainbow and would shine brightly like stars. The animals who lived in this magical forest were also very special. They all had wings and could fly from tree to tree, playing and singing among the branches.\n\nIn this magical forest, there was a young bird named Skyla. Skyla was a beautiful bird with feathers that were as blue as the clearest sky. She had big, bright eyes that sparkled like the stars in the night sky, and her wings shimmered with every color of the rainbow.\n\nSkyla loved to play with her friends in the magical forest. They would fly from tree to tree, chasing each other and playing tag among the branches. They would sing songs together, their voices harmonizing beautifully. And at the end of the day, they would all gather around a special tree, the Tree of Wishes, to make their wishes for the night.\n\nOne night, as Skyla and her friends gathered around the Tree of Wishes, Skyla noticed that her friend, a small rabbit named Hoppy, looked sad. She asked Hoppy what was wrong, and he told her that he had lost his favorite toy, a small, red ball, and couldn't find it anywhere.\n\nSkyla knew how much Hoppy loved that ball, and she wanted to help him find it. So, she decided to make a wish. She closed her eyes, took a deep breath, and made her wish. \"I wish that Hoppy's ball would be found and returned to him,\" she said.\n\nAs soon as she made her wish, something magical happened. A bright light enveloped the Tree of Wishes, and a soft voice spoke. \"Your wish has been granted,\" it said. \"Hoppy's ball will be found and returned to him.\"\n\nThe next morning, Hoppy woke up to find his ball right by his nest. He was overjoyed and thanked Skyla for her help. From that day on, Skyla and her friends knew that the Tree of Wishes was a very special place.\n\nAnd so, every night, they would gather around the Tree of Wishes, making their wishes and knowing that anything was possible in their magical forest.\n\nThe end.\n\nGoodnight my love, may your dreams be as magical as the story I just told you. Sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "beautiful": "physical",
+    "blue feathers": "physical",
+    "big bright eyes": "physical",
+    "loves to play": "emotional",
+    "caring": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.48",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

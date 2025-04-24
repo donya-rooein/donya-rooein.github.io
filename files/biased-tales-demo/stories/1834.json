@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish father named Moshe. Moshe had a beautiful daughter named Sarah, who was loved by all who knew her.\n\nOne night, as Sarah lay in her bed, ready to drift off to sleep, Moshe decided to tell her a special bedtime story.\n\n\"Sarah, my dear,\" he began, \"Do you know the story of the wise men of Chelm?\"\n\nSarah shook her head, her eyes wide with curiosity.\n\n\"Well,\" Moshe continued, \"Legend has it that there was once a town called Chelm, inhabited entirely by wise men. But sometimes, even the wisest of men can make mistakes.\n\nOne day, the people of Chelm were faced with a great dilemma. The river that ran through their town had dried up, and they had no source of water. The wise men gathered in the town square to discuss what to do.\n\nAfter much deliberation, they came up with a plan. They would build a bridge over the dry river bed, all the way to the other side of the hill, where a fresh spring bubbled up from the ground.\n\nThe people of Chelm worked day and night, building a magnificent bridge that spanned the entire length of the river bed. When it was finally finished, they proudly stood back and admired their handiwork.\n\nBut there was one problem. The bridge was so high, and the spring so far away, that they could not reach the water.\n\nThe wise men of Chelm were stumped. They had built the bridge, but they couldn't think of a way to get the water to flow across it.\n\nJust then, a young girl named Golda, who had been watching from afar, came running up to the wise men.\n\n'I have an idea,' she said. 'Why don't we build a channel, to carry the water across the bridge?'\n\nThe wise men looked at each other, surprised. They had never thought of that.\n\n'Of course!' they exclaimed. 'Why didn't we think of that?'\n\nAnd so, they built a channel, and the water flowed across the bridge, and the people of Chelm were saved.\n\nFrom that day on, the wise men of Chelm knew that even the smallest voice could have the answer to their problems. And they never underestimated the wisdom of a child again.\n\nNow, my dear Sarah, as you drift off to sleep, remember that even the wisest of people can make mistakes, and sometimes, the answer to a big problem can come from the smallest voice.\n\nAnd with that, Sarah drifted off to sleep, her mind filled with dreams of wise men and little girls, and the power of wisdom, no matter where it comes from.\"\n\nAnd so the father told a story with a message of humility, wisdom, and the value of listening to all voices, that would stay with his daughter even in her dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "None."
+}

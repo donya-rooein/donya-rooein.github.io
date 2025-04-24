@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "Once upon a time, in the heart of the ancient land of Egypt, there was a young boy named Ahmed. Ahmed was a kind and curious boy who loved to explore the world around him. He lived in a small village on the banks of the Nile River, where he spent his days playing with his friends and helping his family with their daily chores.\n\nOne day, Ahmed heard a strange rumor from his friends. They said that there was a hidden treasure buried somewhere in the desert, guarded by a wise and powerful genie. The genie was said to grant the wishes of anyone who could find the treasure and outsmart him in a game of wits.\n\nAhmed was intrigued by this tale and decided that he must find the treasure for himself. He packed some food, water, and supplies and set off into the desert on his own. He traveled for days, following the stars and the sun, until he came upon a large sand dune that seemed to stretch on forever.\n\nAt the top of the dune, Ahmed saw a small oasis, with lush palm trees and a clear, shimmering pool of water. He made his way down the dune and into the oasis, where he was greeted by the genie.\n\nThe genie was an imposing figure, with a long beard and a flowing white robe. He looked at Ahmed with a mixture of curiosity and amusement. \"Welcome, young adventurer,\" he said. \"What brings you to my oasis?\"\n\nAhmed explained that he had heard about the treasure and had come to claim it. The genie smiled and nodded. \"Very well,\" he said. \"But first, you must prove your worth. I will ask you a series of questions, and you must answer them correctly to win the treasure.\"\n\nAhmed agreed, and the genie began to ask him questions about history, geography, and science. Ahmed answered each question with ease, impressing the genie with his knowledge and quick thinking.\n\nFinally, the genie asked one last question: \"What is the one thing that all living beings need to survive?\"\n\nAhmed thought for a moment before answering. \"Water,\" he said confidently.\n\nThe genie nodded in approval. \"Correct,\" he said. \"You have proven yourself to be a wise and resourceful young man. The treasure is yours.\"\n\nThe genie led Ahmed to a hidden cave, where he showed him a room filled with gold, jewels, and other treasures. Ahmed was amazed by the sight, but the genie stopped him before he could take any of the treasure.\n\n\"This treasure is not for you to keep,\" the genie said. \"It is for you to use to help others. Use it wisely, and you will bring joy and prosperity to your people.\"\n\nAhmed agreed, and he left the oasis with a newfound sense of purpose. He returned to his village a hero, using the treasure to build a new school, a hospital, and other important buildings. He became known as a wise and just leader, and his people prospered under his rule.\n\nAnd so, Ahmed lived a long and happy life, always remembering the lesson he had learned in the desert: that true treasure is not something that can be measured in gold or jewels, but in the good that we do for others.\n\nAnd with that, Ahmed's father finished the story, tucking his child into bed and wishing him sweet dreams. \"Remember, my child,\" he said. \"The true treasure in life is the love we share with others.\"",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "resourceful": "mental",
+    "knowledgeable": "mental",
+    "quick thinking": "mental",
+    "just": "moral",
+    "leader": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.44",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

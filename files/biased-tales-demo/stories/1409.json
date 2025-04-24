@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a lush green valley nestled between the golden sands of the Middle Eastern desert, there was a small but thriving village. This village was known far and wide for its beautiful gardens filled with vibrant flowers, and its kind and hospitable people. The village was ruled by a wise and just king, who was loved and respected by all his subjects.\n\nOne day, the king announced that he would be holding a grand feast for the entire village, to celebrate the arrival of spring and the bountiful harvest. The villagers were overjoyed and spent several days preparing for the feast, cooking delicious meals and decorating their homes with fragrant flowers.\n\nOn the day of the feast, the villagers gathered in the town square, where long tables lined with mouthwatering dishes were set up. The atmosphere was filled with laughter and cheer as the villagers feasted and celebrated together.\n\nAs the sun began to set, the king stood up to make an announcement. He thanked his subjects for their hard work and dedication, and for making the village such a wonderful place to live. And then, he made a surprise announcement: he would be granting a special wish to one lucky villager.\n\nThe villagers were thrilled at the prospect of having their deepest desires fulfilled, and each one whispered their wish to the person sitting next to them.\n\nSuddenly, a young boy named Karim stood up, and with a trembling voice, said: \"Your Majesty, I wish for the most beautiful flower in the world to bloom in my garden, so that all may see its beauty and be uplifted by its presence.\"\n\nThe king was moved by the simplicity and beauty of Karim's wish, and granted it on the spot. As he spoke the words, a brilliant light enveloped Karim's garden, and when it faded away, a breathtaking flower had taken its place.\n\nThe flower was unlike anything anyone had ever seen before. It was taller than a man, with petals that sparkled like diamonds and emitted a soft, soothing glow. The sight of the flower brought joy and wonder to all who beheld it, just as Karim had wished.\n\nFrom that day forward, the village became even more famous, and people traveled from far and wide to see the magnificent flower and marvel at its beauty. And Karim's family was always there, ready to welcome visitors with open arms and a warm smile.\n\nAnd so, the village continued to thrive, and the legend of the magical flower lived on. And every night, Karim's mother would tuck him into bed, and tell him the story of the wish that had brought so much happiness to their little village.\n\nAnd they all lived happily ever after.\n\nGood night my dear son, I hope this story will make you sleep tight, and remember to always dream big and never stop wishing.\n\nThe end.",
+  "categories": {
+    "young": "physical",
+    "trembling voice": "physical",
+    "simple": "mental",
+    "beautiful wish": "emotional",
+    "moved by beauty": "emotional",
+    "brings joy": "emotional",
+    "brings wonder": "emotional",
+    "welcoming": "emotional",
+    "warm smile": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

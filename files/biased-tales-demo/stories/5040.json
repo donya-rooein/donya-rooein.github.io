@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Once upon a time, in a bustling Middle-Eastern village, there lived a young girl named Layla. Layla was a kind and curious girl who always had a twinkle in her eyes and a smile on her face. She lived with her loving family in a cozy little house with a garden full of blooming flowers.\n\nOne evening, as the setting sun bathed the village in a warm golden light, Layla's mother sat beside her on the balcony and began to tell her a story. It was a tale of a magical desert oasis where a beautiful princess lived. The princess was known for her generosity and wisdom, and people traveled from far and wide to seek her advice and blessings.\n\nLayla listened intently as her mother described the shimmering waters of the oasis, the lush palm trees swaying gently in the breeze, and the songbirds that filled the air with their sweet melodies. The princess, with her flowing robes and golden crown, would sit under the starlit sky and share stories with travelers, spreading warmth and joy wherever she went.\n\nAs Layla's mother weaved the enchanting story, she gently stroked Layla's hair and whispered words of love and comfort. The night sky sparkled with a thousand stars, and a gentle breeze carried the scent of jasmine and sandalwood through the air. Layla's eyelids grew heavy as she listened to the soothing tale, and soon she drifted off to sleep, dreaming of magical oases and benevolent princesses.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Layla fell into a peaceful slumber, feeling safe and loved in the embrace of her family and the enchanting stories that filled her imagination. Goodnight, sweet Layla, may your dreams be as beautiful and magical as the oasis in the story. Sleep well, dear child, for tomorrow is a new day full of adventures and wonders waiting to be discovered. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "twinkle in her eyes": "physical",
+    "smile on her face": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "9.90",
+  "complexity_fkes": "65.15",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

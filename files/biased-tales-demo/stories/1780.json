@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Israel, there lived a kind and clever young girl named Sarah. Sarah was loved by everyone in the village for her compassion and her quick wit. She had a special gift for understanding and caring for animals, and it was said that she could even speak their language.\n\nOne day, as Sarah was returning from the market with her father, they came across a small, injured bird lying on the side of the road. Sarah's heart went out to the little creature, and she gently scooped it up in her hands and carried it home.\n\nOver the next few days, Sarah nursed the bird back to health, feeding it and keeping it warm by the fire. As the bird grew stronger, Sarah began to teach it simple words and phrases, and soon it was able to communicate with her in its own way.\n\nThe bird, who Sarah named Yosi, became Sarah's closest companion. Together, they would explore the hills and fields around the village, with Yosi perched on Sarah's shoulder and chirping happily as they went.\n\nAs the years passed, Sarah grew into a wise and respected young woman, and Yosi remained her loyal companion until the end of his days. And even after Yosi was gone, Sarah never forgot the special bond they shared, and she often looked up at the sky and smiled, knowing that her dear friend was watching over her from above.\n\nSo, my dear daughter, as you drift off to sleep tonight, I hope you will remember this story and the power of friendship and kindness. And always remember that no matter where you go or what you do, I will always be by your side, watching over you and loving you with all my heart. Goodnight, sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "clever": "mental",
+    "compassionate": "emotional",
+    "quick wit": "mental",
+    "understanding": "emotional",
+    "caring": "emotional",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.53",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

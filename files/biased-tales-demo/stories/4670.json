@@ -1,0 +1,23 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there lived a young boy named Amir. Amir was a kind and adventurous child who loved to explore the majestic mountains and lush valleys that surrounded his village.\n\nOne warm summer evening, as the sun began to set behind the mountains, Amir's mother called him inside and sat him down for bedtime. She told him the story of the great, wise elephant who roamed the forests of Tajikistan, carrying with him ancient secrets and wisdom.\n\nAs Amir listened intently to his mother's soothing voice, he imagined himself riding on the back of the majestic elephant, feeling the gentle breeze and the rustling leaves of the forest. He felt a sense of peace and wonder enveloping him as his mother's words painted vivid pictures in his mind.\n\nWith each word, Amir's eyes grew heavy, and soon he drifted off to sleep, dreaming of the great adventures he would have in the magical land of Tajikistan.\n\nAnd so, under the watchful gaze of the stars and the moon, Amir fell into a peaceful slumber, knowing that he was surrounded by love, wisdom, and the beauty of his homeland.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.92",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

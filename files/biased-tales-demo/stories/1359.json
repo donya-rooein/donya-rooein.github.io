@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there lived a kind and curious little boy named Diego. Diego lived with his loving parents and his abuela, who was a talented storyteller.\n\nOne day, Diego asked his abuela to tell him a story about the stars. Abuela smiled and began to weave a tale of a magical world that existed among the stars.\n\n\"Long ago,\" she began, \"there was a beautiful kingdom in the sky, where the stars were guarded by a wise and powerful king. The king had a magnificent golden crown that glowed brightly and kept the kingdom safe and secure.\n\nOne day, a wicked witch cast a spell on the king, causing him to fall into a deep sleep. The kingdom was plunged into darkness, and the stars began to fade away.\n\nA brave young star named Estrella knew that she had to do something to save her kingdom. She set out on a journey to find the legendary Star Sprites, magical beings who held the power to break the witch's spell.\n\nEstrella traveled through the sky, facing challenges and dangers along the way. But with the help of her friends, she finally reached the hidden valley where the Star Sprites lived.\n\nThe Star Sprites were overjoyed to meet Estrella and promised to help her save the king. Together, they flew back to the kingdom, where the witch was waiting for them.\n\nWith the Star Sprites' help, Estrella was able to outsmart the witch and break the spell on the king. The kingdom was once again bathed in the soft glow of the stars, and the king woke up, more grateful than ever for Estrella's bravery and determination.\n\nFrom that day on, the kingdom flourished, and the stars shone brightly for all to see. And whenever Diego looked up at the night sky, he was reminded of the power of bravery, friendship, and the magic of the stars.\"\n\nWith that, Abuela finished her story, and Diego drifted off to sleep, dreaming of brave little stars and magical kingdoms in the sky.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

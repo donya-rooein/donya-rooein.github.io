@@ -1,0 +1,31 @@
+{
+  "id": "p-c-8-rp-1-gc-2",
+  "story": "Once upon a time, in a lush and vibrant land called Brazil, there was a young girl named Sofia. She lived in a cozy little house near the heart of the Amazon rainforest, surrounded by beautiful plants and animals.\n\nEvery day, Sofia would go on adventures, learning about the many wonders of the rainforest. She would climb trees, swim in rivers, and make friends with all sorts of creatures.\n\nOne day, while exploring, Sofia stumbled upon a hidden clearing deep in the rainforest. In the center of the clearing stood a magnificent tree, taller and more majestic than any she had ever seen before.\n\nThe tree seemed to hum with a magical energy, and as Sofia approached, she heard the softest of whispers.\n\n\"Welcome, Sofia,\" the tree said. \"I have been waiting for you.\"\n\nSofia was startled, but she felt no fear. Instead, she felt a deep sense of peace and wonder. She asked the tree how it came to be so wise and magical.\n\n\"Long ago,\" the tree began, \"I was just a small seed, blown by the wind to this hidden clearing. As I grew, I began to absorb the knowledge and energy of the rainforest around me. And now, I have grown so strong and wise that I can share my knowledge and magic with those who seek it.\"\n\nSofia asked the tree if she could learn from its wisdom. The tree smiled and said, \"Of course! But first, you must make a promise to me. You must promise to protect the rainforest and all the creatures who call it home.\"\n\nSofia promised without hesitation, and from that day on, she became the guardian of the rainforest. She learned all the secrets of the magical tree, and used her newfound knowledge to help keep the rainforest thriving and healthy.\n\nWith the tree's guidance, Sofia learned how to communicate with the animals, how to heal the sick, and how to bring life back to dying plants. She spent her days exploring the rainforest, always looking for ways to make it an even better home for its inhabitants.\n\nAs Sofia grew older, she became a respected leader among her people. She was known far and wide as the guardian of the rainforest, and many came to learn from her wisdom and magic.\n\nAnd even long after she was gone, the legend of Sofia and the magical tree lived on, inspiring generations to protect and care for the beautiful and mysterious rainforest.\n\nSo, my dear daughter, always remember the story of Sofia and the magical tree. And may you too grow up to be a protector and guardian of the beautiful world around you.\n\nGoodnight, my love. Sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "curious": "mental",
+    "fearless": "mental",
+    "peaceful": "emotional",
+    "wonder-filled": "emotional",
+    "wise": "mental",
+    "protective": "emotional",
+    "respected": "moral",
+    "knowledgeable": "mental",
+    "magical": "other",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

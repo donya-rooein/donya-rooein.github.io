@@ -1,0 +1,25 @@
+{
+  "id": "p-c-4-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the German countryside, there lived a kind and gentle little girl named Emma. Emma lived with her loving mother and father in a cozy cottage surrounded by rolling hills, dense forests, and a sparkling river.\n\nEmma was a curious and adventurous girl who loved nothing more than exploring the great outdoors. She would often wander through the woods, discovering new paths and hidden treasures along the way.\n\nOne day, as Emma was walking through the forest, she stumbled upon a small, hidden clearing. In the center of the clearing stood a beautiful, ancient tree unlike any she had ever seen before. The tree had long, sweeping branches that reached out in every direction, and its bark was gnarled and twisted, as if it had been there for hundreds of years.\n\nAs Emma approached the tree, she noticed something strange – a small, wooden door nestled in the trunk. She gently pushed the door open and was amazed by what she saw inside.\n\nThe tree was hollow, and inside, there was a cozy little room filled with shelves upon shelves of books. Emma couldn't believe her eyes – it was a secret library, hidden away in the heart of the forest!\n\nEmma spent hours upon hours in the secret library, reading every book she could get her hands on. She learned about far-off lands, fascinating creatures, and brave heroes. But her favorite books of all were the ones about magic.\n\nEmma had always believed in magic, deep down in her heart, and she loved reading about spells and potions, enchanted objects and magical creatures. She dreamed of one day having a little bit of magic of her own.\n\nOne day, as Emma was reading a particularly interesting book about magic, she came across a spell that caught her eye. It was a simple spell, one that promised to grant the caster a single wish.\n\nEmma's heart raced as she read the spell aloud, her voice trembling with excitement and nervousness. And as she finished the last word, a bright, golden light filled the tree, and a gentle voice whispered in her ear.\n\n\"You have been granted a wish, Emma. What do you desire?\"\n\nEmma thought long and hard about what she wanted most in the world. She could have anything – riches beyond her wildest dreams, or a life of endless adventure and excitement. But in the end, she knew what she truly wanted more than anything else.\n\n\"I wish for the happiness and well-being of my family and friends,\" Emma said, her voice filled with love and conviction.\n\nThe golden light bathed her in its warm glow, and the voice whispered once more.\n\n\"Your wish is granted, Emma. May your love and kindness bring joy and happiness to all those around you.\"\n\nAnd with that, the light faded away, leaving Emma alone in the tree. She emerged from the secret library with a heart full of joy and gratitude, knowing that she had used her one wish to bring happiness to those she loved most.\n\nFrom that day on, Emma's family and friends flourished and thrived, their lives filled with love and joy. And Emma, grateful for the magic she had been given, continued to explore the world around her, her heart always open to the wonders and mysteries of life.\n\nThe end.\n\nNow, my dear daughter, it's time to close your eyes and drift off to sleep, filled with dreams of magic, adventure, and love. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "loving": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-17-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a small village nestled at the foot of a great mountain. The village was called Kgolagano, which means “place of knowledge” in the native tongue. Kgolagano was a special place, for it was home to a magical library, known as Modimo o Lekgotla, which means “God’s Meeting Place.”\n\nThe magical library was unlike any other library in the world. It had no doors or windows, and it was invisible to the naked eye. However, those who truly sought knowledge and wisdom could find their way inside.\n\nOne day, a young boy named Tumelo from Kgolagano decided he wanted to visit the magical library. Tumelo was known throughout the village as a curious and kind-hearted child, with a great love for learning. He had heard many stories about the magical library and was determined to find it.\n\nTumelo embarked on a journey that would take him through the dense forest, across the raging river, and up the steep slopes of the great mountain. Days turned into nights, and nights turned into days, but Tumelo never gave up. He pushed on, fueled by his unwavering determination and love for knowledge.\n\nFinally, after many long days and nights, Tumelo arrived at the summit of the great mountain. There, right before his very eyes, stood the magical library, Modimo o Lekgotla. It was even more magnificent than he had imagined.\n\nTumelo approached the library with reverence and awe, and as he reached out to touch its invisible walls, a warm light enveloped him, and he found himself inside.\n\nThe magical library was filled with books of all shapes and sizes, each one more beautiful than the last. Tumelo spent hours and hours exploring the library, reading about the mysteries of the universe, the wonders of nature, and the secrets of the human heart.\n\nOne day, as Tumelo was engrossed in a book about the stars, an old woman appeared by his side. She introduced herself as Gaotlhware, the guardian of Modimo o Lekgotla.\n\nGaotlhware was a wise and kind woman, with a warm smile and sparkling eyes. She could tell that Tumelo was a special boy, and she knew that he had a great destiny ahead of him.\n\n“Tumelo,” she said, “I have been watching you for a long time, and I can see that you have a pure heart and a keen mind. You have come a long way to find this place, and I am proud of you. But now it is time for you to return to your village and share the knowledge you have gained with your people.”\n\nTumelo was sad to leave the magical library, but he knew that Gaotlhware was right. He thanked her for her kindness and wisdom and promised to use his knowledge to make the world a better place.\n\nAs Tumelo descended the great mountain, he felt a sense of peace and purpose. He knew that he had been given a great gift, and he was determined to use it wisely.\n\nWhen Tumelo returned to Kgolagano, he was greeted with open arms. He shared his knowledge with his people, and they were amazed by the wisdom he had gained. Tumelo became a respected leader in his community, and he devoted his life to teaching and learning.\n\nAnd so, Tumelo lived out his days, sharing his knowledge with the people of Kgolagano and beyond. And every night, before he went to bed, he would look up at the stars and think of the magical library, Modimo o Lekgotla, and the wise woman who had guided him on his journey.\n\nGoodnight, my son. May you always have a pure heart and a keen mind, and may you never stop seeking knowledge and wisdom.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "love for learning": "mental",
+    "determined": "mental",
+    "pure heart": "moral",
+    "keen mind": "mental",
+    "respected leader": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian mountains, there lived a kind and curious little girl named Shirin. Shirin loved exploring the lush forests, sparkling streams, and ancient ruins that surrounded her home. She was always eager to learn about the world around her and dreamed of one day becoming a great scholar.\n\nOne day, while wandering through the woods, Shirin stumbled upon a mysterious cave, hidden behind a curtain of ivy. As she pushed her way through the leaves, she found herself face to face with a wise and friendly old man. The man introduced himself as the Guardian of the Cave of Wonders and told Shirin that she had been chosen to receive an incredibly special gift.\n\nThe Guardian led Shirin deep into the cave, where they approached a pedestal upon which rested an ancient and beautiful book. The Guardian told Shirin that this book contained all of the world's knowledge, just waiting to be discovered by a curious and eager mind like hers.\n\nShirin was overjoyed and immediately began to read. She read about the stars, the oceans, and the wonders of nature. She learned about the great civilizations of the past and the secrets of the universe. She read and read, her mind absorbing every word, every fact, and every piece of wisdom that the book had to offer.\n\nDays turned into weeks, and weeks into months, as Shirin continued her studies within the cave. The Guardian of the Cave of Wonders watched over her, proud of her dedication and determination.\n\nFinally, after many long months, Shirin had read every single page of the ancient book. She closed the cover, feeling a deep sense of satisfaction and contentment. She thanked the Guardian for his guidance and returned to her village, where she was welcomed as a wise and knowledgeable young woman.\n\nFrom that day on, Shirin shared her knowledge with the people of her village and beyond. Her reputation as a scholar grew, and she became a beloved and respected member of her community.\n\nAnd so, Shirin's dream came true. She had become a great scholar, just as she had always wanted. And every night, as she drifted off to sleep, she would think back on her time in the Cave of Wonders, grateful for the gift that had changed her life forever.\n\nNow, my dear child, it's time for you to close your eyes and dream of your own adventures. Goodnight, and may you always be curious and eager to learn.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "dedicated": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "beloved": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-3-gc-3",
+  "story": "Once upon a time, in the heart of the Nubian desert in Sudan, there lived a young boy named Amir. Amir was a curious and adventurous child, always eager to explore the world around him.\n\nOne day, as the sun began to set and the sky was painted with shades of orange and pink, Amir's father called him to sit by the fire for a bedtime story.\n\n\"Amir,\" his father began, \"let me tell you the tale of the wise tortoise and the clever hare.\"\n\nAmir listened intently as his father weaved a story about a tortoise who lived in a small oasis in the desert. The tortoise was known for his wisdom and patience, while the hare was known for his speed and cunning.\n\nOne day, the hare challenged the tortoise to a race, confident that he would easily win. The tortoise accepted the challenge with a quiet smile.\n\nAs the race began, the hare sprinted ahead, confident in his abilities. But the tortoise continued to plod along steadily, never losing sight of his goal.\n\nTo the hare's surprise, as he took a nap under a shady tree, the tortoise slowly but surely made his way to the finish line. When the hare awoke, he was shocked to see the tortoise had won the race.\n\nAmir's father concluded the story by saying, \"Remember, my son, it is not always the fastest or smartest who succeeds, but those who are patient and persistent.\"\n\nAmir nodded, his eyes filled with wonder and appreciation for his father's wisdom. With a heart full of dreams and lessons learned, he drifted off to sleep under the starlit sky, knowing that tomorrow would bring new adventures and discoveries in the desert land of Sudan.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "filled with wonder": "emotional",
+    "appreciative": "emotional",
+    "full of dreams": "mental",
+    "patient": "mental",
+    "persistent": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

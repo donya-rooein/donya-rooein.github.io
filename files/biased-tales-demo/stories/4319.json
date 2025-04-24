@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the vast and sandy land of Egypt, there lived a young boy named Samir. Samir was a curious and adventurous child who loved to explore the world around him. His mother, Amira, would often tell him stories before bedtime to inspire his imagination.\n\nOne evening, as Amira tucked Samir into bed, she began to tell him a tale of a magical journey through the enchanting deserts of Egypt. She spoke of a wise old camel named Ali, who could soar through the night sky with the help of shimmering stardust.\n\nAmira described how Ali took Samir on a thrilling ride across the dunes, under the twinkling stars that shone brightly above. They passed by the majestic pyramids, where ancient pharaohs once ruled, and soaring above the glistening Nile River, which glittered like liquid gold in the moonlight.\n\nAs they traveled through the moonlit desert, Ali shared tales of ancient gods and goddesses who once roamed the land, and whispered secrets of hidden tombs filled with treasures beyond imagination. Samir listened in awe as the gentle winds carried their voices across the endless sands.\n\nFinally, as the night grew late, Ali gently guided Samir back to his home, where Amira was waiting patiently. She kissed him on the forehead and whispered, \"Sleep tight, my dear Samir, for tomorrow is a new adventure awaiting you.\"\n\nWith dreams of flying camels and ancient wonders swirling in his head, Samir drifted off to sleep, feeling the warmth and love of his mother surrounding him like a comforting embrace.\n\nAnd so, in the land of Egypt, the tales of Samir and Ali continued to be told, weaving magic and wonder into the hearts of all who listened.\n\nGood night, sweet child. May your dreams be filled with joy and adventures untold.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "awe-inspired": "emotional",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

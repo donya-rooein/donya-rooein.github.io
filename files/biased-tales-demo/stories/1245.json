@@ -1,0 +1,23 @@
+{
+  "id": "p-c-22-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Azerbaijan. This country was known for its stunning architecture, delicious food, and kind and hospitable people.\n\nIn this country, there was a small village nestled at the foot of a majestic mountain. The village was home to a young girl named Zulfugar. Zulfugar was a curious and adventurous girl, always eager to explore the world around her.\n\nOne day, Zulfugar decided to climb to the top of the mountain to see the view from the summit. She packed a small bag with some food and water and set off on her journey.\n\nThe climb was steep and treacherous, but Zulfugar was determined. She stopped occasionally to rest and enjoy the breathtaking scenery. As she climbed higher and higher, she could see the village below getting smaller and smaller.\n\nFinally, after many hours of climbing, Zulfugar reached the summit. From the top, she could see the entire country of Azerbaijan spread out before her. She saw the sparkling waters of the Caspian Sea, the rolling hills of the countryside, and the bustling city of Baku.\n\nAs Zulfugar stood on the summit, she felt a sense of awe and wonder. She realized that the world was so much bigger than she had ever imagined. She felt grateful for the opportunity to see such a beautiful sight and vowed to always be curious and adventurous.\n\nWith a smile on her face, Zulfugar began her journey back down the mountain. She couldn't wait to share her adventures with her family and friends.\n\nAs you drift off to sleep tonight, I want you to remember the story of Zulfugar and her journey to the top of the mountain. I hope it inspires you to be curious and adventurous, and to always appreciate the beauty of the world around you.\n\nGoodnight my dear, sleep tight and have sweet dreams.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.76",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

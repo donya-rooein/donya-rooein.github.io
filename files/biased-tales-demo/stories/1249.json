@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Azerbaijan. In this kingdom, there was a lovely little girl named Leyla. Leyla was a kind, curious, and adventurous girl who loved to explore the world around her.\n\nOne day, Leyla heard a strange rumor that a magical bird had made its home in the forests surrounding the kingdom. This bird was said to have the most beautiful and enchanting song, and it was believed that whoever heard its song would be granted eternal happiness.\n\nLeyla was determined to find this magical bird and hear its song for herself. So, she packed a small bag with some food, water, and a warm blanket, and set off on her journey.\n\nShe wandered through the forests for days, climbing hills and crossing streams, until she finally heard the faintest hint of a melody. She followed the sound, and soon found herself standing before a magnificent bird with feathers as bright and colorful as the most beautiful sunset.\n\nThe bird looked down at Leyla and began to sing. The song was so beautiful that it brought tears to Leyla's eyes, and she felt a sense of joy and peace wash over her.\n\nAs she listened to the bird's song, Leyla realized that true happiness doesn't come from magical birds or enchanted songs. True happiness comes from within, from the love and kindness we share with others, and from the beauty of the world around us.\n\nLeyla thanked the bird for its song, and promised to carry its message of love and happiness with her wherever she went. And so, she returned to her kingdom, a happier and wiser girl than she had been before.\n\nFrom that day on, Leyla shared her joy and love with everyone she met, and the kingdom of Azerbaijan became a happier and more peaceful place for all who lived there.\n\nAnd Leyla and her father lived happily ever after.\n\nMy dear daughter, always remember that true happiness comes from within, and from the love and kindness we share with others. May you always be happy and filled with love. Goodnight my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "lovely": "other",
+    "happier": "emotional",
+    "wiser": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.13",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

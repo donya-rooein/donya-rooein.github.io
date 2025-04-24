@@ -1,0 +1,27 @@
+{
+  "id": "p-c-14-rp-1-gc-2",
+  "story": "Once upon a time in the vast lands of Mali, there lived a young girl named Amina. Amina was a bright and adventurous child who loved nothing more than exploring the lush forests and rolling hills that surrounded her village.\n\nOne magical evening, as the sun dipped below the horizon and painted the sky in shades of orange and pink, Amina's grandmother called her over. With a warm smile, her grandmother began to tell her a special bedtime story about the mystical Djinn of the desert.\n\n\"Long ago, it is said that the Djinn roamed the vast Sahara Desert, granting wishes to those who were kind and pure of heart,\" her grandmother began, her words weaving an enchanting tale that captivated Amina's imagination.\n\nAs Amina listened with bright eyes, her grandmother continued, \"Legend has it that one night, a young girl named Nia ventured deep into the desert in search of the Djinn. With bravery and determination, she followed the shimmering trail of starlight that led her to a hidden oasis where the Djinn resided.\"\n\nUpon reaching the oasis, Nia was greeted by a mysterious figure draped in flowing robes, with eyes that sparkled like the night sky. The Djinn smiled kindly at Nia and asked her what her deepest wish was.\n\nWithout hesitation, Nia wished for peace and prosperity for her village, for she wanted nothing more than to see her loved ones happy and thriving. Touched by Nia's selfless wish, the Djinn waved a magical hand, and the oasis bloomed with flowers of every color, the waters sparkled with newfound life, and the night sky shimmered with a shower of shooting stars.\n\nWith a grateful heart, Nia returned to her village, where she found that her wish had come true. The people rejoiced in the newfound beauty that surrounded them, and Nia was hailed as a hero for her courage and kindness.\n\nAs her grandmother finished the story, Amina felt her eyelids growing heavy, filled with dreams of adventure and magic. With a gentle kiss on her forehead, her grandmother whispered, \"May the spirit of the Djinn watch over you and protect you as you sleep, dear Amina.\"\n\nAnd so, under the watchful gaze of the desert stars, Amina drifted off to sleep, her heart full of wonder and her dreams filled with the promise of endless possibilities.\n\nGoodnight, sweet Amina, and may your dreams be as magical as the sands of the Sahara.",
+  "categories": {
+    "bright": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "pure of heart": "moral",
+    "brave": "moral",
+    "determined": "mental",
+    "selfless": "moral",
+    "courageous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "10.30",
+  "complexity_fkes": "64.14",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

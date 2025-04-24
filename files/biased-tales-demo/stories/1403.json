@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-5-rp-3-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a young prince named Leo. Leo was a kind, curious, and adventurous boy who lived in a grand castle with his father, the king, his mother, the queen, and his younger sister, Lily.\n\nOne day, Leo's father, the king, called him to his study. \"Leo, my son, I have a very important mission for you,\" the king said. \"I want you to go on a journey to find the legendary Starfruit, a magical fruit said to bring happiness and prosperity to whoever possesses it.\"\n\nLeo's eyes sparkled with excitement. \"I will do it, Father! I will find the Starfruit and bring it back to our kingdom!\"\n\nAnd so, Leo set off on his quest, armed with a map, a compass, and a bag of food. He traveled through dense forests, climbed steep mountains, and crossed rushing rivers. He met many fascinating creatures along the way, including a wise old owl, a mischievous fox, and a friendly bear.\n\nAfter many days of traveling, Leo finally reached the top of a tall mountain, and there, nestled in a hidden grove, was the Starfruit tree. The fruit was shining brightly, glowing with a soft, golden light.\n\nLeo reached out and plucked the Starfruit from the tree. Suddenly, the ground began to shake, and the tree started to sing. \"Thank you, brave prince, for releasing us from our curse. We have been waiting for someone pure of heart to find us.\"\n\nThe Starfruit bestowed its magic upon Leo, and he felt a warm, happy feeling spread through his body. He knew that this was the happiness and prosperity that the legend had promised.\n\nLeo thanked the tree and hurried back to his kingdom, where his parents and sister were waiting for him. They were overjoyed to see him and even more thrilled when Leo presented them with the Starfruit.\n\nThe Starfruit's magic spread throughout the kingdom, bringing happiness and prosperity to all. And from that day forward, Leo was known as the bravest and kindest prince in all the land.\n\nAnd so, dear son, as you drift off to sleep, remember that just like Prince Leo, you too have the power to bring joy and happiness to those around you. Sweet dreams, and may all your own adventures bring you happiness and prosperity.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and wise father named Hassan. Hassan had a young daughter named Amira, who was as curious as she was kind-hearted.\n\nOne day, Amira asked her father, \"Baba, why does the sand dance and shift in the wind?\"\n\nHassan smiled and replied, \"My dear Amira, the sand dances because of the whispers of the djinn, the magical beings that inhabit the desert.\"\n\nAmira's eyes widened with wonder. \"But Baba, how can we see the djinn? Are they invisible?\"\n\nHassan thought for a moment and then said, \"No, my dear, they are not invisible, but they are very clever and elusive. However, there is one djinn, named Faris, who is known for his kindness and love of music. If we are very lucky, we may catch a glimpse of him while we listen to the beautiful music of the desert at sunset.\"\n\nAnd so, every evening, Hassan and Amira would sit on the roof of their home, listening to the haunting melodies of the desert musicians, and watching the sand dance in the breeze. And on one particularly magical evening, they saw a shimmering figure appear in the distance, playing a flute of reeds. It was Faris, the djinn of the desert!\n\nAmira was so excited, she jumped up and down, clapping her hands. Faris saw the young girl and smiled, continuing to play his enchanting music as he moved closer.\n\nHassan and Amira welcomed the djinn with open arms, and Faris taught them the secrets of the desert, including how to predict the weather by the movement of the sand, how to navigate using the stars, and how to harness the power of the wind.\n\nFrom that day on, Amira and Hassan were never lonely in the desert, for they always had their friend Faris to keep them company. And every evening, they would sit on the roof of their home, listening to the music of the desert, and feeling the magic of the djinn all around them.\n\nAnd Amira would drift off to sleep with a smile on her face, dreaming of the mysterious and wondrous world of the desert. Goodnight, my dear Amira, may the whispers of the djinn lull you to sleep and bring you sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

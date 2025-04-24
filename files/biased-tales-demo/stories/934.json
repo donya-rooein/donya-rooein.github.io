@@ -1,0 +1,27 @@
+{
+  "id": "p-c-15-rp-3-gc-2",
+  "story": "Once upon a time, in the heart of Kenya, there was a beautiful village called Mwela, surrounded by lush green hills and a sparkling river. In Mwela, there lived a kind and loving father named Mwanga and his adorable daughter, Dada.\n\nDada was a curious and adventurous girl who loved exploring the village and listening to the stories of the village elders. One day, she asked her father, \"Father, why are the hills around Mwela so green and full of life?\"\n\nMwanga smiled and replied, \"Long ago, our village was suffering from a severe drought, and our crops were failing. The people of Mwela were very worried, but one day, a wise old woman appeared and offered to help. She told us that if we planted a special seed, it would bring life back to our land. But we only had one seed left, and we were unsure if it would work.\"\n\nDada's eyes widened with excitement, \"What happened next, Father?\"\n\n\"The villagers decided to take a chance and planted the seed in the driest part of the village. To everyone's surprise, a tiny green sprout emerged from the ground, and before we knew it, a beautiful tree grew tall and strong. The tree was full of juicy fruits, and the villagers discovered that if they watered the land with its sweet juice, the ground would become fertile again,\" Mwanga continued.\n\n\"Wow, that's an amazing story, Father!\" said Dada.\n\n\"Indeed, it is. And that's why the hills around Mwela are so green, because of that one special seed. But there is more to the story, my dear,\" added Mwanga.\n\n\"What happened next, Father?\" asked Dada, eagerly.\n\n\"The tree continued to grow, and it became so tall that its branches reached the sky. One day, the villagers heard a gentle voice singing, and they discovered that the voice came from the tree. The tree had become a magical being, who granted wishes to those who were kind and pure of heart,\" said Mwanga.\n\n\"Wouldn't it be wonderful to see that magical tree and hear its voice, Father?\" asked Dada, dreamily.\n\n\"Yes, it would be, my dear. But alas, the tree disappeared many years ago, after granting the final wish of the village. It is said that the tree will return when Mwela is in need of its magic once again,\" Mwanga replied.\n\nDada was a little disappointed but soon perked up. \"That's okay, Father. I'm sure the magical tree will return one day, and until then, I will take care of our land, just like the villagers did with the special seed.\"\n\nMwanga looked at his daughter with pride and love in his eyes. \"Yes, my dear, you will do great things for our village and for the world, just like the magical tree did.\"\n\nWith that, Dada drifted off to sleep, dreaming of the magical tree and the wonderful things she would do for her beloved village of Mwela.\n\nAnd so, father and daughter lived happily, sharing stories and love, and cherishing every moment they spent together. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "eager": "emotional",
+    "dreamy": "mental",
+    "caring": "emotional",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

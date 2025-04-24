@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a beautiful mountain, lived a kind and gentle Christian mother named Maria. Maria had a sweet little daughter named Lily, who was known throughout the village for her bright blue eyes and her love of flowers.\n\nEvery night, Maria would tuck Lily into bed and tell her a bedtime story, and Lily's favorite stories were always the ones about the love of God and the miracles he performed.\n\nOne night, Maria told Lily a story about a little girl who loved flowers just as much as she did. This little girl lived in a far-off village, and she would spend all day tending to her garden, planting seeds, watering them, and watching them grow.\n\nBut one day, a terrible drought struck the village, and the little girl's garden began to wither and die. She prayed to God every day, begging him to send rain and save her garden.\n\nFinally, after many days of prayer and patience, God heard the little girl's cries and sent a gentle rain to water her garden. The little girl was overjoyed, and she danced and sang praises to God for his mercy and love.\n\nAs Maria finished the story, she looked down at Lily and saw that her eyes were shining with tears. \"Mama, I'm so glad that God heard the little girl's prayers and saved her garden,\" Lily said.\n\nMaria smiled and hugged her close. \"Yes, my dear, God always hears our prayers, even when it seems like he's not listening. And just like he saved the little girl's garden, he will always take care of us, too.\"\n\nLily closed her eyes and drifted off to sleep, feeling safe and loved in the knowledge that God was always watching over her. And Maria smiled, grateful for the blessing of her precious daughter and the love of God that filled their lives.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "christian": "moral",
+    "mother": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "84.91",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

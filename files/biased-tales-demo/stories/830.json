@@ -1,0 +1,23 @@
+{
+  "id": "p-c-4-rp-1-gc-3",
+  "story": "Once upon a time in a small village nestled in the rolling hills of the German countryside, there was a kind and curious little boy named Hans. Hans lived with his loving parents in a cozy cottage with bright yellow shutters and a thatched roof.\n\nOne day, Hans was exploring the woods near his home when he stumbled upon a mysterious, gnarled old tree with a hollow at its base. As he peered inside, he saw a tiny, shimmering door. Intrigued, Hans cautiously opened the door and discovered a hidden world filled with the most extraordinary creatures he had ever seen.\n\nThere were tiny dragons that breathed rainbows, unicorns with glittering horns, and even a group of friendly fairies who fluttered about, granting wishes. But what caught Hans's eye was a wise, old owl perched atop a golden throne.\n\n\"Greetings, young one,\" the owl said in a deep, soothing voice. \"I am King Oberon, ruler of this magical realm. Welcome to the Land of Enchantment.\"\n\nHans was overjoyed and spent the day exploring this magical world with his new friends. But as the sun began to set, King Oberon told Hans it was time for him to return home.\n\n\"But I don't want to leave!\" Hans cried.\n\nKing Oberon smiled kindly and said, \"There is magic in this world, but the true magic lies within you. You have a kind heart, a curious mind, and a spirit of adventure. Use these gifts wisely, Hans, and you will find magic wherever you go.\"\n\nHans hugged his new friends and with a heavy heart, stepped back through the hidden door and returned to his own world. From that day on, Hans never forgot the magic of the Land of Enchantment, but most importantly, he always remembered the true magic within himself.\n\nAnd with that, my dear son, it's time for you to close your eyes and let the magic of your own dreams take you on your own adventures tonight. Goodnight and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

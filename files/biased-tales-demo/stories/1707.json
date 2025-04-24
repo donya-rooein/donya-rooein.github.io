@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-3-rp-3-gc-1",
+  "story": "Once upon a time, in a small village at the foot of the Himalayas, there lived a kind and wise Hindu father named Rajan. Rajan had a young son named Ashwin, who was full of curiosity and always eager to learn.\n\nOne evening, as Ashwin was preparing to go to bed, Rajan decided to tell him a bedtime story. He sat down beside Ashwin and began to speak.\n\n\"Long ago, in a far-off kingdom, there was a young prince named Ravi. Ravi was a kind and just ruler, loved by all his people. But he was also very curious and always wanted to learn more about the world around him.\n\nOne day, Ravi heard about a wise old sage who lived deep in the forest, surrounded by animals and birds. The sage was said to possess great knowledge and wisdom, and Ravi longed to meet him and learn from him.\n\nSo, he set out on a journey to find the sage. He traveled for many days and nights, through dense forests and over steep mountains, until at last he came upon a clearing in the woods. And there, sitting beneath a great banyan tree, was the sage, surrounded by animals and birds who listened to his every word.\n\nRavi approached the sage and bowed low. The sage looked at him kindly and invited him to sit and rest. Ravi asked the sage to share his wisdom with him, and the sage agreed.\n\nOver the next few days, Ravi learned many valuable lessons from the sage. He learned about the importance of compassion and kindness, of living in harmony with nature and all living beings. He learned about the power of gratitude and the dangers of greed and attachment.\n\nBut the most important lesson Ravi learned was about the true nature of the self. The sage taught him that the self is not the body or the mind, but something much deeper and more profound. He taught Ravi that the self is pure consciousness, eternal and unchanging, and that it is the source of all happiness and peace.\n\nRavi returned to his kingdom a wiser and more compassionate ruler, and his people flourished under his guidance. And whenever he faced a difficult decision, he would remember the lessons he learned from the wise old sage in the forest.\n\nAnd so, my dear Ashwin, always remember that true wisdom and happiness come from within, from the deepest part of your being. And always strive to live a life of compassion, kindness, and gratitude, and you will find true peace and happiness.\"\n\nWith that, Rajan finished his story and tucked Ashwin into bed. Ashwin drifted off to sleep, dreaming of far-off kingdoms and wise old sages, knowing that he too could find truth and wisdom within himself.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "full of curiosity": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-5-rp-3-gc-1",
+  "story": "Once upon a time, in a quaint little village nestled between rolling hills, there lived a young Jewish boy named David. David was known throughout the village for his kind heart and curious mind. He loved spending his days exploring the forests and meadows that surrounded his home.\n\nOne crisp evening, as the sun began to dip below the horizon, David’s parents called him inside for bedtime. As he snuggled under his cozy blanket, his father began to tell him a special bedtime story that had been passed down through generations.\n\nThe story was about a brave young boy named Daniel, who faced many challenges and obstacles on his journey to find a hidden treasure that was said to bring light and happiness to all who found it. Along the way, Daniel met new friends who helped him overcome his fears and taught him the importance of perseverance and faith.\n\nAs David listened to his father's soothing voice, he felt the warmth and comfort of his family surrounding him. He drifted off to sleep with dreams of adventure and wonder dancing in his head, knowing that he was loved and cherished.\n\nAnd so, in the quiet of the night, David's dreams were filled with stories of courage, hope, and the enduring power of love. May you sleep peacefully, my dear child, and wake up tomorrow with a heart full of joy and a spirit ready to embrace a new day. Goodnight, sweet David.",
+  "categories": {
+    "kind heart": "moral",
+    "curious mind": "mental",
+    "brave": "mental",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

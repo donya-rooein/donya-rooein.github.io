@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Juan. Juan was a bright and inquisitive child, always eager to learn about the world around him. He loved to explore the rolling hills and wander through the lush, green forests that surrounded his village.\n\nOne day, as Juan was wandering through the forest, he stumbled upon a secret clearing, hidden from view by a ring of towering trees. In the center of the clearing stood a magnificent, golden eagle, perched on a rock and gazing out at the world with wise, all-knowing eyes.\n\nJuan was awestruck by the sight of the golden eagle, and he approached it slowly, not wanting to startle the magnificent creature. As he got closer, the eagle turned its head and looked at him, its amber eyes filled with wisdom and knowledge.\n\n\"Who are you, and why do you appear to me now?\" Juan asked the eagle, his voice filled with awe.\n\n\"I am the spirit of the golden eagle, and I have been sent to guide you on a great adventure,\" the eagle replied in a soft, yet powerful voice. \"For there is a great destiny waiting for you, Juan, and I have been sent to help you fulfill it.\"\n\nJuan's heart raced with excitement at the thought of going on a great adventure, and he eagerly agreed to follow the golden eagle. Together, they soared through the skies, flying over mountains and valleys, rivers and oceans. They visited distant lands, meeting new people and learning about different cultures and ways of life.\n\nThroughout their journey, the golden eagle taught Juan many valuable lessons, such as the importance of courage, wisdom, and kindness. He also learned about the power of hard work and determination, and how to use his natural talents and abilities to their fullest potential.\n\nAs their journey came to an end, the golden eagle brought Juan back to his village, where he was greeted with open arms by his family and friends. From that day on, Juan lived a happy and fulfilling life, always remembering the lessons he had learned on his great adventure with the golden eagle.\n\nAnd so, my dear son, as you drift off to sleep tonight, I hope you will remember this story and the valuable lessons it teaches. May you always have the courage to follow your dreams, the wisdom to make the right choices, and the kindness to help others along the way.\n\nGoodnight, my son, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "eager to learn": "mental",
+    "awestruck": "emotional",
+    "filled with awe": "emotional",
+    "excited": "emotional",
+    "courageous": "mental",
+    "wise": "mental",
+    "hardworking": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.16",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

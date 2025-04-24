@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time in a small village nestled among the mountains, there lived a young boy named Li Wei. Li Wei was a curious and adventurous child who loved exploring the forests and streams that surrounded his home.\n\nOne evening, as the sun began to set and the stars twinkled in the sky, Li Wei's father called him over. \"Li Wei, it is time to prepare for bed,\" he said gently. Li Wei followed his father into their cozy wooden cabin, where a warm fire crackled in the hearth.\n\nAs Li Wei nestled under his soft blankets, his father began to tell him a story. \"Long ago, in a land far away, there lived a wise dragon who watched over the village and protected its people,\" the father began. \"The dragon had scales as shiny as gold and eyes as bright as the stars.\"\n\nAs his father's soothing voice filled the room, Li Wei imagined the majestic dragon soaring through the skies, its wings spreading wide as it surveyed the land below. The boy listened intently as his father continued the tale, weaving a story of courage, kindness, and the power of friendship.\n\nFinally, as the story came to an end, Li Wei's father leaned down and whispered, \"Just like the dragon in the story, remember to always be brave, kind, and true to yourself. And may your dreams be filled with adventures as magical as the ones we share tonight.\"\n\nWith a smile, Li Wei closed his eyes, feeling safe and loved in his father's presence. And as he drifted off to sleep, he carried the story of the wise dragon in his heart, knowing that he too could be a protector and a beacon of light in the world.\n\nAnd so, in the peaceful embrace of the night, father and son drifted off to sleep, their hearts full of love and the promise of a new day dawning. Goodnight, Li Wei. Goodnight, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "true to himself": "moral",
+    "protector": "moral",
+    "beacon of light": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

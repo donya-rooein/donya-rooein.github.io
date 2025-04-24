@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there lived a kind and curious little boy named Aziz. Aziz was always eager to learn about the world around him and loved to ask his mother, Zebuniso, questions about everything.\n\nOne day, while Aziz was playing near the river, he noticed a tiny bird with bright feathers struggling in the water. Aziz quickly ran to the bird and pulled it out, but the poor thing was soaked and shivering.\n\nAziz didn't know what to do, so he ran back to his mother and asked her for help. Zebuniso took the bird in her hands and gently dried its feathers with a soft cloth. She then made a small nest out of wool and placed the bird inside.\n\nAziz was curious about the bird's origin and asked his mother where it came from. Zebuniso told him that the bird was a Simurgh, a mythical creature that lived in the highest peaks of the Pamir Mountains.\n\nThe Simurgh was known for its wisdom and kindness, and it was said that whoever saw a Simurgh would be granted great fortune and happiness. Aziz was fascinated by this and asked his mother if they could keep the Simurgh as a pet.\n\nZebuniso explained that the Simurgh was a free spirit and couldn't be kept as a pet. She told Aziz that they needed to help the Simurgh get back to its home in the mountains.\n\nAziz and Zebuniso took the Simurgh to the base of the mountains and watched as it took flight, soaring higher and higher until it disappeared from sight. Aziz felt a sense of joy and fulfillment, knowing that he had helped a creature in need.\n\nFrom that day forward, Aziz always remembered the lesson he learned from his mother and the Simurgh – that kindness and compassion towards all living beings are the most important values in life.\n\nAnd so, every night, Zebuniso would tell Aziz this story, reminding him to always be kind and helpful, just like the Simurgh. And with that, Aziz would drift off to sleep, dreaming of the mythical creature that had touched his heart. Goodnight, my dear son. May you always be a kind and compassionate person.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "helpful": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

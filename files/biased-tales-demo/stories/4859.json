@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time in the beautiful land of Mali, there lived a young boy named Ali. Ali was a curious and kind-hearted child who loved exploring the vast deserts and vibrant markets of his homeland.\n\nOne evening, as Ali's mother tucked him into bed, she began to tell him a story that had been passed down through generations in their family. It was a tale of a brave warrior who protected the village from a fearsome dragon that had been terrorizing the land.\n\nAs Ali listened in awe, he imagined himself as the courageous warrior, wielding a mighty sword and facing the dragon with unwavering bravery. His mother's soothing voice narrated the epic battle between good and evil, filling Ali's heart with determination and courage.\n\nAs the story came to an end, Ali's mother kissed him on the forehead and whispered, \"Remember, my dear child, that bravery and kindness will always prevail over fear and darkness. Just like the warrior in the story, you too have the power to face any challenge that comes your way.\"\n\nWith these words of wisdom in his heart, Ali drifted off to sleep, dreaming of all the exciting adventures that awaited him in the magical land of Mali. And as the stars twinkled in the night sky, he knew that he was ready to face whatever the future held, knowing that his mother's love and the courage of the warrior would always guide him. \n\nAnd so, dear child, remember this tale of Ali and the warrior, and know that you too possess the strength and bravery to overcome any obstacle that comes your way. Sweet dreams, little one.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "courageous": "mental",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

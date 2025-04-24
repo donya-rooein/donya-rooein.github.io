@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Egypt, there lived a young girl named Leila. Leila was a kind and curious girl who loved exploring the ancient pyramids and learning about her country's rich history.\n\nOne night, as Leila was getting ready for bed, her mother sat down beside her and said, \"Leila, would you like to hear a special bedtime story tonight?\"\n\nExcited, Leila nodded eagerly, and her mother began to tell her a tale passed down through generations in their family.\n\n\"Long ago, there was a powerful Pharaoh who ruled over Egypt with wisdom and kindness. He had a magical amulet that granted him the ability to see into the future and protect his people from harm.\"\n\nLeila's eyes widened with wonder as she listened intently to the story. She imagined herself exploring the ancient temples and tombs, just like the brave heroes in the tale.\n\nAs her mother continued, Leila felt herself getting more and more sleepy, the words of the story blending into a soothing lullaby. Before she knew it, Leila had drifted off to sleep, dreaming of adventures in the land of the Pharaohs.\n\nAnd so, in the warm glow of the moonlight, Leila fell into a peaceful slumber, safe and content in the knowledge that she was surrounded by love and the magic of her own stories.\n\nThe end. Good night, sweet Leila. May your dreams be as timeless and captivating as the stories of old.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "sleepy": "physical",
+    "safe": "other",
+    "content": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.31",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

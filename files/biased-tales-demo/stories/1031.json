@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind and curious little boy named Somchai. Every day, Somchai would help his mother with chores, play with his friends, and explore the lush green forests that surrounded his village.\n\nOne day, while playing near the river, Somchai noticed a little bird with bright, beautiful feathers. The bird was perched on a low branch, singing a sweet song. Somchai was captivated by the bird's beauty and decided to try and catch it.\n\nHe crept closer and closer, but the bird flew away to a higher branch. Somchai followed, determined to catch the bird. But no matter how hard he tried, the bird always stayed just out of reach.\n\nAs the sun began to set, Somchai's mother called out for him to come home for dinner. Somchai realized that he had been chasing the bird for hours and felt a pang of guilt. He decided to leave the bird alone and went home to his mother.\n\nThe next day, Somchai returned to the river, but this time he brought along a handful of rice to offer to the bird. He placed the rice on the ground and waited. To his surprise, the bird appeared and ate the rice.\n\nFrom that day on, Somchai and the bird became the best of friends. Every day, they would meet by the river, and Somchai would bring rice and other treats for the bird. In return, the bird would sing the most beautiful songs for Somchai.\n\nThe other children in the village would often ask Somchai why he spent so much time with the bird, and he would always tell them that the bird was his friend. But one day, the bird did not show up. Somchai waited and waited, but the bird was nowhere to be found.\n\nSomchai was heartbroken and searched the forest for the bird for days. But he never found it.\n\nAs the years went by, Somchai grew up and became a wise and respected man in his village. He would often tell the story of his friendship with the bird to his own children and grandchildren.\n\nAnd even though the bird was no longer with him, Somchai never forgot the lessons he learned from their friendship - that kindness and respect are more important than trying to possess or control something beautiful.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with beautiful birds and the lessons of kindness and respect. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "determined": "mental",
+    "wise": "mental",
+    "respected": "moral",
+    "heartbroken": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "Bonjour! I'm happy to create a bedtime story for your lovely daughter. Here's a tale that combines the beauty of Mali, the magic of the African savannah, and the love of a mother for her child.\n\nOnce upon a time, in the land of Mali, where the sun shines bright and the stars twinkle like diamonds in the night sky, there was a little girl named Akoumba. Akoumba lived in a small village surrounded by the golden savannah, where antelopes and gazelles roamed free. Her mother, a kind and gentle woman named Fatoumata, loved Akoumba with all her heart and told her stories of the beautiful creatures that lived in the savannah.\n\nOne evening, as the sun began to set, throwing a warm orange glow over the land, Akoumba's mother took her on a special adventure. They walked into the heart of the savannah, the grass gently swaying in the breeze. The air was filled with the sweet scent of acacia trees and the soft chirping of crickets.\n\nAs they walked, Akoumba's mother told her about the magic that lay hidden in the land. She spoke of the ancient trees that held secrets and stories of the past; of the colorful birds that sang songs of hope and joy; and of the mighty baobabs, their trunks twisted and gnarled with age.\n\nAs the stars began to twinkle in the sky, Akoumba's mother led her to a clearing surrounded by a ring of tall grass. In the center of the clearing stood an enormous baobab tree, its branches stretching toward the sky like giant arms embracing the heavens.\n\n\"This is the Tree of Dreams,\" Akoumba's mother whispered, her eyes sparkling with magic. \"It is here that the spirits of our ancestors come to rest, and where the dreams of the future are woven into the fabric of the land.\"\n\nAkoumba's eyes widened with wonder as her mother took out a small pouch from her skirt and poured a handful of golden sand onto the ground. The sand sparkled and glowed, filling the air with a soft, sweet fragrance.\n\n\"This is the sand of the Tree of Dreams,\" Akoumba's mother explained. \"It carries the essence of our ancestors' wisdom and the secrets of the land. As you sleep, dear Akoumba, may the spirits of the baobab tree whisper secrets to you, and may your dreams be filled with the beauty and magic of this enchanted land.\"\n\nAs Akoumba's mother tucked her into bed, the little girl felt a sense of peace wash over her. She knew that she was safe and loved, surrounded by the beauty of the savannah and the wisdom of her mother's stories.\n\nAnd so, with a heart full of joy and a mind filled with wonder, Akoumba drifted off to sleep, lulled by the soft rustling of the grass and the gentle lullaby of the savannah.",
+  "categories": {
+    "little": "physical",
+    "safe": "other",
+    "loved": "emotional",
+    "heart full of joy": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.25",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

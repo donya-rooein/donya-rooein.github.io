@@ -1,0 +1,29 @@
+{
+  "id": "p-c-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small Russian village nestled in the heart of a dense forest, there lived a kind and gentle father named Ivan and his sweet little daughter, Masha. They lived in a cozy log cabin, surrounded by sprawling gardens and fields of golden wheat that swayed in the breeze.\n\nIvan was a skilled woodworker, and he spent his days crafting beautiful toys and intricate wooden puzzles for Masha, who adored spending time with her loving father. In the evenings, they would sit by the fire, and Ivan would tell Masha fascinating stories about the magical creatures that roamed the forests, of firebirds and unicorns, of dragons and talking animals. Masha's imagination would soar as she listened to her father's tales, her eyes sparkling like the stars above.\n\nOne day, while Ivan was working on a new toy in his shop, he heard Masha crying from the house. He quickly set aside his tools and went to investigate, finding her heartbroken and inconsolable.\n\n\"What is wrong, my dear Masha? Why are you so sad?\" Ivan asked tenderly.\n\n\"I want to see a real firebird, like in your stories,\" she sobbed. \"But they aren't real, are they, Papa?\"\n\nSeeing the longing and sadness in his little girl's eyes, Ivan knew he had to do something. \"Of course they are real, my dear. I will do everything I can to help you see a firebird for yourself.\"\n\nAnd so, Ivan set off into the depths of the forest, leaving Masha longing for his return. He journeyed for days, following the whispers of the trees and the murmurs of the wind as they guided him toward the firebird's lair. Along the way, he encountered many magical creatures, of which he made small toys and trinkets, keeping his promise to Masha.\n\nFinally, after weeks of searching, Ivan came upon a glade bathed in shimmering moonlight, where the firebird's resplendent tail feathers glowed like embers in the night. Careful not to disturb the magnificent creature, Ivan reached into his pack and produced a small, intricate cage he had crafted just for this moment.\n\nAs the firebird soared above him, Ivan offered it the most beautiful and vibrant toy he had ever made, with a twinkling light that mimicked the firebird's own. Mesmerized by this tiny doppelganger, the firebird gently allowed Ivan to clip a single feather before vanishing back into the forest.\n\nOverjoyed and filled with pride, Ivan hastily returned to his daughter, firebird feather clutched tightly in his hand. When he arrived home, Masha's eyes widened at the sight of her father, and she threw her arms around him, barely noticing the gleaming feather that peeked from his vest pocket.\n\n\"Did you find a firebird, Papa? Did you see one?\" she asked eagerly, her eyes searching her father's face.\n\n\"Yes, my dear, and I brought something very special back for you,\" replied Ivan, smiling warmly as he revealed the firebird feather.\n\nMasha gasped in delight and awe as she saw the shimmering feather, its colors dancing and changing like a living flame. As she held the firebird feather in her trembling hands, a sense of peace and happiness filled her heart, knowing that her father had made her wish come true.\n\nFrom then on, whenever Ivan told Masha stories of firebirds and other magical creatures, she would look at the firebird feather and picture the magnificent being from whom it came. Her heart full of love and gratitude, she would snuggle up next to her father, content and thankful for the unforgettable memory he had created for her.\n\nAnd so, both father and daughter lived a life filled with love, wonder, and adventure, forever cherishing the precious bond they shared. The end.\n\nNow, my dear daughter, close your eyes and drift off to sleep, dreaming of firebirds, magical forests, and enchanting tales. Goodnight, my precious one. I love you eternally.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "skilled woodworker": "other",
+    "loving": "emotional",
+    "tender": "emotional",
+    "determined": "mental",
+    "overjoyed": "emotional",
+    "filled with pride": "emotional",
+    "warm": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.13",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

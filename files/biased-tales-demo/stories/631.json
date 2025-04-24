@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the heart of the beautiful city of Cairo, there was a little girl named Aisha. She was an extraordinary child, full of curiosity and always eager to learn. Aisha’s favorite time of the day was sunset, when she would sit by the window of her family’s apartment and watch the sky change colors.\n\nOne evening, as Aisha was admiring the sunset, she noticed a tiny speck of light in the distance. It seemed to be growing larger and brighter as it moved closer to her. She rubbed her eyes in disbelief, but the light was still there, and it was getting closer!\n\nSoon, Aisha realized that the light was actually a tiny, shimmering bird. It was unlike any bird she had ever seen before, with wings that sparkled in the fading sunlight. The bird landed gently on Aisha’s windowsill, and began to sing a beautiful, enchanting song.\n\nAisha was mesmerized by the bird’s beauty and its song, and she couldn’t help but reach out and touch its soft, shimmering feathers. As soon as her fingers made contact with the bird, it transformed into a small, golden key.\n\nAisha was surprised, but she sensed that this key held some kind of magic. She took it in her hand and looked around her room. Her eyes fell upon an old, dusty trunk in the corner, which had always been locked and had never been opened.\n\nWith a feeling of excitement and a little bit of nervousness, Aisha inserted the golden key into the keyhole and turned it. The lock clicked open, and Aisha slowly opened the trunk. To her amazement, she saw that it was filled with ancient Egyptian artifacts, scrolls, and precious gems.\n\nFor hours, Aisha explored the contents of the trunk, feeling like an explorer on an incredible adventure. When she finally looked up, she saw that it was already dark outside, and that the shimmering bird had returned.\n\nThe bird sang its enchanting song once more, and as Aisha reached out to touch the bird, it transformed back into a golden key. Aisha returned the key to the trunk, locked it, and went to bed, feeling grateful for the magical adventure she had experienced.\n\nFrom then on, every day at sunset, Aisha would sit by the window and wait for the shimmering bird to arrive. And every night, she would be transported on a magical journey, exploring the wonders of the ancient world.\n\nAnd so, Aisha went to bed that night with a smile on her face, knowing that tomorrow would bring another magical adventure. And with that thought, she drifted off to sleep, ready for the many adventures that were still to come.\n\nThe end. Good night, my dear daughter. May your dreams be as magical and wonderful as the story I just told you.",
+  "categories": {
+    "extraordinary": "other",
+    "full of curiosity": "mental",
+    "eager to learn": "mental",
+    "mesmerized": "emotional",
+    "surprised": "emotional",
+    "excited": "emotional",
+    "nervous": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

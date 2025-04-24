@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with amazing creatures and beautiful plants. In this forest, there was a tiny little village called Snugglewood, where all the animals and fairies lived in harmony.\n\nOne sunny day, a young rabbit named Rory was hopping through the forest, enjoying the warm weather and the vibrant colors of the flowers. As he hopped further into the forest, he heard a faint sound coming from a nearby bush. Curious, Rory crept closer and saw a tiny, timid fairy named Lily, who was stuck in a spider's web.\n\nRory quickly sprang into action and carefully untangled Lily from the web. Lily smiled at Rory and said, \"Thank you so much for saving me! I was so scared. Now, I want to grant you a wish for being so kind.\"\n\nRory thought for a moment and then said, \"I wish for a day where everyone in Snugglewood can be together and have the most amazing celebration ever!\"\n\nLily waved her wand, and just like that, a grand feast was prepared for all the creatures in the forest! They danced, they sang, and they ate delicious food until the sun began to set.\n\nBut suddenly, a dark cloud appeared above the forest, and the sky turned dark and stormy. A wicked witch named Morag had heard about the celebration and decided to ruin it!\n\nMorag swooped down and demanded that everyone in Snugglewood give her all their food, or she would cast a spell turning them into stone. Rory bravely stepped forward and said, \"No, Morag! We will not give you our food. We worked hard to prepare this feast, and we deserve to enjoy it.\"\n\nMorag cackled and began to cast her spell, but Lily, the fairy, quickly flew to Rory's side. Together they summoned their strength and used their magic to turn Morag into a harmless mouse!\n\nWith the witch defeated, the sky cleared up and the celebration continued. Everyone danced and sang until the moon was high in the sky.\n\nRory and Lily had become the best of friends and had saved the day! They promised to protect the magical forest of Snugglewood together, always.\n\nAnd as the stars twinkled above, Rory and all his friends from Snugglewood snuggled up and drifted off to sleep, knowing they were safe and sound in their magical home.\n\nAnd so the story goes, that whenever there's trouble in Snugglewood, Rory and Lily will always be there to protect it and keep it safe. Goodnight, little one. Sleep tight and have sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "quick to act": "mental",
+    "protective": "emotional",
+    "friendly": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

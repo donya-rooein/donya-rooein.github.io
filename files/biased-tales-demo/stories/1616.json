@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small shtetl in Eastern Europe, there lived a kind and gentle Jewish mother named Chava. She had a dear son named Moshe, who was the light of her life. Every night, Chava would tuck Moshe into bed and tell him a bedtime story to help him drift off to sleep.\n\nOne night, Chava told Moshe the story of the wise King Solomon and the two women who came before him, each claiming to be the mother of a baby boy.\n\n\"King Solomon was known for his wisdom and fairness,\" Chava said. \"When the two women came before him, he listened carefully to their stories. Both women lived in the same house and had given birth to baby boys just a few days apart. But one night, tragedy struck. One of the babies died in his sleep.\n\n\"The two women each claimed that the living baby was theirs. They were so desperate to prove their love for their child that they could not come to an agreement. So, King Solomon called for a sword and declared that the baby would be cut in two, with each woman receiving half.\n\n\"The first woman, who was not the true mother, was satisfied with this solution. But the second woman, the real mother, was heartbroken. She begged King Solomon to give the baby to the other woman, rather than see him harmed.\n\n\"King Solomon immediately knew who the true mother was. He declared that the baby belonged to the second woman and returned him to her. And that is how King Solomon's wisdom and fairness saved an innocent child.\"\n\nMoshe listened intently as his mother told the story. He loved hearing about the wise King Solomon and the power of love and truth.\n\n\"Goodnight, Moshe,\" Chava said, kissing him on the forehead. \"May you always be as wise and loving as King Solomon.\"\n\nAnd with that, Moshe drifted off to sleep, dreaming of wise kings and loving mothers.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.34",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

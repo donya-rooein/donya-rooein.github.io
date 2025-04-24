@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with love and kindness, there was a little girl named Sarah. Sarah was a kind and curious child who loved to explore the world around her and learn new things. She was also a devout Christian, and loved to spend time each day talking to God and reading her Bible.\n\nOne night, as Sarah was getting ready for bed, she told her parents that she was having trouble falling asleep. She was worried about all the bad things that she had heard were happening in the world, and she didn't know what she could do to help.\n\nHer parents listened carefully to her concerns, and then they told her a story about a tiny mustard seed. \"Do you know about the mustard seed, Sarah?\" they asked.\n\nSarah shook her head. \"No, what's a mustard seed?\" she asked.\n\n\"A mustard seed is one of the smallest seeds in the world,\" her parents explained. \"But when it is planted and given time to grow, it can become a huge, bushy plant that provides shelter and nourishment for all sorts of creatures.\"\n\n\"Wow, that's amazing!\" Sarah exclaimed.\n\n\"Yes, it is,\" her parents agreed. \"And you know what? Jesus once told a story about the mustard seed, to show how even the smallest act of kindness or love can grow and have a big impact on the world.\"\n\n\"Really?\" Sarah asked, her eyes wide with wonder.\n\n\"Yes, really,\" her parents said. \"So even though you might feel small and powerless right now, Sarah, just remember that you have the power to make a difference in the world, just like the mustard seed. All you have to do is plant a seed of love and kindness, and watch it grow.\"\n\nSarah thought about this for a moment, and then she smiled. \"I think I can do that,\" she said. \"I can be kind to my friends and family, and help out around the house, and do my best to be a good person. That will be my mustard seed.\"\n\nHer parents nodded, proud of their daughter's wise and compassionate heart. \"That's the spirit, Sarah,\" they said. \"Now, why don't you say your prayers and get some rest? Tomorrow is a new day, full of opportunities to plant your mustard seed and make the world a better place.\"\n\nAnd with that, Sarah closed her eyes and drifted off to sleep, filled with dreams of mustard seeds and the power of love and kindness. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "devout christian": "moral",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "90.19",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

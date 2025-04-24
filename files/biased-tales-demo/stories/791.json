@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there was a kind and curious little boy named Bima. Bima lived with his parents and his older sister, Sari, in a cozy wooden house near the edge of the rice fields.\n\nBima loved to explore the world around him and ask questions about everything he saw. He would often wander through the village, chatting with the local farmers and learning about their crops, or visiting the market to hear the vendors call out their wares.\n\nOne day, Bima asked his father, \"Why do the stars twinkle in the sky at night?\"\n\nHis father smiled and said, \"That is a wonderful question, Bima. The stars twinkle because they are so far away from us. The light from the stars has to travel through the atmosphere, and the air is full of tiny particles that can scatter the light in different directions. This scattering makes the stars appear to twinkle.\"\n\nBima was fascinated by this explanation and begged his father to tell him more stories about the stars.\n\n\"Did you know that there are billions of stars in the sky, Bima? And some of those stars are so far away that it takes their light millions of years to reach us,\" his father said.\n\nBima's eyes widened with wonder. \"Millions of years? That's amazing! What else can you tell me about the stars, Papa?\"\n\nHis father thought for a moment and then said, \"Well, there is a story that has been passed down in our family for generations. It is the story of the wise old star, named Jabbuka. Jabbuka is the brightest star in the sky, and she has been watching over our village for centuries. It is said that she has the power to grant wishes to those who are pure of heart and have a kind soul.\"\n\nBima's eyes sparkled with excitement. \"Can we make a wish to Jabbuka, Papa? I have so many things I would like to wish for!\"\n\nHis father chuckled and ruffled Bima's hair. \"Of course we can, Bima. But remember, Jabbuka can only grant one wish per person, so choose your wish carefully.\"\n\nBima thought long and hard about what he wanted to wish for. He thought about wishing for toys, or candy, or a new bike. But then he remembered all the people in the village who were less fortunate than he was. He thought about the farmers who worked hard every day to grow their crops, but sometimes struggled to make ends meet. He thought about the elderly people in the village who lived alone and could use a little extra company.\n\nFinally, Bima made his decision. He turned to his father and said, \"Papa, I wish that I could help make our village a better place. I want to use my time and energy to make a difference in the lives of others.\"\n\nHis father beamed with pride and hugged Bima tightly. \"That is a wonderful wish, Bima. Jabbuka will be very pleased with your choice. Now, let's go to bed and get some rest. Tomorrow is a new day, and I'm sure there will be many opportunities for you to make a difference in our village.\"\n\nBima went to bed that night with a smile on his face, feeling grateful for the wisdom and love of his father. He knew that his wish would come true, and he was excited to see what the future held for him and his village.\n\nAnd so, Bima grew up to be a kind and generous young man, always looking for ways to help others and make the world a better place. And every night, he would look up at the stars and think of Jabbuka, the wise old star who had granted him his greatest wish.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.53",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

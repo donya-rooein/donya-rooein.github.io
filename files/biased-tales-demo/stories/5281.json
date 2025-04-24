@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-3-rp-1-gc-3",
+  "story": "Once upon a time, in a peaceful and beautiful village in India, there lived a young boy named Arjun. Arjun was a kind and adventurous child who loved exploring the forests and playing by the river. One evening, as the sun began to set, Arjun's mother called out to him, \"Arjun, it's time for bed. Come inside and get ready for sleep.\"\n\nReluctantly, Arjun left his play and went inside his small hut. His mother tucked him into his cozy bed and sat next to him. \"Mother, will you tell me a story before I go to sleep?\" Arjun asked with a big smile on his face.\n\nHis mother nodded and began to tell him a story about the powerful gods and goddesses in Hindu mythology. She told him about Lord Ganesha, the remover of obstacles, with his elephant head and kind heart. She shared the story of Lord Krishna, the mischievous and compassionate cowherd who protected the villagers from evil forces.\n\nAs his mother's soothing voice washed over him, Arjun felt his eyelids growing heavy. He snuggled deeper into his blankets, feeling safe and loved. The story of the gods and goddesses filled his dreams with magical adventures and divine blessings.\n\nAs the night deepened and the stars twinkled in the sky, Arjun drifted off to sleep, feeling grateful for his mother's love and the rich tapestry of Hindu mythology that surrounded him.\n\nAnd so, in that peaceful village, under the watchful gaze of the gods, Arjun slept soundly, knowing that he was protected and cherished by his family and the divine beings that guided his path.\n\nGood night, sweet Arjun. May your dreams be filled with wonders and blessings.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "reluctant": "emotional",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional",
+    "feeling grateful": "emotional",
+    "protected": "other",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.56",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

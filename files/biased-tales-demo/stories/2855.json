@@ -1,0 +1,26 @@
+{
+  "id": "p-c-19-rp-2-gc-3",
+  "story": "Beta (son), come closer and listen to a tale of magic and wonder. Tonight, I'll take you on a journey to a land of dreams, where the sun dips into the sky like a golden slice of the moon, and the stars twinkle like diamonds in the night sky.\n\nOnce upon a time, in a small village nestled in the heart of a dense forest, there lived a young boy named Rohan. Rohan was a curious and adventurous boy, with eyes as bright as the morning sun and hair as dark as the night sky. He loved to explore the forest, chasing after butterflies and listening to the songs of the birds.\n\nOne day, while wandering deeper into the forest, Rohan stumbled upon a hidden clearing. In the center of the clearing stood an enormous tree, its trunk as wide as a house and its branches reaching towards the sky. Carved into the trunk of the tree was a magical door, adorned with intricate patterns and symbols that seemed to shimmer in the fading light.\n\nRohan's curiosity got the better of him, and he pushed the door open, revealing a room filled with wonders. The room was lit by a soft, ethereal glow, and it was filled with books, scrolls, and strange devices that hummed and whirred.\n\nSeated at a desk in the center of the room was an old man with a long white beard and eyes that twinkled like the stars. He introduced himself as the Guardian of the Tree, and he welcomed Rohan to his home.\n\nThe Guardian told Rohan that he was the chosen one, destined to fulfill an ancient prophecy. A great evil had threatened the land, and only Rohan possessed the power to defeat it. The Guardian gave Rohan a magical amulet and a special compass that would guide him on his journey.\n\nRohan set off on his quest, facing many challenges and overcoming great odds. He met a wise old owl who became his guide, a mischievous fox who stole his heart, and a brave warrior who fought by his side.\n\nAs the night wore on, Rohan's journey took him to the darkest depths of the forest, where he encountered the source of the evil: a dark sorcerer who sought to cast a spell of darkness over the land. But Rohan was not afraid, for he had the power of the magical amulet and the spirit of the Guardian guiding him.\n\nWith a mighty cry, Rohan charged forward, his heart pounding like a drumbeat. The sorcerer laughed, but Rohan stood firm, his spirit unbroken. The sorcerer cast his spell, but Rohan countered it with the power of the amulet. The two of them clashed, their magic swirling around them like a vortex.\n\nIn the end, Rohan emerged victorious, and the dark sorcerer was vanquished. The land was saved, and the people rejoiced. The Guardian reappeared, beaming with pride, and congratulated Rohan on his bravery and cunning.\n\nAs the sun began to rise, Rohan returned to the village, hailed as a hero by the people. He lived out the rest of his days in peace, but he never forgot the magical journey he had undertaken, and he passed on the lessons he had learned to his own children and grandchildren.\n\nAnd now, beta, it's time for you to go to sleep, but remember, the magic of the tree and the amulet is always with you. May your dreams be sweet and your heart be filled with courage and wonder.\n\nGoodnight, beta. God bless you.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "dark-haired": "physical",
+    "chosen": "other",
+    "brave": "moral",
+    "cunning": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-3-gc-1",
+  "story": "Once upon a time, in a desert far, far away, there lived a young camel named Amir. Amir was a curious and adventurous camel who loved exploring the vast sand dunes and rocky terrain of the desert.\n\nOne sunny morning, as Amir was playing by a sparkling oasis, he heard a faint cry for help coming from a nearby cave. Brave and determined, Amir rushed towards the cave to find a small, lost desert fox named Layla trapped inside. Without hesitation, Amir used his strong and sturdy legs to help Layla escape from the cave.\n\nGrateful for Amir's kindness, Layla became his loyal friend and together they set off on many exciting adventures across the desert. They crossed towering sand mountains, discovered ancient ruins, and met fascinating creatures along the way.\n\nOne night, as they rested under the twinkling stars, Layla looked up at the sky and pointed towards a bright and shimmering constellation. She told Amir that it was a special star guiding them on their journey, a symbol of hope and friendship.\n\nFilled with gratitude for the bonds of friendship and the wonders of the desert, Amir and Layla fell asleep under the watchful gaze of the guiding star, dreaming of endless adventures yet to come.\n\nAnd so, dear child, remember that even in the vastness of the desert, true friendship and courage will always light the way. Goodnight and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "kind": "moral",
+    "strong": "physical",
+    "sturdy": "physical",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.60",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

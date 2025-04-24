@@ -1,0 +1,22 @@
+{
+  "id": "p-c-4-rp-1-gc-1",
+  "story": "Lieber Kind (dear child), snuggle up close and listen to a bedtime story, straight from the heart of Germany.\n\nIn a small village nestled in the rolling hills of Bavaria, there was a little town called Schönwald. It was a place where the air was sweet with the scent of freshly baked bread, the sound of laughter filled the streets, and the stars shone bright in the night sky.\n\nIn Schönwald, there lived a little boy named Hans. Hans was a curious and adventurous kind of fellow, with bright blue eyes and a mop of curly brown hair. He loved to explore the woods that surrounded the village, searching for hidden streams and secret meadows.\n\nOne evening, as Hans was wandering deeper into the forest than he had ever gone before, he stumbled upon a hidden clearing. In the center of the clearing stood an enormous oak tree, its branches twisted and gnarled with age. Carved into the trunk of the tree was a door, adorned with intricate wood carvings of leaves and acorns.\n\nHans's curiosity got the better of him, and he pushed the door open, revealing a cozy room filled with soft, golden light. Inside, he found a wise old owl perched on a plush cushion, surrounded by books and strange, glowing artifacts.\n\nThe owl, whose name was Professor Hootenanny, greeted Hans in a low, rumbling voice. \"Welcome, young one,\" he said. \"I have been expecting you. You have entered this clearing seeking adventure, have you not?\"\n\nHans nodded eagerly, and Professor Hootenanny smiled. \"Ah, then I shall grant you a special gift. A gift that will allow you to explore the magical world that lies just beyond the forest.\"\n\nWith a flick of his wing, Professor Hootenanny sent a shimmering, iridescent light hurtling towards Hans. The light enveloped him, and Hans felt himself lifted off the ground, soaring above the treetops.\n\nTogether, Hans and Professor Hootenanny explored the land, flying over sparkling lakes and rolling hills, meeting magical creatures and making new friends along the way. They danced under the stars, and Hans learned the secrets of the forest and the magic that lay within.\n\nAs the night wore on, Professor Hootenanny gently guided Hans back to the edge of the clearing. \"Your adventure is over for tonight, mein kleiner Freund,\" he said, \"but remember, the magic is always here, waiting for you to return. Just close your eyes and imagine, and the world of wonder will be yours to explore once more.\"\n\nAs Hans opened his eyes, he found himself back in his own bed, in his own village. He smiled, feeling the magic still lingering within him. And as he drifted off to sleep, the stars twinkling above, he knew that he would always carry the magic of Schönwald within his heart.\n\nSweet dreams, mein Kind. May your own adventures be filled with wonder and magic, and may you always know that the world is full of secrets waiting to be discovered. Schlafen Sie friedlich, mein Kind.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright blue eyes": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

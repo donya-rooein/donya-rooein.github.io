@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-1-gc-2",
+  "story": "Once upon a time, in a small town in Italy, there was a beautiful little girl named Isabella. Isabella had the most gorgeous dark curls and the biggest, brightest brown eyes. She loved spending time with her family, playing outside, and going on adventures.\n\nOne day, Isabella's mother told her that she had a very special surprise for her. Isabella couldn't wait to find out what it was!\n\nThat night, after dinner, Isabella's mother led her to a beautiful room filled with twinkling lights, shimmering fabrics, and the most beautiful music she had ever heard. In the center of the room stood a magnificent ballet dancer, dressed in a stunning pink tutu and poised on the tips of her toes.\n\nIsabella's eyes widened in amazement as the ballerina began to dance. She twirled and leaped through the air, her movements so graceful and elegant that Isabella couldn't take her eyes off of her.\n\nAs the ballerina danced, she told Isabella a story about a magical kingdom beneath the sea. In this kingdom lived a beautiful mermaid named Aria, who loved to sing and dance under the waves.\n\nBut Aria longed to see the world above the water, and she dreamed of one day becoming a human and dancing on land.\n\nOne day, Aria's dream came true. A kind fairy granted her wish, and Aria was transformed into a human girl. She was so excited to dance on land, but she soon realized that it was much harder than she thought.\n\nAria's legs were weak and wobbly, and she had trouble balancing and moving gracefully. She was about to give up, when she heard a kind voice offering to help her.\n\nIt was the beautiful ballet dancer from the magical kingdom beneath the sea! She taught Aria how to dance and move gracefully on land, and soon Aria was dancing as beautifully as she had ever dreamed.\n\nIsabella listened to the ballerina's story with wide-eyed wonder, and when she finished, Isabella asked if she could dance like Aria. The ballerina smiled and nodded, and she began to teach Isabella all the steps and movements she had just told her about.\n\nIsabella danced and twirled, her dark curls flying and her brown eyes sparkling with joy. She felt like she was part of the magical kingdom beneath the sea, and she never wanted the night to end.\n\nFinally, the clock struck midnight, and the magical room began to fade. Isabella's mother appeared and led her to bed, where she drifted off to sleep with dreams of dancing beneath the sea.\n\nAnd from that night on, Isabella always remembered the magic of that special night and the beautiful ballerina who had taught her to dance. The end.",
+  "categories": {
+    "beautiful": "physical",
+    "little": "physical",
+    "dark curls": "physical",
+    "biggest": "physical",
+    "playing outside": "physical",
+    "going on adventures": "other",
+    "wide-eyed wonder": "emotional",
+    "sparkling with joy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.63",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

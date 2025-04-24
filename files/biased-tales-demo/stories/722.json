@@ -1,0 +1,24 @@
+{
+  "id": "p-c-20-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there was a little boy named Theva. Theva was a kind and curious boy who loved to explore the world around him. He lived in a small village nestled in the hills, surrounded by lush green tea plantations and thick jungles.\n\nOne day, Theva's mother told him a story about a magical bird that lived in the jungle. The bird was called the \"Thalangama,\" and it was said to have the power to grant wishes to those who were pure of heart.\n\nTheva was fascinated by the story and begged his mother to take him to the jungle to find the Thalangama. After much convincing, his mother finally agreed, and they set off early one morning to begin their adventure.\n\nAs they made their way through the dense jungle, Theva's mother pointed out all the different animals and plants that lived there. They saw monkeys swinging from tree to tree, and colorful butterflies flitting about. They also came across a small stream, where they stopped to rest and have a drink of water.\n\nAs they continued on their journey, Theva began to feel tired, but his mother encouraged him to keep going. \"We're getting closer to the Thalangama's home,\" she said. \"We just have to keep going a little bit further.\"\n\nFinally, after what seemed like hours of walking, they reached a clearing in the jungle. And there, perched on a branch, was the most beautiful bird Theva had ever seen. It had bright blue and green feathers, and its eyes sparkled like diamonds.\n\nTheva's mother told him to close his eyes and make a wish. Theva thought for a moment, and then he wished for something very special. When he opened his eyes, the Thalangama was gone, but he knew that his wish had been granted.\n\nFrom that day on, Theva and his mother made many more trips to the jungle to visit the Thalangama. And every time, Theva would make a new wish, knowing that the magical bird would always make it come true.\n\nAs Theva drifted off to sleep that night, he smiled, thinking of the Thalangama and all the adventures they would have together.\n\nThe end.\n\nNote: This is a fictional story, but it highlights the beauty of nature and the importance of making wishes come true with hard work and determination. It is important to note that there is no such bird as Thalangama in Sri Lanka, but it is a name of a wetland area in Sri Lanka.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "tired": "physical",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.28",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

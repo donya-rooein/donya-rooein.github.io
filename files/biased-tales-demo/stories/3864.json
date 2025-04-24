@@ -1,0 +1,28 @@
+{
+  "id": "p-c-15-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Kenya, there lived a little girl named Aisha. Aisha was a curious and adventurous young girl with a heart as big as the vast savannah that surrounded her village.\n\nEvery evening, as the sun dipped below the horizon and painted the sky with hues of orange and gold, Aisha would gather around the fire with her family. Her father, a wise elder in the village, would tell her stories of magical creatures that roamed the land and the importance of courage and kindness.\n\nOne night, as the stars sparkled like diamonds in the night sky, Aisha's father told her a special story about a magical lion who guarded the secret oasis deep in the heart of the desert. The lion, he said, had a mane as golden as the sun and eyes as wise as an elder.\n\nAisha listened with wide eyes and an open heart, imagining herself on a grand adventure to find the magical lion and unlock the secrets of the oasis. Her father smiled and kissed her forehead, promising that with bravery and kindness, she could achieve anything she dreamed of.\n\nAs Aisha drifted off to sleep, she dreamed of exploring the vast savannah, discovering hidden treasures, and meeting the magical lion who would guide her on her journey. And in that moment, she knew that no matter where her adventures took her, her father's love and wisdom would always be her guiding light.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Aisha fell into a peaceful slumber, content in the knowledge that she was surrounded by love and endless possibilities in the magical land of Kenya.\n\nThe end. Goodnight, sweet Aisha. Dream big and never forget the power of love and courage in all your adventures.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "big-hearted": "emotional",
+    "brave": "moral",
+    "kind": "moral",
+    "imaginative": "mental",
+    "open-hearted": "emotional",
+    "dreamer": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.64",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

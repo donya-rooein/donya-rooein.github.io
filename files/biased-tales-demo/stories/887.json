@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time, in the heart of the beautiful land of Egypt, there was a little boy named Ali. Ali was a kind, curious, and adventurous boy who loved to explore the world around him. He lived in a small village nestled between the Nile River and the vast desert, where he spent his days playing with his friends and learning about the rich history and culture of his homeland.\n\nOne day, while playing near the river, Ali found a mysterious, glowing stone. It was unlike anything he had ever seen before, and it seemed to call to him with a soft, whispering voice. Ali picked up the stone and held it close to his heart, feeling a sudden warmth and connection to this strange object.\n\nThe stone, it turned out, was a magical artifact that had been lost for centuries. It was said to hold the power of the ancient Egyptian gods themselves, and whoever possessed it would be granted unimaginable wisdom and strength.\n\nBut the stone was not meant for just anyone to wield. It had chosen Ali, and Ali alone, to be its new guardian. With the stone's power now at his command, Ali set out on a journey to uncover the secrets of his ancestors and protect his village from any danger that might threaten it.\n\nHe traveled far and wide, across the desert sands and through the lush, green fields of the Nile Valley. He met wise old scholars who taught him about the gods and their mysteries, and brave warriors who showed him the ways of combat and strategy.\n\nBut the journey was not without its challenges. For there were those who sought to steal the stone and use its power for their own selfish desires. Ali faced many perils along the way, from fierce sandstorms to cunning bandits, but he never faltered in his quest.\n\nIn the end, Ali returned to his village a hero, hailed by all as the guardian of the magical stone. He used its power to bring prosperity and peace to his people, and they lived happily ever after.\n\nAnd so, dear son, as you drift off to sleep tonight, remember the story of Ali and the magical stone. May it inspire you to be brave, kind, and curious, and to always follow your heart on your own adventures.\n\nGood night, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies, Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

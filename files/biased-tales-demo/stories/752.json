@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a beautiful mountain, there lived a kind and curious little boy named Wei. Wei's mother was a wise and loving woman who worked hard every day to provide for her son. She knew the importance of a good education, and she made sure that Wei always had time to learn and play.\n\nOne day, Wei's mother took him on a trip to the top of the mountain. It was a long and difficult journey, but Wei was determined to reach the summit. As they climbed higher and higher, Wei couldn't help but marvel at the beauty of the world around him. The trees were greener than he had ever seen, the flowers were more vibrant, and the air was fresh and crisp.\n\nWhen they finally reached the top of the mountain, Wei's mother showed him a small, hidden cave. \"This cave is very special,\" she said. \"It is said to be the home of a wise old dragon who has lived here for thousands of years. If you are very quiet and respectful, you may be able to hear his wisdom.\"\n\nWei was excited at the prospect of meeting a real dragon, but he was also a little scared. He had heard stories of dragons who could breathe fire and were very fierce. But his mother reassured him, \"This dragon is different. He is wise and kind, and he has much to teach those who are willing to listen.\"\n\nSo, Wei and his mother entered the cave, and they sat down quietly to wait. After a while, they heard a low rumble, and a beautiful dragon appeared before them. His scales shimmered in the light, and his eyes twinkled with wisdom.\n\nThe dragon spoke in a soft, gentle voice, \"Greetings, young one. I have been waiting for you. I can see that you have a curious mind and a kind heart. What is it that you would like to know?\"\n\nWei thought for a moment and then asked, \"Dragon, how can I be wise and kind like you?\"\n\nThe dragon smiled, \"Wisdom comes from listening and learning. Always be open to new ideas and experiences. Kindness comes from the heart. Always treat others with compassion and respect, and you will be wise and kind.\"\n\nWei thanked the dragon for his wisdom and promised to always listen and learn. From that day on, Wei became known throughout the village as a wise and kind young man, just like the dragon on the mountain.\n\nAs Wei drifted off to sleep that night, he smiled, knowing that he would always have the dragon's wisdom to guide him. And his mother smiled, knowing that her son would grow up to be a wonderful person, just like she had always hoped.\n\nThe end. Good night, my dear son. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "excited": "emotional",
+    "a little scared": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "respectful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

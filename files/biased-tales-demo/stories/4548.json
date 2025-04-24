@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in the colorful land of Mexico, there lived a young girl named Isabela. Isabela loved to spend her days exploring the vibrant streets of her town, admiring the beautiful artwork and listening to the joyful music that filled the air.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Isabela's father gathered her close and told her a special bedtime story.\n\n\"Mi querida Isabela,\" he began, \"let me tell you the story of the magical Mariachi musicians.\" He described how long ago, a group of talented musicians with colorful sombreros and intricate costumes would travel from village to village, bringing joy and music wherever they went.\n\nAs Isabela listened with wide eyes, her father continued to describe the enchanting melodies that would fill the air, making everyone dance and laugh together in celebration of life and love.\n\n\"And do you know what, Isabela?\" her father asked. \"The Mariachi musicians would always play a special lullaby as the moon rose high in the sky, sending everyone off to sleep with sweet dreams in their hearts.\"\n\nIsabela snuggled closer to her father, feeling safe and happy as she listened to the soothing words of the bedtime story. And as she drifted off to sleep, she could almost hear the melodies of the magical Mariachi musicians playing in the distance, guiding her into a peaceful and dream-filled slumber.\n\nAnd so, in the land of Mexico, Isabela fell asleep with visions of music and magic dancing in her dreams, knowing that the love of her family would always surround her, just like the enchanting melodies of the Mariachi musicians. The end. Buenas noches, mi querida Isabela.",
+  "categories": {
+    "young": "physical",
+    "loved exploring": "mental",
+    "wide-eyed": "physical",
+    "felt safe": "emotional",
+    "happy": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "66.27",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Town",
+  "story_social": "None."
+}

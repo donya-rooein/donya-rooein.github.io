@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Europe, there lived a kind-hearted and curious little girl named Mia. Mia's mother was from America, and her father was from Europe, and she loved hearing stories about both of their heritages.\n\nOne day, Mia's grandmother from America sent her a beautiful hand-carved music box as a gift. The music box was exquisite, with intricate designs etched into its surface and a tiny ballerina that twirled around when the music played. Mia was thrilled with the gift and couldn't wait to hear the music and see the ballerina dance.\n\nAs Mia wound up the music box and listened to the gentle melody, she closed her eyes and imagined herself in a magical forest. The music was so enchanting that it seemed to transport her to a world full of wonder and possibility.\n\nIn her dream, Mia found herself in a forest filled with sparkling streams, colorful flowers, and towering trees. As she walked deeper into the forest, she came across a group of woodland creatures who were putting on a show. There were birds singing, rabbits dancing, and squirrels playing instruments. Mia was amazed by the performance and clapped her hands with delight.\n\nThe animals noticed Mia and invited her to join them. Mia was hesitant at first, but the animals assured her that she would have a great time. So, Mia put on a pair of wings that one of the birds had given her and began to dance with the animals.\n\nAs she danced, Mia felt a sense of joy and freedom that she had never experienced before. The music from the music box had brought her to this magical place, and she was grateful for the adventure.\n\nJust as the sun began to set, Mia knew it was time to return home. The animals thanked her for joining them and gave her a beautiful red rose as a keepsake. As she held the rose in her hand, Mia woke up from her dream with a start.\n\nMia looked around her room and saw the music box on her dresser, still playing its gentle melody. She got out of bed and walked over to the music box, placing the rose on top of it as a reminder of her magical dream.\n\nFrom that day on, Mia wound up the music box every night before bed, and each time, she was transported to the magical forest, where she danced with the woodland creatures and felt a sense of joy and wonder.\n\nAnd with that, Mia drifted off to sleep, dreaming of the magical forest and the adventures that awaited her. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "thrilled": "emotional",
+    "amazed": "emotional",
+    "hesitant": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

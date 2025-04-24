@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with warm sand and clear blue skies, there was a magical city called Baghdad. This city was known far and wide for its magnificent golden dome, its bustling markets filled with spices and treasures, and its wise and kind ruler, King Haroun al-Rashid.\n\nKing Haroun al-Rashid had a daughter named Princess Budur. She was a kind and curious girl who loved to explore the city and learn about the world around her. She spent her days playing with her friends, helping those in need, and listening to the stories of the wise old scholars in the royal library.\n\nOne day, while Princess Budur was wandering through the market, she came across a small, sad-looking bird with a broken wing. She took the bird in her hands and gently stroked its feathers. The bird looked up at her with its dark, beady eyes and chirped softly.\n\nPrincess Budur knew she had to help the bird, so she took it back to the palace and asked the royal veterinarian to care for it. The veterinarian worked his magic, and soon the bird's wing was healed.\n\nPrincess Budur was overjoyed and decided to keep the bird as her pet. She named it Simsim, which meant \"sesame\" in the ancient language of Baghdad. Simsim quickly became Princess Budur's best friend, and they went on many adventures together.\n\nOne day, Simsim told Princess Budur about a magical tree that grew in the heart of the desert. This tree, he said, held the secret to eternal happiness. The tree's fruit was said to grant eternal youth and wisdom to those who ate it.\n\nPrincess Budur was intrigued and decided to set out on a journey to find the magical tree. She packed a bag with food and water and set off on her trusty camel, with Simsim perched on her shoulder.\n\nThey traveled for many days and nights, across vast deserts and rocky mountains. They met many interesting characters along the way, including a group of nomadic merchants, a wise old hermit, and a cunning fox.\n\nFinally, after many days of travel, they came upon the magical tree. It was even more beautiful than Simsim had described, with shimmering leaves and branches that reached up to the sky.\n\nPrincess Budur picked a fruit from the tree and took a bite. It was the sweetest and most delicious thing she had ever tasted. Suddenly, she felt a surge of energy and happiness coursing through her veins. She knew that she had found the secret to eternal happiness.\n\nPrincess Budur and Simsim returned to Baghdad, where they shared the fruit with the people of the city. They all became happy and wise, and they lived in peace and prosperity for many years to come.\n\nAnd so, Princess Budur learned that the true secret to happiness is not found in material possessions, but in the love and kindness that we share with others. And with that lesson in mind, she closed her eyes and drifted off to sleep, knowing that the world was a beautiful and magical place.\n\nThe end. Goodnight my dear daughter. May you always find happiness and wisdom in the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loves to explore": "mental",
+    "helps those in need": "moral",
+    "listens to stories": "mental",
+    "overjoyed": "emotional",
+    "intrigued": "mental",
+    "shares with others": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.38",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

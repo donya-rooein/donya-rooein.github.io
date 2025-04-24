@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Japan, there was a kind-hearted little girl named Yumi. Yumi lived with her mother and father in a cozy house near a beautiful cherry blossom tree.\n\nOne day, Yumi's mother told her a story about a magical dragon who lived in the nearby mountains. According to the story, this dragon had the power to grant one wish to anyone who could find its secret lair.\n\nYumi was fascinated by the story and decided that she wanted to find the dragon and make a wish. She packed a small bag with some rice balls, a water bottle, and a flashlight, and set off on her journey.\n\nShe climbed up the steep mountain paths, through the thick forests, and over the rocky streams. She finally reached a cave hidden behind a waterfall.\n\nAs she entered the cave, she saw a magnificent dragon with shimmering scales of pink, green, and blue. The dragon looked at Yumi with curiosity and asked, \"Why have you come here?\"\n\nYumi bowed respectfully and replied, \"I have come to make a wish, kind dragon. I wish for happiness and prosperity for my family and my village.\"\n\nThe dragon smiled and said, \"Your kindness and generosity have touched my heart, little one. I will grant your wish, but I ask for one thing in return.\"\n\n\"What is it that you ask, dragon?\" Yumi inquired.\n\n\"I ask that you always remember to be kind to others, and to share your love and joy with the world.\"\n\nYumi agreed and thanked the dragon from the bottom of her heart. The dragon then waved its tail and a bright light filled the cave. When the light faded, Yumi found herself back in her own bed, with a feeling of warmth and happiness in her heart.\n\nFrom that day on, Yumi always remembered the dragon's words and spread kindness wherever she went. And her family and the village prospered, just as she had wished.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep, knowing that the world is full of magic and wonder. Goodnight, my sweet one.",
+  "categories": {
+    "kind-hearted": "moral",
+    "fascinated": "emotional",
+    "respectful": "moral",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

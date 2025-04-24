@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-2-gc-1",
+  "story": "Once upon a time, in a lush, green jungle in the heart of Indonesia, there lived a young boy named Budi. Budi was not like the other children in his village. He was quiet and thoughtful, and he had a deep love for animals and the natural world.\n\nBudi spent his days exploring the jungle, making friends with the creatures that lived there. He would talk to the monkeys, play with the butterflies, and even swim with the fish in the river. But of all the animals in the jungle, Budi's favorite was the magnificent bird of paradise.\n\nThe bird of paradise was a rare and beautiful creature, with feathers that shimmered in the sunlight like a rainbow. Budi had never seen one up close, but he had heard the other villagers talking about its incredible grace and beauty.\n\nOne day, Budi decided that he had to see the bird of paradise for himself. He packed a small bag with some food and water, and set off into the jungle. He climbed hills and crossed streams, following the stories and rumors of the bird's whereabouts.\n\nAfter many days of searching, Budi finally found the bird of paradise. It was perched on a branch, singing a beautiful song that echoed through the jungle. Budi was awestruck by its beauty and grace.\n\nBut as Budi watched, he noticed that the bird was caught in a trap, unable to free itself. Budi's heart went out to the bird, and he knew he had to help. Carefully, he approached the bird and gently freed it from the trap.\n\nThe bird of paradise looked at Budi with gratitude in its eyes, and then took flight, soaring high above the jungle canopy. Budi watched as the bird circled overhead, singing its beautiful song.\n\nFrom that day on, Budi and the bird of paradise became the best of friends. Budi would visit the bird every day, bringing it food and watching it sing. And the bird would always greet Budi with a song, as if to say thank you.\n\nAnd so, Budi and the bird of paradise lived happily ever after, reminding us all that kindness and compassion can bring us the most beautiful of friends.\n\nNow, my dear child, it's time for you to close your eyes and dream of your own adventures in the jungle, just like Budi. Goodnight, sweetheart.",
+  "categories": {
+    "young": "physical",
+    "quiet": "mental",
+    "thoughtful": "mental",
+    "explores the jungle": "physical",
+    "awestruck by beauty": "emotional",
+    "compassionate": "emotional",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

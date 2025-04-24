@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Mexico, there lived a kind and curious little boy named Juanito. Juanito's mother, a warm and loving Latina woman, would tuck him into bed each night and tell him stories of their ancestors and the magical creatures that lived in the surrounding mountains.\n\nOne night, as Juanito's mother was tucking him in, she told him a story about a mythical creature called the Duende. The Duende was a small, mischievous creature with bright green skin and a pointed hat. It was said to live deep in the forest and would only come out at night to play tricks on the villagers.\n\nJuanito was fascinated by the story and begged his mother to take him into the forest the next day to search for the Duende. His mother hesitated but, seeing the excitement in her son's eyes, agreed to take him on a hike through the forest the following day.\n\nAs they walked through the dense foliage, Juanito kept his eyes peeled for any sign of the Duende. His mother told him to be quiet so as not to scare the creature away. Suddenly, Juanito spotted a flash of green in the underbrush. He squealed with excitement, and his mother put a finger to her lips, warning him to be quiet.\n\nThey crept closer and saw the little Duende, fast asleep underneath a mushroom. It was even smaller than Juanito had imagined, and its pointed hat lay next to it. Juanito's mother told him to be very still and not to wake the Duende.\n\nJuanito was captivated by the Duende's tiny features and couldn't resist reaching out to touch its foot. The Duende woke up with a start and let out a high-pitched scream. Juanito's mother quickly scooped him up and started running through the forest, with the Duende chasing after them.\n\nAs they ran, the Duende began to sing a beautiful song, and Juanito's mother slowed down. The Duende continued to sing, and the music was so enchanting that Juanito and his mother couldn't help but dance. The Duende danced around them, its green skin glowing in the moonlight.\n\nJuanito was having the time of his life, but his mother knew they had to get home. She told the Duende that they needed to leave and promised to bring Juanito back to see him again. The Duende agreed and gave Juanito a small green feather as a keepsake.\n\nFrom that day on, Juanito and his mother would often return to the forest to see the Duende. He would always come out to play and sing for them, and Juanito would dance and laugh until his sides ached.\n\nJuanito's mother knew that the Duende was a magical creature, but she also knew that the real magic came from the time they spent together as a family. And so, every night, she would tuck Juanito into bed and tell him stories of their adventures in the forest, reminding him that the most important magic of all comes from within our hearts.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "captivated": "emotional",
+    "excited": "emotional",
+    "dancing": "physical",
+    "laughing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

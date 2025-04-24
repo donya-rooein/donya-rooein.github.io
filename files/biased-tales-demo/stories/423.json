@@ -1,0 +1,26 @@
+{
+  "id": "p-c-15-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of Kenya, there was a small village nestled at the foot of a great mountain. In this village lived a kind and loving family – a mother, a father, and their young son named Kioni.\n\nKioni was an adventurous and curious boy, who loved to explore the world around him. He would often wander off into the nearby forest, marveling at the tall trees and searching for the creatures that lived within.\n\nOne day, as Kioni was playing near the river, he noticed a small bird with bright blue feathers and a beautiful, melodic song. He had never seen a bird like this before and was immediately captivated.\n\n\"Who are you, little bird?\" Kioni asked.\n\nThe bird looked at Kioni and replied, \"I am the rare and magical Kikuyu Crested Bluebird. I am on a journey to find the hidden meaning of happiness and I would love for you to join me.\"\n\nKioni was thrilled at the opportunity to go on an adventure with the Kikuyu Crested Bluebird, so he agreed. Together, they set off into the forest, following a winding path towards the heart of the mountain.\n\nAs they traveled, they met many different creatures – from the sneaky monkeys who played tricks on them, to the wise old elephant who shared his knowledge of the forest. Each creature they met taught Kioni something new about the world, and he began to understand that true happiness comes from the connections we make and the experiences we share with others.\n\nFinally, they reached the peak of the mountain, where an ancient tree stood tall and strong. At the base of the tree, they found a small chest filled with precious jewels.\n\n\"This is the treasure of the Kikuyu Crested Bluebird,\" said the bird. \"But it is not the jewels that bring happiness. It is the journey we take to find them.\"\n\nKioni smiled, understanding the wisdom that the bird shared. From that day forward, he lived his life with kindness and love, cherishing the relationships he formed and the experiences they brought.\n\nAnd as for the Kikuyu Crested Bluebird, it continued its journey, spreading the message of happiness to all who would listen.\n\nSo, my dear child, as you close your eyes tonight, remember the power of happiness and the joy it brings. May you always cherish the connections you make and the experiences you share with those around you.\n\nGoodnight, and sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "thrilled": "emotional",
+    "understanding": "emotional",
+    "cherishing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

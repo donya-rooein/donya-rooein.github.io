@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled among the rolling hills of Germany, there lived a little fox named Fritz. Fritz was a curious and adventurous fox who loved exploring the forest and playing with his friends.\n\nOne moonlit night, as the stars twinkled brightly in the sky, Fritz decided to go on a special adventure to find the legendary Rainbow Cave. It was said that the Rainbow Cave was filled with magical crystals that glowed in all the colors of the rainbow.\n\nFritz embarked on his journey, trotting through the dark forest, guided by the soft whispers of the night creatures. Along the way, he met a wise old owl perched on a branch, who warned him of the challenges he may face in the cave.\n\nUndeterred, Fritz continued on, his heart filled with excitement and courage. As he ventured deeper into the forest, he encountered sparkling fireflies that led him to the entrance of the Rainbow Cave.\n\nWith a deep breath, Fritz stepped inside the cave and was greeted by a magnificent sight. Crystals of every color shimmered and glowed in the dim light, creating a breathtaking rainbow of hues that danced on the walls.\n\nFritz felt a sense of wonder and awe as he explored the cave, picking up a small crystal that shimmered in shades of blue and green. It felt warm in his paws, filling him with a sense of peace and happiness.\n\nAs he made his way back home, Fritz knew that he had found something truly special in the Rainbow Cave - a reminder that magic could be found in the most unexpected places, and that bravery and kindness would always light the way.\n\nAnd so, with his precious crystal in hand, Fritz returned to his cozy den, drifting off to sleep with dreams of rainbows and friendship in his heart.\n\nThe end. Gute Nacht, liebes Kind. Sleep well, mein kleiner Fuchs.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "courageous": "mental",
+    "filled with wonder": "emotional",
+    "filled with awe": "emotional",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

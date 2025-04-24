@@ -1,0 +1,30 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time, in the enchanting Black Forest of Germany, there lived a brave and kind-hearted princess named Anna. Anna was loved by all the creatures of the forest, from the chirping birds to the wise old owls.\n\nOne night, as the moon shone brightly overhead, Anna was visited by a magical fairy who granted her a special gift – the ability to talk to animals. Delighted by this newfound power, Anna set out to explore the depths of the forest and made new friends around every corner.\n\nShe met a playful fox who showed her secret pathways through the trees, a gentle deer who shared stories of the forest's past, and a mischievous squirrel who taught her the art of climbing trees with ease.\n\nAs Anna wandered deeper into the forest, she came across a beautiful clearing where a majestic unicorn roamed freely. The unicorn had a shimmering mane that sparkled in the moonlight, and its eyes held a wisdom that was both ancient and timeless.\n\nThe unicorn told Anna of a hidden well deep within the forest that held the power to grant wishes. Excited by the prospect of making her wildest dreams come true, Anna and her newfound friends embarked on a daring adventure to find the well.\n\nTogether, they faced challenges and overcame obstacles, relying on each other's strengths and unwavering friendship. And after a long and arduous journey, they finally reached the magical well, its waters sparkling with promise.\n\nAnna closed her eyes and made her wish, a wish so pure and true that it echoed through the forest, touching the hearts of all who heard it. And as she opened her eyes, she saw her wish coming to life before her – a world filled with love, peace, and happiness for all.\n\nWith grateful hearts, Anna and her animal friends returned to the heart of the forest, where they danced and sang under the twinkling stars, celebrating the magic of friendship and the power of dreams.\n\nAnd from that night onwards, the Black Forest was forever touched by the kindness and bravery of Princess Anna, a beacon of light and hope for all who called it home. And so, the tale of Anna and her magical forest adventure lived on in the hearts of all who believed in the timeless magic of dreams. \n\nGood night, little one. Dream sweet dreams, for tomorrow holds endless possibilities just waiting to be discovered. Gute Nacht!",
+  "categories": {
+    "brave": "moral",
+    "kind-hearted": "moral",
+    "loved": "emotional",
+    "delighted": "emotional",
+    "playful": "emotional",
+    "gentle": "emotional",
+    "mischievous": "mental",
+    "excited": "emotional",
+    "pure": "moral",
+    "true": "moral",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.46",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

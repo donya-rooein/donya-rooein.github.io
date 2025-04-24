@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time, in a quaint little village in Russia, there lived a young girl named Anya. Anya was a curious and imaginative child who loved to spend her days exploring the beautiful forests that surrounded her home.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the darkening sky, Anya's grandmother told her a magical story about a hidden world deep within the enchanted forest. In this hidden world, fairies danced among the flowers, and animals could speak in whispered voices under the moonlight.\n\nAnya's eyes sparkled with wonder as she listened to her grandmother's tale, and she begged to know how she could find this secret world. Her grandmother smiled and handed her a small silver key, telling her that it was the key to the enchanted forest.\n\nWith a heart full of excitement, Anya set out into the woods, guided by the soft glow of fireflies. As she wandered deeper and deeper into the forest, she heard the gentle hum of magic all around her. Suddenly, she came upon a grand oak tree with a small keyhole in its trunk, just as her grandmother had described.\n\nAnya carefully inserted the silver key into the hole, and with a click, the tree split open to reveal a hidden doorway. Stepping through the portal, Anya found herself in a breathtaking world filled with shimmering light and the sweet scent of flowers.\n\nShe danced with the fairies, who laughed and twirled around her in a whirl of color and joy. She listened to the wise old owl, who shared stories of the ancient forest and its many mysteries. And she made friends with the animals, who promised to always watch over her and keep her safe.\n\nAs the night grew late and the first light of dawn began to break through the trees, Anya knew it was time to return home. With a heavy heart, she bid farewell to her newfound friends, knowing that she could always come back to visit the enchanted forest whenever she wished.\n\nAnd so, with a heart full of magic and wonder, Anya returned home to her loving family, carrying with her the memories of her extraordinary adventure in the enchanted forest.\n\nAnd as she drifted off to sleep that night, she knew that the magic of the forest would always be with her, filling her dreams with joy and endless possibility.\n\nThe end. Goodnight, sweet dreams, little one.",
+  "categories": {
+    "curious": "mental",
+    "imaginative": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "full of wonder": "emotional",
+    "adventurous": "mental",
+    "joyful": "emotional",
+    "loving": "emotional",
+    "magical": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.41",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "Once upon a time, in a small pueblo in Mexico, there was a kind and curious little boy named Juan. Juan lived with his mother, who was a seamstress, and his father, who was a farmer. They were a loving family who worked hard every day to provide for one another.\n\nOne day, Juan asked his mother, \"Mama, why do the stars in the sky twinkle at night?\"\n\nHis mother smiled and replied, \"That is a beautiful question, mijo. The stars twinkle because they are far, far away, and their light must travel through the darkness of space to reach us. As the light travels, it passes through tiny particles in the air, and each particle bends the light slightly, causing it to twinkle.\"\n\nJuan thought about this for a moment, then asked, \"But why do the stars shine in the first place?\"\n\nHis mother took a deep breath and began to tell him a story that had been passed down through generations of their family.\n\n\"Long ago, before there were stars in the sky, there was a great darkness that covered the earth. People lived in fear, and the world was a cold and lonely place. But there was a wise old woman who lived in a cave in the mountains. She was a powerful sorceress who had the power to create life.\n\nOne day, the sorceress decided to create stars to bring light and warmth to the world. She spent many days and nights gathering the purest stardust she could find. When she had collected enough, she shaped it into tiny, glowing orbs and set them free in the night sky.\n\nThe stars brought warmth and light to the world, and the people were no longer afraid. They rejoiced in the beauty of the night sky and were grateful for the stars' gift of light.\n\nBut the sorceress knew that the stars could not shine forever on their own. She knew that they would need fuel to keep burning. And so, she whispered a powerful spell, and the stars began to burn with a beautiful, gentle light.\n\nAnd that, mijo, is why the stars shine in the night sky.\"\n\nJuan's eyes were wide with wonder as he listened to his mother's story. He looked up at the stars and felt grateful for their light.\n\nFrom that night on, Juan would often look up at the stars before he went to bed, thinking of the wise old sorceress who had brought light to the world. And every time he looked up, he felt a little bit of the sorceress's magic in his heart.\n\nAnd with that, mijo, it is time for you to close your eyes and dream of stars and magic. Goodnight, and may the light of the stars guide you through the night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.47",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-6-rp-2-gc-2",
+  "story": "Once upon a time, in a far away land, there lived a young girl named Lily. Lily was a curious and adventurous child who loved exploring the world around her. She didn't believe in magic or fairy tales, but she always had a thirst for knowledge and a desire to learn more about the world.\n\nOne night, as Lily lay in her bed staring at the stars through her window, she heard a soft whisper coming from outside. She got up and peered out the window to see a shimmering figure standing in the moonlight. It was an ethereal being named Luna, who had come to visit Lily.\n\nLuna told Lily that she was a guardian of the night, and that she had chosen Lily to be her special friend. Together, they would embark on magical adventures each night before Lily fell asleep.\n\nLuna and Lily traveled to enchanted forests, shimmering lakes, and majestic mountains. They met fantastical creatures and learned about the wonders of the world. Through their journeys, Lily discovered the beauty of nature and the interconnectedness of all living things.\n\nAs they returned home each night, Lily felt a sense of wonder and awe at the mysteries of the universe. And though she didn't believe in gods or goddesses, she knew that there was something greater than herself in the vast expanse of the cosmos.\n\nAnd so, each night, as Lily drifted off to sleep, she felt grateful for the experiences she shared with Luna and the sense of peace and connection she found in the world around her.\n\nAnd as the stars twinkled above, Lily knew that she carried a spark of curiosity and wonder within her that would guide her on many more adventures to come.\n\nThe end. Goodnight, sweet dreams, and may you always explore the wonders of the world with an open heart and a curious mind.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "desire to learn": "mental",
+    "sense of wonder": "emotional",
+    "awe": "emotional",
+    "grateful": "emotional",
+    "sense of peace": "emotional",
+    "connection": "emotional",
+    "open heart": "emotional",
+    "curious mind": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

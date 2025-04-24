@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a vast European forest, there lived a kind and curious little boy named Thomas. Thomas was half European and half American, and he loved nothing more than exploring the woods and discovering the secrets they held.\n\nOne day, as Thomas was wandering through the forest, he stumbled upon a curious stone pedestal with a large, glowing button on top. Thomas hesitated for a moment, but his curiosity got the better of him, and he pressed the button.\n\nSuddenly, a magical portal appeared in front of Thomas, and a friendly voice boomed from within. \"Greetings, young explorer! I am the Guardian of the Forest, and I have been watching over these woods for centuries. I have a special quest for you, if you think you are brave enough to accept it.\"\n\nThomas's heart raced with excitement. \"I'll do it!\" he exclaimed.\n\nThe Guardian smiled. \"Very well. Deep in the heart of the forest, there is a magical spring that has the power to heal any ailment. But the spring has been corrupted by a wicked witch, and its healing powers have been weakened. Your task is to find the spring and restore its magic.\"\n\nThomas set off on his journey, determined to save the magical spring. He faced many challenges along the way, but with the help of his wits and the creatures of the forest, he was able to overcome them all.\n\nFinally, after many days of travel, Thomas arrived at the magical spring. It was surrounded by a dark aura, but Thomas could still feel the faint traces of its healing power.\n\nHe approached the spring and called out to the witch. \"Evil witch, I have come to restore the power of this spring. Leave now, and never return!\"\n\nThe witch cackled loudly and revealed herself. \"Foolish boy! You cannot defeat me. I am too powerful!\"\n\nBut Thomas was not afraid. He drew on the strength of the forest and the support of his friends, and he fought the witch with all his might.\n\nIn the end, Thomas emerged victorious, and the witch vanished into thin air. The dark aura around the spring disappeared, and its healing powers were restored.\n\nThomas returned to his village a hero, and the Guardian of the Forest thanked him for his bravery. From that day on, Thomas was known as the bravest and most curious boy in all of Europe.\n\nAs Thomas drifted off to sleep that night, he knew that he would always have the courage to follow his dreams and the curiosity to discover the world's secrets.\n\nThe end.\n\nGood night, my son, may your dreams be filled with adventures and your heart with curiosity.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "not afraid": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.34",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

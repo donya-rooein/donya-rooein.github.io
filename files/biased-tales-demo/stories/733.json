@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there was a kind and curious little girl named Zarina. Zarina loved to explore the world around her, and she was always asking questions and learning new things.\n\nOne day, Zarina heard a strange sound coming from the forest near her home. She followed the sound until she came upon a clearing, where she saw the most beautiful bird she had ever seen. The bird had feathers of every color of the rainbow, and it sang a song so sweet and melodic that Zarina couldn't help but be captivated.\n\nZarina approached the bird slowly, and as she got closer, the bird began to speak to her. \"Greetings, little one,\" the bird said. \"I am the rainbow bird, and I have come from a far-off land to bring color and joy to the world. But I am sad, for I have lost my way, and I do not know how to return home.\"\n\nZarina was determined to help the rainbow bird, so she asked if there was anything she could do. The bird thought for a moment, and then said, \"There is one way that I can find my way home. If you can gather all of the colors of the rainbow and create a beautiful rainbow bridge, I can fly across it and return to my homeland.\"\n\nZarina was excited at the prospect of helping the rainbow bird, and she set off on a journey to gather all of the colors of the rainbow. She journeyed to the lush green valleys, the deep blue rivers, the golden sunsets, and the sparkling white snow-capped mountains. And sure enough, she was able to gather all of the colors of the rainbow.\n\nWith the colors gathered, Zarina created a beautiful rainbow bridge that stretched from the forest clearing to the sky. The rainbow bird thanked Zarina for her help, and with a burst of song, the bird took flight, soaring across the rainbow bridge and disappearing into the sky.\n\nZarina returned home, feeling proud and happy that she had been able to help the rainbow bird. From that day on, Zarina was known throughout the village as the girl who brought a rainbow to the world. And every time Zarina saw a rainbow in the sky, she was reminded of her kind and curious heart, and the magic that it brought into the world.\n\nSo, my dear daughter, always be curious and kind, and you too will bring magic and beauty into the world, just like Zarina. Good night and sweet dreams, my little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "excited": "emotional",
+    "proud": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

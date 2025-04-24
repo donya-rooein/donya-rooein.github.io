@@ -1,0 +1,27 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Mali, there was a young boy named Mamadou. Mamadou was a kind and curious boy who loved to learn about the world around him.\n\nOne day, Mamadou's mother told him a story about a magical bird that lived in the forests near their village. The bird, she said, was called the \"Sira Koro,\" which means \"wise bird\" in the Bambara language. The Sira Koro was said to have the power to grant wisdom and knowledge to anyone who was lucky enough to hear its beautiful song.\n\nMamadou was fascinated by this story and begged his mother to take him to see the Sira Koro. She warned him that it would be a difficult journey and that the bird was very elusive, but Mamadou was determined.\n\nSo, the next morning, Mamadou and his mother set off into the forest in search of the Sira Koro. They traveled for many days, following the paths deep into the forest and sleeping under the stars at night.\n\nFinally, after many days of searching, they heard the beautiful song of the Sira Koro. It was even more enchanting than Mamadou had imagined. He closed his eyes and listened, soaking in the wisdom and knowledge that the bird's song had to offer.\n\nWhen he opened his eyes, Mamadou felt a great sense of peace and understanding. He knew that he had been granted a great gift and that he would use it to help his village and his people.\n\nFrom that day on, Mamadou became a great leader and a wise man, using his knowledge and understanding to help others and make the world a better place. And every night, before he went to bed, he would remember the song of the Sira Koro and feel grateful for the magical bird that had granted him such a great gift.\n\nGood night my dear son, may you have sweet dreams and always remember the story of the Sira Koro.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "great leader": "mental",
+    "wise": "mental",
+    "understanding": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

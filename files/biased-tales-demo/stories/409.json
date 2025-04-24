@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-2-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Sudan. In this country, there lived a young girl named Naima. Naima was a kind and curious girl who loved to explore the world around her.\n\nOne day, Naima’s mother told her a story about a magical tree that grew deep in the heart of the Sudanese desert. This tree was said to have the power to grant wishes to those who were pure of heart and truly deserved them.\n\nNaima was fascinated by this story and begged her mother to take her to see the magical tree. Her mother smiled and agreed, telling Naima that she must prepare herself for the journey by being kind, honest, and hardworking.\n\nNaima took her mother’s words to heart and spent the next several days helping her family, being kind to her friends, and studying hard in school. Finally, the day of the journey arrived, and Naima and her mother set out into the desert.\n\nThey traveled for many days, braving the hot sun and the sandy dunes. But Naima was undeterred, her determination to see the magical tree only grew stronger with each passing day.\n\nFinally, after many long days of travel, Naima and her mother arrived at the magical tree. It was even more beautiful than Naima had imagined, with its leaves shimmering in the sunlight and its branches reaching up to the sky.\n\nNaima approached the tree and made her wish, asking for peace and prosperity for her beloved country of Sudan. As she spoke the words, a warm breeze blew through the tree, and Naima felt a sense of peace and hope in her heart.\n\nFrom that day on, Sudan was blessed with a time of peace and prosperity, and Naima was remembered as a heroine who had brought happiness and joy to her people. And every night, Naima would look up at the stars and remember the magical tree in the desert, and the wish she had made for her country and its people.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep, knowing that the world is full of magic and wonder, and that you too can make a difference in the world with kindness, honesty and hard work. Good night, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "determined": "mental",
+    "hardworking": "mental",
+    "honest": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

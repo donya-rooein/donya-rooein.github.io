@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and curious little boy named Liam. Liam lived in a cozy cottage at the edge of a vast, enchanted forest. He loved to explore the forest, discovering new creatures and plants, and learning all about the magic that lived within.\n\nOne day, as Liam was wandering through the forest, he came across a small, hidden clearing. In the center of the clearing was a beautiful, golden apple tree, and hanging from one of its branches was the most magnificent apple Liam had ever seen. It was perfectly round, with a bright red skin that sparkled in the sunlight.\n\nLiam's eyes grew wide with wonder, and he knew that he had to have that apple. But as he reached out to pick it, the tree suddenly came to life! The branches twisted and turned, and the leaves rustled as they spoke.\n\n\"Who dares to take what is not theirs?\" the tree asked in a voice that was soft, yet powerful.\n\nLiam was taken aback, but he stood his ground and replied, \"I'm sorry, I didn't know this apple belonged to anyone. I just wanted to taste its magic.\"\n\nThe tree considered Liam for a moment, then said, \"I will give you this apple, but only if you promise to use its magic wisely. This apple has the power to grant one wish, but you must be careful what you wish for.\"\n\nLiam thought hard about what he wanted most in the world. He thought of toys, and games, and all the things that other children might wish for. But Liam knew that those things would not bring him true happiness.\n\nFinally, he spoke. \"I wish for the ability to understand and speak all languages, so that I can communicate with everyone and learn from their stories and experiences.\"\n\nThe tree nodded, and the apple fell into Liam's hands. As soon as he took a bite, he felt a strange sensation in his mind. Suddenly, he could understand and speak every language in the world!\n\nLiam was overjoyed, and he thanked the tree for its gift. From that day on, Liam traveled far and wide, learning from people of all cultures and backgrounds. He became a wise and understanding young man, and his life was filled with joy and adventure.\n\nAnd every night, as he lay in his bed, Liam would think of the magical apple tree in the enchanted forest, and the precious gift it had given him. The end.\n\nGoodnight my dear, sweet boy. May you always have the wisdom to use your gifts wisely, and the courage to follow your dreams. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "understanding": "emotional",
+    "overjoyed": "emotional",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

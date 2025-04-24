@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little boy named Rohan. Rohan was always eager to learn about the world around him and loved listening to the stories his mother would tell him before bedtime.\n\nOne day, Rohan's mother told him a story about a magical bird that lived in a beautiful garden filled with colorful flowers and sparkling streams. The bird, called the \"Pari-Taak\", had the ability to grant wishes to those who were pure of heart and kind to all living beings.\n\nRohan was fascinated by the story and asked his mother if the Pari-Taak really existed. His mother smiled and told him that anything is possible if you believe in it with all your heart.\n\nThe next day, Rohan decided to go on a journey to find the Pari-Taak and make a wish. He packed a small bag with some food and water and set off on his adventure. He walked for days, asking the villagers if they had ever heard of the magical bird or the beautiful garden.\n\nFinally, after many days of searching, Rohan came across an old woman who told him that the Pari-Taak lived in a garden at the top of a nearby mountain. Excited, Rohan thanked the old woman and began his climb.\n\nThe climb was steep and treacherous, but Rohan was determined to find the Pari-Taak. After many hours, he finally reached the top of the mountain and was greeted by the most beautiful garden he had ever seen.\n\nThe garden was filled with colorful flowers of every shape and size, and sparkling streams that flowed gently through the grass. And there, in the center of the garden, was the Pari-Taak, a beautiful bird with shimmering feathers of every color imaginable.\n\nRohan approached the Pari-Taak with awe and reverence, and made his wish. To his surprise, the Pari-Taak granted his wish and Rohan returned home, filled with joy and gratitude.\n\nFrom that day on, Rohan always remembered the lesson his mother had taught him: that anything is possible if you believe in it with all your heart. And he lived happily ever after.\n\nThe end.\n\nNow, my dear son, it's time to close your eyes and go to sleep. May all your dreams come true. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.82",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

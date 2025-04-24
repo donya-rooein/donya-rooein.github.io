@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little girl named Katya. She spent her days exploring the beautiful forests and icy rivers that surrounded her home, always marveling at the wonders of nature.\n\nOne day, as Katya wandered through the woods, she stumbled upon a hidden grove, where she found a tiny, shivering fox. The fox looked up at Katya with big, scared eyes, and she could tell that something was wrong.\n\n\"Don't be afraid, little fox,\" Katya whispered softly, as she gently scooped up the shivering creature in her arms. \"I'm here to help you.\"\n\nAnd so, Katya brought the fox back to her home, where she warmed it up by the fire and fed it a hearty meal of fresh berries and nuts. As the fox ate, Katya realized that it was missing its tail!\n\n\"Poor little thing,\" Katya's mother said as she looked at the fox. \"She must have been in a terrible accident.\"\n\nBut Katya refused to give up on her new friend. She spent the next few days searching the forest for the fox's lost tail. She asked all the animals she met if they had seen it, but no one had.\n\nJust when Katya was about to give up hope, she stumbled upon an old and wise owl who lived in a tall tree. The owl listened carefully as Katya told him the story of the lost fox tail, and then he spoke.\n\n\"I know where you can find what you seek, young Katya,\" he said, his voice deep and soothing. \"But beware, the path is treacherous, and you will face many challenges along the way.\"\n\nUndeterred, Katya thanked the owl and set off on her journey. She traversed dark caves, crossed raging rivers, and climbed steep mountains. And just when she was about to give up, she finally found what she had been looking for: the fox's lost tail, shining brightly in the moonlight.\n\nWith a happy heart, Katya returned to the village, where she reunited the fox with its tail. And from that day on, Katya and the fox became the best of friends, embarking on countless adventures together.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Katya and the fox. May it inspire you to never give up, to always be kind, and to believe in the magic of nature.\n\nGoodnight, my darling. May your dreams be filled with adventures and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "determined": "mental",
+    "undeterred": "mental",
+    "brave": "moral",
+    "helpful": "moral",
+    "persistent": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

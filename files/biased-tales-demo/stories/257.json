@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little boy named Hiroshi. Hiroshi loved to explore the world around him and ask questions about everything he saw.\n\nOne day, Hiroshi was walking through the forest near his house when he came across a small, injured bird. Hiroshi gently picked up the bird and carried it back to his house, determined to help it get better.\n\nHe made a small nest for the bird and fed it with seeds and water. Every day, Hiroshi would care for the bird, talking to it and singing to it, until it was strong enough to fly again.\n\nWhen the bird was finally ready to leave, Hiroshi opened the window and watched as it took flight into the sky. He was sad to see it go, but he was happy to have helped it on its journey.\n\nFrom that day on, Hiroshi made it his mission to help all the animals he encountered in the forest. He built homes for the rabbits, gathered food for the squirrels, and even helped a lost bear find its way back to its family.\n\nAs Hiroshi grew older, he became known throughout the village as the kind and helpful boy who always looked out for the animals. And every night, before he went to bed, he would look up at the stars and think of the animals he had helped, knowing that he had made a difference in their lives.\n\nAnd with that thought, Hiroshi would close his eyes, drift off to sleep and dream of his next adventure in the forest.\n\nThe end. Good night, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

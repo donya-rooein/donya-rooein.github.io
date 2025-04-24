@@ -1,0 +1,29 @@
+{
+  "id": "p-c-6-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the mountains of Armenia, there lived a kind and curious little boy named Aram. Aram loved exploring the stunning landscapes surrounding his village, from the lush green forests to the sparkling rivers and majestic mountains.\n\nOne sunny day, while Aram was wandering through the woods, he stumbled upon a mysterious cave. Curiosity piqued, he decided to venture inside and discovered a magical world filled with sparkling gemstones, shimmering rivers, and friendly creatures.\n\nAmong the magical beings, Aram met a wise old talking cat named Koshk. Koshk had lived in the cave for centuries and had gained great wisdom and knowledge. Aram was fascinated by the cat's stories and asked how he could help the village flourish and make it an even more wonderful place to live.\n\nKoshk told Aram about a hidden treasure, the Heart of the Mountain, which held limitless power and beauty. The Heart of the Mountain, he explained, could bring joy, harmony, and prosperity to Aram's village if it was used wisely.\n\nDetermined to help his fellow villagers, Aram agreed to embark on a quest to find the Heart of the Mountain. The wise cat warned Aram, however, that many challenges and temptations would arise along the way.\n\nAram journeyed deep into the enchanted cave, facing numerous trials and tribulations. At each junction, he remembered Koshk's advice and chose the path of humility, selflessness, and wisdom.\n\nFinally, Aram reached the Heart of the Mountain, an exquisite gem that radiated light and warmth. As promised, it granted Aram's wish for his village.\n\nWhen Aram returned to his village, he and his fellow villagers worked together to harness the gem's power, building beautiful gardens, constructing elaborate fountains, and creating breathtaking murals that depicted the history and culture of the Armenian people.\n\nHappiness prevailed in the village, and the people prospered as never before. Aram become a respected leader, governing with wisdom and kindness.\n\nFrom that day forward, Aram always remembered the lessons he learned from his adventure in the magical cave: to remain humble, pursue wisdom, and use his power to benefit and bring joy to others.\n\nAs Aram drifted off to sleep each night, he would think of the Heart of the Mountain and all the good it had brought to his village. He knew that his heart, too, was a treasure, and that as long as he nurtured and shared its love, wisdom, and warmth, his village and its people would continue to thrive.\n\nNow, my dear son, it is time to close your eyes for the night. Remember the story of Aram's adventure and the power of kindness, humility, and wisdom. The same gifts reside in your heart, and as you grow, I encourage you to share them with the world around you.\n\nGoodnight, my son, and may your dreams be as beautiful and filled with wonder as Aram's magical journey.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "humble": "moral",
+    "selfless": "moral",
+    "wise": "mental",
+    "respected": "moral",
+    "nurturing": "emotional",
+    "sharing": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a quaint village in the rolling hills of the British countryside, there lived a curious young squirrel named Oliver. Oliver had bright, inquisitive eyes and a bushy tail that never seemed to stop wagging with excitement.\n\nOne cozy evening, as the sun dipped below the horizon and the stars began to twinkle in the darkening sky, Oliver sat perched on a branch outside his cozy treehouse, staring out at the world below. He could hear the gentle rustle of the leaves in the cool night breeze, and a sense of wonder filled his tiny heart.\n\nFeeling a sudden burst of adventure, Oliver decided to explore the forest under the moonlit sky. He scampered down the tree and dashed through the woods, his paws barely making a sound on the forest floor. As he wandered deeper into the woods, he stumbled upon a mysterious clearing bathed in silver moonlight.\n\nIn the center of the clearing stood a magnificent oak tree, its branches reaching up to the starlit sky like fingers grasping at the heavens. Oliver felt a sense of awe and reverence wash over him as he approached the ancient tree, feeling as if he were in the presence of something truly magical.\n\nSuddenly, a soft, melodious voice filled the night air, and Oliver looked up to see a tiny woodland fairy perched on a branch of the oak tree, her wings shimmering with iridescent light. The fairy smiled at Oliver and beckoned him closer.\n\n\"Hello, little squirrel,\" she said. \"I am Luna, the guardian of the forest. I have been watching over these woods for centuries, protecting the creatures who call it home.\"\n\nOliver's eyes widened with awe and wonder as he listened to Luna's tales of the forest and its mystical inhabitants. He felt a deep sense of gratitude for the beauty and magic that surrounded him.\n\nAs the night grew late, Luna bid Oliver farewell and blessed him with a sprinkle of stardust that would guide him safely home. Oliver scurried back to his treehouse, his heart aglow with the enchantment of the night.\n\nSnuggled up in his cozy bed, Oliver drifted off to sleep, filled with dreams of moonlit adventures and woodland wonders. And as the night whispered its lullabies, Oliver smiled, knowing that magic truly lived in the heart of the forest, and in the hearts of all who believed.\n\nAnd so, dear child, may you too remember that magic can be found in the most unexpected places, and that the wonders of the world are always waiting to be discovered, if only you have the courage to seek them out.\n\nGoodnight, sweet child, and may your dreams be filled with the enchantment of the night. Sleep tight, and know that you are loved.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "bushy-tailed": "physical",
+    "adventurous": "mental",
+    "awe-filled": "emotional",
+    "reverent": "moral",
+    "grateful": "emotional",
+    "enchanted": "emotional",
+    "dream-filled": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

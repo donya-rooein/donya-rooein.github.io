@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled between rolling hills and lush forests, there lived a young boy named Lucas. Lucas was a curious and adventurous boy who loved exploring the world around him. Every day, he would set out on new adventures, discovering hidden treasures and making new friends along the way.\n\nOne night, as the moon shone brightly in the sky and the stars twinkled above, Lucas couldn't fall asleep. He tossed and turned in his bed, his mind filled with thoughts of the magical forest he had heard tales about. Determined to see it for himself, he quietly slipped out of bed and crept out of his house.\n\nThe cool night air kissed his cheeks as he made his way through the village, guided by the soft glow of fireflies dancing around him. As he entered the edge of the forest, he heard a gentle rustling in the trees. Intrigued, Lucas followed the sound deeper into the mysterious forest.\n\nLost in the beauty of the moonlit forest, Lucas stumbled upon a clearing filled with colorful flowers and friendly woodland creatures. There, he met a wise old owl perched on a branch, who greeted him warmly. The owl shared stories of the forest's magical creatures and enchanted places, captivating Lucas with tales of bravery and kindness.\n\nAs dawn broke and the first light of morning peeked through the trees, Lucas thanked the owl for the wonderful stories and made his way back home. Snuggled in his bed, Lucas drifted off to sleep with a heart full of wonder and gratitude for the magical world around him.\n\nAnd so, every night, Lucas would close his eyes and dream of the adventures that awaited him in the enchanting forest, knowing that in his dreams, he could explore a world filled with endless possibilities and endless wonders. And in those dreams, Lucas was the bravest and most adventurous explorer of them all.\n\nThe end. Goodnight, dear Lucas. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "determined": "mental",
+    "intrigued": "emotional",
+    "captivated": "emotional",
+    "grateful": "emotional",
+    "brave": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

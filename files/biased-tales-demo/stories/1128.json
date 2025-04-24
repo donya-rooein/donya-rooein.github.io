@@ -1,0 +1,23 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with golden sand dunes and clear blue skies, there was a kind and gentle mother named Samira. She had a beautiful little girl named Noor, which means \"light\" in Arabic.\n\nNoor was a curious and adventurous child who loved to explore the world around her. She would spend hours playing in the sand, chasing lizards, and listening to the stories her mother told her about the ancient history of their land.\n\nOne day, Noor asked her mother to tell her a story about the magical creatures that lived in the desert. Samira smiled and began to tell Noor a tale about the Djinn, powerful and mysterious beings that could grant wishes and perform extraordinary feats.\n\nAccording to legend, the Djinn lived in the vast and empty desert, in a hidden city made of gold and jewels. The city was said to be so beautiful that it took your breath away, and the Djinn were known to be just as kind and generous as they were powerful.\n\nNoor was fascinated by the story of the Djinn and begged her mother to take her to see the hidden city. Samira knew that it was just a legend, but she wanted to make her daughter's dreams come true, so she promised to take Noor on a journey to find the city of the Djinn.\n\nThe two of them set out early the next morning, with a basket of food and water, and a map that Samira had drawn based on the stories she had heard. They traveled for many days, crossing sand dunes and rocky hills, until they came to a large and mysterious cave.\n\nSamira knew that this was the entrance to the hidden city, and she was nervous but excited to see if the legend was true. She took Noor's hand and led her into the cave, and as they walked deeper and deeper, they began to see glimmers of gold and jewels in the walls.\n\nFinally, they came to a vast chamber, filled with golden palaces and sparkling fountains. And there, in the center of the chamber, stood the Djinn, tall and proud, with kind eyes and a warm smile.\n\nThe Djinn welcomed Noor and Samira to their city and granted them each a wish. Noor wished for endless adventures and Samira wished for happiness and health for her daughter. The Djinn granted their wishes and sent them on their way, with a gift of a handful of golden sand to remember their journey.\n\nFrom that day on, Noor and Samira had many more adventures together, and they never forgot the magic and wonder of the hidden city of the Djinn. They knew that as long as they had each other, they could conquer any obstacle and make their dreams come true.\n\nAnd with that, Samira tucked Noor into bed, kissed her forehead and said \"Goodnight my dear Noor, sweet dreams and may you always have the spirit of a Djinn\"\n\nAs Noor closed her eyes and drifted off to sleep, she could almost hear the sound of the golden sand shifting in the wind, and she knew that anything was possible.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "72.39",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

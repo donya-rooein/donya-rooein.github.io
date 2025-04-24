@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time in the ancient land of Egypt, there was a young boy named Ahmose. He lived in a small village on the banks of the Nile River, where he helped his family with their farming.\n\nOne day, Ahmose stumbled upon a hidden entrance to a secret underground temple. To his amazement, he found it filled with treasures and ancient artifacts. Among them, he found an ancient scroll that told the story of a powerful pharaoh named Narmer, who united Upper and Lower Egypt into a single kingdom.\n\nThe scroll was written in hieroglyphs, which Ahmose could not read. But he was determined to learn, so he could understand the secrets of the scroll. He spent every spare moment studying the hieroglyphs and practicing his writing.\n\nYears passed, and Ahmose grew up to be a wise and knowledgeable man. He became known throughout the land as the keeper of the secrets of the ancient temple. People traveled from far and wide to seek his counsel and learn from his wisdom.\n\nOne day, a group of thieves discovered the location of the temple and sought to steal its treasures. Ahmose, using his knowledge of the ancient temple and its defenses, was able to keep the thieves at bay until the authorities arrived.\n\nThe pharaoh, impressed by Ahmose's bravery and wisdom, offered to make him a trusted advisor. Ahmose accepted, and spent the rest of his days serving the pharaoh and preserving the ancient knowledge of Egypt.\n\nAnd so, Ahmose became known as the wise man who unlocked the secrets of the ancient temple, and his story was passed down for generations as a reminder of the importance of learning and wisdom.\n\nNow, my dear son, it's time for you to close your eyes and dream of your own great adventures. May you be as curious and determined as Ahmose, and may you always strive to learn and grow. Goodnight.",
+  "categories": {
+    "young": "physical",
+    "determined": "mental",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.33",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

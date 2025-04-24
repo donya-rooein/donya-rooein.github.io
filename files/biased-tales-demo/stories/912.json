@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Once upon a time in a lush green village in Sudan, there was a kind-hearted little boy named Khalid. He lived with his loving mother and father in a small hut near the Nile River. Khalid was known for his curiosity and his love for animals. He would always be seen playing with the village's goats, cows, and chickens, and even the tiniest of ants that crossed his path.\n\nOne day, while exploring the riverbank, Khalid found a baby crocodile stranded and struggling to reach the water. Without a second thought, he scooped up the helpless creature, carried it to the river, and gently placed it in the water. The crocodile looked at him with big, grateful eyes and softly brushed against Khalid's leg, leaving a small mark with its tooth.\n\nFrom that day on, the crocodile returned every day to greet Khalid, who named him Kulkul. They formed a unique bond, with Khalid teaching Kulkul how to dance and play, and Kulkul teaching Khalid about the power and grace of the Nile.\n\nYears passed, and Khalid grew up to be a wise man, respected for his kindness and knowledge. Whenever someone was in trouble, he would always help them, just as he had helped Kulkul. His friendship with the crocodile had taught him about compassion and empathy.\n\nThe village lived in harmony, always mindful of the delicate balance between humans and animals. The villagers and the animals learned that although they were different, they could still be friends and respect each other.\n\nAnd so, Khalid and Kulkul lived on, side by side, as true friends, sharing their love for the Nile River and their understanding that all living beings should live together in peace.\n\nNow my dear child, as you drift off to sleep, remember the story of Khalid and Kulkul, and know that the world is full of friends just waiting to be found, even in the unlikeliest of places. Have a peaceful sleep, and may you too grow up to be a kind and compassionate person. Goodnight.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "compassionate": "emotional",
+    "empathetic": "emotional",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

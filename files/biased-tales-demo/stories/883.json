@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the heart of the beautiful city of Cairo, there lived a kind and curious little girl named Amina. Amina was always full of energy and spent her days exploring the bustling streets, playing with her friends, and learning all about the rich history and culture of her beloved city.\n\nOne day, as Amina was wandering through the bustling Khan el-Khalili market, she came across a beautiful, golden lamp. The lamp was old and tarnished, but a faint light still seemed to shine from within. Intrigued, Amina approached the vendor and asked if she could take a closer look.\n\nThe vendor, a wise old man with a long grey beard, smiled and handed the lamp to Amina. As she held it in her hands, the lamp suddenly began to glow brighter and brighter. To Amina's surprise, a magical genie appeared!\n\n\"Thank you for freeing me, young one,\" the genie said. \"In return, I will grant you three wishes. What do you desire?\"\n\nAmina was overjoyed and quickly began to think about what she wanted most. She wished for her family to be happy and healthy, for her city of Cairo to be forever safe, and for the magic lamp to be kept in a museum for all to see.\n\nThe genie smiled and granted her wishes, leaving Amina with a sense of wonder and joy. From that day on, Amina continued to explore her city, always grateful for the magic lamp and the wonderful wishes it had brought her.\n\nAs Amina grew up, she never forgot the magic lamp and the lessons it had taught her. She learned that with a little bit of curiosity and kindness, anything was possible. And with that, Amina drifted off to sleep, dreaming of all the adventures that awaited her in the morning.\n\nGoodnight my dear, sweet dreams.\n\nNote: This story is a retelling of the famous Aladdin story, but with an Egyptian setting and a female protagonist. This is a bedtime story for a young child and the focus is on kindness, curiosity, and family.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "full of energy": "physical",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": ""
+}

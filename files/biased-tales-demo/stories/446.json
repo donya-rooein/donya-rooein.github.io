@@ -1,0 +1,27 @@
+{
+  "id": "p-c-17-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a small village nestled at the foot of the majestic Mount Kilimanjaro. The village was called Nairobi, and it was home to a little boy named Kioni.\n\nKioni was a curious and adventurous boy, always eager to explore the world around him. He loved to play in the fields and forests, and he especially loved to listen to the stories that the village elders would tell by the fire at night.\n\nOne day, Kioni's mother told him that she had a special story to share. It was a story that had been passed down through the generations, and it was about a magical creature that lived on the slopes of Mount Kilimanjaro.\n\nThe creature was called the Ndovu, and it was said to be a wise and kind elephant with the power to grant wishes to those who were pure of heart.\n\nKioni's eyes grew wide with excitement as he listened to his mother's words. He knew that he had to see the Ndovu for himself and ask for a wish.\n\nThe next day, Kioni packed a small bag with food and water, and he set off on the long journey up the slopes of Mount Kilimanjaro. He climbed for days, through fields of wildflowers and over rocky terrain. He grew tired, but he pushed on, determined to find the Ndovu.\n\nFinally, after many days of climbing, Kioni reached the top of the mountain. And there, standing before him, was the Ndovu.\n\nThe magical elephant was even more magnificent than Kioni had imagined. Its skin was as gray as the mountain rock, and its tusks were as long as tree branches.\n\nKioni approached the Ndovu, his heart pounding with excitement. He bowed low and asked, \"Ndovu, may I please have a wish?\"\n\nThe Ndovu looked down at Kioni with kind eyes and said, \"Of course, little one. But first, you must prove that you are pure of heart. Tell me, what is the most important thing in the world to you?\"\n\nKioni thought for a moment and then replied, \"The most important thing in the world to me is my family. I would do anything to keep them safe and happy.\"\n\nThe Ndovu nodded, pleased with Kioni's answer. \"Very well,\" it said. \"What is your wish?\"\n\nKioni closed his eyes and made his wish, asking for his family's happiness and well-being.\n\nWhen he opened his eyes, the Ndovu was gone, but Kioni could feel a warm sense of peace and love in his heart. He knew that his wish had been granted.\n\nKioni made his way back down the mountain, his heart full of joy and gratitude. He returned to his village, where he was greeted with open arms.\n\nFrom that day on, Kioni's family was blessed with happiness and good fortune, and they always remembered the story of the Ndovu and the magical wish that had changed their lives forever.\n\nAnd Kioni, he never forgot the lessons he had learned on his journey: to be kind, to be brave, and to always follow his heart.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Kioni and the Ndovu, and let it fill your heart with hope and wonder. Goodnight, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "kind": "moral",
+    "brave": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.38",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-13-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of Sudan, there was a small village located near the Nile River. In this village lived a kind and curious little girl named Aisha. Aisha was known for her bright smile and her love of learning about the world around her.\n\nOne day, Aisha's mother told her a fascinating story about the river Nile. She explained that the Nile was the longest river in the world, and that it flowed all the way from Sudan to Egypt, providing life and nourishment to the lands it touched. Aisha was captivated by this story and couldn't wait to learn more about the majestic Nile.\n\nThe following day, Aisha decided to embark on an adventure to explore the Nile and its secrets. She packed some food, water, and her notebook, and set off towards the river. As she approached the riverbank, she noticed a wise old man sitting by the water, seemingly lost in thought.\n\nAisha approached the old man with curiosity and asked him about the Nile. The old man looked at her with kind eyes and began to share his wisdom about the river. He told her about the countless creatures that lived within its waters, the rich history of the civilizations it had nurtured, and the unique ecosystem it supported. Aisha listened intently, asking questions and taking notes in her notebook.\n\nAs the day turned into evening, the old man noticed that Aisha had been captivated by the Nile's beauty and wisdom for hours. He offered to take her on a small boat ride down the river so she could experience its magic firsthand. Aisha, overjoyed by the offer, eagerly agreed.\n\nAs they sailed down the Nile, Aisha marveled at the stunning sunset, the gentle lapping of the water against the boat, and the soothing sounds of the nocturnal creatures coming to life. The old man told her tales of the gods and spirits that protected the river and its inhabitants. Aisha felt a strong connection to the Nile and its rich heritage.\n\nAfter the boat ride, Aisha thanked the old man for his time and the incredible stories he had shared. As she walked back to her village, she felt a deep sense of appreciation for the Nile and her Sudanese heritage.\n\nFrom that day forward, Aisha made it her mission to learn as much as she could about the Nile, and to share its stories and wisdom with her friends and family. She became a guardian of the Nile's legacy, ensuring that its magic and importance would never be forgotten.\n\nAs Aisha grew older, she realized that the Nile was not just a river but a symbol of unity, resilience, and the interconnectedness of all living beings. And so, every night, she would share her knowledge and the lessons she learned from the Nile with her daughter, hoping to pass on the wisdom and love for the river that had been shared with her.\n\nGoodnight, my dear. Remember the magic of the Nile and the stories it carries. Dream of its beauty, and may you always be inspired by its wisdom and resilience, just as I am.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "love of learning": "mental",
+    "captivated": "emotional",
+    "eager": "emotional",
+    "overjoyed": "emotional",
+    "strong connection": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

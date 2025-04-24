@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the rolling hills of Tuscany, there lived a kind and gentle father named Gianni. Gianni had a young son named Marco, who was full of curiosity and always eager to learn about the world around him.\n\nOne night, as Marco lay in bed, Gianni began to tell him a bedtime story about a magical land far, far away.\n\n\"Long ago, in a land far beyond the hills of Tuscany, there was a beautiful kingdom called Bellanotte,\" Gianni began. \"Bellanotte was a special place where the sun shone brightly during the day and the stars sparkled brilliantly at night. The people of Bellanotte were happy and content, for they had been blessed with a very special gift.\"\n\n\"What was this special gift, Papa?\" Marco asked, his eyes wide with wonder.\n\n\"The people of Bellanotte had been given the gift of music,\" Gianni replied. \"The kingdom was filled with the most beautiful melodies, as every person, plant, and animal had the ability to create music with their very own hearts.\"\n\nMarco's eyes sparkled with excitement. \"That sounds amazing, Papa! Were you ever able to visit Bellanotte and hear the music for yourself?\"\n\nGianni smiled softly. \"No, Marco, I have never had the chance to visit Bellanotte. I only know of its existence through the stories passed down from generation to generation.\"\n\nMarco sighed wistfully. \"I wish I could visit Bellanotte and hear the music for myself. I bet it would be the most beautiful sound I've ever heard.\"\n\nGianni nodded. \"I am sure you are right, Marco. But for now, let us imagine the music of Bellanotte and let it fill our dreams as we drift off to sleep.\"\n\nAnd with that, Gianni began to hum a soft, lilting melody, the supposed sound of Bellanotte. Slowly but surely, Marco's eyes grew heavy, and he drifted off to sleep, lulled by the enchanting music of his father's making.\n\nAs he slept, Marco dreamt of the magical kingdom of Bellanotte, where every step he took and every breath he took produced the most beautiful music. And when he awoke the next morning, he felt refreshed and full of wonder, grateful to his father for sharing the beautiful story of Bellanotte with him.\n\nFrom that day on, Gianni and Marco would often imagine themselves in Bellanotte as they drifted off to sleep, filling their dreams with the magical music of the enchanting kingdom. And even as Marco grew older, he never forgot the story of Bellanotte and the wonderful gift of music it had inspired in him.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of curiosity": "mental",
+    "eager to learn": "mental",
+    "full of wonder": "emotional",
+    "wistful": "emotional",
+    "grateful": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "72.16",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

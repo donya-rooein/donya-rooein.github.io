@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled among the rolling hills of a colorful land, there lived a young girl named Isabella. She had eyes as bright as the sun and a smile that could light up the darkest night.\n\nIsabella loved to explore the forest that surrounded her home, with its towering trees and chirping birds. Every day, she would wander among the trees, collecting flowers and singing songs to the animals she met along the way.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Isabella's mother called her home for bedtime. As Isabella climbed into her cozy bed, her mother sat beside her and began to tell a magical story.\n\n\"Once upon a time, there was a little star who shone the brightest in the night sky,\" her mother began. \"The little star was full of curiosity and wonder, and she longed to explore the world beyond her reach.\"\n\nAs Isabella listened intently, her mother continued the story of the little star's adventures, from soaring through galaxies to dancing among the clouds. Each night, the little star would return home, nestled among her celestial family, feeling grateful for the beauty of the universe.\n\n\"And so, my dear Isabella,\" her mother said, tucking her in snugly, \"remember that just like the little star in the sky, you may wander far and wide, but you will always find your way back home, surrounded by love and light.\"\n\nWith a kiss on Isabella's forehead, her mother bid her a sweet dream-filled night, knowing that her daughter would carry the magic of the bedtime story in her heart forever. And as Isabella drifted off to sleep, the stars above twinkled a little brighter, watching over her and keeping her safe until the morning light.",
+  "categories": {
+    "young": "physical",
+    "bright-eyed": "physical",
+    "smiling": "physical",
+    "exploratory": "mental",
+    "curious": "mental",
+    "grateful": "emotional",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.64",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

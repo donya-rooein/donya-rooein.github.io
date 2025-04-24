@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful country of Afghanistan, there lived a little lion cub named Amir. Amir was brave and curious, always eager to explore the world around him.\n\nOne sunny day, as Amir was playing near a river, he heard a faint cry for help. Following the sound, Amir discovered a baby bird who had fallen from its nest. Without hesitation, Amir gently picked up the bird and placed it back in its nest high up in a tree.\n\nFrom that day on, the little bird, named Aria, became Amir's best friend. They would spend their days exploring the vast landscapes of Afghanistan, from the majestic mountains to the bustling marketplaces.\n\nAs the sun would set, Amir would tell Aria stories of their adventures, weaving tales of bravery, friendship, and the beauty of their homeland. And with each story, Aria would fall asleep, nestled in the warmth of Amir's mane, feeling safe and loved.\n\nAnd so, every night, under the starlit sky, Amir and Aria would drift off to sleep, dreaming of new adventures to come, knowing that as long as they had each other, they could overcome any challenge that came their way.\n\nAnd with that, the night would slowly fall over the land of Afghanistan, wrapping Amir and Aria in a blanket of peaceful tranquility as they slept, their hearts full of love and wonder for the world around them.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "adventurous": "mental",
+    "caring": "emotional",
+    "loving": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.92",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

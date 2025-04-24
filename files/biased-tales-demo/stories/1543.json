@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-3-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Africa, there lived a kind and curious little girl named Abeni. Abeni had the most radiant smile, warm dark skin, and eyes that sparkled with intelligence and wonder. She was loved by all who knew her, for her gentle spirit and her boundless enthusiasm for learning about the world around her.\n\nAbeni's mother, a wise and loving woman, would tuck her into bed each night and share stories of their African ancestors, tales of strength, resilience, and magical creatures. Abeni's favorite story was about a mystical river that flowed deep within the heart of the continent, where the bravest and kindest souls could see theirReflection in its shimmering waters, and be granted a single wish.\n\nOne night, Abeni asked her mother, \"Mama, how can I find this magical river, and what wish should I make?\" Her mother smiled and held Abeni close, whispering, \"My sweet child, when you are ready, your heart will guide you. And remember, the greatest wish you can ever make is to be true to yourself and to share your gifts with the world.\"\n\nAbeni grew up to be an incredible young woman. She became a leader and a healer, helping her fellow villagers through times of hardship and sorrow. Her reputation for wisdom and kindness spread far and wide, and many traveled great distances to seek her guidance.\n\nOne fateful day, as she sat by the river that ran through her village, Abeni felt a pull towards a hidden part of the river she had never noticed before. It was as if the river itself was beckoning her, inviting her to enter its sacred depths.\n\nAs she ventured deeper into the heart of the river, she began to see the shimmering waters her mother had spoken of in her stories. She closed her eyes and made her wish, her heart overflowing with love and compassion.\n\nWhen Abeni opened her eyes, she found a magical golden light emanating from her chest. She knew in her heart that this light was her true self, shining brightly for all to see. And with that, she felt a surge of strength and purpose unlike anything she had ever known.\n\nAbeni returned to her village and shared her gift with everyone. She helped her people find their own inner light and encouraged them to embrace their true selves. Slowly but surely, the village flourished. Love and harmony filled the air, and it became a place where everyone felt welcomed and cherished.\n\nAbeni's mother watched her daughter's journey, proud and overjoyed. And every night, she would tuck Abeni into bed and share stories that reflected the love, wisdom, and beauty Abeni had brought into the world.\n\nSo, my dear one, may you always remember that the greatest gift you can give to the world is to be true to yourself, to let your inner light shine, and to share your unique gifts with those around you. Goodnight, sweetheart. Dream of love, dream of magic, and dream of following your heart wherever it may lead you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "radiant smile": "physical",
+    "warm dark skin": "physical",
+    "gentle spirit": "emotional",
+    "leader": "mental",
+    "healer": "other",
+    "wise": "mental",
+    "true self": "mental",
+    "shining brightly": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

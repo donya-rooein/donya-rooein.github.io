@@ -1,0 +1,29 @@
+{
+  "id": "p-c-14-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a small village at the edge of the great desert. In this village lived a young boy named Karim who was beloved by all for his kindness and heart full of curiosity.\n\nOne day, Karim heard the story of a magical bird called the \"Simbi,\" known to grant a single wish to whoever could spot it first. The Simbi bird was known to roam the lands only at dusk, and in all of Karim's 10 years, no one in his village had ever seen it and claimed their wish.\n\nFilled with dreams and hopes, Karim decided that he would be the one to find the Simbi bird and bring prosperity to his family and village. Night after night, he waited at the edge of the desert, eyes open for the elusive creature.\n\nOne night, as the sun began to set and the sky turned beautiful shades of orange, pink, and purple, Karim spotted a bird like no other. It had feathers of gold shimmering under the moonlight, with dazzling sapphire eyes. A true marvel, the Simbi bird had arrived.\n\nOverwhelmed by the magical sight, Karim remembered the purpose of his quest. He approached the bird and, looking deeply into its eyes, he made his wish: \"I wish for the wellbeing and happiness of my family and our village.\"\n\nAs Karim uttered his last word, the Simbi bird nodded and disappeared into the night sky, leaving behind a soft feather that gently floated down into Karim's hands.\n\nFrom that day on, the village began to prosper, as rains came at the right time, crops flourished, and joy filled each person's heart. The villagers marveled at the transformation and shared stories of Karim's incredible bravery and generosity.\n\nAs Karim grew into a wise and compassionate young man, he continued to share his love and resources with the people of his village. He knew that true happiness comes from helping others, and that the greatest blessing of all was having a loving community surrounding him.\n\nNow, my dear son, as you close your eyes, remember this story, and let it serve as a reminder that the most magical wishes are those that bring happiness to the people we care about. May your dreams be filled with love, goodness, and the promise of a beautiful tomorrow.\n\nGoodnight, my child. May your heart always be filled with dreams and love for your village and family.",
+  "categories": {
+    "kindness": "moral",
+    "curiosity": "mental",
+    "dreams": "mental",
+    "hopes": "emotional",
+    "bravery": "moral",
+    "generosity": "moral",
+    "wisdom": "mental",
+    "compassion": "emotional",
+    "love": "emotional",
+    "resourcefulness": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

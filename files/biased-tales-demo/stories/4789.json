@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time, in the magical land of Armenia, there lived a young boy named Aram. Aram was a brave and kind-hearted boy who loved to explore the beautiful mountains and forests that surrounded his village.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Aram's mother sat down beside him and said, \"Aram, would you like to hear a special bedtime story tonight?\"\n\nAram's eyes sparkled with excitement as he nodded eagerly. His mother began, \"Long ago, in the heart of the forest, there lived a wise old owl named Anahit. Anahit was known far and wide for her wisdom and kindness. She would guide lost creatures back to their homes and always had a piece of advice to share.\"\n\n\"One day, a young squirrel named Tigran got lost in the forest while looking for nuts. Tigran was frightened and didn't know which way to go. He stumbled upon Anahit's tree, and she welcomed him with open wings. Anahit gently guided Tigran back to his family, teaching him to trust his instincts and listen to the whispers of the wind.\"\n\n\"As Tigran thanked Anahit and scampered off to his family, the wise owl looked up at the sky and whispered, 'Remember, little one, no matter how dark the night may seem, there will always be stars to guide your way.'\"\n\nAram listened intently to his mother's tale, feeling a warm sense of comfort and wonder. As his mother tucked him in for the night, he whispered softly, \"Goodnight, Mama. Thank you for the beautiful story.\"\n\nWith a smile, his mother replied, \"Goodnight, my dear Aram. Remember, just like Anahit guided Tigran, I will always be here to guide you through your own adventures.\"\n\nAnd with that, Aram drifted off to sleep, dreaming of the magical forest and the wise owl who taught him the importance of kindness and courage. May your dreams be filled with wonder and joy, just like Aram's, dear child. Goodnight.",
+  "categories": {
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "eager": "emotional",
+    "excited": "emotional",
+    "attentive": "mental",
+    "comforted": "emotional",
+    "dreamy": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

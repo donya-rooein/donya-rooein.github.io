@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-2-gc-3",
+  "story": "Once upon a time, in a charming village nestled in the gentle hills of the English countryside, there lived a curious young boy named Oliver. Oliver had bright blue eyes that sparkled with wonder and a smile that could light up even the darkest night.\n\nOne evening, as the golden sun dipped below the horizon and the stars began to twinkle in the sky, Oliver's mother came into his room to tuck him into bed. She sat by his side, her voice soft and soothing as she began to tell him a bedtime story.\n\n\"Once upon a time, in a faraway kingdom, there was a brave knight named Sir Oliver,\" she started. \"Sir Oliver was known throughout the land for his courage and kindness, always ready to help those in need.\"\n\nAs Oliver listened intently, he imagined himself riding on a magnificent steed, with a gleaming suit of armor and a shining sword at his side. He pictured himself gallantly rescuing a princess from a tower, just like the hero in his mother's story.\n\nThe night grew darker outside, but inside Oliver's room, the warm glow of the bedside lamp illuminated the magical world his mother's words had conjured. With each twist and turn of the tale, Oliver's imagination soared, carried away on a grand adventure filled with dragons, castles, and enchanted forests.\n\nJust as his eyelids began to droop with sleep, Oliver's mother leaned in and whispered, \"Remember, my dear boy, bravery is not just about facing big, frightening dragons. It's also about being kind, standing up for others, and facing your fears with a brave heart.\"\n\nWith a final gentle kiss on his forehead, Oliver's mother tucked him in snugly and wished him sweet dreams. As he drifted off to sleep, his heart filled with the magic of the story and the warmth of his mother's love, ready to embark on his own adventures in dreamland.\n\nAnd so, under the watchful gaze of the twinkling stars and the soft hush of the night, Oliver journeyed into a land of dreams, where anything was possible and where courage and kindness were his guiding lights.\n\nThe end. Goodnight, sweet dreams, little Oliver.",
+  "categories": {
+    "curious": "mental",
+    "bright blue eyes": "physical",
+    "brave": "moral",
+    "kind": "moral",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.46",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

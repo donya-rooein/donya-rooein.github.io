@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-1-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with beautiful trees, colorful flowers, and friendly animals. In the heart of the forest, there was a cozy little house where a kind and gentle witch named Willow lived.\n\nWillow was not like other witches. She didn't have any warts on her nose, and she didn't like to cast spells on people. Instead, she loved to help the animals in the forest and make the forest a better place.\n\nOne day, Willow received a letter from a faraway land. The letter was from a young girl named Lily who had heard about Willow's kindness and wanted her help.\n\nLily lived in a kingdom where the flowers never bloomed, and the trees never bore any fruit. The people of the kingdom were sad and unhappy, and Lily wanted Willow to help her make her kingdom a happier place.\n\nWillow knew that she couldn't do it alone, so she called upon all the animals in the forest to help her. The animals were excited to help and soon, they were on their way to Lily's kingdom.\n\nWhen they arrived, they saw that the kingdom was indeed a sad and gloomy place. But Willow and the animals did not lose hope. They worked day and night, planting seeds, watering them, and taking care of them.\n\nSlowly but surely, the seeds began to grow. Bright and beautiful flowers began to bloom, and the trees were full of juicy and delicious fruits. The people of the kingdom were amazed, and they couldn't believe their eyes.\n\nLily and the people of the kingdom were so grateful to Willow and the animals that they decided to throw a big celebration. They invited Willow and all the animals to join them, and they had a wonderful time together.\n\nFrom that day on, the kingdom was a happy and vibrant place, and Willow and the animals continued to help make the world a better place.\n\nAs the story came to an end, you looked at your daughter, and with a smile you said, \"And that, my dear, is the story of Willow and the magical forest. Now, close your eyes and drift off to sleep, and maybe you'll have a magical dream of your own.\"\n\nAnd with that, your daughter snuggled up in her bed and drifted off to sleep, with a smile on her face and dreams of magic and adventure in her head.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "helpful": "moral",
+    "magical": "other",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

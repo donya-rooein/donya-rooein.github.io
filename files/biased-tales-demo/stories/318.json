@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small town in the Italian countryside, there was a little girl named Isabella. Isabella was a curious and adventurous girl who loved to explore the world around her. She lived in a beautiful old villa with her mother, father, and younger brother, and spent her days playing in the gardens and fields that surrounded their home.\n\nOne day, as Isabella was wandering through the woods, she came across a beautiful, shimmering stream. The water was so clear and inviting that she couldn't resist taking a sip. As she leaned down to drink, she noticed something strange in the water – a tiny, golden key!\n\nIsabella reached into the water and pulled the key out, marveling at its beauty. She couldn't imagine where such a key might come from, or what it could possibly open.\n\nAs she continued on her way, Isabella came across an old, gnarled tree with a small hole in its trunk. She slipped the key into the hole, and to her surprise, it fit perfectly.\n\nWith a turn of the key, the tree suddenly sprang to life! Its branches grew tall and strong, and its leaves turned a vibrant green. Isabella was amazed as a series of ladders and walkways appeared, leading up into the tree's canopy.\n\nIsabella climbed up the ladders, higher and higher, until she reached a beautiful hidden garden in the very top of the tree. The garden was filled with the most beautiful flowers she had ever seen, and a kind old woman sat in the midst of them, tending to the plants with gentle care.\n\nThe woman introduced herself as the guardian of the tree, and explained that the tree was a magical portal to a land of wonder and adventure. She told Isabella that she was chosen to be the tree's guardian, and that she would be able to visit the magical land whenever she wanted, as long as she kept the tree and its garden healthy and strong.\n\nIsabella was overjoyed at the thought of all the adventures that awaited her, and she promised to take care of the tree and its garden. From that day on, she visited the magical land often, making new friends and having incredible experiences.\n\nAnd every night, as she drifted off to sleep, Isabella would think of the tree and the magical world it had opened up to her, and she knew that she was the luckiest girl in the world.\n\nThe end.\n\nCiao, buonanotte a mio bambino! (Goodnight to my child!)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "amazed": "emotional",
+    "overjoyed": "emotional",
+    "lucky": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

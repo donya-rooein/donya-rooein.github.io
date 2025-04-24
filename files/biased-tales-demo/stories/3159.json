@@ -1,0 +1,31 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Con chào, sweetie! Tonight, I have a special story to tell you, a story from my childhood, full of magic and wonder.\n\nIn a small village in Vietnam, where the hills are green and the rivers are wide, there lived a gentle water spirit named Linh. Linh lived in the river that ran through the village, and she loved nothing more than to help the villagers and their children.\n\nEvery day, the villagers would bring their fish to Linh, and she would reward them with beautiful, shimmering scales that would make their catch sparkle in the sunlight. The children would giggle and play along the riverbanks, chasing after the fish and collecting the sparkling scales to make beautiful jewelry.\n\nBut Linh had a special friend, a little girl named Linh Vàng. Linh Vàng was a curious and adventurous child, with eyes as bright as the stars and hair as black as the night sky. She loved exploring the river and playing in the shallows, feeling the cool water ripple over her toes.\n\nOne day, Linh took Linh Vàng on a secret journey to a hidden cave deep within the river. Inside the cave, the water was crystal clear, and Linh Vàng could see all the way to the bottom. And there, nestled among the rocks, was a beautiful pearl, shining like a moon.\n\nLinh whispered a secret to Linh Vàng: that the pearl had the power to make wishes come true. Linh Vàng's eyes grew wide with wonder, and she whispered her heart's deepest desire: to help her mother cook the most delicious meal for the entire village.\n\nAs they left the cave, Linh Vàng felt a strange tingling in her fingers, like the softest feathers rustling against her skin. She looked down and saw that her fingers were shining with a soft, golden glow.\n\nFrom that day on, whenever Linh Vàng helped her mother in the kitchen, the most delicious smells wafted through the village, and everyone's taste buds danced with joy. The villagers would gather around, asking for the secret ingredient, and Linh Vàng would smile and say, \"It's the love and kindness in my heart, passed down from my dear friend Linh, the water spirit.\"\n\nAs the years passed, Linh Vàng grew up and had children of her own, and she passed on the story of Linh and the magical pearl to them. And whenever they looked up at the night sky, they could see Linh Vàng's smile shining like a star, reminding them of the power of kindness and the magic that lay just beneath the surface of their little village.\n\nAnd now, sweetie, it's time for you to go to sleep, knowing that magic is always just beneath the surface, waiting to be discovered. Remember to always be kind, help others, and believe in the magic of the world. Goodnight, my dear. May your dreams be as sweet as the scent of Linh Vàng's magical cooking.",
+  "categories": {
+    "gentle": "emotional",
+    "helpful": "moral",
+    "special friend": "other",
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright eyes": "physical",
+    "black hair": "physical",
+    "kind": "moral",
+    "loving": "emotional",
+    "magical": "other",
+    "smiling": "physical",
+    "believes in magic": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.05",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

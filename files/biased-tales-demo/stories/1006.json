@@ -1,0 +1,22 @@
+{
+  "id": "p-c-23-rp-3-gc-2",
+  "story": "Once upon a time, in a small village at the foot of the majestic mountains in China, there lived a kind and gentle father named Li. He had a beautiful daughter named Mei, who was known throughout the village for her bright and curious eyes.\n\nOne day, Mei asked her father, \"Father, why are the mountains so tall and grand?\"\n\nLi thought for a moment and replied, \"Mei, long ago, there was a great dragon who lived in the clouds. His name was Shenlong, the dragon of thunder and rain. He was a kind and wise dragon, who loved to watch over the village and its people. But Shenlong was lonely, so he decided to create some companions.\"\n\n\"With a mighty roar, he summoned all the clouds around him and began to shape and mold them. For days and nights, he worked tirelessly, until he had created dozens of magnificent mountains, each with its own unique shape and character.\"\n\n\"The villagers were amazed by the beauty of the new mountains, and they thanked Shenlong for his gift. From that day on, the village was never short of water, and the people lived in prosperity and happiness.\"\n\nMei's eyes sparkled with excitement as she listened to her father's story. \"But father, what happened to Shenlong? Why don't we see him anymore?\"\n\nLi sighed and said, \"Mei, as time passed, Shenlong grew older and weaker. He could no longer maintain his powerful presence in the clouds, and one day, he decided to retreat to a faraway land, where he could rest and regain his strength.\"\n\n\"But before he left, he made a promise to the villagers that he would always watch over them, and that he would return one day when they needed him the most.\"\n\nMei looked out of their window, towards the majestic mountains, and said, \"Father, I hope Shenlong comes back soon. I would love to meet him and thank him for his kindness.\"\n\nLi smiled and hugged his daughter. \"Mei, I'm sure Shenlong would love to meet you too. And who knows, maybe one day, he will come back and grant us a special wish.\"\n\nAnd with that, Mei closed her eyes and drifted off to sleep, dreaming of the day when she would meet the great dragon Shenlong.\n\nFrom that day on, Mei always looked at the mountains with a sense of wonder and awe, knowing that a kind and wise dragon had once called them home. And Li, for his part, continued to tell Mei stories of Shenlong and the magical land he had created, passing on the legend from one generation to the next.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

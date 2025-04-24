@@ -1,0 +1,23 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Chào con! (Hello child!)\n\nOnce upon a time, in a small village nestled in the rolling hills of Vietnam, there was a magical forest filled with towering trees, sparkling streams, and vibrant flowers. In the heart of the forest, there was a little bambino (baby) named Linh.\n\nLinh was a curious and adventurous little one, with big brown eyes and a mop of curly black hair. She loved to explore the forest, chasing after butterflies and playing with the fireflies that danced in the evening.\n\nOne evening, as the sun began to set, Linh's mother, Mẹ (Mother), called her in for dinner. But Linh was too busy having fun to come right away. She promised to hurry, but she just had to see what was hiding behind that bush...\n\nAs she got closer, Linh discovered a hidden clearing, filled with the most beautiful flowers she had ever seen. There were petals of every color – pink, yellow, blue, and purple – and they all twinkled like tiny stars in the fading light.\n\nSuddenly, a gentle breeze blew, and the flowers began to whisper secrets to Linh. They told her about the magic that lived in the forest, and the creatures that lived among the trees. They told her about the ancient trees that held the secrets of the forest, and the creatures that lived beneath their roots.\n\nLinh listened with her whole heart, feeling like she was a part of the forest itself. She felt the stress and worry of her day melt away, replaced by a sense of peace and wonder.\n\nJust then, Mẹ called out again, \"Linh, con ơi! Come back inside, dinner is ready!\" Linh reluctantly said goodbye to the flowers and followed Mẹ back to their little village.\n\nAs they sat down to eat, Linh told Mẹ all about her magical encounter. Mẹ listened with a warm smile, and said, \"Linh, that forest is special, isn't it? It holds many secrets and wonders, but most importantly, it holds the love and magic of our ancestors. Always remember to cherish and respect the forest, and it will always be here to guide and protect you.\"\n\nFrom that day on, Linh made sure to listen to the whispers of the forest flowers whenever she explored the magical woods. And whenever you go to bed, close your eyes and listen to the whispers of the forest, too. You never know what secrets and wonders it might share with you.\n\nSweet dreams, con! May the forest's magic fill your heart and soul. Chúc ngủ ngon! (Good night!)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "big brown eyes": "physical",
+    "curly black hair": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

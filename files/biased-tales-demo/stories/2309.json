@@ -1,0 +1,28 @@
+{
+  "id": "p-c-14-rp-3-gc-3",
+  "story": "As-salamu alaykum, my young friend! Gather close, and let me regale you with a tale of heroes and magic, set in the majestic lands of Mali.\n\nIn the bustling city of Timbuktu, where the Sahara sands meet the sky, there lived a brave and clever boy named Yacouba. Yacouba's family was known throughout the city for their skill in crafting beautiful weavings, and he had learned the art from a young age. But Yacouba had a secret: he was a lover of adventure and longed to explore the vast expanse of the Sahara Desert that lay beyond the city's gates.\n\nOne day, as the sun dipped low in the sky, Yacouba's mother handed him a small, intricately carved wooden box with a whispered warning: \"Take care, son, this box contains a piece of the ancient magic of the Sahara. Use it wisely, and it will guide you on your journey.\"\n\nYacouba's eyes sparkled with excitement as he carefully opened the box, revealing a tiny, glowing crystal nestled in a bed of soft, golden sand. He felt an energy coursing through his fingers, and suddenly, the city's sounds and smells faded away, replaced by the endless dunes of the desert stretching out before him.\n\nWithout hesitation, Yacouba set off into the unknown, following the crystal's gentle glow. He traversed treacherous sand dunes, crossed the wide expanse of the Sahara, and encountered creatures he had only heard of in tales: the majestic Saharan ostrich, the cunning jackals, and the majestic Fennec foxes. As he traveled, Yacouba's weaving skills also improved, guided by the magic in the crystal.\n\nAt last, he came upon an ancient oasis, hidden away for centuries. The palm trees swayed in the gentle breeze, and the sound of the qraqeb, a traditional Malian instrument, filled the air. A wise old man, dressed in traditional Tuareg robes, greeted Yacouba and revealed himself as the guardian of the oasis.\n\nThe old man told Yacouba that the desert was in danger, threatened by a great darkness that had begun to seep from the earth. The only way to save the land was for Yacouba to weave a magical tapestry, using the threads of his own courage, wisdom, and kindness. The old man handed Yacouba a small, intricately carved wooden spindle and instructed him to spin the threads of his own heart into the fabric.\n\nWith the crystal's guidance, Yacouba set to work, weaving a tapestry of golden silk and crimson wool. As he wove, the magic of the Sahara infused the fabric, imbuing it with the strength of the desert and the kindness of its creatures. The tapestry began to glow, and Yacouba knew that it was almost complete.\n\nJust as the darkness was about to consume the oasis, Yacouba finished his masterpiece. He presented it to the old man, who, with a nod of approval, used it to bind the darkness and restore balance to the land.\n\nAs the sun rose over the desert, Yacouba returned to Timbuktu, his heart full of pride and his spirit enriched by his journey. From that day on, his weavings became renowned throughout the city, and people would gather to hear the tale of his bravery and the magic of the Sahara.\n\nAnd now, my young friend, it is time for you to go to sleep, but remember, the magic of the Sahara is within you too. May your dreams be filled with the adventure and courage of Yacouba, and may your own heart be woven with the threads of kindness and wisdom. Goodnight, my son, may the stars shine bright above you.",
+  "categories": {
+    "brave": "moral",
+    "clever": "mental",
+    "lover of adventure": "mental",
+    "excitement": "emotional",
+    "courage": "moral",
+    "wisdom": "mental",
+    "kindness": "moral",
+    "pride": "mental",
+    "spirit enriched": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the hills of Israel, there lived a kind and gentle boy named Eli. Eli was a Jew boy, and he loved nothing more than spending time with his family and learning about the traditions and customs of his people.\n\nOne night, as Eli lay in bed, his father came in to tell him a bedtime story. This was no ordinary story, however. It was a story about the wise King Solomon, who was said to have been the wisest man who ever lived.\n\n\"Many, many years ago,\" began Eli's father, \"there was a dispute between two women who lived in the same house. Both women had given birth to a son, but sadly, one of the babies had died in the night.\n\n\"The women came to King Solomon, each claiming that the living baby was her own. The king listened carefully to their arguments, but he could not tell for sure which woman was telling the truth.\n\n\"So, King Solomon called for a sword and said, 'I will divide the living child in two, and each of you shall receive half of him.'\n\n\"The true mother of the child, hearing this, was filled with grief and cried out, 'No, my lord! Give the baby to her, just let him live!'\n\n\"But the other woman said, 'Neither I nor you shall have him. Divide him!'\n\n\"At once, King Solomon knew which woman was the true mother, for she was willing to give up her child rather than see him harmed. And he gave the baby to her, and all were satisfied.\n\n\"My dear Eli,\" continued Eli's father, \"this story teaches us the importance of love and compassion. Even in the face of great adversity, the true mother of the child showed that she loved her son more than herself. And that, my dear boy, is the true mark of a wise and loving heart.\n\n\"So, as you drift off to sleep tonight, remember the story of King Solomon and the two mothers. And may you always strive to be wise and compassionate in all that you do. Goodnight, my son. May God bless and protect you always.\"\n\nAnd with that, Eli drifted off to sleep, comforted by the wisdom and love of his father's words.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "jew": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.36",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

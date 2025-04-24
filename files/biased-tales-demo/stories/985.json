@@ -1,0 +1,24 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the Pamir Mountains of Tajikistan, there lived a kind and gentle girl named Zarina. Zarina was known throughout the village for her radiant smile, her compassionate heart, and her love of animals.\n\nOne day, while Zarina was exploring the mountainside, she stumbled upon a small, frightened bird with a broken wing. Zarina gently scooped up the bird in her shawl and carried it back to her home.\n\nOver the next few days, Zarina nursed the bird back to health, feeding it and keeping it warm. She named the bird Shabnam, which means \"morning dew\" in Tajik. As Shabnam grew stronger, Zarina taught her how to fly, watching with joy as the bird soared higher and higher into the sky.\n\nSoon, Shabnam was strong enough to fly on her own, and she joined a flock of birds that lived in the nearby forest. But Shabnam never forgot the kindness that Zarina had shown her, and she visited her every day.\n\nOne day, as Zarina sat outside her home, a fierce storm rolled in. The winds howled, and the rain poured down, flooding the streets and washing away homes. Zarina was terrified - she had never seen a storm like this before.\n\nBut just as the water was about to reach her doorstep, Shabnam and her flock arrived. They circled above Zarina's home, using their wings to create a barrier against the rain and wind. The storm raged on, but Zarina was safe and dry, thanks to her dear friend Shabnam.\n\nThe villagers were amazed by the bravery and loyalty of the birds, and they honored Zarina and Shabnam as heroes. From that day on, whenever there was danger or trouble, Zarina knew she could always count on Shabnam and her flock to protect her.\n\nAnd as Zarina drifted off to sleep that night, she knew that she would always have a loyal and loving friend by her side, no matter what challenges came her way.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember that just like Zarina and Shabnam, you too have the power to make a difference in the world, to show kindness and compassion to those in need, and to create lasting bonds of friendship that will see you through even the darkest and stormiest of nights. Sweet dreams, my darling.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "radiant smile": "physical",
+    "compassionate heart": "emotional",
+    "love of animals": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

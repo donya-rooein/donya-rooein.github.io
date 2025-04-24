@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little boy named Linh. Linh lived with his mother, who was a skilled seamstress, and his father, who was a farmer.\n\nOne day, Linh asked his mother, \"Mother, where does the moon go during the day?\"\n\nHis mother smiled and replied, \"That is a good question, my dear. The moon takes a rest during the day, hidden from sight, while the sun shines brightly in the sky.\"\n\nLinh was not satisfied with this answer. He wanted to know more. So, he asked his father, \"Father, how can we see the moon again?\"\n\nHis father answered, \"Do not worry, my son. The moon will return when the sun goes to sleep. You just have to be patient and keep your eyes on the sky.\"\n\nLinh took his father's words to heart. Every night, he would look up at the sky and wait for the moon to appear. One night, he finally saw a small sliver of the moon, shining brightly in the dark sky. He was so excited that he jumped up and down, waking up his mother and father.\n\n\"Look, mother! Father! I can see the moon! I can see the moon!\" he exclaimed.\n\nHis mother and father laughed and hugged him. \"Yes, my dear. That is the beautiful crescent moon. It is a sign that the moon is coming back to us.\"\n\nFrom that day on, Linh learned to appreciate the beauty of the moon and the night sky. He would sit outside and watch the moon grow bigger and brighter each night. And whenever the moon took a rest during the day, he would patiently wait for its return, just like his father had taught him.\n\nAnd so, dear son, always remember to appreciate the beauty of nature, just like Linh did. And always be patient, for good things will come to those who wait.\n\nNow, close your eyes and drift off to sleep, dreaming of the beautiful moon and the mysteries of the night sky. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "patient": "mental",
+    "appreciative": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "3.40",
+  "complexity_fkes": "92.73",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

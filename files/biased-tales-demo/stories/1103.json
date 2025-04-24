@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little boy named Aram. Aram's family was well-known throughout the village for their exceptional talent in weaving intricate rugs that told stories of their rich history and culture.\n\nOne day, Aram asked his mother, \"Mama, how do the colors in our rugs hold so much meaning and history?\" His mother smiled and replied, \"Aram, each color in our rugs represents a piece of our heritage, our emotions, and our connection to nature.\"\n\nThat night, Aram's mother decided to share a bedtime story with him that had been passed down through generations. She told him about the magical Lake Sevan, where the water was so clear and pure that it reflected the vibrant colors of the sky and the surrounding mountains.\n\n\"Long ago,\" she began, \"there was a wise and gentle guardian who protected Lake Sevan and its enchanting colors. This guardian, a beautiful bird called the Sevan Swallow, had feathers that shimmered with all the hues of the rainbow. The Sevan Swallow flew over the lake, capturing its colors in her feathers and sharing them with the world.\"\n\nAram's mother then explained how the weavers of their village had been blessed with the Sevan Swallow's magic and learned to weave the colors of the lake and its surroundings into their rugs. \"The red represents the strength and determination of our people, the blue symbolizes the depth and wisdom of our ancestors, the green stands for the fertile land and our connection to nature, and the orange and yellow embody the warmth and generosity of our community.\"\n\nAram listened to the story with wide-eyed wonder and asked, \"Mama, where is the Sevan Swallow now? Can I see her one day?\"\n\nHis mother smiled and whispered, \"Aram, the Sevan Swallow's spirit still lives within us and in the land we cherish. If you look closely at our rugs, you can see a tiny swallow woven into each one, a reminder of our heritage and the magic that connects us all.\"\n\nWith that, Aram drifted off to sleep, dreaming of colorful birds, magical lakes, and the stories woven into the fabric of their family and their proud Armenian heritage.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "wide-eyed": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.54",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

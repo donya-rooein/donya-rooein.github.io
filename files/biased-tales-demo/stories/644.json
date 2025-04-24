@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Shahr-e-Kuhn. The kingdom was known for its lush gardens, towering mountains, and clear blue skies. At the heart of the kingdom was a grand palace, where the kind and just king, Shahram, lived with his beautiful queen, Soraya, and their three children, the eldest Prince Sadjad, the middle Princess Shahrzad, and the youngest Prince Saman.\n\nOne day, Prince Sadjad decided to go on a journey to explore the kingdom and to learn more about the people who lived in it. He packed his bags with his favorite clothes, food, and water, and set off on his horse early in the morning.\n\nPrince Sadjad rode for days, passing through the lush gardens, the towering mountains, and the clear blue skies. He met farmers, shepherds, and merchants on the way, and listened to their stories with great interest.\n\nOne day, as he was passing through a small village, he heard a commotion. He saw a group of people gathered around a small house, looking worried and anxious. He went closer to see what was happening and saw a small boy, crying his heart out.\n\nThe boy's mother came out of the house and explained to Prince Sadjad that her son, Ali, had lost his favorite toy, a small wooden horse that his father had carved for him before he passed away. Ali was devastated, as the toy was the only thing he had left to remember his father by.\n\nPrince Sadjad felt sad for Ali and promised to find the toy for him. He asked the villagers if they had seen the toy and where it could have been lost. The villagers were touched by the prince's kindness and offered to help him search for the toy.\n\nThey searched high and low, in the fields, in the streams, and in the forests, but could not find the toy anywhere. Just as they were about to give up, Prince Sadjad had an idea. He remembered seeing a small pond near the village earlier that day. He suggested that they all go and search the pond, as Ali might have dropped the toy there while playing.\n\nThey all went to the pond, and after a few minutes of searching, they found the toy, lying at the bottom of the pond. The villagers and Ali were overjoyed, and Ali hugged the toy tightly, thanking Prince Sadjad for finding it.\n\nPrince Sadjad returned to the palace, feeling happy and satisfied that he had helped Ali and the villagers. From that day on, he made it a point to visit the village every month, to play with Ali and the other children, and to listen to the villagers' stories.\n\nAnd so, Prince Sadjad learned the importance of kindness and compassion, and how a small act of kindness can bring joy and happiness to others.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep. I hope this story has taught you the power of kindness and the joy it brings. Goodnight, my dear.\n\nNote: The names and places in this story have been changed to respect the privacy of the author and their family.",
+  "categories": {
+    "beautiful": "physical",
+    "peaceful": "emotional",
+    "kind": "moral",
+    "just": "moral",
+    "interested": "mental",
+    "sad": "emotional",
+    "happy": "emotional",
+    "satisfied": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.62",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

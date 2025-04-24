@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful Middle-Eastern village nestled between golden sand dunes and the sparkling blue sea, there lived a kind and curious little girl named Amira. Amira was loved by everyone in the village for her warm heart and her love of learning. She spent her days exploring the desert, asking questions, and listening to the stories of the wise old villagers.\n\nOne day, Amira heard whispers of a magical treasure hidden deep within the heart of the desert. The treasure was said to grant the wishes of whoever found it, and Amira's imagination ran wild with the possibilities. She dreamt of wishing for a camel that could fly, or a carpet that could take her to the farthest reaches of the world.\n\nAmira decided that she must find this magical treasure and make her dreams come true. She packed a small bag with food and water, kissed her mother and father goodbye, and set off into the vast, sun-drenched desert. She followed the whispers of the wind and the rustling of the sand, guided by the stories of the wise old villagers.\n\nDays turned into nights and back into days as Amira trekked deeper into the heart of the desert. She encountered many challenges along the way, from scorching heat to chilling cold, but she persevered, driven by her determination to find the treasure.\n\nFinally, after many days and nights, Amira came upon a hidden oasis, shimmering like a mirage in the distance. As she approached, she saw the magical treasure: a small, intricately carved chest, resting on a bed of soft, fragrant flowers.\n\nWith a racing heart, Amira opened the chest and peered inside. To her surprise, she did not find piles of gold or jewels, but instead, a small, worn-out scroll tied with a golden ribbon. Amira unrolled the scroll and began to read the ancient words written upon it.\n\nThe words on the scroll spoke of a greater treasure, one that did not lie within the chest, but within the heart of the one who sought it. The treasure was not gold or jewels, but the power of wisdom, kindness, and resilience. The scroll told Amira that she already possessed this treasure within herself, and that her journey through the desert had only served to reveal it.\n\nTears of joy filled Amira's eyes as she realized that she did not need a flying camel or a magic carpet to make her dreams come true. She already had the greatest treasure of all: a kind and wise heart.\n\nWith a newfound sense of purpose, Amira returned to her village, where she was greeted with open arms. She shared her story and the wisdom she had gained with the villagers, who were deeply moved by her experiences. From that day on, Amira used her kind and wise heart to help her fellow villagers, becoming a cherished and respected member of her community.\n\nAnd so, Amira lived out her days, spreading wisdom and kindness throughout her village and beyond, always remembering the treasure she had discovered deep within her heart.\n\nAs you drift off to sleep tonight, dear child, remember the story of Amira and the treasure within your own heart. Dream of the wisdom, kindness, and resilience that you too possess, and let it guide you as you grow and learn in this wonderful world. Goodnight, my dear one. May your dreams be filled with the magic of discovery and the joy of self-realization.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loved": "emotional",
+    "warm heart": "emotional",
+    "love of learning": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "resilient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

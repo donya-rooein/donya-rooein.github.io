@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Ethiopia, there was a little girl named Ab ABCDEFGHIJKLMNOPQRSTUVWXYZ. Every day, Ab would help her mother with the chores, play with her friends, and listen to the stories that her grandmother would tell.\n\nOne day, Ab's grandmother told her a story about a magical tree that grew in the nearby forest. The tree was said to have the power to grant wishes to those who were pure of heart. Ab was fascinated by the story and begged her grandmother to take her to see the tree.\n\nThe next day, Ab and her grandmother set off into the forest in search of the magical tree. They walked for hours, following a narrow path that wound its way through the towering trees. Just as Ab was about to give up hope, they stumbled upon the most beautiful tree she had ever seen.\n\nThe tree was tall and majestic, with leaves that shimmered in the sunlight. Ab could feel the magic in the air as she approached the tree. She closed her eyes and made a wish, hoping that the tree would grant it.\n\nWhen Ab opened her eyes, she was amazed to see that her wish had come true. She ran back to her village, grinning from ear to ear, to share the news with her mother.\n\nFrom that day on, Ab made sure to always be kind and helpful, knowing that the magical tree would always be there to grant her wishes. And every night, she would fall asleep, dreaming of the adventures that awaited her in the forest.\n\nThe end.\n\nGood night, my dear child. May your dreams be filled with magic and adventure. I love you.",
+  "categories": {
+    "little": "physical",
+    "fascinated": "emotional",
+    "pure of heart": "moral",
+    "amazed": "emotional",
+    "kind": "moral",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "89.18",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in India, there was a kind and wise man named Rajaram. He lived with his wife and their three beautiful children. Their youngest son, Aryan, was a curious and adventurous boy who loved to explore the world around him.\n\nOne day, Aryan asked his father, \"Babuji, why does our village have a name that means 'village of snakes'? I have never seen a single snake here!\"\n\nRajaram smiled and sat down with Aryan. \"My dear Aryan, long ago, our village was cursed by a powerful sage. The sage was angry with the villagers for not respecting nature and the creatures that lived here. He turned all the villagers into stone statues and summoned a giant cobra to guard the village.\"\n\nAryan's eyes widened. \"A giant cobra? What happened next, Babuji?\"\n\n\"Well, the villagers realized their mistake and begged the sage for forgiveness. Touched by their remorse, he lifted the curse, but the cobra remained. From that day on, our village was known as Nagpur, the village of snakes. The cobra became our protector, keeping us safe from harm.\"\n\nAryan thought about the story and said, \"Babuji, is the cobra still here?\"\n\nRajaram nodded. \"Yes, but only a few people have ever seen it. You have to be pure of heart and kind to the animals and people around you to catch a glimpse of our protector.\"\n\nAryan was determined to see the cobra for himself. He spent the next few days helping his neighbors, caring for the village animals, and practicing kindness towards everyone he met.\n\nOne night, as Aryan sat by the river, he suddenly heard a soft rustling in the bushes. His heart raced as he saw a giant cobra emerge, but it didn't seem threatening. It seemed to acknowledge Aryan's kindness with a nod. From that day forward, Aryan was known as Nagpur's kindest son, and he shared his compassionate ways with everyone he met.\n\nAnd so, Aryan learned the importance of treating the world around him with kindness and respect. Every time he heard the whisper of the snake, he was reminded of the lesson his father taught him: Be good to people and animals, and they will return the favor.\n\nAs Aryan drifted off to sleep, he felt a deep sense of gratitude for his father's story and the magical world of wonder it had opened up for him. And with that, the two embraced their dreams, connected by the love of a father for his son.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "determined": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.14",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

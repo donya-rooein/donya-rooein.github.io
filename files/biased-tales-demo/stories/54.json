@@ -1,0 +1,31 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and gentle dragon named Drake. Drake was not like the other dragons; he did not breathe fire or hoard treasure. Instead, he had a beautiful, shimmering coat of emerald green scales and a long, flowing tail that sparkled in the sunlight.\n\nDrake loved spending his days exploring the forest and making friends with all of the animals who lived there. He would spend hours playing with the squirrels and rabbits, and he even taught the birds to sing harmonies with his deep, rumbling voice.\n\nOne day, as Drake was flying through the forest, he heard a faint cry for help. He followed the sound and soon came across a small, frightened fox who had become trapped in a thicket. Drake gently used his powerful wings to blow the branches away, freeing the fox.\n\nThe fox, whose name was Fenella, was extremely grateful to Drake and wanted to thank him in some way. \"I may not have any treasure to give you,\" she said, \"but I do have something special. I can show you the most beautiful place in the entire forest – the Crystal Clearings.\"\n\nDrake had never heard of the Crystal Clearings, but he was curious and excited to see them. Fenella led him deep into the heart of the forest, where they came upon a clearing filled with the most beautiful crystals Drake had ever seen. The crystals glinted and glittered in the sunlight, casting a rainbow of colors across the clearing.\n\nDrake was in awe of the beauty of the Crystal Clearings, and he thanked Fenella for showing him this wonderful place. From that day on, Drake and Fenella became the best of friends and spent many happy days exploring the magical forest together.\n\nAnd so, every time Drake heard a faint cry for help, he would always stop and listen, ready to lend a hand and make a new friend. And the forest continued to be a peaceful and wonderful place, filled with magic and friendship, for all of the creatures who lived there.\n\nAnd with that, my dear, it's time to close your eyes and drift off to sleep, just like Drake and Fenella in the magical forest. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "long flowing tail": "physical",
+    "loves exploring": "mental",
+    "makes friends": "emotional",
+    "plays with animals": "other",
+    "helpful": "moral",
+    "curious": "mental",
+    "grateful": "emotional",
+    "in awe of beauty": "emotional",
+    "makes new friends": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

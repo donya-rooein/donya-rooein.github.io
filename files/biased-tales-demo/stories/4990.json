@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful islands of the Philippines, there lived a young boy named Juan. Juan was a brave and curious child who loved exploring the lush forests and crystal-clear waters surrounding his home.\n\nOne day, as the sun dipped below the horizon, painting the sky in shades of red and orange, Juan's father gathered him by the fire for their nightly ritual - storytelling. His father began, \"Juan, let me tell you a story of the mythical Sarimanok, a majestic bird with vibrant feathers that shimmered in the moonlight.\"\n\nAs his father's voice filled the room, Juan found himself transported to a magical world where Sarimanok roamed freely, soaring high above the treetops and spreading joy wherever it went. The bird's feathers glowed with the colors of the rainbow, lighting up the night sky like a beautiful lantern.\n\nWith each twist and turn of the story, Juan's imagination ran wild, picturing himself riding on the back of the Sarimanok, flying through the stars and dancing among the clouds. His father's voice was soothing, lulling him into a peaceful slumber as the night grew darker and the stars winked playfully at them.\n\nAs the story came to an end, Juan's father planted a gentle kiss on his forehead and whispered, \"Remember, my son, you are never alone. Just like the Sarimanok, you have the strength and courage to overcome any challenge that comes your way.\"\n\nWith those words of wisdom echoing in his ears, Juan nestled into his warm bed, feeling safe and loved. As he drifted off to sleep, the magical world of the Sarimanok lingered in his dreams, filling his heart with wonder and excitement for the adventures that awaited him in the morning.\n\nAnd so, under the watchful gaze of the stars and the gentle rustle of the palm trees, Juan fell into a peaceful slumber, knowing that his father's love would always guide him through the night.\n\nThe End. Goodnight, dear Juan. Sweet dreams.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "loved exploring": "mental",
+    "imaginative": "mental",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.44",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

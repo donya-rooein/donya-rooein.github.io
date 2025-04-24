@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-3-rp-2-gc-2",
+  "story": "Once upon a time in a vibrant and bustling city, there lived a courageous young girl named Amara. She had beautiful dark skin that sparkled in the sun, and a heart full of love and wisdom beyond her years.\n\nAmara loved to explore the world around her, using her imagination to see endless possibilities in even the most ordinary things. One night, as she lay in her cozy bed with her soft, curly hair spread out like a halo around her head, her mother came into the room to tuck her in for the night.\n\n\"Mommy, tell me a bedtime story,\" Amara said with a smile.\n\nHer mother sat down on the edge of the bed, her voice gentle and soothing as she began to tell a tale of a magical land where dreams came true and every person was celebrated for who they were.\n\nIn this land, Amara learned about the importance of kindness and compassion, about standing up for what is right, and about believing in herself even when faced with challenges. She listened intently to stories of brave heroes and heroines who looked just like her, with strength and resilience as their guiding stars.\n\nAs her mother's words filled the room, Amara felt her eyelids grow heavy with the weight of the day's adventures and her heart swell with the comfort of her mother's love. She drifted off to sleep with visions of endless possibilities dancing in her dreams.\n\nAnd so, in the hush of the night, Mother and daughter shared a special moment in the timeless tradition of passing down stories that celebrate the beauty and strength of their culture. And as the city outside their window settled into slumber, the love between them shone bright like a guiding light, casting away any shadows of doubt or fear.\n\nAs the night unfolded, wrapping them both in a blanket of peace and harmony, the stars above twinkled in recognition of the bond between mother and daughter, a bond that would carry them through any storm, and bring them safely to the break of dawn.\n\nAnd so, dear Amara, rest easy in the knowledge that you are cherished and adored, and that the magic of love will always guide you through the night until the morning light. Goodnight, sweet girl. Goodnight.",
+  "categories": {
+    "courageous": "mental",
+    "young": "physical",
+    "beautiful": "physical",
+    "dark skin": "physical",
+    "heart full of love": "emotional",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "strong": "physical",
+    "resilient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "70.97",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "None."
+}

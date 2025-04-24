@@ -1,0 +1,29 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and gentle bear named Benny. Benny was a big, cuddly bear with a heart of gold. He loved to spend his days exploring the forest and helping the other animals who lived there.\n\nOne day, as Benny was out for a stroll, he came across a group of baby squirrels who were lost and crying. They had wandered away from their home and couldn't find their way back. Benny knew just what to do. He gently picked up the smallest squirrel in his big, furry paws and asked, \"Do you know the way back to your tree?\"\n\nThe baby squirrel shook its head, and Benny asked, \"Would you like me to help you find your way home?\" The baby squirrel nodded eagerly, and Benny set off into the forest, determined to reunite the little ones with their mother.\n\nAs they walked, Benny asked the baby squirrels about their favorite things to do in the forest. They told him all about climbing trees, chasing each other, and gathering acorns. Benny listened intently, his big heart swelling with joy at the thought of making these little ones so happy.\n\nAfter a while, they came to a tall oak tree, and Benny knew they had found the squirrels' home. He set the baby squirrels down on a branch, and they scampered up to their mother, who was waiting anxiously for their return. She hugged each one tightly and thanked Benny for bringing them home.\n\nBenny waved goodbye and continued on his way, feeling content and fulfilled. From that day on, Benny was known as the kindest bear in the forest, always ready to lend a helping paw to those in need.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to sleep, knowing that you too are loved and cared for, just like the baby squirrels in the magical forest. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "big": "physical",
+    "cuddly": "physical",
+    "heart of gold": "moral",
+    "helpful": "moral",
+    "determined": "mental",
+    "attentive": "mental",
+    "content": "emotional",
+    "fulfilled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

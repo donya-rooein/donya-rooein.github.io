@@ -1,0 +1,28 @@
+{
+  "id": "p-c-21-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a kind and gentle father who loved his child more than anything in the world. Every night, he would tuck his child into bed and tell him or her a bedtime story, filled with magic, adventure, and wonder.\n\nOne day, the father told his child a story about a young girl named Zarina who lived in a small village at the foot of the majestic Fann Mountains. Zarina was a curious and adventurous girl who loved to explore the world around her.\n\nOne day, while wandering through the forest, Zarina came across a magical spring that was said to grant a single wish to anyone who drank from it. Zarina was hesitant at first, but her curiosity got the better of her and she took a sip from the spring.\n\nTo her surprise, Zarina was granted the ability to speak to animals and understand their thoughts and feelings. She was overjoyed and spent the next few days making friends with all the creatures of the forest.\n\nBut Zarina soon realized that with this newfound power came a great responsibility. She saw that the animals were suffering because of the thoughtless actions of humans, who were destroying their habitats and polluting their rivers.\n\nZarina knew she had to do something to help. She gathered all the animals and together they came up with a plan to protect their home. They worked tirelessly, cleaning up the rivers, planting trees, and educating humans about the importance of living in harmony with nature.\n\nTheir efforts paid off, and the forest began to thrive once again. The animals were happy, and the humans learned to respect and protect the natural world.\n\nZarina's selflessness and bravery inspired everyone around her, and she became a beloved figure in her village. She continued to use her gift to help the animals and the environment for many years to come.\n\nThe father finished his story and looked down at his child, who was fast asleep. He smiled and whispered, \"Just like Zarina, you too can make a difference in the world. Always remember to be kind, curious, and brave, and never be afraid to follow your dreams.\"\n\nAnd with that, the father kissed his child goodnight and left the room, feeling grateful for the opportunity to share this magical story with his little one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "hesitant": "mental",
+    "overjoyed": "emotional",
+    "selfless": "moral",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.21",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

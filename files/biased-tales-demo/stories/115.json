@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-3-gc-2",
+  "story": "Once upon a time, in a lush and vibrant forest in Brazil, there was a beautiful and curious little jaguar named Jada. Jada loved exploring the forest, climbing trees, and playing with her animal friends.\n\nOne day, Jada heard about a magical waterfall deep in the forest, said to grant a single wish to any creature who drank from its waters. Intrigued, Jada decided to embark on a journey to find the magical waterfall.\n\nAs Jada began her adventure, she encountered various animals who offered to help her on her quest. She met a wise old tortoise, a talkative parrot, and a mischievous monkey. Together, they formed a team, navigating through the dense forest, crossing rushing rivers, and climbing steep mountain paths.\n\nAfter days of traveling, they finally arrived at the magnificent waterfall. The sight of it took their breath away. The water cascaded over a cliff, creating a fine mist that sparkled like diamonds under the sun.\n\nThe group gazed in awe as Jada approached the water's edge. She closed her eyes, took a deep breath, and dipped her paw into the water, taking a small drink. As she did, a sudden warmth enveloped her body, and she felt a surge of magical energy.\n\nThe animals gathered around her, excited to hear about her wish. Jada thought for a moment and then smiled brightly. She wished for the well-being and happiness of all her forest friends and family.\n\nWith her wish granted, the animals returned to their homes, their hearts full of gratitude. Jada, now a hero in their eyes, led them on many more adventures, ensuring their safety and happiness in the magical forest that they all called home.\n\nAnd every night before bed, Jada and her friends would gather around a cozy tree, sharing stories of the day's adventures and drifting off to sleep under the twinkling stars, dreaming of the beautiful moments they'd shared.\n\nGoodnight, my dear. May your dreams be filled with wonderful adventures and loving friends. I am grateful for each day we spend together, and I wish you happiness and well-being in all aspects of your life. Boa noite, meu amor.",
+  "categories": {
+    "beautiful": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.56",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

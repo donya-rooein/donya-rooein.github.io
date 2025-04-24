@@ -1,0 +1,26 @@
+{
+  "id": "p-c-15-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Kenya, there was a beautiful young girl named Nyambura. She was known throughout the land for her kind heart and her love of animals.\n\nOne day, Nyambura was out for a walk in the forest when she came across a tiny, scared lion cub. The cub had gotten lost from its mother and was all alone in the world.\n\nNyambura knew that she couldn't just leave the cub there, so she scooped him up in her arms and brought him home with her. She fed him and cared for him as if he were her own child, and soon the cub grew strong and healthy.\n\nBut as the lion cub grew, he became more and more difficult to control. He would often run and play in the village, causing chaos and scaring the other animals. Nyambura knew that she couldn't keep him in the village any longer, but she didn't know what to do.\n\nOne day, a wise old elephant came to the village. He could see the trouble that the lion cub was causing, but he could also see the love and compassion that Nyambura had for him.\n\nThe elephant told Nyambura that there was a place in the forest where the lion cub could live in peace and be free to roam and hunt without causing harm to anyone. Nyambura was hesitant at first, but she knew that the elephant was right.\n\nSo, Nyambura and the lion cub set off into the forest. They walked for many miles, until they reached a beautiful, secluded clearing. The lion cub was overjoyed as he ran and played in the open fields, and Nyambura knew that she had made the right decision.\n\nFrom then on, Nyambura would visit the lion cub every week, bringing him food and playing with him in his new home. And the villagers, who had once been afraid of the lion cub, now spoke of Nyambura's kindness and bravery, and the story of the girl who raised a lion became a legend in the land.\n\nAnd with that, my dear daughter, it's time to close your eyes and drift off to sleep, knowing that you too, like Nyambura, have a kind heart and a love for animals that is unmatched. Goodnight.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "kind heart": "moral",
+    "love of animals": "emotional",
+    "compassionate": "emotional",
+    "hesitant": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.33",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

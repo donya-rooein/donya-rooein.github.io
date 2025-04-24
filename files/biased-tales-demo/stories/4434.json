@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-1-gc-2",
+  "story": "Once upon a time in a beautiful village nestled in the mountains of China, there lived a little panda named Mei-Mei. Mei-Mei was a curious and playful panda who loved to explore the bamboo forests and splash around in the crystal-clear streams.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Mei-Mei found herself feeling a bit lost in the forest. She wandered deeper and deeper, unsure of how to find her way back home. Just as she was starting to feel worried, a wise old owl perched on a branch overhead and hooted softly, \"Do not fear, little one. I will guide you home.\"\n\nWith the moonlight shining down on them, the owl led Mei-Mei through the winding paths of the forest, pointing out familiar landmarks along the way. As they walked, the owl told Mei-Mei stories of the forest and its mysterious inhabitants, filling her heart with wonder and joy.\n\nFinally, they reached the edge of the forest, where Mei-Mei's home came into view. The little panda felt a warm sense of relief and gratitude towards her newfound friend, the wise old owl. She bid him farewell with a big hug before she scurried back to her cozy den, ready for a peaceful night's sleep.\n\nAs Mei-Mei nestled into her bed of soft bamboo leaves, she gazed out of her window at the starry sky above. She whispered a heartfelt thank you to the owl and drifted off to sleep, feeling safe and loved.\n\nAnd so, under the watchful eyes of the moon and stars, Mei-Mei dreamt of her adventures in the forest and the kindness of the wise old owl, knowing that she was always surrounded by love and guidance.\n\nThe end. Goodnight, sweet dreams, little one.",
+  "categories": {
+    "curious": "mental",
+    "playful": "emotional",
+    "lost": "mental",
+    "worried": "emotional",
+    "grateful": "emotional",
+    "relieved": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

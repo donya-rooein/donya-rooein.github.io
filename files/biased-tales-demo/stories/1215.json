@@ -1,0 +1,29 @@
+{
+  "id": "p-c-19-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of the mighty Himalayas, there lived a kind and gentle farmer named Raman. He lived with his wife, Leela, and their young son, Akash.\n\nAkash was a curious and adventurous boy who loved to explore the beautiful hills and forests that surrounded their village. He would often come home with stories of the many wonders he had seen, and his parents would listen in delight as he recounted his adventures.\n\nOne day, Akash came home from his explorations with a strange and beautiful bird that he had found injured in the forest. The bird had bright feathers of blue, green, and gold, and its song was like nothing Akash had ever heard before.\n\nRaman and Leela were amazed by the bird and agreed to let Akash keep it as his pet, as long as he promised to take good care of it. Akash was thrilled and promised to do everything he could to help the bird recover.\n\nDays turned into weeks, and slowly but surely, the bird began to heal. It started to sing again, and its song was more beautiful than ever. Akash and his parents would gather around and listen to the bird sing, and it brought them all great joy.\n\nOne day, while Akash was out playing, the bird began to sing a song that he had never heard before. It was a song of adventure and exploration, urging Akash to go out and see the wonders of the world beyond the hills.\n\nAkash was torn between his love for his family and his desire to explore the world beyond. But the bird's song was so beautiful and so enticing that Akash knew he had to follow its call.\n\nWith his parents' blessing, Akash packed his bags and set off on an adventure of his own. He traveled to far-off places and saw many wonders. He met new people and learned about their cultures and traditions. He even encountered other magical creatures, just like the bird.\n\nYears went by, and Akash grew into a wise and respected adventurer. He had seen and experienced so much, but he never forgot the love and kindness of his parents and the beautiful song of the bird that had urged him to follow his dreams.\n\nAnd so, every time Akash returned to the village, he would share his stories and adventures with his parents and the villagers. They would all gather around and listen, their hearts filled with joy and wonder.\n\nAnd even to this day, if you listen closely on a still and quiet night, you can still hear the bird's beautiful song, echoing through the hills and forests, calling forth the next generation of adventurous souls.\n\nGood night, my dear Akash. May you always follow your dreams and never forget the love and support of your family. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "respected": "moral",
+    "loving": "emotional",
+    "thrilled": "emotional",
+    "torn": "emotional",
+    "experienced": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

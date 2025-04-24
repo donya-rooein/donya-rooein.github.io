@@ -1,0 +1,24 @@
+{
+  "id": "p-c-11-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful land called Iran, there was a kind and curious little girl named Mahnoor. She lived in a cozy home in the heart of Tehran with her loving family - her mother, father, and younger brother.\n\nMahnoor was fascinated by the world around her and loved to learn about new things. She asked her parents and teachers many questions, and they were always happy to help her find answers.\n\nOne day, Mahnoor asked her father, \"Baba, why is the sky blue?\"\n\nHer father smiled and said, \"That's a great question, my dear. The sky appears blue because of a natural phenomenon called Rayleigh scattering. It occurs when the molecules and tiny particles in the Earth's atmosphere scatter short-wavelength light, such blue and violet light, to the sides more than other colors like red, yellow, or green. However, we see the sky as blue, not violet, because our eyes are more sensitive to blue light and because sunlight reaches us more strongly in the blue part of the spectrum.\"\n\nMahnoor's eyes sparkled with curiosity, and she asked, \"What about the stars, Baba? Why do we see them at night?\"\n\nHer father replied, \"Stars are giant balls of hot, glowing gases, much like our Sun. They emit light and heat, which travel through space and reach our eyes at night. During the day, the Sun's light is so bright that it outshines the light from the stars, making them difficult to see. But at night, when the Sun is no longer visible, the stars become visible to us.\"\n\nMahnoor was amazed by her father's knowledge and asked, \"Baba, can we visit the stars one day?\"\n\nHer father chuckled and said, \"Not yet, my dear. Space travel is still a challenge for humans, but scientists and engineers are working hard to make it possible. One day, you might be able to visit the stars and explore the wonders of the universe.\"\n\nMahnoor went to bed that night, dreaming of the stars and the mysteries of the universe. And as she drifted off to sleep, her father whispered in her ear, \"Goodnight, my sweet Mahnoor. May your dreams be filled with wonder and curiosity.\"\n\nAnd so, Mahnoor went to sleep, eager to learn more about the world around her and to explore the wonders of the universe.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "eager to learn": "mental",
+    "amazed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

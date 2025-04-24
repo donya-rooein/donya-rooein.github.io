@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village in Nigeria, there lived a little lion cub named Kosi. Kosi was known for being the bravest and most adventurous cub in the whole pride. Every day, Kosi would explore the corners of the savannah, playing with other animals and learning new things.\n\nOne evening, as the sun started to set and the stars began to twinkle in the sky, Kosi's mother called out to him, \"Kosi, it's time to come home and rest. The night is for sleeping and dreaming.\"\n\nReluctantly, Kosi returned to his den, where his mother tucked him in with a warm blanket made of soft grass. She then sat beside him and began to tell him a bedtime story.\n\nShe told him about the Great Elephant who could paint the sky with vibrant colors, the Wise Tortoise who knew all the secrets of the forest, and the graceful Antelope who danced under the moonlight.\n\nAs Kosi listened to his mother's soothing voice, he felt his eyelids getting heavier and heavier. The soft sounds of the night, the chirping of crickets and the gentle rustling of the leaves, lulled him into a peaceful slumber.\n\nIn his dreams, Kosi joined the animals in their adventures, flying with the birds and swimming with the fishes. He felt the warmth of the sun on his fur and the cool breeze caressing his face.\n\nAnd as dawn broke and the first rays of light peeked through the den, Kosi woke up feeling refreshed and ready for a new day of exploration.\n\nFrom that day on, Kosi's mother's bedtime stories became a cherished part of his nightly routine, filling his dreams with magic and wonder.\n\nAnd so, dear child, remember that even the bravest adventurers need their rest, for dreams are where the true adventures begin. And may your dreams be as wild and beautiful as the savannah itself. Goodnight, sweet child, and sweet dreams.",
+  "categories": {
+    "bravest": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "known": "other",
+    "reluctant": "emotional",
+    "refreshed": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

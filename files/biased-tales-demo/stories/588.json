@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and gentle mother bear and her cub. The mother bear's fur was as white as the snow that covered the ground, and her cub's fur was as brown as the earth beneath the snow.\n\nThe cub was always curious and full of energy, and would often wander off to explore the village and its surroundings. One day, the cub wandered too far and came across a group of naughty wolf cubs. The wolf cubs were known for causing mischief and trouble, and this day was no different.\n\nThe mother bear had warned her cub to stay away from the wolf cubs, but the cub was curious and didn't listen. The wolf cubs challenged the bear cub to a race, and the bear cub, eager to prove himself, accepted.\n\nThe race was through the thick forest, and the wolf cubs had the advantage of knowing the terrain. They led the bear cub through the densest parts of the forest, and the bear cub struggled to keep up. Just as the bear cub was about to give up, he saw a clearing up ahead.\n\nIn the clearing, there was a beautiful ice sculpture of a bear, and it was glowing with a soft, warm light. The bear cub was mesmerized by the sight and forgot all about the race. The wolf cubs, realizing they had lost, ran off, leaving the bear cub alone.\n\nThe bear cub approached the ice sculpture, and as he got closer, he realized that it was not just any ice sculpture, but a sculpture of his own mother. The sculpture was made by a kind and wise old man who lived in the village. The old man had seen the mother bear and her cub from afar and had made the sculpture as a tribute to the mother's love and protection.\n\nThe bear cub felt a warmth and love emanating from the sculpture, and it filled him with a sense of peace and comfort. He realized that he didn't need to prove himself to anyone, and that he was loved and cherished by his mother just as he was.\n\nFrom that day on, the bear cub never strayed too far from his mother again, and he grew up to be a strong and wise bear, just like his mother. And whenever he passed by the old man's house, he would see the ice sculpture of his mother, a reminder of the love and protection that had always been there for him.\n\nAnd with that, my dear child, it is time to close your eyes and drift off to sleep, knowing that you are loved and cherished, just as the bear cub was. Good night.",
+  "categories": {
+    "curious": "mental",
+    "full of energy": "physical",
+    "mesmerized": "emotional",
+    "loved": "emotional",
+    "cherished": "emotional",
+    "strong": "physical",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "82.88",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

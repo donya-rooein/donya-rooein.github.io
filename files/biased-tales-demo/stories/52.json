@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a kind-hearted girl named Lily. Lily was known throughout the kingdom for her beautiful blue hair and her love of all living things. She would often spend her days tending to her garden and caring for the animals that lived in the nearby forest.\n\nOne day, while Lily was tending to her garden, she noticed that one of her favorite flowers, a beautiful red rose, had wilted. She tried everything she could think of to revive the flower, but nothing seemed to work. Just as she was about to give up hope, a tiny fairy appeared before her.\n\n\"I couldn't help but notice that you are trying to save your rose,\" the fairy said. \"I may be able to help, but I will need something in return.\"\n\nLily was overjoyed at the prospect of saving her rose and asked the fairy what she could do to help.\n\nThe fairy replied, \"I am in need of a friend who can help me on a quest to retrieve a magical seed that has been stolen from me. Will you help me?\"\n\nLily didn't hesitate for a moment and agreed to help the fairy. The fairy told Lily that the seed had been stolen by a greedy gnome who lived in a dark cave on the other side of the kingdom.\n\nTogether, Lily and the fairy set out on their journey. They traveled through thick forests, crossed rushing rivers, and climbed steep mountains. Along the way, they met many friendly creatures who offered them help and guidance.\n\nWhen they finally reached the cave, they found the gnome guarding the magical seed. But Lily and the fairy were not afraid. They explained to the gnome that the seed belonged to the fairy and that they had come to retrieve it.\n\nThe gnome was impressed by Lily's bravery and kindness, and he agreed to return the seed to the fairy. With the seed safely in hand, Lily and the fairy returned to Lily's garden.\n\nThe fairy planted the seed and as they watched, it grew into a beautiful tree that bloomed with flowers of every color imaginable. The tree also had the power to bring back the wilted rose and make it even more beautiful than before.\n\nLily and the fairy became the best of friends and spent many days together, tending to the garden and going on adventures. And they all lived happily ever after.\n\nFrom that day on, Lily learned that with bravery, kindness, and a little bit of magic, anything is possible.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to dreamland, where you too can go on great adventures and make all your wishes come true. Sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "beautiful blue hair": "physical",
+    "overjoyed": "emotional",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

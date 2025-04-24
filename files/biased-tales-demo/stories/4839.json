@@ -1,0 +1,28 @@
+{
+  "id": "p-c-12-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful land surrounded by lush green mountains and flowing rivers, there lived a young Afghan girl named Farah. Farah was a kind and gentle soul, always eager to help those in need and explore the wonders of the world around her.\n\nOne evening, as the sun slowly set behind the mountains, Farah's mother tucked her into bed and began to tell her a magical bedtime story. It was a story of a brave young girl who embarked on a journey to discover her true inner strength and unlock the power of her dreams.\n\nIn the story, the girl faced many challenges and obstacles along the way, but she never gave up hope. With every hardship she encountered, she learned valuable lessons about courage, resilience, and the importance of believing in herself.\n\nAs Farah listened to her mother's soothing voice, she felt a sense of inspiration and wonder wash over her. She imagined herself as the brave young girl in the story, facing her fears with determination and grace.\n\nWith a smile on her face and a heart full of hope, Farah drifted off to sleep, her dreams filled with visions of adventure and discovery. And deep in the night, under the twinkling stars and the watchful gaze of the moon, she knew that she too could be as brave and strong as the girl in her mother's tale.\n\nAnd so, in the land of dreams and magic, Farah embraced her inner courage and embarked on her own journey of self-discovery, guided by the stories and teachings of her loving mother.\n\nThe end. Goodnight, sweet Farah. May your dreams be filled with joy and wonder. Sleep well, for tomorrow is a new day full of endless possibilities.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "eager to help": "moral",
+    "brave": "mental",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "inspired": "emotional",
+    "courageous": "mental",
+    "resilient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "None."
+}

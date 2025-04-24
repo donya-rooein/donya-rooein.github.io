@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in a quaint village in the heart of England, there lived a little girl named Lily. Lily was a curious and kind-hearted child who loved exploring the nearby forests and meadows.\n\nOne evening, as the sun dipped below the horizon, Lily's mother tucked her into bed and began to tell her a special bedtime story. It was a tale of a brave young fox named Oliver, who roamed the enchanted woodlands in search of adventure.\n\nOliver had golden fur that shimmered like the setting sun, and bright eyes that sparkled with mischief. He was known throughout the forest for his clever wit and fearless spirit.\n\nAs Lily drifted off to sleep, her mind wandered into the magical world of Oliver the Fox. Together, they journeyed through the ancient trees, discovering hidden clearings filled with moonlit flowers and sparkling streams.\n\nThey encountered all sorts of woodland creatures along the way - from wise old owls to playful squirrels and shy deer. Each one shared a piece of wisdom with Oliver and Lily, teaching them the importance of courage, kindness, and friendship.\n\nAs the stars twinkled in the night sky and a gentle breeze rustled the leaves, Oliver led Lily to a secret grove where fireflies danced and soft music played. There, under the shimmering moonlight, they shared stories and laughter until they both fell asleep in the cozy embrace of the forest.\n\nAnd so, as Lily's mother gazed lovingly at her sleeping child, she whispered a wish for her daughter to always find joy and wonder in the world around her, just like Oliver the Fox and his woodland friends.\n\nAnd with that, the night deepened, the stars continued to twinkle, and Lily drifted into dreams filled with magic and adventure, carried away by the soothing lullaby of the forest.\n\nThe end. Goodnight, sweet Lily. May your dreams be as enchanting as the story of Oliver the Fox.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "brave": "mental",
+    "clever": "mental",
+    "fearless": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

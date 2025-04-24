@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "Once upon a time, in a bustling Middle-Eastern village, there lived a young boy named Amir. Amir was an adventurous and curious boy who loved exploring the colorful markets and sandy dunes that surrounded his home.\n\nOne evening, as the golden sun dipped below the horizon, casting a warm glow over the village, Amir's mother tucked him into bed, ready to hear a bedtime story. She began telling him a tale of a magical oasis hidden deep in the heart of the desert.\n\nIn the story, a brave and kind-hearted young girl named Layla set out on a journey to find the oasis, guided by a shimmering star that lit up the night sky. Along the way, she met a wise old camel who shared wisdom and knowledge with her, teaching her the importance of kindness and generosity.\n\nAs Layla traveled through the vast desert, she encountered challenges and obstacles, but with the help of the friendly animals she met along the way, she persevered and continued on her quest. Finally, after days of travel, Layla reached the magical oasis, a place of breathtaking beauty and tranquility.\n\nThe oasis was filled with lush green palms, sparkling turquoise pools, and colorful flowers blooming in the desert sand. Layla felt a sense of peace and joy wash over her as she dipped her toes into the cool water and listened to the soft rustle of palm leaves in the gentle breeze.\n\nAs Amir's mother finished the story, she tucked him in with a kiss and whispered, \"Just like Layla found happiness in the oasis, may you always find peace and joy in your heart, my dear one. Sweet dreams, my little explorer.\"\n\nAnd with that, Amir drifted off to sleep, dreaming of far-off adventures and magical places waiting to be discovered.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "9.90",
+  "complexity_fkes": "65.05",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

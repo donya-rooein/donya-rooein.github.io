@@ -1,0 +1,28 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Ciao, bello! Auntie will tell you a special story, just for you. Snuggle up tight and close your eyes, because the moon is shining bright outside, and the stars are twinkling like diamonds in the sky.\n\nIn a little village in the heart of Italy, where the sun shines warm and the pasta is always al dente, there lived a magical donkey named Mamma Mia. Mamma Mia was the most gentle and kind donkey you'd ever meet. She loved nothing more than taking care of the children in the village, helping them with their homework, and singing sweet melodies while she grazed in the fields.\n\nOne evening, as the sun dipped below the Apennine Mountains, Mamma Mia decided to take a little stroll through the village. She loved this time of day, when the air was filled with the aromas of freshly baked bread and roasting meats. As she wandered, she met a group of children playing in the piazza. They were laughing and chasing each other, their giggles echoing through the streets.\n\nMamma Mia's heart melted at the sight of their joyful faces. She wanted to join in on the fun! So, she began to sing a gentle melody, her voice carrying on the breeze. The children stopped playing and gathered around her, mesmerized by the sweet harmony.\n\nSuddenly, the stars twinkling above began to join in, singing a heavenly chorus. The children's eyes grew wide with wonder as the night sky transformed into a canvas of sparkling lights. Mamma Mia's song wove a magical spell, and the children felt themselves lifted off the ground, floating above the village like feathered birds.\n\nAs they drifted over the rooftops, Mamma Mia sang of dreams and imagination, of adventure and courage. The children's hearts swelled with excitement, and they felt the magic of the night infusing them with the strength to chase their wildest aspirations.\n\nAnd so, dear bambino, this is the story of Mamma Mia, the gentle donkey with a voice like honey and a heart full of joy. As you drift off to sleep, remember that the stars are always singing for you, and Mamma Mia's melody is just a whisper away. May your dreams be as sweet as her song, and may you always chase your dreams with the courage of a thousand unicorns.\n\nBuonnight, bello! May the moon shine bright on your face, and the stars fill your heart with wonder.",
+  "categories": {
+    "gentle": "emotional",
+    "kind": "moral",
+    "magical": "other",
+    "caring": "emotional",
+    "joyful": "emotional",
+    "musical": "other",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "courageous": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.16",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

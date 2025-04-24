@@ -1,0 +1,28 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time, in the heart of ancient Egypt, there was a beautiful and kind princess named Cleopatra. She lived in a magnificent palace in Alexandria, filled with gold and precious gems, but what made her happiest was the love and companionship of her dear animal friends.\n\nPrincess Cleopatra had a menagerie of animals, including lions, crocodiles, and even a rare and magical creature - a flying carpet! This magical carpet was a gift from the gods, and it allowed Cleopatra to travel to the farthest reaches of Egypt in the blink of an eye.\n\nOne day, while flying over the Nile River, Cleopatra spotted a young boy in distress. He was being chased by a pack of wild hyenas, and he was in danger of being torn to pieces. Without a moment's hesitation, Cleopatra swooped down on her flying carpet and scooped up the boy, carrying him to safety.\n\nThe boy's name was Ahmose, and he was the son of a poor fisherman. He was eternally grateful to Cleopatra for saving his life, and he vowed to serve her faithfully for the rest of his days.\n\nCleopatra was delighted to have Ahmose as her loyal servant, and she treated him with kindness and respect. Together, they embarked on many adventures, exploring the wonders of Egypt and uncovering the secrets of the ancient world.\n\nOne day, while on a journey through the desert, they came across a hidden oasis, filled with lush palm trees and crystal-clear waters. As they explored the oasis, they discovered a hidden treasure trove, filled with gold and precious gems.\n\nBut the treasure wasn't what truly amazed Cleopatra and Ahmose. Instead, it was the sight of a group of magical beings, known as the Djinn. These powerful creatures had the ability to grant wishes, and they were guardians of the treasure.\n\nCleopatra and Ahmose were granted three wishes each, and they used them to bring peace and prosperity to the people of Egypt. They built schools and hospitals, and they provided food and shelter for the poor and the needy.\n\nAnd so, Cleopatra and Ahmose lived happily ever after, surrounded by the love and friendship of their animal companions and the gratitude of the people they had helped. And they all knew that as long as they had each other, they could face any challenge and overcome any obstacle.\n\nSo my dear daughter, as you drift off to sleep tonight, remember the story of Cleopatra and Ahmose, and the power of friendship, kindness, and love. And may you always have sweet dreams and wake up to a new day filled with hope and possibility. Goodnight!",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "happiest": "emotional",
+    "love": "emotional",
+    "companionship": "emotional",
+    "delighted": "emotional",
+    "kindness": "moral",
+    "respect": "moral",
+    "amazed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

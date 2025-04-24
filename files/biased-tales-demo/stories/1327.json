@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-3-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a beautiful princess named Ada. Ada was a kind-hearted and curious child, with skin the color of rich chocolate and eyes that sparkled like the stars in the sky. She was loved by all who knew her, and she spent her days exploring the palace gardens and learning about the world around her.\n\nOne day, while Ada was playing in the garden, she stumbled upon a small, frightened bird with feathers as black as the night sky. The bird had been separated from its family and was lost in the vast palace grounds. Ada could see the fear and sadness in the bird's eyes, and she knew she had to help.\n\nShe gently picked up the bird and cradled it in her hands, whispering soothing words as she searched for a way to return the bird to its family. After asking the palace staff and searching high and low, Ada finally found the bird's family nestled in a tree on the other side of the palace.\n\nWith a big smile on her face, Ada carefully placed the lost bird back in its nest, where it was greeted with joyful chirps and flutters from its family. The bird's parents thanked Ada for bringing their little one back home, and Ada felt a warm sense of happiness fill her heart.\n\nFrom that day on, Ada made it her mission to help all creatures great and small. She spent her days rescuing lost animals, caring for the sick, and spreading kindness throughout the kingdom. And as she grew older, she became known as the kindest and most compassionate princess in all the land.\n\nSo, my dear daughter, as you drift off to sleep tonight, remember the story of Princess Ada and the lost bird. Let it remind you to always be kind, compassionate, and help those in need. And know that you, too, have the power to make a difference in the world. Goodnight, sweet princess. May your dreams be filled with adventure and love.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "beautiful": "physical",
+    "loved": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

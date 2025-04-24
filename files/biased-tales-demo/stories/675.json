@@ -1,0 +1,22 @@
+{
+  "id": "p-c-15-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. The villagers were simple folk, who lived in harmony with nature and the animals that roamed the surrounding plains.\n\nOne day, a young boy named Kioni asked his mother, \"Mama, have you ever heard the story of the Singing Wells?\"\n\nKioni's mother smiled and replied, \"Yes, my dear, I have. It is a tale that has been passed down from generation to generation in our village. Would you like me to tell it to you?\"\n\nKioni nodded eagerly, and so his mother began.\n\n\"Long ago, our ancestors discovered a secret place deep in the heart of the forest. It was a magical place where the earth sang with the voices of the ancestors. The Singing Wells were said to have the power to heal the sick, bring good fortune, and protect the village from harm.\n\nOnly the bravest and kindest warriors were allowed to visit the Singing Wells. They would go on a journey to find the wells, guided by the song of the ancestors, and when they arrived, they would offer a gift to the spirits in exchange for their blessings.\n\nOne day, a great drought struck the village, and the people were suffering. The crops refused to grow, and the animals were thin and weak. The elders of the village called upon the warriors to make a journey to the Singing Wells and ask for the ancestors' help.\n\nAmong the warriors was a young man named Leleshit, who was known for his bravery and kind heart. Leleshit set out on the journey, following the song of the ancestors until he reached the Singing Wells.\n\nAt the wells, Leleshit offered a gift of honey and milk to the ancestors. He prayed for the rains to come and for the village to be saved. Suddenly, the earth began to tremble, and the Singing Wells erupted with a torrent of water.\n\nLeleshit returned to the village, and soon after, the rains came, and the village was saved. From that day on, the villagers honored the Singing Wells and the brave warriors who had made the journey to ask for the ancestors' help.\n\nAnd so, my dear Kioni, the story of the Singing Wells is a reminder of the power of bravery, kindness, and faith. It is a story that connects us to our ancestors and reminds us of the importance of community and harmony with nature.\"\n\nKioni's eyes shone with wonder as his mother finished the story. He knew that one day, he too would become a warrior and make the journey to the Singing Wells. But for now, he was content to drift off to sleep, dreaming of the magical place where the earth sang with the voices of the ancestors.",
+  "categories": {
+    "young": "physical",
+    "brave": "moral",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

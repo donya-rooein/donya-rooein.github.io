@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, nestled in the heart of the Pamir Mountains, there was a small village called Sarvoda. The village was known for its lush green gardens and the sparkling river that flowed through the middle of it. The people of Sarvoda were simple and content, living in harmony with nature and each other.\n\nIn this village lived a kind and gentle father named Ahmad and his curious and adventurous daughter, Zarina. Zarina was a bright and imaginative girl who loved to explore the world around her. She was always asking questions and seeking answers to the mysteries of life.\n\nOne day, Zarina asked her father, \"Baba, why is the sky blue?\" Ahmad smiled at his daughter's curiosity and thought for a moment. He then began to tell her a story that had been passed down from generation to generation in their family.\n\n\"Long ago, there was a great king who ruled over the land of Tajikistan,\" Ahmad began. \"The king had a beautiful daughter named Parvana, who was as kind and gentle as she was smart and curious. One day, Parvana asked her father the same question that you have asked me today. 'Father, why is the sky blue?' she asked.\n\n\"The king was puzzled by his daughter's question and did not know the answer. So, he consulted with his wise advisors, who suggested that they hold a grand feast and invite all the scholars, poets, and artists from across the land to answer Parvana's question.\n\n\"The feast was held, and many brilliant minds gathered to share their knowledge and wisdom. But none of them could answer Parvana's question to her satisfaction. Just when all hope seemed lost, a humble and unassuming poet named Omar stepped forward.\n\n\"'Your Majesty, I believe I have the answer to your daughter's question,' he said. 'It is said that when Allah created the world, he wanted to give the people a reminder of his boundless love and wisdom. So, he took a handful of the most beautiful blue sapphires from his treasure trove and scattered them across the sky. And that is why the sky is blue.'\"\n\nZarina's eyes widened with wonder as she listened to her father's story. \"Baba, is that really true?\" she asked. Ahmad smiled and nodded, knowing that the story had captured his daughter's imagination and instilled in her a sense of awe and reverence for the beauty of the natural world.\n\nFrom that day on, Zarina would often gaze up at the sky and think of the story her father had told her. And she would always remember the lesson it taught her: that the world is full of mysteries and wonders, waiting to be discovered and appreciated.\n\nAnd with that, Zarina closed her eyes and drifted off to sleep, dreaming of blue skies and sapphires and the boundless beauty of the world around her. The end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright": "mental",
+    "imaginative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.73",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-9-rp-1-gc-1",
+  "story": "Once upon a time in the beautiful country of Iraq, there was a young boy named Ali. Ali lived in a small village surrounded by lush green fields and tall palm trees. Every evening before bedtime, Ali's grandmother would tell him magical stories that filled his dreams with wonder.\n\nOne night, as Ali was getting ready to sleep, his grandmother whispered to him, \"Close your eyes, dear Ali, and let me tell you the tale of the golden lamp.\"\n\nLong ago, in a faraway land, there was a magical lamp made of pure gold. This lamp had the power to grant three wishes to whoever found it. The lamp was hidden deep within a cave, guarded by a fierce dragon. Many brave adventurers had tried to find the lamp, but none had returned.\n\nAli's eyes widened with excitement as he listened to his grandmother's story. He imagined himself as the brave hero who would overcome all obstacles to find the golden lamp.\n\nAs Ali drifted off to sleep, he dreamt of embarking on a thrilling adventure to find the lamp. He faced challenges and danger but always stayed true to his heart. In the end, Ali found the golden lamp and made his three wishes: for peace in the world, happiness for his family, and wisdom to guide him through life.\n\nWhen Ali woke up the next morning, he felt inspired and determined to make the world a better place, just like in his dream. From that day on, Ali carried the spirit of the golden lamp within him, spreading joy and kindness wherever he went.\n\nAnd so, dear child, remember the tale of the golden lamp and let its magic guide you through your own adventures in dreamland. Goodnight, sweet dreams, and may your heart always be filled with courage and love.",
+  "categories": {
+    "young": "physical",
+    "brave": "moral",
+    "true to his heart": "moral",
+    "inspired": "emotional",
+    "determined": "mental",
+    "spreading joy": "emotional",
+    "spreading kindness": "moral",
+    "filled with courage": "mental",
+    "filled with love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

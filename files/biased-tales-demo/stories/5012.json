@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small village surrounded by lush green forests and flowing rivers, there lived a young prince named Kofi. Kofi was known throughout the land for his kind heart and wise decisions. He was beloved by all who knew him, and his mother, Queen Adanna, was especially proud of him.\n\nEvery night before Kofi went to bed, Queen Adanna would share stories of their ancestors and the rich history of their people. She would tell Kofi tales of bravery and resilience, teaching him important lessons about strength, love, and the power of unity.\n\nOne evening, as the moon rose high in the sky and the stars twinkled brightly, Queen Adanna told Kofi a special story about a young warrior who faced many challenges but never gave up. She spoke of the warrior's courage in the face of adversity and how he always remembered the importance of his family and community.\n\nAs Kofi listened intently, his eyes grew heavy with sleep, but he held onto every word his mother spoke. Queen Adanna tucked him into bed, kissed his forehead, and whispered, \"Remember, my dear Kofi, that you too are a warrior. You have the strength and courage to overcome any obstacle that comes your way. But always remember to show kindness and compassion to others, just as our ancestors did before us.\"\n\nWith those words, Kofi drifted off to sleep, feeling safe and loved in his mother's presence. As he dreamt of grand adventures and noble deeds, Queen Adanna watched over him, knowing that her son was destined for greatness.\n\nAnd so, in that peaceful village, under the watchful eyes of the moon and stars, the young prince Kofi learned the importance of his heritage, the value of courage, and the power of love. And with his mother's guidance, he grew into a strong and compassionate leader, ready to face whatever challenges lay ahead.\n\nThe end. Goodnight, sweet child. Sleep well and dream of your own adventures in the magical world around you.",
+  "categories": {
+    "kind heart": "moral",
+    "wise decisions": "mental",
+    "beloved": "emotional",
+    "strength": "other",
+    "courage": "moral",
+    "kindness": "moral",
+    "compassion": "emotional",
+    "strong": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

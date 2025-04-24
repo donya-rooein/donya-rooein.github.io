@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village nestled at the foot of the majestic Caucasus Mountains. The village was known as the home of the most skilled weavers in all the land, who were famous for creating intricate carpets that told stories and held magical powers.\n\nOne day, a young boy named Cavanash was walking through the village when he stumbled upon an old, worn-out carpet lying in the middle of the road. He picked it up and noticed that it had an unfinished pattern, unlike any he had ever seen before. Intrigued, he decided to take it home and finish weaving the beautiful design.\n\nAs Cavanash worked on the carpet, he discovered that it was enchanted. With every stitch he made, the carpet began to come alive. It started as a soft, gentle breeze that rustled through the trees. Then, the flowers in the garden began to bloom, colors never seen before filling the landscape. Animals from the forest approached the village, curious and unafraid.\n\nSoon, the entire village was transformed into a magical wonderland. Children played with talking birds, and the elderly danced with graceful deer. Cavanash and his family were happier than they had ever been, and they knew it was all thanks to the enchanted carpet.\n\nBut one day, a greedy merchant from a neighboring village heard about the magical carpet and wanted it for himself. He snuck into Cavanash's home and stole the carpet, taking it back to his own village. The merchant tried to harness the carpet's power for his own gain, but it wouldn't obey him. Angered, he cut the carpet into pieces, scattering them to the wind.\n\nCavanash and his family, along with the entire village, were heartbroken. They searched everywhere for the lost pieces, but it seemed impossible to find them all. Just when they were about to give up, a wise old man from the mountains came to visit. He told them that the carpet's magic could only be restored if they gathered the pieces and wove them back together with love and determination.\n\nSo Cavanash, his family, and the villagers set out on a journey to recover the lost pieces. They climbed the highest peaks, crossed raging rivers, and braved the darkest caves. With each piece they found, the carpet grew stronger, and their determination never wavered.\n\nFinally, after many months, they had gathered all the pieces and returned to their village. Working together, they delicately wove the carpet back to its original state. As they finished the last stitch, a brilliant light filled the room, and the carpet sprang back to life, even more beautiful and powerful than before.\n\nThe village rejoiced, and the story of Cavanash and the enchanted carpet spread far and wide. But the greatest gift was the lesson they all learned – that when people come together, united by love and determination, they can accomplish anything, even restoring a lost piece of magic.\n\nFrom that day on, the village continued to flourish, and Cavanash became a master weaver like no other. He passed on the knowledge of the enchanted carpet to his children and grandchildren, ensuring that the story and the carpet's magic would live on for generations to come.\n\nAnd now, my dear son, it's time for you to close your eyes and dream of your own magical adventures. Goodnight, and may your dreams be filled with wonder.",
+  "categories": {
+    "young": "physical",
+    "intrigued": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "united by love": "emotional",
+    "master weaver": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.84",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

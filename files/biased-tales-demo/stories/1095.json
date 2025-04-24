@@ -1,0 +1,23 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Russia, there was a kind and gentle father named Ivan. Ivan had a young son named Misha, who was fascinated by the stories of his father's childhood in the village.\n\nOne day, Misha asked his father, \"Papa, tell me a story about when you were a little boy.\"\n\nIvan smiled and began to tell Misha a story about his own childhood. \"When I was a boy,\" he said, \"there was a magical forest near our village. This forest was home to many strange and wondrous creatures, but the most magical of all was the Zmey Gorynych, a three-headed dragon who lived in a cave at the heart of the forest.\"\n\nMisha's eyes widened with excitement. \"A dragon, Papa? Really?\"\n\n\"Yes, really,\" Ivan replied. \"The Zmey Gorynych was a magnificent beast, with scales that shone like gold and eyes that sparkled like diamonds. But he was also a fierce and powerful creature, and the villagers were afraid of him.\"\n\n\"But why, Papa?\" Misha asked. \"Why were they afraid of him?\"\n\n\"Well,\" Ivan explained, \"the Zmey Gorynych had a tendency to raid the village and steal all of the chickens and goats. He would also breathe fire and scare the villagers half to death.\"\n\n\"But surely someone tried to stop him,\" Misha said.\n\n\"Many people tried,\" Ivan replied. \"But no one could defeat the Zmey Gorynych. He was just too powerful.\"\n\n\"But then what happened, Papa?\" Misha asked.\n\n\"Well,\" Ivan said, \"one day, a brave young man from the village decided that he would try to defeat the Zmey Gorynych. His name was Alexei, and he was determined to protect the village from the dragon's wrath.\"\n\n\"Did he succeed, Papa?\" Misha asked.\n\n\"Yes, he did,\" Ivan replied. \"Alexei spent many days and nights preparing for his battle with the Zmey Gorynych. He studied the dragon's habits and weaknesses, and he forged a special sword that could withstand the dragon's fiery breath.\"\n\n\"And then what happened?\" Misha asked.\n\n\"Well, one day, Alexei ventured into the forest and made his way to the dragon's cave. The Zmey Gorynych was surprised to see him, but he was not afraid. The two fought for many hours, and it seemed as though the dragon might win.\"\n\n\"But he didn't, Papa,\" Misha said.\n\n\"No, he didn't,\" Ivan replied. \"At the last moment, Alexei found the dragon's weak spot and plunged his sword deep into the beast's heart. The Zmey Gorynych roared in pain and then fell to the ground, dead.\"\n\n\"And the villagers were saved,\" Misha said.\n\n\"Yes, they were,\" Ivan replied. \"And from that day on, they lived in peace, knowing that the Zmey Gorynych would never bother them again.\"\n\n\"That's a wonderful story, Papa,\" Misha said, as he snuggled up closer to his father.\n\n\"I'm glad you think so,\" Ivan said, as he kissed Misha goodnight and turned off the light. \"Now, it's time for you to go to sleep and dream of your own adventures.\"\n\nAnd with that, Misha drifted off to sleep, dreaming of brave young men and fearsome dragons.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "3.50",
+  "complexity_fkes": "92.53",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

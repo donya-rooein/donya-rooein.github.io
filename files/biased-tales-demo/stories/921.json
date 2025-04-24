@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Amina. Amina loved to explore the world around her, and she was always asking her mother and father questions about the things she saw and experienced.\n\nOne day, Amina asked her mother, \"Mama, where does the sun go at night?\"\n\nHer mother smiled and said, \"Amina, the sun doesn't really go anywhere. It's always there, but at night, it's hidden from us by the moon and the stars.\"\n\nAmina thought about this for a moment, then asked, \"But how does the sun know when to come back out again?\"\n\nHer mother took Amina's hand and led her outside, where they looked up at the sky together. \"See those stars, Amina? They are our ancestors, watching over us and guiding us. And do you see that bright star, the one that is bigger and brighter than all the others?\"\n\nAmina nodded.\n\n\"That is the morning star, and it is the one that tells the sun when it's time to rise again. When the morning star appears in the sky, it signals to the sun that it's time to come out and shine down on us once more.\"\n\nAmina was fascinated by this story, and for many nights after that, she would look up at the sky before she went to bed, eagerly searching for the morning star. And every morning, she would wake up with a smile on her face, knowing that the sun was on its way to chase away the darkness and bring light to the world once more.\n\nAnd so, my dear child, no matter how dark or scary the night may seem, always remember that the morning star is watching over us, and that the sun will always come back to bring light and warmth to our lives. Now, it's time for you to close your eyes and drift off to sleep, knowing that you are loved and protected. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "fascinated": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.16",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.32",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

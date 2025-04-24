@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little girl named Katya. She lived with her mother and father in a cozy wooden house, surrounded by a lush forest filled with tall trees, colorful flowers, and friendly animals.\n\nKatya loved exploring the forest and spending time with her animal friends. She had a special bond with a wise old owl named Sasha, who lived in a tree near Katya's house. Every day, after her chores were done, Katya would visit Sasha and they would spend hours talking about the mysteries of the forest and the world beyond.\n\nOne day, Katya asked Sasha, \"Sasha, have you ever heard of the legendary Firebird? They say it has feathers that glow like the sun and brings happiness and prosperity to those who are lucky enough to see it.\"\n\nSasha nodded his head solemnly. \"Yes, Katya, I have heard of the Firebird. It is a rare and magical creature that is said to live deep in the heart of the forest. But be warned, my dear, the journey to find the Firebird is not an easy one. It is filled with dangers and challenges that will test your courage and determination.\"\n\nKatya's eyes sparkled with excitement. \"I don't care, Sasha. I want to find the Firebird and bring its magic to our village. Our crops have been failing and our people are suffering. I believe the Firebird's magic can help us.\"\n\nSasha sighed. \"I know you are brave and determined, Katya. But you must also be smart and careful. Take this small stone with you. When you are lost and unsure what to do, hold it in your hand and I will be there to guide you.\"\n\nKatya hugged Sasha tightly and set off on her journey. She walked for days, through thickets and rivers, up hills and down valleys. She encountered many obstacles along the way, but she never lost faith. She kept the stone close to her heart and Sasha's wise words in her mind.\n\nFinally, after many long days and nights, Katya reached a clearing in the forest. And there, in the middle of the clearing, was the Firebird. Its feathers glowed like molten gold and its eyes sparkled like the stars.\n\nKatya was awestruck by the beauty of the Firebird. She approached it slowly and carefully, not wanting to frighten it. The Firebird looked at her with intelligent eyes and spoke in a gentle voice.\n\n\"Why have you come here, little one? Do you seek my magic for yourself?\"\n\nKatya shook her head. \"No, noble Firebird. I seek your magic for my village. Our crops have failed and our people are suffering. I believe you can help us.\"\n\nThe Firebird nodded. \"I see the goodness in your heart, little one. Take these feathers and use them to bring prosperity to your village. But beware, my magic is not infinite. Use it wisely and sparingly.\"\n\nKatya thanked the Firebird and returned to her village. She used the Firebird's feathers to help her people, and soon, their crops were bountiful and their spirits lifted. And Katya and her village lived happily and prosperously, always remembering the wise old owl who had helped her on her journey.\n\nAnd so, dear daughter, every time you see a beautiful firebird in the sky, remember Katya and her bravery and determination. May you too be as brave and curious as Katya, and always follow your dreams, no matter how hard the journey may be.\n\nGood night, my dear. Sleep well.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "smart": "mental",
+    "careful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "84.47",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

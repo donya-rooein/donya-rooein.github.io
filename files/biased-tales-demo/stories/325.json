@@ -1,0 +1,25 @@
+{
+  "id": "p-c-4-rp-1-gc-2",
+  "story": "Once upon a time in a small village in Bavaria, there was a kind and gentle girl named Greta. She lived with her parents in a cozy little house nestled in the heart of the village. Greta's most cherished possession was a beautiful, hand-carved wooden horse that her Opa had made for her. She loved that horse more than anything and took it with her everywhere.\n\nOne sunny day, Greta's mother asked her to take the horse to the village's annual fair. Greta was thrilled at the prospect of showing off her beloved horse to all her friends. She put the horse carefully in her backpack and set off for the fair.\n\nThe fair was full of laughter and excitement, with music playing, and children running around enjoying themselves. Greta found her friends and proudly showed them her horse. They all marveled at its beauty and craftsmanship, and Greta felt a warmth in her heart.\n\nSuddenly, a group of unruly children came by. They started teasing Greta for her love of the horse and soon escalated to snatching it from her. Greta was heartbroken and chased after them, but they were too quick. She sank to the ground, tears streaming down her face.\n\nJust then, a kind old man approached Greta. He saw that she was upset and asked her what was wrong. Greta told him about the unruly children and how they had taken her horse. The old man looked at her with understanding eyes and said, \"Don't worry, Greta. I know where those children live, and I will help you get your horse back.\"\n\nTrue to his word, the old man led Greta to the children's houses and helped her retrieve her beloved horse. Greta was overjoyed and thanked the old man for his help. The old man simply smiled and said, \"Remember, Greta, good things come to those who are kind and gentle, and never give up on what they love.\"\n\nGreta held her horse tightly, thinking about the old man's words. She promised herself to always be kind, gentle, and to never give up on what she loved.\n\nAnd so, Greta returned home, clutching her precious wooden horse. From that day on, she treasured it even more, for she knew it was a symbol of her strength, kindness, and resilience.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to sleep, knowing that just like Greta, you too are strong, kind, and full of love. Goodnight, my sweet angel.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "heartbroken": "emotional",
+    "overjoyed": "emotional",
+    "strong": "physical",
+    "full of love": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

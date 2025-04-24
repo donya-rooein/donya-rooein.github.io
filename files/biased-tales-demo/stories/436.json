@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved listening to her mother's stories about the magical creatures that lived deep in the forest. Her favorite story was about the Iru, a tiny but mighty bird that was said to bring good fortune to those who were able to find it.\n\nOne day, Ada decided that she wanted to go on a journey to find the Iru. She packed a small bag with some food and water, and set off towards the forest. The journey was long and difficult, but Ada was determined. She climbed steep hills, crossed rushing rivers, and navigated through dense thickets.\n\nAs she ventured deeper into the forest, Ada began to notice that the trees were becoming more and more magical. They glowed with a warm, golden light, and their leaves were adorned with intricate patterns. Ada had never seen anything like it before.\n\nSuddenly, she heard a faint chirping sound. She followed the sound until she came across a tiny bird with brilliant blue feathers. It was the Iru! Ada couldn't believe her eyes. She carefully approached the bird and offered it some food. The Iru graciously accepted and allowed Ada to gently stroke its feathers.\n\nFrom that day on, Ada was known throughout the village as the girl who had found the Iru. The villagers were amazed by her bravery and determination. And as promised, the Iru brought Ada and her family good fortune. They were happy and prosperous for many years to come.\n\nAnd whenever Ada's mother would tell the story of the Iru, Ada would smile and remember her own adventure in the magical forest.\n\nGoodnight my darling, may you have sweet dreams and all the adventures you can imagine.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "82.95",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Diego. Diego was always eager to learn about the world around him, and his favorite time of day was when his father would come home from the fields and tell him stories as they sat beneath the twinkling stars.\n\nOne night, as Diego snuggled close to his father, he asked, \"Papa, have you ever heard the legend of the sleeping giant who guards the treasures of the earth?\"\n\nDiego's father smiled and wrapped his arm around his son. \"Yes, I have. It's a tale passed down from generation to generation in our village. Would you like me to tell it to you?\"\n\nDiego's eyes sparkled with excitement. \"Oh, yes, Papa! I would love to hear it!\"\n\nSo, his father began the story, his voice low and soothing as the night settled around them.\n\n\"Long, long ago, in the ancient times, there was a powerful giant named Tlaltecuhtli who shaped the land, the mountains, and the rivers. But Tlaltecuhtli had a wicked heart, and the gods were angered by his cruelty and vanity. In their fury, the gods struck Tlaltecuhtli down and buried him deep beneath the earth, turning him into the source of all treasures.\n\nHowever, Tlaltecuhtli's spirit did not rest. It thrashed and writhed in anger, causing earthquakes and volcanic eruptions. The gods knew they had to calm the giant's spirit, so they sent Xipe Totec, the god of fertility and regeneration, to watch over Tlaltecuhtli and keep his spirit at bay.\n\nXipe Totec took pity on the great giant and cast a spell to lull Tlaltecuhtli into a deep slumber, forever trapping him beneath the earth. Xipe Totec then scattered the treasures and riches from the giant's body, hiding them in the farthest reaches of the world.\n\nFrom that day on, Tlaltecuhtli has remained asleep, his dreams guarded by the watchful eyes of Xipe Totec. But some say, if a brave and worthy warrior were to find the hidden treasures, the giant's spirit would stir once more . . .\"\n\nAs the story came to an end, Diego's father looked down at his son, who had drifted off to sleep. He gently brushed the hair from Diego's forehead and whispered, \"Be brave, and let your dreams guide you.\"\n\nThe moon cast a warm, silvery glow over the sleeping child, as the village and the hills around them settled into a peaceful slumber, with the legend of Tlaltecuhtli and Xipe Totec weaving through the night air.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "excited": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

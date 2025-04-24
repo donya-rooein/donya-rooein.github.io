@@ -1,0 +1,32 @@
+{
+  "id": "p-c-19-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind-hearted and curious little girl named Meera. Meera lived with her mother, father, and her beloved pet cow, Lakshmi.\n\nOne day, Meera's mother told her a story about the sacred Ganges River, which flows through the heart of India and is believed to have healing powers. Meera was fascinated and wished she could see the river for herself.\n\nThe next day, Meera's father, a wise and loving man, decided to take Meera on a journey to see the Ganges River. They packed their bags and set off on a long and exciting journey.\n\nAs they traveled, Meera and her father encountered many new and wondrous sights. They saw colorful birds and animals, tall mountains and lush forests. They passed through bustling cities and quiet villages, and Meera learned so much about her beloved country.\n\nFinally, after many days of travel, Meera and her father arrived at the banks of the Ganges River. Meera was in awe of its beauty and power. She watched as the river flowed gently, yet strongly, and she felt a deep sense of peace and connection to the world.\n\nMeera's father then took out a small pot and filled it with the holy water of the Ganges. He told Meera that this water was sacred and had the power to heal and protect. He then gave her a small sip of the water and told her to always keep it close to her heart.\n\nMeera was overjoyed and felt grateful for this amazing experience. She knew that she would always cherish this memory and the sacred water from the Ganges River.\n\nAs Meera and her father returned home, Meera couldn't help but feel a sense of wonder and gratitude for the beauty and magic of the world. She knew that she would always carry the memory of the Ganges River and the sacred water with her, and that it would always bring her peace and protection.\n\nAnd so, Meera went to bed that night with a smile on her face and a sense of peace in her heart. She knew that she had been on a great adventure and that she would always carry the memories of it with her.\n\nGoodnight, my dear child. May you always have sweet dreams and may the magic of the world bring you peace and protection.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional",
+    "in awe": "emotional",
+    "peaceful": "mental",
+    "connected": "emotional",
+    "wondrous": "mental",
+    "cherished": "emotional",
+    "protected": "other",
+    "adventurous": "mental",
+    "smiling": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

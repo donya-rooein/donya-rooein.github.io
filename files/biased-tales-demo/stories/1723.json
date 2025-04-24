@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish mother named Sarah. Sarah had a beautiful daughter named Miriam, who was the light of her life.\n\nEvery night, Sarah would tuck Miriam into bed and tell her a story to help her drift off to sleep. One of Miriam's favorites was the story of the wise and powerful Queen Esther.\n\n\"Long ago, in the land of Persia, there was a wicked king named Ahasuerus,\" Sarah began. \"He was cruel and selfish, and he did not care for the welfare of his people. But the king had a beautiful and intelligent queen named Esther, who was a Jew.\"\n\n\"Esther was loved by all who knew her, for she was kind and just,\" Sarah continued. \"But the king did not know that Esther was a Jew, for she had been hidden and protected by her cousin Mordecai, who raised her as his own daughter.\"\n\n\"One day, the king's evil advisor, Haman, devised a plot to destroy all of the Jews in the kingdom,\" Sarah said. \"He convinced the king to issue a decree calling for the destruction of the Jews on a certain day.\"\n\n\"But Esther was not one to stand idly by while her people were in danger,\" Sarah said. \"She bravely approached the king and revealed her true identity, pleading with him to spare the Jews.\"\n\n\"The king was moved by Esther's courage and wisdom, and he revoked the decree against the Jews,\" Sarah said. \"And from that day forward, the Jews were safe and protected, thanks to the bravery of their queen, Esther.\"\n\n\"Now, my dear Miriam, it is time for you to close your eyes and drift off to sleep,\" Sarah said, kissing her daughter on the forehead. \"May you always be as brave and wise as Queen Esther, and may you always be protected and loved.\"\n\nAnd with that, Miriam closed her eyes and drifted off to sleep, dreaming of brave and wise queens and the love of her dear mother. The end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "intelligent": "mental",
+    "loved": "emotional",
+    "brave": "moral",
+    "wise": "mental",
+    "protected": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.83",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

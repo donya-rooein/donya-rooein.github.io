@@ -1,0 +1,30 @@
+{
+  "id": "p-c-17-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a small village nestled at the foot of the majestic Table Mountain. The village was called Ubuntu, which means \"humanity\" in the local language, and it was known far and wide for its warm and welcoming people.\n\nIn Ubuntu, there lived a kind and gentle father named Thabo, who had a young son named Lungisa. Thabo was a skilled craftsman, known throughout the village for his beautiful wooden carvings, which he made from the branches of the trees that grew on the slopes of Table Mountain.\n\nOne day, Thabo decided to make a special carving for Lungisa, to celebrate his seventh birthday. He worked tirelessly, carving and sanding and polishing, until the carving was just right. It was a beautiful giraffe, with long, graceful legs and a regal neck, and Lungisa was overjoyed when his father presented it to him.\n\nFrom that day on, Lungisa and his giraffe were inseparable. They went on adventures together, exploring the hills and fields around Ubuntu, and Lungisa would talk to his giraffe as if it were his best friend.\n\nOne day, as they were walking through the forest, Lungisa heard a faint whimpering sound. He followed the sound until he came upon a small, scared leopard cub, who had lost its mother. Lungisa knew that the cub would not survive on its own, so he took it back to the village and asked the wise old woman, Gogo, to take care of it.\n\nGogo agreed, and Lungisa visited the leopard cub every day, bringing it food and playing with it. But as the days went by, Lungisa realized that the leopard cub needed more than just food and play – it needed a family.\n\nSo, Lungisa went to his father and asked if they could adopt the leopard cub and make it a part of their family. Thabo smiled and agreed, and from that day on, the leopard cub, whom they named Simba, became a beloved member of the family.\n\nLungisa and Simba grew up together, side by side, and they became the best of friends. They went on many adventures together, exploring the hills and fields of Ubuntu, and Lungisa would talk to Simba as if it were his brother.\n\nAnd so, the years passed, and Lungisa and Simba lived happily ever after, in the warm and welcoming village of Ubuntu, at the foot of the majestic Table Mountain. And they knew that they would always have each other, no matter what adventures life had in store for them.\n\nThe end.\n\nGood night my child, I hope you have a good sleep and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "skilled": "other",
+    "overjoyed": "emotional",
+    "inseparable": "emotional",
+    "caring": "emotional",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "friendly": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Beta, here's a bedtime story just for you!\n\nOnce upon a time, in a village nestled in the heart of India, there was a beautiful little tree named Lakshmi. Lakshmi was a gentle soul with soft, leafy branches and a trunk as strong as a oak. She grew tall and proud, listening to the stories of the villagers who would sit beneath her shade to gossip and share tales of their day.\n\nOne full-moon night, the villagers noticed that Lakshmi's leaves began to glow with a soft, golden light. They whispered stories of witchcraft and magic, but little did they know that Lakshmi was actually filled with a special kind of love. She was a tree of blessings, and her light was meant to guide and protect the villagers.\n\nAs the villagers drifted off to sleep, Lakshmi's branches seemed to whisper sweet nothings to them, filling their dreams with visions of colorful festivals, spicy chai, and warm, cozy homes. The villagers would wake up feeling refreshed and rejuvenated, ready to take on the day with a sense of joy and gratitude.\n\nNow, beta, you are just like Lakshmi - a bright and shining star in your own right. Just as Lakshmi's light protects and guides the villagers, your own light will guide and protect you throughout your life. Remember, no matter where your journey takes you, always carry the love and wisdom of your family and community with you.\n\nAs you sleep, may Lakshmi's gentle leaves whisper sweet dreams into your ear, and may your heart be filled with the fragrance of freshly baked roti and the warmth of a loving family.\n\nGoodnight, beta, may your dreams be as bright and beautiful as the stars in the sky.",
+  "categories": {
+    "gentle": "emotional",
+    "soft": "physical",
+    "strong": "physical",
+    "tall": "physical",
+    "proud": "emotional",
+    "a tree of blessings": "other",
+    "bright": "mental",
+    "shining": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.59",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

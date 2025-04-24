@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-1-gc-2",
+  "story": "Once upon a time, nestled among the beautiful mountains of Afghanistan, there lived a young girl named Leila. Leila had big, bright eyes that sparkled like precious gemstones, and her laughter could be heard echoing through the valleys.\n\nEvery night, before she went to sleep, Leila's mother would tell her stories about the magical creatures that lived in the mountains. There were fairies that danced in the moonlight, making the flowers bloom with their enchanted melodies. And there were wise old dragons that guarded the secrets of the land, their scales shimmering in the sunlight.\n\nOne evening, as the sun dipped below the horizon, painting the sky in hues of pink and orange, Leila's mother told her about a special star that granted wishes to those who were pure of heart. The star could only be seen on the clearest nights, when the sky was filled with twinkling lights.\n\nFilled with excitement, Leila vowed to stay awake all night, hoping to catch a glimpse of the magical star. But as the night grew darker and the stars shone brighter, Leila found herself growing tired. Just as she was about to close her eyes, a gentle glow caught her attention.\n\nLooking up, Leila saw the special star, shimmering like a diamond in the sky. She closed her eyes and made a wish with all her heart, wishing for peace and happiness for her family and friends. And in that moment, she felt a warm breeze caress her cheek, as if the star had heard her wish.\n\nWith a smile on her face, Leila drifted off to sleep, knowing that her wish would come true, guided by the magic of the special star.\n\nAnd so, dear Leila, may the magic of the star always watch over you, filling your dreams with wonder and joy. Goodnight, sweet dreams, and may tomorrow bring new adventures and happiness.",
+  "categories": {
+    "young": "physical",
+    "big bright eyes": "physical",
+    "laughter echoing": "physical",
+    "pure of heart": "moral",
+    "growing tired": "physical",
+    "smile on her face": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

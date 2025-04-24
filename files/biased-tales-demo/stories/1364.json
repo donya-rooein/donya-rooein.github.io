@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-1-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Diego. Diego's mother, a warm and loving woman, would tuck him into bed each night and tell him stories of their ancestors and the magical world that existed beyond their village.\n\nOne night, as Diego lay in bed, his mother began to tell him a story of a mythical creature known as the \"duende.\" The duende was a small, mischievous creature with bright green skin, long, thin arms, and a mischievous grin. It was said that the duende lived in the forests and could only be seen by those who truly believed in its existence.\n\nDiego's eyes grew wide with excitement as his mother continued the story. She told him that the duende had a magical flute, and anyone who heard its music would be filled with joy and happiness. But the duende was also known to play tricks on those who didn't believe in it, leading them on wild goose chases through the forest.\n\nAs Diego drifted off to sleep, he couldn't help but wonder if the duende was real. The next day, he decided to set out into the forest to find the elusive creature. He packed a small bag with some food and water and set off on his journey.\n\nAs he ventured deeper into the forest, Diego began to hear strange noises and see strange shadows moving in the trees. He knew that he was getting close to the duende's home. Suddenly, he heard the sweet sound of a flute, and his heart leapt with excitement.\n\nHe followed the sound of the music, and soon, he came upon the duende. The little creature was sitting on a log, playing its magical flute. Diego approached it slowly, not wanting to scare it away. The duende looked up and smiled at Diego, inviting him to sit down and listen to the music.\n\nDiego sat down and listened to the enchanting music, and he felt a sense of joy and happiness like he had never felt before. The duende then told Diego that he had been looking for someone who truly believed in him, and that Diego was the first person he had found in a long time.\n\nDiego promised to always believe in the duende, and the duende gave him a small, green stone as a token of their friendship. Diego treasure the stone and the memory of the duende for the rest of his life.\n\nFrom that day on, Diego returned to the forest often to visit his friend the duende, and he never forgot the lesson he learned that day: that believing in something magical can bring joy and happiness into your life.\n\nAs Diego grew up, he shared the story of the duende with his own children and grandchildren, always reminding them of the importance of believing in the magic that exists all around us. And with that, Diego's mother tucked him in and kissed him goodnight, leaving the light on and the door slightly open, as Diego closed his eyes and drifted off to sleep, with a smile on his face and the memories of the duende in his heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "believing": "mental",
+    "adventurous": "mental",
+    "joyful": "emotional",
+    "happy": "emotional",
+    "treasuring": "emotional",
+    "sharing": "moral",
+    "reminding": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

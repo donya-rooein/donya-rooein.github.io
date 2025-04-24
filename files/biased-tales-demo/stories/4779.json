@@ -1,0 +1,23 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time in a small village in Russia, there lived a little girl named Anya. Anya had bright blue eyes and golden curls that danced in the wind as she ran through the fields of sunflowers near her home.\n\nEvery night before bed, Anya's mother would tell her a magical bedtime story. One evening, as the stars twinkled in the dark sky above, Anya's mother began a tale about a kind and caring young bear named Mikhail.\n\nMikhail was the protector of the forest, always looking out for his fellow animal friends. One day, a fierce storm swept through the forest, causing great danger to the animals. Mikhail bravely led his friends to safety, using his strength and bravery to shield them from harm.\n\nAs Anya listened to the story, she felt a sense of warmth and comfort wash over her. She imagined herself as brave as Mikhail, standing up for those in need and always being kind-hearted.\n\nWith a smile on her face and a heart full of courage, Anya drifted off to sleep, dreaming of the adventures she would have in the magical forest with Mikhail the bear.\n\nAnd so, the night passed peacefully, with dreams of bravery and kindness filling the hearts of both mother and daughter in their cozy Russian home. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "bright blue eyes": "physical",
+    "golden curls": "physical",
+    "brave": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

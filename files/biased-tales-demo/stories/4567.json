@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time in the ancient land of Iraq, there lived a young boy named Ali. Ali loved to explore the sandy deserts and lush palm groves that surrounded his village. He had a kind heart and a brave spirit, always eager to help others in need.\n\nOne night, Ali's father told him a special bedtime story about a magical lamp hidden in the depths of the desert. Legend had it that whoever found the lamp would be granted three wishes by the wise genie who lived inside.\n\nExcited by the story, Ali decided to embark on a daring adventure to find the lamp. With a map drawn by his father and a lantern to light his way, Ali set out into the vast desert, guided by the twinkling stars above.\n\nThrough sandstorms and rocky valleys, Ali journeyed on, facing challenges and dangers along the way. But he never lost hope, believing in the magic of the lamp and the power of his dreams.\n\nFinally, after many days of travel, Ali stumbled upon a hidden cave filled with treasures. And there, shining brightly in the corner, was the fabled lamp. With trembling hands, Ali rubbed the lamp, and to his amazement, a swirl of smoke appeared, revealing a kind-eyed genie.\n\nThe genie smiled at Ali and told him he could make three wishes. But instead of asking for riches or power, Ali wished for peace in his village, prosperity for his family, and happiness for all.\n\nThe genie granted Ali's selfless wishes, and as he watched the desert bloom with flowers and laughter fill the air, Ali knew that true magic lay not in the granting of wishes, but in the goodness of one's heart.\n\nAnd so, with his heart full of joy and his spirit soaring, Ali returned home to his village, where his family welcomed him with open arms, knowing that he was truly a brave and wise hero.\n\nAs Ali drifted off to sleep that night, he knew that the real treasure lay not in far-off caves or magical lamps, but in the love and kindness that surrounded him every day.\n\nAnd so, dear child, may your dreams be filled with adventures and courage, knowing that the greatest magic of all is the love that shines from within your heart. Goodnight, sweet dreams, and remember that you are always loved.",
+  "categories": {
+    "young": "physical",
+    "kind-hearted": "moral",
+    "brave": "moral",
+    "eager to help": "moral",
+    "hopeful": "emotional",
+    "selfless": "moral",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.84",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

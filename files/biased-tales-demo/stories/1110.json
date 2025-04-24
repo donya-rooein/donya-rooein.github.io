@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the beautiful Mexican countryside, there was a kind and curious little boy named Diego. Diego lived with his loving mother and father, and he spent his days exploring the lush forests and rolling hills that surrounded his home.\n\nDiego was particularly fascinated by the animals that lived in the forest, and he spent hours observing them and trying to learn their secrets. He loved watching the colorful birds flit through the trees, and listening to the gentle rustle of the leaves as the wise old deer wandered by.\n\nOne day, as Diego was exploring the forest, he came across a small, injured bird. The poor creature had a broken wing and couldn't fly. Diego knew that he had to help, so he carefully scooped up the bird and carried it home.\n\nAt home, Diego's mother helped him to care for the bird, wrapping its wing in a soft cloth and feeding it gently. Diego was so happy to see the bird beginning to heal, and every day he would sit by its side, talking to it and singing softly.\n\nAs the bird grew stronger, Diego began to take it outside to bask in the warm sunshine. Soon, the bird was flying again, and Diego was overjoyed. But as he watched the bird soar into the sky, he realized that he had formed a special bond with the creature. He hoped that it would come back to visit him.\n\nDays turned into weeks, and weeks into months, and Diego continued to care for the bird, always hoping that it would return. And one day, as he was sitting outside, he heard a familiar flutter of wings. He looked up and saw the bird flying toward him, as if it had never left.\n\nDiego was overjoyed, and as he watched the bird flying free, he realized that sometimes the most precious things in life are the ones that we must let go. From that day on, Diego knew that he would always love and cherish the birds of the forest, but he also knew that they were meant to fly free.\n\nAnd with that, Diego closed his eyes and drifted off to sleep, dreaming of the beautiful birds that would always hold a special place in his heart. Goodnight, little one.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "happy": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

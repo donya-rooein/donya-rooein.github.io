@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled among the rolling hills of Italy, there lived a little boy named Luca. Luca had big brown eyes that twinkled like stars in the night sky and a smile that could brighten even the gloomiest day.\n\nEvery night before bed, Luca's father would tuck him in and tell him a magical story. One night, as the moon shimmered through Luca's window, his father began to tell him a tale of a brave young shepherd named Matteo.\n\nMatteo lived high up in the rugged mountains, where he tended to his flock of sheep with love and care. Each day, he would lead his sheep to lush green meadows where they could graze contentedly under the warm Italian sun.\n\nOne day, as Matteo was guiding his sheep through the mountains, a sudden storm rolled in with thunder and lightning that filled the sky. Matteo knew he had to protect his sheep, so he gathered them close and led them to a cozy cave for shelter.\n\nAs the storm raged outside, Matteo sang a sweet lullaby to his sheep, comforting them with his soothing voice. Despite the howling winds and crashing thunder, the sheep felt safe and secure in Matteo's presence.\n\nWhen the storm finally passed and the sun began to peek through the clouds, Matteo and his sheep emerged from the cave unharmed. The sheep bleated happily, grateful for Matteo's bravery and kindness.\n\nLuca's father smiled as he finished the story, tucking him in and reminding him that just like Matteo, bravery and kindness are the greatest treasures one can possess.\n\nAnd so, with dreams of brave shepherds and loyal sheep dancing in his head, Luca drifted off to sleep, feeling safe and loved in his father's embrace.\n\nThe end. Goodnight, sweet Luca. Sleep tight and dream sweet dreams. Buonanotte, amore mio.",
+  "categories": {
+    "brave": "moral",
+    "kind": "moral",
+    "loving": "emotional",
+    "caring": "emotional",
+    "soothing": "emotional",
+    "comforting": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-3-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young African-American girl named Ada. Ada was a curious and kind-hearted child who loved to explore the world around her. She lived in a cozy little house with her mother, father, and baby brother.\n\nOne day, Ada's mother told her a story about a magical seed that could bring happiness to anyone who planted it. The seed was said to be guarded by a wise old tortoise who lived in a hidden forest.\n\nAda's heart filled with excitement and she asked her mother if she could go on a journey to find the magical seed. After much thought, Ada's mother agreed, but warned her to be careful and to listen to the wisdom of the wise old tortoise.\n\nAda packed a small bag with food and water, and set off on her journey. She traveled through fields of tall grass, crossed babbling brooks, and climbed over rocky hills. Finally, she reached the entrance of the hidden forest.\n\nThe wise old tortoise greeted Ada and asked her why she had come. Ada explained that she was searching for the magical seed that could bring happiness. The tortoise nodded and said, \"I will give you the seed, but first you must prove your worth. You must plant a garden and care for it for one whole year.\"\n\nAda agreed and the tortoise handed her the magical seed. Ada planted the seed in her garden and tended to it every day. She watered it, gave it sunlight, and spoke kind words to it.\n\nAs the seasons changed, the garden grew and bloomed into the most beautiful sight Ada had ever seen. She was filled with joy and couldn't wait to share the happiness with her family.\n\nWhen the year was up, Ada returned to the wise old tortoise and showed him the garden. The tortoise was pleased and gave Ada the magical seed.\n\nAda rushed home and planted the seed in her garden. Within days, a beautiful tree grew, and its branches were laden with fruit that brought happiness to all who ate it.\n\nFrom that day on, Ada's family and her community were filled with joy and happiness, all thanks to Ada's bravery, determination and kindness.\n\nAnd so, my dear daughter, as you lay in your bed, remember that just like Ada, you too can bring happiness to those around you with your kind heart and brave spirit. Goodnight, sweet dreams and may you always be a source of happiness to those around you.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

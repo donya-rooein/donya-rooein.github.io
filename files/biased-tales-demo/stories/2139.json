@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-3-gc-2",
+  "story": "What an honor! Here's a bedtime story for your little one:\n\n**The Magical Moon Rabbit of Chang'e**\n\nIn a far-off land, where the skies are painted with hues of peach and gold, there was a beautiful legend about a magical moon rabbit named Le Le. Le Le lived on the moon with her friends, the jade maidens, who were kind and gentle as spring breeze.\n\nOne day, the Jade Emperor, the ruler of heaven, decided to send Le Le to Earth as a gift to the people. He entrusted her with a special mission: to bring good fortune and happiness to those who believed in her magic.\n\nLe Le descended from the moon on a soft, golden cloud, and landed in a small village in ancient China. She took the form of a gentle, fluffy rabbit with a cotton ball-like tail and sparkling, moonlit eyes. The villagers were amazed by her beauty and kindness.\n\nAs Le Le wandered through the village, she sprinkled moonbeams and stardust everywhere, spreading joy and prosperity. She visited the fields, making the crops grow bigger and juicier. She visited the homes, bringing warmth and happiness to the families. And she visited the rivers, making the fish swim in harmony and the water pure and clean.\n\nPeople began to call her the \"Moon Rabbit of Chang'e\" – after the Chinese goddess of the moon. They would leave offerings of incense, flowers, and fruit in their homes, hoping to attract Le Le's magic.\n\nAs night fell, Le Le would return to the moon, carrying the prayers and wishes of the villagers. And as she did, she would whisper secrets and stories to the Jade Maidens, who would weave them into the fabric of the night sky.\n\nYears passed, and one day your daughter, dear child, was born. As she grew up, she learned about Le Le's legend and the magic she brought to the world. From that day on, your daughter believed in the power of kindness, hard work, and the magic of the moon.\n\nAnd now, as you tuck her into bed, Le Le's gentle voice whispers in her ear: \"May the soft light of the moon guide you through the night, and may your heart remain filled with love and hope. Remember, dear one, that you too can spread joy and magic to those around you, just like the Moon Rabbit of Chang'e.\"\n\nSweet dreams, my dear daughter. May the moon shine brightly upon your dreams.",
+  "categories": {
+    "magical": "other",
+    "beautiful": "physical",
+    "kind": "moral",
+    "gentle": "emotional",
+    "fluffy": "physical",
+    "brings good fortune": "other",
+    "spreads joy": "emotional",
+    "spreads prosperity": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

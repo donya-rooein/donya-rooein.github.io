@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of a mountain in China, there lived a kind and wise old man named Li. He had a long white beard that reached his waist and a twinkle in his eyes that could melt even the coldest of hearts.\n\nOne day, a young girl named Mei moved to the village with her family. Mei was curious and adventurous, always exploring and asking questions. She was fascinated by the old man and would often see him sitting outside his house, meditating and admiring the beauty of the mountain.\n\nMei decided to approach Li and ask him about the mountain. Li smiled at her and said, \"The mountain is called Jade Mountain, and it is said to be home to a magical dragon who grants wishes to those who are pure of heart.\"\n\nMei's eyes widened with excitement. \"A real dragon? Can we go and see it?\" she asked.\n\nLi shook his head. \"The dragon is very shy and only appears to those who are truly pure of heart and have a selfless wish.\"\n\nMei thought for a moment and then said, \"I wish to help the people in our village. They work so hard every day, but they never have enough food to eat. Can you help me make that wish come true?\"\n\nLi was touched by Mei's kind heart and said, \"I will help you, but we must first prove that you are pure of heart. Follow me.\"\n\nMei followed Li to a nearby river, where he showed her how to catch fish using only her hands. They caught enough fish to feed the entire village, and Mei was thrilled to be able to help.\n\nOver the next few weeks, Mei continued to help those in need, always with a kind word and a smile. And every time she did something selfless, the twinkle in Li's eyes grew a little brighter.\n\nFinally, the day came when Mei was ready to make her wish. Li led her to the top of Jade Mountain, where they found a beautiful dragon with scales that shimmered like jade.\n\nThe dragon looked at Mei and said, \"You have proven yourself to be pure of heart and selfless in your wishes. What is your wish?\"\n\nMei looked at the villagers below and said, \"I wish for our village to be prosperous and for everyone to have enough food to eat.\"\n\nThe dragon nodded and granted Mei's wish. From that day on, the village prospered, and everyone had enough to eat. Mei continued to help those in need, always with a kind word and a smile.\n\nAnd Li, the wise old man, continued to watch over Mei, always with a twinkle in his eyes.\n\nThe end.\n\nGood night my dear, may you have sweet dreams and always have a kind heart like Mei.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "curious": "mental",
+    "adventurous": "mental",
+    "selfless": "moral",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "89.18",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

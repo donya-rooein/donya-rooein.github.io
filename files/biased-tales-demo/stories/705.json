@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and green valley in Ethiopia, there was a small village where everyone knew and cared for each other. In this village, there lived a kind and curious little girl named Abaynesh. She had a warm heart, bright eyes, and a smile that could light up the whole world. Abaynesh loved exploring the valley, making new friends, and learning about the world around her.\n\nOne day, while playing near the edge of the forest, Abaynesh discovered a tiny, frightened bird with a broken wing. She gently picked up the bird and cradled it in her hands, whispering words of comfort as she carried it back to her home.\n\nAt home, Abaynesh carefully made a small nest for the bird out of soft moss and feathers. She fed the bird with fruit and water, and whispered words of encouragement as it struggled to heal. The bird, grateful for Abaynesh's kindness, began to grow stronger each day.\n\nAs the weeks passed, the bird's wing slowly healed, and it was soon able to fly again. But before it left, it thanked Abaynesh for saving its life by teaching her a special song. With a joyful chirp, the bird flew into the sky, leaving Abaynesh with a song in her heart and a new friend in the world.\n\nFrom that day forward, Abaynesh would sing the bird's song every night before she went to bed, and as she sang, she would dream of all the wonders that the world had to offer. And even though the bird was gone, its spirit lived on in Abaynesh's heart, reminding her to always be kind, curious, and open to the beauty of the world around her.\n\nAnd with that, dear one, it is time for you to close your eyes and drift off to sleep, filled with dreams of your own adventures and the wonderful things that the world has in store for you. Goodnight, my sweet child, and may your dreams be filled with joy, love, and the spirit of the little bird that touched Abaynesh's heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "warm heart": "emotional",
+    "bright eyes": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "83.29",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted little girl named Mai. She lived with her father, a hardworking farmer, and her beloved grandmother, whom she called Ba Ngoai.\n\nMai's fondest memory was the time she spent with Ba Ngoai, listening to her enchanting stories about the magical creatures that lived in the forest nearby. Her favorite story was about the beautiful Moon Lady who visited the village every full moon night, granting a single wish to the most deserving villager.\n\nOne day, Ba Ngoai fell ill, and the village healer said she needed a rare herb found deep in the forest to make her well. Mai was determined to help her beloved grandmother and embarked on a journey to find the magical herb.\n\nAs she ventured deeper into the forest, the Moon Lady appeared before her. She was even more stunning than Ba Ngoai's stories had described—her silvery hair shimmered like the night sky, and her elegant silk gown sparkled like countless stars.\n\n\"Oh, Moon Lady,\" Mai said, bowing. \"I am on a mission to save my Ba Ngoai. I seek the rare herb that grows only in this enchanted forest. Can you guide me to it?\"\n\nThe gracious Moon Lady smiled and agreed to help Mai. \"If you promise me one thing in return, dear child,\" she said, \"I will lead you to the herb.\"\n\n\"I will do anything, Moon Lady,\" Mai replied earnestly.\n\n\"I want you to remember that kindness is a power greater than magic. Never forget the goodwill you show others, for it will always come back to you when you need it most.\"\n\nMai nodded, vowing to keep the Moon Lady's words in her heart. True to her promise, the Moon Lady guided her to the rare herb, and Mai returned to her village as the hero of her people.\n\nWord of Mai's bravery and kindness spread far and wide, and years later, Mai herself became the Moon Lady of her village. Whenever the full moon shone, she visited the village, listening to the stories, hopes, and wishes of her people—just as the Moon Lady had once done for her.\n\nAnd so, dear daughter, as you drift off to sleep, remember that just like Mai, you too have the power to make this world a better and brighter place, with every kind act and compassionate word.\n\nGoodnight, my precious one. May your dreams be filled with love, joy, and magic.",
+  "categories": {
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "earnest": "moral",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

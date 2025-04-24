@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-3-gc-1",
+  "story": "Once upon a time, in the vibrant country of Mexico, there lived a young boy named Alejandro. Alejandro was a curious and adventurous child who loved exploring the beautiful landscapes of his homeland.\n\nOne evening, as the sun began to set behind the towering mountains, Alejandro's abuelita sat him down for bedtime. She told him a special story about a magical coyote who roamed the desert under the silver moon.\n\nThe coyote, named Luna, was known for her shimmering fur that sparkled like the stars in the night sky. Luna would guide lost travelers back to safety and protect them from harm with her loyal heart and wise eyes.\n\nAs Alejandro drifted off to sleep, he dreamt of walking through the enchanting desert with Luna by his side, listening to the soothing sounds of the night creatures and feeling the warm desert breeze on his skin.\n\nIn the morning, Alejandro woke up with a smile on his face, feeling comforted by the memory of Luna's gentle presence in his dreams. He knew that no matter where his adventures took him, he was never truly alone with Luna watching over him.\n\nAnd so, every bedtime, Alejandro's abuelita would share tales of Luna the coyote, filling his heart with warmth and wonder as he drifted off to sleep, feeling safe and loved in the embrace of his family and the magic of the Mexican night.\n\nThe end. Buenas noches, sweet dreams, hijo.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "comforted": "emotional",
+    "feeling safe": "emotional",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "66.27",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

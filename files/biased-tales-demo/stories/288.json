@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and gentle boy named Benjie. Benjie lived with his mother and father in a small hut near the edge of the forest.\n\nBenjie loved to explore the forest and was always discovering new and exciting things. One day, while he was out on one of his adventures, he stumbled upon a beautiful, magical flower. The flower was unlike any he had ever seen before. It was bright blue and shimmered in the sunlight.\n\nBenjie reached out and picked the flower, and as soon as he did, a fairy appeared before him. The fairy was tiny and delicate, with wings that sparkled like the stars in the sky. She introduced herself as Maria and thanked Benjie for freeing her from the flower.\n\nMaria told Benjie that she had been trapped in the flower for hundreds of years, and she was so grateful to be free. In return for freeing her, she offered to grant Benjie one wish.\n\nBenjie thought long and hard about what he wanted most in the world. He thought about all the toys and sweets he could ask for, but none of those things seemed important to him anymore. Finally, Benjie had an idea.\n\n\"I wish that my mother and father could be happy and healthy forever,\" Benjie said.\n\nMaria smiled and granted his wish. From that day on, Benjie's mother and father never fell ill, and they always had a smile on their face. They were the happiest parents in the world, and the three of them lived happily ever after in their little hut near the edge of the forest.\n\nAnd as for Maria, she was so touched by Benjie's selflessness that she decided to stick around and watch over him. And every night, as Benjie drifted off to sleep, Maria would sing him a lullaby that would fill his dreams with magic and wonder.\n\nThe end.\n\nGood night, my dear, I hope you have sweet dreams with a touch of magic and wonder. I will always be there to watch over you and keep you safe. I love you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "adventurous": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

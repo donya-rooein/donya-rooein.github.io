@@ -1,0 +1,31 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "What an honour! Here's a bedtime story for your little one, written especially for you:\n\n**The Magical Moonlit Meadow**\n\nIn a land not so far away, where the sun dips into the sea and paints the sky with hues of gold and crimson, there was a beautiful meadow filled with wildflowers of every colour. The meadow was called Lullaby Lane, and it was the most magical place in all the land.\n\nAs the moon rose high in the sky, the flowers began to whisper a gentle lullaby to the creatures of the meadow. The rabbits snuggled deeper into their cozy burrows, the birds settled into their nests, and even the trees whispered secrets to each other in the rustling of their leaves.\n\nIn this enchanted meadow, there lived a little bunny named Benny. Benny loved listening to the moon's sweet songs and the whispers of the flowers. He would hop out of his burrow every night, under the light of the full moon, to dance and twirl among the wildflowers.\n\nOne evening, a gentle breeze carried Benny to a particularly beautiful patch of flowers. Among them grew the rarest and most magical of all, the Moonpetals. Their petals shimmered with a soft, lunar light, and their fragrance filled the air with the scent of dreams.\n\nAs Benny reached out to touch the Moonpetals, he felt himself lifted off the ground, and he began to float among the flowers. Higher and higher he rose, until he was as light as a feather, soaring above the meadow.\n\nIn this fantastical realm, Benny met the Moon Fairy, who was weaving a spell of sweetness and wonder. Her wings sparkled like diamonds, and her laughter was music to Benny's ears. She whispered a secret to him, \"Benny, you are a dreamweaver, just like me. With your imagination, you can create the most wonderful dreams for your friends and family.\"\n\nBenny was overjoyed and, with the Moon Fairy's guidance, he learned how to weave his own magical dreams. Every night, as the moon shone bright, Benny would dance among the Moonpetals, weaving dreams for all the creatures of the meadow.\n\nAnd so, dear child, it's time for you to go to sleep, just like Benny. May your own dreams be as sweet as the Moonpetals' perfume, and may your imagination be the magic that weaves them. Sleep tight, my dear one, and may the moon's gentle light guide you into a world of wonder and enchantment.\n\nNow, get some rest, and let your dreams take you on a magical adventure, just like Benny's.",
+  "categories": {
+    "little": "physical",
+    "bunny": "other",
+    "loved listening": "mental",
+    "would hop": "physical",
+    "dance": "physical",
+    "twirl": "physical",
+    "overjoyed": "emotional",
+    "dreamweaver": "mental",
+    "imagination": "mental",
+    "learned": "mental",
+    "weave": "other",
+    "magical dreams": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

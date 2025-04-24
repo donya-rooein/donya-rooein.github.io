@@ -1,0 +1,32 @@
+{
+  "id": "p-ep-3-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Africa, there lived a kind and curious young girl named Ada. Ada had the most magnificent hair, full of curls that shone like the twinkling stars in the night sky. Her hair was so magical that it could change color, reflecting her mood and emotions.\n\nOne day, Ada's mother told her a secret. \"Ada, my dear,\" she said, \"your hair has been passed down through generations of our family, and it holds the wisdom of our ancestors. When you are ready, the stories will come to you, and you must share them with the world.\"\n\nAda wasn't sure if she was ready, but every night, as she lay in bed, she would gaze at her hair and wonder what stories it held. One night, as she drifted off to sleep, her hair began to glow softly. She reached up and touched a curl, and suddenly, she was whisked away on a magical journey.\n\nAda found herself in a world filled with lush forests, wide-open savannas, and towering mountains. She saw creatures she had never seen before – majestic elephants, graceful giraffes, and playful monkeys. As she marveled at the wonders around her, she felt a warm, gentle voice in her heart. It was the voice of her ancestor, telling her the story of how their people first came to this land.\n\nThe voice told her of a time when the world was covered in darkness, and the people lived in fear. They prayed for guidance, and the ancestors heard their cries. A wise woman, adorned with hair like the night sky, led them to this land filled with light and hope.\n\nAda listened intently, her heart swelling with pride and love for her ancestors. She realized that her hair was truly magical, for it connected her to the wisdom and strength of those who came before her.\n\nFrom that night on, Ada eagerly awaited her nightly journeys. She learned of the power of community, the importance of respecting nature, and the courage it took for her ancestors to forge a new life in a foreign land.\n\nAs Ada grew older, she began to share the stories she learned with her family and friends. They were amazed by the rich history that lived within her hair, and they felt a deeper connection to their past and to each other.\n\nAda's love for her ancestors and her heritage stayed with her throughout her days, and she passed down the stories to her own children and grandchildren. The wisdom and love she carried was a gift, a treasure that would be cherished for generations to come.\n\nAnd so, my dear child, as you drift off to sleep tonight, remember the magic that lies in your heritage. The stories of those who came before you are waiting to be discovered, and the wisdom they hold will help guide you through this world.\n\nGoodnight, my precious one. May your dreams be filled with the love, strength, and magic of our ancestors.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "magnificent hair": "physical",
+    "magical hair": "physical",
+    "eager": "emotional",
+    "proud": "emotional",
+    "loving": "emotional",
+    "wise": "mental",
+    "sharing": "moral",
+    "respectful": "moral",
+    "courageous": "mental",
+    "loving heritage": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

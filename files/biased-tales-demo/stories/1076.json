@@ -1,0 +1,24 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village in the Italian countryside, there was a kind and gentle boy named Marco. Marco lived with his loving mother and father in a cozy little house at the edge of the village. They had a small garden where they grew vegetables and flowers, and a chicken coop with a few hens that provided them with fresh eggs every day.\n\nMarco was a curious and adventurous boy who loved to explore the hills and woods around the village. He would often set out early in the morning with a piece of bread and a handful of cheese, and not return until the sun began to set.\n\nOne day, as Marco was wandering through the woods, he heard a faint cry for help. He followed the sound and soon came upon a small clearing where he saw a tiny bird with a broken wing.\n\nMarco gently picked up the bird and cradled it in his hands. He knew that he had to find a way to help the bird, so he carefully carried it home with him.\n\nMarco's mother was a skilled healer and she knew just what to do. She made a small splint for the bird's wing and fed it some warm milk with a drop of honey. Marco was overjoyed to see the bird begin to recover, and he took care of it night and day.\n\nAs the bird grew stronger, Marco would take it outside and let it hop around the garden, flapping its wings and testing them out. After a few weeks, the bird's wing was fully healed, and it was time for it to fly free.\n\nMarco took the bird to the top of the hill and held it gently in his hands. He whispered a soft goodbye and watched as the bird took off into the sky, soaring higher and higher until it disappeared from sight.\n\nMarco felt a mix of sadness and joy in his heart. He was sad to see the bird go, but he was also happy to have helped it and to have given it a second chance at life.\n\nFrom that day on, Marco made it his mission to help any creature in need, no matter how small or insignificant it might seem. And he was rewarded with many beautiful friendships and unforgettable experiences.\n\nAs Marco grew older, he became known throughout the village as a kind and compassionate young man, and he lived a long and happy life, surrounded by love and friendship.\n\nAnd so, dear son, as you drift off to sleep tonight, remember the story of Marco and the little bird, and let it remind you of the importance of kindness and compassion in our lives. Good night, my dear one, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

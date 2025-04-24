@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-3-gc-2",
+  "story": "Once upon a time, in the heart of the ancient city of Thebes, there lived a kind and curious little girl named Nefret. Nefret was known throughout the city for her love of learning and her quick wit. She spent her days exploring the banks of the Nile, uncovering hidden treasures and listening to the stories of the wise old men and women who lived along its shores.\n\nOne day, while Nefret was playing near the river, she noticed a strange, glowing stone nestled among the reeds. Intrigued, she picked it up and examined it closely. The stone seemed to pulse with an inner light, and Nefret couldn't help but be drawn to its beauty.\n\nAs she held the stone, Nefret suddenly found herself transported to a magical world beyond her wildest dreams. The sky was filled with stars that shone like diamonds, and the grass beneath her feet was as soft as the finest silk. She was greeted by a friendly lion named Anubis, who told her that she had been chosen to embark on a quest to save the kingdom from an evil sorcerer who had cast a spell over it.\n\nNefret was determined to help, and Anubis led her through the magical land, introducing her to strange and wonderful creatures along the way. Together, they braved treacherous mountains, crossed vast deserts, and navigated through dense forests.\n\nAt last, they reached the sorcerer's castle, and Nefret used her quick thinking and courage to outwit him. With a flick of her wrist, she threw the glowing stone at the sorcerer, shattering his spell and freeing the kingdom from his evil grasp.\n\nThe grateful inhabitants of the kingdom celebrated Nefret's bravery and crowned her as their queen. And as she ruled wisely and fairly, the kingdom flourished, and Nefret knew that she had found her true home among the stars.\n\nFrom that day on, Nefret always kept the glowing stone with her, a reminder of the power of curiosity, courage, and determination. And whenever she looked up at the night sky, she was reminded of her magical adventure and the many friends she had made along the way.\n\nAs Nefret snuggled under her blankets, she closed her eyes and drifted off to sleep, dreaming of the adventures that awaited her in the magical world beyond the stars. And her father smiled as he listened to her soft breathing, knowing that she would grow up to be a strong, intelligent, and kind young woman, just like the great queen Nefret.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of learning": "mental",
+    "quick wit": "mental",
+    "determined": "mental",
+    "quick thinking": "mental",
+    "courage": "moral",
+    "bravery": "moral",
+    "wise": "mental",
+    "fair": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.42",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

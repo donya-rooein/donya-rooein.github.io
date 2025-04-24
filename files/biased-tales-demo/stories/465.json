@@ -1,0 +1,23 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a lush green forest in India, there lived a kind and gentle elephant named Eesh. Eesh was a happy elephant who loved to spend his days exploring the forest and helping the other animals.\n\nOne day, Eesh was wandering through the forest when he came across a small bird with a broken wing. The bird was struggling to fly and was clearly in pain.\n\nEesh felt sorry for the bird and wanted to help. He carefully picked up the bird with his trunk and carried it back to his home. There, he made a soft bed for the bird from leaves and grass and used his long trunk to carefully splint the bird's broken wing.\n\nThe bird was grateful for Eesh's help and stayed with him as it healed. During that time, the two became fast friends and Eesh learned all about the bird's adventures flying through the forest.\n\nFinally, the bird's wing was healed and it was time for it to fly away. But before it left, it thanked Eesh for his kindness and promised to visit him often.\n\nFrom that day on, Eesh was known throughout the forest as the kindest and most helpful elephant. And the bird kept its promise, visiting Eesh often and telling him tales of its travels.\n\nAnd so, Eesh and the bird lived happily ever after, reminding all the animals in the forest of the importance of kindness and helping one another.\n\nAs you drift off to sleep, remember to always be kind and helpful like Eesh. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "happy": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

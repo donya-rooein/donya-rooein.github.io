@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little boy named Hiroshi. Hiroshi loved to explore the world around him and learn new things. One day, while playing in the forest, Hiroshi stumbled upon a beautiful, shiny rock. He picked it up and examined it closely, noticing its unusual color and texture.\n\nHiroshi took the rock home and showed it to his father, who was a wise and knowledgeable man. His father told Hiroshi that the rock was a special type of jade, known as \"tsujigane,\" which was said to bring good luck and protection to those who possessed it.\n\nHiroshi was overjoyed and decided to keep the jade with him always. He made a special pouch to carry it in and took it with him wherever he went. As he grew older, Hiroshi became known throughout the village for his kindness and wisdom, and people would often come to him for advice and guidance.\n\nOne day, a great storm hit the village, causing destruction and chaos. Hiroshi's family and friends were worried and scared, but Hiroshi remained calm and confident. He knew that as long as he had his lucky jade, everything would be alright.\n\nAnd so it was. The storm eventually passed, and the village was spared from any major damage. The villagers were amazed and grateful, and they knew that it was all thanks to Hiroshi and his lucky jade.\n\nFrom that day on, Hiroshi was revered as a hero in his village, and the lucky jade became a symbol of hope and protection. And Hiroshi, with his kind heart and curious spirit, continued to explore the world and share his wisdom with those around him.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep, filled with dreams of adventure and discovery. And always remember, no matter where you go or what challenges you face, you will always have the protection and guidance of your loving family. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "calm": "emotional",
+    "confident": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

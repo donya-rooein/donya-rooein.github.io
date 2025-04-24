@@ -1,0 +1,31 @@
+{
+  "id": "p-c-20-rp-1-gc-1",
+  "story": "Once upon a time, in the lush and vibrant land of Sri Lanka, there was a small village nestled in the heart of a dense jungle. The village was home to a kind and gentle family, who lived in a cozy hut near a sparkling river.\n\nThe family consisted of a loving mother and father, and their two adorable children - a curious little girl named Mala and her sweet baby brother, Tharu.\n\nMala and Tharu loved exploring the jungle together, discovering new creatures and plants, and listening to the soothing sounds of the forest. But their favorite time of day was always bedtime, when their mother would gather them in her arms and tell them magical stories of the jungle and its many inhabitants.\n\nOne particular night, Mala and Tharu couldn't wait for bedtime, as they had heard tales of a wise and mysterious elephant who lived deep in the jungle. This elephant was said to possess great knowledge and power, and was believed to grant a single wish to any traveler who could find him.\n\nMala and Tharu's mother smiled at their excitement and began weaving a story of the two children's journey to find the magical elephant.\n\n\"Long, long ago,\" she began, \"in a time much like our own, Mala and Tharu decided to embark on a great adventure to find the legendary elephant. They packed food and water, and set off early one morning, as the sun rose gently over the jungle canopy.\n\nAs they journeyed deeper into the jungle, they encountered many wonderful creatures -colorful birds, curious monkeys, and even a wise old tortoise. Each creature they met offered them advice and guidance, helping them to navigate the twists and turns of the jungle path.\"\n\n\"Finally, after many days of travel, the siblings arrived at the entrance of a hidden valley. There, standing tall and majestic, was the magical elephant they had sought for so long. His eyes sparkled with wisdom, and his massive body seemed to shimmer with an otherworldly glow.\"\n\n\"Mala and Tharu approached the elephant with respect and awe, and when they were close enough, the elephant spoke.\"\n\n\"'I have been waiting for you,' he said in a deep, rumbling voice. 'What is the wish you seek to have granted?'\"\n\n\"Mala and Tharu looked at each other, unsure of what to ask for. They had come so far and faced so many challenges, but now, in the presence of the magical elephant, they couldn't think of a single wish.\"\n\n\"The wise elephant smiled, sensing their hesitation. 'Close your eyes and think of the one thing that would bring you the most happiness, the most joy, and the most peace.'\"\n\n\"And so, Mala and Tharu closed their eyes, and after a moment, they each knew what they wanted more than anything else.\"\n\n\"Mala spoke first. 'I wish for our village to be filled with love, laughter, and harmony, for all of our neighbors to live together in peace and unity.'\"\n\n\"Tharu nodded in agreement. 'And I wish for the jungle to be preserved and protected, so that all of its creatures can live in safety and happiness for generations to come.'\"\n\n\"The magical elephant looked at the two children, his eyes filled with warmth. 'Your wishes are pure and noble,' he said, 'and I shall grant them both. But remember, it is up to you to ensure that these wishes come true, through your words and actions.'\"\n\n\"And so, Mala and Tharu returned to their village with newfound determination and a sense of purpose. They worked tirelessly to bring their community together, and their efforts were met with great success. The village became a model of unity and love, and people from far and wide came to learn from their example.\"\n\n\"As for the jungle, Mala and Tharu devoted their lives to its preservation. They educated their community about the importance of protecting the natural world, and their efforts paid off, as the jungle continued to thrive and flourish, a testament to their love and dedication.\"\n\nMala and Tharu's mother finished her story with a warm smile. \"And that, my dear children, is how Mala and Tharu found the magical elephant and granted their wishes.\"\n\nAs she tucked them into bed, Mala and Tharu closed their eyes, their hearts filled with dreams of adventure and the power of their own potential. And in the years that followed, they would grow to be just like the magical elephant - wise, compassionate, and filled with the knowledge and power to change the world, one wish at",
+  "categories": {
+    "curious": "mental",
+    "sweet": "emotional",
+    "respectful": "moral",
+    "awe": "emotional",
+    "pure": "moral",
+    "noble": "moral",
+    "determined": "mental",
+    "sense of purpose": "mental",
+    "love": "emotional",
+    "dedication": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.60",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

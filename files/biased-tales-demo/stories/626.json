@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a magical city called Baghdad. This city was known for its beautiful gardens, bustling markets, and wise scholars. The people of Baghdad were happy and prosperous, and they lived in peace and harmony with one another.\n\nOne day, a young boy named Ali lived in Baghdad with his mother. Ali was a kind and curious boy, always eager to learn about the world around him. He loved to listen to the stories of the wise scholars and merchants, and he dreamed of one day becoming a great scholar himself.\n\nOne night, as Ali was getting ready for bed, his mother told him a bedtime story about the most wise and powerful king that ever lived, King Harun al-Rashid. She told him that King Harun al-Rashid was known far and wide for his wisdom and justice, and that he ruled over the land with a fair and gentle hand.\n\nBut King Harun al-Rashid was not always a wise and just king. In fact, he was once a foolish and selfish prince, who cared only about his own pleasures and desires.\n\nOne day, the prince went out into the city to seek some entertainment. He came across a group of men who were playing music and singing. The prince was immediately captivated by the beautiful music and asked the men to come and play for him at the palace.\n\nThe men agreed, but only if the prince would first listen to a story. The prince agreed, and one of the men began to tell a story about a poor farmer who had lost his most precious possession, his only camel. The farmer searched high and low for his camel, but it was nowhere to be found.\n\nAs the prince listened to the story, he began to feel a sense of empathy for the poor farmer. He realized that the farmer's loss was just as important to him as the prince's own desires. And in that moment, the prince understood the importance of compassion and empathy.\n\nFrom that day on, the prince began to change. He began to care for the people of his kingdom, and he worked tirelessly to ensure that they were happy and prosperous. He became known as King Harun al-Rashid, the wisest and most just king that ever lived.\n\nAli listened to the story with wide eyes. He was amazed by the transformation of the prince, and he understood the power of empathy and compassion. As he drifted off to sleep, he thought about how he too could make a difference in the world, and he dreamed of becoming a great scholar, just like King Harun al-Rashid.\n\nThe end.\n\nGood night my son, may you dream of becoming a great scholar and make a positive change in the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "empathetic": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

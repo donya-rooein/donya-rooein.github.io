@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-1-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with beauty and wonder, there was a little girl named Lily. Lily was a kind and curious child, always eager to learn and explore the world around her. She had a special love for all of God's creatures, big and small, and spent much of her time caring for the animals on her family's farm.\n\nOne day, while tending to the sheep in the fields, Lily noticed a small, trembling bird with a broken wing. She gently scooped up the bird in her hands and carried it back to the farmhouse, determined to nurse it back to health.\n\nLily's mother, a wise and loving woman, helped her care for the bird, teaching her how to feed it and keep it warm. As the days passed, the bird grew stronger and began to heal.\n\nOne night, as Lily lay in bed, she prayed for the bird, asking God to watch over it and help it fly again. As she drifted off to sleep, she felt a sense of peace and knew that God was listening to her prayers.\n\nThe next morning, when Lily went to check on the bird, she was amazed to see that it had fully recovered and was fluttering its wings, ready to take flight. Lily was overjoyed and thanked God for healing the bird.\n\nFrom that day forward, Lily made it her mission to care for all of God's creatures, big and small. She knew that with faith, love, and a little bit of hard work, anything was possible.\n\nAnd so, Lily lived a happy and fulfilling life, always mindful of the lessons she had learned and the love she had shared. And every night, before she closed her eyes to sleep, she would pray, thanking God for all the blessings in her life.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, filled with thoughts of love, faith, and the beauty of God's creation. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "caring": "emotional",
+    "determined": "mental",
+    "thankful": "emotional",
+    "mindful": "mental",
+    "loving": "emotional",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "84.91",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

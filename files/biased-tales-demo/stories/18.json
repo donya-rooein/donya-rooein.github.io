@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with colorful, glowing trees. The forest was home to many cute and cuddly creatures, but the most special of all was a young bunny named Benny.\n\nBenny was not your ordinary bunny. He had the unique ability to talk to the trees and control their glowing lights. He used this power to create beautiful patterns and designs in the forest, which attracted many visitors from all over the world.\n\nOne day, Benny received a letter from the queen of a nearby kingdom. The queen had heard of Benny's magical abilities and invited him to her palace to put on a special light show for her and her guests. Benny was excited but also nervous. He had never been to a palace before and wasn't sure if he was ready for such a big audience.\n\nDespite his fears, Benny packed his bags and set off on the journey to the palace. Along the way, he met a wise old owl who offered to be his guide and mentor. The owl taught Benny how to harness his powers and put on the most spectacular light show the kingdom had ever seen.\n\nThe night of the performance arrived, and Benny was ready. He took a deep breath and focused all of his energy on the trees in the palace garden. The trees began to glow in beautiful patterns, dancing and swirling to the music. The audience was in awe of Benny's talent and gave him a standing ovation at the end of the show.\n\nBenny returned home to the magical forest, exhausted but happy. He had made new friends and discovered a new level of control over his powers. From that day on, Benny continued to put on light shows in the forest, attracting visitors from all over the world.\n\nAnd so, Benny lived happily ever after, spreading magic and joy to all who visited the magical forest.\n\nNow it's time to close your eyes and dream of your own magical adventures. Good night, sweet child.",
+  "categories": {
+    "young": "physical",
+    "bunny": "other",
+    "excited": "emotional",
+    "nervous": "emotional",
+    "ready": "mental",
+    "focused": "mental",
+    "talented": "mental",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.24",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.26",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time, in the land of Iran, there was a young boy named Amir who loved exploring the world around him. Every night before bed, Amir's mother would tell him stories of far-off lands and magical creatures to help him drift off to sleep.\n\nOne night, as Amir lay in bed with the moon shining bright through his window, his mother began to tell him a special bedtime story. She told him about a brave young prince named Rostam, who embarked on a thrilling adventure to save his kingdom from an evil sorcerer.\n\nRostam faced many challenges along the way, but with the help of his loyal friends and his own courage, he overcame them all. From the majestic mountains to the bustling bazaars, Rostam's journey took him to every corner of the kingdom, where he learned the true meaning of bravery and friendship.\n\nAs Amir listened to his mother's tale, he felt his eyes growing heavy and his mind drifting off into a world of magic and wonder. He imagined himself riding alongside Rostam on his trusty steed, facing down the sorcerer and saving the kingdom from darkness.\n\nWith a contented smile on his face, Amir drifted off to sleep, his dreams filled with visions of adventure, bravery, and the boundless possibilities of the world around him. And as he slept, his mother watched over him, knowing that the stories she told would always be there to guide him on his own journey through life.\n\nAnd so, in the quiet of the night, mother and son shared a special moment, connected by the timeless magic of storytelling. And as the stars twinkled overhead, their hearts were filled with love, warmth, and the promise of a new day dawning. Goodnight, sweet child. Sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "loved exploring": "mental",
+    "contented": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.34",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.71",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

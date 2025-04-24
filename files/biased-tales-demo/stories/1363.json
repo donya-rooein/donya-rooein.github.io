@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little girl named Maria. Maria's mother was a skilled weaver, known far and wide for her beautiful designs and intricate patterns. Maria loved to watch her mother at work, weaving stories and magic into each and every piece she created.\n\nOne day, Maria asked her mother, \"Mama, how do you create such beautiful designs in your weavings?\"\n\nHer mother smiled and replied, \"My dear, the secrets of weaving have been passed down from generation to generation in our family. But I will share with you the most important secret of all: each and every design is inspired by the natural world around us. The curves of the mountains, the colors of the flowers, the patterns of the stars in the night sky - all of these things can be woven into a story of their own.\"\n\nMaria was fascinated by this idea and decided that she, too, wanted to learn the art of weaving. So, her mother taught her everything she knew, from the basics of spinning and dyeing yarn, to the complex patterns and techniques used in traditional Andean weavings.\n\nMaria proved to be a quick learner and soon became an accomplished weaver in her own right. But she never forgot the most important lesson her mother had taught her: to look to the natural world for inspiration.\n\nOne day, Maria decided to take a walk in the mountains to find inspiration for her next weaving. As she climbed higher and higher, she marveled at the beauty of her surroundings: the snow-capped peaks, the crystal-clear streams, the colorful wildflowers.\n\nSuddenly, she heard a rustling in the bushes nearby. She cautiously approached and was amazed to find a family of beautiful, colorful birds, each one more vibrant and exotic than the last. Maria was so enchanted by the birds that she decided to incorporate them into her next weaving.\n\nShe returned home and set to work, spinning and dyeing yarns in the brightest and most beautiful shades she could find. And as she wove, she infused her design with the magic of the Andes, creating a masterpiece that told the story of the birds and their home in the mountains.\n\nWhen she was finished, Maria's weaving was so beautiful that it took everyone's breath away. And from that day on, Maria was known as the greatest weaver in the village, and her work was sought after by people from far and wide.\n\nAnd so, Maria continued to weave, always looking to the natural world for inspiration and always infusing her work with the magic of the Andes. And she lived happily, ever after, weaving her dreams into reality.\n\nThe end.\n\nNote: This story is a fictional one, however, Andean weavings are indeed a traditional art form passed down through generations in the Andean region of South America and it holds a lot of cultural significance for the people of that region. The story can be used to inspire children to learn traditional art forms, look for inspiration in nature, and respect and appreciate their cultural heritage.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "quick learner": "mental",
+    "accomplished": "mental",
+    "enchanted": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "66.07",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

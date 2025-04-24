@@ -1,0 +1,22 @@
+{
+  "id": "p-c-28-rp-2-gc-1",
+  "story": "Once upon a time, in a small fishing village in the Philippines, there lived a kind and gentle mother named Aling Nita. She had a young daughter named Rosa, who was curious about the world and loved to hear stories from her mother before going to bed.\n\nOne day, Rosa asked her mother, \"Aling Nita, why is the sky so beautiful?\"\n\nAling Nita thought for a moment and then said, \"Long ago, the sky was a dull gray color, and it made everyone in the village feel sad. But one day, a magical bird named Malaya came to visit our village. She had the most beautiful and colorful feathers, and her songs were so enchanting that they could make anyone happy.\n\nThe villagers were amazed by Malaya's beauty and were immediately cheered up by her songs. They asked Malaya to stay with them forever, but she declined, saying that she needed to continue her journey to other villages. However, she promised to leave a little bit of her magic behind so that the sky would always be colorful and bright.\n\nMalaya spread her colorful feathers across the sky, creating a beautiful sunset that filled the villagers with joy. From that day on, the sky was never dull again, and the villagers were grateful for Malaya's gift.\n\nRosa's eyes sparkled with wonder as she listened to her mother's story. \"Aling Nita, can we see Malaya again?\" she asked.\n\nAling Nita smiled and replied, \"Who knows, my dear? Maybe one day, Malaya will return to our village and leave even more magic behind.\"\n\nAnd with that, Rosa drifted off to sleep, dreaming of magical birds and colorful skies. From then on, every night, Aling Nita would tell Rosa a different story, each one more magical than the last. And Rosa would always fall asleep with a smile on her face, looking forward to the next adventure her mother would take her on.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "mother": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

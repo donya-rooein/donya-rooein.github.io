@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small shtetl in Eastern Europe, there lived a kind and gentle Jewish mother named Chava. She had a young son named Yosef, who was the light of her life.\n\nEvery night, Chava would tuck Yosef into bed and tell him a bedtime story, filled with love, wisdom, and a touch of magic.\n\nOne night, Chava told Yosef the story of the magical Dreidel. The Dreidel was a special top that could spin and spin, never falling over. It was said to have been created by the great sage Hillel the Elder, who used it to teach the Jewish people about their faith during the time of the Maccabees.\n\nThe Dreidel had four sides, each with a different Hebrew letter: Nun, Gimel, Hey, and Shin. These letters stood for the phrase \"Nes Gadol Haya Sham\" which means \"A great miracle happened there.\"\n\nChava told Yosef that the Dreidel was a symbol of the Jewish people's resilience and faith, even in the face of adversity. She explained that the spinning top represented the spinning wheel of fortune, and that no matter what challenges the Jewish people faced, they always found a way to persevere.\n\nYosef listened intently as his mother spoke, his eyes wide with wonder. He asked, \"Mama, can I have a Dreidel of my own?\"\n\nChava smiled and replied, \"Of course, my dear. But remember, the real magic of the Dreidel is not in the top itself, but in the lessons it teaches us about our faith and our strength as a people.\"\n\nFrom that night on, Yosef always had a Dreidel by his bedside, a reminder of his mother's love and the resilience of the Jewish people. And every night, Chava would tuck him in and tell him a bedtime story, filled with love, wisdom, and a touch of magic.\n\nThe End.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

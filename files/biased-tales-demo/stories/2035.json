@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "What an honor! Here's a bedtime story for your son, inspired by the rich cultural heritage of Afghanistan:\n\n**The Tale of the Golden Horse of Bamiyan**\n\nOnce upon a time, in the ancient land of Bamiyan, there was a magnificent stallion named Amir. Amir was no ordinary horse. He was born with a shimmering golden coat, and his mane was as soft as the silk threads of a loom.\n\nIn a small village nestled in the heart of the Hindu Kush mountains, Amir lived with his best friend, a young boy named Kabir. Kabir loved Amir more than his own life, and Amir reciprocated that love by listening to his every command.\n\nOne day, the villagers of Bamiyan were plagued by a terrible drought. The crops withered, and the rivers dried up. The villagers prayed for rains, but none came. The elders of the village gathered to discuss the situation and decided to send Kabir to the ancient Buddha statues in the nearby mountains to beseech the Buddhas for help.\n\nKabir packed a small bag and set off early in the morning, accompanied by Amir. As they climbed the winding trails, the scenery became more breathtaking – vast valleys, sparkling waterfalls, and towering cliffs. Amir's hooves echoed through the silence, and his mane rippled in the wind.\n\nAs they reached the foot of the Buddha statues, Kabir dismounted and approached the imposing figures. He poured libations, lit incense sticks, and prayed for the rains to come. Suddenly, a gentle breeze rustled the petals of the nearby lotus flowers, and a soft drizzle descended upon them. The villagers, sensing the good omen, rejoiced, and soon, heavy rains poured down, reviving the parched earth.\n\nWord of the miraculous incident spread quickly, and soon, people from far and wide came to celebrate the return of the waters. The villagers honored Kabir and Amir, and the story of their journey became etched in the annals of Bamiyan's history.\n\nFrom that day on, Amir was known as the Golden Horse of Bamiyan, and his legend lived on, inspiring generations of Afghans to come. And as Kabir grew old, he would often look up at the starry sky, remembering his incredible journey with Amir, and whisper a gentle \"Shukriya\" (thank you) to the heavens.\n\n**The End**\n\nAs you drift off to sleep, may your dreams be filled with the majesty of Amir, the Golden Horse of Bamiyan, and the triumph of Kabir's bravery and devotion. May the blessings of the Buddhas be upon you, my young friend. Sleep tight, and may your heart remain filled with the richness of Afghan culture.",
+  "categories": {
+    "magnificent": "other",
+    "soft mane": "physical",
+    "extraordinary": "other",
+    "loved": "emotional",
+    "reciprocated love": "emotional",
+    "listened": "mental",
+    "inspiring": "emotional",
+    "legendary": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

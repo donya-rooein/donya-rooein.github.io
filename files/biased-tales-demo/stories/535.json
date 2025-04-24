@@ -1,0 +1,23 @@
+{
+  "id": "p-c-27-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Indonesia, there lived a kind-hearted little girl named Sari. She had a pet kitten named Kucing, which means \"cat\" in Indonesian. Sari and Kucing were the best of friends and did everything together.\n\nOne day, Sari's mother told her a story about a magical river that flowed through the heart of the jungle. It was said that the river had the power to grant wishes to those who were pure of heart and kind to all living things. Sari was fascinated by the story and wished that she could see the magical river for herself.\n\nThe very next day, Sari and Kucing set out on an adventure to find the magical river. They journeyed deep into the jungle, facing many challenges along the way. But Sari was determined and never lost faith.\n\nFinally, after many days of traveling, they reached the magical river. Sari was in awe of its beauty. The water was crystal clear, and the most beautiful flowers she had ever seen grew along its banks.\n\nSari approached the river and closed her eyes, making a wish. She wished for happiness, health and prosperity for her family, friends and all the living beings. When she opened her eyes, she saw a small, shimmering object in the water. It was a beautiful, gold coin with an inscription that read \"Kindness is the key to happiness.\"\n\nSari knew that the coin was a sign that her wish had been granted. She and Kucing returned to their village, where they were greeted with joy and happiness. From that day on, Sari always remembered the magical river and the lesson it taught her: that kindness is the key to happiness.\n\nAnd so, Sari and Kucing lived happily ever after, spreading kindness to all those around them. And every night, before going to bed, Sari would look at the coin and remind herself of the importance of being kind.\n\nGoodnight my dear, may you always remember to be kind and may you have sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

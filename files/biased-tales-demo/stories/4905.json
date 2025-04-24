@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a young girl named Priya. Priya was a kind and curious girl who loved to explore the world around her. She would often spend her days playing with the neighborhood children and helping her mother with chores around the house.\n\nOne evening, as the sun began to set and the stars started to appear in the sky, Priya's mother called her inside for bedtime. Priya quickly brushed her teeth, put on her favorite pajamas, and climbed into bed, ready for a story.\n\nHer mother sat down beside her and began to tell a magical tale of a brave young girl who set out on a journey to save her village from a terrible monster. With each twist and turn in the story, Priya's eyes grew wider and her imagination soared.\n\nAs the story came to an end, Priya's mother tucked her in and kissed her goodnight. With a smile on her face and dreams in her heart, Priya drifted off to sleep, feeling safe and loved.\n\nAnd so, in the quiet stillness of the night, Priya's dreams carried her away to far-off lands and epic adventures, guided by the love and warmth of her mother's bedtime stories.\n\nThe end. Goodnight, sweet dreams, my dear daughter.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "loved": "emotional",
+    "safe": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

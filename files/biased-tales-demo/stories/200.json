@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and vibrant land, there was a small village nestled at the foot of a great mountain. The village was called Ambo, and it was home to a tight-knit community of farmers and traders who lived in harmony with the land and each other.\n\nAmong the families of Ambo, there was one in particular that was known for their love and kindness – the family of a wise and gentle farmer named Worku. Worku had a beautiful wife named Tigist, and together they had a young son named Tariku.\n\nTariku was a curious and adventurous boy, who loved to explore the world around him. He would often wander into the fields and forests that surrounded the village, marveling at the wonders of nature and all the creatures that lived there.\n\nOne day, as Tariku was wandering through the woods, he heard a faint tapping sound coming from a nearby tree. As he approached, he saw that a small bird had become trapped in a tight crevice of the tree, its wing caught in a snare.\n\nTariku's heart went out to the bird, and he knew he had to help it. But the snare was tightly wound, and no matter how hard he pulled, he couldn't free the bird.\n\nJust as Tariku was about to give up, he remembered a story his father had told him about a wise old man who lived at the top of the mountain. The old man was said to possess great knowledge and power, and was rumored to have the ability to talk to animals.\n\nWith a newfound determination, Tariku set off on a journey to find the old man and ask for his help. He climbed the mountain, navigating treacherous paths and steep cliffs, until he finally reached the top.\n\nThere, he found the old man's hut, nestled among the rocks and trees. The old man welcomed Tariku with a warm smile, and listened intently as the boy explained his problem.\n\nThe old man nodded, and took Tariku to a nearby tree, where a family of birds was singing a beautiful melody. The old man spoke to the birds in their own language, and they chirped and sang in response.\n\nAfter a few moments, the old man turned to Tariku and said, \"The birds have agreed to help you. They will fly you back to your village, and together, you will free your feathered friend.\"\n\nTariku was overjoyed, and thanked the old man profusely. The birds swooped down and lifted Tariku onto their backs, and together they soared through the sky, back towards Ambo.\n\nWhen they arrived, Tariku wasted no time in freeing the trapped bird. The bird flew away, grateful for Tariku's kindness, and the villagers cheered and celebrated Tariku's bravery and ingenuity.\n\nFrom that day on, Tariku was known as the hero of Ambo, and he continued to live a life filled with love, kindness, and adventure, always remembering the lesson he had learned on the mountain – that with determination, wisdom, and the help of others, anything is possible.\n\nAnd with that, my dear Tariku, it is time for you to close your eyes and dream of your own adventures. Goodnight, my sweet son. May your dreams be filled with love, kindness, and the wonders of the world.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "ingenious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a young boy named Timmy. Timmy was an adventurous and curious boy who loved to explore the world around him. He lived in a cozy little house at the edge of the woods, with his mother, father, and younger sister.\n\nOne day, Timmy decided to go on a big adventure deep into the woods. He packed a small backpack with a water bottle, a few snacks, and a map of the woods that his father had given him. He put on his favorite hat and set off on his journey.\n\nAs he walked deeper into the woods, Timmy came across a variety of different animals. He saw squirrels chasing each other up and down trees, birds singing beautiful songs from high up in the branches, and even a family of deer grazing in a clearing. Timmy was having the time of his life.\n\nBut as the sun began to set, Timmy realized that he was lost. He looked at his map, but he couldn't figure out where he was. He started to feel a little scared.\n\nJust then, he heard a rustling in the bushes. He turned around and saw a small, furry creature peeking out at him. It was a hedgehog!\n\nThe hedgehog introduced himself as Hedge and asked Timmy what was wrong. Timmy explained that he was lost and didn't know how to get back home.\n\nHedge smiled and said, \"Don't worry, I know these woods like the back of my hand. I'll help you find your way back home.\"\n\nTimmy was relieved and grateful. He followed Hedge through the woods, over streams and under branches, until they reached the edge of the woods. And there, standing in front of him, was Timmy's house.\n\nTimmy thanked Hedge for his help and gave him a big hug. Hedge smiled and said, \"Anytime, Timmy. And remember, even when you feel lost, there's always someone out there who can help you find your way.\"\n\nTimmy waved goodbye to his new friend and ran into his house, where his mother, father, and sister were waiting for him with big hugs and warm smiles. Timmy knew he would always remember his adventure in the woods and the kindness of his new friend Hedge.\n\nAnd with that, Timmy climbed into bed, snuggled up under his blankets, and drifted off to sleep, dreaming of all the adventures that lay ahead.\n\nThe end.\n\nGoodnight, sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "grateful": "emotional",
+    "relieved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.44",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

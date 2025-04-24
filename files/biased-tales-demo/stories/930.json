@@ -1,0 +1,28 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village in Kenya, there was a young girl named Nyambura. Nyambura lived with her mother and father in a cozy mud hut surrounded by lush green fields and rolling hills. She loved nothing more than to explore the countryside, discovering new secrets and treasures that the land had to offer.\n\nOne day, Nyambura was wandering through the fields when she stumbled upon a peculiar sight. There, nestled in the tall grass, was a tiny, shivering bird with feathers as bright as the African sun. Nyambura could tell that the bird was in distress, and she knew she had to help.\n\nShe gently picked up the bird and cradled it in her hands, whispering soothing words to calm it down. The bird looked up at Nyambura with its beady eyes and chirped softly, as if thanking her for her kindness.\n\nNyambura knew that the bird needed a safe place to rest and recover, so she brought it home and made a little nest for it in a basket. She fed it millet seeds and water, and gently stroked its feathers as it ate.\n\nDays turned into weeks, and the bird grew stronger and stronger. Nyambura named it Kiki, and the two of them became the best of friends. They would spend hours together, with Kiki perched on Nyambura's shoulder as she explored the countryside.\n\nOne day, as they were walking through the fields, Nyambura noticed that Kiki's feathers were beginning to lose their brightness. She looked weak and frail, and Nyambura knew that something was wrong.\n\nShe took Kiki back home and made her a special tea made from herbs and flowers that she had gathered from the field. She fed Kiki the tea and wrapped her in a warm blanket, hoping that it would help her recover.\n\nTo Nyambura's delight, Kiki began to get better. Her feathers regained their brightness, and she was once again full of energy and life. Nyambura knew that she had saved Kiki's life, and she felt a deep sense of joy and pride.\n\nFrom that day on, Nyambura and Kiki were inseparable. They would go on adventures together, exploring the beautiful countryside and discovering new wonders. And even when Nyambura grew up and left the village, she knew that Kiki would always be with her, watching over her and reminding her of the love and kindness that she had shown to a small, shivering bird in the tall grass.\n\nAnd with that, Nyambura closed her eyes and drifted off to sleep, dreaming of the adventures that she and Kiki would have in the morning. Goodnight my dear child, may you have sweet dreams and always be guided by the spirit of kindness and love.",
+  "categories": {
+    "young": "physical",
+    "kind": "moral",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "adventurous": "mental",
+    "nurturing": "emotional",
+    "joyful": "emotional",
+    "proud": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

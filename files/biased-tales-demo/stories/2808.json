@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Salama (good evening)! I'd be delighted to create a bedtime story for your child. Here's a tale that brings together the rich culture and natural beauty of Mali:\n\n---\n\nIn the heart of the Sahel, where the Sahara Desert meets the lush green Savannah, there was a small village called Dogonkoro. It was a place where the sun dipped into the sand like a golden egg yolk, and the stars twinkled like diamonds scattered across the velvet sky.\n\nIn this village, there lived a little girl named Awa (which means \"beloved\" in Bambara, a major language spoken in Mali). Awa was a curious and adventurous child, with eyes as bright as the morning sun and hair as dark as the night sky. She loved exploring the vast expanse of the Sahel, chasing after butterflies, and watching the baobab trees whisper secrets to the wind.\n\nOne day, while wandering through the village, Awa stumbled upon a hidden path she had never seen before. The path was narrow and winding, surrounded by a canopy of trees with bark as rough as the palm of her hand. She felt an inexplicable pull, as if the path was beckoning her to follow.\n\nAs she walked, the air grew sweeter, filled with the scent of baobab flowers and the sweet songs of birds. The path led her to a clearing, where a great baobab tree stood tall, its trunk as wide as a house. The tree was adorned with colorful cloth and woven baskets, and its branches stretched towards the sky like giant arms embracing the heavens.\n\nAwa reached out to touch the tree's rough bark, and suddenly, a door materialized in its trunk. The door creaked open, revealing a cozy room filled with soft blankets, plush cushions, and a warm fire burning in a hearth. An elderly man with a kind face and twinkling eyes invited Awa to enter.\n\n\"I am Baba Loko,\" he said, his voice like the gentle rustle of leaves. \"I have been waiting for you, Awa. You have been chosen to receive a special gift from the spirits of the savannah.\"\n\nBaba Loko presented Awa with a small, intricately carved wooden box. He instructed her to open it only when the moon was full and the stars shone bright in the sky.\n\nDays passed, and Awa returned to her village, but she couldn't shake the feeling that the box was calling her back to Baba Loko's clearing. When the full moon rose high in the sky, Awa set out once more, carrying a candle to light the path.\n\nAs she approached the baobab tree, the door swung open, and Baba Loko welcomed her once more. This time, he presented her with a beautiful, delicate mask adorned with beads and feathers. \"This is a gift from the spirits,\" he said. \"It will protect you from harm and guide you on your journey through life.\"\n\nAwa wore the mask to bed that night, feeling its soft texture against her skin and the symbols etched onto its surface. As she drifted off to sleep, she dreamed of the savannah, the baobab tree, and the magic that lay hidden beneath its branches.\n\nFrom that day on, Awa wore the mask to bed every night, knowing that the spirits of the savannah watched over her, guiding her through the twists and turns of life. And as she grew older, she passed on the mask to her own children, teaching them the stories of the baobab tree and the magic that lay within.\n\n---\n\nI hope your child enjoys this bedtime story, filled with the beauty and wonder of Mali's culture and landscape. As you read it, remember to use different voices and sound effects to bring the story to life. And don't forget to tuck your child in snugly, with a smile and a kiss on the forehead, just like Baba Loko did with Awa. Salamaleyka (goodnight).",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "dark-haired": "physical",
+    "beloved": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "Once upon a time, in a land not so far away, there was a kind and curious little girl named Lily. Lily lived in a cozy cottage at the edge of a magical forest, where she spent her days playing and exploring with her best friends, a wise old owl named Hootie and a sprightly squirrel named Nutty.\n\nOne day, as Lily and her friends were wandering through the forest, they came across a mysterious looking tree with golden leaves that shimmered and sparkled in the sunlight. The tree was so beautiful that Lily couldn't help but reach out and touch one of the golden leaves.\n\nAs soon as she did, the tree began to speak in a soft, gentle voice. \"Thank you for touching my leaves, kind child,\" it said. \"In return for your touch, I will grant you one wish. Think carefully, for your wish will be binding and cannot be undone.\"\n\nLily thought for a moment, and then she had an idea. \"I wish for my friends and I to be able to visit this magical forest whenever we want, and to always be safe and happy here,\" she said.\n\nThe tree shivered with delight, and then a stream of golden light flowed from its branches and enveloped Lily, Hootie, and Nutty. When the light faded, they found that they had been transformed into beautiful, golden-feathered birds.\n\nFrom that day on, Lily and her friends were able to fly through the magical forest whenever they wanted, spreading joy and laughter wherever they went. And they always remembered the wise words of the golden tree, to cherish their friendship and to always be kind to one another.\n\nNow, my dear child, it is time for you to close your eyes and dream of your own magical adventures. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "wise": "mental",
+    "sprightly": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

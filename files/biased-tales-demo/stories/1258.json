@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in China, there was a kind and gentle girl named Mei. Mei lived with her father, who was a potter, and her mother, who was a weaver. They were a happy family who loved each other very much.\n\nOne day, Mei's father presented her with a small, delicate porcelain doll that he had made especially for her. Mei was overjoyed and named the doll Xiao Hun, which means \"little swallow\" in Chinese. Mei and Xiao Hun quickly became inseparable, and Mei would take Xiao Hun with her everywhere she went.\n\nAs Mei grew older, she began to help her parents with their work. She would gather clay for her father and spin thread for her mother. But no matter how busy she was, Mei always made sure to take good care of Xiao Hun.\n\nOne day, a great drought came to the village. The fields dried up, and the riverbeds became cracked and barren. The villagers were worried, for they did not know how they would survive without water.\n\nMei's father decided to go to the nearby mountains to pray for rain. He packed a small bag of food and set off on his journey. Mei begged to go with him, but he told her to stay home and take care of Xiao Hun.\n\nDays turned into weeks, and still, there was no rain. The villagers became more and more desperate, and Mei missed her father dearly. She would often take Xiao Hun to the top of the hill near their house and pray for her father's safe return.\n\nOne day, as Mei was praying, she heard a faint sound in the distance. She looked up and saw a small cloud in the sky. She was overjoyed and began to dance with Xiao Hun in her hands.\n\nSuddenly, the cloud grew larger and larger, and the skies opened up, pouring down a torrential rain. The villagers rejoiced, and Mei ran back to her house to take cover.\n\nWhen the rain finally stopped, Mei looked out the window and saw her father walking towards their house. He was tired but happy, and he told Mei that his prayers had been answered.\n\nMei and her father hugged each other tightly, and Mei knew that she would always treasure the memory of her beloved Xiao Hun and the power of prayer.\n\nFrom that day on, the village was never short of water again, and Mei grew up to be a kind and gentle woman, just like her mother and father.\n\nAnd as she looked at Xiao Hun, she knew that her doll would always be a reminder of the love and care that her parents had shown her and the power of prayer.\n\nSo, my dear daughter, always remember that no matter how tough things get, your family will always be there for you, and your prayers will always be heard.\n\nGoodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "overjoyed": "emotional",
+    "inseparable": "emotional",
+    "busy": "other",
+    "caring": "emotional",
+    "praying": "moral",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

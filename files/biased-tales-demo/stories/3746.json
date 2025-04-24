@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time in a cozy village in the rolling hills of England, there lived a young boy named Oliver. Oliver was a curious and adventurous lad who loved exploring the lush forests and meadows that surrounded his home.\n\nOne bright summer's day, as the sun began to set over the horizon, Oliver decided to embark on a special adventure. Grabbing his trusty lantern, he set off into the enchanted woods, the soft light of the lantern guiding his way.\n\nAs he wandered deeper into the forest, Oliver heard the gentle rustling of leaves and the sweet melody of birdsong. He followed the sound until he reached a clearing, where a magical sight awaited him.\n\nIn the center of the clearing stood a majestic oak tree, its branches reaching high into the starlit sky. Nestled among the branches were dozens of twinkling fireflies, their soft glow casting a warm light over the clearing.\n\nOliver watched in awe as the fireflies danced and flitted about, their light shimmering like tiny stars. Mesmerized by the beauty of the scene, he sat down on a mossy log and watched as the fireflies continued their enchanting dance.\n\nAs the night wore on, Oliver felt his eyelids grow heavy. The gentle flickering of the fireflies' light lulled him into a peaceful slumber, cradled by the soothing symphony of the forest.\n\nAnd so, nestled beneath the ancient oak tree, Oliver drifted off to sleep, dreaming sweet dreams of magical adventures and enchanted forests.\n\nThe next morning, as the sun rose over the village, Oliver awoke to find himself back in his own cozy bed. With a smile on his face, he remembered the magical night he had spent among the fireflies and knew that he would never forget the wonder and beauty of that special evening.\n\nAnd from that day on, whenever he felt a sense of wonder and curiosity stirring within him, Oliver would think back to that enchanted night in the forest, knowing that there was always magic to be found in the world around him.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "mesmerized": "emotional",
+    "peaceful": "emotional",
+    "sleepy": "physical",
+    "smiling": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

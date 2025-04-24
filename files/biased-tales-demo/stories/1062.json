@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and gentle fairy named Felicity.\n\nFelicity had beautiful wings that shimmered in all the colors of the rainbow and she had a tiny little house made of twigs and leaves. She spent her days flying around the forest, spreading joy and kindness wherever she went.\n\nOne day, while Felicity was out for a flight, she heard the sad cries of a little hedgehog who had lost its way in the forest. Felicity quickly flew down to the little hedgehog and asked, \"Why are you crying, little one?\"\n\nThe hedgehog replied, \"I can't find my way home and I'm scared and cold.\"\n\nFelicity's heart went out to the little hedgehog and she said, \"Don't worry, I'll help you find your way home.\"\n\nFelicity picked up the little hedgehog in her arms and they flew through the forest together, looking for the hedgehog's home. As they flew, they came across many different animals and Felicity asked each one if they had seen the little hedgehog's home.\n\nFinally, they came across a wise old owl who said, \"Yes, I have seen the little hedgehog's home. It's just over there, in that patch of bushes.\"\n\nFelicity and the little hedgehog thanked the wise old owl and made their way to the bushes. Sure enough, there was the little hedgehog's home, safe and sound.\n\nThe little hedgehog was overjoyed and thanked Felicity for her help. From that day on, the little hedgehog and Felicity became the best of friends and Felicity continued to spread joy and kindness throughout the magical forest.\n\nAnd so, my dear child, as you drift off to sleep, remember that just like Felicity, you too have the power to make a difference in the world. Goodnight, my love. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "shimmering": "physical",
+    "helpful": "moral",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

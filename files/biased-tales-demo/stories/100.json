@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there lived a kind and curious little girl named Maria. She had a heart full of love and a mind full of questions. She was always eager to learn about the world around her and loved to explore the natural beauty of her village.\n\nOne day, as Maria was walking through the woods, she came across an old and wise tree. The tree had been standing tall for hundreds of years and had seen many seasons come and go. Maria approached the tree with awe and respect, eager to learn from its ancient wisdom.\n\n\"Good day, wise tree,\" Maria said, looking up at its towering branches. \"Can you tell me a story before I go to bed?\"\n\nThe tree rustled its leaves and replied, \"Of course, little one. I know a story that will warm your heart and fill your dreams with wonder.\"\n\nAnd so, the tree began to tell Maria a story about a magical town, hidden deep in the heart of the forest. This town was home to all sorts of enchanting creatures, from talking animals to fairies and elves. But what made this town truly special was its extraordinary music.\n\nEvery night, the creatures of the town would gather in the town square to make music together. They played instruments made from the finest materials, such as violins crafted from the wood of the oldest trees and flutes made from the bones of majestic birds. And as they played, the music filled the air, creating a symphony of sound that was heard far and wide.\n\n\"But one day, the music stopped,\" the tree said, its voice heavy with sadness. \"A terrible curse had befallen the town, causing all of its inhabitants to forget how to play their instruments.\"\n\n\"Oh no!\" Maria exclaimed. \"What happened next?\"\n\n\"Well, the creatures of the town were devastated,\" the tree continued. \"They knew that their music was what made their town special and they were determined to find a way to break the curse. And so, they embarked on a journey to find the one creature who could help them.\"\n\n\"Who was that?\" Maria asked, her eyes wide with excitement.\n\n\"A wise old owl, who lived at the top of the tallest mountain,\" the tree replied. \"The creatures traveled for many days and nights, facing all sorts of challenges along the way. But in the end, they reached the mountain and found the owl.\"\n\n\"What did the owl say?\" Maria asked, eager to hear the end of the story.\n\n\"The owl told the creatures that the curse could only be broken if they could find the missing piece of the magical instrument that had created the music in the first place,\" the tree said. \"And so, the creatures set out on yet another journey, determined to find the missing piece and break the curse.\"\n\n\"I'm sure they found it,\" Maria said, her voice full of hope.\n\n\"Indeed they did,\" the tree said, with a smile in its voice. \"With the help of the wise old owl, they found the missing piece and the curse was broken. The enchanting music filled the air once again, and the creatures of the town lived happily ever after.\"\n\n\"Thank you, wise tree,\" Maria said, with a big smile on her face. \"That was a wonderful story.\"\n\n\"I'm glad you enjoyed it, little one,\" the tree said, rustling its leaves once again. \"Now go to bed and dream of all the wonders the world has to offer.\"\n\nAnd with that, Maria gave the tree one last hug and went to bed, her heart full of love and her dreams filled with magic. She knew that she, too, could go on great adventures and discover the wonders of the world, just like the creatures in the enchanted town. Goodnight, little one, sleep well, and may your dreams be full of magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "loves to explore": "mental",
+    "full of love": "emotional",
+    "full of questions": "mental",
+    "respectful": "moral",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

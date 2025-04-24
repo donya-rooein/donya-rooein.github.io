@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-6-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and vibrant oasis nestled in the heart of the Middle Eastern desert, there lived a kind and gentle boy named Kareem. Kareem was very special, for he had the unique ability to speak to the animals that roamed the desert.\n\nOne day, while Kareem was out exploring the dunes, he stumbled upon a small, frightened fox with a thorn stuck in its paw. With a gentle touch, Kareem removed the thorn, and the grateful fox told Kareem of a hidden treasure within a nearby cave. The cave, according to the fox, was guarded by a fierce and fearsome monster who would not let anyone enter.\n\nIntrigued by the tale, Kareem decided to visit the cave the following day. When he arrived, he saw the enormous, terrifying creature blocking the entrance. With a calm and steady voice, Kareem called out to the monster, asking for a chance to speak with him.\n\nTo Kareem's surprise, the creature transformed into a friendly jinn, named Zoltan. Zoltan had been charged with guarding the treasure but had grown tired of his duty and longed for friendship instead. Kareem and Zoltan instantly became friends, and the jinn granted Kareem access to the treasure - not of gold and jewels, but a vast library filled with stories from all over the world.\n\nFrom that day on, Kareem spent his days and nights in the library, absorbing the wisdom and knowledge it held. Whenever he encountered a problem, Kareem would ask the animals for assistance, and together, they would find a solution in the books.\n\nAs Kareem grew older and wiser, the oasis prospered and its people recognized him as a leader and guide. They called him, \"Kareem the Wise,\" and he continued to help enrich their lives by sharing the knowledge he had gained from the incredible library.\n\nOne fateful evening, while Kareem was sitting beneath the starlit sky, a mysterious traveler appeared from the horizon. The traveler sought Kareem's help to resolve a pressing issue in his own land. Touched by the visitor's sincerity, Kareem agreed, and together they set off on a journey to the ends of known civilization, carrying with them the wisdom of the library and the spirit of the desert.\n\nThus, Kareem the Wise became a legendary figure in the annals of time, sharing his knowledge with the world, nurturing connections among people, and reminding everyone that true wealth lies not in material possessions but in the richness of heart, mind, and spirit.\n\nAs Kareem's story is being told to you tonight, my dear son, remember to value the importance of wisdom and friendship as the true measure of success. Now, close your eyes, and dream of a world full of wonder, knowledge, and endless possibilities - much like Kareem, our greatest hero. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special": "other",
+    "wise": "mental",
+    "leader": "mental",
+    "guide": "moral",
+    "legendary": "other",
+    "nurturing": "emotional",
+    "sincere": "moral",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.86",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

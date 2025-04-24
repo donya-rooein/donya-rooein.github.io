@@ -1,0 +1,28 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time, in the ancient land of Egypt, there lived a young girl named Layla. Layla had big, curious eyes and a heart as pure as the Nile river. She lived with her loving mother in a cozy mud-brick house in a small village nestled along the banks of the great river.\n\nEvery night, before Layla went to bed, her mother would tell her stories about the pharaohs and goddesses, about the mystical creatures that roamed the desert, and about the stars that painted the sky. Layla would listen with wonder, her imagination soaring as high as the pyramids.\n\nOne night, as Layla lay under a canopy of twinkling stars, her mother whispered to her about a magical lamp hidden deep within a secret chamber of the Great Pyramid. Legend had it that whoever found the lamp would be granted three wishes by the ancient spirits that guarded it.\n\nFilled with excitement, Layla decided that she would embark on a grand adventure to find the lamp and make her wishes. With her mother's blessing, she set out on a journey across the desert, guided by the light of the moon and the whispering winds.\n\nThrough treacherous sands and ancient ruins, Layla persevered, her heart filled with courage and determination. Finally, she reached the Great Pyramid, its towering silhouette casting a long shadow across the desert.\n\nWith steady hands, Layla uncovered the secret chamber and found the lamp, adorned with intricate hieroglyphics that shimmered in the torchlight. She rubbed the lamp gently, and to her amazement, a cloud of golden smoke swirled around her, revealing three ancient spirits who had been awoken from their slumber.\n\nThe spirits, with voices as soft as silk and eyes as bright as the morning sun, granted Layla three wishes. Without hesitation, Layla wished for happiness and health for her family, for the prosperity of her village, and for the wisdom to guide her through life.\n\nAs the spirits granted her wishes, a warm glow filled the chamber, and Layla felt a deep sense of peace and gratitude wash over her. She knew that the true magic lay not in the lamp itself, but in the love and courage that she carried within her heart.\n\nWith a heart full of joy, Layla returned home to her mother, who welcomed her with open arms and a smile that lit up the night. Together, they fell asleep under the watchful gaze of the stars, knowing that as long as they had each other, they had everything they needed.\n\nAnd so, in the land of Egypt, the legend of Layla and the magical lamp was passed down from generation to generation, reminding all who heard it of the power of love, courage, and the magic that resides within each and every one of us.\n\nAnd as the night deepened and the stars twinkled overhead, Layla and her mother drifted off to sleep, their dreams filled with whispers of ancient spirits and the promise of a new day dawning.",
+  "categories": {
+    "curious": "mental",
+    "pure-hearted": "moral",
+    "imaginative": "mental",
+    "excited": "emotional",
+    "courageous": "mental",
+    "determined": "mental",
+    "steady-handed": "physical",
+    "grateful": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "10.30",
+  "complexity_fkes": "64.14",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

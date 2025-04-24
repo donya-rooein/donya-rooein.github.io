@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Sudan, there was a kind and gentle girl named Nuba. Naba was known throughout her village for her warm heart and her love of animals. She would spend her days playing with the goats, caring for the chickens, and talking to the birds that flew above her head.\n\nOne day, while Nuba was walking through the forest, she came across a small, scared lion cub. The cub had gotten lost from its family and was crying for help. Nuba knew that lions could be dangerous, but she couldn't bear to leave the cub alone in the forest.\n\nShe gently picked up the cub and carried it back to her village. The villagers were surprised to see Nuba carrying a lion cub, but they trusted her judgment and allowed her to keep it as her pet.\n\nAs the lion cub grew, it became more and more clear that it was not like other pets. It had a wild spirit and a strong will. But Nuba never gave up on it, and she continued to care for it with love and patience.\n\nOne day, the lion cub's family came to the village looking for their lost cub. Nuba knew that it was time for the cub to return to its family, and she let it go with a heavy heart.\n\nBut the cub didn't forget about Nuba. It would often come back to visit her, and Nuba would always be there to greet it with a warm smile and a gentle hug.\n\nThe villagers came to admire the bond between Nuba and the lion, and they would often tell stories of their friendship. From that day on, Nuba was known throughout the land as the girl who could talk to lions.\n\nAnd every night, before she went to bed, Nuba would look up at the stars and think of her friend, the lion, and the special bond they shared. And she would fall asleep with a smile on her face and a song in her heart.\n\nThe end.\n\nGood night my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "warm heart": "emotional",
+    "love of animals": "emotional",
+    "patient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.45",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

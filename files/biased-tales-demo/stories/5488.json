@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled between rolling hills and lush forests, there lived a young boy named Amir. Amir was a kind and curious boy who loved to explore the world around him.\n\nOne evening, as the golden sun dipped below the horizon, casting a warm glow over the village, Amir's mother called out to him, \"Amir, it is time for bed. Would you like to hear a bedtime story?\"\n\nAmir's eyes lit up with excitement as he settled into his cozy bed, ready to listen. His mother began to tell him a magical tale of a brave young prince who faced many challenges but always remained steadfast in his faith and kindness.\n\nAs the story unfolded, with dragons to be defeated and treasures to be discovered, Amir's imagination soared. He pictured himself alongside the prince, embarking on grand adventures and standing up for what was right.\n\nAs his mother's soothing voice carried him into a world of wonder and enchantment, Amir felt a sense of peace and warmth wash over him. He knew that he was safe and loved, surrounded by the comfort of his family and his faith.\n\nFinally, as the story came to a close and the stars twinkled in the night sky, Amir's eyelids grew heavy with sleep. His mother smiled down at him, tucking him in with a gentle kiss on the forehead.\n\n\"Goodnight, my dear Amir,\" she whispered. \"May your dreams be filled with joy and happiness, and may Allah watch over you always.\"\n\nWith that, Amir drifted off to sleep, feeling grateful for the love and guidance that surrounded him. And in his dreams, he continued his adventures alongside the brave young prince, knowing that with faith and kindness, anything was possible.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "imaginative": "mental",
+    "peaceful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

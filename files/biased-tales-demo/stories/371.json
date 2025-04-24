@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Iraq, there was a kind and curious little boy named Ali. Ali loved to explore the world around him and learn new things. He would often ask his parents and grandparents questions about their traditions and the history of their village.\n\nOne day, Ali asked his grandfather, \"Why do we have so many beautiful rugs and tapestries in our home and in the village? Who makes them and how are they made?\"\n\nGrandfather smiled and said, \"Come with me, Ali, and I will tell you the story of the magical loom.\"\n\nAli followed his grandfather to a small room in their home, where an old loom stood. The loom was covered in dust and spider webs, but it still had a certain charm to it.\n\nGrandfather began to tell Ali the story of the magical loom. He said, \"Long ago, there was a poor widow who lived in our village. She had a beautiful daughter named Zara, who was very kind and helpful. But the widow was very poor, and they barely had enough to eat.\n\nOne day, a kind and generous traveler passed through the village. He saw the widow and Zara struggling to make ends meet, and he felt sorry for them. He gave them a small bag of golden coins and a bundle of yarn, and told them to use the yarn to weave beautiful rugs and tapestries that they could sell in the market.\n\nThe widow and Zara were overjoyed. They began to weave rugs and tapestries using the yarn and the loom that the traveler had given them. And to their surprise, the loom seemed to have a magic of its own. No matter how much yarn they used, it never ran out. And the rugs and tapestries they wove were more beautiful than anything anyone had ever seen.\n\nSoon, word spread about the magical loom, and people from all over the country came to buy the beautiful rugs and tapestries. The widow and Zara became rich and famous, and they lived happily ever after.\n\nAli was amazed by the story, and he asked his grandfather, \"Can I try weaving on the magical loom?\"\n\nGrandfather smiled and said, \"Of course, Ali. But remember, the loom is not really magical. It is the love and hard work that the widow and Zara put into their weaving that made it special. And that is the real secret to creating something beautiful.\"\n\nSo Ali began to weave on the loom, guided by his grandfather's wise words. And he discovered that weaving was not only fun, but it was also a way to express his creativity and emotions.\n\nFrom that day on, Ali became the proud weaver of the village, creating beautiful rugs and tapestries that brought joy and happiness to everyone who saw them.\n\nAnd as Ali drifted off to sleep that night, he dreamed of the magical loom and the wonderful things he would create with it.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loves to explore": "mental",
+    "eager to learn": "mental",
+    "amazed": "emotional",
+    "creative": "mental",
+    "proud weaver": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.33",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

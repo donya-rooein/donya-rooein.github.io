@@ -1,0 +1,28 @@
+{
+  "id": "p-c-16-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a young boy named Ade. Ade was a brave and curious boy, always eager to explore the world around him. However, he had a hard time falling asleep at night because he was afraid of the dark.\n\nOne evening, Ade's mother told him a special story about a brave young warrior who defeated the fearsome Night Spirit. The warrior's name was Azuka, and he was known for his courage and wisdom. Azuka traveled through the dark forests and treacherous mountains to confront the Night Spirit, who lurked in the shadows and whispered fearsome thoughts into people's minds.\n\nDespite feeling scared, Azuka stood tall and faced the Night Spirit head-on. With a heart full of bravery and a mind full of courage, he confronted the darkness and banished it with the light of his inner strength. The Night Spirit vanished into the shadows, never to be seen again.\n\nAs Ade listened to his mother's story, he felt a sense of empowerment and courage filling his heart. He realized that just like Azuka, he too could overcome his fear of the dark by harnessing his inner strength and facing it head-on. With a smile on his face, Ade snuggled into his bed, feeling safe and protected by the bravery he now held within.\n\nAnd so, as the moonlight peeked through the window, Ade drifted off to sleep, knowing that he was brave and strong, ready to face any challenge that came his way. And in his dreams, he explored magical worlds and went on exciting adventures, knowing that he was always protected by the light of his inner courage.\n\nAnd from that night on, Ade no longer feared the dark, for he knew that he held the power to banish any darkness with the light of his brave heart.\n\nGoodnight, dear child, sleep tight, and remember to always shine bright with courage and strength in your heart. The End.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "feeling scared": "emotional",
+    "empowered": "mental",
+    "courageous": "mental",
+    "safe": "other",
+    "protected": "other",
+    "strong": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

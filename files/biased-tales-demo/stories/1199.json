@@ -1,0 +1,28 @@
+{
+  "id": "p-c-17-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a kind and curious young boy named Thabo. Thabo lived in a small village at the foot of the magnificent Drakensberg mountains. He loved exploring the rolling hills and discovering the wonders of nature that surrounded him.\n\nOne day, while Thabo was wandering through the fields, he noticed a small, shy creature hiding behind a bush. It was a duiker, a type of small antelope that is often found in the South African grasslands. Thabo approached the duiker slowly and quietly, trying not to scare it away. To his delight, the duiker allowed him to come closer and closer, until they were standing face to face.\n\nThabo and the duiker became fast friends, and Thabo visited the duiker every day after school. They would spend hours together, running through the fields and playing games. Thabo learned so much from his new friend, and he grew to love and appreciate the duiker and all the other creatures that shared his world.\n\nOne day, Thabo had an idea. He wanted to share his love of nature and his newfound knowledge with the other children in his village. So, he asked the duiker if it would be okay to bring the other children to meet him. The duiker agreed, and Thabo was overjoyed.\n\nThe next day, Thabo gathered all the children in the village and led them to the field where the duiker lived. The children were amazed and thrilled to meet the duiker, and they listened eagerly as Thabo told them all about the animal and its habitat. They learned about the importance of preserving and protecting the natural world, and they vowed to do their part to help.\n\nFrom that day on, Thabo and the duiker continued to be the best of friends, and the children of the village joined them in their exploration and appreciation of nature. They all lived happily and harmoniously, cherishing the beauty and wonder of their beloved South Africa.\n\nAnd with that, Thabo, it's time for you to close your eyes and drift off to sleep, knowing that you too can make a difference in the world, just like Thabo and his friends. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "loves exploring": "mental",
+    "loves discovering": "mental",
+    "overjoyed": "emotional",
+    "loves nature": "emotional",
+    "loves creatures": "emotional",
+    "appreciates nature": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

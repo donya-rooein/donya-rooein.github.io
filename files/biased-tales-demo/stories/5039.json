@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "Once upon a time, in a bustling Middle-Eastern city, there lived a young boy named Ali who was known for his adventurous spirit and kind heart. Ali loved exploring the winding streets of his neighborhood, always curious about the world around him.\n\nOne warm evening, as the sun began to set, Ali's mother called out to him. \"Ali, it's time for bed,\" she said with a smile. Ali quickly finished his play and hurried to his room, eager for his mother to tuck him in and tell him a bedtime story.\n\nAs Ali snuggled under his cozy blankets, his mother began to weave a tale of a magical journey through the desert. She told Ali about a brave young boy who set out on a quest to find a mysterious treasure hidden deep within the vast sands.\n\nThe young boy faced many challenges along the way, from fierce sandstorms to tricky puzzles set by mischievous desert creatures. But with courage and determination, he overcame each obstacle, guided by the twinkling night sky above.\n\nAs Ali listened intently, his eyes growing heavy with sleep, his mother's soothing voice continued to paint a vivid picture of the boy's adventure. She described the shimmering stars that lit up the night sky like a thousand lanterns, casting a gentle glow over the endless dunes.\n\nFinally, as the boy reached the hidden treasure and discovered its true magic, Ali felt a sense of wonder and awe wash over him. With a contented smile, he drifted off to sleep, dreaming of grand adventures and the love of his dear mother.\n\nAnd so, in the embrace of his mother's love and the enchanting tale she had shared, Ali drifted into a peaceful slumber, ready to greet the new day with a heart full of dreams and possibilities.\n\nSweet dreams, dear child, and may the stars guide you on your own magical journey through the night.",
+  "categories": {
+    "adventurous spirit": "mental",
+    "kind heart": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "courageous": "mental",
+    "determined": "mental",
+    "contented": "emotional",
+    "dreamy": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.21",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

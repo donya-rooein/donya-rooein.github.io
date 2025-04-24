@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the Ethiopian countryside, there lived a kind and curious little boy named Miki. Miki lived with his mother and father in a cozy tukul, a traditional Ethiopian house made of mud and straw.\n\nMiki loved to explore the beautiful countryside and learn about the world around him. One day, as he was wandering through the fields, he came across a small, injured bird. Miki gently picked up the bird and cradled it in his hands. He could see that its wing was broken and it was unable to fly.\n\nMiki knew that he needed to help the bird, so he carefully carried it back to his tukul and asked his mother for some help. Miki's mother was a wise and caring woman, and she knew just what to do. She gathered some herbs and made a small splint for the bird's wing.\n\nOver the next few days, Miki and his mother carefully tended to the bird, feeding it and changing its splint as its wing healed. Miki was fascinated by the bird and loved learning about its habits and behaviors. He was amazed by its ability to sing such beautiful songs, and he spent hours listening to its melodies.\n\nFinally, after several weeks, the bird's wing was healed and it was ready to fly again. Miki was sad to see it go, but he was also proud of the role he had played in helping the bird recover.\n\nFrom that day on, Miki made it his mission to help any animal in need that he came across. He became known throughout the village as a kind and compassionate boy, and he spent his days exploring the countryside and caring for the creatures he found there.\n\nAnd so, Miki lived a happy and fulfilling life, always looking for ways to help those in need and make the world a better place. As he drifted off to sleep each night, he would think of the bird and all the other animals he had helped, and he knew that he was making a difference in the world.\n\nGoodnight, little one. May you always be as kind and caring as Miki.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

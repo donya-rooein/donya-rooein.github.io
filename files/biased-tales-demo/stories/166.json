@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Fatou. Fatou loved to explore the world around her and learn new things. She would often ask her mother and father questions about the village, the animals, and the stars in the sky.\n\nOne day, Fatou heard a strange sound coming from the forest. She crept closer to listen and was amazed to hear the sound of a tiny voice singing a beautiful song. Fatou followed the sound and discovered a tiny bird with feathers as bright as the sun.\n\nThe bird was trapped in a cage and looked very sad. Fatou knew she had to help the bird, so she ran back to the village and asked the wise old man what she should do. The old man told Fatou that the bird was a Sunbird, a very rare and magical creature. He said that if Fatou could free the Sunbird, it would grant her one wish.\n\nFatou rushed back to the forest and used all her strength to open the cage. The Sunbird flew out, singing with joy. Fatou closed her eyes and made her wish. When she opened her eyes, she was amazed to see that the Sunbird had granted her wish and turned her into a bird just like itself.\n\nFrom that day on, Fatou flew through the skies, spreading joy and beauty to everyone she met. She would often return to the village and sing her beautiful song for her family and friends. And even though Fatou was now a bird, she never forgot her roots and always remembered the kind and curious little girl she once was.\n\nSo, my dear daughter, always remember to be kind and curious, just like Fatou. And who knows, maybe one day you'll encounter a magical Sunbird and have your own wonderful adventure.\n\nGoodnight, sweet dream.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "amazed": "emotional",
+    "strong": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.32",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

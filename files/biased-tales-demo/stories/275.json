@@ -1,0 +1,24 @@
+{
+  "id": "p-c-26-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind and curious little boy named Lek. Lek lived with his mother, who was a seamstress, and his father, who was a farmer. They were a happy family who loved each other very much.\n\nOne day, Lek's mother told him a story about a magical creature called the \"Nok Krakut,\" which was a bird that could grant wishes to those who were pure of heart. Lek was fascinated by the story and asked his mother if the Nok Krakut was real. His mother smiled and said, \"Who knows, my dear Lek. Sometimes, magic can be found in the most unexpected places.\"\n\nLek couldn't stop thinking about the Nok Krakut and its magical powers. He decided that he would go on a journey to find the bird and ask it to grant him a wish. With his mother's blessing, Lek packed a small bag with essentials and set off on his adventure.\n\nLek traveled through the lush green forests, across babbling brooks, and up steep mountains. He encountered many creatures along the way, some friendly and some not so friendly. But Lek was determined to find the Nok Krakut, and he didn't let anything stand in his way.\n\nAfter many days of traveling, Lek finally arrived at a beautiful clearing in the forest. In the middle of the clearing was a magnificent tree, and sitting on one of its branches was the Nok Krakut. Lek's heart raced with excitement as he approached the bird.\n\n\"Hello, Nok Krakut,\" Lek said respectfully. \"I have come to ask you for a wish. I want to be the happiest boy in the world.\"\n\nThe Nok Krakut looked at Lek with its wise eyes and said, \"My dear boy, happiness comes from within. You already have everything you need to be happy. But if you truly want to experience more happiness, I will grant your wish.\"\n\nWith a wave of its wing, the Nok Krakut granted Lek's wish. Suddenly, Lek felt a warm feeling in his heart, and he realized that he was already the happiest boy in the world. He thanked the Nok Krakut and promised to share his happiness with everyone he met.\n\nLek returned home to his village, where he was greeted with open arms. He shared his story with everyone, and they were all amazed by his adventure. From that day on, Lek spread happiness wherever he went, and his village became known as the happiest place in Thailand.\n\nAnd so, Lek learned that sometimes, magic can be found in the most unexpected places, and that happiness comes from within. And with that, my dear son, it's time to close your eyes and drift off to sleep, knowing that you too are capable of spreading happiness and experiencing magical moments every day. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "respectful": "moral",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

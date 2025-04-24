@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-4-rp-1-gc-1",
+  "story": "Once upon a time, in a magical land far, far away, there was a little bear named Lily. Lily lived in a cozy den deep in the heart of the Enchanted Forest. She had soft, fluffy fur that shimmered like freshly fallen snow under the moonlight.\n\nEvery night, as the stars twinkled above, Lily would curl up in her den with her favorite teddy bear, Mr. Snuggles. Before bedtime, Lily's mother would tuck her in and tell her stories of the wonders of the forest and the adventures that awaited her.\n\nOne evening, as Lily drifted off to sleep, she heard a faint rustling in the bushes outside her den. Curious, she crept outside and discovered a lost little bunny named Benjamin. Benjamin had gotten separated from his family and didn't know how to find his way home.\n\nLily's kind heart melted at the sight of the scared bunny. She took Benjamin under her paw and promised to help him find his family. Together, they journeyed through the Enchanted Forest, braving dark caverns and mysterious glades, all while forming a bond of friendship that would last a lifetime.\n\nAfter a long and adventurous night, Lily and Benjamin finally found Benjamin's family huddled near a sparkling waterfall. Benjamin's family greeted him with joyful hops and grateful tears. Lily watched with a warm heart as Benjamin reunited with his loved ones.\n\nAs they bid farewell, Benjamin's family thanked Lily for her kindness and bravery. Lily felt a sense of pride and happiness knowing that she had helped reunite a family.\n\nWith a heart full of joy, Lily returned to her cozy den, snuggled up with Mr. Snuggles, and drifted off to sleep under the watchful gaze of the twinkling stars above. And from that night on, Lily and Benjamin's tale of friendship and courage became a legend passed down through generations in the Enchanted Forest.\n\nAnd so, my dear child, always remember that kindness and compassion will guide you through any adventure, big or small. And may your dreams be filled with the magic of the Enchanted Forest, where anything is possible. Goodnight, sweet dreams, and may your heart be as pure as Lily's.",
+  "categories": {
+    "lily": "other",
+    "little": "physical",
+    "soft": "physical",
+    "fluffy": "physical",
+    "kind": "moral",
+    "brave": "mental",
+    "compassionate": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "warm-hearted": "emotional",
+    "proud": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

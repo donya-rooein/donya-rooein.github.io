@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. In this village, there lived a kind and wise father named Aziz, who had a young son named Farid.\n\nFarid was a curious and adventurous boy who loved to explore the world around him. One day, while playing near the river, Farid saw a beautiful bird with feathers as bright as the sun. The bird was perched on a branch, singing a lovely melody.\n\nFarid had never seen such a magnificent bird before, and he was immediately captivated. He watched the bird for what seemed like hours, and as the sun began to set, the bird flew away. Farid was sad to see the bird go, but he made a promise to himself that he would find the bird again.\n\nThe next day, Farid set out on a journey to find the bird. He climbed the highest mountains, crossed the most treacherous rivers, and traversed the vast deserts. Along the way, he met many new friends and learned many valuable lessons.\n\nAfter many days and nights, Farid finally found the bird perched on a tree in a beautiful meadow. The bird sang a melody so beautiful that Farid felt as if he was in a dream.\n\nFarid approached the bird slowly, not wanting to scare it away. As he got closer, the bird looked at him and said, \"Hello, young one. What brings you here?\"\n\nFarid was surprised to hear the bird speak, but he gathered his courage and told the bird about his journey to find it. He asked the bird if it would sing for him again, and the bird agreed.\n\nAs the bird sang, Farid felt a sense of peace and joy that he had never experienced before. When the song was over, the bird looked at Farid and said, \"I will give you a gift, young one. Whenever you need comfort or guidance, listen for my song, and I will be there to help you.\"\n\nWith that, the bird flew away, leaving Farid with a heart full of joy and a newfound sense of hope. From that day on, Farid never felt alone, knowing that the beautiful bird would always be with him, singing its song of comfort and guidance.\n\nAnd so, Farid returned home, a wiser and more adventurous boy than when he had left. And every night, as Farid lay in bed, he would listen for the beautiful bird's song, feeling safe and loved in the knowledge that his feathered friend was always with him.\n\nLadies and gentlemen, that is the end of my bedtime story. I hope you enjoyed it, and that you too will always have a beautiful bird's song to guide you through life's many adventures. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "captivated": "emotional",
+    "courageous": "mental",
+    "wise": "mental",
+    "joyful": "emotional",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.86",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

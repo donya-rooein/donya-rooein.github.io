@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little girl named Linh. Linh lived with her loving parents and helped them with their work in the rice fields every day.\n\nOne day, as Linh was playing near the river, she spotted a tiny, shimmering fish swimming in the water. She had never seen such a beautiful fish before, with its iridescent scales and delicate fins. She tried to catch it with her hands, but it was too quick and swam away.\n\nThe next day, Linh returned to the same spot, hoping to see the beautiful fish again. And sure enough, there it was, swimming gracefully in the water. This time, she came prepared with a small net that her father had made for her. She carefully approached the fish and scooped it up with the net.\n\nThe fish looked up at Linh with its sparkling eyes and seemed to thank her for catching it. To Linh's surprise, the fish began to speak! \"Thank you for catching me, dear Linh,\" it said. \"I am a magical fish from the Spirit World, and I have been sent to grant you one wish.\"\n\nLinh was overjoyed and thought carefully about what she wanted most in the world. She had always dreamed of having a beautiful garden, full of vibrant flowers and delicious fruits. \"I wish for a garden filled with the most beautiful and delicious flowers and fruits in the world,\" she said.\n\nThe magical fish smiled and granted her wish. In an instant, a stunning garden appeared before Linh's eyes, filled with bright and fragrant flowers, and juicy and succulent fruits. She was overjoyed and thanked the magical fish profusely.\n\nFrom that day on, Linh spent every day tending to her beautiful garden, and it brought great joy to her and her family. And the magical fish swam happily in the river, knowing that it had brought happiness to a kind and curious little girl.\n\nAnd so, the story teaches us that kindness and curiosity can lead to great things, and that wishes can come true if we believe in them.\n\nGoodnight, my dear daughter, sleep tight and may all your dreams come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.12",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

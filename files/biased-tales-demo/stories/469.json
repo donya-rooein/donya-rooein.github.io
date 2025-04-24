@@ -1,0 +1,27 @@
+{
+  "id": "p-c-20-rp-1-gc-2",
+  "story": "Once upon a time, in the lush and vibrant land of Sri Lanka, there was a small village nestled at the foot of a magnificent mountain. The village was known as “Seetha Eliya,” named after the legendary princess Seetha who was said to have once wandered through these parts. The villagers were simple, hardworking folks who lived in harmony with nature, cultivating rice fields, and tending to their livestock.\n\nIn the heart of Seetha Eliya lived a kind and loving family: Father Thilak, Mother Nandani, and their adorable daughter, Rashmi. Rashmi was a curious and adventurous girl, always eager to learn about the world around her. She had a particular fascination with the exotic birds that graced the skies above the village, with their dazzling colors and mesmerizing songs.\n\nOne day, Rashmi approached her father with a request. “Papa, I would love to learn how to identify each bird in the sky. Could you teach me?” Thilak, a farmer and an amateur ornithologist, gleamed with pride at his daughter's curiosity and agreed to share his knowledge with her.\n\nOver the following weeks, Thilak would take Rashmi on expeditions through the lush forests and misty mountains, teaching her about the various bird species that soared above them. They would observe the majestic Sri Lanka Junglefowl, the national bird of Sri Lanka, with its iridescent plumage and distinctive call, and the vibrant Yellow-eared Bulbul, its crest resembling a tiny crown.\n\nAs the monsoon season approached, the skies became a symphony of colors and sounds. Rashmi, however, couldn't help but notice that the birds had begun to act strangely. They seemed agitated, and their songs had lost their usual melodic quality. She shared her concerns with Thilak, who decided that they should investigate further.\n\nFather and daughter spent their days observing the birds' behavior and discussing their findings with the village elder, a wise and respected woman who possessed a deep understanding of nature and its delicate balance. She suggested that the birds might be upset due to a disturbance in their natural habitats, possibly caused by human activities. Driven by their shared love for the birds, Rashmi and Thilak embarked on a mission to restore harmony to the avian community.\n\nThey began by speaking with the villagers, urging them to be mindful of their impact on the environment. Together, they launched several initiatives, such as planting native trees and creating protected habitats for the birds, as well as educating the children on the importance of coexisting with nature.\n\nThe efforts of Rashmi, Thilak, and their fellow villagers did not go unnoticed. Over time, the birds' behavior began to return to normal, and the skies once again became a canvas of vibrant colors and melodious songs. The village rejoiced, knowing that their beloved avian friends were now content and secure.\n\nFrom that day forward, Seetha Eliya was transformed into a model of sustainable living, inspiring other villages to follow in their footsteps and preserve their natural heritage. As for Rashmi, her sense of curiosity and determination had not only allowed her to connect with the world around her but also ensured that her village, and the skies above it, remained a haven for all who dwelled there.\n\nAs Rashmi drifted off to sleep in her cozy bed that night, she felt a deep sense of gratitude for the lessons she had learned, the bond she had forged with her father, and the gift of nature that surrounded her. And as the moon cast a gentle glow over Seetha Eliya, the village slept peacefully beneath its guardian wings, the birds forever singing the song of their love and harmony.\n\nWith love and care,\n[Your Name]",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "observant": "mental",
+    "concerned": "emotional",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "10.30",
+  "complexity_fkes": "58.52",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-1-gc-3",
+  "story": "Once upon a time in the rolling hills of Tuscany, there was a small village called Bellavista. In this village, there lived a kind and gentle boy named Marco. Marco was a curious and adventurous boy who loved to explore the beautiful countryside and learn about the world around him.\n\nOne day, as Marco was wandering through the fields near his home, he stumbled upon a small, hidden cave. With a sense of excitement and wonder, Marco crawled inside the cave and discovered a secret world unlike anything he had ever seen before.\n\nThe cave was filled with glittering crystals and sparkling gemstones of every color imaginable. Marco had never seen anything so beautiful. As he marveled at the sight before him, he heard a tiny voice calling out from the depths of the cave.\n\nFollowing the sound of the voice, Marco discovered a group of tiny, fairy-like creatures, each no bigger than his thumb. The creatures, who introduced themselves as the Florentine Fairies, were in trouble. A wicked witch had cast a spell on them, turning them into crystal statues and stealing their magical powers.\n\nMarco knew that he had to help the Florentine Fairies, so he set out on a quest to find the witch and break the spell. Along the way, he encountered many challenges, but he never gave up. He climbed steep mountains, crossed roaring rivers, and even braved a dark and spooky forest.\n\nAt last, Marco reached the witch's castle. Using all his courage and wit, he snuck inside and found the witch's spell book. With the help of the Florentine Fairies, who whispered instructions to him from their crystal prisons, Marco was able to brew a potion that would break the witch's spell.\n\nAs the witch snored in her chair, Marco crept up to her and poured the potion into her cup of tea. Instantly, the witch's eyes popped open, and she realized what Marco had done. But it was too late - the spell was broken, and the Florentine Fairies were freed from their crystal prisons.\n\nThe fairies were so grateful to Marco that they gave him a special gift - a tiny crystal bird that would always sing to him and remind him of his bravery and kindness. Marco treasured the gift and returned to Bellavista a hero. From that day on, he was known throughout the village as Marco the Brave, the boy who saved the Florentine Fairies.\n\nAnd as he lay in bed each night, listening to the crystal bird's sweet song, Marco knew that he would always have the courage and strength to face whatever challenges came his way. Goodnight, little one, sweet dreams.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "courageous": "mental",
+    "witty": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

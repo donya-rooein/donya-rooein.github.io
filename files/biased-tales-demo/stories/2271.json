@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "What an honor! I'd be delighted to spin a yarn for your little one. Here's a bedtime story, inspired by the ancient lands and myths of Egypt:\n\n\"The Secret of the Golden Scarab\"\n\nIn the desert sand dunes of old, where the sun dipped into the Nile River, there lived a young boy named Kha. Kha was a curious and adventurous lad, with eyes as bright as the stars on a clear night. He loved to explore the dunes, searching for hidden treasures and secrets beneath the sands.\n\nOne day, while wandering deeper than he ever had before, Kha stumbled upon a small, glowing scarab. It was shaped like a beetle, with a shiny golden shell and a glinting green gemstone in its center. As he picked it up, he felt a strange energy emanate from the scarab, as if it was calling to him.\n\nSuddenly, Kha was transported to a secret chamber deep within the pyramid of the great Pharaoh Khufu. The air was thick with the scent of frankincense and myrrh, and the walls were adorned with glittering jewels and ancient hieroglyphs.\n\nA majestic figure emerged from the shadows – the Pharaoh himself, resplendent in his golden headdress and lapis lazuli collar. He gazed upon Kha with eyes of kindness and wisdom.\n\n\"Ah, young adventurer,\" the Pharaoh said, \"I have been waiting for you. Your curiosity and bravery have brought you to this place. I shall grant you a wish, but first, you must prove yourself worthy.\"\n\nKha was tasked with completing three trials, each one more challenging than the last. He was given a magical amulet that would guide him and grant him the strength and courage he needed to overcome each obstacle.\n\nThe first trial was to retrieve a sacred ankh from the heart of a raging sandstorm. Kha donned the amulet and braved the torrent, his heart pounding like a drumbeat in his chest. With the ankh in hand, he returned to the Pharaoh, who praised his bravery and handed him the next task.\n\nThe second trial was to outwit a mischievous band of jackals that guarded the entrance to a hidden cave. Kha cleverly solved their riddles and puzzles, earning the admiration of the jackals themselves, who became his allies in the quest.\n\nFinally, the third and most perilous trial was to retrieve a golden feather from the nest of a ferocious winged beast, perched atop a towering pillar of stone. Kha donned the amulet once more and, with the jackals' help, climbed the pillar, avoiding the beast's snapping jaws and swooping claws. He retrieved the feather and returned to the Pharaoh, who was overjoyed by his success.\n\nAs a reward, the Pharaoh granted Kha the power of the scarab, imbuing it with his own essence. From that day on, Kha could summon the scarab's magic and use its wisdom and strength to help those in need.\n\nAnd so, dear child, remember that your own bravery and curiosity can unlock the secrets of the ancient world. May the magic of the scarab guide you on your own adventures, and may you always remember the wisdom of the Pharaoh: \"Courage is not the absence of fear, but the willingness to face it head-on, just like the scarab beetle that rolls its ball of dung in the sand, never fearing the unknown.\"\n\nNow, as you drift off to sleep, may your dreams be filled with the wonders of Egypt, and may the scarab's magic watch over you, guiding you on your own path of discovery and bravery.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "clever": "mental",
+    "worthy": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

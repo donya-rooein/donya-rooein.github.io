@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-1-rp-2-gc-3",
+  "story": "¡Hola, m'hijo! Tonight, I have a special story just for you.\n\nOnce upon a time, in a small village nestled in the heart of Mexico, there lived a little boy named Leo. Leo was a curious and adventurous boy, with big, bright eyes and a mop of curly black hair.\n\nLeo loved to explore the world around him, and his favorite place to do so was in the magical forest that surrounded his village. Every day, he would slip out of the house while his parents were busy in the kitchen, and venture into the forest to discover new wonders.\n\nOne evening, as the sun began to set, Leo decided to take a different path than usual. He wandered deeper into the forest than he had ever been before, the trees growing taller and the shadows growing darker with every step.\n\nSuddenly, Leo stumbled upon a clearing, and in the center of it stood an enormous tree, its branches reaching up towards the stars like giant arms. The tree was unlike any Leo had ever seen before - its bark was a deep, rich brown, and its leaves shimmered like diamonds in the fading light.\n\nLeo felt drawn to the tree, as if it was calling to him. He approached it slowly, feeling the energy of the forest pulsing through him. As he reached the base of the tree, a small door materialized, and a tiny voice called out to him.\n\n\"¡Hola, Leo! Welcome to my home!\" said the voice.\n\nLeo looked up to see a small, mischievous-looking sprite perched on the branch above him. The sprite had wings like a butterfly and hair like a mess of curly vines.\n\n\"Who are you?\" Leo asked, his heart pounding with excitement.\n\n\"My name is Luna,\" said the sprite. \"I am the guardian of this magical forest, and I have been waiting for you. You, Leo, have a special gift - the gift of curiosity and wonder. And with that gift, you can discover all the secrets of this forest and bring joy to your family and community.\"\n\nLeo's eyes widened with excitement as Luna began to lead him on a magical journey through the forest. They danced under the stars, played with the fireflies, and met all manner of creatures - birds with glittering feathers, rabbits with leaves for ears, and even a wise old owl who shared secrets of the forest with them.\n\nAs the night wore on, Leo realized that the forest was full of magic, and that he had a special role to play in it. He felt grateful to Luna for showing him the way, and he knew that he would always carry the magic of the forest with him, wherever he went.\n\nAs the first light of dawn began to creep over the horizon, Luna led Leo back to the edge of the forest. \"Remember, Leo,\" she said, \"the magic is always here, waiting for you to discover it. And don't forget to share the magic with your family and friends.\"\n\nWith that, she vanished, leaving Leo to make his way back to his village. From that day on, Leo shared the magic of the forest with everyone he met, and his village became a place of wonder and joy, where the magic of the forest lived on.\n\nAnd now, m'hijo, it is time for you to go to sleep, but remember that the magic is always with you, waiting for you to discover it. Sweet dreams, mi amor.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "big bright eyes": "physical",
+    "special gift": "other",
+    "grateful": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

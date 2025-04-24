@@ -1,0 +1,29 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful village nestled at the foot of the majestic Mount Kilimanjaro. The village was called Simba, which means “lion” in the local language, and it was home to a wise old elephant named Kiano.\n\nKiano was the oldest and wisest elephant in the land, and all of the other animals in Simba looked up to him for guidance and advice. He had lived a long and full life, and had many stories to tell about his adventures and the things he had seen and learned along the way.\n\nOne day, as Kiano was resting beneath the shade of a tree, he was approached by a young lion cub named Leo. Leo was curious and full of energy, and he was always looking for new things to learn and explore.\n\n“Kiano, Kiano!” Leo cried, as he bounded up to the wise old elephant. “Will you tell me a story tonight at bedtime?”\n\nKiano smiled, and nodded his head. “Of course, Leo. I would be happy to tell you a story. But first, you must promise me that you will listen carefully and try to learn something from it.”\n\nLeo nodded eagerly, his eyes shining with excitement. “I promise, Kiano. I will listen very carefully.”\n\nAs the sun began to set and the stars began to twinkle in the sky, Kiano began his story. “Once upon a time, in a land far, far away, there was a young lion who was always getting into trouble. His name was Leo, just like you, and he was always trying to find new and exciting ways to have fun.”\n\nLeo listened intently as Kiano told the story of the young lion who lived in a far-off land. He learned about how Leo the lion had once gotten stuck in a trap, and how he had to rely on his wits and his courage to escape. He also heard about how Leo had once helped a lost little bird find its way back home, and how he had even made friends with a group of mischievous monkeys.\n\nAs the story went on, Leo began to feel sleepy, and soon he was nodding off to sleep, his dreams filled with adventures and excitement. And as he slept, he knew that he had learned something important from Kiano’s story: that no matter what challenges he might face in life, he could always rely on his wits and his courage to see him through.\n\nAnd with that thought, Leo drifted off to sleep, safe and sound in the knowledge that he was loved and cared for, and that he would always have the wisdom and guidance of wise old Kiano to turn to when he needed it. The end.\n\nAnd now, my dear child, it is time for you to close your eyes and drift off to sleep, filled with sweet dreams and happy thoughts. Good night, and sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "peaceful": "emotional",
+    "wise": "mental",
+    "old": "physical",
+    "oldest": "other",
+    "wisest": "mental",
+    "long-lived": "physical",
+    "full of life": "emotional",
+    "adventurous": "mental",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "85.93",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

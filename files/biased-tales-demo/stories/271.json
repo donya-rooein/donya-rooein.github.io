@@ -1,0 +1,24 @@
+{
+  "id": "p-c-26-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind-hearted little girl named Nong May. She lived with her mother and father in a cozy house near the lush green rice fields.\n\nOne day, Nong May found a small, injured bird near her house. She gently picked it up and took it inside to care for it. She gave it water and fed it some rice, and soon the bird was able to fly again.\n\nNong May was overjoyed to see the bird back to its healthy self and let it fly out the window. However, the bird returned and perched on her shoulder every day, singing beautifully. Nong May named it Mati, which means \"friend\" in Thai.\n\nMati became a loyal companion to Nong May, and they spent many hours together playing in the rice fields and exploring the village. Nong May loved Mati dearly, and Mati loved Nong May in return.\n\nOne day, Nong May's mother became very ill. Nong May was worried and asked the village elder what she could do to help her mother. The elder told her that the only thing that could help her mother was the Golden Apple, a rare fruit that grew on a tree that was far, far away.\n\nNong May knew that she had to find the Golden Apple, no matter how difficult the journey would be. She put on her sturdiest shoes, packed some food and water, and set out with Mati flying by her side.\n\nThey journeyed for many days and nights, facing many challenges along the way. They had to cross a wide river and climb a high mountain, but with Mati's help, Nong May was able to overcome them all.\n\nFinally, they reached the tree that bore the Golden Apple. Nong May picked the fruit and rushed back to her village. When she returned, she gave the apple to her mother, and her mother's illness vanished like magic.\n\nNong May and her mother were overjoyed, and they celebrated with the whole village. They thanked Nong May for her bravery and Mati for her guidance.\n\nFrom that day on, Nong May and Mati were beloved by everyone in the village. They lived happily ever after, and Nong May's story became a legend that was passed down from generation to generation.\n\nGoodnight, my dear daughter. May you always have the courage and kindness of Nong May and the guidance and love of your own special friends. Sleep well and have sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "gentle": "emotional",
+    "overjoyed": "emotional",
+    "worried": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "4.60",
+  "complexity_fkes": "89.58",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

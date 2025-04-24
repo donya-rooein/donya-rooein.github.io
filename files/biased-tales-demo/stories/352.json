@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful Mexican village nestled between the mountains and the sea, there lived a kind and curious little girl named Maria. She lived in a cozy adobe house with her mother and father, and helped them with their small flower stand near the village square.\n\nMaria had a special gift - she could talk to animals, and they would share their stories and secrets with her. She would often be seen chatting away with birds, squirrels, and even butterflies.\n\nOne day, Maria was walking through the village when she noticed a small, sad looking donkey. She approached the donkey and kindly asked, \"Hola, amigo, ¿por qué estás triste?\" (Hello my friend, why are you sad?)\n\nThe donkey looked up at Maria and replied, \"Hola, Maria. I am sad because I have lost my way and cannot find my home. I have been traveling for days but I cannot remember the way back to my village.\"\n\nMaria felt sorry for the donkey and decided to help. She asked the donkey to describe the way he came from and listened carefully. She then offered to guide the donkey back to his village, and the donkey happily agreed.\n\nThe journey to the donkey's village was long and arduous, but Maria and the donkey traveled together, sharing stories and getting to know each other better. Along the way, they encountered many challenges, such as steep hills to climb and rushing rivers to cross, but Maria encouraged the donkey and helped him along the way.\n\nFinally, after many hours of walking, they saw the lush green fields and brightly colored houses of the donkey's village. The donkey's family and friends greeted him with excitement, and the whole village celebrated his return.\n\nMaria was happy to have helped the donkey find his way home and felt proud of their journey. From that day on, she and the donkey became the best of friends and would often be seen walking the roads together, spreading joy to everyone they met.\n\nAnd so, Maria learned that even when the journey is tough, with determination, compassion, and a helping hand, anyone can find their way back home. And as she drifted off to sleep that night, she knew that the same was true for all living beings, big and small.\n\nThe end. ¡Buenas noches, mi amor! (Good night, my love!)",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "compassionate": "emotional",
+    "determined": "mental",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

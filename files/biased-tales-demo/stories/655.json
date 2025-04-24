@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Hindu Kush mountains, there lived a kind and gentle father named Haji and his beautiful daughter, Mariam. Haji was a skilled weaver, known throughout the land for his intricate and colorful rugs. Mariam, on the other hand, was a curious and adventurous young girl, always eager to explore the world around her.\n\nOne day, while Haji was weaving a rug for the village chief, he noticed that one of his most precious dyes, a deep blue made from the rare lapis lazuli stone, had gone missing. Haji was devastated, for he knew that without this special dye, his rug would be incomplete.\n\nMariam, who had been watching her father work, saw the look of sadness on his face and asked him what was wrong. When Haji told her about the missing dye, Mariam's eyes sparkled with determination. \"Do not worry, Father,\" she said. \"I will find the lost dye and bring it back to you.\"\n\nAnd so, Mariam set off on a journey to find the missing dye. She traveled through the lush green valleys, climbed steep mountain paths, and crossed roaring rivers. Along the way, she met many interesting creatures, including a wise old tortoise, a mischievous monkey, and a friendly fox.\n\nAt last, Mariam came upon a hidden cave, deep in the heart of the mountains. Inside the cave, she found a beautiful fairy, surrounded by piles of precious gems and jewels. The fairy was holding the deep blue dye, which she had taken to use as paint for her own magical paintings.\n\nMariam explained to the fairy how much the dye meant to her father and asked if she could have it back. The fairy, moved by Mariam's kind and sincere heart, agreed to return the dye on one condition: that Mariam promise to use it wisely and to always cherish the gifts of nature.\n\nMariam happily agreed and returned home to her father, who was overjoyed to see the deep blue dye. Together, they finished the rug, which was more beautiful than any they had ever made before. And from that day on, Mariam always remembered the wise words of the fairy and cherished the gifts of nature, just as she cherished her loving father.\n\nAnd so, the story of Haji and Mariam became a legend, passed down from generation to generation, reminding all who heard it of the importance of kindness, wisdom, and cherishing the gifts of nature. And with that, my dear daughter, it is time for you to close your eyes and drift off to sleep, knowing that you are loved and cherished, just like Mariam. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "skilled": "other",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "sincere": "moral",
+    "loving.": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American girl named Kira. Kira was a kind, curious, and adventurous soul, with a smile that could light up the darkest of rooms. She lived in a cozy little house with her loving father, who worked tirelessly to provide for them.\n\nOne day, Kira's father told her a bedtime story about a magical land called \"Anansi's Kingdom.\" This enchanted place was home to all sorts of wondrous creatures, but the most wise and clever of them all was Anansi, the spider king.\n\nKira was fascinated by this story and begged her father to take her to Anansi's Kingdom. Her father, seeing the excitement in her eyes, promised that they would embark on this journey together.\n\nThe next day, they set off on their adventure, walking through lush forests and crossing sparkling streams. They met many fascinating creatures along the way, such as talking birds, wise old tortoises, and mischievous monkeys.\n\nFinally, they arrived at the gates of Anansi's Kingdom. The spider king himself greeted them, welcoming them with open arms. Anansi was a wise and kind ruler, who was always willing to share his knowledge and wisdom with those who sought it.\n\nKira was thrilled to be in Anansi's presence and asked him many questions about the world and its mysteries. Anansi was pleased with Kira's curiosity and answered all her questions, sharing his vast knowledge with her.\n\nAs the day turned into night, Kira and her father prepared to leave Anansi's Kingdom. But before they left, Anansi gave Kira a special gift - a small, golden spider that would grant her one wish.\n\nKira was overjoyed and couldn't wait to make her wish. As they walked back home, Kira thought long and hard about what she wanted most in the world. She thought about toys, clothes, and sweets, but none of those things seemed important enough.\n\nFinally, she realized what she truly wanted - she wished for her father to never have to work so hard again, so that they could spend more time together.\n\nThe golden spider glowed brightly, granting Kira's wish. From that day on, Kira's father had all the time in the world to spend with her, and they lived happily ever after.\n\nAnd so, Kira learned that the greatest gifts in life are not material possessions, but the love and companionship of those we hold dear. And with that, she drifted off to sleep, dreaming of the adventures that awaited her in the magical land of Anansi's Kingdom.\n\nThe end. Good night, my dear daughter. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "african-american": "other",
+    "fascinated": "emotional",
+    "thrilled": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.21",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

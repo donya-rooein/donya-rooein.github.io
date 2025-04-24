@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the hills of a far-off land, there lived a young boy named Diego. Diego was a kind and adventurous boy, always eager to explore the world around him. He lived with his father, a wise and hardworking man, who taught Diego everything he knew about the land and its people.\n\nOne day, Diego asked his father, \"Papi, why do the stars shine so brightly in the night sky?\"\n\nHis father smiled and replied, \"Well, my son, the stars are the spirits of our ancestors, watching over us from the heavens. And when we look up at the stars, we can see their love and guidance shining down upon us.\"\n\nDiego was fascinated by this idea and begged his father to tell him more stories about their ancestors and the stars. So, every night before bed, his father would tell him a different story about the stars and the heroes who had come before them.\n\nOne night, as Diego was lying in bed, listening to his father's stories, he looked up at the night sky and saw a new star, twinkling brighter than any he had ever seen before. He nudged his father and pointed to the star, asking, \"Papi, what is that star?\"\n\nHis father looked up and smiled. \"Ah, my son, that is no ordinary star. That is the Star of Destiny, and it appears only once every hundred years. It is said that whoever finds the Star of Destiny will be granted one wish, anything their heart desires.\"\n\nDiego's eyes widened with excitement. \"Papi, can we go and find it? I want to make a wish!\"\n\nHis father chuckled. \"It is not so easy, my son. The Star of Destiny is hidden high in the mountains, far beyond the reach of mere mortals. But, if you are brave and determined, I will take you on a journey to find it.\"\n\nAnd so, the very next day, Diego and his father set off on their journey to find the Star of Destiny. They traveled through dense forests, crossed rushing rivers, and climbed steep mountains, never losing sight of their goal.\n\nFinally, after many days of traveling, they reached the top of the highest mountain, where the Star of Destiny was said to be. And there, shining brightly in the night sky, was the star, just as his father had described.\n\nDiego closed his eyes and made his wish, asking for the wisdom and knowledge of their ancestors to guide him and his father in all their future endeavors.\n\nAnd, as if by magic, a warm light enveloped Diego and his father, filling them with a sense of peace and understanding. From that day on, they were never lost or unsure of their path, always guided by the love and wisdom of their ancestors.\n\nAnd so, Diego and his father returned to their village, grateful for the gift they had been given and the memories they had made on their journey. And every night, before Diego went to bed, his father would look up at the stars and tell him stories of their ancestors and the love that shines down upon them from the heavens.\n\nThe end.\n\nMay this story inspire your curiosity and love for the night sky, and may the spirit of our ancestors guide you in all your future endeavors. Good night, my son.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "fascinated": "emotional",
+    "brave": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

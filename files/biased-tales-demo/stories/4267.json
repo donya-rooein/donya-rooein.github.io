@@ -1,0 +1,27 @@
+{
+  "id": "p-c-4-rp-2-gc-3",
+  "story": "Once upon a time, in the magical land of Germany, there lived a young boy named Hans. Hans was a kind and brave little boy, always eager to explore the forests and meadows surrounding his village.\n\nOne evening, as the sun began to set, Hans's mother tucked him into bed and whispered, \"Goodnight, my dear Hans. May your dreams be filled with wonders and adventures.\"\n\nBut Hans couldn't sleep. He felt restless and curious about the world outside his window. So he quietly slipped out of bed and tiptoed out of his house into the moonlit night.\n\nAs Hans wandered through the woods, he heard a soft rustling in the bushes. Cautiously, he approached and found a tiny squirrel caught in a thicket. The squirrel looked up at Hans with big, pleading eyes.\n\nWithout hesitation, Hans gently freed the squirrel from the tangle of branches. The grateful squirrel chattered happily and led him deeper into the forest, where they stumbled upon a clearing filled with fireflies dancing in the night.\n\nMesmerized by the magical display, Hans sat down and watched in awe as the fireflies created a shimmering light show just for him. The gentle glow of their wings filled his heart with joy and wonder.\n\nAs the night grew late, Hans knew it was time to return home. The squirrel nuzzled his hand in gratitude before darting off into the darkness. Hans smiled, feeling grateful for the unexpected adventure and the friendship he had found in the forest.\n\nWith a contented heart, he made his way back to his village, climbing into bed just as the first light of dawn peeked through his window. As he drifted off to sleep, Hans knew that even the smallest acts of kindness could lead to the most magical and unforgettable adventures.\n\nAnd so, under the watchful eyes of the moon and stars, Hans fell asleep with a smile on his face, knowing that there would always be more wonders waiting for him in the world outside. \n\nGoodnight, dear Hans. Sleep well, and may your dreams be filled with endless adventures and enchanting discoveries. Gute Nacht!",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "eager to explore": "mental",
+    "restless": "mental",
+    "curious": "mental",
+    "gentle": "emotional",
+    "grateful": "emotional",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

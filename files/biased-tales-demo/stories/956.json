@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the Ethiopian countryside, there lived a kind and curious young boy named Mika. Mika loved to explore the world around him, from the lush green fields and rolling hills to the bustling marketplace in the center of the village.\n\nOne day, as Mika was wandering through the market, he came across an old storyteller named Ato Shewa. Ato Shewa was known throughout the land for his incredible tales of adventure, magic, and wonder. Mika was drawn to the storyteller and begged him to share one of his stories.\n\nAto Shewa smiled at the young boy and agreed. He told Mika the story of the legendary creature known as the Abayneh Bird. The Abayneh Bird was said to be the most beautiful bird in all of Ethiopia, with feathers as bright and vibrant as the sun and a song that could make even the most troubled heart feel at peace.\n\nAccording to the story, the Abayneh Bird lived at the top of the tallest mountain in Ethiopia, and only those who were pure of heart and kind to others could ever hope to find it. Mika was fascinated by the tale and couldn't wait to set out on his own adventure to find the Abayneh Bird.\n\nThe next day, Mika packed a small bag with some food and water and set out on his journey. He climbed mountains and crossed rivers, asking everyone he met if they had ever seen the Abayneh Bird. But no matter where he went, no one seemed to know where the bird could be found.\n\nJust when Mika was about to give up, he stumbled upon an old woman gathering firewood in the forest. She was frail and alone, and Mika could see the sadness in her eyes. He approached her and asked if she knew where he could find the Abayneh Bird.\n\nThe old woman looked at Mika with surprise and said, \"I have never seen the bird myself, but I have heard that it only appears to those who are kind and compassionate. You seem like a good boy, Mika. Why don't you help me gather some firewood, and maybe the bird will appear to you.\"\n\nMika agreed and spent the rest of the day helping the old woman. As they worked, they talked and laughed, and Mika learned that the old woman's name was Woizero Tiru. She had lived a long and difficult life, but she remained kind and optimistic.\n\nAs the sun began to set, Woizero Tiru thanked Mika for his help and sent him on his way. Mika thanked her and continued on his journey. As he climbed the tallest mountain in Ethiopia, he couldn't help but think of Woizero Tiru and the kindness she had shown him.\n\nSuddenly, as he reached the top of the mountain, Mika heard the most beautiful song he had ever heard. It was the Abayneh Bird, singing its magical song. Mika's heart was filled with joy and wonder as he watched the bird soar through the sky, its feathers shimmering like gold in the setting sun.\n\nFrom that day on, Mika knew that kindness and compassion were the true treasures in life. And whenever he heard the story of the Abayneh Bird, he was reminded of the special bond he shared with Woizero Tiru, the old woman who had shown him the true meaning of kindness.\n\nAnd with that, Mika, it's time for you to close your eyes and drift off to sleep, knowing that you too can make the world a better place with your kind heart and compassionate spirit. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "good": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "85.52",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

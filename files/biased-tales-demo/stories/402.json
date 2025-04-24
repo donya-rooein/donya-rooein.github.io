@@ -1,0 +1,23 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Afghanistan, there lived a kind and gentle father named Haji Ali. He had a young daughter named Mariam, who was the apple of his eye. Every night, Haji Ali would sit by Mariam's bedside and tell her stories of their beautiful country, its rich history, and its brave and resilient people.\n\nOne night, as Mariam snuggled under her warm blankets, Haji Ali began a new story, one that he had heard from his own father many years ago.\n\n\"Long, long ago,\" Haji Ali began, \"in a time of great drought and hardship, there lived a poor farmer named Juma. Juma worked tirelessly day and night to provide for his wife and their six children, but no matter how hard he worked, the land refused to yield its fruits. The family was always hungry, and their bellies ached with an emptiness that never seemed to go away.\"\n\nMariam listened intently as her father spun the tale, her eyes wide with wonder.\n\n\"One day, as Juma was walking home after a long day of tilling the barren fields, he came across a small, dirty object lying in the road. He picked it up and discovered that it was a small, tarnished lamp. As he held it up to inspect it further, a sudden gust of wind blew through the valley, and the lamp slipped from his hand, shattering into a thousand pieces.\"\n\n\"Oh no!\" Mariam exclaimed, her hands covering her mouth in shock.\n\nHaji Ali smiled at his daughter's reaction and continued. \"As the lamp shattered, a brilliant light filled the air, and a magnificent genie appeared before Juma. The genie bowed low before the startled farmer and said, 'Thank you, kind farmer, for freeing me from my prison. In return for your help, I will grant you three wishes, any three wishes your heart desires.'\"\n\nMariam clapped her hands together in delight, her eyes sparkling with excitement.\n\nHaji Ali chuckled and continued. \"Juma was overjoyed and quickly wished for an end to the drought, so that his land would once again bear fruit and his family would never go hungry. The genie waved his hand, and suddenly, the valley was filled with lush green fields, teeming with life and promise. Juma was overjoyed and thanked the genie profusely.\"\n\n\"But what about the other two wishes, Baba?\" Mariam asked, her voice filled with curiosity.\n\n\"Well, my dear,\" Haji Ali replied, \"Juma wished for something very special for each of his six children, so that they would never feel the pain of hunger or want again. And because of his selflessness and love for his family, the genie granted each and every one of his wishes, and the family lived happily ever after.\"\n\nMariam smiled at her father, her heart filled with warmth and love. \"That's a beautiful story, Baba. Thank you for sharing it with me.\"\n\nHaji Ali kissed his daughter on the forehead and tucked her in tightly. \"Goodnight, my sweet Mariam. May your dreams be filled with magic and wonder.\"\n\nAs Mariam drifted off to sleep, she couldn't help but feel grateful for her loving father and the beautiful stories he shared with her each and every night. The end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

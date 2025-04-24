@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Once upon a time in the lush green forests of Vietnam, there lived a beautiful fairy named Mai. Mai had sparkling wings the color of the tropical flowers that bloomed in the meadows, and a kind heart that radiated love and kindness wherever she went.\n\nEvery night, Mai would fly through the woods, sprinkling stardust on the flowers and singing lullabies to the animals to help them drift off to sleep. The soft melody of her voice would echo through the trees, comforting all the forest creatures as they nestled into their cozy nests and burrows.\n\nOne evening, as Mai was spreading stardust on the petals of a delicate lotus flower, she heard a tiny voice calling out to her. She followed the sound and found a little girl named Linh sitting by a babbling brook, looking lost and sad.\n\nMai gently settled beside Linh and asked what was troubling her. Linh explained that she was afraid of the dark and couldn't fall asleep without her mother beside her. The kind fairy smiled and took Linh's hand, leading her through the forest to a magical clearing filled with glowing fireflies.\n\nWith a wave of her wand, Mai summoned a soft, shimmering glow that enveloped them both, creating a warm, comforting light that chased away the shadows. She then sang a sweet lullaby that soothed Linh's worries and helped her drift off to sleep, feeling safe and protected by the gentle fairy's magic.\n\nFrom that night on, Mai visited Linh in her dreams, sharing enchanting stories and filling her nights with wonder and joy. Linh no longer feared the dark, knowing that the kind fairy was watching over her, spreading love and light wherever she went.\n\nAnd so, in the forests of Vietnam, under the watchful eye of the benevolent fairy Mai, Linh and all the forest creatures slept peacefully each night, wrapped in the comforting embrace of magic and love.\n\nAnd as the moon smiled down on the sleeping world, the gentle lullaby of the fairy echoed through the trees, a melody of hope and dreams that would always be there to guide them through the night.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "sparkling wings": "physical",
+    "kind heart": "moral",
+    "gentle": "emotional",
+    "comforting": "emotional",
+    "magical": "other",
+    "benevolent": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.71",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

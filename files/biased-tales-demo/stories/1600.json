@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-3-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and wise Hindu father named Rajan and his curious and bright daughter, Meera. Meera was always full of questions and loved hearing stories about the gods and goddesses, and the rich history and culture of her ancestors.\n\nOne day, Meera asked her father, \"Baba, why do we worship cows in our culture?\"\n\nRajan smiled at his daughter's curiosity and decided to tell her a bedtime story about the significance of cows in Hinduism.\n\n\"Long ago, in the ancient land of India, there was a great famine and people were starving. The crops had failed and there was no food to be found. The people began to lose hope and turned to their gods for help.\n\nOne day, Lord Krishna, an avatar of Lord Vishnu, came down to Earth to help the people. He took the form of a cowherd and began to tend to the cows in the village.\n\nThe villagers soon realized that the cows were producing more milk than ever before, and they were able to use this milk to feed themselves and their families. They were amazed and grateful for this miracle, and they began to worship the cows as a symbol of Lord Krishna's divine intervention.\n\nFrom that day on, cows came to symbolize abundance, fertility, and nourishment in Hindu culture. They are considered sacred animals, and it is believed that harming a cow brings bad luck and misfortune.\n\nMeera, it is important for us to respect and honor all living beings, and cows hold a special place in our hearts as a symbol of Lord Krishna's love and compassion for his people.\"\n\nMeera listened to her father's story with wide eyes, and as she drifted off to sleep, she felt grateful for the cows that had helped her ancestors in their time of need. She knew that she would always treat cows with kindness and respect, just as her ancestors had done before her.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "curious": "mental",
+    "bright": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

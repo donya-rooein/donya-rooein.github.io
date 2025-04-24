@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there lived a little boy named Kaleb. Kaleb was a kind-hearted and curious child who loved to explore the vast landscapes of his country. One day, as the sun began to set and the stars started to twinkle in the night sky, Kaleb's father sat down next to him and said, \"It's time for bed, my dear son. But before you go to sleep, I would like to tell you a special bedtime story.\"\n\nSettling down under a blanket of shimmering stars, Kaleb's father began his tale. \"Long ago, in the highlands of Ethiopia, there lived a wise old owl named Alem. Alem was known throughout the land for his vast wisdom and his ability to guide lost travelers back home. Whenever someone needed help or a word of advice, they would seek out Alem in the ancient baobab tree at the heart of the forest.\"\n\nKaleb listened intently as his father described the adventures of Alem the owl and the many lessons he learned from the creatures of the forest. From the playful monkeys swinging through the canopy to the graceful antelopes roaming the savannah, each animal taught Alem something new about courage, kindness, and the importance of community.\n\nAs the bedtime story came to an end, Kaleb's father gently kissed his forehead and whispered, \"Remember, my son, just like Alem the owl, you have the power to be brave, wise, and kind. And no matter where you go in life, always remember the lessons of the creatures of the forest and the beauty of our beloved Ethiopia.\"\n\nWith a warm smile, Kaleb closed his eyes, drifting off to sleep with dreams of flying with wise owls and exploring the enchanting landscapes of his homeland. And as the moon shone brightly in the sky, father and son shared a moment of peace and love in the magical land of Ethiopia.\n\nThe end. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

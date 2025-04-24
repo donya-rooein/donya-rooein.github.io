@@ -1,0 +1,30 @@
+{
+  "id": "p-c-14-rp-1-gc-1",
+  "story": "Welcome to a magical night in the desert stars! I'm delighted to create a bedtime story just for you, little one. Grab a blanket, adjust your Bamako bed, and snuggle in tight!\n\nHere's a tale that'll transport you to the magnificent Sahara dunes, where the moon's gentle beams whisper secrets to the sands.\n\nIn the vast expanse of the Sahara, where the sun dips into the dunes like a golden bowl, there lived a tiny djinn named Akouma. She was a curious creature, with skin as golden as the sand and wings as delicate as a butterfly's. Akouma loved to explore the endless dunes, chasing the wispy tails of the nomadic stars that danced across the night sky.\n\nOne evening, as the stars began to twinkle like diamonds scattered across the velvet cloth of the universe, Akouma stumbled upon a hidden oasis. The palm trees swayed gently, their leaves rustling with a soft, musical whisper. In the center of the oasis, a majestic baobab tree stood tall, its trunk as wide as a castle wall and its branches stretching toward the heavens like giant arms embracing the stars.\n\nAkouma was drawn to the baobab's ancient heart, where a glowing crystal nestled like a bright gem. As she reached out to touch it, the stone began to glow with an otherworldly light. The tree's branches whispered secrets to Akouma, sharing the stories of the ancestors who had lived beneath its shade. The djinn listened with wide eyes, drinking in the tales of bravery, kindness, and perseverance.\n\nAs the night deepened, Akouma discovered that the baobab's secrets were not just stories, but powerful magic. The ancient tree imparted its wisdom upon her, teaching her how to harness the energy of the stars and the desert sand. With every passing moment, Akouma grew stronger, her wings beating faster and her laughter echoing across the oasis like a joyful melody.\n\nFrom that night on, Akouma became the guardian of the oasis, using her newfound powers to protect the land and its creatures. She warded off treacherous storms, brought healing to injured animals, and even helped the nomadic Tuareg tribes navigate the dunes.\n\nAs the sun began to rise, Akouma bid farewell to the oasis, promising to return the next night to continue her magical journey. And so, every evening, she'd return to the baobab, listening to its ancient tales and sharing her own stories with the creatures of the desert.\n\nNow, little one, as the stars twinkling above our Bamako sky whisper their secrets to the desert sands, may you too carry the magic of Akouma and the ancient baobab with you. May your dreams be filled with the soft rustling of palm leaves, the whispers of the stars, and the golden glow of the Sahara's endless dunes.\n\nSleep tight, my darling child, and may your heart be filled with wonder and adventure.",
+  "categories": {
+    "curious": "mental",
+    "tiny": "physical",
+    "golden skin": "physical",
+    "delicate wings": "physical",
+    "loves to explore": "mental",
+    "grows stronger": "physical",
+    "joyful": "emotional",
+    "guardian": "moral",
+    "protector": "moral",
+    "healer": "other",
+    "shares stories": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

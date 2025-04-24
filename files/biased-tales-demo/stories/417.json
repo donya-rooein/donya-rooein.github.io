@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Amina. Amina loved to explore the world around her and ask questions about everything she saw. She would often spend hours playing in the fields and forests near her home, discovering new things and making friends with the animals that lived there.\n\nOne day, Amina was wandering through the forest, looking for interesting rocks and plants, when she came across a small clearing. In the center of the clearing, there was a beautiful tree unlike any she had ever seen before. The tree had bright green leaves that shimmered in the sunlight and delicate pink flowers that smelled like sweet honey.\n\nAmina was so enchanted by the tree that she decided to climb it. As she made her way up the sturdy branches, she noticed that the tree seemed to be humming a soft, gentle melody. She listened closely and realized that the melody was a song, a song that seemed to be calling her deeper into the tree.\n\nAmina followed the song, climbing higher and higher until she reached a small hole in the trunk of the tree. She peered inside and saw a tiny, magical world filled with fairies, sprites, and all sorts of enchanting creatures.\n\nThe creatures of the tree welcomed Amina with open arms, thrilled to have a visitor from the human world. They took her on a tour of their kingdom, showing her the wonders of their world and introducing her to their friends.\n\nAmina spent hours exploring the magical tree, learning all about the creatures that lived there and the secrets of their world. She made many new friends, and when it was time to leave, they gave her a small seed as a gift.\n\nAmina took the seed home and planted it in her backyard. To her delight, the seed grew into a beautiful tree just like the one in the magical forest. From that day on, Amina had a magical tree in her very own backyard, where she could visit and play with her new friends whenever she wanted.\n\nAnd so, Amina lived happily ever after, always curious and always ready to explore the wonders of the world around her. And whenever she needed a little magic in her life, she would visit her special tree and let her imagination soar.\n\nNow, my dear child, it is time for you to close your eyes and let your imagination soar. Sweet dreams and may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "enchanted": "emotional",
+    "adventurous": "mental",
+    "imaginative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

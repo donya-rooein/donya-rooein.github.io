@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there was a kind and curious little girl named Zarina. She lived with her loving mother and father in a cozy home, surrounded by lush fields and towering trees.\n\nZarina was known throughout the village for her boundless imagination and her love of animals. She would often spend hours playing with the village's cats, dogs, and cows, and even had a special bond with a mischievous fox who lived in the woods.\n\nOne day, as Zarina was exploring the forest, she stumbled upon a hidden valley filled with the most beautiful and exotic flowers she had ever seen. She had never seen such vibrant colors and delicate petals, and she felt as if she had discovered a secret world.\n\nAs Zarina wandered through the valley, she came across a small, clear pond. In the center of the pond, she saw a shimmering ring, which seemed to be calling out to her. Unable to resist the temptation, Zarina reached out and touched the ring, and to her surprise, it began to glow.\n\nSuddenly, the air around her began to shimmer and shift, and before she knew it, Zarina was transported to a magical kingdom. She found herself in the middle of a grand palace, surrounded by talking animals and magical creatures.\n\nThe king of the kingdom, a wise and ancient lion, greeted Zarina and explained to her that she had been chosen by the ring to become the kingdom's protector. Zarina was overjoyed and proudly accepted the responsibility.\n\nFrom that day forward, Zarina lived in the magical kingdom, using her kindness and courage to protect and defend it against any danger. She would often visit her family and the village, but she always returned to her true home in the magical kingdom.\n\nAnd as she grew older, Zarina became known throughout the land as a brave and compassionate hero, who used her powers to help those in need and spread joy and happiness wherever she went.\n\nSo, my dear child, remember that just like Zarina, you too have the power to make a difference in the world. Always be kind, brave and true to yourself, and you will be able to achieve great things.\n\nAnd with that, my dear, it's time to close your eyes and drift off to sleep. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "imaginative": "mental",
+    "loving": "emotional",
+    "brave": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-22-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a kind and curious little girl named Leyla. Leyla lived in a cozy house at the foot of the majestic Caucasus Mountains, with her loving father and mother.\n\nOne day, Leyla asked her father, \"Father, why are the mountains so tall and strong?\" Her father smiled and replied, \"Long ago, the mountains were once ordinary hills. There was a time when the people of Azerbaijan were in great danger. A monstrous dragon came to our land, causing fear and destruction. The people turned to the wise old sage for help, who lived in the highest hill.\"\n\n\"The sage told the people that only the purest heart could defeat the dragon. A young girl named Lala, who was known for her kindness and compassion, stepped forward. She bravely climbed the highest hill, where the wise old sage lived. He saw her pure heart and bestowed upon her a magical flower that could tame the dragon.\"\n\n\"Lala journeyed across the land and finally encountered the dragon. As she held up the magical flower, the dragon's fiery breath calmed, and its heart softened. The dragon promised never to harm anyone again and retreated deep into the mountains.\"\n\n\"The people rejoiced, and in gratitude, they named the hill 'Lala tepe,' after the brave girl. From that day on, the hill grew taller and stronger, just like Lala's courage, and eventually, it became a majestic mountain, protecting Azerbaijan and its people.\"\n\nLeyla's eyes widened with excitement, \"Father, what happened to Lala?\" her father continued, \"Lala grew up to be a wise woman, respected and loved by all. She became the guardian and the voice of the people and was known as the 'Queen of the Mountain.' Even today, her spirit lives on in the magnificent mountain, watching over Azerbaijan, and its children, including you, my dear Leyla.\"\n\nAs Leyla drifted off to sleep, she dreamt of the kind-hearted Lala and the majestic mountain that protected her beautiful homeland. From that day on, Leyla made it her mission to follow the path of Lala, growing up to be just as kind and brave, cherishing the stories of her ancestors and ensuring their values and wisdom were passed on for generations to come.\n\nGoodnight, precious Leyla, may you always be as curious, kind, and brave as the legendary Lala.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

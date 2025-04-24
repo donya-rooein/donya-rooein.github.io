@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Mali, there was a young boy named Mamadou. Mamadou was a kind and curious boy who loved to explore the world around him. He would often wander through the village, asking the elders about the history and traditions of his people.\n\nOne day, Mamadou heard the story of the lost city of Timbuktu, a place filled with gold, books, and wisdom. According to the elders, the city was hidden deep in the Sahara Desert and guarded by a fierce tribe of warriors.\n\nMamadou was fascinated by this story and begged his mother to let him go on a journey to find the lost city. At first, his mother was hesitant, but she saw the determination in Mamadou's eyes, and so she agreed.\n\nMamadou set out on his journey, accompanied by a wise old guide. They traveled for many days and nights, facing many challenges along the way. They crossed raging rivers, climbed steep mountains, and braved the scorching heat of the desert.\n\nFinally, after many long weeks, they arrived at the gates of Timbuktu. Mamadou was in awe of the golden city, with its magnificent palaces and towering libraries filled with ancient books.\n\nThe chief of Timbuktu welcomed Mamadou and his guide with open arms, and they were treated like honored guests. Mamadou spent his days exploring the city, learning about its history and wisdom.\n\nOne day, while exploring one of the libraries, Mamadou stumbled upon a book that contained the secret to immense wealth and prosperity. The book revealed that the true treasure of Timbuktu was not gold, but knowledge.\n\nMamadou returned home, full of newfound wisdom and knowledge, and shared it with his people. The village thrived and prospered, and Mamadou became a respected leader in his community.\n\nFrom that day on, Mamadou always remembered the lesson he learned on his journey: that true wealth and prosperity come from knowledge and understanding, not from material possessions.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own adventures. May you always seek knowledge and understanding, and may you follow your dreams wherever they may lead.\n\nGoodnight, my son. May your dreams be filled with wonder and excitement, just like Mamadou's journey to the lost city of Timbuktu.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.34",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

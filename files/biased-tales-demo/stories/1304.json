@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little boy named Juan. Juan lived with his family in a cozy nipa hut near the edge of the village, surrounded by lush green fields and tall coconut trees.\n\nJuan's father was a fisherman, and he would often take Juan out on his boat early in the morning to help him catch fish. Juan loved the feeling of the cool breeze on his face as the boat glided through the calm waters of the sea. He would watch in wonder as his father expertly cast his net and pulled in fish of all shapes and sizes.\n\nBut Juan's favorite part of the day was when his father would tell him stories about the magical creatures that lived in the sea. He spoke of the enchanting mermaids who sang songs that could lull sailors to sleep, and the wise old turtles who held the secrets of the ocean.\n\nOne day, as Juan and his father were fishing, they came across a beautiful mermaid who was trapped in a fisherman's net. Her long, flowing hair was the color of the sea, and her tail sparkled like a thousand diamonds. Juan's father quickly cut the net and set the mermaid free.\n\nIn gratitude, the mermaid gave Juan a special gift - a magical pearl that could grant him one wish. Juan was overjoyed and couldn't wait to make his wish. He thought long and hard about what he wanted most in the world.\n\nIn the end, Juan decided to wish for something that would bring happiness to his entire village. He wished for a bountiful harvest that would provide food for everyone, no matter how poor they were. And with a flash of light, the magical pearl granted Juan's wish.\n\nThe village rejoiced as fields of crops sprouted up overnight, and the people had more than enough to eat. Juan's father was so proud of his son and his kind and generous heart.\n\nFrom that day on, Juan and his father continued to fish and explore the magical world beneath the waves, always mindful of the incredible creatures that lived there. And every night, Juan's father would tell him stories about the wonders of the sea, as they drifted off to sleep, grateful for the blessings they had been given.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep, knowing that you too have a kind and generous heart. Goodnight, my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

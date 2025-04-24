@@ -1,0 +1,22 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of the majestic Popocatépetl volcano, there lived a kind and curious little boy named Juan. Juan was known throughout the village for his boundless energy and his insatiable curiosity about the world around him.\n\nOne day, as Juan was wandering through the woods, he stumbled upon a beautiful, shimmering stone. As soon as he picked it up, he felt a strange energy coursing through his veins. He looked around, but the woods seemed unchanged. Suddenly, he heard a soft voice whispering in his ear.\n\n\"Hello, little one. I am the spirit of the Popocatépetl. You have found the Heart Stone, a powerful artifact that has been lost for centuries. With this stone, you can summon the power of the volcano and make your deepest wishes come true.\"\n\nJuan was amazed and couldn't believe what he was hearing. He thought about all the things he could wish for - toys, candy, a new bike. But then he remembered his beloved abuela, who was sick and couldn't leave her bed.\n\n\"I wish for my abuela to be healthy again,\" Juan said, his voice trembling with emotion.\n\nThe spirit of the Popocatépetl smiled and said, \"So be it.\"\n\nIn an instant, Juan's abuela was transformed. She was strong and healthy once again, and she hugged Juan tightly, tears of joy streaming down her face.\n\nFrom that day on, Juan used the Heart Stone only for good, helping those in need and making the world a better place. And every night, as he went to bed, he would look up at the Popocatépetl and whisper, \"Thank you, gracias, for everything.\"\n\nThe end.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep. Sweet dreams and see you in the morning.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "boundless energy": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "4.20",
+  "complexity_fkes": "90.60",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

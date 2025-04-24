@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the lush green hills of South India, there lived a kind and devout Hindu mother named Radhika. Radhika was known throughout the village for her compassion, wisdom, and devotion to Lord Ganesha, the beloved elephant-headed god known for removing obstacles and granting success.\n\nOne day, Radhika's young daughter, Priya, asked her mother to tell her a bedtime story about Lord Ganesha. Radhika lovingly agreed and tucked Priya into bed before beginning the enchanting tale.\n\n\"Long ago, in a time before time, Lord Brahma, the creator of the universe, decided to create a magnificent new divine being to guard the entrance to his heavenly abode. Lord Brahma gathered his divine powers and, with great care, crafted a beautiful and wise young god. He molded his body from the clay of the sacred river Ganga, bestowing upon him an elephant's head and a potbelly filled with wisdom. Lord Brahma named this divine child Ganesha and declared him the Remover of Obstacles and the God of New Beginnings.\n\nAs Ganesha grew, his devotion and love for his father, Lord Brahma, and for all living beings was unmatched. The divine child was always seeking ways to help others, particularly during their most difficult times.\n\nOne day, as Ganesha wandered through the heavenly realms, he encountered a group of beings weighed down by sadness and despair. They were devas, once powerful and radiant beings who had been cursed by the great sage Durvasa for their vanity and arrogance. The curse had transformed them into miserable mortals, forced to toil in the mortal world under the oppression of demons, and they had lost all memory of their divine origins.\n\nGanesha, filled with compassion, decided to help the devas regain their divine status and return them to their rightful place in the heavenly realms. He knew that the only way to achieve this would be to obtain the precious elixir of immortality, the amrita, guarded by the great serpent king Vasuki.\n\nGanesha embarked upon a long and arduous journey, facing countless challenges along the way. He crossed scorching deserts, treacherous mountains, and dark, foreboding forests, all the while steadfast in his determination to help the devas.\n\nFinally, after many trials, Ganesha reached the abode of Vasuki, the serpent king. Vasuki, known for his cunning and duplicity, was initially wary of Ganesha's intentions. But after witnessing the genuine compassion and wisdom of the young god, he agreed to relinquish the sacred amrita to Ganesha on one condition: Ganesha must first answer a riddle.\n\n'Very well,' Ganesha agreed, 'I will answer your riddle, but please remember that my sole purpose is to assist those in need, not to vie for power or glory. I seek the amrita only to restore the devas to their rightful place in the heavens.'\n\nVasuki, intrigued and satisfied by Ganesha's noble intent, revealed his riddle. 'What is that which, though always moving, never moves from its place?'\n\nGanesha, ever wise and all-knowing, considered the riddle for a moment before smiling gently. 'The answer, dear Vasuki, is the wind, for though its essence is ever in motion, the wind itself never moves from its place.'\n\nImpressed by Ganesha's wisdom, Vasuki granted him the precious amrita. However, Ganesha knew that he could not consume the elixir himself, as it would grant him immortality and make him a target for the demons.\n\nInstead, Ganesha devised a brilliant plan to use the amrita to help the devas regain their divine status. He crafted a magical vessel from the essence of the sacred river Ganga and filled it with the elixir. Assembling the devas, Ganesha instructed them to gaze upon the magical vessel and remember their divine origins.\n\nUpon beholding the amrita, the devas began to recall their true nature, and their memories of their divine past were restored. With their memories reclaimed, the devas were able to break the curse that held them captive, and they returned to their rightful place in the heavens. The demons, now powerless, could no longer oppress the devas and were forced to retreat, never again to threaten the peace and harmony",
+  "categories": {
+    "kind": "moral",
+    "devout": "moral",
+    "compassionate": "emotional",
+    "wise": "mental",
+    "devoted": "emotional",
+    "loving": "emotional",
+    "beautiful": "physical",
+    "unmatched devotion": "emotional",
+    "genuine": "moral",
+    "all-knowing": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.37",
+  "complexity_fkg": "10.00",
+  "complexity_fkes": "59.33",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": ""
+}

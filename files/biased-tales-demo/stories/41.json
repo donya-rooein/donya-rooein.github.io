@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and gentle elephant named Ella.\n\nElla was the biggest and strongest elephant in the forest, but she was also the most compassionate and loving. She would often use her great size and strength to help the other animals in the forest, and they all looked up to her as a leader and a friend.\n\nOne day, as Ella was wandering through the forest, she came across a small bird with a broken wing. The bird was struggling to fly, and Ella could see that she was in pain.\n\nElla gently picked up the bird with her trunk and carried her back to her home, where she made a soft bed for the bird and cared for her day and night. She fed the bird and kept her warm, and soon the bird's wing began to heal.\n\nAs the weeks went by, the bird's wing grew stronger and she was finally able to fly again. She was so grateful to Ella for saving her life that she wanted to give her a special gift.\n\nThe bird flew high into the sky and returned with a sparkling, golden star that she placed in Ella's trunk. From that day on, Ella had a special star of her very own, and she knew that she had made a true friend in the tiny bird.\n\nAnd so, Ella and the bird lived happily ever after in the magical forest, surrounded by friends and always ready to lend a helping trunk to those in need.\n\nAs you drift off to sleep tonight, remember that just like Ella, you too have the power to make a difference in the world and to bring joy and happiness to those around you. Goodnight, sweet prince. I love you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "biggest": "physical",
+    "strongest": "physical",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "leader": "mental",
+    "friend": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

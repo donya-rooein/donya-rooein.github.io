@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Juan. Juan lived with his mother, who was a talented seamstress, and his father, who was a farmer. They were a happy and loving family who worked hard to provide for each other and to make their little home the best it could be.\n\nOne sunny afternoon, after Juan had finished his chores and his lessons, he asked his mother if she would tell him a bedtime story. She smiled and agreed, and they settled down together in their cozy, sunlit kitchen.\n\n\"Once upon a time,\" she began, \"there was a magical bird who lived in the forest near our village. This bird was unlike any other bird in the world. It had feathers of the most beautiful, vibrant colors, and its song was so sweet and soothing that it could put even the most troubled heart at ease.\n\n\"But this magical bird was also very wise, and it held the secret to great happiness and prosperity. Whoever could find the bird and learn its secret would be blessed with a life of joy and abundance.\n\n\"Now, many people had tried to find the bird, but it was very elusive and rarely showed itself to anyone. Some said that it could only be seen by those who truly believed in its magic, while others claimed that it could only be heard by those who listened with their hearts.\n\n\"One day, a young boy from our village decided that he would be the one to find the bird and learn its secret. He packed a small bag with some food and water, laced up his boots, and set off into the forest.\n\n\"He searched high and low, looking in every tree and behind every bush. But the bird was nowhere to be found. Just when he was about to give up, he heard the faintest hint of a song, like a whisper on the wind. He followed the sound, and soon he came upon a small clearing, where the magical bird was perched on a branch, singing its beautiful song.\n\n\"The boy was overjoyed, and he approached the bird slowly and quietly, so as not to scare it away. When he was close enough, he asked the bird to share its secret with him.\n\n\"The bird looked at the boy with its wise, knowing eyes, and it said, 'The secret to happiness and prosperity is not something that can be found or learned. It is something that must be cultivated and nurtured within your own heart. You must be kind and compassionate to others, and you must always strive to be the best person you can be. If you do this, then happiness and prosperity will follow you wherever you go.'\n\n\"The boy thanked the bird for its wisdom, and he returned to his village a wiser and happier person. And from that day on, he lived a life full of joy and abundance, sharing his kindness and compassion with everyone he met.\n\n\"And that, my dear Juan, is the end of the story. Now, it's time for you to close your eyes and dream of magical birds and happy endings. Goodnight, my love.\"\n\nJuan snuggled up against his mother and drifted off to sleep, his dreams filled with the beauty and wisdom of the magical bird. And his mother smiled, knowing that she had given him a gift that would stay with him for the rest of his life.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "happy": "emotional",
+    "loving": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

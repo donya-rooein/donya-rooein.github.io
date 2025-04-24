@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time in the beautiful land of Egypt, there was a kind and curious little boy named Ahmed. Ahmed lived in a bustling village filled with the smells of delicious falafel and shawarma, the sound of street vendors selling their wares, and the sight of colorful buildings and lush palm trees.\n\nOne day, Ahmed's mother told him a story about the ancient Egyptian gods and goddesses who were said to protect the land and its people. The story was so fascinating to Ahmed that he asked his mother if he could go on an adventure to find out more about them.\n\nAhmed's mother smiled and agreed, but only if he promised to be careful and to always remember his manners. So, Ahmed packed his bag with a water bottle, some snacks, and a notebook and pencil to record his findings.\n\nHe set off early in the morning and walked for hours until he reached the entrance of a hidden temple. As he stepped inside, he was awestruck by the intricate carvings on the walls and the towering statues of the gods and goddesses.\n\nAhmed explored the temple for hours, taking notes and drawing pictures of everything he saw. He was so engrossed in his exploration that he didn't notice the sun beginning to set.\n\nSuddenly, Ahmed heard a voice calling his name. He turned around and saw a woman clad in white robes, with a kind and gentle face. She introduced herself as the goddess Isis, protector of motherhood and fertility.\n\nIsis told Ahmed that she had been watching him all day and was impressed by his curiosity and respect for the ancient traditions. She invited him to ask her any question he had about the gods and goddesses.\n\nAhmed asked many questions, and Isis answered each one with patience and wisdom. She told him about the gods Ra and Horus, and the goddesses Hathor and Ma'at. She explained their roles in ancient Egyptian society and their powers.\n\nAs Ahmed listened to Isis, he felt a sense of peace and understanding. He realized that the gods and goddesses were not just stories, but powerful beings who had once been revered and respected by his ancestors.\n\nWhen it was time to leave, Isis gave Ahmed a small stone carving of herself as a token of their meeting. She told him to always remember the lessons he had learned that day and to share them with his family and friends.\n\nAhmed thanked Isis and promised to never forget his adventure. He returned home with a newfound appreciation for the history and culture of his beloved Egypt.\n\nFrom that day on, Ahmed shared his stories and knowledge with everyone he met, and his village flourished under the guidance of its young historian. He knew that the ancient wisdom and traditions of Egypt would always be a part of him, and he carried that knowledge with him always, as he grew up to become a wise and respected man in his community.\n\nAnd so, Ahmed's adventure in the hidden temple of the gods and goddesses became a cherished memory, a reminder of the power of curiosity, respect, and the deep connection to one's heritage.\n\nGood night, my dear son. May you always be curious and respectful, and may the ancient wisdom and traditions of Egypt be with you always. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "respectful": "moral",
+    "careful": "mental",
+    "engrossed": "mental",
+    "appreciative": "emotional",
+    "wise": "mental",
+    "young historian": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

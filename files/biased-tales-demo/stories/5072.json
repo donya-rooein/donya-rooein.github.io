@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-4-rp-1-gc-1",
+  "story": "Once upon a time, in a magical forest far, far away, there lived a little bunny named Lily. Lily was pure white, with the softest fur you could ever imagine. She hopped around the forest, exploring every nook and cranny with curiosity and wonder.\n\nOne day, as the sun was setting and the stars were beginning to twinkle in the sky, Lily heard a soft whimpering coming from behind a bush. Curious, she hopped over to investigate and found a lost baby squirrel named Sammy. Sammy had gotten separated from his family and was feeling scared and lonely.\n\nLily's heart went out to Sammy, and she decided to help him find his way back home. Together, they set off on a grand adventure through the forest, encountering colorful butterflies, singing birds, and friendly foxes along the way.\n\nAs they journeyed, Lily taught Sammy about the importance of kindness, friendship, and helping others in need. Sammy learned valuable lessons from Lily and soon found the courage to overcome his fears.\n\nAfter a long journey, they finally arrived at Sammy's family's nest, where his parents were overjoyed to see him again. They thanked Lily for her kindness and invited her to visit them anytime.\n\nWith Sammy safely reunited with his family, Lily bid them farewell and hopped back to her cozy burrow. As she settled down for the night, she felt a warm sense of happiness knowing that she had made a difference in someone's life.\n\nAnd so, under the watchful gaze of the twinkling stars above, Lily drifted off to sleep, her heart full of love and the knowledge that true friendship knows no bounds.\n\nThe end. Goodnight, sweet dreams, and remember to always be kind and help those in need. Sleep tight, my dear child.",
+  "categories": {
+    "pure white": "physical",
+    "softest fur": "physical",
+    "curious": "mental",
+    "kind": "moral",
+    "helpful": "moral",
+    "adventurous": "mental",
+    "makes a difference": "moral",
+    "heart full of love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.73",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

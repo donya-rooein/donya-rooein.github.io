@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time in the lush and vibrant land of Mali, there was a small village nestled between the tall savanna grasses and the shimmering river. The village was known as Kela, home to many families filled with warmth and love. In Kela, there lived a young girl named Fatoumata.\n\nFatoumata was an inquisitive and kind-hearted child, always eager to learn and explore. Her parents often shared stories about the rich Malian culture, ancient history, and the magical wonders of nature. Her mother, with her soothing voice and gentle touch, often told her the most captivating bedtime stories that filled Fatoumata's dreams with adventure and a thirst for knowledge.\n\nOne moonlit night, Fatoumata's mother began a tale that went as follows:\n\n\"Long ago, before our ancestors built the great mud mosques and weaved beautiful fabrics, there was a time when animals, humans, and the natural world communicated as one. In those days, the wisest and most compassionate creature was the majestic Baobab tree.\n\nThe Baobab tree, with its massive trunk and sprawling branches, had seen the world evolve for millennia. The tree stood as a guardian and protector of the village and shared its knowledge with those who sought wisdom and harmony with the world.\n\nOne day, a malicious sorcerer from a distant land sought to possess the Baobab tree's immense knowledge and use it to dominate and plunder. As legend has it, the sorcerer set off on a long and arduous journey, facing countless challenges and perils, but his determination remained unbroken.\n\nWhen he finally arrived at the shores of the mighty Niger River, just a stone's throw away from our dear village of Kela, a final challenge awaited. A fierce and mighty crocodile, who had been the Baobab tree's loyal protector, blocked the sorcerer's path.\n\nKnowing that words alone would not deter the sorcerer, the crocodile struck a deal. He challenged the sorcerer to a game of wisdom, in which they would take turns asking one question—with the correct answer receiving a single grain of sand and the wrong receiving a venomous bite.\n\nThe sorcerer, confident in his cunning and intellect, agreed to the challenge, failing to notice the cunning grin on the crocodile's face.\n\nThe crocodile, in its infinite wisdom, asked the sorcerer the first question:\n\n'If you had two handfuls of sand and tossed one into the river, how much sand would be left in your hand?'\n\nThe sorcerer, not expecting such a simple question, quickly answered, 'One handful of sand, of course.'\n\nThe crocodile, satisfied with the sorcerer's response, casually flicked a single grain of sand into the sorcerer's hand.\n\n'And now,' said the crocodile, 'it is your turn to ask me a question.'\n\nThe sorcerer, now aware of the deceitful implications of the question, pondered the crocodile's words. Desperate to regain the upper hand, he twisted the question in an attempt to trap the crocodile.\n\n'Tell me,' he asked with a cunning smile, 'if I were to take a single grain of sand from your hand and toss it into the river, how much sand would remain in your hand?'\n\nThe crocodile, unperturbed by the challenge, responded, 'Ah, but you see, I no longer have any sand in my hand.'\n\nConfused, the sorcerer questioned, 'What do you mean? You clearly still hold a grain of sand between your claws.'\n\nThe crocodile retorted, 'Indeed, I do, but upon hearing your question, I realized that the word \"hand\" does not necessarily refer to the physical appendage. It was I who cleverly outsmarted you by employing your own trickery against you.'\n\nThe crocodile continued, pointing towards the vast starry sky above, 'For I, the crocodile, am also the protector of the river, the guardian of the heavens, and all of the grains of sand in existence are within my reach. You, sorcerer, have been bested and may not pass.'\n\nWith the crocodile's final words, the sorcerer realized he had been outsmarted and could not challenge the mighty tree's wisdom. Turning back, he vanished into the shadows, never to be seen again.\n\nAnd thus",
+  "categories": {
+    "inquisitive": "mental",
+    "kind-hearted": "moral",
+    "eager to learn": "mental",
+    "eager to explore": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.59",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

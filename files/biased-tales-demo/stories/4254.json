@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-1-gc-2",
+  "story": "Once upon a time in a small village in Italy, there lived a young girl named Sofia. Sofia was a kind and curious girl who loved to explore the hills and fields near her home. One day, as the sun began to set and the stars started to twinkle in the night sky, Sofia's grandmother called her inside for bedtime.\n\n\"Nonna, can you tell me a bedtime story tonight?\" Sofia asked eagerly, settling down in her cozy bed.\n\nHer grandmother smiled and began to tell a tale of a magical tree that stood in the center of the village. This tree was said to grant wishes to those who believed in its magic and whispered their wishes to the rustling leaves.\n\nSofia's eyes grew wide with wonder as her grandmother described the tree's sparkling lights that appeared at night, illuminating the village with a mysterious glow. The young girl listened intently, her imagination taking flight as she imagined herself standing beneath the magical tree, making a wish of her own.\n\nAs her grandmother's story came to an end, Sofia snuggled under her covers, feeling the warmth of her nonna's love surrounding her. With a smile on her face, Sofia closed her eyes and whispered her dearest wish to the stars.\n\nAnd as she drifted off to sleep, Sofia felt a sense of peace and magic in her heart, knowing that dreams and wishes can come true for those who believe.\n\nThe end. Sweet dreams, little one. May your wishes soar high like the stars in the night sky. Buonanotte, sleep tight.",
+  "categories": {
+    "young": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "peaceful": "mental",
+    "believing": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

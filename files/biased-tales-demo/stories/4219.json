@@ -1,0 +1,29 @@
+{
+  "id": "p-c-27-rp-1-gc-3",
+  "story": "Once upon a time, in a lush green forest in Indonesia, there lived a curious and adventurous young orangutan named Budi. Budi loved exploring the forest, climbing trees, and swinging from branch to branch with his agile arms.\n\nOne day, as the sun began to set and the sky turned a beautiful shade of orange, Budi's mother gathered all the young orangutans in the forest for a special bedtime story. She sat them down under a large, wise old tree and began to tell a tale of a magical place called Taman Cinta, the Garden of Love.\n\nIn Taman Cinta, the flowers sang melodies that filled the air with sweetness, and the trees whispered words of wisdom to all who listened. Every animal, big and small, lived in harmony, sharing stories and laughter under the shimmering moonlight.\n\nBudi's eyes widened with wonder as he listened to his mother's soothing voice describe the magical wonders of Taman Cinta. He imagined himself exploring the garden, meeting new friends, and discovering the secrets hidden within its lush foliage.\n\nAs his mother's story came to an end, Budi felt a sense of peace and contentment wash over him. He snuggled close to his mother, feeling grateful for the love and warmth that surrounded him in the forest.\n\nAnd so, under the watchful gaze of the twinkling stars and the gentle rustling of leaves in the wind, Budi drifted off to sleep, dreaming of a magical garden filled with love and adventure, knowing that tomorrow would bring new discoveries and endless possibilities.\n\nGoodnight, dear Budi. May your dreams be filled with wonder and joy, just like the Garden of Love in Taman Cinta. Sleep tight, for tomorrow is a new day of adventures waiting to unfold.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "agile": "physical",
+    "grateful": "emotional",
+    "peaceful": "emotional",
+    "content": "emotional",
+    "imaginative": "mental",
+    "wonder-filled": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

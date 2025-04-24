@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the golden sands of Egypt, there lived a young girl named Layla. Layla was a kind and adventurous soul who loved exploring the ancient temples and pyramids near her home.\n\nOne evening, as Layla was walking along the banks of the majestic Nile River, she spotted a shimmering light twinkling in the distance. Curious, she followed the light through the winding streets of the bustling marketplace until she reached a mysterious old shop.\n\nInside the shop, Layla met an elderly storyteller who welcomed her with a warm smile. The storyteller told Layla tales of magical creatures and brave heroes, of faraway lands and hidden treasures. Enthralled by the stories, Layla listened with wide eyes and an open heart.\n\nAs the night grew late, the storyteller noticed Layla yawning and suggested it was time to rest. Layla bid the storyteller goodnight and made her way back home under the watchful gaze of the twinkling stars above.\n\nThat night, as Layla snuggled under her soft blankets, she dreamed of soaring on the wings of a majestic falcon over the towering pyramids, and dancing with the spirits of ancient pharaohs.\n\nAnd so, dear parent, may your daughter drift off to sleep with dreams as magical as Layla's, filled with wonder and adventure in the enchanting land of Egypt. Goodnight, sweet child, and may your dreams be as boundless as the endless desert sands.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "enthralled": "emotional",
+    "open-hearted": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Town",
+  "story_social": "None."
+}

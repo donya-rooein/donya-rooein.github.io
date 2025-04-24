@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "What a delight! Here's a bedtime story for your lovely daughter, full of African magic and wonder.\n\n\"In the heart of Mali, where the Sahara desert meets the lush savanna, there was a tiny village surrounded by baobab trees that stretched towards the sky like giant's fingers. In this village, there lived a little girl named Aïda, with hair as bright as the golden sands and eyes as dark as the night sky.\n\nEvery night, Aïda would listen to her grandmother, Mama Fatou, tell stories of the ancient traditions and myths of their people. One evening, as the stars began to twinkle like diamonds above, Mama Fatou said, 'Aïda, my child, tonight I will tell you a secret.'\n\nShe whispered, 'Deep in the forest, where the baobabs whisper secrets to the wind, there lives a majestic queen. Her name is Yennenga, the spirit of the land. She is as gentle as a breeze on a summer day, as fierce as a lioness protecting her cubs, and as wise as the ancient trees themselves.'\n\nAs Mama Fatou finished speaking, the wind outside began to rustle the leaves of the baobabs, and a faint moonlight crept through the windows, casting an ethereal glow over the room.\n\nAïda's eyes grew wide with wonder, and she begged her grandmother to tell her more. Mama Fatou leaned in, her voice barely above a whisper, 'Yennenga's power is so great that she can communicate with all creatures, from the tiniest ant to the majestic elephants that roam the savanna. Her wisdom is sought by humans and animals alike, for she knows the secrets of the land and the heartbeat of the forest.'\n\nAs the night wore on, Aïda's imagination ran wild with thoughts of Yennenga's kingdom. She imagined herself exploring the mystical forest, helping Yennenga tend to the ancient trees, and listening to the whispers of the wind.\n\nNow, as you drift off to sleep, Aïda, remember that Yennenga's magic is within you, too. May your dreams be filled with the whispers of the wind, the wisdom of the ancient trees, and the secrets of the desert. May you grow strong and brave like the baobabs that surround our village, and may your heart remain full of wonder and curiosity.\n\nAnd when you wake up tomorrow, may you carry the spirit of Yennenga with you, inspiring you to respect and care for the land, the creatures, and the magic that lies within us all.\"\n\nShh, I think the moon is calling your name. Sleep tight, my dear Aïda, and may your dreams be as bright as the stars above.",
+  "categories": {
+    "bright hair": "physical",
+    "dark eyes": "physical",
+    "full of wonder": "emotional",
+    "imagination": "mental",
+    "strong": "physical",
+    "brave": "moral",
+    "full of curiosity": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.35",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.49",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

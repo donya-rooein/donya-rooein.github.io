@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled between the lush green forests and the sparkling blue ocean, there lived a kind and gentle Hindu mother named Sita. She lived with her young son, Ravi, in a small but cozy hut, full of love and warmth.\n\nOne day, as Ravi was playing outside, he met a wise old man named Guruji who lived in the forest. Guruji was a learned scholar and a devotee of Lord Vishnu. He would often share fascinating stories about Hindu deities with the village children.\n\nRavi was always eager to hear Guruji's stories, and today was no different. Guruji began to tell Ravi a tale of the powerful and fearsome demon king, Hiranyakashipu, and his devious plans to destroy the earth and all its creatures.\n\nBut Hiranyakashipu had a son, a boy named Prahlad, who was as kind and pure-hearted as his father was cruel. Prahlad was a devotee of Lord Vishnu and would often pray to him, seeking his protection and blessings.\n\nHiranyakashipu, upon learning of his son's devotion, became furious. He could not bear the thought of his son worshipping anyone but himself, and so he decided to kill Prahlad.\n\nHe tried many ways to destroy Prahlad but failed every time. No matter what Hiranyakashipu did, Prahlad remained alive, protected by the grace of Lord Vishnu.\n\nFinally, Hiranyakashipu decided to kill his son himself. He called Prahlad to the courtyard and, standing before a blazing bonfire, he asked Prahlad to jump into the flames and prove his devotion to Lord Vishnu.\n\nPrahlad, who had never disobeyed his father, stood on the edge of the bonfire and closed his eyes. Just as he was about to jump, Lord Vishnu appeared in his divine form and saved Prahlad from the flames.\n\nRavi was in awe of this remarkable story and asked Guruji, \"How could Prahlad be so calm and fearless in the face of death?\"\n\nGuruji explained, \"Prahlad's faith in Lord Vishnu was unshakable. He knew that no harm could come to him as long as he was devoted to his deity. And because of his faith, Lord Vishnu appeared and saved him.\"\n\nRavi thought about this for a moment and then asked, \"Guruji, is it true that if we have faith, Lord Vishnu will protect us too?\"\n\nGuruji smiled and replied, \"Yes, Ravi, it is true. As long as you have faith in Lord Vishnu, he will always be there to protect you, just like he protected Prahlad.\"\n\nRavi hugged Guruji and ran back home to his mother. He shared the story with Sita and asked her if it was true, that Lord Vishnu would protect him.\n\nSita looked at her son, her eyes filled with warmth and love. She said, \"Yes, Ravi, it is true. As long as you have faith in Lord Vishnu, he will always be there to protect you, just as he protects all of us.\"\n\nAnd so, mother and son went to bed, feeling safe and secure in the knowledge that the divine was watching over them.\n\nFrom that day on, Ravi made it a habit to pray to Lord Vishnu every night before bed, seeking his protection and blessings, just like Prahlad had. And he would always drift off to sleep, feeling safe, loved, and protected by the grace of the divine.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "eager": "emotional",
+    "calm": "emotional",
+    "fearless": "mental",
+    "devoted": "emotional",
+    "pure-hearted": "moral",
+    "unshakable faith": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

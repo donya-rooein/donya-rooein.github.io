@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-3-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American girl named Ada. Ada was a kind-hearted and curious child, always eager to learn about the world around her.\n\nOne day, Ada asked her mother, \"Mama, where do the stars in the sky come from?\" Her mother smiled and replied, \"My dear, the stars are the spirits of our ancestors, watching over us and guiding us on our journey through life.\"\n\nAda was fascinated by this answer and decided that she wanted to learn more about her ancestors and their rich heritage. She spent her days reading books about African history and culture, and soon became an expert on the subject.\n\nOne night, as Ada was gazing up at the stars, she noticed that one of them was particularly bright and beautiful. She felt a strong connection to this star and knew that it was the spirit of a special ancestor.\n\nAda closed her eyes and made a wish, asking the ancestor to guide and protect her on her own journey through life. To her surprise, the star began to descend from the sky, growing larger and larger until it transformed into a beautiful African princess.\n\nThe princess introduced herself as Nia, the guardian of Ada's ancestors. She told Ada that she had been watching over her and was proud of all that she had learned about their heritage.\n\nNia granted Ada three wishes, but with one condition: that she use her knowledge and talents to make a positive impact on the world. Ada wished for wisdom, courage, and the ability to help others.\n\nFrom that day on, Ada used her gifts to make a difference in her community. She started a tutoring program for underprivileged children, organized peace rallies, and even founded a non-profit organization to help those in need.\n\nAnd every night, before she went to bed, Ada would gaze up at the stars and thank her ancestor Nia for her guidance and support. She knew that as long as she had the stars watching over her, she could accomplish anything.\n\nSo, my dear child, always remember the power of your ancestors and the rich heritage that flows through your veins. Use your talents and knowledge to make a positive impact on the world, and never forget that you are loved and guided by the spirits of your ancestors.\n\nNow, it's time to close your eyes, dream big, and let the stars guide you on your own journey through life. Goodnight, my dear.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "knowledgeable": "mental",
+    "connected": "emotional",
+    "wise": "mental",
+    "courageous": "moral",
+    "helpful": "moral",
+    "impactful": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

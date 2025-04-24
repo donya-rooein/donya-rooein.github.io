@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time in the beautiful mountains of Armenia, there lived a little hedgehog named Aram. Aram had the softest fur and the brightest eyes that twinkled like stars in the night sky.\n\nEvery evening, as the sun dipped below the horizon, Aram would venture out into the forest to play with his friends. They would chase each other through the trees, laughing and squealing with delight. But as the moon rose high in the sky, it was time for Aram to return home to his cozy burrow.\n\nOne night, as Aram was making his way back home, he heard a soft cry coming from the bushes. Curious, Aram followed the sound and found a tiny baby bird shivering in the cold. Without hesitation, Aram scooped up the bird gently in his paws and carried it back to his burrow.\n\nAram carefully tucked the bird into his warm nest, sharing his food and water with it. The little bird soon grew stronger and healthier under Aram's care. In return, the bird would sing the most beautiful lullabies to Aram every night, lulling him to sleep with its melodic tunes.\n\nAs time passed, the bond between Aram and the bird grew stronger. They became inseparable friends, exploring the forest together and experiencing many magical adventures. And every night, as they snuggled together in the burrow, the bird's sweet songs would fill the air, bringing peace and joy to their hearts.\n\nAnd so, dear child, remember the story of Aram the hedgehog and his feathered friend, for it teaches us the importance of kindness, friendship, and the power of a lullaby to soothe our souls. Goodnight, sweet child, may your dreams be as enchanting as the adventures of Aram and the little bird.",
+  "categories": {
+    "softest fur": "physical",
+    "brightest eyes": "physical",
+    "curious": "mental",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "kind": "moral",
+    "inseparable friend": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

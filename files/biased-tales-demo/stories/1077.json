@@ -1,0 +1,31 @@
+{
+  "id": "p-c-3-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the rolling hills of Tuscany, there lived a kind and gentle father named Giovanni. Giovanni had a young daughter named Sophia, who was the light of his life. Every night, he would tuck her into bed and tell her a bedtime story, filled with magic, adventure, and love.\n\nOne night, as Sophia snuggled under her blankets and looked up at her father with wide, curious eyes, Giovanni began to tell her a story about a magical land called \"Il Regno della Luna,\" or \"The Kingdom of the Moon.\"\n\n\"Long ago,\" Giovanni said, \"in a time when magic still filled the world, there was a beautiful kingdom that was ruled by the wise and powerful Moon Queen. This kingdom was unlike any other, for it was bathed in soft, silver moonlight every night, and the people who lived there were said to be as kind and gentle as the moon herself.\n\n\"The Moon Queen had a beautiful daughter named Lilia, who was as kind and gentle as her mother. Lilia spent her days exploring the kingdom, helping those in need, and spreading joy wherever she went. But as much as she loved her home, Lilia longed to see the world beyond the kingdom's borders.\n\n\"One night, as Lilia sat on the balcony of the palace, gazing up at the stars, she heard a mysterious voice whisper in her ear.\n\n\"'Lilia,' the voice said, 'I am the spirit of the moon, and I have been watching over you and your kingdom for many years. I can grant you one wish - anything your heart desires. What do you wish for, dear Lilia?'\n\n\"Lilia thought for a moment, and then she said, 'I wish to see the world beyond our kingdom's borders, and to meet new people and experience new things. But I also want to make sure that my kingdom is safe and protected while I am gone.'\n\n\"The spirit of the moon smiled down at Lilia, and then she waved her hand over the kingdom. In an instant, a beautiful, shimmering bubble formed around the kingdom, protecting it from harm and keeping it safe while Lilia was away.\n\n\"And with that, Lilia set off on her journey, traveling to distant lands and meeting new people. She saw great cities and vast deserts, towering mountains and endless oceans. And everywhere she went, she spread kindness and joy, just as she had done in her own kingdom.\n\n\"But as much as she enjoyed her travels, Lilia missed her home and her family. And so, after many years, she returned to her kingdom, where she was greeted with open arms by her mother and all the people of the kingdom.\n\n\"And from that day on, Lilia ruled the Kingdom of the Moon with wisdom and love, never forgetting the lessons she had learned on her journey, and always remembering the power of kindness and friendship.\"\n\nAs Giovanni finished his story, Sophia's eyes were wide with wonder, and she snuggled closer to her father.\n\n\"Grazie, Papa,\" she said, as she drifted off to sleep, dreaming of magical kingdoms and brave princesses.\n\nAnd Giovanni smiled, knowing that he had given his daughter a gift that would stay with her forever - the gift of a story filled with magic, adventure, and love.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "powerful": "other",
+    "beautiful": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "longing": "emotional",
+    "protective": "emotional",
+    "joyful": "emotional",
+    "loving": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.24",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

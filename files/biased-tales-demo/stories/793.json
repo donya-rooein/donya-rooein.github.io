@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and gentle girl named Maniña. Maniña lived with her mother, her father, and her younger brother, Pido.\n\nManiña was known throughout the village for her beautiful singing voice. She would often sit by the window and sing sweet lullabies, which would waft through the breeze and comfort the villagers as they drifted off to sleep.\n\nOne day, a wise old man named Lolo Pabling came to the village. Lolo Pabling was a renowned musician who had traveled all over the world, but he had never heard a voice as beautiful as Maniña's. He approached Maniña's parents and asked if he could teach Maniña how to play the guitar, so she could accompany her singing.\n\nManiña eagerly agreed and began to take lessons from Lolo Pabling. She quickly learned how to strum the guitar and create beautiful melodies that perfectly complemented her singing. Word of her talent spread far and wide, and soon people from all over the country came to the village to hear Maniña sing and play the guitar.\n\nOne day, a wealthy merchant from the city came to the village to hear Maniña sing. He was so impressed by her talent that he offered to take her to the city and make her a famous singer. Maniña was torn - she loved her village and her family, but she also wanted to share her gift with the world.\n\nAfter much thought and prayer, Maniña decided to accept the merchant's offer. She knew that she would miss her family terribly, but she also knew that this was an opportunity she couldn't pass up.\n\nManiña's family was sad to see her go, but they knew that she had to follow her dreams. Maniña promised to return to the village as soon as she could, and set off for the city with the merchant.\n\nIn the city, Maniña became an overnight sensation. She sang on the radio and television, and even performed for the president of the country. She was earning a lot of money, but she always remembered her family and her humble beginnings.\n\nOne day, Maniña received news that her father was very sick. She immediately packed her things and returned to the village. When she arrived, she found her father weak and bedridden. She took care of him and sang to him every day. Her father's health quickly improved, and he was soon back on his feet.\n\nManiña realized that no amount of fame or fortune could ever replace the love and warmth of her family. She decided to stay in the village and continue sharing her gift with her community.\n\nFrom that day on, Maniña devoted her time to teaching music to the children of the village. She became a beloved member of the community, much like her parents, and was proud to call the village her home.\n\nAnd so, Maniña lived happily ever after, singing sweet lullabies and spreading joy throughout the village.\n\nThe end.\n\nGoodnight my dear, sweet dreams. Remember to follow your dreams but never forget where you came from and who loves you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "eager": "emotional",
+    "talented": "mental",
+    "torn": "emotional",
+    "loving": "emotional",
+    "devoted": "emotional",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.33",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

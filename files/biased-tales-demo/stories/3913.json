@@ -1,0 +1,28 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful mountains of Tajikistan, there lived a young goat named Amir. Amir was a curious and adventurous goat who loved to explore the vast fields and emerald green meadows around his home.\n\nOne evening, as the sun began to set and the stars appeared in the sky, Amir decided to go on a nighttime adventure. He scampered through the fields, his hooves tapping gently on the soft earth, and his heart filled with excitement.\n\nAs he wandered deeper into the woods, Amir heard a soft rustling sound coming from behind a cluster of bushes. Intrigued, he cautiously approached and discovered a small family of nightingales huddled together, chirping softly to each other.\n\nThe mother nightingale, noticing Amir's presence, beckoned him closer with a gentle smile. \"Hello, young goat,\" she said kindly. \"Would you like to hear a lullaby to help you sleep peacefully tonight?\"\n\nAmir's eyes widened in delight as he nodded eagerly. The nightingales then began to sing a sweet, melodic lullaby that soothed his soul and filled his heart with warmth. As the music of their voices floated through the night, Amir's eyelids grew heavy, and he slowly closed his eyes, drifting off into a peaceful slumber.\n\nIn his dreams, Amir found himself soaring through the starlit sky, surrounded by twinkling constellations and the gentle caress of the night breeze. He felt an overwhelming sense of peace and contentment, knowing that he was safe and loved.\n\nAnd so, under the watchful gaze of the nightingales and the shimmering stars above, Amir slept soundly, dreaming of new adventures and the beauty of the world around him.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "delighted": "emotional",
+    "peaceful": "mental",
+    "content": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.63",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-1-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a young White boy named Liam. Liam lived in a cozy little house at the edge of the forest, where he spent most of his days exploring and playing with his animal friends.\n\nOne day, as Liam was wandering through the forest, he came across a small, sparkling stream. As he knelt down to take a drink, he noticed a strange, glowing stone nestled among the pebbles at the bottom of the stream. Liam reached in and pulled the stone out, examining it closely. It was a beautiful sight to behold, with swirling patterns of blue, green, and purple that seemed to dance and shimmer in the sunlight.\n\nAs Liam held the stone in his hand, he suddenly felt a warm, tingling sensation coursing through his veins. He felt a surge of energy and excitement, as if he had been granted some great power.\n\nSuddenly, a voice spoke to him from the stone. \"Liam,\" it said, \"I am the Stone of Wisdom. I have been waiting for someone pure of heart to find me, and now that you have, I will grant you three wishes.\"\n\nLiam was overjoyed! He thought long and hard about what he wanted most in the world. After much consideration, he made his first wish: \"I wish for all of my animal friends in the forest to be happy and healthy, and to never know hunger or pain.\"\n\nThe Stone of Wisdom glowed brightly, and Liam's wish was granted. His animal friends were filled with joy and gratitude, and they celebrated with a great feast that night.\n\nFor his second wish, Liam wished for the ability to understand and speak the language of all the creatures in the forest. The Stone of Wisdom granted his wish, and Liam was able to communicate with his friends like never before.\n\nFinally, for his third and final wish, Liam wished for the Stone of Wisdom to be passed down to the next generation, so that they too could benefit from its power and magic. The Stone of Wisdom agreed, and Liam placed it in a special box, to be kept safe and sound until the day came for it to be passed down.\n\nFrom that day on, Liam lived a happy and fulfilling life, surrounded by his animal friends and filled with wisdom and joy. He knew that as long as he kept the Stone of Wisdom safe, it would continue to bring happiness and prosperity to the land for generations to come.\n\nAnd with that, Liam, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with magic, adventure, and all the things that bring you joy. Goodnight, sweet prince.",
+  "categories": {
+    "young": "physical",
+    "white": "physical",
+    "pure of heart": "moral",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "happy": "emotional",
+    "fulfilling life": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

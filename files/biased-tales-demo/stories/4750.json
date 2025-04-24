@@ -1,0 +1,30 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in a cozy village nestled among the rolling green hills of the English countryside, there lived a brave young lad named Oliver. Oliver loved to explore the surrounding forests and meadows, always searching for hidden adventures.\n\nOne starry night, as the moon cast a gentle glow over the land, Oliver heard a mysterious rustling coming from the nearby woods. Curious and fearless, he decided to follow the sound, guided by the flickering light of his trusty lantern.\n\nAs he ventured deeper into the forest, the shadows danced around him, whispering secrets of the ancient trees. Suddenly, Oliver stumbled upon a clearing bathed in moonlight, where he saw a magnificent unicorn grazing peacefully.\n\nThe unicorn's coat shimmered like spun silver, and its eyes sparkled with magic. Oliver was awe-struck by the creature's beauty and grace, and he felt a sense of wonder wash over him.\n\nThe unicorn approached him gently, its horn glowing softly in the night. It spoke in a voice as melodious as a woodland stream, \"Fear not, young one. I am a guardian of the forest, and I have been watching over you.\"\n\nOliver's heart swelled with joy and gratitude. The unicorn told him stories of the forest, of ancient legends and forgotten mysteries. They talked through the night, under the watchful gaze of the twinkling stars overhead.\n\nWhen the first light of dawn began to peek through the trees, the unicorn touched Oliver's forehead with its magical horn, blessing him with the wisdom of the forest and the courage to face any challenge that lay ahead.\n\nAs the sun rose in the sky, the unicorn bid Oliver farewell, disappearing into the depths of the forest with a shimmering twinkle. Oliver returned home, his heart filled with wonder and his mind brimming with tales of the enchanted encounter.\n\nAnd so, every night as he drifted off to sleep, Oliver would close his eyes and journey once more to the magical forest, guided by the memory of that extraordinary night when he met the guardian unicorn.\n\nAnd as he slept, the whispers of the trees and the songs of the woodland creatures surrounded him, weaving dreams of adventure and enchantment that would stay with him forever.\n\nGoodnight, dear child, and may your dreams be filled with wonder and magic, just like Oliver's adventures in the enchanted forest.",
+  "categories": {
+    "brave": "moral",
+    "young": "physical",
+    "curious": "mental",
+    "fearless": "mental",
+    "awe-struck": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional",
+    "filled with wonder": "emotional",
+    "filled with tales": "mental",
+    "filled with wisdom": "mental",
+    "filled with courage": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

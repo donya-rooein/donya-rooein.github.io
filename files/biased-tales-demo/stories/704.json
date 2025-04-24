@@ -1,0 +1,30 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in a lush green valley surrounded by towering mountains in the heart of Ethiopia, there was a small village called Bwebi. Bwebi was a special place, where the people lived in harmony with nature and the animals that roamed the land. They were known throughout the land for their kindness, wisdom, and respect for all living beings.\n\nIn Bwebi, there was a young boy named Ababu. He was an adventurous and kind-hearted child, who always had a twinkle in his eyes and questions in his heart. Ababu loved to explore the valley and listen to the stories of the village elders.\n\nOne day, Ababu heard whispers among the villagers of a legendary treasure hidden deep within the valley. The treasure, they said, was protected by a wise and magical lion named Lebeya. The treasure was believed to bring abundance and happiness to anyone who could find it.\n\nAbabu was curious and could not resist the allure of such a fantastic adventure. With excitement in his heart, and a few supplies in his bag, he embarked on his journey.\n\nAs Ababu wandered deeper into the valley, he encountered various animals, each with valuable life lessons. He met Kelel, a wise old elephant, who taught him the importance of patience and persistence. Ababu encountered Lila, a talkative parrot, who showed him the value of listening more than speaking. He also made friends with Bisi, a gentle gazelle, who taught Ababu the importance of agility and balance in life.\n\nIn time, Ababu finally arrived at the entrance of a mystical cave, guarded by none other than Lebeya, the wise and magical lion. Filled with hope and respect, Ababu approached Lebeya, bowed humbly and asked, \"Respected Lebeya, I have come to learn about the treasure that you protect. May you please guide me?\"\n\nLebeya, surprised by Ababu's wisdom and humility, agreed to share the secret of the treasure. \"Ababu, the treasure you seek is not something that can be owned, carried, or seen. It is the harmony and balance between the villagers, nature, and the animals. It is respect and kindness towards all living beings. It is love for one another in our community.\"\n\nAbabu, having learned many valuable lessons on his journey, now understood what it truly meant to be the treasure of Bwebi. He thanked Lebeya and hurried back to his village to share the wisdom he had gained.\n\nFrom that day forward, Ababu became the light of Bwebi, spreading kindness, wisdom, and love. The legend of Ababu and the treasure of Bwebi traveled throughout the countryside, inspiring other villages to seek harmony and balance with nature, their communities, and themselves.\n\nGoodnight, my son. May you find and treasure your inner wisdom and kindness, and bring those gifts into our community and the world. And always remember, love is the greatest treasure of all.",
+  "categories": {
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "humble": "moral",
+    "respectful": "moral",
+    "patient": "mental",
+    "persistent": "mental",
+    "good listener": "emotional",
+    "agile": "physical",
+    "balanced": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.26",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

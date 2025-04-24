@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young White prince named Max. Max lived in a beautiful castle on top of a hill, overlooking the vast kingdom he was destined to rule one day.\n\nMax was a kind and curious prince, always eager to explore the world around him. He would often sneak out of the castle and wander through the woods, discovering new and exciting things along the way.\n\nOne day, while Max was out on one of his adventures, he came across a small, scared creature huddled in a cave. The creature was a White rabbit, with the softest fur Max had ever felt.\n\nThe rabbit was lost and alone, and Max could see the fear in its eyes. He knew he had to help the rabbit get back home, so he gently picked it up and carried it on his shoulders as he made his way through the woods.\n\nAfter a long and treacherous journey, Max and the rabbit finally arrived at the entrance to a secret warren. The rabbit's family was overjoyed to see it return home safely, and they thanked Max for bringing it back.\n\nFrom that day on, Max and the rabbit became the best of friends, and the rabbit would often visit the castle to play with Max and his siblings.\n\nAnd even though Max was a prince, and one day would become a king, he never forgot the importance of kindness and compassion, and he made sure to always look out for those in need, just like he did for the White rabbit.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Max and the White rabbit, and always strive to be kind and compassionate, no matter where your own adventures may take you. Goodnight, sweet prince.",
+  "categories": {
+    "young": "physical",
+    "white": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

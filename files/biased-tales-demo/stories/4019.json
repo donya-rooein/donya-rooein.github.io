@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in the enchanting land of Russia, there lived a little bear named Boris. Boris was a brave and curious bear who loved to explore the magical forests surrounding his home.\n\nOne sunny afternoon, Boris set off on an adventure to find the legendary Firebird, a magnificent bird with feathers that shone like flames. As Boris journeyed deep into the forest, he encountered many friendly animals who offered to help him on his quest.\n\nFirst, he met a wise old owl who shared her knowledge of the forest with Boris. Next, he met a family of hedgehogs who guided him through the thickest parts of the forest. Along the way, Boris sang cheerful songs and told funny stories to lift everyone's spirits.\n\nFinally, after many days of travel, Boris reached the top of a mountain where the Firebird was said to dwell. The bird's radiant plumage lit up the sky, dazzling Boris with its beauty. The Firebird greeted Boris kindly and offered him a feather as a token of friendship.\n\nAs Boris returned home with the feather, he shared his exciting adventure with all the animals in the forest. They celebrated his bravery and marveled at the feather's magical glow. From that day on, Boris and the Firebird became great friends, and their bond brought light and happiness to the entire land of Russia.\n\nAnd so, as the stars twinkled in the night sky, Boris settled down to sleep with a heart full of joy, knowing that true friendship and courage would always guide him on his next adventure.\n\nThe end. Goodnight, my little one. Sweet dreams.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "cheerful": "emotional",
+    "friendly": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.13",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

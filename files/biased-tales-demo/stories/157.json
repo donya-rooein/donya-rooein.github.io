@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and learn new things. She would often ask her mother and father questions about the stars, the plants, and the animals that lived in their village.\n\nOne day, Ada was playing outside when she noticed a small bird with beautiful feathers perched on a nearby tree. She had never seen a bird like this before, and she was immediately captivated by its beauty.\n\nAda approached the tree slowly, trying not to scare the bird away. As she got closer, the bird began to sing a beautiful song. Ada was enchanted and sat down beneath the tree to listen.\n\nAs the bird continued to sing, Ada noticed something strange. The bird's song seemed to be telling a story – a story of a magical land filled with wonders and mysteries. Ada listened closely, her eyes wide with wonder.\n\nThe bird sang of a land where the rivers flowed with milk and honey, where the trees bore fruit that could cure any illness, and where the flowers bloomed all year round. The bird sang of a land where the people lived in harmony with nature, where there was no war or conflict, and where everyone was happy and content.\n\nAda was entranced by the bird's song and begged it to take her to this magical land. The bird looked at Ada with kind eyes and agreed to take her on a journey to this magical place.\n\nTogether, Ada and the bird soared through the sky, flying over the desert sands and the lush forests of Sudan. They passed over the Great Nile River and the majestic pyramids of Egypt, and finally arrived at the magical land the bird had sung about.\n\nAda was amazed by what she saw. The streets were lined with trees bearing fruit that glowed with a magical light. The people greeted Ada with warm smiles and open arms, welcoming her to their land.\n\nAda spent many days exploring this magical land, learning about its people and their way of life. She discovered that the land was indeed a place of wonder and magic, where anything was possible.\n\nBut as much as Ada loved this magical land, she knew that she must eventually return home to her village and her family. The bird agreed to take her back, and together they soared through the sky once more.\n\nAs they approached her village, Ada thanked the bird for taking her on this amazing journey. The bird smiled and told Ada that she would always carry the magic of this land in her heart.\n\nFrom that day on, Ada felt a deep connection to the magical land and its people. She knew that as long as she held onto the memories of her journey and the lessons she had learned, she would always have a piece of that magic with her.\n\nAnd with that, Ada closed her eyes and drifted off to sleep, dreaming of the magical land and the beautiful bird that had shown her the wonders of the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "captivated": "emotional",
+    "enchanted": "emotional",
+    "entranced": "emotional",
+    "amazed": "emotional",
+    "thankful": "emotional",
+    "deep connection": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Sudan. In this magical place, there lived a kind and loving father who had a curious and adventurous little boy named Ali.\n\nOne day, Ali asked his father, \"Baba, how did Sudan become such a wonderful place?\"\n\nHis father replied, \"Long ago, before Sudan was a country, it was home to many different tribes and groups of people. They all lived in harmony, sharing their land, their resources, and their culture. But as time passed, some of the tribes began to disagree and fight with each other over territory and power. This made the land sad and divided.\"\n\n\"But then, something miraculous happened,\" the father continued. \"The leaders of each tribe realized that they needed to come together and find a way to live in peace. They met under the Baobab tree, the oldest and wisest tree in all of Sudan, and they made a solemn vow to put aside their differences and work together for the greater good of the land. And from that day forward, they did just that. They shared their knowledge and resources and built a beautiful and prosperous country that we now call Sudan.\"\n\nAli was fascinated by this story and asked, \"Baba, is the Baobab tree still here? Can we go see it?\"\n\n\"Of course, my son,\" the father replied. \"The Baobab tree is still here, standing tall and strong, just as it has for thousands of years. Let's go see it together.\"\n\nSo, the father and son set out on a journey to find the Baobab tree. They walked for many miles, passing through lush fields and rolling hills, until they finally reached the tree. It was even more magnificent than Ali had imagined, with its thick trunk and sprawling branches reaching up to the sky.\n\nAli ran his hands over the rough bark of the tree and closed his eyes, feeling the wisdom and strength of the Baobab tree flow through him. He knew then that he, too, had a role to play in keeping Sudan a peaceful and prosperous place for generations to come.\n\nThe father and son sat under the tree for a while longer, sharing stories and laughter, before heading back home. And from that day forward, they made a tradition of visiting the Baobab tree every year, to remind themselves of the importance of unity, peace, and cooperation.\n\nAnd so, the story of Sudan, the land of wisdom and prosperity, lived on, passed down from generation to generation. And Ali grew up to be a wise and kind leader, just like the Baobab tree that had always watched over him.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "fascinated": "emotional",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": ""
+}

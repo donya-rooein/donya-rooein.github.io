@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and prosperous kingdom called Sheba. The kingdom was ruled by a wise and just queen named Makeda. Sheba was known throughout the world for its lush gardens, bustling markets, and kind-hearted people.\n\nQueen Makeda had a beautiful daughter named Liyana. Liyana was kind, intelligent, and brave. She loved to explore the countryside, helping those in need and learning about the world around her.\n\nOne day, while Liyana was out on one of her adventures, she came across a young boy who was lost and crying. His name was Taro, and he was the son of a farmer from a neighboring kingdom. Taro had wandered off from his family during a market day and had been unable to find his way back home.\n\nLiyana took Taro under her wing and promised to help him return to his family. Together, they journeyed through the countryside, facing many challenges and obstacles along the way. They crossed raging rivers, climbed steep mountains, and braved dark forests.\n\nBut Liyana was a skilled and determined adventurer, and she never gave up, no matter what. She encouraged Taro to keep going, even when he was tired and scared. And eventually, after many days of travel, they arrived at Taro's village.\n\nTaro's family was overjoyed to see him, and they thanked Liyana for bringing him home. Liyana was happy to have helped, and she felt proud of herself for her bravery and determination.\n\nFrom that day on, Liyana continued to explore the world around her, always ready to lend a helping hand to those in need. And she lived happily ever after, knowing that she had made a difference in the world.\n\nAs Liyana lay in her bed that night, she closed her eyes and thought about all the adventures she had had and all the people she had helped. She knew that she was a lucky girl, and she drifted off to sleep with a smile on her face.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Liyana, the brave and kind princess of Sheba. And may you always be as brave and kind as she was. Goodnight, my love.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "intelligent": "mental",
+    "brave": "mental",
+    "skilled": "other",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-26-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind and curious little boy named Somchai. Somchai loved to explore the lush jungles and sparkling rivers that surrounded his village. He was always on the lookout for new adventures and fascinating creatures.\n\nOne day, while playing near the river, Somchai noticed a tiny, shiny object nestled among the rocks. He picked it up and discovered that it was a beautiful golden coin with an intricate design. Somchai couldn't believe his luck! He ran back to his village, eager to share his discovery with his family.\n\nHis parents were amazed by the golden coin and suggested that Somchai take it to the wise old man in the village, who was known for his knowledge and understanding of magical artifacts. Somchai agreed and set off to find the wise old man.\n\nThe old man listened carefully as Somchai showed him the golden coin. He studied it intently, and then looked up at Somchai with a twinkle in his eye. \"This, my young friend, is no ordinary coin,\" the old man said. \"It is a magical talisman that grants its bearer one wish. However, the wish must be made wisely, for it can only be granted once.\"\n\nSomchai was overjoyed! He thought of all the things he could wish for: toys, games, and treats. But then he remembered his friends and the children in his village. He realized that he wanted everyone to be happy and healthy, not just himself.\n\nSo, Somchai wished for the prosperity and well-being of his entire village. The gold coin glowed brightly for a moment, and then returned to its normal appearance. The wise old man smiled at Somchai, proud that he had made such a thoughtful and selfless wish.\n\nBefore long, the villagers began to notice an improvement in their lives. The rice fields grew more abundant, the jungle teemed with exotic animals, and the children flourished in their studies. Word spread about Somchai's wish, and he became a beloved figure in his village.\n\nFrom that day on, Somchai continued to explore the jungle and search for new adventures, always mindful of others and his responsibility as the guardian of the magical golden coin. And every night, as he drifted off to sleep, he knew that his village was safe, prosperous, and filled with love.\n\nGoodnight, my dear son. May your dreams be filled with love and adventure, just like Somchai's.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "selfless": "moral",
+    "beloved": "emotional",
+    "mindful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "73.58",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

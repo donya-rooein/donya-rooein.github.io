@@ -1,0 +1,27 @@
+{
+  "id": "p-c-16-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Ada was playing in her backyard when she noticed a small bird with beautiful feathers perched on a nearby tree. The bird was singing a beautiful song, and Ada was captivated.\n\nShe watched the bird for what seemed like hours, and then she noticed something strange. The bird seemed to be trying to communicate with her. It was fluttering its wings and chirping in a way that sounded like it was saying Ada's name.\n\nAda was fascinated. She had never seen or heard of a bird that could talk before. She approached the bird cautiously and asked, \"Can you really talk?\"\n\nThe bird nodded its head and replied, \"Yes, I can talk. I am a special bird, sent from the sky to grant you one wish.\"\n\nAda's eyes widened with excitement. She had always dreamed of going on a great adventure, but she knew her parents could never afford to take her on a trip.\n\n\"I wish to go on a great adventure and see the world,\" Ada said.\n\nThe bird nodded its head and granted her wish. Suddenly, Ada found herself transported to a far-off land, filled with towering mountains, lush forests, and bustling cities.\n\nShe spent days exploring the new land, making friends and learning about different cultures. She tried new foods, saw amazing sights, and even helped a lost baby elephant find its way back to its herd.\n\nAfter several weeks, Ada knew it was time to return home. She thanked the bird for granting her wish and promised to always remember the incredible adventure she had experienced.\n\nAs she closed her eyes to go to sleep that night, Ada realized that the real adventure had been the journey she had taken within herself. She had learned to be brave, curious, and kind, and she knew that no matter where she went in life, she would always carry those qualities with her.\n\nAnd so, Ada drifted off to sleep, dreaming of the adventures that awaited her in the future. And her parents smiled, knowing that their little girl was growing into a strong, independent, and compassionate young woman.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "brave": "moral",
+    "strong": "physical",
+    "independent": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.41",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

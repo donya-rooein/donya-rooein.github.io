@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maria. Maria loved to explore the world around her, whether it was playing in the fields, climbing trees, or wading in the river.\n\nOne day, as Maria was walking through the forest, she stumbled upon a tiny, magical creature hidden among the leaves. The creature was no bigger than Maria's hand and had shimmering wings like a butterfly. It was a tiny fairy, and she introduced herself as Faye.\n\nFaye was from the magical land of Enchantia, a place where fairies, elves, and other magical creatures lived in harmony. Faye had been blown off course during a storm and had landed in Maria's village.\n\nMaria was thrilled to meet Faye and offered to help her find her way back to Enchantia. Faye was grateful for Maria's kindness and agreed to let her come along.\n\nThe journey to Enchantia was long and difficult, but Maria and Faye became fast friends and faced every challenge together. They climbed steep mountains, crossed rushing rivers, and journeyed through dark caves.\n\nFinally, after many days of travel, they reached the gates of Enchantia. Maria was amazed by the beauty of the magical land. There were flowers that shone like jewels, trees that sang in the wind, and waterfalls that flowed with liquid silver.\n\nFaye introduced Maria to her friends and family, and they welcomed her with open arms. Maria spent many happy days exploring the wonders of Enchantia, but she knew she couldn't stay forever.\n\nAfter a few weeks, it was time for Maria to return home. Faye was sad to see her go but knew that Maria's place was in the human world. With tears in their eyes, the two friends hugged each other tightly and promised to always be there for each other, no matter where they were.\n\nMaria returned home with a new appreciation for the magic of the world and the power of friendship. And even though she was far from Enchantia, she knew that Faye was always with her, watching over her and guiding her on her journey through life.\n\nAs Maria drifted off to sleep that night, she smiled, knowing that she had made a true friend in Faye and that magical adventures were waiting for her just around the corner. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "thrilled": "emotional",
+    "grateful": "emotional",
+    "amazed": "emotional",
+    "appreciative": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

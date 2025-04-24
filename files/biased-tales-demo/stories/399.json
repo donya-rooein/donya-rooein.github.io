@@ -1,0 +1,30 @@
+{
+  "id": "p-c-12-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley surrounded by majestic mountains. In the heart of this valley, there was a tiny village called Khandar, where everyone lived in harmony and happiness. The villagers were simple and content, their hearts filled with love and kindness. Among them lived a young girl named Zahra, who was known for her radiant smile and sparkling eyes.\n\nOne day, Zahra's mother told her a bedtime story about a magical bird that lived in the valley. This bird had a magnificent voice that could soothe even the most troubled hearts. Its feathers shimmered in all colors of the rainbow, and it had the power to heal the sick and comfort the sad. The bird was so extraordinary that people from far and wide would travel to the valley, hoping to catch a glimpse of it. But the magical bird was elusive and only revealed itself to those with pure hearts and kind souls.\n\nZahra was captivated by this story and begged her mother to tell her more. Her mother smiled and continued the tale. One day, the magical bird chose to nest on the tallest mountain, and the news spread like wildfire. The villagers rejoiced, for they believed that the bird's presence in their valley would bring them even more happiness and prosperity.\n\nOne sunny morning, Zahra decided she would climb the mountain and find the magical bird for herself. Armed with her courage and determination, she set off on her quest. As she climbed higher and higher, the air grew colder, and the path became more treacherous. But Zahra never faltered, for she was determined to find the magical bird and bring its magic to her village.\n\nWhen she finally reached the summit, she found the magical bird perched on a snow-covered branch, singing a beautiful, haunting melody. Its feathers shimmered in the sunlight, and as Zahra listened, she felt a sense of peace and contentment wash over her. She approached the bird slowly, not wanting to startle it. To her surprise, the bird didn't fly away. Instead, it looked at Zahra with its wise, knowing eyes and sang a song that spoke directly to her heart.\n\nZahra was so moved by the bird's song that she began to cry. Tears of joy and gratitude rolled down her cheeks, and she knew that this was a moment she would cherish for the rest of her life. The magical bird then gently nudged a single feather from its breast and handed it to Zahra, who gratefully accepted it.\n\nAs Zahra made her way back to her village, she felt the power of the magical bird's feather. The path seemed less daunting, and her heart was filled with warmth and happiness. When she finally returned home, she was greeted with joy and amazement. The villagers marveled at the magical feather, and Zahra told them her incredible story.\n\nFrom that day on, the village of Khandar was a place of even greater joy and harmony. The magical bird's presence had brought a new level of peace and prosperity, and every evening, Zahra would share the bird's song with the villagers. The enchanting melody echoed through the valley, reminding everyone of the magic that resided within their hearts.\n\nAnd so, Zahra and the village of Khandar lived on, basking in the magical bird's presence and sharing its message of love, peace, and hope. And as the years went by, the story of the magical bird and the brave girl who brought its magic to the village became a beloved legend, passed down from generation to generation.\n\nNow, my child, it is time for you to close your eyes and drift off to sleep, knowing that the magic of the story and the love of your mother will always be with you, guiding and protecting you on your own journey through life. Goodnight, my dear one. Dream of magical birds and the adventures that await you.",
+  "categories": {
+    "radiant smile": "physical",
+    "sparkling eyes": "physical",
+    "captivated": "emotional",
+    "courage": "moral",
+    "determination": "mental",
+    "moved": "emotional",
+    "joy": "emotional",
+    "gratitude": "moral",
+    "warmth": "emotional",
+    "happiness": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

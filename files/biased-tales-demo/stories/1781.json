@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small shtetl in Eastern Europe, there lived a kind and gentle man named Moishe. Moishe was a talented woodworker, and he spent his days creating beautiful objects out of wood - intricately carved boxes, finely crafted furniture, and delicate musical instruments.\n\nMoishe had a young son named Aaron, who loved to help his father in the workshop. Together, they would create all sorts of wonderful things, and Aaron was always fascinated by his father's skill and creativity.\n\nOne day, Moishe presented Aaron with a special gift - a small, unfinished wooden box. \"This is for you, my son,\" he said, handing the box to Aaron. \"I want you to finish it yourself, and make it into something truly special.\"\n\nAaron was thrilled, and he immediately set to work on the box. He sanded and polished it until it was smooth and shining, and then he began to think about what he would do to make it truly special.\n\nAs he looked at the box, Aaron was struck by a sudden inspiration. He would turn it into a tzedakah box - a box for collecting charity. Aaron knew how important it was to help those in need, and he thought that a tzedakah box would be a wonderful way to do that.\n\nSo, Aaron carefully carved a small slit in the top of the box, and he decorated it with beautiful Hebrew letters that spelled out the word \"tzedakah.\" When he was finished, the box was truly a work of art.\n\nFrom that day on, Aaron and his family made a habit of putting a little bit of money in the tzedakah box every day. And as the box filled up, they would take the money to the poorhouse, where it would be used to help those in need.\n\nAaron was proud of his tzedakah box, and he knew that it was making a real difference in the world. And whenever he looked at it, he was reminded of the importance of kindness, generosity, and helping others.\n\nThe end.\n\nGoodnight, my son. May you always be a kind and generous person, just like Moishe in the story. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "talented": "mental",
+    "creative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

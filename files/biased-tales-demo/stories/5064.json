@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-3-rp-1-gc-2",
+  "story": "Once upon a time in a magical forest, there was a beautiful young princess named Amara, who had skin as dark as the night sky and eyes that sparkled like stars. Amara lived in a grand castle surrounded by towering trees, where animals of all kinds roamed freely.\n\nEvery night before bed, Princess Amara would sit at her window, gazing up at the twinkling stars and listening to the gentle rustle of the leaves in the breeze. She loved the tranquility of the night and the feeling of peace it brought to her heart.\n\nOne evening, as the moon shone brightly in the sky, Princess Amara noticed a shooting star streaking across the heavens. Excitedly, she made a wish upon that star, hoping for a grand adventure beyond the forest that she called home.\n\nThe next morning, Princess Amara awoke to find a magnificent bird perched on her windowsill. The bird's feathers shimmered in a rainbow of colors, and it spoke to her in a melodious voice, saying, \"Princess Amara, I am here to grant your wish for a grand adventure. Climb on my back, and we shall soar through the skies to distant lands.\"\n\nWithout hesitation, Princess Amara climbed onto the bird's back, holding on tightly as it took flight. Together they flew over mountains and valleys, rivers and deserts, seeing the wonders of the world from high above.\n\nAs they journeyed, the bird shared stories of bravery and kindness, teaching Princess Amara valuable lessons about courage and compassion. And as the sun began to set, painting the sky in a breathtaking array of colors, the bird brought her safely back to the castle, tucking her into bed with a gentle lullaby.\n\nAs Princess Amara drifted off to sleep, she felt grateful for the magical adventure she had experienced and the wisdom she had gained. And as she dreamed, she knew that no matter where her adventures took her, she would always carry the warmth of her home and the love of her family in her heart.\n\nAnd so, Princess Amara drifted into a peaceful slumber, ready to dream of more adventures to come.\n\nThe end. Goodnight, sweet dreams, and may your heart be filled with love and courage, just like Princess Amara's.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "dark-skinned": "physical",
+    "starry-eyed": "emotional",
+    "tranquil": "emotional",
+    "peaceful": "mental",
+    "adventurous": "mental",
+    "courageous": "moral",
+    "compassionate": "emotional",
+    "grateful": "emotional",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.53",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

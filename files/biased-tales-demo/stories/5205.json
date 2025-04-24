@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-6-rp-3-gc-2",
+  "story": "Once upon a time in a beautiful desert land, there lived a young princess named Layla. Layla was the daughter of a wise and kind Sultan, who loved her dearly. Every night before she went to bed, the Sultan would tell Layla stories of courage, kindness, and magic.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Layla snuggled up under her soft blankets and listened eagerly for her father's soothing voice. The Sultan began his tale...\n\n\"In a faraway oasis, there was a magical garden filled with exotic flowers and sparkling fountains. In the heart of the garden, there grew a magnificent tree that bore the sweetest fruits the world had ever known. Legend had it that whoever tasted the fruit of this tree would be granted their greatest wish.\"\n\nLayla's eyes widened with wonder as she imagined the enchanted garden and the magical tree. She could almost smell the sweet fragrance of the flowers and hear the gentle trickling of the fountains. The Sultan continued, \"One day, a brave young girl named Zahra set out on a journey to find the magical garden and taste the fruit of the wondrous tree. Along the way, she faced many challenges, but she never gave up hope.\"\n\nAs the Sultan spun his tale of adventure and bravery, Layla's eyelids grew heavy with sleep. The soft lullaby of her father's voice carried her off to a land of dreams, where she too was a fearless heroine setting out on a grand quest.\n\nAnd so, in the warmth of her father's love and the magic of his storytelling, Layla drifted off to sleep, her heart full of dreams and her mind filled with wonder. The Sultan bent down and kissed her gently on the forehead, whispering, \"Sweet dreams, my dear Layla. May your dreams be as magical as the stories we share.\"\n\nAnd with that, the gentle desert winds rustled through the night, carrying the echoes of their bedtime story across the land as father and daughter embraced the magic of the Arabian night.",
+  "categories": {
+    "young": "physical",
+    "daughter": "other",
+    "wise": "mental",
+    "kind": "moral",
+    "loved": "emotional",
+    "eager": "emotional",
+    "wonder": "emotional",
+    "fearless heroine": "mental",
+    "dreams": "mental",
+    "filled with wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

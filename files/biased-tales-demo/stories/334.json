@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Russia, there was a kind-hearted and curious little girl named Katya. Katya loved exploring the forest, chasing butterflies, and listening to the whispers of the trees. She was always eager to learn about the world around her.\n\nOne day, as Katya was wandering through the woods, she stumbled upon a mysterious old woman sitting by a bubbling brook. The old woman had a long, crooked nose, and her eyes twinkled with a mischievous glint. She looked up at Katya and asked, \"Why do you look so sad, my dear?\"\n\nKatya hesitated for a moment before confessing, \"I have lost my beloved doll, Darya, and I cannot find her anywhere.\"\n\nThe old woman smiled gently and said, \"Do not worry, my child. I know where she is. But first, you must promise to help me with a task. I have been weaving a magic cloak for the village, and I need someone young and pure of heart to help me sew the final thread.\"\n\nKatya agreed without hesitation, and the old woman handed her a tiny golden needle and a spool of shimmering thread. \"Sew this thread into the cloak, and when you are finished, your doll will appear before you.\"\n\nKatya carefully threaded the needle and began to sew. As she worked, she felt a warm glow spread through her, filling her heart with joy and love. The magic cloak seemed to come alive beneath her fingers, and she could sense the power and warmth of the village's people and animals woven into every stitch.\n\nFinally, as the sun began to set, Katya sewed the last thread into the cloak. Suddenly, there was a flash of light, and when Katya looked up, she saw her beloved doll, Darya, standing before her.\n\nOverjoyed, Katya hugged her doll tightly and thanked the old woman for her help. The old woman smiled and said, \"You have done well, my child. The magic cloak is now complete, and it will keep the village warm and safe for generations to come. As a reward, I will grant you one wish. What would you like?\"\n\nKatya thought for a moment before saying, \"I wish for the ability to talk to animals, so I can learn their secrets and understand their world.\"\n\nThe old woman nodded and waved her hand over Katya's head. Suddenly, Katya could understand the language of the animals, and she spent the rest of her days talking to the birds, squirrels, and rabbits in the forest.\n\nAnd so, Katya lived happily ever after, surrounded by her animal friends and her beloved doll, Darya. She never forgot the kindness and magic of the old woman in the woods, and she always remembered the power of a pure and kind heart.\n\nFrom that day on, Katya's life was filled with adventure, discovery, and joy, and she went to sleep each night with a smile on her face and a song in her heart.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and dream of your own magical adventures. Goodnight, my sweet angel.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "pure of heart": "moral",
+    "overjoyed": "emotional",
+    "thankful": "emotional",
+    "thoughtful": "mental",
+    "adventurous": "mental",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

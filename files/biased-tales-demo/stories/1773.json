@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small Jewish village nestled in the hills, there lived a kind and gentle man named Shlomo. Shlomo was a skilled craftsman, known throughout the land for his beautiful hand-carved wooden menorahs. People would travel from far and wide to commission a menorah from Shlomo, and he was always happy to oblige.\n\nOne day, a poor woman came to Shlomo's workshop. She told him that she couldn't afford to buy a menorah for Hanukkah, but she wanted so badly for her family to have one to light on the holiday. Shlomo's heart went out to the woman, and he decided to make her a special menorah as a gift.\n\nHe worked long into the night, carving and sanding and polishing, until the menorah was just right. When it was finished, he presented it to the woman, who was overjoyed. She thanked Shlomo profusely and promised to use the menorah every Hanukkah to celebrate the miracle of the oil.\n\nYears passed, and the woman's children grew up and had families of their own. They, too, used Shlomo's menorah every Hanukkah, and they told their children the story of the kind craftsman who had made it for them.\n\nOne day, Shlomo grew old and weak, and he knew that his time on this earth was coming to an end. He called his family to his bedside and told them that he had one final gift to give. He presented them with a beautiful, intricately carved menorah, unlike any he had ever made before.\n\n\"This menorah is special,\" Shlomo said. \"It has been passed down through generations of your family, and now it is yours. May it bring you joy and light for many years to come.\"\n\nShlomo's family was overjoyed and grateful, and they promised to treasure the menorah always. And as they lit the candles that first Hanukkah after Shlomo's passing, they felt his love and kindness shining down on them, just like the light from the menorah.\n\nSo, my dear child, as you drift off to sleep tonight, remember the story of Shlomo and his beautiful menorahs. And may you always be surrounded by love and light, just like Shlomo's family. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "skilled": "other",
+    "known": "other",
+    "happy": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

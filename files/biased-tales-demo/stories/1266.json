@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-3-gc-1",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, there lived a kind and curious little girl named Yumi. Yumi's greatest joy was exploring the beautiful Japanese countryside and discovering new and exciting things.\n\nOne sunny afternoon, after a long day of playing outside, Yumi's mother called her inside for dinner. As she sat down to eat, she noticed that her mother had prepared a special dish - a steaming bowl of rice topped with bright orange salmon and studded with vibrant green edamame beans. Yumi's favorite!\n\nAs she eagerly dug into her dinner, she noticed something unusual. Hidden within the flaky salmon was a tiny, sparkling stone. Intrigued, Yumi pulled the stone from her mouth and held it up to the light. To her amazement, the stone began to glow and shimmer, and she heard a soft voice calling out to her.\n\n\"Hello, Yumi. I am the spirit of Mount Fuji. I have been watching over you and your village, and I have a special gift for you. This stone is called the Jewel of Fuji. It has the power to grant you one wish. But be careful, Yumi. With great power comes great responsibility. Choose your wish wisely.\"\n\nYumi thought long and hard about what she wanted most in the world. She thought about asking for a never-ending supply of her favorite sweets, or for a magical pet that could do all her chores for her. But in the end, she knew that there was only one thing she truly wanted.\n\n\"I wish for the happiness and prosperity of my village and its people,\" Yumi said, holding the Jewel of Fuji close to her heart.\n\nThe spirit of Mount Fuji smiled down at Yumi. \"Your wish is granted, little one. May your village always be filled with joy and laughter, and may its people always be blessed with good fortune.\"\n\nAnd with that, the Jewel of Fuji lost its glow, and Yumi knew that her wish had come true. She ran outside to share the news with her friends and neighbors, and they all celebrated the good fortune that had come to their village.\n\nFrom that day on, Yumi continued to explore the countryside and discover new and exciting things. But she always remembered the lesson she had learned from the Jewel of Fuji - that the greatest power of all is the power to bring happiness and joy to others.\n\nAnd with that, Yumi, it is time for you to close your eyes and drift off to sleep. May your dreams be filled with adventure and joy, and may you always remember the power of kindness and love. Good night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "thoughtful": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

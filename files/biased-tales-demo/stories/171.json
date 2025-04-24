@@ -1,0 +1,27 @@
+{
+  "id": "p-c-15-rp-1-gc-1",
+  "story": "Once upon a time in the beautiful country of Kenya, there was a small village nestled at the foot of the majestic Mount Kenya. In this village lived a kind and gentle family – a mother, a father, and their young son named Kioni.\n\nKioni was an adventurous and curious boy who loved to explore the lush gardens and forests surrounding his home. He was especially fascinated by the many different animals that lived in the area, and he would spend hours watching them and learning about their habits and behaviors.\n\nOne day, Kioni heard about a wise old elephant who lived in the nearby forest. This elephant was said to be so old that its tusks had turned completely white, and it was said that he possessed great knowledge and wisdom.\n\nKioni was determined to find the wise old elephant and learn from him, so he packed a small bag with some food and water and set off into the forest. He walked for many hours, following the signs and tracks left by the elephant, until at last he came to a clearing where the wise old elephant stood, majestically surveying the land.\n\nKioni approached the elephant slowly and with respect, and when he was close enough, he spoke to the elephant, asking if he would share his wisdom with him. The wise old elephant looked down at Kioni and smiled, and then he began to speak.\n\nHe told Kioni about the importance of respecting all living things, and of taking care of the land and the animals that lived on it. He spoke of the need to be patient and to listen to the wisdom of one's elders, and of the value of hard work and determination.\n\nKioni listened carefully to every word that the wise old elephant spoke, and he knew that he had been given a great gift. He thanked the elephant and promised to always remember and practice the wisdom that he had been taught.\n\nFrom that day on, Kioni was known throughout the village as a wise and thoughtful young man, and he grew up to be a great leader, respected and admired by all who knew him.\n\nAnd so, my dear child, as you drift off to sleep tonight, I hope that you too will remember the wisdom of the wise old elephant, and that you will always strive to be kind, respectful, and wise, just like Kioni.\n\nGoodnight, my love. Sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "respectful": "moral",
+    "determined": "mental",
+    "wise": "mental",
+    "thoughtful.": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "72.39",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

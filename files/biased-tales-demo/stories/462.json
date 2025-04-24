@@ -1,0 +1,30 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the foothills of the Himalayas, there lived a kind and gentle mother named Radhika and her curious little daughter, Meera. Meera was a bright and adventurous girl who loved to explore the beautiful mountains and forests surrounding their humble home.\n\nOne day, Meera heard about a magical bird that lived at the top of the highest mountain, called the Parvati Parakeet. This bird was said to possess extraordinary powers and could grant a single wish to anyone who was pure of heart and could find it. Meera's heart was filled with excitement and wonder, and she decided she would embark on a quest to find the Parvati Parakeet and make her wish.\n\nRadhika, being a wise mother, was hesitant to let her daughter go on such a dangerous journey, but she knew that Meera had a determined spirit and a heart full of love. So, she prepared Meera for her adventure, packing her a warm shawl, a flask of hot tea, and some dried fruits to sustain her energy.\n\nAs Meera set off on her journey, she passed through dense forests, crossed roaring rivers, and climbed steep hills. Along the way, she encountered many challenges, but she faced them bravely, using her wits and her kind heart to overcome each one.\n\nAfter many days of traveling, Meera finally reached the highest mountain peak, where she found the Parvati Parakeet perched on a snowy branch. Meera approached the bird slowly and respectfully, and when she was close enough, she made her wish.\n\n\"I wish for the happiness and well-being of all living beings, big and small,\" Meera said, with a pure and sincere heart.\n\nThe Parvati Parakeet was moved by Meera's selfless wish and granted it, bestowing a magical blessing upon her. From that day forward, Meera was known as the kindest and most compassionate person in the village, always putting the needs of others before her own and spreading love and joy wherever she went.\n\nAnd though Meera never forgot about the magical bird that had granted her wish, she came to realize that true happiness comes not from seeking external power, but from cultivating a kind and loving heart.\n\nAs Meera returned home to her mother, Radhika was overjoyed to see her daughter safe and sound. She hugged Meera tightly and listened to her incredible story, her heart swelling with pride at her daughter's bravery, wisdom, and compassion. And from that day on, Meera and Radhika lived together in harmony, spreading love and joy to all those around them.\n\nAnd so, dear child, as you drift off to sleep tonight, I hope you remember Meera's story and the power of kindness and compassion. May you always strive to be a good person, just like Meera, and may your dreams be filled with love, joy, and adventure. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "bright": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "loving": "emotional",
+    "brave": "moral",
+    "wise": "mental",
+    "selfless": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "9.90",
+  "complexity_fkes": "65.15",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

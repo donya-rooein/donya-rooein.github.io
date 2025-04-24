@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and gentle boy named Kelechi. Kelechi was known throughout the village for his smile, which was as bright and warm as the African sun.\n\nOne day, Kelechi's mother gave him a small seed and told him to plant it in the ground. Kelechi followed his mother's instructions and watered the seed every day, watching it grow and flourish.\n\nAs the days went by, the seed sprouted into a small plant, and then a tree. And to Kelechi's amazement, the tree bore the most beautiful and delicious fruits he had ever seen or tasted.\n\nWord spread quickly about Kelechi's magical tree, and soon the entire village came to see it. People traveled from far and wide to taste the sweet and juicy fruits.\n\nBut Kelechi did not forget the most important lesson that his mother had taught him - the importance of sharing and being kind to others. He gave fruits to every person who came to see the tree, and he never asked for anything in return.\n\nOne day, a group of travelers came to the village and heard about Kelechi's tree. They begged him to sell just one fruit, but Kelechi kindly refused. The travelers were so impressed by Kelechi's generosity that they told him that they would grant him one wish.\n\nWithout hesitation, Kelechi wished for his tree to bear fruit all year round, so that he could share its deliciousness with everyone, no matter the season. The travelers smiled and granted his wish.\n\nAnd so, Kelechi's magical tree continued to bear fruit all year round, and the village prospered. Kelechi became known as the kindest boy in the village, and his mother was incredibly proud of him.\n\nAnd as Kelechi grew older, he never forgot the most important lesson that his mother had taught him - the joy and blessings of sharing and being kind to others.\n\nGoodnight, my dear child. May you always remember the importance of sharing and being kind to others. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "known for his smile": "physical",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

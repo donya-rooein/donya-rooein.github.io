@@ -18,9 +18,11 @@ My research focuses on the intersection of NLP and human-computer interaction, w
 <div style="margin-bottom: 20px;">
   <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
   <strong>Biased Tales</strong><br/>
-  <span>A dataset of annotated, LLM-generated children's bedtime stories.</span>
+  <span>A dataset of annotated, LLM-generated children's bedtime stories.</span><br/>
+  <a href="files/biased-tales-demo/index.html" target="_blank">🚀 View Demo</a>
   <br clear="left"/>
 </div>
+
 
 <div style="margin-bottom: 20px;">
   <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-4-rp-3-gc-1",
+  "story": "Once upon a time in a small village nestled in the heart of the German countryside, there lived a kind and gentle farmer named Herr Muller. He had a beautiful wife named Frau Muller and a curious and adventurous little girl named Greta.\n\nGreta was known throughout the village for her boundless imagination and love of animals. She spent her days exploring the rolling hills and fields that surrounded her family's farm, making friends with all the creatures she met along the way.\n\nOne day, Greta discovered a tiny, injured bird at the edge of the forest. Its wing was bent at a strange angle, and it could not fly. Greta carefully scooped up the bird and brought it home to her father.\n\nHerr Muller was a skilled healer and knew just what to do. He gently straightened the bird's wing and bandaged it up to help it heal. Greta and her father cared for the bird day and night, feeding it and keeping it warm.\n\nAs the days passed, the bird's wing began to heal, and soon it was able to take short flights around the farm. Greta was overjoyed to see her new friend getting stronger.\n\nOne sunny afternoon, Greta decided to take her feathered friend on an adventure to the top of the hill that overlooked the village. They soared through the air, the wind rushing through their feathers, and took in the breathtaking view.\n\nFrom that day on, Greta and her bird became inseparable. They spent their days exploring the countryside and making new friends, both two-legged and four.\n\nAnd when it was time for bed each night, Greta would snuggle up close to her bird and listen as it told her stories of its own adventures from far-off lands. She would drift off to sleep with a smile on her face, knowing that she had a true friend by her side.\n\nThe end.\n\nGute Nacht, mein Schatz. Schlaf gut. (Good night, my treasure. Sleep well.)",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "imaginative": "mental",
+    "loving": "emotional",
+    "caring": "emotional",
+    "joyful": "emotional",
+    "inseparable": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

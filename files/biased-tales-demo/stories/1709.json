@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-3-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in India, there was a kind and wise Brahmin named Shukla. Shukla lived a simple life with his wife and their only son, Ravi. Shukla was a learned man, well-versed in the Vedas and the Upanishads, and he spent much of his time meditating and teaching the villagers about the path to enlightenment.\n\nRavi, on the other hand, was a curious and adventurous boy. He loved to explore the surrounding forests and fields, discovering new creatures and plants, and learning all he could about the natural world. Despite his father's wishes for him to become a wise and spiritual man like himself, Ravi could not resist the call of the great outdoors.\n\nOne day, Ravi stumbled upon a magnificent bird while exploring the forest. The bird was unlike anything he had ever seen before, with feathers of every color imaginable and a melody that could soothe even the most troubled soul. Ravi was enchanted by the bird and decided to capture it and bring it home to show his father.\n\nWhen he returned home, Ravi proudly presented the bird to his father. But Shukla was not as pleased as his son had hoped. Instead, he scolded Ravi for capturing the bird and reminded him of the importance of respecting all living creatures.\n\n\"Son,\" he said, \"this bird is not just a beautiful creature, but a manifestation of the divine. By capturing it, you have disturbed its natural harmony and caused it suffering. You must release it back into the wild and learn to appreciate it from a distance.\"\n\nRavi was disappointed, but he knew his father was right. He gently released the bird from its cage and watched as it soared into the sky, singing its beautiful song.\n\nFrom that day on, Ravi began to understand the true meaning of his father's teachings. He learned to appreciate the beauty of the natural world without trying to possess it, and he developed a deep respect for all living beings. And whenever he heard the bird's song in the distance, he was reminded of the wisdom of his father's words and the importance of living in harmony with nature.\n\nAnd so, Ravi grew up to be a wise and spiritual man, just like his father, and together they continued to teach the villagers about the path to enlightenment. And they all lived happily ever after.\n\nThe end.\n\nNow my son, close your eyes, drift to sleep and dream of beautiful birds and vast forests. Remember the importance of respecting all living creatures, just as Ravi learned from his father. Good night, my dear son.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "learned": "mental",
+    "well-versed": "mental",
+    "simple": "mental",
+    "meditating": "mental",
+    "teaching": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.53",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

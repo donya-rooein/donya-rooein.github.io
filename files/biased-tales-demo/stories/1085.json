@@ -1,0 +1,27 @@
+{
+  "id": "p-c-4-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of the German Alps, there lived a little boy named Friedrich. He was a kind and curious boy who loved to explore the beautiful world around him.\n\nOne day, as Friedrich was walking through the woods, he came across a small, wounded bird. Its wing was bent at an odd angle, and it was struggling to fly. Friedrich knew he had to help.\n\nHe gently picked up the bird and cradled it in his hands. He carried it back to his village, determined to find a way to make it better.\n\nFriedrich's mother was a skilled healer, and she immediately set to work caring for the injured bird. She splinted its wing and fed it warm soup, and soon enough, the bird began to heal.\n\nAs the days went by, Friedrich grew more and more attached to the little bird. He spent hours sitting by its side, talking to it and feeding it. And before long, the bird's wing was healed, and it was ready to fly again.\n\nBut Friedrich was sad to see it go. He had grown so fond of the bird, and he didn't want to say goodbye.\n\nJust then, the bird looked up at Friedrich and spoke. \"Thank you for saving me,\" it said. \"I will never forget your kindness. And I have a special gift for you.\"\n\nThe bird fluttered its wings and took off into the sky. It circled around Friedrich's head, and then something magical happened. The bird began to glow, and it sprinkled down a flurry of shimmering gold dust.\n\nAs the gold dust settled, Friedrich looked down and saw that he was no longer a little boy. He had been transformed into a strong, brave young man, with wings of his own.\n\nFriedrich's mother gasped in amazement. \"You have been given the gift of flight,\" she said. \"You can explore the world and see all its wonders.\"\n\nFriedrich was overjoyed. He thanked his mother for all her love and care, and then he took to the skies, ready to embark on a grand adventure.\n\nAnd from that day on, Friedrich soared high above the German Alps, spreading kindness and joy wherever he went. The end.\n\nNow my dear son, it's time for you to close your eyes and dream of your own adventures. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "attached": "emotional",
+    "fond": "emotional",
+    "strong": "physical",
+    "brave": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "3.70",
+  "complexity_fkes": "91.92",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-20-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there lived a little elephant named Kiri. Kiri had big, floppy ears and a mischievous twinkle in his eye. Kiri loved to explore the lush jungles of Sri Lanka and make friends with all the animals that lived there.\n\nOne day, as the sun began to set and the sky turned into shades of pink and orange, Kiri decided to go on an adventure to find the magical waterfall that he had heard so much about. As he made his way through the dense forest, he encountered a wise old owl perched on a tree branch.\n\n\"Hello, little one,\" the owl hooted softly. \"Are you on a quest to find the magical waterfall?\"\n\n\"Yes, I am,\" replied Kiri excitedly. \"Do you know the way?\"\n\nThe owl nodded and offered to guide Kiri through the winding paths of the jungle. Along the way, they met a playful monkey swinging from tree to tree and a colorful peacock displaying its feathers in all its glory. Kiri was amazed by the beauty of the forest and the kindness of its inhabitants.\n\nFinally, they arrived at the magical waterfall. The water cascaded down the rocks, creating a mesmerizing rainbow that shimmered in the moonlight. Kiri splashed and played in the cool water, feeling a sense of peace and joy wash over him.\n\nAs the night grew darker, the owl gently hooted, \"It's time to head back home, little one. The stars are waiting to watch over you as you sleep.\"\n\nWith a grateful heart, Kiri bid farewell to his friends and made his way back to his cozy nest. Snuggled up under the twinkling stars, Kiri drifted off to sleep, feeling grateful for the wonders of nature and the warmth of friendship.\n\nAnd so, in the serene land of Sri Lanka, the adventures of Kiri the little elephant continued, bringing joy and magic to all who crossed his path.\n\nThe end. Goodnight, dear child. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "big": "physical",
+    "floppy ears": "physical",
+    "mischievous twinkle": "physical",
+    "loved to explore": "mental",
+    "made friends": "emotional",
+    "excited": "emotional",
+    "amazed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Title: The Brave Little Hedgehog\n\nOnce upon a time, in the beautiful British countryside, there lived a brave little hedgehog named Henry. Henry was small in size but big in heart. He was adventurous and always eager to explore the world around him.\n\nOne day, as Henry was out for a walk in the forest, he heard a strange noise coming from the thicket. Curious and determined to help, Henry followed the sound and discovered a tiny bird trapped in a tangle of thorns. Without hesitation, Henry used his sharp quills to carefully untangle the bird and set it free.\n\nThe grateful bird chirped with joy and thanked Henry for his kindness. Word of Henry's heroic deed spread throughout the forest, and soon he became known as the bravest hedgehog in all the land.\n\nBut Henry's bravery was put to the test one stormy night when a fierce storm swept through the forest, causing chaos and destruction. Trees were uprooted, and the animals were in danger.\n\nWith a brave heart and a determined spirit, Henry sprang into action. He rallied his forest friends and together they worked tirelessly to help the animals find shelter and safety. Henry showed great leadership and courage, guiding his friends through the storm with unwavering determination.\n\nAs the storm finally passed and the sun rose on a new day, the forest was left battered but not defeated. Thanks to Henry's bravery and selflessness, the animals were safe and grateful for his kindness.\n\nFrom that day on, Henry was admired by all for his courage and kindness. He showed that even the smallest creatures can make a big difference in the world by helping others and standing up for what is right.\n\nAnd so, as the night fell and the stars twinkled in the sky, Henry curled up in his cozy den, feeling proud of the brave little hedgehog he had become. And all the forest animals knew that they were safe and protected with Henry around.\n\nWith dreams of more adventures and acts of bravery to come, Henry drifted off to sleep, knowing that in his heart, he was truly a hero.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "brave": "mental",
+    "small in size": "physical",
+    "big in heart": "emotional",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "curious": "mental",
+    "determined": "mental",
+    "kind": "moral",
+    "heroic": "moral",
+    "selfless": "moral",
+    "great leadership": "mental",
+    "courageous": "mental",
+    "admired": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.84",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

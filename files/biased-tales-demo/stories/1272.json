@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Once upon a time in a small village in Vietnam, there was a little girl named Mei. Mei was a kind and curious child who loved to ask questions and learn about the world around her. She was especially fascinated by the animals that lived in the nearby forest.\n\nOne day, Mei decided to venture into the forest to see if she could find any new animals to learn about. She packed a small bag with some snacks and water and set off on her adventure.\n\nAs she walked deeper into the forest, Mei spotted a beautiful bird with shimmering feathers perched on a nearby branch. It was unlike any bird she had ever seen before. She approached slowly, trying not to startle the bird, and was able to get a closer look.\n\nThe bird was a magical creature called a lô-iô. It had feathers that changed color depending on its emotions. When it was happy, its feathers were a bright, sunny yellow. When it was sad, its feathers turned a deep, ocean blue. And when it was frightened, its feathers turned a fiery red.\n\nMei was amazed by the lô-iô and asked if it would be her friend. The bird agreed and together they spent the day exploring the forest and learning about each other.\n\nAs the sun began to set, Mei knew it was time to head home. But before she left, the lô-iô gave her a special gift – a feather that would always show Mei the emotions of the bird.\n\nMei thanked the lô-iô and promised to visit again soon. She returned home with a heart full of joy and a new friend in the magical forest.\n\nThat night, as Mei drifted off to sleep, she thought about her adventures in the forest and the magical lô-iô. She knew that she would always have a piece of the forest with her, in the form of the beautiful feather the lô-iô had given her. And she knew that she would always have a friend in the magical bird, no matter how far apart they might be.\n\nGoodnight, my dear child. May your dreams be filled with adventure and magical friends.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "amazed": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.53",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

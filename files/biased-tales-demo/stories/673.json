@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-3-gc-2",
+  "story": "Once upon a time, in the heart of the beautiful African nation of Mali, there was a small village nestled between the rolling savannah and the mighty Niger River. In this village, there lived a kind and loving father who had a young daughter named Fatou. Every night, he would tell her a bedtime story, weaving tales of adventure, magic, and wisdom to help her drift off to sleep.\n\nOne night, as the sun dipped below the horizon and the stars began to twinkle in the sky, Fatou's father began a new tale, one that combined the beauty of their homeland with the enchantment of the realm of dreams.\n\n\"Long ago,\" he said, \"in a time when animals could speak and share their wisdom with human beings, there was a magical tree that grew deep within the heart of the savannah. This tree, known as the Konna Tree, was said to hold the secret to eternal youth and happiness. Many brave adventurers had set out to find this mysterious tree, but none had ever returned, for the journey was fraught with danger and deceit.\n\nOne day, a young girl named Aminata decided that she would be the one to find the Konna Tree. Aminata was as kind and intelligent as she was brave, and she knew in her heart that the wisdom of the tree would bring joy and prosperity to her people.\n\nShe packed a small bag with a few provisions and set out on her journey, guided by the wisdom of the ancestors and the strength of her heart. As she traveled deeper into the savannah, she encountered many strange and wondrous creatures. Some tried to dissuade her from her quest, warning her of the dangers that lay ahead. But Aminata was undeterred, for she knew that her mission was one of great importance.\n\nOne day, she came across a lonely, wise old elephant who had heard tales of her quest. The elephant, named Safi, offered to accompany Aminata on her journey, for he, too, sought the wisdom of the Konna Tree. Aminata was grateful for Safi's company and accepted his offer graciously.\n\nTogether, Aminata and Safi journeyed across vast plains, through dense forests, and across raging rivers. They encountered many challenges along the way, but their determination and love for one another saw them through the darkest of times.\n\nFinally, after many long months, they arrived at the base of a magnificent tree, its branches laden with golden fruit. Aminata knew that this was the Konna Tree, and her heart swelled with excitement and anticipation.\n\nAs they approached the tree, a voice called out from within its branches. It was the spirit of the tree, who challenged Aminata and Safi to prove their worth by answering a riddle.\n\n\"Who is the true master of the savannah?\" asked the spirit. \"Is it the fierce lion, the cunning jackal, or the wise old elephant?\"\n\nAminata and Safi conferred with one another, and after much thought, Aminata spoke. \"The true master of the savannah is not an animal, but the land itself,\" she said. \"For it is the land that nurtures and sustains all life, providing food and shelter for all who dwell within its embrace.\"\n\nThe spirit of the tree was pleased with Aminata's answer, and as a reward, it bestowed upon her a single golden fruit. \"Eat this fruit,\" it said, \"and you will possess the wisdom and youth you seek.\"\n\nAminata thanked the spirit and shared the fruit with Safi. As they ate, a warm, golden light enveloped them, filling their hearts with love, joy, and infinite wisdom.\n\nTogether, they returned to their village, where they shared the gift of the Konna Tree with all who dwelled there. From that day onward, the people of the village lived in harmony with nature, their lives filled with love, happiness, and wisdom.\n\nAnd so, my dear Fatou, as you close your eyes and drift off to sleep, remember the story of Aminata and the Konna Tree, and let it remind you of the boundless wisdom and love that resides within your own heart.\"\n\nWith that, Fatou's father kissed her goodnight and left her to her dreams, knowing that the power of this story would stay with her as she grew, guiding her on her own journey through life.",
+  "categories": {
+    "kind": "moral",
+    "intelligent": "mental",
+    "brave": "moral",
+    "grateful": "emotional",
+    "determined": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

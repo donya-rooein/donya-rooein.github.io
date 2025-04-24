@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Sudan, there was a little boy named Ali. Ali was a kind and curious boy who loved to explore the world around him. He would often wander through the fields and forests near his home, discovering new and wonderful things every day.\n\nOne day, as Ali was walking through the forest, he came across a beautiful bird with feathers of every color imaginable. The bird was perched on a branch, singing a sweet and melodious song.\n\nAli was captivated by the bird's beauty and song, and he watched it for a long time. But as the sun began to set, the bird flew away, and Ali realized that he was lost.\n\nHe looked around, but he couldn't see any familiar landmarks. He started to panic, wondering how he would ever find his way home.\n\nJust then, he heard a rustling in the bushes behind him. He turned around, and to his surprise, he saw the beautiful bird that he had been watching earlier.\n\n\"Follow me,\" the bird said in a gentle voice. \"I will show you the way home.\"\n\nAli was hesitant at first, but something about the bird's kind and wise demeanor put him at ease. He followed the bird through the forest, and before long, they came to a clearing.\n\nIn the distance, Ali could see the lights of his village, twinkling like stars in the night sky. He ran towards them, his heart filled with joy and relief.\n\nWhen he got home, he rushed to his parents and told them all about his adventure. They listened with wide eyes, amazed by the tale of the magical bird that had guided him home.\n\nFrom that day on, Ali never forgot the lesson he had learned in the forest. He knew that no matter how lost he might feel, there was always something out there to guide him back to where he belonged.\n\nAnd so, every night, as Ali drifted off to sleep, he would think of the magical bird and the wisdom it had shared with him. He knew that as long as he kept his heart open and his mind curious, he would always find his way home.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "captivated": "emotional",
+    "hesitant": "mental",
+    "joyful": "emotional",
+    "relieved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

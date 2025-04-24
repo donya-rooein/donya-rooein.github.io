@@ -1,0 +1,26 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a bustling village in India, there lived a little boy named Raj. Raj was a curious and kind-hearted child who always sought adventure and excitement. One evening, as the sun began to set and the stars started to twinkle in the sky, Raj's father sat him down for a bedtime story.\n\n\"Raj, my son, would you like to hear a story tonight?\" asked his father.\n\n\"Yes, Papa! Please tell me a story,\" Raj replied eagerly.\n\nHis father smiled and began weaving a magical tale about a brave prince named Arjun who embarked on a daring quest to save his kingdom from a fierce dragon. The prince faced many challenges and obstacles along the way, but with courage and determination, he overcame them all.\n\nAs Raj listened intently to the story, he imagined himself as the brave prince, riding on a magnificent horse and wielding a gleaming sword. He felt a sense of excitement and wonder fill his heart as he followed the prince on his journey.\n\nAfter the story came to an end, Raj's father tucked him into bed, kissed him goodnight, and whispered, \"Remember, Raj, no matter how big the challenges may seem, always be brave and kind like Prince Arjun. Your courage will guide you through any adventure that comes your way.\"\n\nWith a smile on his face and dreams of heroic adventures in his mind, Raj drifted off to sleep, feeling safe and loved in his father's embrace.\n\nAnd so, under the starlit sky, the father and son shared a special bond through the power of storytelling, creating memories that would last a lifetime.\n\nGoodnight, Raj. Sweet dreams, my dear child. And may your heart be filled with love and courage always. The end.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "brave": "moral",
+    "courageous": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

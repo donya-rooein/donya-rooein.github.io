@@ -1,0 +1,28 @@
+{
+  "id": "p-c-25-rp-3-gc-3",
+  "story": "Once upon a time, in a peaceful village nestled between mountains and rivers in Vietnam, a young boy named Linh lived with his loving family. Linh was curious and adventurous, always eager to explore the world around him.\n\nOne evening, as the golden sun dipped below the horizon, Linh's mother tucked him into bed and began to tell him a special bedtime story.\n\nShe told him about a magical turtle that lived in a mystical lake deep in the heart of the forest. Legend had it that whoever was pure of heart and brave enough to seek out the turtle would be granted a wish.\n\nExcited by the tale, Linh closed his eyes and drifted off to sleep, dreaming of the adventures he could embark on to find the magical turtle and make his dearest wish.\n\nIn his dream, Linh journeyed through dense forests, crossed roaring rivers, and climbed towering mountains. Along the way, he encountered friendly animals who guided him on his quest and shared their wisdom with him.\n\nAfter many days of travel, Linh finally reached the mystical lake where the magical turtle resided. With a humble heart and a brave spirit, Linh approached the shimmering waters and called out to the turtle.\n\nTo his amazement, the wise turtle emerged from the depths of the lake and asked Linh what his deepest wish was. Without hesitation, Linh spoke of his longing for peace and happiness for his family and village.\n\nThe magical turtle smiled warmly and granted Linh's wish, casting a gentle light that spread peace and joy throughout the land. Linh woke up feeling a sense of contentment and gratitude, knowing that the magic of the story lived within his heart.\n\nAs Linh drifted back to sleep, he knew that with love, bravery, and kindness, he could make his dreams come true and bring light to the world around him.\n\nAnd so, under the starlit sky, Linh embraced the power of his dreams and drifted off to sleep, surrounded by the warmth of his family and the magic of the bedtime story that would forever inspire him to follow his heart.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "pure of heart": "moral",
+    "brave": "moral",
+    "humble": "moral",
+    "content": "emotional",
+    "grateful": "emotional",
+    "loving": "emotional",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "65.96",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

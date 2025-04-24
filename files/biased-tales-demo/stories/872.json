@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with lush green forests, crystal-clear rivers, and sandy beaches, there was a small village called Curupira. This village was home to many animals, but the most famous of them all was a little boy named Tiago.\n\nTiago was not like the other children in the village. He had a special gift – he could talk to animals, just like his dear friend, the wise old parrot, Xara. With Xara's help, Tiago learned many secrets of the forest, and he used this knowledge to protect and care for the animals that lived there.\n\nOne day, Tiago heard a soft whisper in the wind, \"The sacred Crystal of the Amazon has been stolen! The forest is losing its balance, and it's up to you, Tiago, to bring it back.\"\n\nWithout wasting a moment, Tiago and Xara set off on an incredible journey to find the missing crystal. They encountered many animals, each with its own story to tell and quest to complete, but together, they formed a bond stronger than any force trying to stop them.\n\nWhen they finally arrived at the entrance of the hidden Crystal Cavern, they faced their most challenging obstacle yet – the fearsome Snake Queen, who was protecting the crystal. But Tiago bravely spoke to her, \"Great Snake Queen, I mean you no harm! I am here to bring back the sacred Crystal of the Amazon. It was stolen, and now our beloved forest is in danger.\"\n\nSurprised by Tiago's courage, calmness, and wisdom, the Snake Queen decided to help him. She returned the crystal to Tiago, who took it back to Curupira. There, the villagers and animals gathered to celebrate its return, and their forest was once again filled with peace, harmony, and prosperity.\n\nFrom that day forward, everyone knew that the little boy named Tiago was the guardian of the forest, and he continued to protect and care for the Amazon and its inhabitants, with the help of his wise old parrot friend, Xara, and the powerful Crystal of the Amazon.\n\nAnd so, as Tiago drifted off to sleep that night, he dreamed of his next adventure, always knowing that even in his dreams, the forest was in good hands.\n\nGoodnight, my dear son. May you find the courage to protect the world around you and treasure the gifts you possess, just like Tiago.",
+  "categories": {
+    "special gift": "other",
+    "can talk to animals": "other",
+    "brave": "moral",
+    "calm": "emotional",
+    "wise": "mental",
+    "protector": "moral",
+    "caring": "emotional",
+    "courageous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-25-rp-3-gc-1",
+  "story": "Once upon a time, in a lush green valley nestled between the mountains of Vietnam, there was a small village called Cam Thanh. In Cam Thanh, there lived a kind and gentle farmer named Hai. Hai had a beautiful farm filled with vibrant rice paddies, blooming flowers, and fruitful trees. He worked hard every day to take care of his farm and provide for his loving family.\n\nHai had a little boy named Minh, who was curious, adventurous, and full of dreams. Minh loved exploring the valley, discovering new places, and meeting the magical creatures that lived there.\n\nOne sunny day, Minh found a tiny, golden snail near the edge of their rice paddy. The snail was unlike any other Minh had ever seen. It had a mesmerizing, shimmering shell, and its eyes sparkled like the stars. Minh knew that this snail was special, so he decided to take care of it and named it Sli.\n\nMinh and Sli quickly became inseparable friends. They spent their days wandering through the valley and listening to the stories of the creatures that lived there. The creatures knew that Sli was unlike any other snail, and they welcomed the pair with open arms.\n\nAs the years went by, Minh and Sli grew up and faced many challenges, but their friendship only became stronger. They learned about kindness, wisdom, and the power of dreams.\n\nOne day, an evil sorcerer invaded the valley and threatened to destroy their peaceful life. The people were frightened and didn't know what to do. But Minh and Sli were not afraid. They decided to confront the sorcerer and bring peace back to their beloved valley.\n\nGuided by their friendship and the wisdom they had learned, Minh and Sli set out on a dangerous journey. They met many challenges and encountered mythical creatures that helped them along the way.\n\nFinally, they reached the sorcerer's lair and were faced with a powerful force that threatened to tear them apart. Minh knew that their friendship and love were their greatest weapons.\n\nTogether, Minh and Sli channeled all their strength and courage into one powerful force that overcame the sorcerer and brought peace back to the valley.\n\nFrom that day on, Cam Thanh was a symbol of unbreakable friendship and the power of dreams. And Minh and Sli continued to explore and learn, always remembering that they could overcome any obstacle with the help of their friends.\n\nAnd as Minh tucked Sli into its little shell every night, he would whisper, \"Good night, dear friend. Together, we can do anything.\"\n\nAnd with that, Minh drifted off to sleep, his dreams filled with adventure, friendship, and hope.\n\nGood night, little one. May your dreams be filled with love, adventure, and the support of the friends you'll make along the way.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "full of dreams": "mental",
+    "not afraid": "emotional",
+    "strong friendship": "emotional",
+    "strength": "other",
+    "courage": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

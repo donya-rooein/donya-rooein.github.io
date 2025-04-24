@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and gentle king who ruled over a prosperous and happy kingdom. The king had a young son named Prince Alexander, who was beloved by all who knew him.\n\nPrince Alexander was a curious and adventurous boy, and he loved to explore the woods and fields surrounding the castle. One day, while out on a walk, he stumbled upon a hidden clearing in the forest, where he found a small, injured bird.\n\nPrince Alexander gently scooped up the bird in his hands and carried it back to the castle. He took the bird to his room and placed it in a small cage, where he could care for it and help it heal.\n\nAs the days passed, Prince Alexander tended to the bird with great care, feeding it and keeping it warm. And as the bird grew stronger, so too did their friendship. The prince would spend hours talking to the bird and listening to its sweet songs.\n\nBut one day, the bird's wing healed completely, and it was ready to fly free once more. Prince Alexander knew that it was time for the bird to return to the wild, but he was sad to see it go.\n\nJust as he was about to open the cage and let the bird fly away, he heard a gentle voice behind him. It was his father, the king, who had been watching from the doorway.\n\n\"I see that you have made a new friend, my son,\" the king said. \"But remember, true love means letting those we care for go, even when it is hard.\"\n\nPrince Alexander knew that his father was right. With a heavy heart, he opened the cage and watched as the bird soared into the sky, free once more.\n\nBut as he watched the bird fly, Prince Alexander felt a sense of joy and peace in his heart. He knew that he had done the right thing, and that his friendship with the bird had been a true and pure one.\n\nAnd from that day forward, Prince Alexander always remembered the lesson his father had taught him: that true love means letting go, even when it is hard.\n\nThe end.\n\nGoodnight my son, I hope you have a good rest. Remember that I will always love you and be there for you no matter what.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "beloved": "emotional",
+    "caring": "emotional",
+    "attentive": "mental",
+    "loving": "emotional",
+    "understanding": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.84",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the base of Mount Fuji, there lived a young girl named Yumi. Yumi was a kind and curious child, always eager to learn and explore the world around her.\n\nOne day, Yumi's mother gave her a beautiful kimono that had been passed down through generations of their family. The kimono was a stunning shade of pink, adorned with intricate patterns of cherry blossoms and cranes. Yumi was overjoyed and couldn't wait to wear it.\n\nThat night, as Yumi lay in bed, she noticed that the moon was particularly bright and beautiful. She asked her mother if she could wear her new kimono and go outside to gaze at the moon. Her mother agreed, and Yumi quickly changed into her kimono and stepped outside.\n\nAs she looked up at the moon, Yumi felt a sense of wonder and awe wash over her. She noticed that the moon seemed to be smiling down at her, and she felt as if she could reach out and touch it.\n\nSuddenly, Yumi heard a soft rustling sound behind her. She turned around and saw a small, delicate creature with wings made of silk and a face like that of a rabbit. The creature fluttered closer to Yumi and introduced himself as Tsuki-no-Usagi, the Moon Rabbit.\n\nTsuki-no-Usagi told Yumi that he lived on the moon and had come to earth to visit her. He explained that he was responsible for making the moon look full and bright, and that he spent his days grinding rice into mochi, a delicious Japanese dessert.\n\nYumi was thrilled to meet Tsuki-no-Usagi and asked if she could help him make mochi. The Moon Rabbit agreed, and they spent the rest of the night working together, laughing and talking as they created tray after tray of delicious mochi.\n\nWhen the morning sun began to rise, Tsuki-no-Usagi knew it was time for him to return to the moon. He thanked Yumi for her help and gave her a special gift – a small, round rice cake made of the finest mochi flour. He told her that it would bring her good luck and happiness.\n\nYumi thanked Tsuki-no-Usagi and waved goodbye as he disappeared into the sky. She went back inside, still wearing her kimono, and climbed into bed, clutching the rice cake close to her heart.\n\nFrom that day on, Yumi always felt a special connection to the moon, and she knew that Tsuki-no-Usagi was watching over her, bringing her good luck and happiness. And every time she looked up at the moon, she could see the faint outline of a rabbit, smiling down at her.\n\nAs Yumi drifted off to sleep, she knew that she would have sweet dreams, filled with the taste of mochi and the gentle touch of the Moon Rabbit.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "thrilled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

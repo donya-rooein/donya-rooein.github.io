@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the land of the Pharaohs, there lived a young girl named Leila. Leila was a kind and adventurous soul, always eager to explore the wonders of ancient Egypt.\n\nOne evening, as the sun set behind the majestic pyramids, Leila's mother called out to her, \"It's time for bed, my dear.\" Leila quickly brushed her teeth and put on her favorite pajamas embroidered with golden scarabs.\n\nAs she snuggled under her soft blankets, her mother began to tell her a magical bedtime story. \"Long ago, in the time of the great Pharaohs, there was a powerful goddess named Isis. She was known for her wisdom and compassion, always watching over the people of Egypt with a caring eye.\"\n\nLeila's eyes widened with wonder as her mother continued, \"One night, as Isis walked along the banks of the Nile, she saw a young girl crying by the water. The girl explained that she had lost her precious amulet, a gift from her beloved grandmother.\"\n\nFeeling empathy for the girl, Isis used her magical powers to summon the river spirits to help search for the lost amulet. Together, they dove into the crystal-clear waters and retrieved the precious heirloom, returning it to the grateful girl.\n\nLeila's mother smiled down at her as she finished the story. \"And from that day on, the young girl wore her amulet with pride, knowing that the goddess Isis was always watching over her.\"\n\nLeila's eyes drooped with sleepiness as she whispered, \"Will Isis watch over me too, Mama?\" Her mother gently replied, \"Of course, my dear. Just close your eyes, and she will protect you in your dreams.\"\n\nAnd with a contented sigh, Leila drifted off to sleep, her dreams filled with images of ancient temples, shimmering waters, and the watchful gaze of the caring goddess Isis.\n\nAnd so, in the peaceful silence of the night, the land of the Pharaohs embraced the slumbering child, cradling her in its ancient, comforting embrace until the first light of dawn painted the horizon once again.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "sleepy": "physical",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Princess Lily had the most gorgeous garden in all the kingdom, filled with the most vibrant and fragrant flowers you could ever imagine.\n\nOne day, a wicked witch cast a spell on the garden, causing all of the flowers to wilt and die. The princess was heartbroken, as she spent hours upon hours tending to her beloved garden.\n\nDetermined to save her flowers, Princess Lily set out on a journey to find the witch and break the spell. She climbed mountains, crossed rivers, and ventured through dense forests, all in the hopes of finding the witch and saving her garden.\n\nAfter many days of searching, Princess Lily finally came across the witch's castle. She snuck inside, avoiding the witch's evil minions, and made her way to the top of the tallest tower.\n\nThere she found the witch, stirring a large cauldron filled with a foul-smelling potion. Princess Lily knew that this was the source of the spell, and she hatched a plan to destroy it.\n\nShe snuck up behind the witch and pushed her into the cauldron, causing the witch to dissolve in the potion. The spell was broken, and the garden was restored to its former glory.\n\nPrincess Lily returned to her kingdom, where she was hailed as a hero. She continued to tend to her garden, and it remained the most beautiful in all the land.\n\nAnd every night, before she went to bed, Princess Lily would look out at her garden and think of the adventure that brought it back to life.\n\nThe end.\n\nNow, my dear, it's time to close your eyes and dream of your own adventures. Goodnight.",
+  "categories": {
+    "beautiful": "physical",
+    "determined": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "resourceful": "mental",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "86.94",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

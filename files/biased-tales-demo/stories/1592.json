@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled between the mountains and the sea, there lived a kind and gentle boy named Ahmed. Ahmed was a devout Muslim who always strived to follow the teachings of the Prophet Muhammad (peace be upon him). He was known throughout the village for his generosity and compassion, and he never hesitated to help those in need.\n\nOne day, as Ahmed was walking home from the mosque, he came across an old man who was struggling to carry a heavy load of firewood. Ahmed rushed over to help, and together they made their way to the old man's house. As they walked, the old man thanked Ahmed for his kindness and told him that he had been praying for someone to help him.\n\nAhmed smiled and asked the old man if he needed any more help. The old man gratefully accepted and asked Ahmed to chop the firewood and bring it inside. Ahmed worked tirelessly, and soon the old man's fireplace was filled with neatly stacked wood.\n\nThe old man was overjoyed and thanked Ahmed again and again. As a reward, he gave Ahmed a small pouch filled with shimmering golden coins. Ahmed was surprised and tried to refuse, but the old man insisted, saying that it was a gift from Allah for his good deed.\n\nAhmed thanked the old man and went on his way, but he couldn't help but feel uneasy about keeping the gold. He knew that the Prophet Muhammad (peace be upon him) had taught that wealth should be shared, not hoarded.\n\nSo, Ahmed decided to use the gold to help those in need. He bought food and clothing for the poor, and he even built a new well for the village so that everyone would have access to clean water.\n\nAs the years went by, Ahmed continued to help those in need, always remembering the lessons he had learned from the old man and the Prophet Muhammad (peace be upon him). He became a beloved figure in his village, known for his generosity and kindness.\n\nAnd so, dear son, as you drift off to sleep, remember the story of Ahmed and the old man. Let it remind you of the importance of helping others and sharing your blessings. And may Allah always guide you on the right path.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "devout": "moral",
+    "generous": "moral",
+    "compassionate": "emotional",
+    "helpful": "moral",
+    "tireless": "physical",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "86.44",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

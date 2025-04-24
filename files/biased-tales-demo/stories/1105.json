@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and gentle father named Avo. Avo had a precious little daughter named Anoush, who was the light of his life. Anoush was known throughout the village for her radiant smile and her love of learning.\n\nOne day, Anoush asked Avo, \"Father, why is our village called 'The Land of the Apricot Queen'?\"\n\nAvo sat down beside Anoush and began, \"Long ago, our village was ruled by a wise and just queen named Queen Anahit. She was deeply loved by her people for her compassion and fairness. But there was one problem – our village never had enough fruit to feed its people. Queen Anahit was determined to find a solution and bring prosperity to her beloved village.\"\n\n\"One day, while walking through the forest, Queen Anahit stumbled upon a magical apricot tree. As she approached the tree, she noticed that the apricots glowed with a warm, golden light. She reached out and picked one, and to her surprise, it was the sweetest and juiciest fruit she had ever tasted.\"\n\n\"Realizing the magical properties of the tree, she decided to plant it in the center of the village. The tree flourished, and its fruit became plentiful. Word of the magical apricot tree spread, and people from neighboring villages came to witness its beauty and taste its delicious fruit.\"\n\n\"The villagers were grateful to Queen Anahit for her wisdom and kindness. From that day forward, our village became known as 'The Land of the Apricot Queen,' and we have been famous for our delicious apricots ever since.\"\n\nAnoush listened to her father's story, her eyes sparkling with wonder. As she drifted off to sleep, she couldn't help but think of the magical apricot tree and the wise Queen Anahit, who had brought prosperity to her people.\n\nFrom that day on, Anoush made a wish to become just like Queen Anahit, spreading wisdom and kindness throughout her village and beyond. And Avo, with a loving smile, promised to help her become the best person she could be.\n\nAnd so, their journey of love, learning, and growth began, as father and daughter wove their own enchanting tale, inspired by the timeless magic of 'The Land of the Apricot Queen.'\n\nGoodnight, my dear Anoush. May you dream of magical apricot trees and the wisdom of a queen.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "fair": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

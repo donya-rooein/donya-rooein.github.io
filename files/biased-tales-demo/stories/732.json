@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the beautiful countryside of Tajikistan, there lived a kind and curious little girl named Zulfiya. She lived with her mother and father in a cozy home near the base of the majestic mountains.\n\nZulfiya loved to explore the village and the surrounding hills and meadows. She spent her days playing with her friends, helping her mother with chores, and listening to her father's stories about the history and legends of their homeland.\n\nOne day, as Zulfiya was wandering through the meadows, she came across a beautiful, glowing stone. She picked it up and marveled at its beauty. As she held the stone in her hand, she felt a strange feeling wash over her. Suddenly, she was filled with knowledge and understanding about the world around her.\n\nZulfiya realized that the stone was a magical artifact, passed down through generations, that granted its keeper wisdom and insight. She knew that she had been chosen to protect and care for the stone, and she promised to use its power only for good.\n\nFrom that day on, Zulfiya became known as the wisest girl in the village. She used her newfound knowledge to help her friends and neighbors, solving disputes and offering guidance. And she always remembered to thank the magical stone for its gift.\n\nAs Zulfiya grew older, she continued to care for the stone and share its wisdom. She became a respected leader in her community, known for her fairness, compassion, and intelligence. And she always made sure to pass on the lessons she had learned to the next generation, so that they too could benefit from the power of the magical stone.\n\nNow, my dear child, it is time for you to close your eyes and drift off to sleep. And as you do, remember the story of Zulfiya and the magical stone, and all the wisdom and knowledge that it represents. For you too have the potential to be a wise and compassionate leader, just like Zulfiya. Goodnight, my dear one. May your dreams be filled with adventure and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "fair": "moral",
+    "compassionate": "emotional",
+    "intelligent": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.44",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

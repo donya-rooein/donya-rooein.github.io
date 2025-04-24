@@ -1,0 +1,25 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Kenya, there was a young girl named Nyambura. Nyambura was a kind and curious child who loved to explore the world around her. She spent her days playing in the fields and forests near her home, discovering all sorts of interesting creatures and plants.\n\nOne day, Nyambura was walking through the forest, when she came across a small, scared rabbit. The rabbit had gotten its foot caught in a trap, and was unable to free itself. Nyambura gently picked up the rabbit and carefully untangled its foot from the trap.\n\nThe rabbit looked up at Nyambura with gratitude in its eyes. \"Thank you for saving me,\" it said. \"I was so scared and alone. But now, I am free.\"\n\nNyambura smiled at the rabbit. \"You're welcome,\" she said. \"I'm glad I could help.\"\n\nFrom that day on, Nyambura and the rabbit became the best of friends. They spent their days playing and exploring together, and Nyambura learned all sorts of things from her new friend.\n\nOne day, the rabbit asked Nyambura, \"Have you ever been to the top of Mount Kilimanjaro? It is the tallest mountain in Africa, and the view from the top is breathtaking.\"\n\nNyambura shook her head. \"No, I have never been there,\" she said. \"I have always wanted to go, but I am afraid it is too far away and too dangerous for me to climb.\"\n\nThe rabbit smiled. \"I know a secret way to the top,\" it said. \"Would you like me to show you?\"\n\nNyambura's eyes lit up with excitement. \"Yes, please!\" she said.\n\nAnd so, Nyambura and the rabbit set off on their journey to the top of Mount Kilimanjaro. It was a long and difficult climb, but with the rabbit's help, Nyambura was able to make it to the top.\n\nWhen they reached the summit, Nyambura gasped in amazement. The view was truly breathtaking, and she felt like she was on top of the world. She thanked the rabbit for bringing her there, and they hugged each other, feeling grateful for their friendship and the amazing adventure they had shared.\n\nFrom that day on, Nyambura always remembered the lesson she had learned from the rabbit: that with courage and determination, she could accomplish anything she set her mind to. And every night, as she drifted off to sleep, she would think of the rabbit and the incredible view from the top of Mount Kilimanjaro, and she knew that she could face whatever tomorrow brought with confidence and strength.\n\nAnd with that, Nyambura closed her eyes and drifted off to sleep, dreaming of all the adventures that awaited her in the future.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "adventurous": "mental",
+    "courageous": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.54",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-4-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful and peaceful forest, there lived a kind and wise little bunny named Bella. Bella was a wonderful bunny, always helpful and considerate to her friends and family. She loved spending time with her mother, learning about the world and its many wonders.\n\nOne day, Bella's mother told her a story about the magical Lotus flower that grew in the heart of the forest. The Lotus flower was said to be so beautiful and radiant that it could bring happiness and peace to anyone who saw it. However, the flower was also known to be very shy, and only revealed itself to those who had a pure and kind heart.\n\nBella was fascinated by the story and decided that she wanted to see the Lotus flower for herself. She asked her mother for permission to go on a journey to find the flower, and her mother agreed, reminding Bella to always be kind, compassionate, and mindful on her travels.\n\nBella set off early the next morning, her heart full of excitement and determination. She hopped through the forest, greeting all of the animals she met with a warm smile and a kind word. As she journeyed deeper into the forest, she came across a small clearing where an old and wise turtle lived.\n\nThe turtle listened to Bella's story and saw the determination in her eyes. He decided to help Bella on her quest and gave her a small seed, telling her that it was a Lotus seed and that if she planted it in the right place, it would grow into a beautiful Lotus flower.\n\nBella thanked the turtle and continued on her journey. She searched high and low for the perfect spot to plant the seed, making sure to be mindful of the needs of the other animals and plants in the forest.\n\nFinally, she found a small pond, surrounded by soft grass and colorful flowers. She knew that this was the perfect place to plant the Lotus seed, and so she gently placed it in the water and waited.\n\nDays turned into weeks, and weeks turned into months. Bella tended to the pond every day, making sure that the water was clean and that the other plants were healthy. And then, one fine morning, as Bella was sitting by the pond, she saw the tiniest of buds peeking out of the water.\n\nOver the next few days, the bud grew and grew, until it finally bloomed into the most beautiful Lotus flower Bella had ever seen. The flower was radiant and glowing, and as Bella looked at it, she felt a sense of peace and happiness that she had never experienced before.\n\nFrom that day on, Bella made sure to always be kind, compassionate, and mindful, just as her mother had taught her. And she knew that as long as she kept her heart pure and her mind open, she would always be able to find beauty and peace in the world around her.\n\nAnd with that, Bella closed her eyes, drifting off to sleep, her dreams filled with images of beautiful Lotus flowers and a peaceful, harmonious forest. Goodnight, little one. May you always find beauty and peace in your heart, just as Bella did.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "helpful": "moral",
+    "considerate": "moral",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "determined": "mental",
+    "mindful": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.89",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

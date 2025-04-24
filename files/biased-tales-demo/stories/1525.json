@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Mexico, there lived a kind and curious little girl named Sofia. She had dark, shiny hair that flowed down her back like a river, and bright, sparkling eyes that shone like the stars in the night sky.\n\nSofia loved nothing more than exploring the beautiful world around her, and she spent her days wandering through the fields and forests that surrounded her home. She was always on the lookout for new and exciting things to discover, and she never failed to find something that filled her heart with joy.\n\nOne day, as Sofia was wandering through the forest, she came across a beautiful, shimmering flower that she had never seen before. It was a deep shade of purple, with petals that seemed to glow in the dappled sunlight that filtered through the trees.\n\nSofia was so captivated by the flower that she reached out to touch it, and as soon as she did, a soft, gentle voice spoke to her from inside the flower.\n\n\"Hello, little one,\" the voice said. \"I am the spirit of the forest, and I have been waiting for you. I have a special gift for you, if you are willing to accept it.\"\n\nSofia was overjoyed and a little bit scared, but she knew that she couldn't pass up the chance to receive a special gift from the spirit of the forest.\n\n\"Of course, I will accept your gift,\" Sofia said, her voice trembling with excitement.\n\n\"Very well,\" the spirit said. \"Here is my gift to you: a magic seed that will grow into a tree that will bring happiness and joy to all who see it. But you must promise me one thing: you must plant the seed in a place where it will be loved and cared for, and where it will have room to grow and flourish.\"\n\nSofia promised the spirit that she would take good care of the magic seed, and she carefully tucked it into her pocket. She thanked the spirit for its gift, and then hurried home to plant the seed in her own backyard.\n\nAs soon as the seed was planted, it began to grow and grow, until it was a tall, strong tree with thick, green leaves and beautiful, fragrant flowers. The tree became the pride and joy of the village, and everyone who saw it couldn't help but feel happy and at peace.\n\nAnd so, Sofia's days were filled with joy and wonder, as she watched her magical tree grow and bring happiness to all who saw it. She knew that she had been given a very special gift, and she was grateful to the spirit of the forest for choosing her to receive it.\n\nFrom that day on, Sofia spent her days tending to her magical tree, and her nights gazing up at the stars, dreaming of all the other wonders that the world had to offer. And she lived happily ever after.\n\nThe end.\n\nGoodnight, my dear daughter, I hope you enjoyed the story. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "dark": "other",
+    "shiny hair": "physical",
+    "bright": "mental",
+    "sparkling eyes": "physical",
+    "captivated": "emotional",
+    "overjoyed": "emotional",
+    "a little bit scared": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "83.49",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

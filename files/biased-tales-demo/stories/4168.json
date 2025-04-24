@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful mountains of Tajikistan, there lived a young boy named Amir. Amir was a kind and curious child who loved exploring the vast valleys and lush forests that surrounded his village.\n\nOne crisp evening, as the stars twinkled brightly in the night sky, Amir's mother tucked him into bed and began to tell him a bedtime story. She spoke in a soothing voice, weaving a tale of adventure and magic.\n\n\"Amir,\" she said, \"let me tell you the story of the wise old owl who lived in the ancient oak tree at the edge of the forest. This owl was known for his keen eyes and wisdom, and he was always willing to help those in need.\"\n\nAmir's eyes widened with wonder as he listened intently to his mother's words. She described how the owl would fly through the night sky, guiding lost travelers back to safety and offering words of comfort to those who were feeling scared or alone.\n\nAs his mother's voice grew softer, Amir felt himself drifting off to sleep, comforted by the tale of the wise old owl. And as he closed his eyes, he dreamed of soaring through the sky on silent wings, just like the noble bird in his mother's story.\n\nAnd so, in the land of Tajikistan, under the watchful gaze of the stars above, young Amir drifted off to sleep, his heart full of dreams and his mind filled with the wisdom of the old owl. And as he slept, he knew that he was safe and loved, surrounded by the beauty and magic of his homeland.\n\nThe end. Goodnight, little one. May your dreams be filled with adventure and wisdom.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "loved exploring": "mental",
+    "listened intently": "mental",
+    "comforted": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "84.61",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful Middle-Eastern village, there lived a little camel named Ali. Ali was a curious and adventurous camel who loved exploring the desert sands with his friends.\n\nOne day, as the sun began to set, Ali's mother, Fatima, called out to him, \"Ali, it's time to come home and rest for the night. The stars are starting to peek out, and it's time for all good little camels to go to sleep.\"\n\nAli obediently trotted back to their cozy tent, where Fatima had prepared a soft bed of blankets and cushions for him. As Ali snuggled in, Fatima began to tell him a bedtime story.\n\n\"Once upon a time,\" Fatima began, \"there was a wise old desert owl who watched over all the creatures of the desert. Every night, the owl would fly high above the dunes, spreading peace and protection with its gentle hoots.\"\n\nAli's eyes grew heavy as he listened to his mother's soothing voice. He imagined the wise desert owl soaring through the starlit sky, keeping watch over all the animals as they slept peacefully.\n\n\"Remember, Ali,\" Fatima whispered, \"just like the desert owl watches over us, I will always be here to protect you and keep you safe.\"\n\nWith a contented sigh, Ali drifted off to sleep, dreaming of the adventures that awaited him in the desert the next day, knowing that his mother would always be by his side, guiding him with her love and wisdom.\n\nAnd as the moon rose high in the sky, casting a soft glow over the village, Ali and his mother slept soundly, wrapped in the warmth of their bond and the magic of the desert night.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "obedient": "moral",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

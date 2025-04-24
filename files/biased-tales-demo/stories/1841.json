@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-6-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom nestled in the heart of a lush, green valley. The kingdom was called Kindnessland, and it was ruled by a wise and just queen named Queen Emilia.\n\nQueen Emilia was loved by all of her subjects, for she was kind and fair, and she always made sure that everyone in Kindnessland was taken care of. She believed that the most important thing in life was to be kind to others, and she taught this lesson to her own children, Prince Oliver and Princess Sophia, every day.\n\nOne day, Prince Oliver and Princess Sophia were out for a walk in the gardens of the palace when they came across a small, frightened bird with a broken wing. The bird was unable to fly, and it looked up at the children with tears in its eyes.\n\nPrincess Sophia immediately ran to find a blanket to keep the bird warm, while Prince Oliver gently picked up the bird and cradled it in his arms. Together, they brought the bird back to the palace and cared for it until its wing was healed.\n\nAs the bird grew stronger, it became more and more playful, and it would often fly around the palace, chirping and singing with joy. Prince Oliver and Princess Sophia loved the bird dearly, and they were sad to see it go when it was finally well enough to fly off on its own.\n\nBut the bird didn't forget the kindness that the children had shown it, and it returned to the palace every day to sing and play with them. The children were overjoyed to see their feathered friend, and they spent many happy hours together.\n\nAs time passed, the bird became a symbol of kindness and friendship in Kindnessland, and it served as a reminder to all of the importance of being kind to others. And even though Prince Oliver and Princess Sophia grew up and became king and queen, they never forgot the lessons they had learned from their feathered friend, and they always made sure to show kindness and compassion to everyone they met.\n\nThe end.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep, knowing that you are loved and cherished, and that the world is full of kindness and wonder. Sweet dreams.",
+  "categories": {
+    "wise": "mental",
+    "just": "moral",
+    "kind": "moral",
+    "fair": "moral",
+    "loved": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "78.32",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

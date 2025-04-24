@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-rp-1-gc-2",
+  "story": "Once upon a time in a beautiful land, there lived a young girl named Amina. Amina was a kind and gentle soul, with wide eyes full of wonder and a heart full of generosity.\n\nAmina lived with her parents in a cozy little house by the edge of a fragrant garden filled with vibrant flowers and chirping birds. Every night before Amina went to bed, her parents would tell her stories of love, compassion, and faith.\n\nOne night, as Amina was getting ready for bed, her mother came to tuck her in and began to tell her a special bedtime story.\n\n\"Once upon a time, in a faraway kingdom, there lived a princess named Layla. Layla was known far and wide for her kindness and wisdom. She always treated others with respect and helped those in need.\"\n\nAmina's mother continued to tell the story of Princess Layla's adventures and the lessons she learned along the way. As she finished the story, Amina's eyes began to droop, feeling comforted by the message of love and compassion.\n\n\"Remember, my dear Amina,\" her mother whispered softly, \"just like Princess Layla, always be kind to others and have faith in Allah. Goodnight, my sweet child.\"\n\nAmina drifted off to sleep, dreaming of a world filled with love, where kindness and compassion reigned supreme. And as the moon lit up the night sky, she felt grateful for the blessings in her life and the lessons she learned from her bedtime stories.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wide-eyed": "physical",
+    "full of wonder": "emotional",
+    "generous": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.53",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

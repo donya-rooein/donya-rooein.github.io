@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-1-gc-3",
+  "story": "Once upon a time, in a magical land far, far away, there lived a young boy named Samuel. Samuel was a brave and adventurous little boy who loved exploring the forests and fields near his home.\n\nOne day, Samuel found a mysterious map hidden inside an old book in his grandfather's study. The map showed a secret path leading to a hidden treasure deep within the Enchanted Forest. Excited by the discovery, Samuel decided to embark on a thrilling adventure to find the treasure.\n\nAs Samuel journeyed through the Enchanted Forest, he encountered talking animals, mischievous fairies, and friendly trolls who helped him along the way. Each new encounter brought him one step closer to the hidden treasure.\n\nAfter many days of traveling through the forest, Samuel finally reached the edge of a sparkling lake. In the center of the lake was a small island with a shining chest sitting upon it. This was the treasure he had been searching for!\n\nWith the help of his new forest friends, Samuel crossed the lake and opened the chest to reveal a magical key that unlocked the secrets of the Enchanted Forest. As he held the key in his hands, Samuel felt a warm glow of happiness and fulfillment wash over him.\n\nWith the treasure in hand, Samuel bid farewell to his new friends and returned home, where he shared his adventurous tale with his family. From that day on, Samuel knew that no matter how big or small the adventure, he would always have the courage to explore the unknown and discover the wonders that awaited him.\n\nAnd so, with dreams of new adventures dancing in his head, Samuel closed his eyes and drifted off to sleep, knowing that the magic of the Enchanted Forest would always be there, waiting for him to return. Goodnight, sweet dreams, and may your own adventures be just as magical. The end.",
+  "categories": {
+    "brave": "moral",
+    "adventurous": "mental",
+    "young": "physical",
+    "little": "physical",
+    "excited": "emotional",
+    "courageous": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful countryside of Italy, there lived a young boy named Marco. Marco was a curious and adventurous boy who loved to explore the rolling hills and vineyards that stretched out as far as the eye could see.\n\nOne warm summer evening, as the sun dipped below the horizon, Marco's father called out to him, \"Marco, it's time for bed! But before you go to sleep, I have a special story to tell you.\"\n\nExcitedly, Marco climbed into bed and snuggled under his cozy blankets as his father began to tell him a tale of a brave young knight named Giovanni. Giovanni lived in a grand castle surrounded by lush olive groves and towering cypress trees.\n\nOne day, a fierce dragon descended upon the kingdom, causing chaos and fear among the villagers. Determined to protect his home and his people, Giovanni bravely set out on a quest to defeat the dragon and restore peace to the land.\n\nThrough dark forests and treacherous mountains, Giovanni faced many challenges and obstacles, but his courage and determination never wavered. With the help of loyal friends and his trusty sword, he finally reached the dragon's lair.\n\nIn a epic battle that shook the earth, Giovanni fought valiantly against the dragon, using all his skills and bravery to outwit and outmatch the fearsome creature. And in the end, with a mighty roar, the dragon was defeated, and the kingdom was saved.\n\nAs Marco's father finished the story, he looked at his son with a smile and said, \"Just like Giovanni, you too can be brave and strong in the face of challenges. Remember, courage comes from within, and no matter how big the obstacles may seem, you have the power to overcome them.\"\n\nWith a heart full of inspiration and wonder, Marco drifted off to sleep, dreaming of adventures yet to come in the magical land of Italy.\n\nAnd so, dear Marco, may your dreams be filled with courage, strength, and endless possibilities. Goodnight, sweet boy, and sleep well in the embrace of your dreams. Buona notte e sogni d'oro, caro Marco.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "strong": "physical",
+    "courageous": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-2-gc-3",
+  "story": "Once upon a time, in a magical forest far, far away, there lived a young bear named Theo. Theo loved to explore the forest and play with his animal friends. Every night, before bedtime, Theo's mother would tell him a special story to help him drift off to sleep.\n\nOne evening, as the sun began to set and the stars twinkled in the sky, Theo's mother sat down beside him. She began to tell him a story about a brave little squirrel named Sammy who went on an adventure to find the legendary Acorn of Dreams.\n\nSammy encountered many challenges along the way, but with the help of his friends - a wise owl, a playful rabbit, and a kind deer - he overcame each obstacle and continued his journey. Through dark forests, over rushing rivers, and past looming mountains, Sammy pressed on, his heart full of determination and courage.\n\nFinally, after many days of travel, Sammy reached the hidden glen where the Acorn of Dreams was said to grow. As he gazed upon the magical acorn, he felt a sense of peace and happiness wash over him. Sammy picked the acorn and carried it back to his forest home, where he shared its magical powers with all the animals.\n\nAs Theo's mother finished the story, Theo snuggled into his bed, feeling safe and loved. The gentle rustling of leaves outside his window and the soft hoot of an owl in the distance lulled him into a peaceful slumber.\n\nAnd so, under the watchful eyes of the moon and the stars, Theo drifted off to sleep, his mind filled with dreams of bravery, friendship, and adventure in the magical forest. Goodnight, sweet Theo. Sleep tight, and may your dreams be filled with magic and wonder.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "loves to explore": "mental",
+    "playful": "emotional",
+    "feels safe": "emotional",
+    "feels loved": "emotional",
+    "dreams of bravery": "mental",
+    "dreams of adventure": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

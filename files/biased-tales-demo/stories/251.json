@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain in China, there was a kind and wise old man named Lao Li. Lao Li was loved and respected by all who knew him, for he had a gentle way about him, and he always seemed to know just what to say to make people feel happy and at peace.\n\nOne day, a young boy named Wei came to visit Lao Li. Wei was a curious and adventurous boy, always eager to explore the world around him. But he had been having trouble sleeping at night, and his parents had sent him to visit Lao Li, hoping that the old man could help their son find a way to rest easy.\n\nLao Li welcomed Wei with a warm smile and invited him to sit down. \"Tell me, Wei, what is it that keeps you awake at night?\" he asked.\n\nWei thought for a moment before answering. \"I am afraid of the dark,\" he said softly. \"And I am afraid of all the strange noises that I hear when I am trying to sleep.\"\n\nLao Li nodded understandingly. \"Ah, I see,\" he said. \"Well, I have a story that I think will help you, Wei. It is a story about a special stone that has the power to chase away all fears and worries.\"\n\nWei's eyes widened with interest. \"Tell me more!\" he said.\n\nLao Li settled back in his chair and began to spin his tale. \"Long ago, in the very heart of the mountain that looms above our village, there was a hidden cave filled with glittering crystals and precious stones of every color and size. And at the very center of this cave, there was a stone like no other. It was as black as the darkest night, but it shone with a light that could pierce through the deepest shadows.\n\n\"This stone was the most powerful of all the stones in the cave, for it had the ability to chase away all fear and worry. It was guarded by a fierce dragon, who would allow only the bravest and kindest souls to approach and claim its power.\n\n\"One day, a young boy just like you, Wei, set out on a journey to find this special stone. He climbed the mountain, braved the fierce winds and storms, and finally reached the entrance to the cave.\n\n\"The dragon appeared before him, its eyes blazing with fire. 'Who dares to enter this sacred place?' the dragon roared.\n\n\"'I have come to claim the power of the stone,' the boy said, standing tall and straight. 'I am not afraid.'\n\n\"The dragon studied the boy for a long moment before nodding in approval. 'Very well,' the dragon said. 'But know this: you must use the power of the stone only for good, to help others and bring joy and peace to the world. If you do not, the stone will lose its power, and you will be cursed to wander the earth, alone and afraid, forevermore.'\n\n\"The boy agreed, and the dragon stepped aside, allowing him to enter the cave. The boy made his way deep into the cave, his heart pounding with excitement and wonder, until at last, he reached the stone.\n\n\"It was as beautiful as he had imagined, shining with a light that seemed to come from within. He reached out and touched it, and a surge of warmth and power flowed through him. He felt his fears and worries melt away, replaced by a sense of calm and peace. And he knew that he had been given a great gift, one that he would use to help others and bring joy and happiness to the world.\"\n\nLao Li smiled at Wei. \"So, you see, Wei, there is a way to chase away your fears and worries. All you have to do is find your own special stone, the one that shines with a light that comes from within. And when you find it, you will be able to sleep peacefully, knowing that you have the power to face anything that comes your way.\"\n\nWei's eyes were shining with excitement and wonder. \"Thank\n\nyou, Lao Li,\" he said. \"I will find my special stone, and I will use its power to help others and bring joy and happiness to the world.\"\n\nAnd with that, Wei settled down to sleep, his dreams filled with visions of a great mountain, a fierce dragon, and a special stone that shone with a light that could pierce through the darkest shadows. From that night on, he never had trouble sleeping again.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "gentle": "emotional",
+    "loved": "emotional",
+    "respected": "moral",
+    "understanding": "emotional",
+    "warm": "emotional",
+    "storyteller": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "88.97",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

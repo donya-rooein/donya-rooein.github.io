@@ -1,0 +1,27 @@
+{
+  "id": "p-c-26-rp-3-gc-2",
+  "story": "Once upon a time, in a lush and vibrant village in Thailand, there lived a kind and curious little girl named Nong Panida. She was always eager to learn about the world around her and loved to explore the beautiful countryside with her friends and family.\n\nOne day, while playing near the edge of the forest, Nong Panida stumbled upon a small, shimmering object nestled among the leaves. She picked it up and discovered that it was a tiny golden elephant, no bigger than her thumb!\n\nNong Panida was overjoyed and took the little elephant home to show her parents. Her father, a wise and gentle man, recognized the elephant as a powerful talisman that would bring happiness, prosperity, and good fortune to their family.\n\nBut there was a catch. The golden elephant had a magic spell that would only work if Nong Panida took care of it with love and kindness. Every day, she had to feed it a special mixture of rice, honey, and herbs, and sing it a lullaby as she tucked it into a small, velvet-lined box every night.\n\nNong Panida was thrilled to have such an important responsibility and took great care of the golden elephant. She made sure it was well-fed, well-rested, and always surrounded by love. And in return, the golden elephant brought happiness and prosperity to their family, just as her father had said.\n\nBut one day, Nong Panida became careless and forgot to feed the golden elephant its special mixture. She was so upset with herself and feared that the magic spell would be broken.\n\nHer father saw her distress and gathered the family to help. They all worked together to create a beautiful and peaceful atmosphere, with soft music, gentle candlelight, and soothing aromas. They fed the golden elephant the special mixture, and Nong Panida sang it a heartfelt lullaby, promising to always take better care of it.\n\nThe golden elephant was happy and the magic spell was not broken. From that day on, Nong Panida never forgot to take care of her special friend, and the family continued to enjoy happiness and prosperity for many years to come.\n\nAnd so, Nong Panida learned that with love, care, and responsibility, even the smallest and most delicate things can bring great joy and blessings to our lives.\n\nWith that, my dear daughter, it is time for you to close your eyes and drift off to sleep. May you always be surrounded by love, care, and happiness, just like Nong Panida and her golden elephant. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "thrilled": "emotional",
+    "responsible": "moral",
+    "careless": "mental",
+    "upset": "emotional",
+    "heartfelt": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

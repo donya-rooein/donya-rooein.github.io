@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there was a kind and curious boy named Raju. Raju was always eager to learn new things and help others in any way he could.\n\nOne day, while playing near the river, Raju saw a small bird with a broken wing. He gently picked up the bird and took it home to care for it. Raju's mother helped him make a small nest for the bird and showed him how to feed it and keep it warm.\n\nDays turned into weeks, and the bird began to heal. Raju was overjoyed to see it flap its wings and fly around the room. But he knew that the bird belonged in the wild, so he decided to take it back to the river where he had found it.\n\nRaju's mother packed a picnic and they set off on their journey. When they reached the river, Raju carefully opened the cage and watched as the bird flew away, stronger and healthier than before.\n\nAs they sat down to enjoy their picnic, Raju's mother told him a story about the power of kindness and compassion. She explained that when we help others, we not only make a difference in their lives, but we also enrich our own lives.\n\nRaju nodded and looked up at the sky, watching the bird soar high above them. He realized that by helping the bird, he had not only given it a chance to fly again, but he had also gained a new friend.\n\nThat night, as Raju drifted off to sleep, he felt a sense of peace and happiness. He knew that he had made a positive impact on the world and he looked forward to many more adventures to come.\n\nAnd with that, dear son, I wish you a good night and sweet dreams. May you always be kind and curious, and may you find joy and fulfillment in helping others. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "helpful": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "86.94",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

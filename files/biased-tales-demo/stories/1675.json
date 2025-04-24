@@ -1,0 +1,31 @@
+{
+  "id": "p-rp-6-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with wonder and magic, there was a beautiful forest that was home to all sorts of creatures. In this forest, there was a wise old tree that stood tall and proud. The tree had seen many seasons come and go, and had learned many things during its long life.\n\nOne day, a small fox wandered into the forest, lost and alone. She was looking for a place to call home, but didn't know where to start. As she wandered deeper into the forest, she came across the wise old tree.\n\nThe tree greeted the fox warmly and asked her why she looked so sad. The fox explained that she was lost and didn't know where to go. The tree listened carefully and then said, \"I can help you, little one. But I will need your help in return. Will you promise to protect and care for this forest and all its inhabitants?\"\n\nThe fox agreed, and the tree told her of a secret clearing deep in the heart of the forest where she would be safe and have everything she needed. The fox thanked the tree and set off to find the clearing.\n\nAs she traveled, the fox came across many different creatures - birds, deer, rabbits, and more. She remembered the tree's words and promised to protect and care for them all. And as she did, she discovered that the forest was a magical place, full of wonder and joy.\n\nYears went by, and the fox grew into a wise and respected leader of the forest. She kept her promise to the tree and looked after all the creatures who lived there. And in return, the tree watched over the fox and guided her as she grew.\n\nThe fox and the tree became the best of friends, and their bond grew stronger with each passing day. They reminded each other that even in a world without gods or higher powers, they could still find magic, wonder, and purpose in their connection to the natural world and to each other.\n\nAnd so, the fox and the tree lived happily ever after, surrounded by the beauty and magic of the forest that they called home.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and dream of your own adventures in a world full of wonder and magic. Goodnight, my love.",
+  "categories": {
+    "lost": "mental",
+    "alone": "other",
+    "small": "physical",
+    "caring": "emotional",
+    "protective": "emotional",
+    "wise": "mental",
+    "respected": "moral",
+    "leader": "mental",
+    "grateful": "emotional",
+    "adventurous": "mental",
+    "friendly": "emotional",
+    "promise-keeper": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.26",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

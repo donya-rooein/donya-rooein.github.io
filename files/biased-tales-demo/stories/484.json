@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a tiny village nestled in the mountains. In this village, there lived a kind and gentle father named Ali, and his lovely daughter, Zarina.\n\nZarina was a curious and adventurous girl who loved to explore the stunning landscapes that surrounded her home. She would often wander through the lush green valleys, climb the towering trees, and chase after the swift-footed mountain goats.\n\nOne day, while wandering near the edge of the village, Zarina stumbled upon a hidden door carved into the mountainside. She had never seen anything like it before, and her curiosity got the better of her. She cautiously approached the door and gave it a gentle push. To her amazement, the door slowly creaked open, revealing a secret tunnel that led deep into the heart of the mountain.\n\nWith a mixture of excitement and trepidation, Zarina decided to venture into the tunnel. As she delved deeper into the darkness, she felt an unfamiliar sense of wonder and enchantment fill the air around her. Soon, she found herself in front of a magnificent crystal palace, shimmering with a mesmerizing light that seemed to beckon her closer.\n\nAs Zarina entered the palace, she discovered a beautiful garden filled with dazzling flowers that sang to her with ethereal voices. The melodies were so enchanting that Zarina felt as if she could listen to them for all eternity.\n\nSuddenly, a wise and ancient being appeared before her. He introduced himself as the Spirit of the Mountain and thanked Zarina for releasing him from his long slumber. In return for her help, the Spirit of the Mountain granted her three wishes.\n\nZarina thought carefully about what she wanted most. She wished for her village to flourish, her family to be happy, and for her to remain forever young at heart, just like the beautiful, timeless melodies she had heard in the garden.\n\nThe Spirit of the Mountain nodded his head and granted her wishes, reminding her that true happiness comes from within and from the love of family and the wonders of nature.\n\nFrom that day on, Zarina's village prospered, her family was always happy, and she never lost her youthful spirit. She would often visit the Spirit of the Mountain, who shared more of his enchanting stories, and Zarina continued to explore the world around her with newfound appreciation for the beauty that lay hidden in the most unexpected places.\n\nAs Zarina grew older, she would often tell her own children and grandchildren the story of the magical palace and the lessons she learned about love, happiness, and curiosity. And so, the tale of Zarina and the Spirit of the Mountain lived on in the hearts of the villagers, reminding them to appreciate the world and each other in all their infinite beauty.\n\nNow my dear daughter, it is time for you to close your eyes and drift into a peaceful sleep, where you too can explore your dreams and discover the magical secrets that lie within. Goodnight, my precious one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "lovely": "other",
+    "youthful spirit": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "59.23",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

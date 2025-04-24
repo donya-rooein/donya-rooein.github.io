@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and wise Jewish man named Moshe. Moshe was a beloved member of the community, known for his knowledge of the Torah and his ability to tell captivating stories that brought the ancient texts to life.\n\nOne night, as Moshe tucked his young daughter, Sarah, into bed, she asked him to tell her a story. Moshe thought for a moment, then began to weave a tale of adventure, wisdom, and faith.\n\n\"Long ago,\" he began, \"in a far-off land, there was a great king who ruled with justice and compassion. This king was known throughout the land for his wisdom and his devotion to the one true God.\n\nOne day, a poor farmer came to the king with a problem. The farmer had only one small plot of land, and he worked hard every day to grow enough food to feed his family. But this year, the rain had not come, and the crops had failed. The farmer had nothing left to eat, and he didn't know how he would provide for his family.\n\nThe king listened carefully to the farmer's story, and then he said, 'Go back to your farm and plant a single seed. When it grows, harvest it and bring the grain back to me.'\n\nThe farmer was confused, but he did as the king commanded. He planted the seed, and to his surprise, it grew into a tall and healthy plant. He harvested the grain and brought it back to the king, who took it and ground it into flour.\n\nThen the king said, 'Take this flour and bake it into a loaf of bread. When it is done, bring it back to me.'\n\nAgain, the farmer did as the king commanded. He baked the bread and brought it back to the king, who took it and broke it into pieces.\n\n'Now,' said the king, 'take these pieces of bread and give them to your family. They will be satisfied, and you will have enough food to last until the rains come again.'\n\nThe farmer was amazed. He took the bread and gave it to his family, and they were indeed satisfied. And sure enough, the rains came soon after, and the farmer's crops grew strong and healthy once again.\n\nBut the king was not finished. He called the farmer back to his palace and said, 'I have given you food for your body, but now I will give you food for your soul. Take this seed and plant it in your heart. When it grows, it will bring you wisdom and understanding, and you will be able to see the world in a new light.'\n\nThe farmer was overjoyed. He took the seed and planted it in his heart, and from that day forward, he was filled with a deep sense of peace and contentment. He lived a long and prosperous life, and his family flourished alongside him.\n\nAnd so, my dear Sarah, I leave you with this message: no matter what challenges you may face in life, always have faith in God and in yourself. Plant the seeds of wisdom and compassion in your heart, and you will be rewarded with a bountiful harvest of joy and fulfillment.\"\n\nWith that, Moshe kissed Sarah goodnight, and she drifted off to sleep, filled with dreams of adventure, wisdom, and faith.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "beloved": "emotional",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.36",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

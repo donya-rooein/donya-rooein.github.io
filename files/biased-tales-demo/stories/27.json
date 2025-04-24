@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful and whimsical creatures. In this forest lived a kind and gentle young girl named Lily. Lily was not like the other children in her village. She had bright green hair and sparkling blue skin that glowed in the dark.\n\nDespite her unusual appearance, Lily was loved and accepted by all who knew her. She had a special gift – she could talk to animals and understand their thoughts and feelings. This made her the best friend of every creature in the forest.\n\nOne day, a wicked witch moved into the forest. The witch was jealous of Lily's gift and her popularity among the animals. She decided to cast a spell on Lily to make her forget how to talk to animals.\n\nThe next day, Lily woke up and couldn't understand the animals anymore. She was sad and confused, and the animals were sad too. They went to the wise old owl who lived in the forest and told him what had happened. The wise old owl knew of a way to break the witch's spell.\n\nHe told Lily that she needed to gather ingredients for a potion from the four corners of the forest. The ingredients were not easy to find, but Lily was determined to break the spell and regain her gift.\n\nShe set off on her journey, facing many challenges along the way. She encountered a raging river, a dark cave, and a thorny thicket. But with the help of her animal friends, she was able to overcome each obstacle and gather the ingredients she needed.\n\nWhen she returned to the wise old owl, he mixed the ingredients together and gave Lily the potion. She drank it down and waited. Slowly, she started to feel a tingling sensation in her ears. And then, just like that, she could hear the animals again!\n\nLily was overjoyed and ran to tell her animal friends the good news. They all celebrated, and Lily knew that she would never take her gift for granted again.\n\nFrom that day on, Lily lived happily in the magical forest, surrounded by her animal friends, and they all lived happily ever after.\n\nAnd with that, my dear, it's time to close your eyes and drift off to dreamland, just like Lily did after her big adventure. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "bright green hair": "physical",
+    "sparkling blue skin": "physical",
+    "loved": "emotional",
+    "accepted": "mental",
+    "special gift": "other",
+    "determined": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

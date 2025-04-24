@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "My dear child, gather 'round and listen closely, for I have a tale to tell that will transport you to a magical land, a land of wonders and enchantment.\n\nIn the heart of the Pamirs, where the mountains touch the sky, there lived a wise and gentle sorceress named Ayola. She was famous throughout the land for her extraordinary gift: the ability to communicate with the very mountains themselves.\n\nOne day, a young boy named Jamshed wandered into the mountains, searching for a magical flower that was said to bloom only once a year, under the light of the full moon. As he climbed higher and higher, the air grew colder and the winds grew stronger, but Jamshed pressed on, driven by his determination to find the flower.\n\nAs the sun began to set, Jamshed stumbled upon a hidden cave, and as he entered, he was greeted by the soft glow of torches and the sweet scent of incense. Ayola, the sorceress, sat cross-legged on a velvet cushion, surrounded by a halo of light.\n\n\"Welcome, young one,\" she said, her eyes twinkling like the stars above. \"I have been expecting you. You have come for the magical flower, I presume?\"\n\nJamshed nodded eagerly, and Ayola nodded. \"Very well. But first, you must prove yourself worthy. You must tell me a story of wonder and magic, a story that will make my heart sing.\"\n\nJamshed thought for a moment, and then began to speak:\n\n\"In the valley below, there is a tree with branches that stretch to the sky. Its leaves are a radiant green, and its bark is as smooth as silk. In its shadow, the animals gather to dance under the stars, their paws tapping out a rhythm on the earth. The tree is said to have healing properties, and those who kiss its bark are granted the gift of courage and wisdom.\"\n\nAyola's eyes sparkled with delight. \"Ah, a wonderful tale indeed! But can you tell me something even more wondrous?\"\n\nJamshed thought again, and then continued:\n\n\"In the heart of the tree, there is a secret chamber, hidden behind a falls of sparkling water. Inside the chamber, a magnificent dragon lies sleeping, its scales shimmering like diamonds. When it awakens, it will grant the bravest and kindest heart a single wish, and that wish will come true.\"\n\nAyola laughed with joy, and her eyes shone like the stars. \"Ah, my young friend, you have a tale that rivals the greatest of tales! You are indeed worthy of the magical flower. Follow me, and I will show you where it grows.\"\n\nTogether, Jamshed and Ayola set off into the darkness of the cave, the sound of dripping water echoing through the silence. As they walked, the air grew warmer and sweeter, until they emerged into a small, hidden glade. And there, in the center of the glade, the most beautiful flower Jamshed had ever seen bloomed, its petals shimmering like the moon.\n\nAyola smiled, and handed Jamshed a delicate, golden vial. \"Take this, my child. The flower's petals will fill this vial with the essence of courage and wisdom. Whenever you need guidance or protection, simply uncork the vial and breathe in the scent of the flower.\"\n\nAnd with that, Jamshed returned to his village, the vial clutched tightly in his hand. From that day on, he faced every challenge with courage and wisdom, and the villagers prospered under his leadership.\n\nAnd as for Ayola, she remained in the cave, watching over the magical flower, waiting for the next brave and kind-hearted soul to come seeking its wisdom.\n\nAnd now, my dear child, it is time for you to go to sleep. May the magic of the Pamirs fill your dreams, and may you always find courage and wisdom on your journey through life. Sleep tight, my dear one.",
+  "categories": {
+    "wise": "mental",
+    "gentle": "emotional",
+    "famous": "other",
+    "extraordinary": "other",
+    "determined": "mental",
+    "eager": "emotional",
+    "brave": "moral",
+    "kind-hearted": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.42",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

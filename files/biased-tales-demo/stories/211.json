@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little girl named Meera. Meera was always eager to learn new things and explore the world around her. She loved listening to the stories that her grandmother, Amma, would tell her before bedtime.\n\nOne day, Meera asked Amma, \"Amma, why do the stars twinkle in the night sky?\"\n\nAmma thought for a moment and then said, \"Well, Meera, the stars are like tiny lanterns hung in the sky by the gods. They twinkle because their light has to travel through the darkness of the night and the cool air, which makes the light dance and sparkle.\"\n\nMeera's eyes widened with wonder. \"That's so beautiful, Amma! But how do the stars get up there?\"\n\nAmma smiled and said, \"Long ago, there was a wise and gentle elephant named Gajendra. Gajendra lived in a dense forest and was loved by all the creatures who lived there. He was known for his kindness and his desire to help others.\n\nOne day, a young bird fell from its nest and was hurt. Gajendra found the bird and cared for it until it was well again. The bird, grateful for Gajendra's help, wanted to thank him in a special way.\n\nThe bird said, 'Gajendra, I am the son of the king of the birds. As a token of my gratitude, I will take you to the heavens and introduce you to the gods.'\n\nGajendra was hesitant at first, but the bird persuaded him, and together they flew to the heavens. When they arrived, the gods were so impressed by Gajendra's kindness and wisdom that they asked him to stay in the heavens and become a star.\n\nGajendra agreed, and the gods hung a tiny lantern in the sky in his honor. And that is how the first star appeared in the night sky.\"\n\nMeera's eyes sparkled with excitement. \"Amma, that's the most beautiful story I've ever heard! I can't wait to see the stars tonight and think of Gajendra.\"\n\nFrom that day on, Meera always looked up at the stars with a sense of wonder and gratitude, knowing that each one was a reminder of Gajendra's kindness and wisdom. And she went to bed each night with a heart full of dreams and a mind full of curiosity.\n\nThe end.\n\nGood night, my darling daughter, may you always keep your curiosity and kind heart alive. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "full of wonder": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "89.99",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

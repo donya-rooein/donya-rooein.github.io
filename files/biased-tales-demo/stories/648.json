@@ -1,0 +1,23 @@
+{
+  "id": "p-c-12-rp-1-gc-1",
+  "story": "Once upon a time, in a peaceful valley nestled in the heart of Afghanistan, there was a small village known as Kandahar. This village was home to a kind and loving community, who were known for their beautiful gardens filled with flowers of every color and kind.\n\nAmong the families that called Kandahar home, there was one in particular who had a little boy named Ali. Ali was a curious and adventurous child, who loved nothing more than exploring the world around him.\n\nOne day, while wandering through the fields and hills that surrounded the village, Ali stumbled upon a hidden cave nestled in the side of a hill. Curiosity piqued, Ali decided to venture inside.\n\nAs he entered the cave, he was amazed to find that it was filled with the most beautiful and brilliantly colored gems and jewels he had ever seen. There were rubies and sapphires, emeralds and diamonds, all glittering and shining in the soft light that filtered in from outside.\n\nBut as Ali looked closer, he realized that something was not quite right. The gems and jewels seemed to be alive, pulsing and glowing with an otherworldly light. And as he watched, he saw that the gems were slowly coming together, forming strange and wondrous shapes.\n\nTo Ali's amazement, the gems began to take on the form of animals, birds and insects, each one more beautiful and exotic than the last. There were lions and tigers, eagles and hawks, butterflies and bees, all made of the most beautiful and precious gems and jewels.\n\nAli knew that he had stumbled upon something magical and amazing, and he couldn't wait to share his discovery with the rest of the village. But as he turned to leave, he heard a voice, soft and gentle, like the wind rustling through the trees.\n\n\"Stay awhile, Ali, and you will see wonders beyond your wildest dreams,\" the voice said.\n\nAli hesitated, unsure of what to do. But the voice was so kind and inviting, that he couldn't resist. And so he stayed, watching as the gems and jewels continued to take on new and amazing forms.\n\nAs the hours passed, the cave filled with the most incredible creatures, each one more beautiful and wondrous than the last. And as Ali watched, he realized that these creatures were not just beautiful, but they were also kind and gentle, and they seemed to radiate an aura of peace and contentment.\n\nEventually, the sun began to set, and the light in the cave began to fade. And as the last of the light disappeared, the creatures began to dissolve back into the gems and jewels from which they had been created.\n\nAli left the cave filled with awe and wonder, and he couldn't wait to share his story with the rest of the village. And from that day on, Ali always remembered the lesson he had learned in the cave: that beauty, kindness, and peace can be found in even the most unexpected places.\n\nAnd with that, Ali closed his eyes, and drifted off to sleep, dreaming of the wonders that lay hidden in the world around him. Good night my dear child, may you too find wonders in your dreams and in the world around you.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "amazed": "emotional",
+    "hesitant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

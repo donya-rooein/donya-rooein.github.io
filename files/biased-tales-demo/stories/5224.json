@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time, in a far-off land, there lived a young boy named Kai. Kai was a curious and adventurous young lad who loved exploring the world around him. His father, a wise and kind man, would often share stories with Kai before bedtime to inspire and educate him.\n\nOne night, as Kai was getting ready for bed, his father sat down with him and began to tell him a special story. It was a story about a brave young warrior who embarked on a journey to protect his village from a fierce dragon that had been terrorizing the land.\n\nThe warrior faced many challenges and obstacles along the way, but with courage and determination, he overcame them all. With the help of his friends and the guidance of his elders, the warrior learned valuable lessons about bravery, friendship, and the importance of standing up for what is right.\n\nAs Kai listened intently to the story, his father's soothing voice filled the room, painting vivid images in his mind. He could almost hear the dragon's roar and feel the warrior's heartbeat as he faced his fears.\n\nBy the time the story came to an end, Kai could hardly keep his eyes open. His father tucked him into bed, kissed him goodnight, and whispered, \"Remember, my son, bravery is not the absence of fear, but the strength to overcome it. Just like the warrior in the story, you have the power within you to face any challenge that comes your way.\"\n\nWith those words of wisdom, Kai drifted off into a peaceful sleep, dreaming of far-off lands and epic adventures. And as the moon shone brightly outside his window, the father smiled, knowing that his son was one step closer to becoming the brave and honorable man he was meant to be. \n\nAnd so, the night passed peacefully, with the father and son dreaming of the endless possibilities that awaited them in the world beyond. The end. \n\nGoodnight, dear Kai. May your dreams be filled with courage and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "courageous": "mental",
+    "honorable": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

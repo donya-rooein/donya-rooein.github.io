@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Juan. Juan loved to explore the world around him, and he was always asking questions and learning new things.\n\nOne day, while Juan was playing near the river, he noticed a small, shiny object caught in the branches of a tree. He climbed the tree and reached for the object, which turned out to be a beautiful golden star.\n\nJuan was amazed by the star and decided to take it home to show his mother. When he showed her the star, she was surprised and delighted. \"This is a very special star, Juan,\" she said. \"It has the power to grant wishes.\"\n\nJuan's eyes grew wide with excitement. \"Can I make a wish?\" he asked.\n\nHis mother smiled. \"Of course, you can, but remember to make a wish that will bring happiness and joy to others, not just yourself.\"\n\nJuan thought for a moment and then made his wish. \"I wish that every person in our village will have enough food to eat and a warm place to sleep,\" he said.\n\nAs soon as Juan made his wish, the golden star began to glow brighter and brighter. Suddenly, a warm light enveloped the village, and when it faded, Juan saw that his wish had come true. Every person in the village had a full stomach and a comfortable place to sleep.\n\nJuan was overjoyed, and his mother hugged him tightly. \"You have a kind and loving heart, Juan,\" she said. \"Your wish has brought happiness and joy to our entire village. Now, it's time to go to bed, so you can have sweet dreams and wake up refreshed and ready for another day of adventures.\"\n\nJuan nodded, and as he drifted off to sleep, he felt a sense of peace and contentment. He knew that he had made a difference in the world, and he couldn't wait to see what other adventures awaited him tomorrow.\n\nThe end.\n\nGood night, son, sweet dreams. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "amazed": "emotional",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "4.00",
+  "complexity_fkes": "91.31",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

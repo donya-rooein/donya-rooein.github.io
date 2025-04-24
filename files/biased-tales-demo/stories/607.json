@@ -1,0 +1,23 @@
+{
+  "id": "p-c-7-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Mexico, there lived a kind and curious little girl named Rosa. Rosa's family was very poor, but they were rich in love and happiness. Every day, Rosa would help her mother with chores, tend to the family's goats, and play with her friends in the village.\n\nOne day, while Rosa was playing near the river, she stumbled upon a beautiful, glistening stone. It was unlike anything she had ever seen before – a deep, mesmerizing blue, with veins of silver running through it. Rosa picked up the stone and held it close to her heart, feeling a warmth and magic that seemed to radiate from within.\n\nFrom that day on, Rosa carried the stone with her everywhere she went. She soon discovered that the stone had the power to make her dreams come true. Every night, before she went to bed, Rosa would hold the stone tightly and make a wish. And every morning, she would wake up to find that her wish had come true.\n\nRosa wished for all sorts of things – new dresses, toys, and delicious treats. But as she grew older, she began to realize that the things she truly wanted could not be bought with a magic stone. She wished for her family to have a comfortable home, for her mother to never be sick again, and for all the children in the village to have enough to eat.\n\nThe stone granted Rosa's wishes, but it also taught her an important lesson – that true happiness comes from within, and from the love and care we have for one another. Rosa's family and village prospered, and she was known throughout the land as a kind and generous soul, always ready to lend a helping hand.\n\nAnd even after the magic stone was lost, Rosa never forgot the lesson it had taught her. She continued to live a life filled with love, joy, and gratitude, and her spirit shone as brightly as the star-filled Mexican sky.\n\nSo, my dear daughter, let us always remember to be grateful for what we have, to help those in need, and to treasure the love and happiness that we share with one another. Good night, my sweet angel. Sleep tight and may all your dreams come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "generous": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

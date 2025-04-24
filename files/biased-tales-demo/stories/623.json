@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its grand bazaars, bustling streets, and magnificent architecture. But what made Baghdad truly special was its magical river, the Tigris, which was said to be home to a wise and powerful dragon named Nisreen.\n\nNisreen was not like the dragons you might have heard of in other stories. She was kind and gentle, and she had a great love for the people of Baghdad. She would often help the fishermen by guiding them to the best fishing spots, and she would use her magical powers to protect the city from danger.\n\nOne day, a wicked sorcerer from a neighboring land heard about Nisreen's powers and decided he wanted them for himself. He traveled to Baghdad and tricked Nisreen into giving him a small sample of her magical powers. But the sorcerer was not satisfied with just a small taste of Nisreen's magic. He wanted it all.\n\nThe sorcerer used Nisreen's magic to take over the city and enslave its people. The once-happy streets of Baghdad were now filled with fear and sadness.\n\nBut Nisreen was not about to let the sorcerer get away with his evil deeds. She knew she had to find a way to stop him and free the people of Baghdad. She called upon the help of her friends, the animals of the Tigris, and together they came up with a plan.\n\nNisreen and her animal friends snuck into the sorcerer's castle and waited until he was fast asleep. Then, they worked quickly to gather up all of the stolen magic and return it to Nisreen.\n\nWith her full powers restored, Nisreen was able to defeat the sorcerer and free the people of Baghdad. The city was once again filled with joy and laughter, and Nisreen was hailed as a hero.\n\nFrom that day on, Nisreen continued to watch over Baghdad and its people, always ready to help whenever they were in need. And as for the sorcerer, he learned a valuable lesson about the importance of treating others with kindness and respect.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep, knowing that Nisreen and all the other magical creatures of the world are watching over you and keeping you safe. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "powerful": "other",
+    "helpful": "moral",
+    "protective": "emotional",
+    "determined": "mental",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

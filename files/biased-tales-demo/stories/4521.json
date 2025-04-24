@@ -1,0 +1,27 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time in a magical forest in Germany, there lived a young girl named Anna. Anna was a kind and gentle soul who loved exploring the forest and all its wonders. Every evening before bedtime, Anna's father would tell her a special story to help her drift off to sleep.\n\nOne night, as the moon shone brightly through the trees, Anna's father began to tell her a story about a brave little squirrel named Fritz. Fritz was known throughout the forest for his energetic spirit and adventurous nature.\n\nIn the story, Fritz decided to embark on a quest to find the magical acorn that was said to bring peace and harmony to all the animals in the forest. Along the way, he met new friends like Rosie the rabbit and Max the mouse, who joined him on his journey.\n\nTogether, they faced many challenges and obstacles, but with teamwork and determination, they overcame them all. As they traveled deeper into the heart of the forest, they encountered beautiful meadows, sparkling streams, and towering oak trees that seemed to whisper ancient secrets.\n\nFinally, after a long and exciting adventure, Fritz and his friends reached the enchanted grove where the magical acorn lay hidden. With hearts full of hope and courage, they found the acorn and basked in its gentle glow, feeling its soothing power fill their hearts with peace and joy.\n\nAs Anna's father finished the story, he tucked her into bed and whispered, \"Just like Fritz and his friends, remember that you are never alone. You have a brave and kind heart, and with love and courage, you can overcome any obstacle that comes your way.\"\n\nWith a smile on her face, Anna closed her eyes and drifted off to sleep, feeling safe and loved in the magical forest of her dreams. And as the stars twinkled overhead, the forest whispered its own lullaby of peace and serenity.\n\nGood night, sweet Anna. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "moral",
+    "adventurous": "mental",
+    "energetic": "physical",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "courageous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

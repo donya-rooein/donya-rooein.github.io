@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-3-gc-2",
+  "story": "Once upon a time, in a peaceful village nestled at the base of a great mountain, there lived a kind and curious little girl named Yumi. Yumi's father was a wise and skilled woodworker who created beautiful objects from the wood he carefully selected from the mountain forest.\n\nOne sunny day, as Yumi was playing near the forest, she stumbled upon a tiny, injured bird that had fallen from its nest. Yumi gently picked up the tiny bird and cradled it in her hands. She could see that its wing was hurt and it was unable to fly.\n\nYumi ran back to her home and asked her father for help. Her father examined the bird and said, \"Do not worry, Yumi. I will make a small splint to help heal the bird's wing. But we must take good care of it and feed it until it is strong enough to fly again.\"\n\nSo, Yumi and her father made a comfortable nest for the little bird in a small basket. They fed it with drops of water and tiny morsels of food, always taking care not to frighten it. As the days went by, the bird's wing began to heal, and it grew stronger.\n\nOne day, Yumi's father said, \"It is time for us to take the bird back to the forest and set it free.\" Yumi agreed, but she was a little sad to say goodbye to her new friend.\n\nAs they walked into the forest, the bird began to chirp and flutter its wings in excitement. When they reached the edge of the forest, Yumi's father gently removed the splint and held the bird in his hands.\n\n\"Goodbye, little one,\" Yumi said, her voice filled with sadness but also with joy, knowing that the bird would soon be flying free.\n\nWith a burst of energy, the bird took off into the sky, flying higher and higher until it disappeared from sight. Yumi and her father watched in awe as the tiny bird soared through the air, free and happy once more.\n\nFrom that day on, Yumi understood the importance of caring for all living things, no matter how small or seemingly insignificant they may seem. She knew that even the smallest act of kindness can make a big difference in the world.\n\nAs Yumi drifted off to sleep that night, she dreamed of a world where everyone cared for each other and the world around them. And she knew that she would always do her part to make that dream a reality.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Once upon a time, in a lush and green valley in Ethiopia, there was a small village called Bekoji. In Bekoji, there lived a kind and curious young boy named Tadesse. Tadesse was always eager to learn about the world around him and loved spending his days exploring the valley and the nearby forest.\n\nOne day, while wandering through the forest, Tadesse stumbled upon a hidden clearing. In the center of the clearing stood a tall and majestic tree, unlike any he had ever seen before. The tree had beautiful, silver bark and large, bright green leaves that shimmered in the sunlight. At the base of the tree, there was a small door, with a sign that read: \"Whispering Tree – Enter with kindness and respect.\"\n\nTadesse hesitated for a moment, then gently pushed the door open and stepped inside. To his surprise, the tree was hollow, and in the very center, there was a large, round stone with a small, golden inscription. Tadesse leaned in to read the inscription, which said: \"The Whispering Tree holds the wisdom of the ages. Speak your questions with respect, and the tree will answer.\"\n\nTadesse was amazed and decided to ask the tree a question. He closed his eyes and whispered, \"What is the most important thing in life?\"\n\nSuddenly, the tree began to whisper back, its voice like the soft rustling of leaves. \"Kindness, my child, is the most important thing in life. Kindness to yourself, kindness to others, and kindness to the world around you. For with kindness, you will find happiness, understanding, and love.\"\n\nTadesse listened intently and asked the tree many more questions. Each time, the tree whispered back with gentle wisdom and guidance. Tadesse felt grateful and privileged to have discovered this magical place.\n\nAs the sun began to set, Tadesse knew it was time to return home. He said goodbye to the Whispering Tree, promising to always carry its wisdom in his heart.\n\nFrom that day on, Tadesse made a conscious effort to be kinder to himself, his family, his friends, and even the strangers he met on the street. He discovered that by being kind, he felt happier, more connected, and more at peace with the world.\n\nAnd so, Tadesse grew up to be a kind and compassionate man, who spread joy and love wherever he went. And whenever he encountered a difficult situation, he would remember the Whispering Tree and its gentle wisdom, always choosing kindness above all else.\n\nGoodnight, my dear son. May you too carry the wisdom of kindness in your heart and spread it to the world around you. Sweet dreams and a peaceful night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "grateful": "emotional",
+    "privileged": "other",
+    "conscious": "mental",
+    "happier": "emotional",
+    "more connected": "emotional",
+    "more at peace": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

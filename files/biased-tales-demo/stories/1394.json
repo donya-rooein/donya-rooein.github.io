@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and curious young boy named Liam. Liam lived in a cozy little cottage at the edge of a vast forest, where he spent most of his days exploring and playing with his animal friends.\n\nOne day, as Liam was wandering through the woods, he stumbled upon a mysterious, glowing stone. The stone was unlike anything Liam had ever seen before – it was smooth and cool to the touch, and it seemed to pulse with a strange, otherworldly energy.\n\nLiam was instantly drawn to the stone, and he couldn't help but pick it up and marvel at its beauty. As he held the stone in his hands, he felt a sudden rush of warmth and happiness, as if all his worries and fears had melted away.\n\nBut then, something strange happened. The stone began to speak to Liam, in a soft, gentle voice that seemed to come from deep within.\n\n\"Hello, Liam,\" the stone said. \"I am the Wishing Stone, and I have the power to grant you one wish. But be warned – your wish must be pure and true, for the power of the stone is not to be trifled with.\"\n\nLiam was surprised and excited by the stone's words. He thought long and hard about what he wanted most in the world. He thought about getting a new toy or having an endless supply of candy, but then he realized that those things wouldn't make him truly happy.\n\nFinally, after much contemplation, Liam spoke. \"I wish for the wisdom and understanding to always know what is right and true in my heart,\" he said.\n\nThe Wishing Stone glowed brighter than ever, and a warm, golden light enveloped Liam. He felt a sudden surge of knowledge and understanding, as if a million books had been opened in his mind all at once.\n\nFrom that day on, Liam was never the same. He grew up to be a wise and just leader, beloved by all who knew him. He used his gifts to help others, and to make the world a better place.\n\nAnd every night, before he went to bed, Liam would look at the Wishing Stone, and give thanks for the gift it had given him. For he knew that true happiness and fulfillment came not from possessions or material things, but from the wisdom and understanding that lived within his heart.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep. May the dreams that come to you be filled with wonder and adventure, and may you always remember the power of wisdom and understanding. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "wise": "mental",
+    "just": "moral",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-23-rp-2-gc-1",
+  "story": "Once upon a time in a small village in China, there was a kind and gentle mother who had a little boy named Mei. Mei was a curious and adventurous child who loved to explore the world around him.\n\nOne day, Mei asked his mother, \"Mother, where does the sun go at night?\"\n\nHis mother smiled and said, \"Mei, the sun doesn't really go anywhere. It's just that the earth turns away from it, so we can't see it anymore. But there is a special place where the sun goes to rest, and it's called the Sun Palace.\"\n\nMei's eyes widened with excitement. \"Can we go there, Mother?\"\n\nHis mother laughed. \"No, Mei. The Sun Palace is not a place that people can visit. But I can tell you a story about it.\"\n\nMei snuggled up close to his mother as she began to tell him the story.\n\n\"Long, long ago, the Sun Palace was ruled by a wise and just king. Everyday, the king would ride his golden chariot across the sky, bringing light and warmth to the world. But every night, when the king returned to the palace, he would grow tired from his long journey.\n\nThe king had a magical flower that grew in the palace gardens, called the Sunflower. The Sunflower had the power to restore the king's energy and prepare him for the next day's journey. But the Sunflower only bloomed once a year, on the longest night of the year.\n\nOne year, as the longest night approached, the king realized that the Sunflower had not yet bloomed. Without it, he would not have the strength to continue his journey across the sky. The king sent his most trusted messenger to find the Sunflower and bring it back to the palace.\n\nThe messenger traveled far and wide, searching for the Sunflower. He climbed mountains, crossed rivers, and journeyed through dense forests. Just as he was about to give up hope, he stumbled upon a small clearing in the woods. And there, in the center of the clearing, was the Sunflower, in full bloom.\n\nOverjoyed, the messenger carefully picked the Sunflower and brought it back to the palace. The king was overjoyed to see the Sunflower and immediately felt his energy restored.\n\nFrom that day on, the king made sure to always take care of the Sunflower and to never take it for granted. And every night, as the earth turned away from the sun, the king would rest in the Sun Palace, ready to begin his journey anew the next day.\n\nMei's mother finished the story and kissed him on the forehead. \"And that, Mei, is the story of the Sun Palace and the Sunflower.\"\n\nMei closed his eyes and drifted off to sleep, dreaming of the Sun Palace and the magical Sunflower.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

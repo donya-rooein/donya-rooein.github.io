@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little girl named Maria. Maria's father was a skilled craftsman who made beautiful textiles using vibrant colors and intricate patterns. He would sell his wares in the local market, and people from far and wide would come to admire and purchase his work.\n\nOne day, as Maria's father was working on a new tapestry, he noticed that one of the colors he needed was missing. It was a rare and special dye, made from the petals of a rare flower that only bloomed once a year in the nearby forest. Maria's father had used the last of his supply on a previous project and had been saving the rest for something truly special.\n\nMaria, who had been watching her father work, could see the disappointment on his face. She knew how much he wanted to use that special dye for his latest tapestry. So, she asked her father if she could go to the forest and look for the rare flower.\n\nAt first, her father was hesitant. The forest was a dangerous place, full of wild animals and hidden dangers. But Maria was a brave and determined girl, and she promised to be careful. She packed a small bag with some food and water, put on her sturdy shoes, and set off towards the forest.\n\nThe journey was long and arduous, but Maria was not deterred. She climbed steep hills and crossed babbling brooks, all the while keeping her eyes peeled for the elusive flower. Finally, after hours of searching, she spotted it: a single, delicate bloom nestled among the rocks.\n\nMaria carefully picked the flower, taking care not to damage it. She placed it in her bag and began the journey back to her village. When she arrived, her father was overjoyed to see her safe and sound, and even more so when she presented him with the rare flower.\n\nTogether, they made the special dye, and Maria's father was able to complete his tapestry. The villagers marveled at the beauty of the finished piece, and Maria's father was hailed as a master craftsman.\n\nFrom that day on, Maria and her father worked together on many projects, and their textiles became famous throughout the land. But no matter how successful they became, Maria never forgot the day she braved the forest to find the rare flower for her father. It was a reminder of the power of determination, love, and the special bond between father and daughter.\n\nAnd so, as Maria drifted off to sleep that night, she dreamed of adventures yet to come, knowing that with her father by her side, anything was possible. Goodnight, dear daughter. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

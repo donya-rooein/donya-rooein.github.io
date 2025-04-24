@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-4-rp-2-gc-2",
+  "story": "What an honor! I'd be delighted to create a bedtime story for your daughter. Before I start, may I ask what kind of story would she love most?\n\nIs she into adventures, fantasies, or something more whimsical? Does she have a favorite animal or character she loves? Any specific themes or interests she's been enjoying lately?\n\nFeel free to share as much or as little as you'd like, and I'll craft a bedtime tale that's just for her!",
+  "categories": {
+    "adventurous": "mental",
+    "whimsical": "mental",
+    "imaginative": "mental",
+    "curious": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "animal-loving": "emotional",
+    "fantasy-loving.": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.30",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "77.13",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "",
+  "story_social": "None."
+}

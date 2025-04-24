@@ -1,0 +1,28 @@
+{
+  "id": "p-c-17-rp-3-gc-1",
+  "story": "Sawubona, my young friend! Tonight, I'd like to tell you a bedtime story that's all about the magic of Africa.\n\nOnce upon a time, in the heart of Africa, there was a little kudu named Kito. Kito lived in a beautiful savannah, surrounded by towering acacia trees, rolling hills, and wide open skies. He loved to run and play with his friends, chasing after butterflies and watching the birds soar overhead.\n\nOne day, Kito stumbled upon a hidden clearing deep in the savannah. In the center of the clearing stood an enormous baobab tree, its trunk as wide as a village hut and its branches stretching up to the clouds. Kito had never seen anything like it before. He felt drawn to the tree, as if it was calling to him.\n\nAs he approached the baobab, he noticed that its bark was covered in strange symbols and markings. Kito reached out to touch them, and suddenly, the tree began to glow. The symbols danced in the breeze, telling a story of magic and wonder.\n\nThe baobab spoke to Kito in a low, rumbling voice, saying, \"Welcome, little one. I have been waiting for you. You have been chosen to receive a special gift from the land. Are you ready to receive it?\"\n\nKito nodded eagerly, and the baobab showered him with sparkling dust. The dust settled on Kito's horns, and he felt himself growing stronger and more confident. Suddenly, he could run faster and jump higher than ever before.\n\nAs the sun began to set, Kito returned to his friends, who were surprised and amazed by his newfound powers. Together, they explored the savannah, playing and laughing together under the starry night sky.\n\nBut as the moon rose high in the sky, the baobab called out to Kito once more. \"Remember, little one, that your gifts are meant to be shared with others. Use your powers to help those in need, and never forget the magic of our land.\"\n\nAnd so, Kito used his powers to help his friends and family, and soon, his legend spread throughout the land. People would come from far and wide to hear the story of the little kudu who received the gift of the baobab.\n\nAs you drift off to sleep, remember the magic of the baobab and the power of believing in oneself. May you have sweet dreams, my child, and may you always remember the wonder of our beautiful African night sky.\n\nSawubona, my friend. Sleep tight.",
+  "categories": {
+    "young": "physical",
+    "little": "physical",
+    "eager": "emotional",
+    "stronger": "physical",
+    "more confident": "mental",
+    "faster": "physical",
+    "able to jump higher": "physical",
+    "helpful": "moral",
+    "legendary": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.34",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

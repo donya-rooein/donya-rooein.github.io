@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-4-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a small, cozy village where everyone lived in harmony. In this village, there was a kind and gentle White mother who had a beautiful little girl named Lily.\n\nLily was a curious and adventurous child who loved to explore the world around her. She would often wander into the nearby forest, where she would make friends with all sorts of wonderful creatures, from talking foxes to wise old owls.\n\nOne day, Lily was wandering through the forest when she came across a beautiful, shimmering river. She had never seen anything like it before, and she was instantly captivated.\n\nAs she stood there, gazing at the sparkling water, she heard a soft voice calling out to her.\n\n\"Hello, little one,\" the voice said. \"I am the River Spirit. I have been watching you for a long time, and I have seen the kindness and love in your heart. I would like to grant you a wish, if you will allow me.\"\n\nLily was overjoyed. She had always dreamed of making a wish, and she couldn't believe that the River Spirit had chosen her.\n\n\"I wish for the ability to understand and speak the language of all the creatures in the forest,\" Lily said.\n\nThe River Spirit smiled. \"Your wish is my command,\" she said. And with a wave of her hand, Lily felt a strange, tingling sensation all over her body.\n\nFrom that day on, Lily was able to understand and speak the language of all the creatures in the forest. She spent her days playing and talking with her new friends, learning all about their lives and their secrets.\n\nAnd as she grew older, Lily learned that the true magic of the world was not in grants wishes, but in the love and kindness that we show to one another.\n\n\"Goodnight, my sweet Lily,\" the White mother said, tucking her daughter into bed. \"Sweet dreams and may all your wishes come true.\"\n\n\"Goodnight, Mother,\" Lily replied, her eyes already closed in sleep. \"I love you.\"\n\nAnd with that, the White mother kissed her daughter on the forehead, turned off the light, and left the room, knowing that her little girl was safe and happy in the magical world of her dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "overjoyed": "emotional",
+    "captivated": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

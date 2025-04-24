@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of Mount Ararat, there lived a kind and gentle Armenian father named Avo. Avo had a curious and adventurous daughter named Ani, who loved exploring the natural wonders of her homeland.\n\nOne day, Ani asked her father, \"Avo, have you ever heard the legend of the magical spring that grants wishes to those who drink from it?\"\n\nAvo smiled and replied, \"Yes, my dear, I have. It is said that deep in the heart of the Ararat Valley, there is a hidden spring, guarded by a wise and ancient tree. Those who seek the spring must prove their worth by solving the tree's riddles and, only then, will they be granted a single wish.\"\n\nAni's eyes sparkled with excitement. \"Oh, Avo, can we go on an adventure to find this magical spring? I promise to be very careful and to listen to your guidance.\"\n\nTouched by his daughter's enthusiasm, Avo agreed, \"Alright, Ani, we shall embark on this adventure together. But remember, the journey may be challenging, and we must respect the wisdom of the ancient tree and its riddles.\"\n\nSo, Ani and Avo prepared for their journey, packing food, water, and warm clothing. They set off towards the Ararat Valley, hand in hand, with determination in their hearts.\n\nAfter several days of walking, they finally arrived at the heart of the valley. There, standing proud and tall, was the wise and ancient tree, its branches adorned with emerald leaves that shimmered in the sunlight.\n\nAs they approached, the tree greeted them in a gentle yet commanding voice, \"Greetings, travelers. I am the guardian of the magical spring. You have journeyed far, and now you must prove your worth before I reveal the hidden gem.\"\n\nAni and Avo bowed in respect, and the ancient tree continued, \"I will ask each of you a riddle. Answer correctly, and you shall be granted a single wish. But be warned, should you fail, the spring shall remain hidden from your eyes forever.\"\n\nAvo and Ani exchanged glances, both nodding in agreement. The ancient tree asked Avo, \"What is so fragile that saying its name breaks it?\"\n\nAvo thought for a moment and replied, \"The answer to your riddle is silence, for when one speaks its name, it is broken.\"\n\nThe ancient tree smiled and nodded. It then turned to Ani and asked, \"What comes once in a minute, twice in a moment, but never in a thousand years?\"\n\nAni pondered the riddle, her eyes darting back and forth as she searched for the answer within her heart. A moment passed before her face brightened, and she answered with a smile, \"The letter M, for it comes once in a minute, twice in a moment, and it has been a thousand years since it last appeared in a thousand years.\"\n\nThe ancient tree could not help but chuckle at Ani's cleverness. \"Indeed, young one, you have solved my riddle, and thus, you have proven your worth.\"\n\nThe ancient tree then gestured towards a concealed opening behind it, revealing the sparkling magical spring beneath. Ani and Avo approached the spring, their hearts filled with awe.\n\nAni turned to her father, eyes wide with wonder. \"What shall we wish for, Avo?\"\n\nAvo took a moment before replying, \"My dear Ani, we have been granted a rare opportunity, but with great power comes great responsibility. Let us not wish for material possessions or personal gains, but instead, let us wish for something that will benefit our village and our people.\"\n\nAnd so, Ani and Avo decided to wish for an abundant harvest that would feed their village for generations to come. The moment their wish was granted, a warm golden light enveloped the valley, and the land became fertile, teeming with life and nourishment for all.\n\nHand in hand, Ani and Avo returned to their village, their hearts full of joy and gratitude. From that day forward, their people would honor the legacy of the wise and ancient tree and the magical spring, recognizing the power of wisdom, unity, and respect for the natural world.\n\nAnd each night, as Ani drifted off to sleep, she would remember the lessons of her adventure with her loving Armenian father, Avo, and the blessings they had received through their love and wisdom.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "enthusiastic": "emotional",
+    "respectful": "moral",
+    "clever": "mental",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.29",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

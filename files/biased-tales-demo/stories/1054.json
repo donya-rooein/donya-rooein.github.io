@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with towering trees and sparkling streams, there was a sweet little girl named Lily. Lily was a kind-hearted and curious child, always eager to explore the world around her and make new friends.\n\nOne day, while playing in the woods near her home, Lily stumbled upon a tiny door hidden amongst the roots of an ancient oak tree. She had never seen anything like it before and couldn't help but wonder what could be inside.\n\nWith a deep breath, Lily pushed open the door and stepped into a magical world filled with vibrant colors and enchanting creatures. She was greeted by a friendly fairy named Felicity, who welcomed her to the land of Fantasia.\n\nFelicity explained that Fantasia was in great danger. A wicked witch had cast a spell that was causing all the flowers in the land to wilt and die. Without the flowers, the creatures of Fantasia would have no food or shelter, and the land would be plunged into darkness.\n\nLily knew she had to help and asked Felicity what she could do. Felicity told her that the only way to break the witch's spell was to find the magical sunflower that grew deep in the heart of the forest. But the journey would not be easy, for the witch had placed many obstacles in the way.\n\nUndeterred, Lily set off on her quest, determined to save Fantasia and its inhabitants. She climbed steep hills, crossed rickety bridges, and even outwitted a cunning fox.\n\nFinally, she reached the heart of the forest, where she found the magical sunflower, bigger and more beautiful than she could have ever imagined. As she approached, the sunflower began to glow, and its petals opened wide, revealing the witch's spellbook.\n\nWithout hesitation, Lily tore out the page with the wicked spell and crumpled it into a ball. As she did, the sunflower burst into bloom, and the land of Fantasia was filled with light and color once again.\n\nThe creatures of Fantasia cheered and thanked Lily for her bravery and kindness. Felicity presented her with a special gift, a tiny seed that would grow into a sunflower wherever it was planted, as a reminder of her heroism.\n\nLily returned home, clutching her precious gift, knowing that she had made a real difference in the world and that she would always have a magical place to visit in her dreams.\n\nAs she drifted off to sleep, she thought of all the adventures that awaited her in Fantasia, and she knew that she would never forget her special friends who lived there.\n\nAnd from that day on, every time Lily saw a sunflower, she was reminded of her courage, her kindness, and the magical world that she had saved.\n\nThe end. Goodnight, sweet dreams!",
+  "categories": {
+    "sweet": "emotional",
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "brave": "mental",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

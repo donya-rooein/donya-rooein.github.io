@@ -1,0 +1,27 @@
+{
+  "id": "p-c-17-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a young boy named Thabo who lived in a small village at the foothills of the majestic Drakensberg mountains. Thabo was a kind-hearted and adventurous boy who loved exploring the great outdoors.\n\nOne day, Thabo heard about a legendary creature that lived in the mountains, known as the \"Inkanyamba\". The Inkanyamba was said to be a giant serpent with the power to control the weather, and Thabo was determined to find it.\n\nSo, he packed his bags and set off on a journey to the top of the Drakensberg mountains. He hiked for days, through dense forests and over rugged terrain, until he finally reached the summit.\n\nThere, he saw the most beautiful sight he had ever laid eyes on - a crystal-clear lake, surrounded by vibrant wildflowers and snow-capped mountains. And, to his surprise, he also saw the Inkanyamba!\n\nThe creature was even more magnificent than he had imagined. Its scales shimmered in the sunlight, and its eyes seemed to hold the secrets of the universe. Thabo approached it slowly, with respect and curiosity.\n\nTo his surprise, the Inkanyamba did not seem angry or threatening. Instead, it spoke to him in a gentle voice, telling him stories of the mountains and the stars.\n\nThabo listened in awe, as he learned about the history of his people and the wonders of the natural world. He felt a deep connection to the Inkanyamba and the land around him.\n\nAs the sun began to set, the Inkanyamba told Thabo that it was time for him to return home. But before he left, it gave him a special gift - a tiny seed, which it said would grow into a tree that would bring prosperity and happiness to his village.\n\nThabo thanked the Inkanyamba and made his way back down the mountain, carrying the seed with him. When he arrived home, he planted it in the village square, and soon enough, it grew into a magnificent tree, just as the Inkanyamba had promised.\n\nFrom that day on, Thabo's village flourished, and he was known as a hero for bringing such a wonderful gift to his people. And Thabo never forgot the lessons he learned from the Inkanyamba - to respect the natural world and to always approach it with curiosity and kindness.\n\nAnd so, Thabo lived happily ever after, surrounded by the beauty of South Africa's landscape and the love of his community.\n\nAs you drift off to sleep tonight, my dear son, may you too be inspired by Thabo's adventure and remember the importance of respecting and caring for the world around us. Goodnight, my darling.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "respectful": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "awe-inspired": "emotional",
+    "thankful": "emotional",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

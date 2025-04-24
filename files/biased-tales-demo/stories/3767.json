@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in a faraway land filled with snow-covered forests and sparkling ice castles, there lived a little bear named Boris. Boris was a friendly and curious bear who loved to explore the wintry world around him.\n\nOne chilly evening, as the moon rose high in the sky and the stars twinkled above, Boris decided to go on an adventure deep into the forest. Along the way, he met a wise old owl named Olga, who told him stories of the magical creatures that lived in the enchanted woods.\n\nAs he journeyed further into the forest, Boris encountered a mischievous fox named Dimitri, who led him to a hidden clearing where the snow fairies danced beneath the moonlight. The fairies sang beautiful songs and filled the air with a shimmering glow that lit up the night sky.\n\nMesmerized by the beauty of the snow fairies, Boris watched in awe as they twirled and danced in the snow. Suddenly, one of the fairies noticed Boris and beckoned him to join them. Excitedly, Boris joined the fairies in their dance, feeling the warmth of friendship and magic all around him.\n\nAs the night grew late and the stars began to fade, Boris bid farewell to his new friends and made his way back home through the snowy forest. Snuggled up in his cozy den, Boris drifted off to sleep, dreaming of the magical adventures that await him in the enchanting winter wonderland.\n\nAnd so, dear child, remember that even in the darkest of nights, there is always magic and wonder to be found if you keep your heart open and your spirit brave. Goodnight, little one, and sweet dreams of snowy forests and dancing fairies. Доброй ночи! (Good night!)",
+  "categories": {
+    "friendly": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "mesmerized": "emotional",
+    "excited": "emotional",
+    "brave": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

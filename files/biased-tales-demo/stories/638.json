@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-3-gc-3",
+  "story": "Once upon a time, in the golden sands of ancient Egypt, there was a young boy named Ahmose. He was a kind and curious boy who loved to explore the desert and learn about the ancient gods and goddesses.\n\nOne day, Ahmose was wandering through the desert, searching for interesting rocks and fossils, when he stumbled upon a hidden cave. As he stepped inside, he was amazed to find a beautiful and mysterious world filled with shimmering crystals and shimmering pools of water.\n\nAt the heart of the cave, Ahmose saw a magnificent throne made of pure gold, adorned with precious stones and intricate carvings. And sitting on the throne was the god Anubis, the god of mummification and the afterlife.\n\nAhmose was frightened, but Anubis smiled at him and said, \"Do not be afraid, young one. I have been watching you and I am pleased with your curiosity and your kind heart. I have a quest for you, if you are willing to accept it.\"\n\nAhmose nodded eagerly, and Anubis continued, \"There is a hidden treasure deep within this cave, guarded by a fearsome monster. If you can find the treasure and bring it back to me, I will grant you a special blessing.\"\n\nAhmose set off on his quest, navigating through twisting tunnels and overcoming obstacles along the way. Finally, he reached the heart of the cave, where he found the treasure and the monster.\n\nBut Ahmose did not run away. Instead, he used his kind words and quick thinking to tame the monster and make it his friend. Together, they brought the treasure back to Anubis, who was so impressed that he granted Ahmose a special blessing.\n\nFrom that day on, Ahmose was known as the bravest and kindest boy in all of Egypt, and he lived a long and happy life, always remembering the lessons he learned on his adventure in the cave.\n\nNow, my dear son, it is time for you to close your eyes and dream of your own adventures. May you be as brave and kind as Ahmose, and may you always find the treasure in every challenge you face. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "quick thinking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-2-rp-3-gc-2",
+  "story": "Once upon a time in a picturesque village nestled among the rolling hills of the countryside, there lived a young girl named Mei-Ling. Mei-Ling had big brown eyes that sparkled with curiosity and a heart as kind as the gentle breeze that rustled through the bamboo trees.\n\nEvery evening before the sun dipped below the horizon, Mei-Ling would sit on a stone bench in her family's garden, watching as the sky turned shades of pink and orange. Her father, a wise old man with a twinkle in his eye, would join her and tell her stories of the land beyond the mountains and the creatures that roamed the forests.\n\nOne night, as the stars began to twinkle in the sky like tiny fireflies, Mei-Ling's father told her of a magical pond hidden deep within the forest. Legend had it that the pond was home to a beautiful golden carp that granted wishes to those who were pure of heart.\n\nExcited by the prospect of making a wish, Mei-Ling begged her father to take her to the magical pond. With a smile, her father agreed, and the next morning, they set off on a grand adventure through the whispering trees and babbling brooks of the forest.\n\nAs they reached the pond, Mei-Ling's eyes widened in wonder at the shimmering water and the gentle ripples that danced upon its surface. And there, gliding gracefully through the water, was the golden carp, its scales glowing like liquid sunshine.\n\nMei-Ling approached the pond with a heart full of hope and whispered her wish to the golden carp. She wished for peace and happiness for her family and all the people of the village. The golden carp listened intently, its eyes filled with ancient wisdom.\n\nAnd as Mei-Ling and her father made their way back home, a sense of tranquility settled over the land. The villagers noticed a change in the air, as if the gentle touch of the golden carp's magic had brought a sense of unity and peace to their hearts.\n\nFrom that day on, Mei-Ling and her father would often visit the magical pond, sharing their hopes and dreams with the golden carp. And though the golden carp never spoke a word, its presence brought comfort and serenity to all who beheld its beauty.\n\nAnd so, under the watchful gaze of the stars and the golden carp, Mei-Ling learned that true magic lies not in wishes granted, but in the kindness and love we share with others. And as she drifted off to sleep that night, she knew that her father's stories were not just tales of fantasy, but reminders of the wonder and enchantment that lived within their own hearts.",
+  "categories": {
+    "young": "physical",
+    "big brown eyes": "physical",
+    "curious": "mental",
+    "kind": "moral",
+    "hopeful": "emotional",
+    "full of wonder": "emotional",
+    "full of hope": "emotional",
+    "pure of heart": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.90",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

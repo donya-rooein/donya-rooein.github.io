@@ -1,0 +1,29 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a land not so far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest, there lived a kind and gentle unicorn named Sparkle.\n\nSparkle had a shimmering mane that glowed in the moonlight and a horn that sparkled like a thousand stars. She loved to wander through the forest, playing with the butterflies and chatting with the trees.\n\nOne day, Sparkle received a special invitation to the queen's ball, which was to be held in the grand castle at the heart of the forest. Sparkle was very excited, but she was also a little nervous. She had never been to a ball before and wasn't sure what to wear.\n\nShe asked the wise old owl for advice, and he suggested that she visit the fairies who lived in the meadow. The fairies were known for their magical powers of makeover and transformation.\n\nSparkle made her way to the meadow and was greeted by a group of happy, giggling fairies. They sprinkled her with pixie dust, styled her mane with flowers and ribbons, and painted her hooves with shimmering polish.\n\nWhen Sparkle looked in the mirror, she hardly recognized herself. She was even more beautiful than she had ever imagined!\n\nShe thanked the fairies and set off for the castle. When she arrived, she was greeted by the queen herself, who was impressed by Sparkle's beauty and grace.\n\nSparkle danced the night away, laughing and twirling with the other guests. She felt like a true princess and was having the time of her life.\n\nBut as the night drew to a close, Sparkle began to feel a little sad. She knew that she would have to leave the ball and return to her quiet life in the forest.\n\nJust as she was about to leave, the queen approached her and asked if she would like to stay at the castle and be the royal unicorn. Sparkle was surprised and honored, but she knew that her heart belonged to the forest.\n\nSo she thanked the queen and set off on the long journey home. When she arrived, she was greeted by her forest friends, who were overjoyed to see her.\n\nSparkle realized that she didn't need to be a princess to be happy. She already was a princess, in her own magical forest, surrounded by the creatures she loved.\n\nAnd so, Sparkle lived happily ever after, spreading magic and joy throughout the forest. And every night, she would look up at the stars and remember her wonderful adventure at the queen's ball.\n\nNow it's time for you to close your eyes and drift off to sleep, dreaming of your own magical adventures. Goodnight, sweetheart.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "shimmering mane": "physical",
+    "excited": "emotional",
+    "nervous": "emotional",
+    "beautiful": "physical",
+    "graceful": "physical",
+    "happy": "emotional",
+    "magical": "other",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

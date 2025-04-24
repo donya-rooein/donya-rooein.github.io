@@ -1,0 +1,33 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a land of great beauty and wonder, where the sun dips into the horizon and paints the sky with vibrant hues of red and orange, there was a land called Kenya.\n\nIn this land, there lived a gentle and kind little wildebeest named Kipenzi. Kipenzi loved to roam the vast savannah, exploring and discovering new wonders every day. She had a special spot where she liked to rest, under the shade of a tall acacia tree, where she could watch the stars twinkling above.\n\nEvery night, after a long day of playing with her friends, Kipenzi would cuddle up close to her mother, a wise and loving wildebeest named Mama Malaika. Mama Malaika would tell her stories of old, of the ancestors who lived long ago and the magic that was hidden in the land.\n\nOne day, Kipenzi asked her mother to tell her the most magical story she knew, so Mama Malaika began to spin a tale of the Great Rift Valley, where the earth was once rent asunder by a mighty river that flowed with sparkling water and carried the secrets of the land.\n\nAs the story unfolded, Kipenzi felt herself transported to the heart of the valley, where she saw the ancient villages of long-forgotten tribes, where the people lived in harmony with the land and its creatures. She saw the mighty baobab trees towering above the grasslands, their bark as rough as the earth beneath her hooves.\n\nIn the story, Kipenzi met a wise old tortoise named Mzee, who lived in the heart of the valley. Mzee had seen it all, from the arrival of the first humans to the rise and fall of great civilizations. He told Kipenzi of the magic that lay hidden beneath the earth, of the ancient spirits that roamed the land, and of the secrets that only the wind and the stars knew.\n\nAs the sun dipped below the horizon, Mama Malaika finished the story, and Kipenzi's eyes grew heavy with sleep. As she snuggled into her cozy bed of soft grasses, she knew that she had been given a glimpse of the magic that lay just beyond the savannah.\n\nAnd so, dear child, it is time for you to drift off to sleep, may your dreams be filled with visions of the Great Rift Valley, and the magic that lies hidden beneath the stars. May you remember the wise words of wise old Mzee, and always hold dear the connection to the land and its secrets.\n\nSleep tight, my child, and may your heart be filled with the wonders of our beloved Kenya.",
+  "categories": {
+    "gentle": "emotional",
+    "kind": "moral",
+    "little": "physical",
+    "loves to roam": "mental",
+    "exploring": "mental",
+    "discovering": "mental",
+    "special spot": "other",
+    "watches the stars": "other",
+    "cuddles up close": "physical",
+    "transported": "other",
+    "sees": "physical",
+    "meets": "other",
+    "snuggled": "physical",
+    "given a glimpse": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.25",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "70.67",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

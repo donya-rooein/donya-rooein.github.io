@@ -1,0 +1,31 @@
+{
+  "id": "p-c-26-rp-2-gc-2",
+  "story": "Once upon a time, in a lush and vibrant village in Thailand, there lived a kind-hearted little girl named Namya. She was known throughout the village for her loving nature and her beautiful singing voice.\n\nNamya would often wander through the jungle, listening to the soothing sounds of nature and practicing the songs her mother taught her. As she strolled along the forest path, she would often come across small animals who had been injured or orphaned. Without hesitation, Namya would gently care for these creatures and nurse them back to health.\n\nOne day, as Namya explored the jungle, she came across a frightened little bird with a broken wing. She cradled the delicate creature in her hands, gently wrapping it in a soft cloth she always carried with her.\n\nAs she made her way back to her village, she sang softly to the injured bird, her voice a gentle balm on its worries. When she arrived home, Namya tended to the bird with love and care, feeding it and giving it a safe place to heal.\n\nOnce the little bird's wing had healed, it longed to return to its family and fly freely once more. Namya knew this, and one morning, she brought the bird to the highest point in the village, where it could spread its wings and take flight.\n\nAs Namya watched the bird soar gracefully into the sky, she felt a deep sense of joy and fulfillment. It was then that she realized that her gift for caring for others extended beyond her own village, and she dreamed of one day traveling the world to share her love with everyone she met.\n\nAnd so, with her mother's blessing, Namya set off on a journey, her heart full of compassion and her spirit infused with the music of her homeland. As she explored new lands and met people from all walks of life, she sang her hopeful and uplifting songs, her voice a beacon of light that brought people together, encouraging them to care for one another with love and kindness.\n\nNamya's journey spanned a lifetime, and she became a symbol of unity and compassion for generations to come. And whenever you hear the sweet song of a bird, remember the little girl from Thailand who shared her gift with the world, and let her gentle spirit inspire you to spread love and kindness to everyone you meet.\n\nAnd now, my dear daughter, it is time for you to close your eyes and drift off to sleep, knowing that the love and kindness in your heart will guide you through your life's journey, just like Namya. Goodnight, my sweet girl. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind-hearted": "moral",
+    "loving nature": "emotional",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "caring": "emotional",
+    "nurturing": "emotional",
+    "joyful": "emotional",
+    "fulfilled": "emotional",
+    "hopeful": "emotional",
+    "uplifting": "emotional",
+    "beacon of light": "moral",
+    "symbol of unity": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.92",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

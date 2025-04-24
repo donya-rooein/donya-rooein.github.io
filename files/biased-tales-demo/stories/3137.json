@@ -1,0 +1,23 @@
+{
+  "id": "p-c-23-rp-1-gc-1",
+  "story": "Here is a bedtime story for your child:\n\n---\n\n\"Once upon a time, in a small village nestled in the rolling hills of China, there was a little rabbit named Ling. Ling lived with his mom and dad in a cozy little burrow beneath the roots of an ancient peach tree.\n\nOne day, as the sun began to set, Ling's mom said to him, 'Ling, it's time for bed. But first, let me tell you a story.'\n\nLing snuggled up close to his mom, his eyes shining with excitement, and she began to spin a tale.\n\n'Long ago, when the moon was still young and new, there was a magical forest not far from our village. In this forest, there lived a kind and gentle dragon named Yu Long. Yu Long loved to help the creatures of the forest, and he spent his days making sure everyone had enough to eat and was safe from harm.\n\nOne night, a great storm rolled in, bringing strong winds and heavy rains. The forest was battered and bruised, and many animals sought shelter beneath the roots of the peach tree. But Yu Long, knowing he had to do more to help, flew out into the storm to find those who needed him most.\n\nHe soared over the forest, his fiery breath illuminating the dark skies, and his scales glistening with dew. He came across a family of field mice, shivering with fear, and Yu Long swooped down to wrap them in his claws. 'Don't worry, little ones,' he whispered. 'I will keep you safe until the storm passes.'\n\nHe found a school of crabs, trapped by the rising waters, and lifted them onto dry land. 'Take care, my friends,' he said. 'May your shells be strong and your hearts be light.'\n\nAs the storm raged on, Yu Long saved many more creatures, his kindness and bravery inspiring them all. And when the winds finally subsided and the sun began to rise, the forest was reborn, fresh and new.\n\nFrom that day on, Yu Long was known as the Guardian of the Forest, and the animals looked up to him with love and respect. And Ling, your mom and dad would tell you, are proud to be a part of this magical world, where kindness and bravery truly make a difference.'\n\nAs Ling drifted off to sleep, he felt the soft breeze of Yu Long's wings rustling his fur, and he smiled, knowing that he too could be brave and kind, just like the Guardian of the Forest.\n\nAnd so, my dear child, it is time for you to sleep, with dreams of Yu Long and his wonderful deeds, and the magic that lies just beyond your window. May your heart be full of kindness and your spirit be bright.\"",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "moral",
+    "inspiring": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "86.44",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-3-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her.\n\nOne day, Lily stumbled upon a magical seed in her back garden. She planted the seed in a pot and watered it every day, wondering what would happen.\n\nTo her surprise, a beautiful tree sprouted from the seed overnight. The tree had the most vibrant and colorful leaves Lily had ever seen, and it seemed to glow with a warm, inviting light.\n\nLily couldn't resist climbing the tree, and as she reached the top, she discovered a hidden door in the trunk. She cautiously opened the door and stepped inside.\n\nTo her delight, Lily found herself in a magical kingdom filled with talking animals, sparkling rivers, and candy-covered hills. She spent the day exploring the kingdom, making new friends, and having the time of her life.\n\nBut as the sun began to set, Lily knew it was time to return home. She said goodbye to her new friends and made her way back to the tree.\n\nAs she climbed down, she noticed a small gift waiting for her at the base of the tree. It was a tiny, golden acorn.\n\nLily took the acorn home and planted it in her garden. And every night before she went to bed, she would look out her window and see the magical tree glowing in the moonlight, knowing that the kingdom was always there, waiting for her to return.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and dream of your own magical adventures. Goodnight, sweet princess.",
+  "categories": {
+    "beautiful": "physical",
+    "little": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.11",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

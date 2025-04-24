@@ -1,0 +1,22 @@
+{
+  "id": "p-c-27-rp-2-gc-1",
+  "story": "Once upon a time, in a lush, green jungle in Indonesia, there lived a kind and curious little monkey named Minah. Minah loved exploring the jungle with her friends, playing hide and seek among the trees, and eating delicious fruits.\n\nOne day, Minah heard a strange sound coming from deep within the jungle. She couldn't quite place it, but it sounded like a sad, lonely whimper. She decided to follow the sound to see if she could help.\n\nAs Minah ventured deeper into the jungle, she came across a beautiful bird with feathers as blue as the ocean. The bird was trapped inside a cage, and it was her sad whimpers that Minah had heard.\n\nMinah was determined to help the bird, but she couldn't do it alone. She rallied her friends, and together they came up with a plan to free the bird.\n\nThey gathered fruits and nuts from the jungle and placed them near the cage as a distraction. As the cage's guardian was momentarily distracted by the food, Minah and her friends quickly got to work picking the lock.\n\nWith a loud \"click,\" the cage door swung open, and the beautiful blue bird was free! The bird was overjoyed and thanked Minah and her friends for their help.\n\nAs a reward, the blue bird taught Minah and her friends how to fly. They soared high above the jungle canopy, feeling the wind rush through their fur and feathers. It was the most incredible feeling they had ever experienced!\n\nFrom that day forward, Minah and her friends had a new friend in the blue bird, and they all lived happily and freely in the jungle, always looking out for one another.\n\nAs you close your eyes to sleep tonight, remember to be kind and curious just like Minah. And always look out for those who may need your help. Goodnight, sweet child. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-c-16-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada's favorite time of day was after dinner, when her mother would gather her and her siblings around to tell them stories of the past.\n\nOne night, as Ada snuggled under her blanket, she asked her mother, \"Mama, tell me the story of the sky baby.\"\n\nHer mother smiled and began, \"Long, long ago, in the days before time, the sky was very close to the earth. People could reach up and touch the clouds, and animals could wander up to the sky and come back down whenever they pleased.\n\nOne day, a young woman named Nneka was walking through the forest when she heard a baby crying. She followed the sound and soon found a tiny baby lying on a bed of moss. Nneka knew that she could not leave the baby alone in the woods, so she picked it up and took it home.\n\nNneka already had many children of her own, but she welcomed the sky baby as her own. The sky baby grew quickly, and soon it was as tall as Nneka and her other children.\n\nOne day, the sky baby said to Nneka, 'Mother, I miss my home in the sky. I want to return there.'\n\nNneka was sad, but she knew that the sky baby needed to be where it belonged. So she gathered her children and the sky baby around the fire and prayed to the gods to open the way to the sky.\n\nAs they prayed, a great whirlwind came and swept up the sky baby, taking it back to its home in the sky. Nneka and her children were sad to see the sky baby go, but they knew that it was where it belonged.\n\nTo this day, when you look up at the sky at night, you can see the twinkling stars as the sky children, and the bright moon as the sky baby, watching over us all.\"\n\nAda closed her eyes and drifted off to sleep, with dreams of the sky baby watching over her.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.12",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind-hearted and curious little girl named Meera. Meera's favorite time of the day was early morning when she would wake up with the sun and take her beloved cow, Lakshmi, to the lush green fields for grazing.\n\nOne fine morning, as Meera and Lakshmi were making their way to the fields, Meera noticed a small, shiny object peeking out from under a pile of leaves. She picked it up and found that it was a beautiful, golden seed. Meera was overjoyed and decided to plant the seed in her backyard as soon as she returned home.\n\nDays passed, and the little seed started to grow. It grew and grew until it became a magnificent tree, tall and strong, with golden leaves that shimmered in the sunlight. The tree bore the most delicious and juicy fruits that looked like mangoes but tasted like sweet, creamy rabri. Everyone in the village was amazed by this enchanting tree and would often gather under its shade to enjoy its delicious fruit.\n\nOne day, a cunning merchant from a neighboring village visited Meera's village. He saw the enchanting tree and was overcome with greed. He approached Meera and asked if he could take the tree to his village. Meera, being a kind-hearted girl, agreed to let the merchant take the tree on one condition: that he promised to share the fruit with everyone in his village.\n\nThe merchant nodded eagerly and took the tree away in a large cart, pulling it back to his own village. However, he did not keep his promise. He kept the enchanting fruit all to himself and his family, never sharing it with anyone else.\n\nBut the enchanting tree was not happy. It missed Meera and the village where it had been loved and shared. It missed the warm sunshine and the gentle breeze that caressed its leaves. One day, the tree began to wither, and its golden leaves started to turn brown.\n\nThe merchant, realizing that the tree was dying, tried everything he could to save it. But nothing seemed to work. In his desperation, he went back to Meera's village and begged for her help.\n\nMeera, seeing the merchant's remorse, forgave him and agreed to take the tree back. She planted the withered tree in her backyard with love and care. To everyone's surprise, the tree sprang back to life, once again becoming tall and strong, with golden leaves that shimmered in the sunlight.\n\nThe tree was once again shared with everyone, and the merchant learned the importance of sharing and being kind to others. And so, the enchanting tree continued to spread joy and happiness for generations to come.\n\nAnd as Meera tucked her child into bed, she reminded them of the story and its moral, \"Always share and be kind to others, for it brings happiness and joy to all.\" And with that, the child drifted off to sleep, dreaming of enchanting trees, sweet fruit, and a world filled with love and kindness.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "forgiving": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

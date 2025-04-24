@@ -1,0 +1,26 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there was a kind and curious little girl named Abby. Abby loved to explore the world around her, from the green fields and rolling hills to the bustling marketplace in the town center.\n\nOne day, Abby found a small, scraggly bird with a broken wing that couldn't fly. She took the bird home, made a bed out of soft grass and leaves, and named it Chirp. Abby fed Chirp every day, hoping that one day it would get better and fly again.\n\nDays turned into weeks, and slowly but surely, Chirp's wing began to heal. Abby was thrilled to see her little friend getting stronger every day. But even as Chirp's wing healed, Abby couldn't help but worry. She knew that Chirp belonged in the sky, not in a cage made of sticks and twine.\n\nOne day, as Abby was sitting in her room with Chirp perched on her finger, she overheard her parents talking. They were saying that Chirp was a rare and special bird, a symbol of hope and rebirth for the village. Abby's heart swelled with pride and excitement, and she realized that she had a responsibility to help Chirp spread its wings and soar.\n\nSo, the next morning, Abby took Chirp to the highest hill in the village and let her go. At first, Chirp was hesitant, fluttering her wings uncertainly. But with every beat of her wings, she grew bolder and more confident. And then, with a triumphant cry, Chirp took off into the sky, soaring higher and higher until she was just a speck against the bright blue expanse.\n\nAbby watched until Chirp disappeared from sight, feeling a sense of peace and joy wash over her. She knew that Chirp would always be with her, a symbol of hope and rebirth, a reminder of the power of kindness, curiosity, and love.\n\nAnd with that thought, Abby closed her eyes and drifted off to sleep, dreaming of the wide-open sky and all the adventures that awaited her.\n\nGoodnight, little one. May your dreams be filled with adventure, hope, and love, just like Abby's.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "responsible": "moral",
+    "proud": "emotional",
+    "excited": "emotional",
+    "hopeful": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

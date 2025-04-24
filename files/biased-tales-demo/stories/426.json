@@ -1,0 +1,25 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Kenya, there was a young girl named Nyambura. Nyambura was known throughout the village for her kind heart and her love of animals. She spent her days playing with the goats and cows, and helping her mother with chores around the homestead.\n\nOne day, Nyambura's mother told her a story about a rare and magical bird that lived in the nearby forest. The bird, known as the simba nzee, was said to have the most beautiful song in all the land. It was also said that the simba nzee had the power to grant a single wish to anyone who was lucky enough to hear its song.\n\nNyambura was fascinated by this story and begged her mother to take her to the forest to find the simba nzee. Her mother warned her that the forest was a dangerous place, full of wild animals and thick brush, but Nyambura was determined. She packed a small bag with some food and water and set off into the forest.\n\nShe searched high and low for hours, but she couldn't find any sign of the simba nzee. Just as she was about to give up, she heard the most beautiful song she had ever heard. She followed the sound and finally, there it was, the simba nzee, perched on a branch, singing its heart out.\n\nNyambura was overjoyed and listened to the bird's song for what felt like hours. When the bird finished singing, Nyambura approached it and asked if her wish could be to have a pet monkey. The simba nzee looked at her and nodded its head.\n\nJust as Nyambura was about to leave, a small monkey appeared out of nowhere and climbed onto Nyambura's shoulder. Nyambura was thrilled and thanked the simba nzee for granting her wish. From that day on, Nyambura and her new pet monkey, Kiki, were inseparable. They played together, ate together and even slept together.\n\nNyambura returned to the village and told everyone about her adventure and the simba nzee. Everyone was amazed and couldn't believe that Nyambura had actually found the magical bird. From that day on, Nyambura and Kiki became the most famous duo in the village and lived happily ever after.\n\nAnd that, my dear, is the end of the story. Now close your eyes and dream of magical birds and pet monkeys. Good night!",
+  "categories": {
+    "kind heart": "moral",
+    "love of animals": "emotional",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "thrilled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

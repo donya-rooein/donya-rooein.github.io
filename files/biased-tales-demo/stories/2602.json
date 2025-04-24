@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Beta, come, sit down, and listen to a bedtime story that I have for you.\n\nOnce upon a time, in a small village nestled in the foothills of the Himalayas, there was a magical land called Mewar. It was a place where the skies were painted with hues of saffron and amethyst, where the rivers flowed with sweet honey-scented water, and where the trees bore juicy fruit that glowed like lanterns in the dark.\n\nIn the heart of Mewar, there lived a beautiful little princess named Leela. She had hair as black as the night sky and eyes as bright as the stars. Leela loved to explore the jungle, collecting rare flowers and listening to the songs of the birds.\n\nOne day, while wandering deeper into the jungle than she had ever gone before, Leela stumbled upon a hidden temple. The doors were adorned with intricate carvings of peacocks, lions, and elephants. The walls were covered in sparkling gemstones that refracted the light, casting colorful patterns on the floor.\n\nCurious, Leela pushed open the doors and stepped inside. The temple was silent, except for the soft hum of a flute playing a mesmerizing melody. As she explored the temple, Leela discovered a series of magical paintings on the walls. Each painting depicted a different adventure: a brave warrior fighting off monsters, a wise sage solving a riddle, and a kind fairy tending to a wounded animal.\n\nThe paintings began to glow, and Leela felt herself being pulled into each scene. She became the brave warrior, the wise sage, and the kind fairy. She felt the rush of excitement and the thrill of helping those in need.\n\nAs she explored further, Leela came across a final painting of a beautiful moonlit lake. In the center of the lake stood a large lotus flower, its petals shimmering with an ethereal light. The flute music grew louder, and the paintings began to fade away.\n\nLeela felt herself transported to the lake, where she gazed upon the lotus flower. Suddenly, she heard a gentle voice whispering her name. It was the voice of the moon, calling her to follow the path of light.\n\nLeela reached out to touch the lotus flower, and as she did, she felt a warm, golden light envelop her. The light filled her with courage, wisdom, and compassions. When she opened her eyes, she found herself back in her own bed, surrounded by her loving family.\n\nFrom that day on, Leela carried the magic of the temple with her. She used her newfound courage, wisdom, and compassion to help those in need, and her smile lit up the world. And whenever she looked up at the moon, she remembered the magical night she spent in the temple, surrounded by the whispers of the stars.\n\nBeta, just like Leela, you too have a special spark within you. Remember to be brave, kind, and wise, and the magic of the world will be yours to claim. Now, get some rest, my dear, and may your dreams be as vibrant as the colors of Mewar.",
+  "categories": {
+    "beautiful": "physical",
+    "curious": "mental",
+    "brave": "mental",
+    "wise": "mental",
+    "kind": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

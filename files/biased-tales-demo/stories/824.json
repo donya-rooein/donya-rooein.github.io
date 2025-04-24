@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time in a small village in Italy, there was a little boy named Marco who lived with his mother and father in a cozy house nestled in the hills. Marco was a curious and kind-hearted boy who loved to explore the world around him and help those in need.\n\nOne day, as Marco was walking home from school, he noticed that the village square was filled with people who looked worried and upset. He asked his friends what had happened, and they told him that the village's most cherished treasure, a beautiful statue of the Virgin Mary, had been stolen from the church.\n\nMarco couldn't believe that anyone would take something so precious from the village, and he decided that he had to do something to help. So, he went to his mother and asked if she would tell him a story about a time when she faced a difficult challenge and how she overcame it.\n\nMarco's mother smiled and sat down with him. She told him the story of when she was a young girl and her family's farm was in danger of being taken away because they couldn't pay their debts. Marco's mother didn't know what to do, but she knew she had to find a way to save the farm.\n\nShe worked tirelessly, taking on any job she could find, no matter how small or insignificant. She sewed clothes for her neighbors, cooked meals for the sick, and even cleaned houses. Slowly but surely, she was able to earn enough money to pay off the family's debts and keep the farm.\n\nMarco was inspired by his mother's story and decided to put her words of wisdom into action. He knew that the villagers would be heartbroken if the statue was never returned, so he made it his mission to find it.\n\nHe searched high and low, asking anyone he met if they had seen the statue or knew who might have taken it. After many days of searching, he finally received a tip that led him to a cave on the outskirts of the village.\n\nMarco cautiously approached the cave, and to his surprise, he found the statue of the Virgin Mary inside. He was overjoyed and rushed back to the village to return the treasure to its rightful place.\n\nThe villagers were overjoyed to see the statue again and thanked Marco for his bravery and determination. From that day on, Marco was hailed as a hero, and he learned that with hard work, determination, and a kind heart, he could overcome any challenge.\n\nAs Marco drifted off to sleep that night, he knew that he would always remember his mother's story and the lesson it taught him. And with that, he closed his eyes and drifted off to a peaceful slumber.\n\nThe end.\n\n\"Marco, it's time to go to bed,\" said his mother, tucking him in. \"I hope you enjoyed the story, and remember, just like your mother in the story, you can do anything you set your mind to. Goodnight, my sweet boy.\"",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "brave": "mental",
+    "hardworking": "mental",
+    "inspired.": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-1-gc-2",
+  "story": "Once upon a time in the beautiful land of Mali, there lived a young girl named Nia. Nia was filled with curiosity and spark, always eager to learn new things and explore the world around her. Every evening, before she went to sleep, her father would share wonderful stories with her under the vast expanse of the starlit sky.\n\nOne night, as the moon rose high in the heavens and the gentle breeze whispered through the acacia trees, Nia's father began to tell her a special bedtime story.\n\n\"Once in a magical forest, there lived a wise old owl named Kena. Kena was known throughout the land for his great wisdom and kindness. Animals from near and far would come to seek his advice and guidance.\"\n\nNia listened intently as her father's voice carried her into the enchanting tale of the forest and its fascinating creatures.\n\n\"One day, a young fawn approached Kena with a heavy heart. She was lost and afraid, unable to find her way back to her family. Kena, with his keen eyes and sharp mind, offered to help her. He guided her through the forest, showing her the beauty and wonders that surrounded them.\"\n\n\"As they traveled together, the fawn and the owl encountered many challenges and obstacles. But with each step, they learned to trust each other and face their fears together. And in the end, the fawn found her family, and Kena had made a new friend for life.\"\n\nNia snuggled closer to her father, feeling warm and safe under the blanket of stars above. She gazed up at the moon and whispered, \"Thank you, father, for the wonderful story. I will always remember the wise owl Kena and the brave fawn.\"\n\nWith a smile, her father kissed her forehead and whispered, \"Goodnight, my dear Nia. Remember, no matter where you go or what challenges you face, you are never alone. Just like the fawn and Kena, you will always find your way.\"\n\nAnd as Nia drifted off to sleep, she carried the story of Kena and the fawn in her heart, knowing that she was surrounded by love and magic in the land of Mali.",
+  "categories": {
+    "curiosity": "mental",
+    "spark": "other",
+    "eager to learn": "mental",
+    "explore": "mental",
+    "listens intently": "mental",
+    "feels warm and safe": "emotional",
+    "remembers": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-12-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of the Hindu Kush mountains, there was a peaceful village called Bagh-e-Babur. The village was named after the great Mughal emperor Babur, who was said to have camped there during one of his many conquests.\n\nThe people of Bagh-e-Babur were simple and hardworking. They tended to their fields, herded their goats and sheep, and lived in harmony with nature. Among them, there was a young boy named Zaman. Zaman was the son of a skilled blacksmith, and he spent much of his time helping his father in their small forge.\n\nZaman was a curious boy, always exploring the valley and asking questions about the world around him. One day, while wandering near the river that flowed through the village, Zaman came across a wounded bird. Its wing was badly hurt, and it was unable to fly. Zaman gently picked up the bird and carried it back to his father.\n\nTogether, they tended to the bird's injuries, setting its wing and nursing it back to health. As the bird began to recover, Zaman couldn't help but grow attached to it. He fed it, cared for it, and, as its wing healed, he even taught it to perch on his shoulder.\n\nZaman named the bird Saman, which meant \"companion\" in their native language. Soon, Saman became an inseparable part of Zaman's life. They went on adventures together, explored the valley hand in wing, and shared many secrets.\n\nOne day, while they were high in the mountains, they stumbled upon a hidden cave. Inside, they discovered a trove of priceless treasures: glittering gemstones, golden coins, and intricately crafted jewelry. Zaman couldn't believe his eyes. He and Saman had discovered a long-forgotten treasure hoard, the legacy of a vanished kingdom.\n\nBut with the treasure came a challenge. A dragon, the guardian of the hoard, was awakened by their intrusion. The dragon, as tall as the tallest tree in the valley, had scales as hard as iron and eyes that glowed like embers. It rose from its slumber, enraged at the intrusion, and spread its wings wide.\n\nZaman was terrified, but his fear quickly turned to determination. He remembered the stories his father had told him about heroes from long ago, who faced fearsome beasts and impossible odds. With Saman perched bravely on his shoulder, Zaman stepped forward.\n\n\"Dragon,\" he said, his voice steady, \"I mean you no harm. I only seek to learn from the treasures of your hoard, to share the wisdom and knowledge they contain with my people. I will take only what I need and leave the rest untouched, so others may also learn from it.\"\n\nThe dragon looked at Zaman for what felt like an eternity. Its fiery eyes seemed to bore into Zaman's very soul. And then, to Zaman's surprise, the dragon spoke.\n\n\"Bold are the words of this child,\" the dragon rumbled. \"Few have dared to face me and live. Tell me, young blacksmith, do you have the courage to back up your words?\"\n\nZaman swallowed hard, but he stood his ground. \"Yes, Dragon. I do.\"\n\nThe dragon nodded. \"Then prove it. Show me your worthiness, and I shall grant your request.\"\n\nAnd so, Zaman and Saman spent several days in the hidden cave. They studied the ancient texts, deciphering the lost language of a forgotten people. Zaman absorbed the wisdom of the ages, and the dragon taught him powerful forging techniques that had been passed down through generations of dragons.\n\nAt the end of their stay, Zaman forged a magnificent gift for the dragon: a dagger with a blade as sharp as a razor and as strong as steel, adorned with gemstones from the hoard. In return, the dragon allowed Zaman to take a small portion of the treasure, enough to enrich the lives of his people in Bagh-e-Babur.\n\nZaman and Saman returned to the village, hailed as heroes. They shared their newfound knowledge and the treasure with the people, who were amazed by the wonders Zaman had brought back from the hidden cave. They lived out their days in happiness and prosperity, and the legend of Zaman and Saman, the brave blacksmith and his dragon companion, lived on in the hearts of the villagers for generations.\n\nMy dear son, as you close",
+  "categories": {
+    "curious": "mental",
+    "hardworking": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "steady": "mental",
+    "bold": "mental",
+    "courageous": "mental",
+    "worthy": "moral",
+    "skilled": "other",
+    "knowledgeable": "mental",
+    "generous.": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

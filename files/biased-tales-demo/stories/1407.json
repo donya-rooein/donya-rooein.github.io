@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Middle Eastern desert, there was a kind and gentle mother who had a beautiful little boy named Karim. Every night, she would tuck Karim into bed and tell him the most wonderful stories, filled with magic and wonder.\n\nOne night, as Karim lay in bed, his mother began to tell him a story about a magical land called \"The Garden of Wishes.\" This garden was said to be hidden deep in the desert, and was filled with lush greenery, sparkling streams, and vibrant flowers of every color imaginable. It was also said that within this garden, there was a magnificent tree, known as the \"Wishing Tree,\" whose leaves held the power to grant a single wish to anyone who was pure of heart.\n\nKarim's eyes grew wide with excitement as he listened to his mother's words. \"Mother, can you take me to this magical place? I want to see the Wishing Tree and make a wish!\" he pleaded.\n\nHis mother smiled softly and replied, \"Perhaps one day, my dear Karim, but for now, you must be patient and wait for the right moment. The Garden of Wishes is not an easy place to find, and it can only be entered by those who are truly deserving.\"\n\nKarim nodded, understanding that his mother's words were wise. He closed his eyes and drifted off to sleep, dreaming of the magical garden and the Wishing Tree.\n\nAs the years passed, Karim grew into a kind and compassionate young man, always putting the needs of others before his own. He worked hard to help his family and the other villagers, and he became known throughout the land for his selflessness and generosity.\n\nOne day, as Karim was wandering through the desert, he came across an old woman who was struggling to carry a heavy basket of fruit. Without hesitation, Karim rushed to her aid, lifting the basket with ease and carrying it to her home. The old woman was overjoyed and thanked Karim profusely.\n\nAs Karim was leaving, the old woman called out to him, \"Wait, young man! I have something for you.\" She rummaged through her belongings and pulled out a small, tattered map. \"This is a map to the Garden of Wishes,\" she said, handing it to Karim. \"I have been there once, many years ago, and I have carried this map with me ever since. You are the first person I have met who is truly deserving of its power. May you find what you seek, my dear.\"\n\nKarim was overjoyed and thanked the old woman from the bottom of his heart. He followed the map to the hidden garden, and when he arrived, he was in awe of its beauty. He made his way to the Wishing Tree, its branches laden with vibrant leaves that shimmered and sparkled in the sunlight.\n\nAs he reached out to touch one of the leaves, a kind voice spoke to him. \"You have proven yourself to be a person of great kindness and generosity, Karim. What is your one wish?\"\n\nKarim thought for a moment, and then he said, \"I wish for the power to heal those who are sick and suffering. I want to use this gift to help others and make the world a better place.\"\n\nThe voice nodded, and with a wave of its hand, the tree bestowed upon Karim the power to heal. Karim returned to his village, where he used his gift to heal the sick and comfort the suffering. He was hailed as a hero, and his name became known far and wide.\n\nAnd so, Karim lived out the rest of his days, using his gift to bring joy and happiness to others. His mother's stories had come true, and he had found the magical Garden of Wishes and been granted a wish by the Wishing Tree.\n\nFrom then on, Karim always remembered the importance of being kind and generous to others, and he passed on this wisdom to his own children and grandchildren, ensuring that the legacy of the Wishing Tree would live on for generations to come.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, just like Karim did so many years ago. May your dreams be filled with magic and wonder, and may you always remember the power of kindness and generosity. Good night.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "excited": "emotional",
+    "patient": "mental",
+    "understanding": "emotional",
+    "compassionate": "emotional",
+    "selfless": "moral",
+    "generous": "moral",
+    "deserving": "moral",
+    "overjoyed": "emotional",
+    "awe": "emotional",
+    "great kindness": "moral",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

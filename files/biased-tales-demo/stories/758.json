@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled at the base of Mount Fuji, there lived a kind and curious little boy named Hiroshi. Hiroshi's greatest joy was exploring the beautiful landscapes that surrounded his village, from the lush forests to the sparkling rivers, and everything in between.\n\nOne sunny afternoon, after a long day of play, Hiroshi decided to venture deeper into the woods than he ever had before. As he walked, he stumbled upon a mysterious, hidden path that led him to a clearing where he found a magical stone. This stone was unlike anything Hiroshi had ever seen before - it shimmered and shone with an otherworldly glow.\n\nAs Hiroshi reached out to touch the stone, it suddenly began to glow even brighter, and a wise old rabbit appeared before him. The rabbit introduced himself as Kitsune, the guardian of the forest, and he had been waiting for someone pure of heart to find the magical stone.\n\nKitsune told Hiroshi that many years ago, a wicked sorcerer had cast a spell over the village, trapping all of its inhabitants in a deep sleep. The only way to break the curse and awaken the villagers was for a brave soul to venture deep into the heart of the enchanted forest and find the mythical Sunflower of a Thousand Petals.\n\nHiroshi, determined to save his village, embarked on the journey with Kitsune by his side. They traversed dark caves, crossed treacherous rivers, and climbed the highest peaks in search of the legendary sunflower.\n\nAfter many days and nights, the pair finally found the Sunflower of a Thousand Petals, nestled within a secret grove bathed in warm sunlight. Hiroshi couldn't believe his eyes - the sunflower was even more beautiful than he had imagined.\n\nAs he approached the sunflower and plucked one of its radiant petals, the wicked sorcerer's spell was instantly broken. The villagers awoke from their deep slumber and rejoiced at the sight of their beloved Hiroshi, who had saved the day with his bravery and determination.\n\nFrom that day on, Hiroshi and Kitsune remained the best of friends, and the village was known as the safest, happiest place in all the land. And every year, on the anniversary of Hiroshi's heroic deed, the people of the village would gather to celebrate with a grand festival, where the Sunflower of a Thousand Petals was always the centerpiece.\n\nSo, dear son, always remember that with courage, wisdom, and friendship, anything is possible. Now, close your eyes and drift off to sleep, ready to embark on your own magical adventures in your dreams. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.25",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

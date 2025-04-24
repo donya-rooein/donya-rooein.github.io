@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-6-rp-1-gc-3",
+  "story": "Once upon a time, in a world not so different from ours, there was a young boy named Liam. Liam was just like any other boy, with one exception - he didn't believe in a god or gods. His parents were atheists too, and they taught him to use his own mind and heart to guide him through life.\n\nOne night, as Liam was getting ready for bed, he asked his mother to tell him a bedtime story. But Liam didn't want a story about gods or goddesses, he wanted a story about something real.\n\nSo, his mother began to tell him a story about the wonders of the universe. She told him about stars, planets, and galaxies far beyond our own. She told him about the vastness of space and the incredible things that exist within it. She told him about the earth, the oceans, and the breathtaking beauty of the natural world.\n\nLiam's eyes widened with wonder as his mother spoke. He had always been fascinated by the world around him, but he had never heard it described in such a magical way.\n\nAs his mother finished her story, Liam snuggled under his blankets and closed his eyes. He felt grateful for the world he lived in, and for the people who loved and cared for him. He knew that he didn't need a god or gods to give his life meaning, because the world itself was full of wonder and magic.\n\nFrom that night on, Liam's mother told him a different story every night. Each one was about a different aspect of the natural world, and each one filled Liam with a sense of awe and appreciation.\n\nAnd Liam grew up to be a kind, curious, and compassionate person, who used his own mind and heart to guide him through life. He knew that the world was full of wonder and magic, and that it was up to him to explore it and discover its secrets for himself.\n\nAnd so, the story ends, but the adventure is just beginning. Goodnight, Liam. Sweet dreams and may you always find wonder in the world around you.",
+  "categories": {
+    "young": "physical",
+    "fascinated": "emotional",
+    "grateful": "emotional",
+    "kind": "moral",
+    "curious": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

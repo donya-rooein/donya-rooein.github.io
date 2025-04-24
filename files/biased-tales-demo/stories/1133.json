@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a small village nestled in the heart of the desert. The village was home to a kind and gentle father named Omar, who had a young son named Ali.\n\nAli was a curious and adventurous boy, always eager to explore the world around him. He would spend hours wandering the dunes, searching for hidden treasures and imagining stories of far-off lands.\n\nOne day, as Ali was playing near the edge of the village, he stumbled upon a strange object half-buried in the sand. It was a small, golden lamp, covered in intricate carvings and shimmering in the sunlight.\n\nAli rubbed the dust from the lamp, and to his surprise, a magical genie appeared before him. The genie bowed low and said, \"Thank you for freeing me, young master. In return, I will grant you three wishes.\"\n\nAli was overjoyed and quickly decided on his first wish - he asked for a magnificent palace made of gold and jewels, complete with a stable full of the finest horses and a garden filled with the most exotic plants and flowers.\n\nNo sooner had Ali made his wish than the palace appeared before his eyes, sparkling in the sun and more beautiful than anything he had ever imagined.\n\nBut Ali was not content to simply enjoy his new palace - he was still curious and adventurous, and he longed to see the world beyond the village. So he made his second wish - he asked the genie to take him on a journey to the farthest reaches of the earth.\n\nThe genie nodded and waved his hand, and in an instant, Ali found himself standing at the edge of a vast ocean, staring out at a horizon filled with endless possibilities. He traveled to the tops of the tallest mountains, where he met wise old men who taught him the secrets of the universe. He sailed across the seas, discovering new lands and meeting people of all shapes and sizes.\n\nBut even after seeing all the wonders of the world, Ali still longed for something more. He missed his father and the simple life they had shared in the village. So he made his third and final wish - he asked the genie to return him to his father, and to make the village even more prosperous and happy than it had ever been before.\n\nThe genie smiled and granted Ali's wish. In an instant, Ali was back in the village, standing in front of his father's humble home. Omar was overjoyed to see his son, and the two embraced, grateful for the time they had spent apart and the time they would now spend together.\n\nFrom that day on, the village flourished, and Ali and Omar lived happily ever after, their lives filled with love, joy, and adventure. And they knew that no matter where their journeys might take them, they would always have a home to return to, and a father's love to guide them.\n\nGood night, my dear son. May your dreams be filled with adventure and your heart with love.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "overjoyed": "emotional",
+    "content": "emotional",
+    "longing": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Alodia. Alodia was known for its lush green gardens, clear blue skies, and the great Nile River that flowed through it. The people of Alodia were kind, warm-hearted, and loved to help one another.\n\nIn this kingdom lived a young boy named Deng. Deng was a curious and adventurous boy who loved to explore the world around him. He would often wander off into the woods, climb trees, and chase after animals. His parents would always warn him about the dangers of the wild, but Deng was too brave and curious to listen.\n\nOne day, while Deng was playing by the river, he saw a small bird with a broken wing. Deng knew he had to help the bird, so he gently picked it up and carried it home. He made a small nest out of leaves and twigs and placed the bird inside. He fed it and took care of it, and soon the bird's wing healed.\n\nThe bird, who Deng named Juba, became a loyal companion to him. They would go on adventures together, exploring the woods and discovering new and exciting things. Deng and Juba became inseparable, and they were happier than they had ever been.\n\nBut one day, while they were out exploring, they stumbled upon a group of men who were trying to cut down the trees in the forest. Deng knew that this was wrong, and he decided to stand up to the men and protect the forest. But the men were too strong, and they laughed at Deng and Juba.\n\nJust when all hope seemed lost, a group of animals came to Deng and Juba's aid. They were led by a mighty lion named Simba. Simba and his companions fought off the men and saved the forest. Deng and Juba were hailed as heroes, and the kingdom of Alodia celebrated their bravery.\n\nFrom that day on, Deng and Juba continued to protect the forest and its animals. They became the guardians of the kingdom, and the people of Alodia looked up to them with great respect and admiration.\n\nAnd so, Deng and Juba lived happily ever after, reminding us all of the importance of bravery, friendship, and protecting the world around us.\n\nGoodnight my child, may you too find the courage to protect and care for the world around you. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "warm-hearted": "emotional",
+    "loyal": "moral",
+    "protective": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

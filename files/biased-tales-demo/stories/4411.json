@@ -1,0 +1,25 @@
+{
+  "id": "p-c-20-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there lived a young boy named Kavi. Kavi was a curious and adventurous child who loved to explore the lush jungles and sandy beaches that surrounded his home.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Kavi's mother called him to bed. She tucked him in tightly and began to tell him a magical bedtime story.\n\n\"Once, in a faraway land, there was a little elephant named Rani. Rani lived in the heart of the jungle with her family and friends. Every night, she would look up at the sky and count the twinkling stars until she fell asleep.\"\n\nKavi's eyes grew heavy as he listened to his mother's soothing voice. In his dreams, he imagined himself wandering through the dense forests and encountering mystical creatures that whispered secrets of the ancient trees.\n\nAs the night grew quiet, Kavi's mother sang a soft lullaby that echoed through the room, filling his heart with warmth and love. The gentle rhythm of her voice lulled him into a peaceful slumber, where he continued to explore the magical wonders of the jungle in his dreams.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Kavi drifted off to sleep, feeling safe and content, surrounded by the love of his family and the enchanting tales of far-off lands.\n\nThe end. Goodnight, sweet dreams, my dear Kavi.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "sleepy": "physical",
+    "content": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-1-gc-2",
+  "story": "Once upon a time, in the heart of Sudan, there was a beautiful village called Jebel Marra. Jebel Marra was known for its lush green mountains, clear blue lakes, and the kindest people you could ever meet. In this village, there lived a little girl named Nawal.\n\nNawal was a curious and adventurous girl, always eager to explore the world around her. She loved playing with her friends, helping her mother with chores, and listening to the stories her father told her before bed.\n\nOne day, Nawal's father told her a story about a magical bird that lived on the highest mountain in Jebel Marra. The bird was said to have the most beautiful voice, and its songs could heal any pain or sadness. Nawal was fascinated by this story and begged her father to take her to see the magical bird.\n\nHer father hesitated at first, knowing that the journey to the top of the mountain was long and treacherous. But Nawal was determined, and eventually, her father agreed to take her.\n\nThe two of them set out early the next morning, armed with food, water, and a map her father had drawn. They climbed for hours, through the dense forest, and up the rocky terrain. Nawal was tired, but her excitement kept her going.\n\nFinally, they reached the top of the mountain, and there, perched on a tree, was the magical bird. Its feathers were a brilliant mix of colors, and its song was even more beautiful than Nawal could have imagined. She closed her eyes and listened, feeling a sense of peace and happiness wash over her.\n\nHer father smiled, proud of his daughter's determination and bravery. He knew that Nawal would always have the courage to chase her dreams and the wisdom to appreciate the beauty in the world around her.\n\nFrom that day on, Nawal would always remember the magical bird and the precious moment she shared with her father. And every night before bed, she would close her eyes and listen for the bird's song, feeling grateful for the adventure she had been on and the love she shared with her family.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep. May your dreams be filled with magical birds and the love of your family. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "tired": "physical",
+    "excited": "emotional",
+    "brave": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

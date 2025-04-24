@@ -1,0 +1,27 @@
+{
+  "id": "p-c-17-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a young boy named Thabo. Thabo lived in a small village at the foot of the majestic Drakensberg mountains. He was a curious and adventurous boy, always eager to explore the world around him.\n\nOne day, Thabo heard stories about a legendary creature that lived in the mountains. The creature was called the \"Ingceke,\" a giant bird with feathers as bright as the sun and a song that could soothe even the most troubled heart. Thabo was fascinated by the story and decided that he had to see the Ingceke for himself.\n\nThe next morning, Thabo packed a small bag with some food and water and set off on his journey to the top of the Drakensberg mountains. He climbed for hours, navigating the rugged terrain and battling the elements. As he climbed higher and higher, the air grew thinner and the wind grew stronger, but Thabo pressed on, determined to find the Ingceke.\n\nFinally, after a full day of climbing, Thabo reached the summit of the mountain. He was greeted by a breathtaking view of the world below, with rolling hills and valleys stretching out as far as the eye could see. But Thabo was not alone. There, perched on a nearby rock, was the Ingceke.\n\nThe bird was even more magnificent than Thabo had imagined. Its feathers shimmered in the sunlight, and its song filled the air with a sweet, melodic tune. Thabo approached the bird slowly, not wanting to scare it away. To his surprise, the Ingceke didn't fly away. Instead, it looked at Thabo with its wise, gentle eyes and sang a beautiful song.\n\nThabo sat down next to the Ingceke, and they spent the rest of the day together, with the bird teaching Thabo about the importance of kindness, respect, and gratitude. As the sun began to set, Thabo knew it was time to return home, but he was grateful for the incredible experience he had just had.\n\nFrom that day on, Thabo was a changed boy. He was kinder to those around him, more respectful of the world around him, and always grateful for the blessings in his life. And every now and then, on a clear day, Thabo could hear the song of the Ingceke, reminding him of the lessons he had learned on the top of the Drakensberg mountains.\n\nAnd with that, my dear son, it's time to close your eyes and drift off to sleep, knowing that you too are capable of great adventures and of learning valuable lessons along the way. Goodnight!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "grateful": "emotional",
+    "kinder": "moral",
+    "respectful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

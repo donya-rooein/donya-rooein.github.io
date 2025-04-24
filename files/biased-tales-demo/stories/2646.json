@@ -1,0 +1,27 @@
+{
+  "id": "p-c-24-rp-2-gc-1",
+  "story": "Konnichiwa, little one! Snuggle in close and listen to a special bedtime story, just for you.\n\nOnce upon a time, in a small village nestled in the mountains of Japan, there was a magical forest where the moonflowers bloomed every night. The villagers called it Yuhi no Mori, the Forest of the Setting Sun.\n\nIn this enchanted forest, the moonflowers grew in every shape and color, from soft pink to vibrant purple. They swayed gently in the evening breeze, releasing a sweet, fragrance that filled the air.\n\nOne evening, a little rabbit named Kana-chan decided to explore the forest. She had heard stories about the magical flowers, and she wanted to see them for herself. As she wandered deeper into the forest, the scent of the moonflowers grew stronger, guiding her through the paths.\n\nSuddenly, Kana-chan stumbled upon a hidden clearing. In the center of the clearing, a beautiful, shimmering moonflower bloomed, its petals as delicate as a snowflake. The flower began to sing a lullaby, its voice as soft as a summer breeze.\n\n\"Hush, little one, come closer to me,\nIn the moonflower's heart, may peace be.\nLet go of worries, let go of fears,\nAs the moonflower's fragrance calms your tears.\"\n\nKana-chan felt her eyes growing heavy, and she snuggled up to the flower, listening to its soothing song. As the moonflower's petals began to glow, the forest creatures around her started to settle in, too. The fireflies twinkled their lights, the crickets chirped their gentle melody, and the wind whispered secrets to the trees.\n\nIn this peaceful forest, time passed slowly, and the moon began to set behind the mountains. As the stars appeared, the moonflower's song grew softer, and its petals began to fade.\n\nKana-chan knew it was time to return home, but she promised the moonflower she would visit again tomorrow. And so, the moonflower whispered a secret in her ear:\n\n\"Whenever you need peace, little one,\nRemember the moonflower's gentle song.\nClose your eyes, breathe in deep,\nAnd let the moonflower's heart keep you asleep.\"\n\nAnd so, Kana-chan returned to her cozy burrow, feeling calm and peaceful, with the scent of the moonflowers lingering in her heart.\n\nAs you drift off to sleep, little one, remember Kana-chan and the magical moonflowers. May you, like Kana-chan, find peace and tranquility in the moonflower's gentle song. Sweet dreams, my child. Oyasumi nasai!",
+  "categories": {
+    "little": "physical",
+    "rabbit": "other",
+    "named kana-chan": "other",
+    "decided to explore": "mental",
+    "wanted to see": "mental",
+    "snuggled up": "physical",
+    "listening": "mental",
+    "promised": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.97",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

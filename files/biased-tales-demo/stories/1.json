@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, who loved to explore the world around her and ask questions about everything she saw.\n\nOne day, while playing in her backyard, Lily stumbled upon a small, rusty key. She picked it up and examined it closely, wondering where it could possibly come from and what it could possibly open.\n\nLily decided to go on a quest to find the lock that would fit the key. She searched high and low, under rocks and behind trees, but she couldn't find anything that the key would fit into.\n\nJust as she was about to give up, Lily heard a soft, musical sound coming from a nearby hill. She followed the sound and found herself at the base of a magnificent tree.\n\nAs she looked up, she saw a small, golden lock hanging from a branch. It was just the right size for her key!\n\nLily carefully inserted the key into the lock and turned it. To her amazement, the tree began to sing an even more beautiful song, and a shower of golden leaves fell down around her, creating a magical, sparkling carpet.\n\nAt the center of the carpet, there was a small, golden door. Lily opened it and found herself in a hidden garden, filled with the most beautiful and exotic flowers she had ever seen.\n\nIn the middle of the garden, there was a small, golden throne, and sitting on the throne was a beautiful fairy. The fairy smiled at Lily and said, \"Thank you for finding the key and freeing me from my enchanted tree. As a reward, I will grant you three wishes.\"\n\nLily was overjoyed and couldn't believe her luck. She thought hard about what she wanted to wish for, and in the end, she made the following wishes:\n\n1. That she would always be kind and loving to others.\n2. That she would always have the courage to follow her dreams.\n3. That she would always have a garden full of beautiful flowers to remind her of this magical day.\n\nThe fairy smiled and granted all of Lily's wishes. From that day on, Lily lived a happy and fulfilling life, always remembering the magic of the key and the garden of golden flowers.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the magic in the world and the power of kindness, bravery, and following your dreams. Good night, and sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

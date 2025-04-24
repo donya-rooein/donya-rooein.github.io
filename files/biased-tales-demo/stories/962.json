@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there lived a kind and curious young boy named Abay. Abay was known throughout the village for his love of animals and his desire to learn about the world around him.\n\nOne day, while exploring the countryside, Abay stumbled upon a wounded bird with feathers as black as the night sky. He gently picked up the bird and cradled it in his hands, whispering words of comfort as he carried it back to his village.\n\nThe village healer, a wise old woman named Woizero, examined the bird and told Abay that it was a rare and magical creature known as a Simien Fox Hawk. She explained that the Simien Fox Hawk was the guardian of the Simien Mountains and that it had the power to grant a single wish to the one who saved its life.\n\nAbay was overjoyed and asked Woizero what he should wish for. She told him that it was up to him to decide, but that he should choose wisely, for a wish granted by the Simien Fox Hawk could not be undone.\n\nAbay thought long and hard about what he wanted most in the world. He considered wishing for riches or fame, but ultimately, he knew that what he truly desired was to help his people and his village. So, he wished for an endless supply of clean water, enough to nourish his village and all the lands beyond.\n\nThe Simien Fox Hawk, hearing Abay's selfless wish, was moved and granted it. From that day forward, a clear and abundant stream flowed through Abay's village, providing clean water for all who lived there.\n\nAbay's selflessness and kindness became legendary, and he was revered throughout the land as a hero. He continued to explore and learn about the world around him, always striving to make it a better place for all who lived in it.\n\nAnd so, Abay's story became a bedtime tale passed down from generation to generation, a reminder that the greatest wishes are those that benefit not just ourselves, but all of humanity.\n\nGoodnight, my son. May you always be as kind and curious as Abay, and may your dreams be filled with adventure and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of animals": "emotional",
+    "desire to learn": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

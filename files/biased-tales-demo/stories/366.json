@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Brazil, there was a young boy named João. João was a kind and curious boy who loved exploring the lush forests and crystal-clear rivers that surrounded his home.\n\nOne day, while playing near the river, João stumbled upon a curious stone that shimmered and glowed in the sunlight. As he picked it up and examined it, he noticed that the stone seemed to have a magic of its own. It was warm to the touch, and it seemed to hum with a quiet, soothing energy.\n\nJoão took the stone home and showed it to his father, who was a wise and respected man in the village. His father told him that the stone was a rare and powerful artifact, passed down through generations of their family. It was said to grant the person who possessed it great wisdom and insight.\n\nExcited by the prospect of gaining this wisdom, João decided to keep the stone and treasure it always. But as he grew older, he began to realize that the true wisdom of the stone was not in its power, but in the lessons it taught him about the world around him.\n\nFor every time João held the stone and focused on its gentle hum, he was taken on a journey to a far-off place, where he could see and experience the beauty and wonder of the world in a new way. He saw the vast expanse of the universe, the intricate patterns of nature, and the myriad of creatures that shared the planet with him.\n\nThese journeys gave João a deep appreciation for the interconnectedness of all things and a profound respect for the natural world. He became a guardian of the forest and the rivers, protecting the creatures that lived there and teaching others to do the same.\n\nAnd as he grew into a wise and respected man in his own right, João never forgot the lessons he had learned from the magical stone. He knew that true wisdom came not from power or possessions, but from a deep understanding of the world and a commitment to protecting it for future generations.\n\nSo every night, as João put the stone away and prepared for bed, he would look up at the stars and say a quiet thank you for the gift of wisdom that had been passed down to him. And he knew that as long as he held the stone close to his heart, he would always be connected to the beauty and wonder of the world around him.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, knowing that the wisdom of the world is all around you, waiting to be discovered. Goodnight, my dear one, and may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "respected": "moral",
+    "appreciative": "emotional",
+    "protective": "emotional",
+    "understanding": "emotional",
+    "connected": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "72.39",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

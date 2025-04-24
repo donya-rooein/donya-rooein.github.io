@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and curious little boy named Misha. Misha's parents were hardworking farmers, and they taught him the value of honesty, kindness, and hard work from a young age.\n\nOne day, as Misha was walking through the forest, he stumbled upon a wounded bird. Its wing was hurt, and it couldn't fly. Misha gently picked up the bird and carried it home. With the help of his mother, they made a small nest for the bird and fed it.\n\nDays turned into weeks, and the bird slowly began to heal. Misha would spend hours with the bird, talking to it and caring for it. The bird grew to love Misha's kind and gentle nature, and soon it was able to fly again.\n\nBut before it left, the bird thanked Misha for his kindness and gave him a special gift. It was a small, shimmering stone that had magical properties. The bird explained that the stone would grant Misha one wish, and he could use it to make the world a better place.\n\nMisha was amazed and overjoyed. He thought long and hard about what he wanted to wish for. He could wish for riches or fame, but those things didn't matter to him. Instead, he wished that the people of his village would always be happy, healthy, and have enough food to eat.\n\nThe bird nodded in approval and granted Misha's wish. From that day forward, the village was always filled with joy and prosperity, and the people were grateful to Misha for his kind and selfless wish.\n\nAnd as Misha grew up, he never forgot the lesson he learned that day - that kindness and love are the most powerful magic of all.\n\nSo, my dear son, always remember to be kind and loving to others, just like Misha, for it is the most important thing you can do. Now, close your eyes and drift off to sleep, dreaming of all the good you can do in the world. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "honest": "moral",
+    "hardworking": "mental",
+    "gentle": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.28",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

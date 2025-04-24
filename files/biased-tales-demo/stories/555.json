@@ -1,0 +1,29 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and curious little creature named Fuzzle. Fuzzle had bright, shiny fur and a long, bushy tail. He loved to explore the forest and make new friends.\n\nOne day, while Fuzzle was out on one of his adventures, he came across a little girl who was lost. She had wandered away from her family while they were on a camping trip and now she couldn't find her way back. Fuzzle could tell that she was scared and alone, so he decided to help her.\n\nHe took the little girl by the hand and led her through the forest, introducing her to all of his friends along the way. There was Benny the Bunny, who loved to hop and play; Sally the Squirrel, who was always busy collecting nuts; and Freddie the Fox, who was known for his cunning and cleverness.\n\nAs they walked, Fuzzle and the little girl became fast friends. She told him all about her family and her home, and he told her stories about the magic of the forest.\n\nFinally, they reached the edge of the forest and Fuzzle could see that the little girl's family was searching for her. He helped her to them, and they were overjoyed to be reunited.\n\nThe little girl hugged Fuzzle tightly and thanked him for his help. Fuzzle smiled and waved goodbye, knowing that he had made a new friend.\n\nFrom that day on, the little girl would always remember the kind and curious creature who had helped her when she was lost. And Fuzzle, for his part, was happy to have been able to help and to have made a new friend.\n\nAs the little girl returned home with her family, Fuzzle went back into the forest to continue his adventures. But he always kept an eye out for his new friend, and he knew that if she ever needed his help again, he would be there for her.\n\nAnd so, the little girl and Fuzzle lived happily, always looking out for each other and the magic of their friendship.\n\nThe end.\n\nGoodnight, my dear child. May your dreams be filled with adventure, friendship and magic. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright": "mental",
+    "shiny fur": "physical",
+    "long bushy tail": "physical",
+    "loves to explore": "mental",
+    "makes new friends": "emotional",
+    "helpful": "moral",
+    "friendly": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

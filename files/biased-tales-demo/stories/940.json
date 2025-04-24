@@ -1,0 +1,26 @@
+{
+  "id": "p-c-16-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and learn new things. She would spend hours playing in the fields and forests near her home, discovering all sorts of interesting plants, animals, and insects.\n\nOne day, Ada stumbled upon a beautiful butterfly with wings the color of the sunset. She had never seen anything like it before, and she was captivated by its beauty. She watched as the butterfly fluttered around her, and she wondered where it had come from and where it was going.\n\nSuddenly, the butterfly spoke to her. \"Hello, little one,\" it said. \"I am the Butterfly Queen, and I have been watching you. I can tell that you are kind and curious, just like me. I have a special gift for you.\"\n\nAda was surprised and delighted. She had never heard a butterfly speak before! She asked, \"What is the gift, Butterfly Queen?\"\n\nThe Butterfly Queen smiled. \"I will grant you one wish, my dear. Anything your heart desires, I will make it come true. But remember, with great power comes great responsibility. Use your wish wisely.\"\n\nAda thought for a moment. She had so many things she wanted to wish for - a new dress, a toy, a puppy. But then she remembered the Butterfly Queen's words and decided to wish for something that would help others.\n\n\"I wish for a garden,\" she said. \"A garden that will grow beautiful flowers and delicious fruits and vegetables. A garden that will provide food and shelter for all the creatures in the village, including the butterflies.\"\n\nThe Butterfly Queen was pleased with Ada's wish. \"Your garden will be the most beautiful and bountiful in all the land,\" she said. \"But remember, it will require hard work and care to keep it thriving. Are you ready for that responsibility?\"\n\nAda nodded eagerly. \"Yes, I am ready!\"\n\nAnd so, the Butterfly Queen granted Ada's wish, and a beautiful garden grew in the village. Ada tended to it every day, watering the plants and chasing away any pests that might harm them. She watched as butterflies, bees, and birds flitted among the flowers, and she smiled as the villagers harvested the fruits and vegetables.\n\nAda's garden became the pride of the village, and she was celebrated as a hero for her kind and wise wish. She continued to tend to the garden for many years, and it remained a source of beauty and nourishment for all who visited it.\n\nAnd every now and then, the Butterfly Queen would visit Ada in the garden, and they would share stories and laughter under the warm Nigerian sun.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "surprised": "emotional",
+    "delighted": "emotional",
+    "wise": "mental",
+    "responsible": "moral",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.15",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "75.91",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-2-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of a lush green valley, there lived a kind and gentle girl named Mei. Mei was a wonderful daughter, always eager to help her parents and do her best in everything she did.\n\nOne day, Mei's mother gave her a small, delicate seed and told her to plant it in their garden. Mei was thrilled and carefully planted the seed in the soft, rich soil. She watered it every day and made sure it had plenty of sunlight.\n\nDays turned into weeks, and weeks turned into months, and slowly but surely, a tiny sprout began to emerge from the soil. Mei was overjoyed and continued to care for the plant with love and devotion.\n\nAs the seasons changed and the weather grew colder, Mei's plant began to lose its leaves and looked as though it was going to die. But Mei did not give up on her plant. She continued to care for it, wrapping it in a warm blanket and giving it extra water to help it survive the winter.\n\nTo Mei's delight, the plant survived the winter and began to grow again in the spring. And as the days went by, the plant grew taller and stronger, until it was a beautiful, tall tree with fragrant blossoms and sweet, delicious fruit.\n\nMei's tree became the pride of the village, and people would come from far and wide to marvel at its beauty and taste its sweet fruit. And Mei was happy, knowing that her love and care had helped the tree to grow and thrive.\n\nFrom that day on, Mei learned the importance of patience, perseverance, and love in caring for something precious. And she grew up to be a wise and compassionate woman, respected and loved by all who knew her.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Mei and her tree. Cultivate patience, perseverance, and love in all that you do, and you too will grow to be a strong and beautiful person, just like Mei. Good night, my dear. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wonderful": "other",
+    "eager": "emotional",
+    "thrilled": "emotional",
+    "overjoyed": "emotional",
+    "devoted": "emotional",
+    "patient": "mental",
+    "perseverant": "mental",
+    "loving": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "respected": "moral",
+    "loved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

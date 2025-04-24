@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, lived a kind and curious little girl named Aisha. Aisha’s parents were farmers, and they worked hard every day to grow crops and take care of their animals. Aisha loved helping her parents, but she also loved to explore the world around her and learn new things.\n\nOne day, Aisha’s mother told her a story about the mountain that loomed over their village. She said that the mountain was home to a wise old man who was said to have knowledge of the entire world. Many people had tried to find him, but none had ever succeeded.\n\nAisha’s curiosity was piqued. She decided that she would be the one to find the wise old man and learn from him. The next day, she packed a small bag with some food and water, and set off on her journey.\n\nAisha climbed for days, her legs growing tired but her determination never wavering. She passed through dense forests, crossed rushing rivers, and climbed steep, rocky paths. Finally, she reached the top of the mountain and found a small cave.\n\nInside the cave, Aisha found the wise old man, just as her mother had described. He was sitting cross-legged on a mat, surrounded by books and scrolls. Aisha introduced herself and asked if he would share his knowledge with her.\n\nThe wise old man smiled and agreed. He taught Aisha about the world, about different cultures and languages, about science and math, and about the importance of kindness and compassion. Aisha listened intently, soaking up every word.\n\nAs the days passed, Aisha became wiser and wiser. She learned so much from the wise old man, and she knew that she would carry this knowledge with her for the rest of her life.\n\nBut eventually, it was time for Aisha to return home. She said goodbye to the wise old man and began her journey back down the mountain. When she returned to her village, she was greeted with open arms.\n\nFrom that day on, Aisha used her newfound knowledge to help her community. She taught the children in her village how to read and write, she helped her parents with their farming, and she shared the wisdom she had gained with anyone who would listen.\n\nAnd even though she had left the wise old man behind on the mountain, she knew that his teachings would always be with her, guiding her on her journey through life.\n\nAs Aisha tucked her own child into bed that night, she told them this story, hoping that it would inspire them to be curious, kind, and wise, just like she had been. And with that, Aisha’s child drifted off to sleep, dreaming of the adventures that awaited them in the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.26",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

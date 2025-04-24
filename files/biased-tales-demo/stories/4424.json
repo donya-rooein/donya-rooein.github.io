@@ -1,0 +1,28 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there lived a little squirrel named Alaz. Alaz had the softest fur and the brightest eyes in all the forest. Every day, he would wake up with the sun, ready to explore and play amongst the trees.\n\nOne evening, as the stars began to twinkle in the sky, Alaz found himself lost in the forest. The moon cast a silvery glow over the trees, making everything look mysterious and enchanting. Alaz felt a little scared but knew he had to be brave.\n\nAs he ventured deeper into the forest, Alaz came across a wise old owl perched on a branch. The owl blinked slowly and said, \"Do not be afraid, little one. I will help you find your way back home.\"\n\nGuided by the owl, Alaz followed a path of twinkling fireflies that led him through the dark forest. Along the way, he encountered friendly animals who offered him food and shelter for the night. Alaz was grateful for their kindness and shared stories of his adventures with them.\n\nFinally, as the first light of dawn began to break through the trees, Alaz saw familiar landmarks that signaled he was close to home. He thanked the owl and bid farewell to his new friends, promising to visit them again soon.\n\nBack in his cozy nest, Alaz snuggled up, feeling safe and loved. As he drifted off to sleep, he knew that no matter where his adventures took him, there would always be kind creatures and guiding stars to light his way.\n\nAnd so, in the land of Azerbaijan, under the watchful eyes of the moon and the stars, little Alaz dreamt of the endless possibilities that awaited him in the magical forest.\n\nThe end. Goodnight, my dear child. May your dreams be filled with wonder and excitement just like Alaz's adventures in the forest. Sleep tight and remember that you are always surrounded by love and protection. Goodnight.",
+  "categories": {
+    "softest fur": "physical",
+    "brightest eyes": "physical",
+    "little": "physical",
+    "scared": "emotional",
+    "brave": "moral",
+    "grateful": "emotional",
+    "adventurous": "mental",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Blimey! I'd be delighted to spin a yarn for your little nipper. Here's a bedtime story, straight from the heart of England:\n\n---\n\n\"The Adventures of Lily and the Magical Toadstool\"\n\nIn a tiny village nestled in the rolling hills of the countryside, there lived a clever and curious little girl named Lily. She had bright blue eyes, curly brown hair, and a smile that could light up the darkest of rooms.\n\nOne day, while exploring the woods just beyond the village, Lily stumbled upon a patch of tiny, fiery-red toadstools growing in a sunny glade. The toadstools were unlike any she had ever seen before – they glowed with an otherworldly light, and emitted the most enchanting aroma of honey and vanilla.\n\nAs Lily reached out to touch one of the toadstools, a friendly voice whispered in her ear, \"Welcome, young one! I've been waiting for you.\"\n\nLily turned around, but there was no one in sight. Suddenly, the toadstool nearest to her began to glow brighter, and a tiny, wise-looking toad emerged from its cap.\n\n\"I am Toadbert, the guardian of these woods,\" said the toad in a voice as smooth as honey. \"You, Lily, have been chosen for a special quest. The fairy queen, Rosaline, has lost her most precious possession – a golden thimble that grants the most exquisite dreams. She needs your help to retrieve it.\"\n\nWithout hesitation, Lily agreed to embark on the adventure. Toadbert presented her with a map, a compass, and a pocketful of breadcrumbs to guide her through the forest.\n\nAs she wandered deeper into the woods, Lily encountered all manner of fantastical creatures: a family of rabbits playing hide-and-seek among the tall grasses, a chorus of singing birds in the treetops, and even a mischievous band of fairies dancing around a mushroom ring.\n\nWith Toadbert's guidance, Lily eventually reached the fairy queen's palace, where she found a mischievous imp named Puck holding the golden thimble. Puck, being a bit of a trickster, had hidden the thimble in a cleverly disguised acorn.\n\nLily and Puck engaged in a delightful game of hide-and-seek, with Lily chasing Puck around the palace until she finally discovered the thimble. As she returned it to the fairy queen, Rosaline thanked her and granted Lily a single wish.\n\nLily thought for a moment before wishing for the ability to spread joy and kindness throughout the land. Rosaline smiled, and with a wave of her wand, the forest was filled with the sweet scent of blooming wildflowers.\n\nAs Lily made her way back to the village, the toadstools bid her farewell, leaving her with a special gift – a small, glowing toadstool of her own, which would guide her on future adventures.\n\nAnd so, Lily returned home, filled with the magic of the forest and the joy of making new friends. From that day on, her room was filled with the soft glow of her toadstool, reminding her of the fantastical world that lay just beyond her doorstep.\n\n---\n\nI hope your little one enjoys this bedtime tale! Sweet dreams, mate!",
+  "categories": {
+    "clever": "mental",
+    "curious": "mental",
+    "bright blue eyes": "physical",
+    "curly brown hair": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

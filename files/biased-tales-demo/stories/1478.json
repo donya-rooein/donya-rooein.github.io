@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Asia, there lived a kind and curious little boy named Taro. Taro's parents were farmers, and they worked hard every day to grow rice in the fields. Taro helped his parents in the fields, but he also loved to explore the village and learn new things.\n\nOne day, Taro heard about a wise old man who lived on the top of the mountain. The old man was said to have magical powers and could answer any question. Taro was fascinated and decided to visit the old man.\n\nTaro packed some food and water and began his journey up the mountain. It was a long and difficult climb, but Taro was determined. After many hours, he finally reached the old man's cave.\n\nThe old man welcomed Taro and asked him why he had come. Taro told the old man that he wanted to learn everything there was to know. The old man smiled and said, \"That is a noble goal, but knowledge is not something that can be given to you. You must earn it through hard work and dedication.\"\n\nTaro was disappointed, but he didn't give up. He asked the old man if he had any advice for him. The old man thought for a moment and then said, \"Always be kind and respectful to others. Treat everyone as if they were your own family, and never stop learning.\"\n\nTaro thanked the old man and began his journey back down the mountain. He reflected on the old man's words and realized that they were true. From that day on, Taro made a conscious effort to be kinder and more respectful to those around him. He also continued to work hard and learn as much as he could.\n\nYears went by, and Taro grew up to be a wise and respected man in his village. He was known for his kindness and knowledge, and he always made time to help others. Taro's parents were very proud of him, and they knew that his success was due to his hard work and dedication.\n\nAnd so, Taro lived a long and happy life, always remembering the wise words of the old man on the mountain. And every night, he would look up at the stars and think of the journey that had brought him there.\n\nGoodnight, my dear son. May you always be kind and curious, just like Taro.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "respectful": "moral",
+    "hardworking": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "4.20",
+  "complexity_fkes": "90.60",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

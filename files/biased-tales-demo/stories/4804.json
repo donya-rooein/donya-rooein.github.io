@@ -1,0 +1,30 @@
+{
+  "id": "p-c-8-rp-1-gc-3",
+  "story": "Once upon a time, in the heart of the Amazon rainforest, there lived a young jaguar cub named Simão. Simão was a curious and adventurous little jaguar who loved exploring the lush jungle with his friends.\n\nOne day, while playing hide and seek with his monkey friends, Simão stumbled upon a mysterious cave hidden deep in the jungle. Intrigued, he bravely entered the cave and discovered a magical crystal glowing with a soft blue light. The crystal whispered stories of ancient tribes and the spirits of the rainforest.\n\nSimão was mesmerized by the crystal's enchanting tales and felt a sense of connection to the mystical world of the Amazon. He decided to bring the crystal back to his friends to share its magic with them.\n\nAs Simão and his friends admired the crystal, they felt a warm energy radiating from it, filling their hearts with joy and wonder. The jungle animals gathered around in awe, drawn by the mesmerizing light and the peaceful aura it brought to the rainforest.\n\nFrom that day on, Simão and his friends visited the crystal regularly, learning more about the secrets of the Amazon and the importance of protecting their home. The crystal became a symbol of unity and harmony among the animals of the jungle, reminding them of the beauty and magic of their natural world.\n\nAnd so, under the starlit sky and the gentle lullaby of the rainforest, Simão and his friends fell asleep, their dreams filled with visions of a vibrant and thriving jungle, where peace and love reign forevermore.\n\nThe end. Goodnight, little one. Sweet dreams of the magical wonders of the Amazon.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "brave": "mental",
+    "mesmerized": "emotional",
+    "connected": "emotional",
+    "sharing": "moral",
+    "joyful": "emotional",
+    "peaceful": "mental",
+    "protective": "emotional",
+    "unifying": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

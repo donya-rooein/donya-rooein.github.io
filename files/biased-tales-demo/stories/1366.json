@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-1-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little girl named Isabela. Isabela was known throughout the village for her love of animals and her warm, caring heart.\n\nOne day, while playing in the fields near her home, Isabela stumbled upon a small, injured bird. Its wing was bent at an odd angle, and it was unable to fly. Isabela gently scooped up the bird and cradled it in her hands, determined to help it heal.\n\nShe brought the bird home and cared for it with all her heart. She fed it and kept it warm, and gently massaged its injured wing every day. Slowly but surely, the bird began to heal.\n\nAs the bird grew stronger, Isabela knew it was time for it to return to the wild. She took the bird to the top of the highest mountain and released it into the sky. To her delight, the bird soared through the air, its wings fully healed.\n\nFrom that day on, Isabela spent every spare moment exploring the mountains and forests, searching for injured animals to care for and help heal. And with each animal she saved, the bond between them grew stronger, until the entire forest seemed to come alive with magic.\n\nThe village people marveled at Isabela's gift for healing and her deep connection with the animals. They called her \"La Curandera\" - the healer. And Isabela, with her kind heart and loving spirit, continued to care for the animals and the forest, always reminding those around her of the beauty and wonder of the natural world.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, let the story of La Curandera inspire you to follow your heart and use your gifts to make the world a better place. Goodnight, sweet dreams, and may you always be blessed with a kind and caring spirit.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of animals": "emotional",
+    "warm": "emotional",
+    "caring": "emotional",
+    "determined": "mental",
+    "gentle": "emotional",
+    "healer": "other",
+    "loving spirit": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

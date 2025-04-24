@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful land called Azerbaijan, there was a kind and curious little boy namedAli. Ali lived in a cozy village at the foot of the majestic Caucasus Mountains. He loved to explore the natural beauty of his homeland, from the crystal-clear rivers to the lush green forests.\n\nOne day, while Ali was wandering through the woods, he came across a small, injured bird. The bird had a broken wing and couldn't fly. Ali knew he had to help, so he gently picked up the bird and carried it back to his village.\n\nThe village healer examined the bird and told Ali that it would take some time for the wing to heal, but with rest and care, the bird would be able to fly again. Ali was determined to take care of the bird and nurse it back to health.\n\nHe built a small nest for the bird and fed it every day. He talked to the bird and sang to it, and slowly but surely, the bird's wing began to heal.\n\nAs the days passed, Ali and the bird became the best of friends. They would spend hours together, with Ali telling the bird stories about his adventures and the bird chirping along.\n\nFinally, the day came when the bird's wing was healed and it was time for it to fly again. Ali took the bird to the top of a hill and held it in his hands. He whispered a goodbye and wished the bird a safe journey.\n\nWith a flutter of its wings, the bird took off into the sky, soaring higher and higher until it disappeared from sight. Ali watched with a smile on his face, proud of the friend he had helped and the bond they had shared.\n\nFrom that day on, Ali knew that no matter where he went or what he did, he would always have a special place in his heart for the little bird that had taught him so much about kindness and friendship.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream sweet dreams. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "caring": "emotional",
+    "nurturing": "emotional",
+    "friendly": "emotional",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "86.23",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

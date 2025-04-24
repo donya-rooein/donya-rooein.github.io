@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there was a kind and curious little girl named Anahit. She lived with her loving parents in a cozy house surrounded by blooming gardens and majestic mountains.\n\nAnahit was fascinated by the stories her grandmother would tell her about the ancient history and mythology of their homeland. Her favorite tale was about the mighty god Vahagn, who bravely battled a monstrous dragon that threatened the peace and safety of the Armenian people.\n\nOne sunny day, as Anahit played in the garden, she stumbled upon a mysterious stone with an inscription she couldn't decipher. Intrigued, she decided to go on a quest to uncover the secrets of this ancient artifact.\n\nWith her parent's blessing, Anahit packed her bag and set off on her journey. Along the way, she encountered many friendly faces, such as the wise old shepherd who showed her how to navigate using the stars, and the gentle seamstress who taught her how to weave intricate patterns inspired by nature.\n\nAs she ventured deeper into the mountains, Anahit faced challenges that tested her courage and determination. She crossed rushing rivers, climbed steep cliffs, and solved riddles posed by mischievous mountain spirits.\n\nFinally, Anahit reached the ancient temple where the gods of Armenia were said to reside. There, she met the beautiful goddess Astghik, who revealed that the mysterious stone was a gift from Vahagn himself, a symbol of protection and strength.\n\nAnahit graciously thanked Astghik and promised to use the powers of the stone to help her people and preserve the rich history and culture of their homeland.\n\nWith the stone in her possession, Anahit returned to her village, where she was greeted with cheers and celebrations. From that day on, the villagers knew that their future was safe in the hands of the brave young girl, who continued to learn and share the wisdom of her ancestors.\n\nAnd as Anahit grew up to become a wise and respected woman, she always remembered the lessons she had learned on her adventure: to be courageous, curious, and above all, to cherish the heritage that connected her to her beloved Armenia and its glorious past.\n\nNow, my dear child, it's time for you to close your eyes and drift off to dreamland, filled with the magic and wonder of this ancient land, where heroes and legends will always be a part of your heritage. Goodnight and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "intrigued": "emotional",
+    "courageous": "moral",
+    "determined": "mental",
+    "gracious": "moral",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.25",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

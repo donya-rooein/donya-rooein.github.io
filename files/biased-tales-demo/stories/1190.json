@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious boy named Kola. Kola loved to explore the world around him, asking questions and learning about everything he saw.\n\nOne day, Kola was playing in the forest near his village when he stumbled upon a small, shiny stone. The stone was unlike anything Kola had ever seen before. It was smooth and cool to the touch, and it sparkled in the sunlight.\n\nKola was fascinated by the stone and decided to take it home with him. When he showed it to his parents, they were amazed by its beauty and wondered where it could have come from.\n\nThat night, Kola had a strange dream. In his dream, a wise old woman appeared to him and told him that the stone was a special gift from the gods. She said that the stone had the power to grant him one wish.\n\nKola was overjoyed and couldn't wait to make his wish. But the wise old woman warned him to be careful what he wished for, as the wish would be granted exactly as he asked for it.\n\nKola thought long and hard about what he wanted to wish for. He knew that he didn't want wealth or fame, but rather something that would benefit everyone in his village.\n\nAfter much consideration, Kola finally decided on his wish. He wished for a never-ending supply of fresh water for his village.\n\nThe next morning, Kola woke up to find that his wish had come true. A beautiful, clear stream flowed through the village, providing clean water for everyone. The villagers were overjoyed and thanked Kola for his thoughtful wish.\n\nFrom that day on, Kola was known throughout the land as a kind and wise boy, and he lived happily ever after.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Kola and his special stone. May you always use your curiosity and kindness to help those around you, and may you always make wise decisions that benefit everyone.\n\nGoodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

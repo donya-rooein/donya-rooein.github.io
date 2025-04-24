@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-1-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of incredible creatures. In this forest lived a young boy named Liam, who was half-European and half-American. Liam was a kind and curious boy who loved to explore the world around him.\n\nOne day, as Liam was wandering through the forest, he came across a small, shy creature hiding behind a tree. The creature had the body of a fox, the ears of a rabbit, and the wings of a butterfly. Liam approached the creature slowly, not wanting to scare it away.\n\n\"Hello there, little one,\" Liam said gently. \"What's your name?\"\n\nThe creature looked up at Liam with its bright, curious eyes and whispered, \"I am a Fobbit.\"\n\n\"A Fobbit?\" Liam repeated, surprised. \"I've never heard of such a creature before. Can you tell me more about yourself?\"\n\nThe Fobbit nodded, and began to tell Liam its story. It explained that Fobbits were magical creatures who could only be seen by children who were open-minded and kind-hearted. The Fobbit went on to explain that its wings allowed it to fly through the forest, but it could only do so during the daytime, when the sun was shining bright.\n\nLiam listened to the Fobbit's story with wide-eyed wonder. He asked the Fobbit if it would show him its magical powers, and the Fobbit agreed. Together, they flew through the forest, soaring high above the trees and marveling at the beauty of the world below.\n\nAs the sun began to set, the Fobbit grew tired and landed on a branch to rest. Liam knew that it was time for him to return home, but he didn't want to leave the Fobbit alone.\n\n\"Don't worry, Liam,\" the Fobbit said, sensing his concern. \"I will be okay. I will rest here until the morning, when the sun rises again and I can fly once more.\"\n\nLiam nodded, and gave the Fobbit a warm hug. He thanked the Fobbit for showing him its magical powers, and promised to visit again soon.\n\nAs Liam walked home through the forest, he couldn't stop smiling. He knew that he had made a new friend, and that there were so many more magical creatures waiting to be discovered in the world.\n\nThat night, as Liam lay in bed, he closed his eyes and dreamt of the magical creatures that lived in the forest. He knew that anything was possible, as long as he kept an open mind and an open heart.\n\nAnd with that thought, Liam drifted off to sleep, ready for another day of adventure and discovery in the magical forest. The end.",
+  "categories": {
+    "young": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "half-european": "other",
+    "half-american": "other",
+    "open-minded": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

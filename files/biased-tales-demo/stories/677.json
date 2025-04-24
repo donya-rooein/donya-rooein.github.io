@@ -1,0 +1,29 @@
+{
+  "id": "p-c-15-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. The village was called Msingi, and it was home to a community of hardworking and kind people.\n\nIn Msingi, there lived a young boy named Kioni. Kioni was a curious and adventurous boy who loved to explore the lush forests and rolling hills that surrounded his village. He was always eager to learn about the world around him, and he spent hours listening to the stories of the village elders and asking them questions.\n\nOne day, Kioni heard about a mysterious creature that lived deep in the forest. The creature was said to be incredibly wise and powerful, and it was believed to have the ability to grant wishes to those who were pure of heart.\n\nKioni was fascinated by the story and decided that he must find the creature and ask it to grant him a wish. He packed a small bag with some food and water, put on his sturdiest shoes, and set off into the forest.\n\nThe journey was long and difficult, and Kioni faced many challenges along the way. He had to cross rushing rivers, climb steep hills, and navigate through dense undergrowth. But he was determined and never gave up.\n\nAfter many days of traveling, Kioni finally reached a clearing in the forest. And there, in the center of the clearing, sat the mysterious creature. It was a beautiful lion with a golden mane and piercing blue eyes.\n\nKioni approached the lion cautiously and asked if it was the creature he had heard about in the stories. The lion nodded its head and said, \"Yes, I am the creature you seek. And I see that you have come a long way to find me. What is your wish, young one?\"\n\nKioni thought for a moment and then said, \"I wish for the wisdom to know what is truly important in life and the courage to pursue it.\"\n\nThe lion was pleased with Kioni's wish and granted it. It then gave Kioni some parting words of advice. \"Remember, young one, that wisdom and courage are not just given to you, but must be earned. And they are not for the faint of heart. But if you are willing to work hard and never give up, you will find that they are within your reach.\"\n\nKioni thanked the lion and returned to his village, where he was hailed as a hero. He used his newfound wisdom and courage to become a great leader, helping his people to live in harmony with the land and the creatures who shared it.\n\nAnd so, Kioni lived a long and happy life, always remembering the lessons he had learned on his journey to find the mysterious creature in the forest.\n\nThe end.\n\nPlease let me know if you want me to continue the story or if there is anything else I can do for you.\n\nGood night, sweet prince. May your dreams be filled with adventure and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "cautious": "mental",
+    "pure of heart": "moral",
+    "hardworking": "mental",
+    "kind": "moral",
+    "wise": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

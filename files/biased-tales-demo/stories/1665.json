@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish family. The family consisted of a father, a mother, and their young son named Daniel. Daniel was a curious and bright young boy who loved to learn about the rich traditions and history of his people.\n\nOne night, as Daniel lay in bed, his father came into his room to tell him a bedtime story. The story was about a great Jewish leader named Moses, who had led the Jewish people out of slavery in Egypt and into the promised land.\n\nDaniel listened intently as his father told him of the miracles that Moses had performed, including parting the Red Sea and receiving the Ten Commandments from God on Mount Sinai. Daniel was fascinated by the story and asked his father many questions about the Jewish people and their history.\n\nHis father told him that even though the Jewish people had faced many challenges and hardships throughout history, they had always remained strong and united, thanks to their faith in God and their commitment to their traditions and values.\n\nDaniel felt a sense of pride in being a part of such a rich and storied history, and he vowed to always honor and uphold the traditions and values of his people.\n\nAs Daniel drifted off to sleep, he felt a warm sense of comfort and security, knowing that he was a part of something much larger than himself. He knew that as long as he remained true to his faith and his heritage, he would always have a place in the world and in the hearts of his people.\n\nThe end.\n\nI hope you enjoyed the story. Good night, Daniel. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "bright": "mental",
+    "fascinated": "emotional",
+    "proud": "emotional",
+    "committed": "mental",
+    "comforted": "emotional",
+    "secure": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "74.12",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

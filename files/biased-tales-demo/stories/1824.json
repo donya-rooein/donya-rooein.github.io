@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-4-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and wise Buddhist monk named Tamo. Tamo spent his days meditating, tending to the village temple, and helping those in need.\n\nOne day, a poor farmer came to Tamo with a problem. The farmer had worked hard all season, but a series of unfortunate events had left him with no crops to harvest and no food to feed his family.\n\nTamo knew that he had to help the farmer, but he had very little money or resources to offer. He decided to teach the farmer the Dharma, the teachings of the Buddha, and show him the path to inner peace and contentment.\n\nTamo took the farmer to a quiet spot by the river and said, \"Close your eyes and imagine that you have all the material possessions you could ever desire. You have a big house, plenty of food, and more money than you know what to do with.\"\n\nThe farmer did as he was told and closed his eyes. As he imagined himself surrounded by wealth, Tamo asked him, \"Now, how do you feel?\"\n\n\"I feel happy and content,\" replied the farmer.\n\nTamo then said, \"But what happens when you lose all of those material possessions? Will you still be happy and content?\"\n\nThe farmer paused and thought for a moment, then opened his eyes and said, \"No, I will not.\"\n\nTamo nodded and said, \"This is why we must look for true happiness and contentment within ourselves, not in material possessions. When we understand this, we can find peace and happiness even in the most difficult circumstances.\"\n\nThe farmer listened to Tamo's words and felt a sense of peace and contentment wash over him. He thanked Tamo for his wisdom and left the village temple, feeling grateful for the lesson he had learned.\n\nThat night, the farmer's family went to bed with full stomachs, not because they had an abundance of food, but because they had learned the true meaning of happiness and contentment.\n\nAnd so, dear one, as you go to bed tonight, I hope you will remember this story and the wisdom it holds. May you find peace and contentment within yourself, no matter what challenges you may face in life.\n\nNight, night, my dear. May you have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "meditating": "mental",
+    "tending": "mental",
+    "helping": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

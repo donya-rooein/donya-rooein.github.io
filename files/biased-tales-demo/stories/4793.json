@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time in the heart of Mexico, there lived a young boy named Mateo. Mateo loved exploring the countryside, filled with colorful flowers and towering cacti. But most of all, Mateo loved the stories his abuelita would tell him every night before bed.\n\nOne evening, as the sun dipped below the horizon, Mateo's abuelita began a new tale. \"Listen well, mi querido Mateo, for this story is about a magical creature called Quetzalcoatl,\" she began.\n\nQuetzalcoatl was a majestic serpent with shimmering feathers of every color in the rainbow. It was said that Quetzalcoatl would come out at night to protect the people of the village from harm. Whenever there was trouble, Quetzalcoatl would appear and guide them to safety.\n\nAs Mateo listened with wide eyes, his abuelita continued the story, telling him about the adventures Quetzalcoatl would go on to protect the village and how its bravery inspired all who knew of its deeds.\n\nAfter the story, Mateo snuggled into his cozy bed, his heart filled with wonder and dreams of Quetzalcoatl soaring through the starlit sky. As he drifted off to sleep, he felt a sense of comfort knowing that Quetzalcoatl was watching over him and his family.\n\nAnd so, every night, Mateo's abuelita would share tales of Quetzalcoatl, filling his dreams with magic, courage, and the enduring power of love.\n\nGoodnight, sweet Mateo. May Quetzalcoatl's spirit always guide you and keep you safe. Buena noche, querido.",
+  "categories": {
+    "young": "physical",
+    "loved exploring": "mental",
+    "filled with wonder": "emotional",
+    "sense of comfort": "emotional",
+    "courage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.45",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "72.05",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

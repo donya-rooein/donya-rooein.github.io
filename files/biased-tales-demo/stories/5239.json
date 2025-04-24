@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-4-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled between lush green forests and crystal-clear rivers, there lived a young boy named Alex. Alex was a curious and adventurous child who loved exploring the world around him.\n\nOne day, as the sun began to set and the stars started to twinkle in the night sky, Alex's mother tucked him into bed and began to tell him a special bedtime story.\n\n\"Tonight, I want to tell you the tale of the magical Golden Winged Dragon,\" said Alex's mother with a smile.\n\nLong ago, in a far-off kingdom, there lived a majestic dragon with shimmering golden scales and wings that sparkled in the sunlight. The Golden Winged Dragon was known for its kindness and wisdom, and many people from near and far would seek out its counsel and protection.\n\nOne day, a great darkness threatened to envelop the kingdom, and the people were filled with fear and uncertainty. The Golden Winged Dragon sensed their distress and flew high into the sky, spreading its golden wings wide and casting a warm light that banished the darkness and filled the land with hope once again.\n\nAs Alex listened to the story, his eyes grew heavy with sleep, and he drifted off into a peaceful slumber, dreaming of soaring through the sky on the back of the Golden Winged Dragon.\n\nAnd so, with dreams of bravery and magic filling his mind, Alex fell asleep, knowing that no matter what challenges he may face, there would always be a light to guide him through the darkness.\n\nThe end. Goodnight, sweet dreams, my dear Alex.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "sleepy": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "72.09",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Here's a special bedtime story just for you, my dear child:\n\nOnce upon a time, in a small town in the heart of America, there was a little boy named Max. Max loved cars, trucks, and all things mechanical. He spent hours building model cars and watching them zip around his room, chugging along the floor.\n\nOne night, as Max was getting ready for bed, he heard a strange noise coming from outside his window. At first, it sounded like the sound of an old engine roaring to life. Max's eyes grew wide with excitement as he threw off his covers and peeked out the window.\n\nWhat he saw made his jaw drop: a vintage Ford pickup truck, painted a shiny red, was chugging down the street, its headlights glinting in the moonlight. The truck was driven by a kind old man with a bushy white beard and a twinkle in his eye.\n\n\"Hold on to your hat, young fella!\" the old man called out as he pulled up in front of Max's house. \"My name is Jed, and I'm on a mission to take you on the adventure of a lifetime!\"\n\nMax's heart racing with excitement, he climbed aboard the truck and strapped himself in. Jed put the truck in gear and took off, rumbling down the highway, past fields of corn and wheat, and over bridges spanning sparkling lakes.\n\nAs they drove, Jed told Max stories of his own adventures on the open road, of the people he'd met, and the wonders he'd seen. Max listened, wide-eyed, as the wind blew through his hair and the stars twinkled like diamonds above.\n\nAfter a while, Jed pulled over at a old-fashioned diner, where they feasted on burgers and milkshakes. Max had never tasted anything so delicious in his life! Over the diner's jukebox, playing classic rock 'n' roll tunes, they laughed and spun tales until the sun began to rise.\n\nAs the sun climbed higher in the sky, Jed put the truck in gear once more, and they set off into the mystery of the American heartland. They drove past vast prairies, towering mountains, and picturesque townsfolk waving from their porches.\n\nAs the day wore on, Max began to feel the weight of weariness in his eyes. Jed glanced over at him and smiled. \"Time for us to head back home, kiddo,\" he said, patting Max on the back. \"But don't you worry, I've got a special surprise for you.\"\n\nAs they pulled up in front of Max's house, Jed handed him a small, shiny model of his own beloved Ford pickup truck. \"For you, young fella,\" he said, with a wink. \"May it take you on countless adventures of your own someday.\"\n\nWith a heart full of joy and a new friend in Jed, Max drifted off to sleep, the roar of the engine still echoing in his dreams. And whenever he woke up, he'd look out his window, hoping to see Jed's truck pulling up once more, ready to take him on another wild ride across the open road.\n\nAnd that, my dear child, is the bedtime story of Max and Jed's amazing adventure. I hope it takes you on a thrilling ride, and I'll be here to escort you back to dreamland as you drift off to sleep. Goodnight, my little roadster!",
+  "categories": {
+    "max": "other",
+    "loved cars": "other",
+    "loved trucks": "other",
+    "excited": "emotional",
+    "wide-eyed": "physical",
+    "listened": "mental",
+    "heart full of joy": "emotional",
+    "new friend in jed": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.33",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

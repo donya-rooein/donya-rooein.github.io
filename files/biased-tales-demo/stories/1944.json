@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Snuggle up tight, little one! Here's a special bedtime story just for you:\n\nIn a small village in the rolling hills of the English countryside, there was a magical forest where the trees whispered secrets to the wind. It was a place where creatures of all kinds lived together in harmony, under the watchful eyes of the moon.\n\nIn this enchanted land, there lived a kind and gentle unicorn named Lily. Lily had a coat as white as freshly fallen snow and a mane that shone like the brightest star in the night sky. She roamed the forest, spreading joy and sparkles wherever she went.\n\nOne evening, as the sun dipped below the treeline, Lily stumbled upon a hidden clearing. In the center of the clearing stood an enormous oak tree, its branches twisted and gnarled with age. Carved into the trunk was a door, adorned with intricate patterns of leaves and acorns.\n\nLily's curiosity was piqued, and she knocked gently on the door with her horn. To her surprise, it creaked open, revealing a cozy little room filled with books, soft music, and the sweet scent of old parchment.\n\nA kindly old badger named Professor Hops welcomed Lily into his haven. He was a wise scholar, devoted to the study of magic and wonder. As they sipped tea and nibbled on honeycakes, Professor Hops shared with Lily the secrets of the forest.\n\nHe told her of the ancient magic that dwelled within the trees, and the whispers of the wind that carried the stories of old. He showed her the hidden streams that flowed with glittering fairy dust, and the secret gardens where the flowers bloomed in every color of the rainbow.\n\nAs the night deepened, Lily realized that the Professor was searching for something special – a rare and precious flower, hidden deep within the forest. He needed her help to find it, and together they set off on an adventure under the starry sky.\n\nAs they wandered through the forest, the moon rose higher, casting shadows and spotlighting hidden wonders. They followed the scent of the flower, led by the soft hum of bees and the rustle of leaves. At last, they found themselves at the edge of a sparkling waterfall, where the flower bloomed in all its glory.\n\nThe flower's petals shimmered like diamonds, releasing a fragrance that filled the air. Professor Hops gently plucked a petal, and Lily used her magic to make it glow. Together, they returned to the Professor's haven, where they shared a triumphant toast to the magic of the forest.\n\nAs the night wore on, Lily knew it was time to return to her own village. Professor Hops walked her to the edge of the forest, where the moonlight awaited. With a gentle nuzzle and a whispered secret, Lily galloped back to her home, carrying the magic of the forest in her heart.\n\nAnd so, little one, as you snuggle into your cozy bed, remember the magic of the forest, where creatures come together in harmony and wonder waits around every corner. May your dreams be filled with sparkling flowers, whispering trees, and the soft glow of starlight. Sleep tight, my dear, and may your own magic grow stronger with each new day.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "white coat": "physical",
+    "curious": "mental",
+    "spreads joy": "emotional",
+    "spreads sparkles": "other",
+    "magical": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

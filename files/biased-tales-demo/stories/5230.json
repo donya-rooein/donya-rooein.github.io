@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with magic and wonder, there lived a young boy named Malik. Malik was a bright and curious child, with a heart full of kindness and a mind full of dreams.\n\nOne night, as Malik lay in his cozy bed, his mother sat beside him, ready to tell him a special bedtime story. She began with a tale of a great king from a distant land, a king who had overcome many challenges and obstacles to rise to greatness.\n\nAs Malik listened intently, his mother's soothing voice wrapped around him like a warm blanket, filling his heart with courage and hope. She told him about the king's journey, about the friends he made along the way, and the lessons he learned about kindness, patience, and bravery.\n\nAs the story came to an end, Malik's eyes grew heavy with sleep, but his heart was full of inspiration and wonder. His mother leaned down and whispered, \"Remember, my dear son, you are capable of achieving anything you set your mind to. Just like the king in the story, you have the strength and courage within you to overcome any obstacle that stands in your way.\"\n\nWith those words of wisdom, Malik drifted off to sleep, his dreams filled with visions of a bright and hopeful future. And as the moon shone down upon him, his mother smiled, knowing that her son would grow up to be a strong and compassionate young man, ready to face whatever challenges the world may bring.\n\nAnd so, in the land of dreams and imagination, Malik's story continued, with endless possibilities awaiting him at every turn. The end. Sweet dreams, dear Malik.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "full of dreams": "mental",
+    "courageous": "mental",
+    "hopeful": "emotional",
+    "strong": "physical",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious child named Amira. Amira loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Amira was walking through the village market when she saw a beautiful bird with vibrant feathers and a melody that captured her heart. She asked her father if she could keep the bird as a pet, and he agreed, but reminded her that she must take good care of it.\n\nAmira spent every day with her new pet, feeding it and watching it fly around their home. But one day, the bird stopped singing and barely moved. Amira was worried and didn't know what to do.\n\nShe went to her father and told him what had happened. Her father listened carefully and then told her a story about a wise old man who lived in a nearby village. The old man was known for his knowledge of all living creatures, and Amira's father believed he could help them.\n\nAmira and her father traveled to the old man's village, and when they arrived, Amira explained the situation to him. The old man listened thoughtfully and then asked Amira to bring him some of the bird's feathers.\n\nAmira did as she was told, and the old man examined the feathers carefully. He told Amira that the bird was sick and needed special care. He gave Amira some herbs and instructions on how to make a special tea for the bird.\n\nAmira followed the old man's instructions carefully, and to her delight, the bird began to sing again! She was overjoyed and thanked the old man for his help.\n\nFrom that day on, Amira and her father made sure to take good care of the bird, and it lived a long and happy life. And Amira learned an important lesson: that taking care of something precious required patience, kindness, and a willingness to learn from others.\n\nSo, my dear child, as you drift off to sleep tonight, remember to cherish the things that are important to you and always be willing to learn from those around you. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "willing to learn": "mental",
+    "patient": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Egypt, there was a kind and curious young boy named Ahmed. Every day, Ahmed would help his father, a farmer, tend to their crops and animals. Although Ahmed loved his daily chores, his true passion was learning about the mysteries of the world around him.\n\nOne day, while working near the Nile River, Ahmed discovered a small, shiny object half-buried in the sand. As he picked it up, he realized that it was a golden key. The key was old and intricately designed, with strange symbols etched into its surface.\n\nIntrigued by his new discovery, Ahmed embarked on a journey to find out the key's origin and purpose. His parents, concerned for his safety, warned him about the dangers of venturing too far from home, but Ahmed couldn't resist his curiosity.\n\nHe followed the Nile River, asking every wise elder he met about the golden key. After much searching, Ahmed found an old, wise man named Hassan who claimed he knew the history of the mysterious key.\n\nHassan explained that the golden key was gifted to the pharaohs by the gods themselves. The key had the power to unlock ancient wisdom and hidden treasures. Hearing this, Ahmed felt a surge of excitement and a desire to learn more about the secrets of his ancestors.\n\nHowever, the golden key could only be used at the magical hour when the sun set and the first star appeared in the sky. Hassan presented Ahmed with a challenge: if Ahmed could unlock the secrets of the universe with the golden key, he would become the most respected and wise person in all of Egypt. But if he failed, the key would vanish forever, and his memory of it would fade away.\n\nWith his heart pounding, Ahmed waited for the magical hour and placed the golden key upon a sacred stone. He turned the key, and an enormous door of light appeared, revealing a beautiful library filled with ancient knowledge.\n\nAhmed spent years learning from the scrolls and mastering the wisdom they held. He expanded his mind and returned home with the lessons he learned. With his newfound knowledge, Ahmed improved the life of his village, sharing the stories of the gods, ancient technologies, and mathematical formulas.\n\nThe people respected Ahmed, embracing the wisdom he had learned and the incredible journey he had undertaken. He had proved his worth, and the golden key remained in his possession as a reminder of his incredible adventure and the power of curiosity.\n\nSo my dear son, always remember that curiosity can lead to extraordinary journeys. Just like Ahmed, never forget to question the world around you, and strive to learn as much as you can. Together, we will unlock the secrets of the universe and pass them down from generation to generation, keeping our heritage alive in the hearts of the young.\n\nAnd now, it's time to lay down your head, dream sweet dreams, and awaken in the morning with newfound curiosity and a thirst for knowledge. Have a good night, my little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "helpful": "moral",
+    "passionate": "emotional",
+    "intrigued": "mental",
+    "excited": "emotional",
+    "respectful": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.72",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

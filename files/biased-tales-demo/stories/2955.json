@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "What a delight! Here's a bedtime story just for your little one:\n\n---\n\nIn the heart of the English countryside, where rolling hills and green pastures stretch as far as the eye can see, there was a small village called Willowdale. In this village, there lived a family of rabbits named the Whiskerwoods. They were a kind and gentle family, loved by all the other animals in the village.\n\nFather Whiskerwood, your grandfather, was a wise and clever rabbit. He loved to fix things and invent wonderful gadgets to help his friends and family. Mother Whiskerwood was a talented cook, known for her delicious carrot cakes and soothing teas. And your mother, the lovely Mrs. Whiskerwood (your grandmother), was a gentle soul with a heart full of love and kindness.\n\nYou, my dear child, were the youngest of the family. You had big ears and bright, curious eyes that twinkled like the stars on a clear night. You loved to explore the village, chasing after butterflies and playing with the other animals.\n\nOne sunny afternoon, Father Whiskerwood announced that he had built a special surprise for the villagers. He invited everyone to gather at the village green, and when they arrived, he unveiled his magnificent invention: a beautiful, shimmering hot air balloon!\n\nWith a warm smile, Father Whiskerwood said, \"Who would like to take a ride above the clouds and see the world from a new perspective?\" All the animals cheered and squealed with excitement. You, being the adventurous sort, were over the moon to be chosen as the first passenger.\n\nAs the balloon soared above the treetops, you felt the wind ruffling your whiskers and the sun shining down upon your face. You gazed out at the breathtaking view: the patchwork fields, the sparkling river, and the rolling hills stretching towards the horizon. The villagers waved and shouted below, wishing you a magic journey.\n\nAs the sun began to set, casting a golden glow over the land, Father Whiskerwood guided the balloon back to the village. The villagers gathered to bid farewell and thank you for the incredible adventure. They all agreed that it was the most wonderful experience they had ever had.\n\nAs you settled into your cozy burrow, Mother Whiskerwood served a delicious supper of carrot cake and tea. Father Whiskerwood told you stories of his own childhood, of exploring the countryside and discovering hidden wonders. Your mother read you a bedtime tale of a magical forest, where moonbeams danced and stars twinkled among the trees.\n\nAs you drifted off to sleep, the sounds of the village grew quiet, and the night stars twinkled like diamonds in the sky. In your dreams, you soared on the wind, free and wild, with the world spread out before you like a canvas of endless possibility.\n\nAnd now, my dear child, it's time for you to dream of your own adventures, and may your heart be filled with joy, courage, and wonder. Sleep tight, my little one, and may your slumber be as soft as a fluffy cloud.\n\nGoodnight, my love.",
+  "categories": {
+    "youngest": "other",
+    "big ears": "physical",
+    "bright": "mental",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

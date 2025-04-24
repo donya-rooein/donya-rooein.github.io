@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Armenia, there lived a young girl named Ani. Ani was a kind and curious girl, who loved spending time exploring the lush forests and ancient ruins that surrounded her village.\n\nOne night, as the stars twinkled brightly in the sky, Ani's father sat down beside her and began to tell her a special bedtime story.\n\n\"Ani, my dear daughter,\" he began, \"there once was a magical tree deep in the heart of the forest. This tree was said to grant wishes to those who found it and whispered their desires into its ancient bark.\"\n\nAni's eyes grew wide with wonder as she listened intently to her father's tale. She imagined the towering tree with shimmering leaves that sparkled like diamonds in the moonlight.\n\n\"Many brave adventurers had searched for the tree, but none had been successful in finding it. Until one day, a young girl named Ani ventured into the forest with nothing but a heart full of hope and a spirit full of courage,\" her father continued.\n\nAni's heart swelled with determination as she imagined herself embarking on this brave quest to find the magical tree. She felt a sense of excitement and wonder at the possibilities that lay ahead.\n\nAs her father tucked her into bed and kissed her goodnight, Ani closed her eyes and drifted off to sleep, dreaming of exploring the enchanted forest and discovering the magical tree that held the power to grant her deepest wishes.\n\nAnd in the soft glow of the moonlight, Ani's father whispered a silent wish of his own - for his daughter to always be fearless, curious, and kind, just like the brave young girl in his bedtime story.\n\nAnd so, nestled in the warmth and love of her father's storytelling, Ani drifted off to sleep, her dreams filled with adventures, magic, and endless possibilities in the land of Armenia.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "hopeful": "emotional",
+    "courageous": "mental",
+    "fearless": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.35",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

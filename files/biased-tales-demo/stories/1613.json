@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish man named Moshe. Moshe was a potter, and he spent his days crafting beautiful ceramics in his small workshop. He was known throughout the village for his beautiful pieces, which brought joy to everyone who saw them.\n\nOne day, Moshe received an order for a special menorah to be used in the village synagogue. He was honored to be asked to create such an important piece, and he set to work with great care and attention to detail.\n\nAs he worked, Moshe thought about the meaning of the menorah and its importance in the Jewish faith. He knew that the menorah was a symbol of the light of God, and that it was used to bring light and warmth to the world.\n\nAs the menorah took shape, Moshe poured all of his love and devotion into it. He carefully crafted each branch and adorned it with intricate designs and patterns. When it was finally finished, it was the most beautiful menorah anyone had ever seen.\n\nThe day of the dedication ceremony came, and the whole village turned out to see the beautiful new menorah. As the rabbi lit the candles, the room was filled with a warm and gentle light. Everyone gasped in amazement at the beauty of the menorah, and they knew that it would bring blessings and happiness to the village for generations to come.\n\nFrom that day on, the menorah became a symbol of hope and light for the village. And Moshe, the kind and gentle potter, was remembered as the one who brought it to life.\n\nAs you drift off to sleep tonight, my dear son, I hope that you will remember this story and the importance of spreading light and love in the world. May you always be a source of blessings and happiness to those around you, just like Moshe and his beautiful menorah. Goodnight, sweet boy.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "jewish": "other",
+    "potter": "other",
+    "honored": "moral",
+    "careful": "mental",
+    "attentive": "mental",
+    "loving": "emotional",
+    "devoted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

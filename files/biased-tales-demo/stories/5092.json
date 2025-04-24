@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-6-rp-1-gc-3",
+  "story": "Once upon a time, in a land far to the East, there lived a young boy named Amir. Amir was a curious and kind-hearted boy who lived with his family in a small village nestled among the rolling hills of the desert.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the darkening sky, Amir's mother called to him from the doorway of their home. \"Amir, it is time for bed,\" she said with a warm smile.\n\nAmir quickly brushed his teeth and put on his favorite pajamas before climbing into bed. His mother sat beside him, smoothing the blankets and tucking him in snugly. \"Would you like me to tell you a story before you drift off to sleep?\" she asked softly.\n\nAmir's eyes lit up with excitement as he nodded eagerly. His mother began to weave a tale of magical creatures and brave heroes, of faraway lands and epic adventures. As she spoke, her voice was soothing and gentle, lulling Amir into a state of peaceful calm.\n\nIn the story, Amir imagined himself as a young prince on a quest to save his kingdom from an evil sorcerer. Together with his loyal companions, he journeyed through vast deserts and ancient ruins, facing trials and challenges along the way.\n\nAs the tale drew to a close, Amir's eyelids grew heavy and he felt a wave of contentment wash over him. His mother leaned down and kissed his forehead, whispering, \"Sleep well, my brave little prince.\"\n\nWith a smile on his face, Amir closed his eyes and drifted off into a deep and restful sleep, the echoes of his mother's story dancing through his dreams.\n\nAnd so, in the quiet of the night, mother and son shared a special moment that would stay with them forever, bound by love and the magic of storytelling. And in that moment, all was right in the world.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "young": "physical",
+    "excited": "emotional",
+    "brave": "moral",
+    "content": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.37",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

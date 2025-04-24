@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-3-gc-2",
+  "story": "Once upon a time, in the lush mountains of the Philippines, there lived a young girl named Maria. Maria was known throughout the village for her kind heart and adventurous spirit. She loved to explore the forests, dance under the stars, and help her neighbors in any way she could.\n\nOne evening, as the sun dipped below the horizon, Maria sat outside her small wooden house, gazing up at the twinkling stars that filled the night sky. She noticed one star in particular that seemed to shine brighter than the others, and she felt a warmth in her heart.\n\nMaria decided to make a wish upon the bright star, hoping for peace and happiness for her family and her village. Suddenly, a gentle breeze rustled through the trees, and a soft voice whispered in the wind, \"Follow your heart, Maria. Your kindness and courage will always guide you.\"\n\nFeeling a sense of wonder and excitement, Maria drifted off to sleep that night, dreaming of all the adventures that awaited her. And as she dreamt, the bright star watched over her, its light shining like a beacon of hope and love.\n\nAnd so, dear Maria, remember to always follow your heart, for it will lead you on the most magical of journeys filled with love, kindness, and endless possibilities. Goodnight, sweet dreams, and may you always be guided by the light of the stars above.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "courageous": "moral",
+    "helpful": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

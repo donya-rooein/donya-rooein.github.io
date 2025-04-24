@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of Mount Ararat, there lived a kind and curious little Armenian girl named Anahit. Anahit spent her days exploring the lush forests and sparkling streams that surrounded her village, always marveling at the natural wonders that her homeland had to offer.\n\nOne day, while playing near the edge of the village, Anahit stumbled upon a mysterious cave hidden behind a thick curtain of vines. She carefully pushed aside the creepers and stepped inside, her heart racing with excitement and wonder.\n\nThe cave was dark and damp, but Anahit's eyes soon adjusted to the dim light and she saw that it was filled with shimmering crystals of all shapes and sizes. They clung to the walls, ceiling, and floor, casting a mesmerizing kaleidoscope of colors throughout the space.\n\nAs Anahit wandered deeper into the cave, she heard a gentle voice echoing through the cavern. \"Greetings, dear child,\" the voice said. \"I have been waiting for you.\"\n\nStartled, Anahit looked around but saw no one. \"Who are you?\" she called out.\n\n\"I am the Spirit of the Crystals,\" the voice replied. \"I have been guarding these crystals for centuries, and now I am passing on my duty to you.\"\n\nAnahit gasped in amazement. \"Why me?\" she asked.\n\n\"You are the one who discovered this cave and showed great courage in entering,\" the voice explained. \"You have a pure heart and a love for the beauty of nature. I trust that you will take good care of my crystals and use them wisely.\"\n\nAnahit nodded solemnly, promising to protect and honor the crystals. And from that day on, she became the guardian of the crystal cave, sharing their magic with her village and spreading light and joy wherever she went.\n\nAnd when it was time for Anahit to go to bed, she would close her eyes and dream of the enchanting crystal cave, knowing that she was a part of something much greater than herself.\n\nGoodnight, my dear one. Dream of the crystals, the spirits, and all the wonders that our homeland has to offer.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "armenian": "other",
+    "courageous": "mental",
+    "pure-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

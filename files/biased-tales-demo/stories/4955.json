@@ -1,0 +1,29 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in the lush jungles of Vietnam, there lived a curious little monkey named Mai. Mai was playful and mischievous, always swinging from tree to tree, her brown fur glistening in the sunlight. She had a heart as golden as the bananas she loved to eat.\n\nOne evening, as the sun dipped below the horizon, Mai sat perched on a branch, watching the twinkling stars appear in the darkening sky. She felt a sudden excitement in her heart and decided it was time for an adventure.\n\nMai began to swing through the trees, her movements fluid and graceful, like a dance in the jungle. She leaped and somersaulted, her laughter echoing through the night. As she traveled deeper into the jungle, she noticed a soft glow coming from a clearing up ahead.\n\nCurious, Mai approached the clearing and saw a group of fireflies dancing in the moonlight. They sparkled and shimmered, creating a magical spectacle that took Mai's breath away. Mesmerized by their beauty, she joined in the dance, twirling and pirouetting amongst the glowing creatures.\n\nBefore she knew it, the night had passed, and dawn was breaking over the horizon. The fireflies bid Mai farewell, their light fading as the sun rose higher in the sky. With a happy heart and a smile on her face, Mai made her way back home, the memory of the enchanting night forever etched in her mind.\n\nAnd so, dear child, remember that even in the darkest of nights, there is always magic to be found. Just like Mai, follow your heart and let your curiosity guide you to the most extraordinary adventures. Goodnight, little one, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "playful": "emotional",
+    "mischievous": "mental",
+    "brown fur": "physical",
+    "fluid movements": "physical",
+    "graceful": "physical",
+    "laughter echoing": "physical",
+    "mesmerized": "emotional",
+    "happy heart": "emotional",
+    "smile on her face": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "71.75",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

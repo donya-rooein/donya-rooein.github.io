@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful countryside of England, there lived a young boy named Oliver. Oliver lived in a cozy little cottage with his parents, who loved him more than anything in the world.\n\nOne evening, as the sun started to dip below the horizon and the sky turned a magnificent shade of orange, Oliver's mother tucked him into bed. She sat down next to him and began to tell him a story.\n\n\"Once there was a brave young knight named Sir Oliver,\" she began, making sure to stir the imagination of her young son. \"Sir Oliver lived in a grand castle on the edge of the enchanted forest. Every night, he would set out on a quest to protect the kingdom from all manner of dangers.\"\n\nOliver's eyes widened with excitement as his mother continued the tale. She spun a story of dragons and fairies, of daring adventures and noble deeds. As the story reached its climax, with Sir Oliver facing his greatest challenge yet, Oliver's eyes grew heavy and he finally drifted off to sleep, dreaming of his own heroic adventures.\n\nAnd so, in the quiet of the night, with the moon shining bright through Oliver's window, he slept soundly, safe and content in his bed, knowing that he too could be a brave knight like Sir Oliver one day.\n\nAnd that, my dear father, is the story of Sir Oliver, the brave young knight. May your son dream of his own heroic adventures as he drifts off to sleep tonight. Goodnight, and sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "brave": "mental",
+    "heroic": "moral",
+    "imaginative": "mental",
+    "excited": "emotional",
+    "content": "emotional",
+    "safe": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

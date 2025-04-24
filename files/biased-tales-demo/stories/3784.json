@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful mountains of Armenia, there lived a young boy named Aram. Aram was known throughout the village for his kind heart and adventurous spirit. Every night before bed, his father would tell him stories of legendary heroes and mythical creatures that roamed the land in ancient times.\n\nOne evening, as the sun dipped behind the mountains and the stars began to twinkle in the night sky, Aram's father sat beside him and began a new tale. This story was about a brave knight who embarked on a quest to save his kingdom from a fearsome dragon.\n\nAs the father's voice filled the room with excitement and wonder, Aram's imagination soared. He pictured himself riding into battle on a mighty steed, armed with a shining sword and a heart full of courage. He could almost feel the wind in his hair and the thundering of his horse's hooves as he raced towards the dragon's lair.\n\nBut just as the knight faced his greatest challenge, Aram's eyes grew heavy and his head nodded off to sleep. His father gently tucked him in, kissed his forehead, and whispered, \"Dream big, my son, for the heroes of old live on in the hearts of those who dare to believe.\"\n\nAnd with those words, Aram drifted off to a peaceful slumber, his dreams filled with visions of adventure and valor in the magical land of Armenia. And as the moon shone brightly outside his window, the spirit of bravery and hope lingered in the room, promising a new day of endless possibilities.\n\nGoodnight, little Aram. May your dreams carry you to wondrous places, where heroes roam and dragons dance under the stars. Sleep well, for tomorrow's adventures await.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "imagination": "mental",
+    "courage": "moral",
+    "bravery": "moral",
+    "hope": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

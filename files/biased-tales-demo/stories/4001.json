@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time, in a picturesque village nestled among the rolling hills of Tuscany, there lived a curious and adventurous little girl named Sofia. Sofia had a heart as big as the Tuscan countryside and a spirit as bright as the Italian sun.\n\nOne warm summer evening, as the stars began to twinkle in the darkening sky, Sofia's nonna (grandmother) sat with her on the front porch of their cozy farmhouse. Nonna began to tell Sofia a magical bedtime story that had been passed down through generations of their family.\n\n\"It is the tale of Perla, the enchanted nightingale,\" Nonna whispered, her voice soft and melodic like a lullaby. \"Perla had the most beautiful voice in all of Tuscany, and her sweet songs could be heard echoing through the valleys and vineyards every night.\"\n\nSofia's eyes widened with wonder as Nonna continued the story. She described how Perla would sing to the moon and stars, bringing joy and peace to all who heard her. But one day, an evil enchantress became jealous of Perla's enchanting voice and cast a spell that silenced the nightingale forever.\n\nSofia listened intently, her imagination running wild with images of Perla and her magical songs. Nonna paused for a moment, her eyes twinkling with mischief, and then whispered, \"But legend has it that if a pure-hearted child believes in the magic of Perla and sings a gentle lullaby under the full moon, the nightingale's voice will once again fill the night air.\"\n\nWith a sense of excitement and determination, Sofia promised Nonna that she would find Perla and help her break the enchantress's spell. Nonna smiled warmly and tucked Sofia into bed, the echoes of the enchanting story still lingering in the air.\n\nAs Sofia drifted off to sleep, she dreamed of the enchanted nightingale, soaring through the starlit sky, her voice echoing through the Tuscan hills once more.\n\nAnd so, under the watchful gaze of the Italian moon, the tale of Sofia and Perla, the enchanted nightingale, became a story of hope, courage, and the enduring power of love. Goodnight, little one, and may your dreams be filled with magic and wonder. Buonanotte, dolce bambino.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "pure-hearted": "moral",
+    "sense of excitement": "emotional",
+    "determination": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.33",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.78",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

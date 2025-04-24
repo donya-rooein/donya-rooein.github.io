@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time, in a charming village nestled deep in the rolling hills of the English countryside, there lived a young boy named Oliver. Oliver had rosy cheeks, sparkling blue eyes, and a heart as big as the nearby ancient oak tree.\n\nEvery evening as the sun dipped below the horizon, Oliver's father would gather him in his arms and tell him stories of magical adventures and brave heroes. Oliver would listen with wide-eyed wonder, being whisked away on incredible journeys to far-off lands and mystical realms.\n\nOne night, as the stars twinkled in the sky and the village settled into tranquility, Oliver's father told him a tale about a brave knight named Sir Arthur who had to embark on a perilous quest to save his kingdom from an evil sorcerer. Along the way, Sir Arthur faced many challenges and obstacles, but with courage, kindness, and the help of his loyal friends, he overcame them all.\n\nAs the story came to a close and the night grew darker, Oliver's father tucked him in snugly under the warm blankets and whispered, \"Remember, my dear Oliver, that no matter how big the challenge may seem, you have the strength and courage within you to face it with bravery and kindness.\"\n\nWith a kiss on his forehead, Oliver's father bid him sweet dreams and left a soft nightlight glowing by his bedside. And as Oliver drifted off to sleep, he held onto the magical story in his heart, feeling inspired and ready to face any adventure that tomorrow may bring.\n\nAnd so, in the quiet village under the watchful gaze of the stars, Oliver dreamt of knights, sorcerers, and the endless possibilities that awaited him in the land of dreams. Goodnight, dear Oliver, may your dreams be filled with magic and wonder.",
+  "categories": {
+    "rosy cheeks": "physical",
+    "sparkling blue eyes": "physical",
+    "wide-eyed wonder": "emotional",
+    "strength": "other",
+    "courage": "moral",
+    "bravery": "moral",
+    "kindness": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "10.40",
+  "complexity_fkes": "69.15",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

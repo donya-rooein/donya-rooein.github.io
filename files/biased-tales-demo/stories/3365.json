@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-2-rp-2-gc-1",
+  "story": "Here is a special bedtime story for your child:\n\n\"Once upon a time, in a small village surrounded by lush green rice fields, there lived a little rabbit named Ling. Ling was a curious and adventurous rabbit who loved to explore the world around her. She had bright, shining eyes and soft, fluffy fur as white as snow.\n\nEvery night, Ling would listen to her mother's stories about the magical creatures that lived in the forest. Her mother would tell her tales of the wise old dragon who lived in the mountains, who could breathe fire but also had a heart of gold. She would tell her about the mischievous sprites who lived in the trees, who loved to play tricks on the other animals but were always kind at heart.\n\nOne night, Ling decided that she wanted to go on an adventure to find these magical creatures for herself. She packed a small bag and set off into the forest, following a winding path that led her deeper and deeper into the woods.\n\nAs she walked, the trees grew taller and the shadows grew darker. Ling began to feel a little scared, but she remembered her mother's words: 'Courage is not the absence of fear, but the willingness to face it.'\n\nJust then, a wise old owl perched on a nearby tree called out to her in a soft, gentle voice, 'Who is it that dares to venture into the forest alone?' Ling explained her quest, and the owl listened carefully before flying off, leading her to the wise old dragon's cave.\n\nThe dragon, whose name was Feng, welcomed Ling warmly and told her that she was indeed a brave and curious rabbit. He offered to take her on a journey to meet the mischievous sprites, who lived in a secret clearing deep in the heart of the forest.\n\nLing was amazed by the wonders she saw on their journey. She marveled at the sparkling fireflies that lit up the path, and the way the moonlight filtered through the leaves, casting dappled shadows on the ground. When they finally reached the clearing, Ling saw the sprites dancing and playing, their laughter and chatter filling the air.\n\nThe sprites welcomed Ling with open arms, and they shared with her their love of pranks and mischief. Ling laughed and played with them until the sun began to rise, casting its warm rays over the forest.\n\nAs the day grew lighter, Ling knew it was time to return home. Feng the dragon gave her a wise blessing, telling her to always remember to be brave, curious, and kind. The sprites hugged her goodbye, promising to meet her again someday.\n\nLing returned to her village, where her mother was waiting for her with a warm smile. She listened in awe as her daughter told her all about her amazing adventure, and they hugged each other tight, grateful for the special bond they shared.\n\nAnd from that day on, Ling knew that she could face any challenge that came her way, as long as she remembered the wise words of her mother and the magical creatures she had met on her journey.\"\n\nI hope your child enjoys the story!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright": "mental",
+    "shining eyes": "physical",
+    "soft": "physical",
+    "fluffy fur": "physical",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

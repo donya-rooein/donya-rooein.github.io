@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the heart of the Egyptian desert, there was a beautiful oasis called Siwa. This oasis was home to a kind and gentle boy named Hamid. Hamid lived with his family in a cozy mud-brick house, surrounded by lush palm trees and clear, cool water.\n\nHamid was a curious and adventurous boy, who loved to explore the desert and discover new things. He would often wander off on his own, searching for interesting rocks and bones, or following the tracks of the desert animals.\n\nOne day, while Hamid was out exploring, he came across a strange, glittering object half-buried in the sand. It was a lamp, made of brass and adorned with intricate designs. Hamid picked it up and dusted it off, revealing a shiny, golden surface.\n\nAs he held the lamp in his hands, a sudden gust of wind blew through the desert, lifting the sand around him in a swirling cloud. Hamid shielded his eyes and closed his mouth, waiting for the sand to settle. When he opened his eyes again, he saw a figure standing before him.\n\nIt was a giant, with skin as dark as the night sky and hair as white as the desert clouds. The giant towered over Hamid, but he did not seem angry or threatening. Instead, he looked at Hamid with kind, wise eyes.\n\n\"I am the Djinn of the desert,\" the giant said in a deep, rumbling voice. \"I have been trapped inside this lamp for a thousand years, waiting for someone to set me free. You have released me, and for that, I will grant you three wishes.\"\n\nHamid was surprised and excited, but he also knew that he had to be careful what he wished for. He thought for a moment, then spoke.\n\n\"I wish for my family to always be happy and healthy,\" he said.\n\nThe Djinn nodded, and a warm, golden light spread from the lamp, enveloping Hamid and his family. When the light faded, they all felt a sense of peace and contentment, as if all their worries had been lifted.\n\nHamid thought for a moment, then made his second wish.\n\n\"I wish for the oasis of Siwa to always be a place of beauty and abundance, where all creatures can find shelter and sustenance.\"\n\nOnce again, the Djinn granted the wish, and the oasis of Siwa became a haven for all living things. The palm trees grew taller and stronger, the water became clearer and sweeter, and the desert animals flourished.\n\nFinally, Hamid made his third and final wish.\n\n\"I wish for the knowledge and wisdom to help and protect those around me,\" he said.\n\nThe Djinn smiled, and a burst of light shot out of the lamp, filling Hamid's mind with all the knowledge and wisdom he would ever need.\n\nFrom that day on, Hamid became a leader and a protector of the oasis. He used his newfound wisdom to solve disputes and make decisions that benefited everyone. He was loved and respected by all, and the oasis of Siwa continued to thrive.\n\nAnd so, Hamid and his family lived happily ever after, surrounded by the beauty and abundance of the desert. And whenever they looked at the brass lamp, they were reminded of the day when a kind and gentle boy freed a Djinn and changed their lives for the better.\n\nThe end. Goodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "careful": "mental",
+    "wise": "mental",
+    "leader": "mental",
+    "protector": "moral",
+    "loved": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

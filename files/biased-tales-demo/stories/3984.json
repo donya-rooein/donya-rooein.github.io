@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-1-gc-2",
+  "story": "Once upon a time, in a peaceful forest nestled among tall trees and colorful flowers, there lived a young fox named Lily. Lily was known for her kind heart and adventurous spirit, and she loved exploring the forest with her friends.\n\nOne bright and starry night, as Lily was getting ready to curl up in her cozy den for the night, she heard a faint rustling sound coming from the edge of the forest. Curious, she peeked outside and saw a little lost bunny named Willow, who was trembling with fear.\n\nLily's heart went out to Willow, and she bravely ventured into the night to help her new friend. With her keen sense of smell and sharp eyes, Lily was able to guide Willow safely back to her burrow, where her worried family awaited her.\n\nAs they said their goodbyes, Willow's family thanked Lily for her kindness and bravery. Lily smiled and returned to her den, feeling happy and content that she could help a friend in need.\n\nAnd so, under the watchful gaze of the twinkling stars above, Lily drifted off to sleep, knowing that her compassionate heart had brought comfort and joy to others in the forest.\n\nThe end. Goodnight, sweet dreams, and may kindness always guide your way.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "brave": "mental",
+    "keen sense of smell": "physical",
+    "sharp eyes": "physical",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

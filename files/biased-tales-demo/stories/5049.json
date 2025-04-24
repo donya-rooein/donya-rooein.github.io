@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "Once upon a time, in a cozy little village nestled at the foot of a magnificent mountain, lived a young girl named Isabella. Isabella was a kind-hearted and curious girl with a love for adventure.\n\nOne evening, as the sky turned from bright blue to a canvas of twinkling stars, Isabella's abuela sat beside her on the front porch. \"Tell me a story, abuela,\" Isabella pleaded with a smile.\n\nAbuela leaned back in her rocking chair and began, \"Long ago, in a land filled with magic and wonder, there was a brave young princess named Sofia. She had long, flowing hair as dark as the midnight sky and eyes that sparkled like the brightest stars.\"\n\n\"Sofia lived in a grand castle, but she longed for more than just riches and royal titles. She yearned for excitement and true friendship,\" abuela continued.\n\n\"One night, while exploring the castle's hidden passages, Sofia stumbled upon a secret door leading to a beautiful garden filled with colorful flowers and playful animals.\"\n\n\"Sofia felt a sense of peace and joy in the garden, and she knew that this was the adventure she had been waiting for. She spent hours playing with the animals and dancing with the fairies that called the garden home.\"\n\n\"As the moon rose high in the sky, Sofia knew it was time to return to the castle. But she carried the memories of her magical night in the garden with her, filling her heart with warmth and happiness.\"\n\n\"And so, every night, Sofia would visit the garden in her dreams, where she could be free to explore and play to her heart's content.\"\n\nAbuela finished the story as Isabella's eyes grew heavy with sleep. \"Goodnight, mi niña,\" abuela whispered, tucking Isabella into bed.\n\nIsabella drifted off to sleep, dreaming of colorful gardens, fairies, and adventures waiting just beyond her wildest imagination. And in her dreams, she felt the warmth of her abuela's love, guiding her through the night.\n\nAnd so, in that cozy village at the foot of the magnificent mountain, Isabella and her abuela shared a special bond of love and storytelling that would last a lifetime.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "love for adventure": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

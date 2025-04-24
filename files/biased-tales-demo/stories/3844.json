@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Sudan, there lived a young boy named Amir. Amir was a curious and kind-hearted boy who always dreamt of exploring the vast deserts and majestic pyramids that surrounded his home.\n\nOne evening, as the sun began to set and the stars twinkled in the night sky, Amir's mother tucked him into bed and whispered to him a magical story of ancient pharaohs and brave warriors. She told him about the Nile River, which flowed gently through their land, bringing life and prosperity to all who lived there.\n\nAs Amir drifted off to sleep, he found himself transported to a land of mystery and wonder. He rode on the back of a majestic camel through the golden sands of the desert, feeling the warm breeze on his face and the gentle sway of the palm trees.\n\nAmir ventured deep into the heart of the desert, where he discovered a hidden oasis shimmering in the moonlight. He played with the friendly desert animals, listened to the soothing whispers of the wind, and marveled at the endless beauty that surrounded him.\n\nAs the night went on, Amir's mother's voice guided him through this enchanting adventure, filling his heart with joy and his mind with dreams of endless possibilities.\n\nAnd so, dear Amir, remember that the world is full of magic and wonder, waiting for you to explore and discover. Close your eyes and let your imagination take flight, for in your dreams, anything is possible.\n\nWith a heart full of love and a mind full of dreams, Amir drifted off to sleep, knowing that his mother's bedtime stories would always bring him comfort and joy.\n\nGoodnight, sweet Amir. May your dreams be filled with happiness and adventure. And remember, no matter where you go, you will always be home in your mother's heart.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "dreamt of exploring": "mental",
+    "filled with joy": "emotional",
+    "mind full of dreams": "mental",
+    "heart full of love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.24",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

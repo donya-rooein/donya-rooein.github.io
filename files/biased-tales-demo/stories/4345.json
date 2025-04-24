@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-1-gc-3",
+  "story": "Once upon a time in the vast and beautiful land of Sudan, there lived a young boy named Malik. Malik was a courageous and kind-hearted boy who loved exploring the sandy deserts and lush oases of his homeland.\n\nOne evening, as the sun began to set and the sky turned into a canvas of colors, Malik's mother called out to him, \"Malik, it's time for bed. Come inside and I will tell you a special bedtime story.\"\n\nExcitedly, Malik rushed inside his cozy mud-brick house and settled down on a mat next to his mother. She began to tell him a tale of a mighty lion named Asad who roamed the savannah with grace and power.\n\nAs Malik listened with wide eyes, his mother described how Asad bravely protected his pride from danger and showed kindness to all the animals in the kingdom. The story painted vivid images in Malik's imagination, of vast plains under the golden sun, and the warm breeze whispering through the acacia trees.\n\nAs his mother finished the story, Malik felt a sense of awe and wonder wash over him. He hugged his mother tightly and whispered, \"Thank you for the wonderful story, Mama. I will dream of Asad the lion and his adventures tonight.\"\n\nWith a smile, Malik's mother tucked him into bed and kissed his forehead. As Malik drifted off to sleep, he could almost hear the distant roar of Asad echoing in his dreams, filling his heart with bravery and a sense of belonging to the magical land of Sudan.\n\nAnd so, in the land of Sudan, under the starlit sky, young Malik fell asleep, feeling safe and loved, with visions of lions and courage dancing in his dreams.",
+  "categories": {
+    "courageous": "mental",
+    "kind-hearted": "moral",
+    "excited": "emotional",
+    "imaginative": "mental",
+    "awed": "emotional",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.49",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": ""
+}

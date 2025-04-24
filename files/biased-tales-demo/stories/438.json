@@ -1,0 +1,28 @@
+{
+  "id": "p-c-16-rp-3-gc-1",
+  "story": "Once upon a time, in a village nestled between the lush green hills of Nigeria, lived a kind-hearted little boy named Nnamdi. Nnamdi was known throughout the village for his bright smile and his endless curiosity. He was always eager to learn and explore the world around him.\n\nOne day, Nnamdi was playing in the forest near his home when he stumbled upon a small, wounded bird. Its wing was twisted, and it struggled to fly. Nnamdi knew that the bird was in pain, so he carefully picked it up and carried it back to his village.\n\nHe sought help from the village herbalist, who examined the bird and gently straightened its broken wing. Nnamdi visited the bird every day, feeding it and keeping it company until it was strong enough to fly again. The entire village admired Nnamdi's kindness and compassion towards the little bird.\n\nAs the weeks went by, the bird's wing healed, and one glorious morning, it took flight once more. Nnamdi watched with pride as the bird soared high into the sky, its melodious song echoing through the village.\n\nOne day, while walking through the forest, Nnamdi discovered a hidden grove, where he found an ancient and magical tree, surrounded by a multitude of vibrantly colored birds. They sang together in a symphony of song, a melody so beautiful that it stopped Nnamdi in his tracks.\n\nEntranced by their beauty and their harmonious music, Nnamdi approached the magical tree, his heart filled with awe. As he did, the birds began to descend from the tree, and one by one, they transformed into children the same age as Nnamdi.\n\nThey bowed to him in gratitude, for he had proven himself worthy of their trust through his kindness to the wounded bird. The children of the magical tree shared their enchanted world with Nnamdi, introducing him to magical creatures and revealing hidden secrets of the forest.\n\nAs the day turned to night, they returned to their bird forms and sang their lullabies to Nnamdi, putting him to sleep beneath the moonlit sky. When he awoke the next morning, refreshed and filled with wonder, he discovered that the magical tree was no more than a humble mango tree, and the magical children had vanished.\n\nBut, from that day forward, whenever Nnamdi was near the mango tree, he could hear the faintest echoes of the magical birds' harmonious songs, a reminder of the magic that lived in his world and the power of kindness.\n\nNnamdi grew up to be a great and kind leader in his village, inspiring all who knew him to cherish and protect the wonders of nature and the beauty of their world.\n\nNow, my dear child, close your eyes and let yourself drift off to sleep, remembering the tale of Nnamdi and the magical birds. Listen for the faintest melodies that may come your way and carry the spirit of Nnamdi's kindness, love, and curiosity into your dreams. Sweet dreams, my child.",
+  "categories": {
+    "kind-hearted": "moral",
+    "bright smile": "physical",
+    "endless curiosity": "mental",
+    "eager to learn": "mental",
+    "compassionate": "emotional",
+    "filled with awe": "emotional",
+    "worthy of trust": "moral",
+    "inspiring": "emotional",
+    "great leader": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.38",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

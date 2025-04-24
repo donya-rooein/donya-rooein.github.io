@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-1-gc-3",
+  "story": "Once upon a time, in a bustling Middle-Eastern village, there lived a young boy named Amir. Amir was known throughout the village for his kind heart and adventurous spirit. Every night before bed, his mother would tuck him in and tell him a special bedtime story.\n\nOne evening, as the moon rose high in the sky, Amir's mother sat beside him and began, \"Long ago, in a far-off desert land, there lived a majestic Arabian horse named Sahar. Sahar was the fastest and most magnificent horse in all the land, with a coat as black as the night sky and eyes that sparkled like precious gems.\"\n\nAmir listened intently as his mother continued, \"One day, Sahar was stolen from his home by a group of greedy bandits. But Sahar was determined to find his way back to the village he loved. Through sandy dunes and scorching sun, Sahar journeyed, guided by the stars above and the strength within his heart.\"\n\n\"As Sahar faced many challenges along his journey, he met new friends who helped him navigate the treacherous terrain of the desert. With their support and his unwavering determination, Sahar finally reached his village and was welcomed back with open arms.\"\n\nAmir's eyes grew heavy as his mother spoke softly, \"And so, Sahar and his friends lived happily ever after, teaching us that with courage and friendship, we can overcome any obstacle that comes our way.\"\n\nWith a gentle kiss on his forehead, Amir's mother whispered, \"Goodnight, my dear son. May your dreams be filled with the adventures of Sahar and the lessons he taught us.\"\n\nAnd as Amir drifted off to sleep, he imagined himself riding through the desert on the back of Sahar, the majestic Arabian horse, knowing that bravery and friendship would always guide him home.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "intently listening": "mental",
+    "heavy eyes": "physical",
+    "dreaming": "mental",
+    "imagining": "mental",
+    "bravery": "moral",
+    "friendship": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-19-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little girl named Meera. Meera was always fascinated by the beautiful birds that would visit her garden every day. She would spend hours watching them and trying to learn their songs.\n\nOne day, a tiny sparrow with a broken wing fell into Meera's garden. Meera gently picked up the injured bird and took it inside her house. She made a small nest for the sparrow and fed it with rice and water.\n\nDays turned into weeks, and with Meera's love and care, the sparrow's wing healed. Meera was delighted to see the sparrow fly again. But to her surprise, the sparrow did not leave. Instead, it stayed in Meera's garden and sang beautiful songs all day long.\n\nMeera and the sparrow became the best of friends. They would spend their days together, playing and talking. Meera would share her stories and the sparrow would sing its songs.\n\nOne day, Meera's father asked her, \"Meera, why do you spend so much time with the sparrow? Don't you have other things to do?\"\n\nMeera looked at her father and said, \"Father, the sparrow is my friend. It has taught me the importance of kindness, patience, and love. I have learned so much from it. And in return, I have been able to help it when it was in need.\"\n\nMeera's father smiled and hugged her. He realized that Meera had not only gained a friend but also learned valuable life lessons from the tiny sparrow.\n\nFrom that day on, Meera and her father would sit in the garden, listening to the sparrow's songs and sharing stories. And they all lived happily ever after.\n\nAnd so, my dear daughter, always remember to be kind and patient, just like Meera, and you will surely make this world a better place. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "patient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "84.07",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

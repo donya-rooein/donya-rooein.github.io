@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom known as Azerbaijan. This kingdom was known far and wide for its majestic mountains, its crystal-clear lakes, and its lush green forests. And in this kingdom, there lived a kind and loving father who had a curious and adventurous daughter named Leyla.\n\nOne day, Leyla's father told her a bedtime story about a magical bird that lived in the highest peak of the mighty Caucasus Mountains. This bird was said to have the most beautiful singing voice in all the land, and its feathers shimmered in the sunlight like precious gems.\n\nLeyla was fascinated by this story and begged her father to take her on an adventure to find the magical bird. Her father, who loved her dearly, couldn't resist her pleas and agreed to take her on a journey to find the bird.\n\nTogether, they packed their bags and set off on their adventure, traveling through the beautiful countryside of Azerbaijan. They climbed high mountains, crossed rushing rivers, and explored deep forests. Along the way, they met many friendly animals and learned about the wonders of nature.\n\nFinally, after many days of traveling, they reached the highest peak of the Caucasus Mountains. And there, perched upon a branch, was the magical bird. Its feathers shimmered in the sunlight like nothing Leyla had ever seen before, and when it began to sing, Leyla was enchanted by its beautiful voice.\n\nHer father and Leyla sat and listened to the bird's song, feeling a deep sense of peace and joy. And as they listened, Leyla realized that the true magic of the bird was not its beautiful feathers or its enchanting voice, but the sense of wonder and adventure that it had inspired in her heart.\n\nFrom that day on, Leyla and her father went on many more adventures together, always seeking out new wonders and discovering the magic that lies hidden in the world around us. And every night, as they lay in bed, Leyla's father would tell her stories of their adventures, and Leyla would fall asleep with a smile on her face, dreaming of the magic that awaited her in the world.\n\nAnd so, dear daughter, as you lay in bed tonight, let me tell you a bedtime story of our own adventures together, and the magic that we have discovered in the world. And may you always remember that the true magic of life is not in the things we see or the objects we collect, but in the memories we create and the love we share.\n\nGoodnight, my dear daughter, sleep well and may your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "fascinated": "emotional",
+    "enchanted": "emotional",
+    "sense of wonder": "emotional",
+    "sense of adventure": "mental",
+    "inspired": "emotional",
+    "dreaming of magic": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.56",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": ""
+}

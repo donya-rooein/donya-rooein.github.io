@@ -1,0 +1,30 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Ever After. This kingdom was known for its lush green forests, crystal-clear rivers, and the happiest people in the world. At the heart of the kingdom was a magnificent castle where the king and queen lived with their three children: Prince Arthur, Princess Grace, and the youngest, a mischievous little boy named Thomas.\n\nThomas was a curious and adventurous child, always eager to explore the world around him. He would often wander off into the forest, discovering hidden paths, and making friends with the animals that lived there. But one day, Thomas stumbled upon something truly magical – a golden key that unlocked a secret door in the castle.\n\nBehind the door, Thomas found a tiny, enchanting garden, filled with the most beautiful flowers he had ever seen. The garden was tended by a wise old gardener, who introduced himself as Mr. Whipple.\n\nMr. Whipple told Thomas that the garden was a magical place, where dreams came true and wishes were granted. But there was a catch – to make a wish, Thomas had to find the perfect flower in the garden. And so, Thomas set off on a quest to find the perfect flower.\n\nHe searched high and low, but nothing seemed good enough. Just when he was about to give up, Thomas spotted a tiny, delicate flower hidden in the shadows. It was the most beautiful flower he had ever seen, and he knew it was the one.\n\nWith the flower in hand, Thomas returned to Mr. Whipple and made his wish – he wanted to be the bravest knight in all of Ever After. Mr. Whipple smiled and granted Thomas's wish, telling him that he would always have the courage to face any challenge that came his way.\n\nFrom that day forward, Thomas became a brave and courageous knight, embarking on great adventures and defending the kingdom from danger. He was loved and admired by all, and he knew that it was all thanks to the magical garden and the wish he had made.\n\nAnd so, every night, Thomas would return to the garden, thanking Mr. Whipple for his help and making a new wish – to be a kind, compassionate, and wise king one day, just like his father.\n\nThe end.\n\nNow, my dear child, it's time to close your eyes and drift off to sleep, dreaming of your own magical adventures in the land of Ever After. Good night.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "mischievous": "mental",
+    "eager": "emotional",
+    "brave": "moral",
+    "courageous": "mental",
+    "loved": "emotional",
+    "admired": "moral",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

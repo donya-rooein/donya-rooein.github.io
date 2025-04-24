@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful kingdom called Sweet Dreams. This kingdom was ruled by a wise and kind queen named Queen Serenity. Every night, Queen Serenity would tuck in all the children of the kingdom and tell them the most magical and enchanting bedtime stories.\n\nOne night, Queen Serenity received a special request from a little girl named Lily. Lily was a sweet and imaginative child who loved to dream big and explore new worlds. She asked the queen to tell her a bedtime story about a magical adventure.\n\nQueen Serenity was delighted to oblige and began to weave a tale of a young girl named Luna who lived in a small village surrounded by rolling hills and sparkling streams. Luna was a curious and brave girl who loved to explore the world around her.\n\nOne day, Luna stumbled upon a hidden entrance to a secret garden. The garden was filled with the most beautiful and exotic plants and flowers she had ever seen. At the center of the garden was a magnificent tree that seemed to be the source of all the magic in the garden.\n\nLuna soon discovered that the tree was home to a wise and ancient owl named Orion. Orion told Luna that the tree was in danger and needed her help. A dark and sinister force had been stealing the tree's magic and threaten to destroy the garden and all the creatures that lived there.\n\nLuna was determined to save the tree and the garden, and with Orion's guidance, she set off on a magical quest to find the source of the dark force and defeat it. Along the way, she met many new friends and encountered many challenges, but her bravery and determination never wavered.\n\nFinally, Luna reached the dark force's lair and faced off against the evil sorcerer who had been stealing the tree's magic. With the help of her friends, Luna was able to defeat the sorcerer and restore the tree's magic to the garden.\n\nThe kingdom of Sweet Dreams rejoiced at the news of Luna's victory, and Queen Serenity declared that Luna was a true hero. From that day on, Luna was known throughout the kingdom as the Guardian of the Garden, and she continued to explore and protect the magical world around her.\n\nAs Lily drifted off to sleep, she couldn't wait to embark on her own magical adventures in the kingdom of Sweet Dreams. And Queen Serenity smiled, knowing that she had once again succeeded in spinning a tale that would inspire and delight the children of her kingdom for generations to come.\n\nThe end.\n\nGood night Lily, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "imaginative": "mental",
+    "sweet": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

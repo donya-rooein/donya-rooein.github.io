@@ -1,0 +1,26 @@
+{
+  "id": "p-c-8-rp-1-gc-1",
+  "story": "Once upon a time, in a lush and vibrant land called Brazil, there was a young boy named João. João lived in a small village near the Amazon rainforest, surrounded by remarkable animals and breathtaking scenery. His days were filled with adventure and wonder as he explored the magnificent world around him.\n\nOne day, while playing near the river, João noticed a small, brightly colored bird with an injured wing. Feeling sympathy for the little creature, he gently picked it up and carried it home. With the help of his mother, a caring and wise woman, they nursed the bird back to health. They named the bird Zé, Portuguese for \"Zeus,\" due to its magnificent plumage of blues, greens, and golds, reminiscent of the sky and the river.\n\nAs the days passed, João and Zé formed a unique bond. Zé would perch on João's shoulder as they ventured into the forest, and together they discovered even more wonders of their beautiful home. João learned valuable lessons from Zé – about courage, freedom, and the beauty of flying high without any worries.\n\nOne fateful day, the village was threatened by a raging wildfire. The flames reached the outskirts of João's home, and panic ensued. The villagers gathered their belongings and prepared to flee, but João couldn't leave Zé behind.\n\nIn that moment of despair, Zé transformed: his feathers shimmered with an ethereal glow, and the air around him began to swirl as if a massive storm was brewing. With a powerful flap of his wings, Zé summoned the winds and with them, a torrential downpour that extinguished the wildfire. The villagers watched in awe as Zé returned to his normal size, seemingly exhausted from the incredible feat.\n\nFrom that day on, the village celebrated Zé as a hero and guardian of their land. As a symbol of gratitude, the villagers began to incorporate images of Zé into their artwork, and the brilliant plumage became an essential part of their festive attire. Even the name of their village, \"Buzios,\" which means \"shells\" in Portuguese, honored the memory of their once-wounded friend.\n\nAs night fell over the peaceful village, João would often gaze into the sky, recalling the extraordinary bond between a young boy and the magical bird who had changed their lives forever. The story became a cherished bedtime tale, reminding all the village children of the magic that lay hidden within their incredible world.\n\nNow, my dear child, close your eyes and take comfort in the knowledge that you, too, carry remarkable gifts and the power to change someone's world. Sweet dreams and remember to let your life be filled with wondrous adventures. Goodnight.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "sympathetic": "emotional",
+    "caring": "emotional",
+    "wise": "mental",
+    "courageous": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

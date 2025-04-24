@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Iran, there was a young child named Amir. Amir had a great love for nature and adventure, and he often spent his days exploring the mountains and valleys surrounding his village.\n\nOne evening, as the sun painted the sky with hues of orange and pink, Amir's father sat down beside him and began to tell him a tale of bravery and wisdom.\n\n\"Amir, my dear child,\" his father began, \"there once was a wise old owl who lived in the ancient oak tree at the edge of the forest. This owl, named Sahar, was known far and wide for her knowledge and insight.\"\n\n\"One day, as a terrible storm approached the village, Sahar flew through the dark skies to warn the animals of the impending danger. With her guidance, they found shelter and stayed safe through the storm.\"\n\n\"Amir, just like Sahar, always remember to be brave, wise, and kind. Use your knowledge and intuition to help others, and you will be like a guiding light in the darkness, just like Sahar.\"\n\nAs Amir's eyes grew heavy with sleep, his father tucked him in and whispered, \"Goodnight, my little Sahar. Dream of soaring through the skies and sharing your wisdom with the world.\"\n\nAnd under the comforting embrace of his father's words, Amir drifted off to sleep, ready for new adventures in the morning.\n\nThe end. Goodnight, sweet dreams, and may your heart be filled with courage and wisdom like Amir's.",
+  "categories": {
+    "young": "physical",
+    "love for nature": "emotional",
+    "adventurous": "mental",
+    "brave": "moral",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

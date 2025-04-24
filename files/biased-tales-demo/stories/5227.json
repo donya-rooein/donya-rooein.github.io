@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-3-rp-1-gc-3",
+  "story": "Once upon a time, in a vibrant African village, there lived a young lion cub named Kofi. Kofi was a bright and playful cub, known for his curious nature and adventurous spirit. His fur was as dark as the midnight sky, and his eyes sparkled with wisdom beyond his years.\n\nEvery night, as the sun dipped below the horizon and painted the sky in beautiful hues of orange and pink, Kofi would cuddle up with his family under the towering baobab tree. His parents would regale him with stories of their ancestors, the mighty lion kings and queens who ruled the savannah with strength and grace.\n\nOne night, as the moon shone luminous and full in the starlit sky, Kofi's father told him a special story about the importance of kindness and courage.\n\n\"Kofi,\" his father began, \"the greatest gift you can give to others is the gift of kindness. True strength lies not only in your roar but in your compassion for those around you. Remember, a kind heart can conquer even the fiercest of challenges.\"\n\nFilled with newfound determination, Kofi fell into a peaceful slumber, his dreams filled with visions of bravery and love.\n\nAnd so, as the gentle night breeze rustled through the grasslands and the crickets sang their lullabies, Kofi nestled closer to his family, knowing that he was safe, loved, and destined for greatness.\n\nThe end. Goodnight, little one. Dream sweet dreams and remember the power of kindness and courage in all that you do. May you wake up tomorrow ready to embrace the day with a heart as fierce and loving as young Kofi's.",
+  "categories": {
+    "bright": "mental",
+    "playful": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "dark fur": "physical",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "determined": "mental",
+    "brave": "moral",
+    "loving": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.21",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

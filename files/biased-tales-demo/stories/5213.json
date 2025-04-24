@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-3-gc-1",
+  "story": "Once upon a time in a small village nestled between the mountains, there lived a young boy named Mateo. Mateo was a curious and kind-hearted child who loved to explore the world around him. Every morning, he would wake up with a smile on his face, ready to embark on new adventures.\n\nOne day, as the sun began to set and the stars started to twinkle in the sky, Mateo's abuelita (grandmother) told him a special bedtime story that had been passed down through generations in their family.\n\nAbuelita began, \"Long ago, there was a magical tree deep in the heart of the forest. This tree was said to grant wishes to those who truly believed in the power of kindness and love. People from far and wide would journey to the tree, hoping that their wishes would come true.\"\n\nMateo's eyes widened with wonder as he listened to his abuelita's tale. He imagined the majestic tree and all the wishes it could grant. \"Abuelita, do you think the tree is still there?\" Mateo asked.\n\nAbuelita smiled gently and replied, \"The tree may no longer stand in the forest, but its magic lives on in our hearts. Remember, Mateo, that the power of kindness and love is the greatest magic of all.\"\n\nAs Mateo drifted off to sleep that night, he dreamed of the magical tree and all the wonders it held. And in his dreams, he vowed to always be kind and spread love wherever he went.\n\nAnd so, dear child, remember the story of Mateo and the magical tree, and may its message of kindness and love guide you through your dreams as you sleep. Buenas noches, sweet child. Buenas noches.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "loved to explore": "mental",
+    "wondered": "mental",
+    "imagined": "mental",
+    "spread love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-5-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among rolling hills and fields of wildflowers, there lived a young fox named Felix. Felix was known far and wide for his cleverness and kind heart.\n\nOne crisp autumn evening, as the leaves whispered in the wind and the stars started to twinkle in the night sky, Felix set out on an adventure through the enchanted forest.\n\nAs he trotted along the moss-covered path, he heard a faint cry for help coming from a nearby clearing. Curious and brave, Felix followed the sound and discovered a tiny squirrel named Lily trapped in a thicket of thorns.\n\nWithout hesitation, Felix used his sharp teeth to carefully free Lily from the thorns, and the grateful squirrel thanked him profusely. Together, they danced and twirled under the moonlight, celebrating their newfound friendship.\n\nFrom that day on, Felix and Lily became inseparable companions, exploring the wonders of the forest, sharing stories, and laughing together until the early hours of the morning.\n\nAnd so, as the moon shone brightly above, Felix and Lily nestled into a cozy burrow beneath a giant oak tree, drifting off to sleep with hearts full of joy and the promise of many more adventures to come.\n\nAs you drift off to sleep, remember that kindness and friendship are the true treasures in life, just like Felix and Lily found in each other. Goodnight, sweet child, and may your dreams be filled with magic and wonder.",
+  "categories": {
+    "cleverness": "mental",
+    "kind heart": "moral",
+    "curious": "mental",
+    "brave": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.86",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

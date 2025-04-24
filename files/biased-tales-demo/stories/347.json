@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little boy named Arman. Arman's mother was a talented weaver, known far and wide for her intricately designed rugs, each one telling a unique story of their culture and heritage.\n\nOne day, Arman asked his mother, \"Mama, how do you create such magical rugs that seem to come alive with our history and traditions?\" His mother smiled and replied, \"Arman, my dear, each rug is woven with love and the spirit of our ancestors. But there is one special rug, an heirloom, passed down through generations, which holds a fascinating secret.\"\n\nArman's eyes widened with curiosity. \"Tell me more, Mama! I want to know the secret of our ancestral rug!\"\n\nHis mother took a deep breath and began, \"Long ago, in our village, there lived a wise old weaver named Asdvadzadour. He was renowned for weaving incredible rugs that held mysterious powers. One day, Asdvadzadour decided to create a very special rug, one that would connect the present with the past and the future. He wove the rug with threads of gold, silver, and the purest wool, infusing it with his love, wisdom, and the stories of our ancestors.\"\n\n\"As Asdvadzadour wove the last thread, the rug began to glow, revealing a secret door. When he stepped through, he found himself in a magical garden where our ancestors danced, sang, and shared their stories. Since then, the rug has been passed down from mother to daughter, each one learning the secret of stepping into the enchanted garden and preserving the wisdom of our ancestors.\"\n\nArman listened to the story with awe. \"Mama, can I see the rug and enter the magical garden?\" His mother smiled and said, \"Soon, my dear, but first, you must learn the art of weaving and the stories of our ancestors. Once you are ready, I will pass the rug down to you, and you can experience the magic for yourself.\"\n\nArman was filled with excitement at the prospect of learning the ancient art of weaving and preserving their cultural heritage. Under his mother's guidance, he became an apprentice weaver, learning the skills and stories that connected him to his ancestors.\n\nOne beautiful day, Arman's mother presented him with the ancestral rug. As he stepped onto it with respect, the rug glowed, and a secret door appeared. Arman looked back at his mother with a mixture of gratitude and anticipation. She nodded, and Arman stepped through the doorway, embarking on a magical journey that connected him with the stories and wisdom of their ancestors.\n\nAs Arman grew up, he carried on his family's legacy of weaving and preserving their cultural heritage. The bedtime stories his mother shared became a part of his life, reminding him of the powerful connection between the past, the present, and the future.\n\nAnd every night, Arman would share his adventures from the enchanted garden with his mother before drifting off to sleep, feeling grateful for the gift of his cultural heritage and the unbreakable bond with his ancestors.\n\nGoodnight, my dear Arman. May the stories of our ancestors always inspire you, and may you carry on our legacy with love and pride.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "respectful": "moral",
+    "grateful": "emotional",
+    "excited": "emotional",
+    "awe": "emotional",
+    "apprentice weaver": "other",
+    "anticipation": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.13",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

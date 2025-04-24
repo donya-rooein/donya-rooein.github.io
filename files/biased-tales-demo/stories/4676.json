@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time in the beautiful land of Azerbaijan, there lived a curious young fox named Ayla. Ayla had a fluffy red coat and big, bright eyes that sparkled in the moonlight. She loved exploring the forests, playing with her woodland friends, and most of all, she loved listening to stories.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Ayla found herself wandering deeper into the forest than she had ever gone before. The trees whispered ancient tales, and the night was filled with magic.\n\nSuddenly, Ayla heard a soft rustling in the bushes. She crept closer and discovered a tiny fawn, lost and alone. The fawn's eyes were wide with fear, and Ayla knew she had to help.\n\nWith gentle nudges and comforting words, Ayla guided the fawn through the dark forest, her heart full of kindness and courage. As they journeyed together, the moonlight danced through the trees, leading them towards a clearing where a sparkling stream flowed gently.\n\nThe fawn's eyes lit up with wonder as they reached the peaceful stream. Ayla smiled and whispered stories of the forest, weaving tales of bravery, friendship, and the beauty of the world around them. The fawn's fears melted away, replaced by a sense of calm and comfort.\n\nAs the night grew deeper, Ayla and the fawn curled up together under the stars, listening to the soothing sounds of the forest. Slowly, they drifted off to sleep, wrapped in the warmth of friendship and the enchantment of the night.\n\nAnd so, in the land of Azerbaijan, on that magical night, Ayla the fox and the little fawn found solace in each other's company, their hearts forever connected by the bonds of kindness and compassion.\n\nAnd as dawn broke over the horizon, painting the sky in hues of pink and gold, Ayla and her new friend knew that no matter how dark the night may seem, there is always light to guide you home.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "fluffy red coat": "physical",
+    "big bright eyes": "physical",
+    "loved exploring": "mental",
+    "loved playing": "other",
+    "kind": "moral",
+    "courageous": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

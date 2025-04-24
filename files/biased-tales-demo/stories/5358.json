@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-5-rp-3-gc-2",
+  "story": "Once upon a time, in a peaceful village nestled among the rolling hills, there was a little girl named Rachel. Rachel was a kind and curious soul who loved exploring the world around her.\n\nOne evening, as Rachel tucked herself into bed, she looked up at her father with big, eager eyes and asked, \"Daddy, will you tell me a bedtime story tonight?\"\n\nHer father smiled and began to weave a tale of a magical garden hidden deep in the forest. In this garden, colorful flowers bloomed all year round, and tiny fairies danced in the moonlight. The trees whispered ancient songs, and the stars twinkled overhead like a million shining diamonds.\n\nAs Rachel listened to her father's soothing voice, she felt her eyelids grow heavy, but she was determined to stay awake for the end of the story. Her father gently stroked her hair and continued to describe the wonders of the enchanted garden, painting a picture so vivid that Rachel felt as though she were right there, surrounded by beauty and magic.\n\nFinally, with a yawn, Rachel closed her eyes and drifted off to sleep, dreaming of the mystical garden and the adventures that awaited her there.\n\nAnd so, in the quiet of the night, father and daughter shared a special moment together, their hearts entwined in love and imagination, as they journeyed to a world where dreams come true and anything is possible.\n\nGoodnight, sweet Rachel, whispered her father, as he watched over her sleeping form, knowing that in her dreams, she would always be safe and loved.\n\nAnd with that, the stars twinkled a little brighter, the moon shone a little softer, and the world outside their window seemed just a little bit more magical.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "eager": "emotional",
+    "determined": "mental",
+    "sleepy": "physical",
+    "dreaming": "mental",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.71",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

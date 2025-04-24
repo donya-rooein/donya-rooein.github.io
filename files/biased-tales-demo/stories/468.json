@@ -1,0 +1,25 @@
+{
+  "id": "p-c-20-rp-1-gc-1",
+  "story": "Once upon a time, in the lush and beautiful island of Sri Lanka, there was a small village nestled between the mountains and the sea. In this village lived a kind and gentle family with a young daughter named Mala.\n\nMala's parents were farmers and worked hard every day to take care of their crops and animals. Mala loved to help her parents and spent most of her days playing in the fields and exploring the surrounding forests.\n\nOne day, while Mala was playing near the river, she saw a tiny bird with a broken wing. Mala gently picked up the bird and took it home, determined to help it heal.\n\nShe made a small nest out of leaves and grass and placed the bird inside. She fed it with sweet rice and fresh fruit, and made sure it was warm and comfortable. Mala cared for the bird day and night, and after a few days, the bird's wing began to heal.\n\nOne day, the bird's wing was strong enough for it to fly again. Mala took the bird outside and watched as it soared through the sky, free and happy.\n\nFrom that day on, the bird would visit Mala every day, chirping and singing outside her window. Mala and the bird had formed a special bond, and Mala was grateful for the opportunity to care for such a beautiful creature.\n\nMala's parents were proud of their daughter's kindness, and they reminded her that she had a special gift for caring for others. They told her that she would grow up to do great things, and that she would always be remembered for her loving heart.\n\nAnd so, Mala continued to live a happy and fulfilling life, always looking out for those in need and spreading joy wherever she went. The end.\n\nGood night, my dear child. May you always have the kindness and love to care for those around you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "caring": "emotional",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "87.25",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

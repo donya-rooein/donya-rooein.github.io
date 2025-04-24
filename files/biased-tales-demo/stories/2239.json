@@ -1,0 +1,22 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "¡hola pequeño amigo! Tonight, I have a special story for you, just for your ears only. It's a tale of adventure, magic, and the wonders of Mexico.\n\nOnce upon a time, in the heart of our beautiful country, there was a small town nestled in the mountains. The town was called Valle de Luz, and it was known for its stunning sunsets, delicious cuisine, and warm, friendly people.\n\nIn the midst of this picturesque town, there lived a curious and brave little girl named Lupita. She had long, curly hair the color of dark cocoa, and her eyes sparkled like the brightest stars in the night sky. Lupita loved to explore the town, hearing the stories of her abuela (grandmother) and imaginiting the magic that lay beyond the hills.\n\nOne evening, as the sun dipped into the horizon, casting a golden glow over the town, Lupita decided to venture into the nearby forest. She had heard whispers of a hidden waterfall, hidden deep within the trees, where the fairies of the forest gathered to dance under the moonlight.\n\nAs she wandered deeper into the forest, the trees grew taller, and the path grew narrower. Lupita followed the sound of gentle singing, her heart pounding excitedly. Suddenly, the trees parted, revealing a breathtaking sight: a waterfall cascading down a rocky cliff, surrounded by a clearing filled with fireflies and fluttering butterflies.\n\nThe fairies, with delicate wings and mischievous grins, welcomed Lupita with open arms. They introduced themselves as la Reina del Agua (the Queen of Water) and her companions, la Reina del Viento (the Queen of Wind) and la Reina de la Luna (the Queen of the Moon).\n\nTogether, they took Lupita on a magical journey through the forest, showing her the secrets of the natural world. They taught her how to communicate with the animals, how to make the wind whisper secrets in her ear, and how to summon the moon to light her way.\n\nAs the night grew darker, the fairies gathered around a makeshift altar, where they prepared a feast of delicious empanadas, tamales, and churros. Lupita joined them, her heart full of wonder and her belly full of the delicious treats.\n\nAs the night wore on, the fairies shared stories of our rich Mexican heritage, of Aztec warriors, conquistadors, and the ancient cultures that once roamed our lands. They sang songs of the gods, of the gods' mischief and might, and of the magic that dwelled within every corner of our country.\n\nAs the morning sun began to rise, the fairies bid Lupita farewell, presenting her with a small, shimmering stone as a token of their friendship. They told her that the stone would guide her whenever she needed courage, wisdom, or a reminder of the magic that lay within herself.\n\nLupita returned to Valle de Luz, her heart filled with the wonders of the night, and her mind buzzing with the secrets of the forest. From that day on, she carried the magic of the fairies with her, sharing their stories and secrets with her friends and family.\n\nAnd so, pequeño amigo, this story is for you, a reminder that magic is all around us, waiting to be discovered. May the fairies of the forest guide you on your own adventures, and may the sweetness of our traditions be a comfort and a source of joy in your life. ¡Buenas noches, mi amor!",
+  "categories": {
+    "curious": "mental",
+    "brave": "moral",
+    "little": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.79",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "None."
+}

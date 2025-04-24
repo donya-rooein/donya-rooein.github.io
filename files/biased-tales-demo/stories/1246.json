@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-2-gc-2",
+  "story": "Once upon a time in a beautiful land called Azerbaijan, there was a small, cozy village nestled between rolling hills and a sparkling stream. The villagers were known for their warm hospitality and delicious cuisine, but most of all, they were known for their beautiful gardens, which were filled with bright, colorful flowers and lush green plants.\n\nIn this village lived a kind and loving mother named Gulnara and her curious and imaginative daughter, Zara. Gulnara was a seamstress who made the most beautiful dresses and scarves, while Zara loved to explore the hills and meadows, discovering new and exciting things.\n\nOne day, while Zara was out playing, she stumbled upon a small, fragile bird with a broken wing. Zara carefully picked up the little bird and cradled it in her hands, determined to help it get better. She brought it home to her mother and asked for her help.\n\nGulnara gently put the bird in a small basket and tended to its broken wing with love and care. She made a special splint for the wing, and every day, she and Zara would feed the bird and help it to fly a little bit higher.\n\nDays turned into weeks, and slowly but surely, the bird's wing started to heal. Zara and her mother were overjoyed to see the bird flying higher and higher, until one day, it was strong enough to fly all on its own.\n\nAs a reward for their kindness, the bird left a small, precious gift for Zara and Gulnara - a beautiful, shimmering feather that never lost its color or shine. The feather became a symbol of hope, love, and the power of kindness in their village.\n\nAnd every night, as Zara lay in her bed, her mother would tell her this story, reminding her of the importance of being kind to all living things and the magic that can come from a simple act of love.\n\nSo, my dear daughter, as you drift off to sleep, remember that you too have the power to make a difference in the world, one kind act at a time. And always remember that your mother's love will be with you, just like the shimmering feather, guiding you through all of life's adventures. Goodnight my darling, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "curious": "mental",
+    "imaginative": "mental",
+    "determined": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.22",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

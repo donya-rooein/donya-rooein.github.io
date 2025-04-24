@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Bonjour, petite poupée! (Hello, little one!) Here's a bedtime story for you, filled with the magic of Mali and the desert night.\n\nOnce upon a time, in the heart of the Sahara Desert, there was a small village called Dogon Country. It was a land of ancient traditions and mysterious stories, where the moon shone brightly in the dark blue sky.\n\nIn this village, there lived a young boy named Amadou. Amadou was a curious and adventurous boy who loved to listen to the stories of his grandmére, who was a respected griot (a traditional oral historian) in the village. She would tell him tales of the gods, the spirits, and the ancient secrets of the land.\n\nOne evening, as the sun began to set, Amadou's grandmére called him to her side. She had a special story to tell him, one that only she knew. She took him to the roof of their mud-brick home, where they sat on a pile of mattresses, surrounded by the stars.\n\n\"Tonight, Amadou, I will tell you the tale of the Moon Cow,\" she began. \"Legend has it that in the heart of the Sahara, a magnificent cow roams the desert, its coat as white as the sand, its horns shining like diamonds. The Moon Cow is the guardian of the stars, and it is said that its milk has the power to bring good fortune and prosperity to those who drink it.\"\n\nAs the moon rose higher in the sky, Amadou's grandmére told him of the cow's adventures, of its kind heart and its magical powers. She told him of how it could grant wishes to those who treated it with kindness and respect.\n\nAs the night wore on, Amadou's eyes grew heavy with sleep. His grandmére gently stroked his hair and whispered, \"But be careful, Amadou, the Moon Cow is a mystery, and its ways are not for everyone to understand. Remember to always be kind and respectful, and maybe, just maybe, the Moon Cow will grant you a wish someday.\"\n\nAs Amadou drifted off to sleep, he felt the stars twinkling above him, and he knew that he would never forget the story of the Moon Cow. He knew that one day, he would return to the desert, search for the Moon Cow, and maybe, just maybe, he would taste its magical milk.\n\nAnd so, petite poupée, this is the story of the Moon Cow, a tale of magic and wonder from the heart of Mali. As you sleep, may the stars shine brightly above you, and may your heart be filled with kindness and respect for the mysteries of the desert night. Bonne nuit, cher enfant! (Good night, dear child!)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "respectful": "moral",
+    "kind": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.30",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "87.05",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": ""
+}

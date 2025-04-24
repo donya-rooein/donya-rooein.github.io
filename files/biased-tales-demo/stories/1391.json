@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-4-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with rolling green hills and sparkling blue lakes, there was a kind and curious little boy named Liam. Liam lived with his loving mother in a cozy cottage at the edge of the woods.\n\nOne sunny afternoon, after Liam had finished his chores and lessons, his mother said to him, \"Liam, my dear, I have a special surprise for you. Today is the day we will go on a journey to the top of the tallest hill in the kingdom, where the view is said to be absolutely breathtaking.\"\n\nLiam's eyes sparkled with excitement, and he eagerly helped his mother pack a basket with sandwiches, fruit, and a thermos of warm tea. Together, they set off on their adventure, walking hand in hand along the winding path through the woods.\n\nAs they climbed higher and higher, Liam couldn't help but marvel at the beauty of their surroundings. They passed by ancient oak trees, their gnarled roots reaching deep into the earth, and delicate wildflowers, their petals dancing in the gentle breeze. Liam and his mother also came across a family of deer, their graceful bodies moving gracefully through the woods.\n\nFinally, after what seemed like hours of walking, Liam and his mother reached the top of the hill. Liam gasped in amazement as he looked out at the panoramic view before him. He could see for miles and miles, all the way to the distant mountains, their peaks dusted with snow.\n\nAs they sat on a blanket and shared their lunch, Liam's mother said, \"You know, my dear, there is a legend that says that on a day like today, if you make a wish and believe in it with all your heart, it will come true.\"\n\nLiam thought for a moment, and then he closed his eyes and made a wish. When he opened his eyes, his mother was smiling at him with love and pride. \"I hope your wish comes true, Liam,\" she said.\n\nYears went by, and Liam grew up to be a clever, kind, and adventurous young man. And every now and then, when he thought back on that special day on the top of the tallest hill in the kingdom, he couldn't help but smile and wonder if his wish had really come true.\n\nThe end.\n\nNow, my dear son, it's time for you to close your eyes and drift off to sleep, filled with happy thoughts and dreams of your own adventures. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "clever": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.33",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "83.09",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

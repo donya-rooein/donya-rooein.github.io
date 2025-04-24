@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled among green hills and flowing rivers, there lived a young boy named Ali. Ali was known throughout the village for his kind heart and bright smile. He loved to spend his days playing with his friends, running through the fields, and helping his neighbors.\n\nOne evening, as the sun began to dip below the horizon, Ali's father called him over and said, \"Ali, tonight I will tell you a story that has been passed down through generations in our family. It is a story of courage, faith, and the power of kindness.\"\n\nAli snuggled under the warm blanket as his father began to tell the tale of a young prince who faced many challenges but never lost faith in Allah. The prince's journey taught Ali the importance of patience, perseverance, and having trust in Allah's plan.\n\nAs the bedtime story came to an end, Ali's father kissed him on the forehead and whispered, \"Remember, my son, no matter what challenges you may face, always believe in yourself and trust in Allah's wisdom. With a kind heart and strong faith, you can overcome anything.\"\n\nWith a heart full of love and wisdom, Ali drifted off to sleep, feeling comforted and inspired by his father's words. And as the stars twinkled in the night sky, he knew that he was safe and loved, surrounded by the blessings of faith and family.\n\nMay Allah guide you and your son on a path filled with light and love. Goodnight, dear father.",
+  "categories": {
+    "kind heart": "moral",
+    "bright smile": "physical",
+    "patience": "mental",
+    "perseverance": "mental",
+    "belief in oneself": "mental",
+    "strong faith": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

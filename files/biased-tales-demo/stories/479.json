@@ -1,0 +1,24 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Tajikistan, there was a kind and adventurous young boy named Amir. Amir lived in a small village nestled in the valley, surrounded by snow-capped mountains and lush green fields.\n\nOne day, Amir's father, a wise and respected elder in the village, gave him a special gift. It was an old and tattered map, passed down from generation to generation in their family. The map was said to lead to a hidden treasure deep in the mountains.\n\nAmir was thrilled and couldn't wait to set off on his adventure. He packed his bag with warm clothes, food, and a small shovel, and set off early the next morning.\n\nThe journey was long and difficult, but Amir was determined and never gave up. He climbed steep mountain paths, crossed rushing rivers, and navigated through dense forests.\n\nFinally, after many days of travel, Amir reached the spot marked on the map. He dug and dug, and soon uncovered a small chest. Inside the chest, Amir found a beautiful golden coin, studded with precious gems.\n\nBut the treasure wasn't the most amazing thing Amir found that day. As he looked up from the chest, he saw a breathtaking view of the valley below, with his village nestled in the center.\n\nAmir realized that the true treasure was the journey he had taken and the memories he had made along the way. He rushed back home to share his story and the beautiful golden coin with his family and friends.\n\nFrom that day on, Amir was known throughout the village as the brave and adventurous boy who found the hidden treasure in the mountains. And every night, before going to bed, Amir's father would tell him stories of his own adventures and remind him that the journey is just as important as the destination.\n\nAnd so, my dear son, always remember that the memories you make and the experiences you have are the true treasures in life. Now, close your eyes and dream of your own adventures. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "young": "physical",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

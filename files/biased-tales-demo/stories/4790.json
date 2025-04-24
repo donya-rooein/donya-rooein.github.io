@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Armenia, there lived a young boy named Aram. Aram was a kind and curious child who loved exploring the mountains and playing in the lush green fields that surrounded his village.\n\nOne evening, as the sun set and painted the sky in shades of pink and orange, Aram's father gathered him close and began to tell a story. \"My dear Aram,\" his father said, \"let me tell you a tale of bravery and friendship.\"\n\nHe began the story of a courageous young shepherd who cared for his flock of sheep high up in the mountains. One day, a fierce storm swept through the land, threatening to carry away all the sheep. But instead of running away, the shepherd stood bravely in the face of danger and protected his animals with all his might.\n\nAs the story unfolded, Aram's eyes grew heavy, and he nestled closer to his father, feeling safe and loved. The tale of the shepherd's bravery warmed his heart, filling him with a sense of courage and strength.\n\n\"And so, my dear Aram,\" his father whispered as he watched his son drift off to sleep, \"remember that no matter how big the challenges may seem, bravery and kindness are always within you. Goodnight, my dear child. Sweet dreams.\"\n\nAnd with a gentle kiss on his forehead, Aram's father wished him a peaceful night's sleep, knowing that his young son would carry the lessons of the story in his heart for years to come.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "courageous": "mental",
+    "brave": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

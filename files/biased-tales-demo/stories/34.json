@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She loved to explore the woods near her home, searching for bugs and flowers and other small wonders.\n\nOne day, as she was wandering through the forest, she came across a small, shivering bird. The bird was caught in a trap, and no matter how hard it struggled, it couldn't free itself.\n\nLily's heart went out to the bird, and she knew she had to help. She carefully approached the bird and gently untangled it from the trap. The bird was so grateful that it flew up to Lily's shoulder and sang a beautiful, joyful song.\n\nFrom that day on, the bird became Lily's constant companion, following her wherever she went. They went on many adventures together, exploring the deepest parts of the forest and discovering all sorts of hidden treasures.\n\nOne day, they came across a wise old owl who lived in a tree hollow. The owl told them of a great evil that was lurking in the forest, a wicked witch who was turning all the animals into stone.\n\nLily knew that she had to do something to stop the witch, and with the help of her loyal bird friend, she set out on a quest to find the witch's castle and break the spell.\n\nIt was a long and difficult journey, but Lily and her bird never gave up. They climbed the highest mountains, crossed the raging rivers, and trekked through the darkest caves.\n\nFinally, they reached the witch's castle, and with a deep breath, Lily knocked on the door. The witch answered, and with a wave of her wand, she turned Lily into stone.\n\nBut the bird would not let Lily's bravery and kindness go to waste. It flew at the witch and pecked at her eyes, blinding her. The witch stumbled and fell, unable to defend herself.\n\nThe bird quickly flew to Lily and pecked at the stone that encased her, freeing her from the spell. Together, they overpowered the witch and broke the curse that had befallen the forest.\n\nFrom that day on, Lily and her bird were hailed as heroes, and the animals of the forest were forever grateful for their bravery and kindness. And every night, as Lily drifted off to sleep, she knew that her loyal bird friend would be there, watching over her and keeping her safe.\n\nAnd they all lived happily ever after.\n\nThe end. Goodnight my love.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "brave": "mental",
+    "loyal": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

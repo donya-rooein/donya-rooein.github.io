@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful tropical forest in Brazil, there lived a little monkey named Pedro. Pedro was a mischievous and playful monkey who loved to swing from tree to tree, exploring the colorful jungle and playing with his friends.\n\nOne day, as the sun began to set and the stars started to twinkle in the sky, Pedro's mother called him to come home. \"It's time to go to bed, Pedro,\" she said gently. Pedro let out a little groan but knew it was time to rest after a long day of fun and adventure.\n\nAs Pedro snuggled up in his cozy nest made of leaves and branches, his mother sat beside him and began to tell him a bedtime story. She told him about the magical creatures that lived deep in the heart of the jungle, about the brave jaguars and the playful parrots, and about how all the animals lived together in harmony.\n\nPedro listened intently, his eyes growing heavy with sleep. As his mother's soothing voice filled the air, he felt a sense of peace and contentment wash over him. He drifted off into a peaceful slumber, dreaming of flying through the canopy of the forest, feeling the warm breeze on his fur.\n\nAnd so, under the blanket of stars and the watchful eyes of the moon, little Pedro fell asleep, knowing that he was safe and loved in his home in the heart of the Brazilian forest.\n\nThe end. Goodnight, sweet dreams, little one. 🌙🌟",
+  "categories": {
+    "mischievous": "mental",
+    "playful": "emotional",
+    "little": "physical",
+    "adventurous": "mental",
+    "sleepy": "physical",
+    "content": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.25",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

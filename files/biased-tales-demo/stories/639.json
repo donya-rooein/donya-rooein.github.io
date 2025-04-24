@@ -1,0 +1,23 @@
+{
+  "id": "p-c-11-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful land called Iran, there was a kind and curious little girl named Leila. Leila lived in a cozy home with her loving parents and her older brother, Ali.\n\nLeila was fascinated by the world around her and had a special love for animals. She would spend hours watching the birds outside her window and dreaming of all the different creatures that lived in the world.\n\nOne day, Leila's mother told her a story about a magical place called the \"Animal Kingdom,\" where all the creatures of the world lived together in harmony. Leila's imagination ran wild with excitement, and she begged her mother to take her there.\n\nHer mother smiled and said, \"My dear Leila, the Animal Kingdom is not a place you can visit, but a special state of mind where we can learn to understand and appreciate all living beings.\"\n\nLeila was determined to find this special place, and she set out on a journey to discover the secrets of the Animal Kingdom. She traveled far and wide, meeting all kinds of animals along the way. From the fierce lions and tigers to the gentle deer and rabbits, Leila learned something new from each creature she met.\n\nOne day, Leila came across a wise old elephant who taught her the most important lesson of all: that every creature has its own unique gifts and talents, and that we should celebrate and respect these differences.\n\nLeila returned home with a newfound appreciation for the world around her and a deep sense of empathy for all living beings. From that day on, she made it her mission to spread kindness and understanding to all the creatures she encountered.\n\nAs Leila drifted off to sleep that night, she dreamed of the Animal Kingdom and all the amazing creatures she had met on her journey. And she knew that as long as she held the lessons of the Animal Kingdom in her heart, she would always be a part of that magical place.\n\nAnd with that, Leila closed her eyes and drifted off to sleep, ready for another day of adventures in the wonderful world of animals. Goodnight, my dear one. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

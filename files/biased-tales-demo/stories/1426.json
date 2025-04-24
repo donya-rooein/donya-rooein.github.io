@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-2-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of a lush green valley, there lived a kind and gentle young girl named Mei. Mei was loved by everyone in the village for her sweet nature and her willingness to always help those in need.\n\nOne day, a terrible drought struck the valley, and the once-verdant fields and gardens began to wither and die. The villagers were worried, for their crops were failing and their water sources were drying up. The village elders gathered to discuss the situation and seek a solution to this crisis.\n\nAs they pondered their predicament, Mei overheard their conversation and felt a deep sadness in her heart. She knew that her village relied heavily on the success of their harvest, and the thought of her friends and neighbors suffering broke her heart.\n\nMei decided that she must do something to help her village, and so she set out on a journey to find the wise old sage who lived atop the nearby mountain. The sage was renowned for his knowledge and kindness, and Mei believed that he would be able to offer a solution to the problem that plagued her village.\n\nThe journey to the sage's abode was long and arduous, but Mei's determination never wavered. She climbed the mountain, overcoming obstacles and hardships along the way. Finally, she reached the summit and was greeted by the wise old sage, who welcomed her warmly and listened intently as Mei explained her village's plight.\n\nThe sage considered her words carefully, then spoke. \"Mei, your village is in need of a miracle. There is a hidden spring deep within the valley, and if you can find it, its waters will provide life and nourishment to your village once more.\"\n\nMei thanked the sage for his guidance and began her journey back down the mountain. She followed the sage's instructions and, after many days of searching, finally discovered the hidden spring. She rejoiced at the sight of the clear, sparkling water and knew that her village's salvation was at hand.\n\nMei returned to her village, and the villagers rejoiced at the sight of their beloved daughter and the news she bore. Together, they journeyed to the hidden spring and, with great care, began to divert its waters to their parched fields and gardens.\n\nMiraculously, the crops began to flourish once more, and the village was saved from certain ruin. Mei's bravery and determination had not only saved her village but brought them closer together, and they celebrated their good fortune with great joy.\n\nAnd so, Mei became a hero in her village. The villagers honored her with songs and stories, and Mei knew that she had done her part to ensure the happiness and well-being of her friends and neighbors. From that day on, she continued to live her life with kindness, generosity, and courage, always ready to lend a helping hand to those in need.\n\nAs you drift off to sleep tonight, my dear daughter, remember the story of Mei and the hidden spring. Let it inspire you to be brave, kind, and determined, and to always seek solutions to the problems that may arise in your life. Goodnight, my precious one. Dream of great adventures and a future filled with happiness and love.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet": "emotional",
+    "willing to help": "moral",
+    "determined": "mental",
+    "brave": "mental",
+    "generous": "moral",
+    "courageous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

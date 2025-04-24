@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a kind and curious little girl named Zarina. She lived in a cozy home at the foot of the majestic Fann Mountains, with her loving parents and her trusty donkey, Samir.\n\nZarina was known throughout the valley for her adventurous spirit and her compassion for all living beings. She would often wander through the meadows, chatting with the butterflies, sharing stories with the tortoises, and singing with the birds. Her heart was full of love and her mind was full of questions about the world around her.\n\nOne day, while exploring a hidden valley, Zarina discovered a magical spring. The water in the spring sparkled like a thousand stars, and whenever someone drank from it, they would be granted a single wish. Zarina was thrilled! She thought of all the wonderful things she could wish for - a mountain of sweet fruits, a vast garden of beautiful flowers, or perhaps even a magical cloak that would allow her to fly!\n\nBut as she stood by the spring, contemplating her wish, Zarina noticed an injured bird lying on the ground nearby, its wing twisted and broken. She ran to the bird's side and gently stroked its feathers, whispering soothing words of comfort. The bird looked up at Zarina with tears in its eyes, and Zarina knew what she had to do.\n\nWith a heavy heart, she leaned down and scooped up some of the magical water in her hands, letting it touch the bird's broken wing. As the water made contact with the injured limb, a warm, golden light enveloped the bird, and its wing began to heal. Within moments, the bird was standing tall and strong, its wing fully restored.\n\nZarina smiled as the bird took to the air, singing a beautiful song of gratitude. She knew that her one wish had been granted, not in the form of wealth or power, but in the opportunity to heal and help a fellow creature. And as she walked home, hand in hand with her trusty donkey Samir, Zarina knew that she had made the right choice, and that her heart, filled with love and compassion, would continue to guide her in all her future adventures.\n\nGoodnight, my dear daughter. May your heart always be filled with love and your dreams filled with joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "full of love": "emotional",
+    "full of questions": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

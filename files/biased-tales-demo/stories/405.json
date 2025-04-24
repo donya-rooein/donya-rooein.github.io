@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time in the heart of Sudan, there was a beautiful village called Al-Dindir. In this village, there was a kind and loving family with a little boy named Adil. Adil was an adventurous and curious boy who was always eager to learn about the world around him. One day, Adil's father, a wise and respected man in the village, decided to tell Adil a bedtime story about the magical creatures that lived in the Nubian desert.\n\n\"My dear Adil,\" he began, \"long ago, before humans roamed the earth, magical creatures lived in the Nubian desert. They were known as the Jinn of the Sands, and they had the power to grant wishes to those who were deserving.\"\n\nAdil's eyes widened with excitement as he listened to his father's story. \"What did these Jinn look like, Father?\" he asked.\n\n\"Well, my son,\" his father replied, \"the Jinn of the Sands were tall and slender, with skin as golden as the sand dunes and hair as white as the desert clouds. They had eyes that sparkled like the stars in the sky, and they wore flowing robes that danced in the wind.\"\n\nAdil couldn't believe his ears. He had never seen such magical creatures before. \"But Father, how did the Jinn of the Sands grant wishes?\" he asked.\n\n\"Ah, my dear Adil,\" his father said with a smile, \"the Jinn of the Sands were known to grant wishes to those who showed kindness and compassion to others. They believed that the world would be a better place if everyone was kind and caring to one another. So, they would appear to those who were deserving of their wishes and grant them their deepest desires.\"\n\nAdil was amazed by this story and asked his father if he had ever seen the Jinn of the Sands. \"No, my son,\" his father replied, \"I have never seen them myself, but I have heard stories from the elders in our village who have. They say that the Jinn of the Sands still roam the desert, waiting to grant wishes to those who deserve them.\"\n\nAdil couldn't wait to grow up and go on his own adventures in the Nubian desert, hoping to one day see the Jinn of the Sands for himself. He thanked his father for the wonderful story and drifted off to sleep, dreaming of magical creatures and wish-granting Jinn.\n\nFrom that day on, Adil made it his mission to be kind and compassionate to everyone he met, hoping that one day, he would be deserving of a wish from the Jinn of the Sands.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "kind": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

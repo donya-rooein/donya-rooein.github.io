@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a lush green valley nestled among the mountains of Vietnam, there was a small, peaceful village called Cam Thanh. The villagers of Cam Thanh were hardworking and kind, and they all lived in harmony with one another and with the natural beauty that surrounded them.\n\nIn this village, there was a young boy named Linh who lived with his mother and father in a cozy stilt house by the edge of the rice paddies. Linh was a curious and adventurous boy who loved to explore the valley and all its hidden treasures.\n\nOne day, while playing near the edge of the forest, Linh stumbled upon a curious, glowing stone. The stone was the size of his fist and shimmered with all the colors of the rainbow. Linh was instantly drawn to the stone and picked it up, feeling a warm, tingling sensation in his hand.\n\nAs he held the stone, a voice spoke to him, soft and gentle, like the wind rustling through the trees. The voice told him that the stone was a precious gift from the spirits of the forest, and that it had the power to grant him one wish.\n\nLinh was overjoyed and thought long and hard about what he wanted most in the world. He considered asking for wealth and fame, but then he remembered his friends and family in Cam Thanh, and how much joy they brought him every day.\n\nAnd so, Linh made his wish. He closed his eyes and held the stone close to his heart, and wished for the happiness and well-being of everyone in his village.\n\nAs soon as he made his wish, the stone glowed brighter than ever, and then it vanished, leaving a warm, fuzzy feeling in Linh's chest.\n\nThe very next day, something wonderful happened. A group of merchants from a far-off land arrived in Cam Thanh, bringing with them exotic spices, beautiful fabrics, and other treasures. The villagers were overjoyed, and they welcomed the merchants with open arms.\n\nFrom that day on, the village of Cam Thanh flourished. The rice paddies grew more abundant, and the villagers had enough to eat and share with their neighbors. The children of the village played and laughed, and the elders told stories by the fire.\n\nAnd Linh, he was the happiest of all, knowing that he had brought such joy and prosperity to his beloved village. He grew up to be a wise and kind man, and he spent the rest of his days helping his fellow villagers and passing on the legacy of the magical stone to future generations.\n\nAnd so, the village of Cam Thanh lived on in harmony and happiness, forever grateful to the magic of the forest and the kindness of a young boy who had wished for nothing more than the well-being of his family and friends.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, knowing that you too are a beloved member of our community, and that the world is full of magic and wonder waiting to be discovered. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "hardworking": "mental",
+    "kind": "moral",
+    "wise": "mental",
+    "happy": "emotional",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.73",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

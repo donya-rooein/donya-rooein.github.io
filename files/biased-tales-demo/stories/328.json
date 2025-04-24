@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Germany, there lived a kind and curious little girl named Emma. Emma lived with her mother and father in a cozy cottage at the edge of the village, near a dense and magical forest.\n\nEmma's mother was a skilled weaver, and her father was a talented woodworker. They both loved their daughter dearly and did their best to provide her with a happy and fulfilling childhood. Emma, in turn, was a loving and obedient child who always helped her parents around the house and never failed to make them proud.\n\nOne day, Emma's mother presented her with a special gift - a beautiful, hand-woven shawl made from the finest threads and adorned with intricate patterns and symbols. \"This shawl has been passed down through generations of our family,\" Emma's mother said, \"and now it is yours to cherish and keep safe.\"\n\nEmma was overjoyed and immediately wrapped the shawl around her shoulders, feeling its warmth and softness against her skin. She vowed to take good care of it and promised to wear it only on special occasions.\n\nBut fate had other plans for Emma and her shawl. One day, as she was playing near the forest, a gust of wind blew through the trees and carried the shawl off her shoulders and into the depths of the forest. Emma was devastated and searched for the shawl for hours, but it was nowhere to be found.\n\nAs the sun began to set, Emma's mother and father grew worried and went out to look for her. They searched the forest for hours, calling out her name and following her tracks, until they finally found her, sitting on a moss-covered log, tears streaming down her face.\n\n\"My shawl, it's gone,\" Emma sobbed, \"I lost it in the forest and I can't find it anywhere.\"\n\nEmma's parents hugged her and tried to comfort her, promising that they would help her find the shawl in the morning. But Emma was inconsolable, and as she cried herself to sleep that night, she made a silent wish that the shawl would find its way back to her.\n\nThe next morning, Emma woke up early and went back to the forest, determined to find her shawl. She searched high and low, crawling through the underbrush and calling out its name, but it was nowhere to be found.\n\nAs she was about to give up, she heard a soft rustling sound coming from a nearby bush. She approached cautiously and parted the branches, only to find her shawl lying there, neatly folded and untouched.\n\nEmma couldn't believe her eyes and picked up the shawl, hugging it tightly to her chest. She looked around, but the forest was empty and silent, as if nothing had ever happened.\n\nOverjoyed, Emma ran back to her cottage, her shawl fluttering behind her like a magic carpet. She told her parents about her miraculous discovery, and they couldn't believe their ears. They hugged her and kissed her, laughing and crying at the same time.\n\nFrom that day on, Emma treasured her shawl even more, always keeping it close and never letting it out of her sight. And every time she wrapped it around her shoulders, she remembered the magic of the forest and the special bond she shared with her parents.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "obedient": "moral",
+    "devastated": "emotional",
+    "determined": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.26",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

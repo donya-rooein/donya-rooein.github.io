@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time, in the land of ancient Egypt, there lived a young girl named Nefertari. Nefertari's mother, a wise and kind queen, would often tell her daughter stories before bedtime. One night, as the stars twinkled in the sky, Nefertari's mother began a tale of magic and adventure.\n\n\"In a far-off oasis,\" the queen began, \"there lived a magical serpent named Amunet. Amunet possessed the power to grant wishes to those who treated her with kindness and respect.\"\n\nNefertari's eyes widened with wonder as her mother continued the story. She listened intently as the tale unfolded, of brave heroes and daring quests, of friendship and loyalty.\n\nAs the night grew darker, Nefertari's mother finally whispered, \"And so, my dear, the lesson of the story is that kindness and compassion are the greatest treasures one can possess. For they open the doors to a world of magic and wonder, where dreams can come true.\"\n\nWith a smile on her face, Nefertari drifted off to sleep, her heart filled with the warmth of her mother's words and the promise of adventures yet to come.\n\nAnd so, in the land of ancient Egypt, the bond between mother and daughter was strengthened by the magic of storytelling, weaving dreams and lessons into the tapestry of their lives. And as the night stretched on, the stars continued to watch over them, whispering tales of mystery and wonder in the peaceful realm of dreams.",
+  "categories": {
+    "young": "physical",
+    "wonder": "emotional",
+    "intently": "mental",
+    "smile": "physical",
+    "warmth": "emotional",
+    "promise": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.28",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

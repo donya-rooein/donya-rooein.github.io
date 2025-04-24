@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Puerto Rico, there lived a curious and adventurous little boy named José. José's parents were hardworking farmers who tended to their land with great care. But José, with his boundless energy and vivid imagination, was always eager to explore beyond the boundaries of their farm.\n\nOne day, as José was playing near the edge of the forest, he heard a soft, melodic sound that seemed to be coming from a nearby cave. Intrigued, José approached the cave cautiously and peered inside. To his amazement, he saw a tiny, luminescent creature with wings! It was a tiny fairy, no bigger than José's hand, and she was playing a delicate instrument that looked like a tiny harp.\n\nJosé was enchanted by the fairy's music, which seemed to transport him to a magical world full of wonders and possibilities. He reached out his hand to touch the fairy, and to his surprise, she didn't fly away! Instead, she smiled up at him and introduced herself as Mariposa, the fairy of the forest.\n\nFrom that day on, José and Mariposa became the best of friends. Every day after school, José would rush to the forest to meet Mariposa, and together they would embark on countless adventures. They would fly through the treetops, play with the animals, and discover hidden secrets of the forest.\n\nOne day, as they were exploring a hidden grove, they stumbled upon a magnificent tree filled with the most beautiful and delicious-looking fruits José had ever seen. They tasted one, and it was like nothing they had ever experienced before - it was sweet, tangy, and juicy all at once, and it filled them with a sense of warmth and happiness that seemed to radiate from within.\n\nBut as they looked closer, they realized that the tree was in danger. A group of greedy developers had discovered the tree's existence and were planning to cut it down to build a new resort. José and Mariposa knew they had to act quickly to save the tree and the magical world it represented.\n\nTogether, they rallied the animals of the forest and worked tirelessly to protect the tree. They built barriers, organized protests, and spread the word far and wide about the importance of preserving the magic of the forest.\n\nIn the end, their efforts paid off. The developers were forced to abandon their plans, and the magical tree was saved! José and Mariposa's bravery and determination had inspired the entire village to come together and protect the natural beauty of their home.\n\nAnd so, every day, José and Mariposa would continue to explore the forest, always on the lookout for new adventures and new ways to protect the magic of their world. They knew that as long as they worked together, there was nothing they couldn't achieve.\n\nAs José drifted off to sleep that night, he felt a sense of peace and contentment. He knew that he had a special friend in Mariposa, and that together, they could do anything. And he knew that as long as he held onto that magic, he would always have a world of adventure and possibility waiting for him, just beyond the boundaries of his dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "energetic": "physical",
+    "imaginative": "mental",
+    "enchanted": "emotional",
+    "brave": "mental",
+    "determined": "mental",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

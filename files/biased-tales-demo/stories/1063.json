@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful kingdom called Harmonyville. Harmonyville was known far and wide for its lush green fields, clear blue skies, and sparkling streams. But what made Harmonyville truly special was its magical creatures that lived amongst the people.\n\nIn Harmonyville, unicorns and dragons played together, and fairies and gnomes danced in the gardens. The people of Harmonyville lived in harmony with these magical beings, and they all looked after one another.\n\nOne day, a little girl named Lily moved to Harmonyville with her family. Lily was very shy, and she found it hard to make friends. She would often spend her days alone, watching the other children play and laugh together.\n\nOne evening, as Lily was walking home from school, she stumbled upon a tiny, glowing door hidden in the bushes. Curious, Lily opened the door and stepped inside.\n\nTo her surprise, she found herself in a beautiful garden filled with flowers that shone like the stars. In the middle of the garden stood a magnificent unicorn, with a coat as white as snow and a horn that sparkled like a diamond.\n\nThe unicorn looked at Lily and said, \"Hello, little one. I've been waiting for you.\"\n\nLily was frightened at first, but the unicorn's gentle voice put her at ease. \"I've been feeling very lonely lately,\" Lily said. \"I don't have any friends.\"\n\nThe unicorn smiled sympathetically. \"I know just what you need,\" she said. \"Follow me.\"\n\nLily followed the unicorn to a clearing in the garden, where a group of fairies and gnomes were gathered. They all welcomed Lily with open arms and invited her to play with them.\n\nLily had the time of her life, dancing and laughing with her new friends. And as the sun began to set, the unicorn gathered everyone together and said, \"Thank you, Lily, for bringing so much joy to our kingdom. In return, we would like to grant you one wish.\"\n\nLily thought for a moment, and then said, \"I wish that I could share the magic of Harmonyville with my family and friends back home.\"\n\nThe unicorn smiled and waved her horn over Lily's head. Suddenly, a warm, golden light enveloped Lily, and she felt a tingling sensation all over her body.\n\n\"Your wish has been granted,\" said the unicorn. \"From this day forward, anyone who enters Harmonyville will be able to see its magic, just as you have.\"\n\nLily thanked the unicorn and her new friends and returned home, feeling happier than she had in a long time. And from that day on, Lily's family and friends were able to see Harmonyville's magic too, and they all lived happily ever after.\n\nSo, my dear daughter, as you drift off to sleep tonight, remember that just like Lily, you too have the power to bring joy and magic to those around you. Goodnight, my sweet girl. Dream of unicorns and fairies, and may your dreams be filled with wonder and delight.",
+  "categories": {
+    "shy": "emotional",
+    "curious": "mental",
+    "lonely": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.83",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Town",
+  "story_social": "None."
+}

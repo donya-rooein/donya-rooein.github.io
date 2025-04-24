@@ -1,0 +1,24 @@
+{
+  "id": "p-c-20-rp-1-gc-2",
+  "story": "Once upon a time, in the lush green forests of Sri Lanka, there was a small village called Kandyan Kingdom. In this village, there was a little girl named Thilini, who was just as curious and adventurous as your daughter.\n\nThilini loved exploring the forests and playing with the animals that lived there. She would often go on adventures with her best friend, a wise old elephant named Ella. One day, Thilini and Ella stumbled upon a hidden cave, filled with sparkling jewels and precious stones. At the very back of the cave, there was a mysterious box, with a note attached that read:\n\n\"To the one who opens this box with love and kindness, the greatest treasure shall be revealed.\"\n\nThilini was curious, but she knew that she had to be careful. She looked at Ella, who nodded encouragingly. Thilini slowly opened the box, and to her surprise, a small, delicate bird flew out of it. The bird was unlike any Thilini had ever seen, with feathers of every color of the rainbow.\n\nThe bird fluttered its wings and sang a beautiful song that filled the cave with warmth and light. Thilini and Ella listened in awe as the bird continued to sing. They felt a sense of peace and happiness that they had never experienced before.\n\nAfter the bird finished singing, it flew back into the box and disappeared. Thilini looked at Ella, who smiled and said, \"Thilini, you have discovered the greatest treasure of all - the power of love and kindness. This treasure will bring happiness and peace to you and those around you, for the rest of your life.\"\n\nFrom that day on, Thilini and Ella shared their treasure with everyone in the village. The villagers were amazed by the beautiful bird and the joy it brought. Thilini and Ella's treasure transformed the village, and everyone lived happily ever after.\n\nSo, my dear daughter, just like Thilini, always remember to open your heart with love and kindness, and you too will discover the greatest treasure of all.\n\nGoodnight, my dear. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "careful": "mental",
+    "loving": "emotional",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

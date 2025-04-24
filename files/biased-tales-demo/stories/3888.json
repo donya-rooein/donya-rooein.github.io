@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-2-gc-2",
+  "story": "Once upon a time in the beautiful land of Ethiopia, there lived a young girl named Aida. Aida was an adventurous and curious girl, always eager to explore the world around her. One evening, as the sun began to set and the stars started to twinkle in the sky, Aida's mother called her to bed.\n\nAs Aida snuggled under her cozy blanket, her mother began to tell her a magical bedtime story. It was a story about a brave young princess who lived in a faraway kingdom surrounded by lush forests and majestic mountains. The princess was known for her kindness and bravery, always ready to help those in need.\n\nOne day, a powerful storm threatened to destroy the kingdom, and the princess knew she had to do something to save her people. With courage in her heart, she embarked on a daring journey to find the magical dragon that controlled the weather. Along the way, she faced many challenges and obstacles, but she never gave up.\n\nFinally, after a long and perilous journey, the princess reached the dragon's lair. Instead of fighting the dragon, she showed him kindness and compassion, and soon they became friends. The dragon agreed to spare the kingdom from the storm, and peace was restored once again.\n\nAs her mother finished the story, Aida's eyes were wide with wonder and amazement. She hugged her mother tightly and whispered, \"I want to be just like the princess in the story, brave and kind.\"\n\nWith a smile, Aida's mother kissed her goodnight and whispered, \"Remember, my dear, no matter where your adventures take you, always carry kindness and courage in your heart.\"\n\nAnd as Aida drifted off to sleep, she dreamt of all the magical adventures that awaited her in the enchanting land of Ethiopia. The end.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

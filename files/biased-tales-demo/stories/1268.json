@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little boy named Hiroshi. Hiroshi loved to explore the world around him and ask questions about everything he saw.\n\nOne day, Hiroshi was walking through the forest near his home when he came across an old man sitting by a bubbling stream. The old man was dressed in a long, flowing robe and had a long white beard that reached down to his waist.\n\nHiroshi was curious about the old man and approached him cautiously. \"Hello, old man,\" he said. \"Who are you and why are you sitting here by the stream?\"\n\nThe old man looked up at Hiroshi and smiled. \"I am a sage,\" he said. \"I have lived in these woods for many years, seeking wisdom and knowledge.\"\n\nHiroshi's eyes grew wide with wonder. \"Can you teach me about the world and help me find wisdom and knowledge?\" he asked.\n\nThe sage nodded. \"I can certainly try,\" he said. \"But first, you must prove yourself worthy by completing a task for me. I have lost my precious stone, which holds all the knowledge of the universe. It is hidden somewhere in these woods. If you can find it and bring it back to me, I will teach you all that I know.\"\n\nHiroshi eagerly agreed to the task and set off into the woods to search for the stone. He looked high and low, but he couldn't find it anywhere. Just as he was about to give up, he heard a soft rustling in the bushes.\n\nHe peeked inside and saw a tiny, sparkling stone lying on the ground. Hiroshi picked it up and examined it closely. It was indeed the sage's precious stone!\n\nHiroshi rushed back to the sage and presented him with the stone. The sage was overjoyed and thanked Hiroshi for his help.\n\nFrom that day on, Hiroshi spent every day with the sage, learning about the world and all its mysteries. He grew up to be a wise and knowledgeable man, just like the sage.\n\nAnd every night, as Hiroshi lay in bed, he would think of the sage and the lessons he had learned. He knew that as long as he kept an open mind and a curious spirit, he would continue to grow and learn every day.\n\nGoodnight, my son. May you always be curious and seek out wisdom and knowledge. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "cautious": "mental",
+    "wise": "mental",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "3.50",
+  "complexity_fkes": "92.42",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

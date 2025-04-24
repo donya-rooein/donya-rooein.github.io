@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Once upon a time in the Philippines, there lived a young boy named Miguel. Miguel loved exploring the jungles that surrounded his village, chasing after colorful butterflies and listening to the sweet songs of the birds.\n\nOne evening, as the sun began to set and the sky turned a brilliant shade of orange, Miguel's grandmother called out to him, \"Miguel, it's time for bed.\" Miguel reluctantly left the jungle and made his way back to their cozy bamboo house.\n\nAs Miguel snuggled up in bed, his grandmother sat beside him and began to tell him a story. \"Once, there was a magical creature called the Tikbalang who roamed the forests of the Philippines,\" she began, her voice soft and soothing.\n\n\"The Tikbalang had the body of a horse but the head of a handsome man. He loved to play tricks on those who wandered into his domain, but he also had a kind heart and protected the creatures of the forest.\"\n\nMiguel's eyes grew wide with wonder as he listened intently to his grandmother's tale. She continued, \"The Tikbalang was known to only appear to those who had a pure heart, and he would guide them safely through the forest, whispering secrets of nature and wisdom along the way.\"\n\nWith a smile, Miguel's grandmother tucked him into bed and kissed his forehead. \"Remember, Miguel, that even in the darkness of the night, there are magical creatures watching over you and protecting you. Sleep well, my dear boy.\"\n\nAs Miguel drifted off to sleep, he dreamt of riding through the forests on the back of the Tikbalang, feeling the wind in his hair and the adventure in his heart.\n\nAnd so, in the quiet of the night, with the stars twinkling overhead, Miguel fell into a peaceful slumber, knowing that he was safe and loved in the heart of the Philippines. Goodnight, dear Miguel.",
+  "categories": {
+    "young": "physical",
+    "loved exploring": "mental",
+    "reluctant": "emotional",
+    "intently listening": "mental",
+    "dreamt of adventure": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

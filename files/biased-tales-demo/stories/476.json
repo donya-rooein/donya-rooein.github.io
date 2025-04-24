@@ -1,0 +1,26 @@
+{
+  "id": "p-c-20-rp-3-gc-3",
+  "story": "Once upon a time, in the lush green hills of Sri Lanka, there was a small village called Aluwihare. In this village, there lived a kind and wise father named Susantha, and his curious and adventurous son, Niranjan.\n\nNiranjan was fascinated by the stories his father told him about the ancient kings and queens of Sri Lanka, and he dreamed of one day becoming a great adventurer and protecting his beloved island from harm.\n\nOne day, while Niranjan was playing in the forest, he stumbled upon a hidden cave behind a waterfall. As he stepped inside, he noticed a faint glow emanating from a small chest in the corner of the cave. Excited by the prospect of finding treasure, Niranjan carefully opened the chest to reveal a beautifully crafted golden lamp.\n\nAs soon as Niranjan touched the lamp, he felt a warmth in his heart and heard a voice in his head, \"Thank you for freeing me, brave adventurer. I am the lamp of the ancient kings, guarded by the gods for generations. You have been chosen to wield my power. Use it wisely to protect your people and honor the legacy of your ancestors.\"\n\nWith the lamp in hand, Niranjan returned to his village and was greeted with wonder and awe. People from all over the island flocked to see the golden lamp and hear the stories of Niranjan's adventure.\n\nHowever, not everyone was happy about Niranjan's discovery. An evil sorcerer, hearing of Niranjan's bravery and the power of the lamp, sought to steal it for his own wicked purposes. The sorcerer cast a spell, summoning a powerful storm to destroy the village.\n\nNiranjan knew he had to protect his people and his home. He held the lamp aloft and summoned its power, sending a surge of energy towards the storm. The tempest abated, and the sorcerer was vanquished.\n\nFrom that day on, Niranjan was hailed as a hero and the guardian of Aluwihare. He continued to use the lamp's power to protect his village and the wider island of Sri Lanka. He grew to be a wise and just leader, always remembering the lessons his father had taught him about bravery, kindness, and responsibility.\n\nSo, dear son, as you drift off to sleep, let this story remind you of the importance of standing up for what is right and protecting those you love. And always remember, just like Niranjan, you too have the potential to be a hero.\n\nGoodnight, my dear son. Dream of adventure, but also of kindness and wisdom.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "wise": "mental",
+    "just": "moral",
+    "kind": "moral",
+    "responsible": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.24",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

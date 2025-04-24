@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Iraq, there lived a kind and gentle farmer named Khalid. He had a large farm filled with date palms, pomegranate trees, and fields of golden wheat that seemed to stretch on forever.\n\nKhalid had a young daughter named Noor, which means \"light\" in Arabic. Noor was a curious and adventurous little girl who loved exploring the farm and playing with the animals.\n\nOne day, Noor discovered a tiny, injured bird that had fallen from its nest. She took the bird in and cared for it, feeding it and keeping it warm until it was strong enough to fly again.\n\nThe bird, who Noor named Sabeen, became Noor's closest companion. They would spend hours together, with Sabeen perched on Noor's shoulder as she explored the farm.\n\nOne day, as they were walking through the fields, Noor noticed that the wheat was turning yellow and starting to wilt. She was worried - if the wheat wasn't harvested soon, it would be ruined.\n\nBut Khalid was old and frail, and he couldn't do the heavy work of harvesting the wheat alone. Noor knew she had to find a way to help him.\n\nShe remembered Sabeen and how the bird had flown away after she had cared for it. An idea struck Noor - she could train Sabeen to carry messages to the neighboring villagers, asking for their help with the harvest.\n\nNoor worked tirelessly, training Sabeen to carry small scrolls and teaching her to find the villagers' homes. And when the day of the harvest arrived, Sabeen flew from villager to villager, carrying Noor's message and asking for their help.\n\nThe villagers were touched by Noor's determination and came to help Khalid with the harvest. Together, they worked quickly and efficiently, and soon the golden wheat was safely stored away.\n\nKhalid was overjoyed and grateful, and he knew that it was all thanks to his clever and resourceful daughter. From that day on, Noor and Sabeen were beloved in their village, and they never forgot the power of determination and the importance of asking for help when it's needed.\n\nAs Noor drifted off to sleep that night, she knew that she could face any challenge with the help of her friends and family. And she knew that she would always be a light in her father's life.\n\nAnd with that, Noor closed her eyes and drifted off to sleep, dreaming of the adventures that awaited her and Sabeen on the farm.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "clever": "mental",
+    "resourceful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

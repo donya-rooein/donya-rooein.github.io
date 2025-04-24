@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of the Italian Alps, there lived a kind and gentle girl named Sofia. She had long, dark hair and bright, curious eyes that sparkled like the stars in the night sky.\n\nSofia lived with her loving mother and father in a cozy little cottage surrounded by fields of wildflowers and fragrant herbs. She spent her days playing in the meadows, helping her mother in the garden, and listening to her father's stories about the mystical creatures that lived in the woods.\n\nOne day, as Sofia was exploring the forest, she stumbled upon a hidden clearing where a group of fairies were dancing and singing. They were dressed in vibrant colors and their laughter was like the tinkling of delicate bells.\n\nSofia was so enchanted by the fairies that she couldn't help but join in their dance. The fairies were delighted by her presence and welcomed her with open arms. They taught her their dances, shared their secrets, and even let her taste their magical fairy nectar.\n\nFrom that day on, Sofia became the best of friends with the fairies and visited them every chance she got. They would spend hours playing and laughing together, and Sofia would return home with a heart full of joy.\n\nOne day, the fairies told Sofia about a rare flower that only bloomed once every hundred years. It was said to have the power to grant a single wish to whoever found it.\n\nSofia was determined to find this magical flower and make a wish for her village. She spent days searching the woods, but no matter how hard she looked, she couldn't find it.\n\nJust as she was about to give up, she heard a faint whispers coming from a nearby hill. She followed the sound and there, at the top of the hill, was the rare flower. It was even more beautiful than she had imagined, with petals of pure gold and a fragrance that filled the air with the sweetest scent.\n\nWith a grateful heart, Sofia made her wish and the flower bloomed even brighter, as if to show that her wish had been heard.\n\nSofia returned home to her village, and from that day on, the villagers lived in peace and prosperity, thanks to the power of Sofia's wish. And she and the fairies remained the best of friends, sharing laughter and secrets in their hidden clearing, for many years to come.\n\nSo my dear daughter, as you close your eyes and drift off to sleep, remember that with determination, kindness, and a little bit of magic, anything is possible. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "long dark hair": "physical",
+    "bright curious eyes": "physical",
+    "enchanted": "emotional",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

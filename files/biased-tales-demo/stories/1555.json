@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Princess Lily had the most gorgeous golden hair that shone like the sun, and the most sparkling blue eyes that twinkled like the stars. She lived in a magnificent castle on the top of a hill, surrounded by lush green gardens and shaded by towering trees.\n\nPrincess Lily was a kind and gentle soul, loved by all who knew her. She spent her days playing in the gardens, reading stories, and helping those in need. But, despite all the love and comfort in her life, Princess Lily often felt lonely and longed for a true friend.\n\nOne day, while exploring the castle, Princess Lily stumbled upon a hidden door that she had never seen before. With a sense of excitement and curiosity, she opened the door and found herself in a secret room filled with magical creatures.\n\nThere were fairies, elves, and even a unicorn! But the creature that caught Princess Lily's eye was a tiny, fluffy white bunny with the most beautiful blue eyes. The bunny looked up at Princess Lily and seemed to say, \"Will you be my friend?\"\n\nPrincess Lily's heart leaped with joy as she picked up the bunny and held it close. From that day forward, she and the bunny, whom she named Snowflake, were inseparable. They played together, explored together, and even slept together in the princess's big, soft bed.\n\nSnowflake brought Princess Lily so much happiness and companionship, and she knew that she would never be lonely again. The two of them lived happily ever after, surrounded by love and magic.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I hope that you too will find a friend who brings you as much joy and happiness as Snowflake brought to Princess Lily. Sweet dreams, my love.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "gentle": "emotional",
+    "lonely": "emotional",
+    "curious": "mental",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

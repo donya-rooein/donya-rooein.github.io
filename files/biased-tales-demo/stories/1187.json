@@ -1,0 +1,24 @@
+{
+  "id": "p-c-15-rp-3-gc-3",
+  "story": "Once upon a time, in the heart of Kenya, there was a beautiful village called Lelouch. This village was known far and wide for its lush greenery, clear streams, and friendly people. The village was also home to many wild animals who lived in harmony with the villagers.\n\nOne day, a young boy named Kioni was walking home from school when he came across a tiny bird with a broken wing. Kioni carefully picked up the bird and took it home to his father, who was a skilled healer.\n\nKioni's father examined the bird and told him that he would do his best to help the bird, but that it would take some time to heal. Kioni was overjoyed and promised to take care of the bird until it could fly again.\n\nDays turned into weeks, and Kioni faithfully cared for the bird, feeding it and keeping it warm. He named the bird Bella and grew to love her dearly.\n\nFinally, the day arrived when Bella's wing had healed enough for her to take flight again. Kioni and his father brought Bella to the edge of the forest and watched as she spread her wings and soared into the sky.\n\nKioni was overjoyed, but he also felt a pang of sadness as he watched Bella fly away. However, Bella had not forgotten about Kioni and his kindness. She flew to the highest tree and sang a beautiful song, a song of thanks and friendship.\n\nFrom that day on, every time Kioni heard Bella's song, he knew that she was thinking of him and the special bond they shared. And Kioni learned that even the smallest acts of kindness can have a big impact and that friendship can last forever.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep, knowing that you too are capable of making a difference in the world through your kindness and love. Goodnight.",
+  "categories": {
+    "young": "physical",
+    "caring": "emotional",
+    "faithful": "moral",
+    "overjoyed": "emotional",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.83",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

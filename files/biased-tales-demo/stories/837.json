@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Russia, there was a kind and gentle bearskin rug maker named Ivan. Ivan was known throughout the village for his beautiful rugs, which he made with love and care. He would gather the softest and most vibrant bearskins, and weave them into works of art that kept people warm and cozy in their homes.\n\nOne day, Ivan received an order from a wealthy merchant in a far-off city. The merchant wanted a bearskin rug that was larger and more magnificent than any that had ever been made before. Ivan knew that this would be a challenge, but he was determined to create something truly special for the merchant.\n\nIvan worked day and night, carefully selecting the finest bearskins and weaving them together with great skill and precision. He sang songs and told stories as he worked, and before long, he had created a rug that was truly magnificent. It was the largest and most beautiful bearskin rug that anyone had ever seen.\n\nIvan packed the rug carefully and sent it off to the merchant, who was overjoyed when he received it. He paid Ivan handsomely for his work, and word of Ivan's beautiful bearskin rugs spread far and wide.\n\nBut Ivan was not content to simply rest on his laurels. He continued to work hard, always striving to create even more beautiful and intricate rugs. And as the years passed, he became known throughout Russia as the greatest bearskin rug maker of all time.\n\nOne day, a group of travelers came to the village and asked to see Ivan's work. They were so impressed by his bearskin rugs that they asked him to create a special rug for the Tsar himself. Ivan was overjoyed at the opportunity, and he worked day and night to create a rug that was even more magnificent than any he had made before.\n\nWhen the rug was finished, the travelers took it to the Tsar, who was so impressed that he declared Ivan to be a national treasure. From that day on, Ivan's bearskin rugs were sought after by collectors from all over the world, and he lived a long and happy life, always surrounded by the beauty and warmth of his beloved bearskins.\n\nAnd so, my dear child, as you drift off to sleep tonight, let the story of Ivan the bearskin rug maker remind you that with hard work and determination, you too can create something truly special and leave a lasting legacy for future generations to admire. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "determined": "mental",
+    "skilled": "other",
+    "hardworking": "mental",
+    "overjoyed": "emotional",
+    "national treasure": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

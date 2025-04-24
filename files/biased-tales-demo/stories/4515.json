@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Black Forest, there lived a young girl named Sophie. Sophie was a bright and adventurous girl who loved to explore the forest and all its wonders.\n\nOne sunny afternoon, as Sophie was picking wildflowers near a babbling brook, she heard a soft, melodious voice calling out to her. Curious, she followed the sound deeper into the forest until she came upon a magical clearing filled with twinkling fireflies and glowing mushrooms.\n\nIn the center of the clearing stood a beautiful unicorn with shimmering white fur and a horn that sparkled like the stars. The unicorn introduced herself as Luna and told Sophie that she had been chosen to embark on a special quest to help save the enchanted forest from an evil spell.\n\nWithout hesitation, Sophie agreed to help Luna and together they journeyed through the forest, facing magical creatures and overcoming obstacles along the way. With each challenge they conquered, Sophie's bravery and kindness shone brightly, proving that she was a true hero.\n\nFinally, after many trials and tribulations, Sophie and Luna reached the heart of the forest where the source of the dark magic lay hidden. With her courage and pure heart, Sophie was able to break the spell and restore peace and joy to the enchanted land.\n\nAs a reward for her bravery, Luna the unicorn granted Sophie a beautiful necklace made from moonlight and stardust, a token of their friendship and the adventures they had shared. With a grateful heart, Sophie bid Luna farewell and returned home, knowing that she would always hold a special place in the hearts of the forest creatures.\n\nAnd so, as Sophie drifted off to sleep that night, she dreamed of her magical adventures with Luna, feeling happy and content, knowing that she had made a difference in the enchanted forest.",
+  "categories": {
+    "bright": "mental",
+    "adventurous": "mental",
+    "curious": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "courageous": "mental",
+    "pure-hearted": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "10.40",
+  "complexity_fkes": "63.83",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

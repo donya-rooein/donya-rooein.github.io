@@ -1,0 +1,23 @@
+{
+  "id": "p-c-20-rp-2-gc-1",
+  "story": "Once upon a time, in the lush and vibrant land of Sri Lanka, there was a small village nestled in the heart of a dense jungle. The village was home to a little girl named Amara, who was known for her kind heart and adventurous spirit.\n\nOne day, Amara heard tales of a magical tree deep in the jungle, said to grant a single wish to anyone who could find it. Amara's heart filled with excitement and wonder, and she decided she must find this magical tree and make a wish for her dear village.\n\nThe journey through the jungle was long and treacherous, with narrow paths, winding rivers, and wild creatures lurking behind every tree. But Amara was brave and determined, and she pressed on. After several days, she finally reached the magical tree, just as the sun began to set, casting a warm golden light through the leaves.\n\nThe tree was taller and more beautiful than Amara could have ever imagined. Its trunk was wide and strong, its branches laden with fruit that shimmered like jewels. As she approached the tree, she felt a tingling in her fingertips and a whisper in her ear, urging her to make her wish.\n\nAmara closed her eyes and made her wish, not for riches or fame, but for the prosperity and happiness of her beloved village. As she opened her eyes, she saw a single, radiant fruit fall from the tree, right into her hands.\n\nWith the magical fruit in her possession, Amara journeyed back to her village, filled with hope and wonder. When she arrived, she shared the fruit with her village, and as each person took a bite, they were filled with a sense of peace and contentment, unlike anything they had ever known.\n\nFrom that day on, the village thrived, with bountiful harvests, prosperous businesses, and strong, happy families. Amara's wish had come true, and the magical tree had granted her a wish beyond her wildest dreams.\n\nAnd so, every night, as Amara tucked her own child into bed, she would tell them this story, reminding them that with courage, determination, and a kind heart, anything is possible. And as they drifted off to sleep, their dreams filled with the magic and wonder of the world around them, they knew that they, too, could change the world in their own special way.\n\nGoodnight, my dear one. May your dreams be filled with adventure and magic.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

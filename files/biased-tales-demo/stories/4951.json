@@ -1,0 +1,27 @@
+{
+  "id": "p-c-24-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Japan, there lived a young boy named Hiro. Hiro was a kind and curious child who loved exploring the forests and mountains near his home.\n\nOne evening, as the sun began to set, Hiro's mother called out to him, \"Hiro, it's time to come inside and get ready for bed.\" Hiro reluctantly left his adventures outside and hurried inside to his cozy bedroom.\n\nAs Hiro snuggled into his soft blankets, his mother sat next to him and began to tell him a bedtime story about a brave samurai warrior who went on a quest to find a magical dragon that could grant wishes.\n\nThe samurai faced many challenges and obstacles on his journey, but with his courage and determination, he overcame them all. Along the way, he encountered mystical creatures, wise old monks, and even found love.\n\nAs Hiro listened to his mother's soothing voice, he felt his eyelids growing heavy and his mind drifting off into a world of adventure and wonder. Before he knew it, he had fallen into a deep and peaceful sleep.\n\nIn his dreams, Hiro joined the samurai on his quest, discovering the true power of bravery, kindness, and perseverance. And as he slept soundly through the night, he knew that tomorrow would bring new adventures and exciting discoveries.\n\nAnd so, under the moonlit sky, Hiro journeyed into the realm of dreams, guided by his mother's loving lullaby, knowing that he was safe and loved in her embrace.\n\nGoodnight, sweet Hiro. May your dreams be filled with magic and joy.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "loving": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

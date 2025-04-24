@@ -1,0 +1,28 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Once upon a time, in a verdant valley nestled in the mountains of Vietnam, there was a small village called Lang Hoa. This village was known far and wide for its spectacular fields of vibrant sunflowers, which seemed to dance in the golden rays of the setting sun. The villagers took great pride in their beautiful sunflower fields, for they believed that these radiant blooms held a magical power: they could heal a troubled heart and bring happiness to anyone who looked upon them.\n\nIn Lang Hoa lived a kind and gentle mother named Linh, who had a sweet, curious little girl named Mai. Although Mai was still very young, she had a wise and compassionate heart, always eager to learn and help others. Every day, after Mai completed her chores and chased away the mischievous monkeys that sometimes tried to steal the ripe sunflower seeds, she would gather armfuls of sunflowers to bring to the villagers.\n\nOne day, as Mai was weaving her way through the sunflower fields, she came across an elderly woman, sitting alone on a wooden bench. The old woman's eyes were filled with sadness and her face etched with wrinkles that told of many years and countless stories. Mai cautiously approached the woman and offered her a sunflower, its bright yellow petals reaching out like a warm, comforting embrace.\n\nThe old woman smiled softly, took the sunflower and breathed in its sweet fragrance. She thanked Mai and shared with her a story that had been passed down from generation to generation in her family.\n\n\"Many years ago, high up in those mountains, there was a magnificent dragon who watched over our village. This dragon was not like the fierce, fire-breathing dragons in stories your mother might have told you. No, this dragon was a kind and generous guardian, who brought life-giving rain to our fields and protected us from harm.\n\nBut one fateful day, the villagers angered the dragon. They had accidentally encroached upon his sacred grove while tending to their sunflower fields. In his fury, the dragon unleashed a terrible storm upon the village. Torrential rains poured down, flooding the village and destroying everything in their path. The villagers pleaded for the dragon's mercy, but he was beyond reason. They realized their mistake and promised never again to disturb his grove.\n\nFinally, a young girl, not much older than you, bravely stepped forward. She ventured into the sacred grove and confronted the dragon. Her radiant smile and compassionate heart captured the dragon's own heart. In that moment, the dragon transformed into a gentle spirit, returning peace and tranquility to the village. The villagers built a sanctuary in the sacred grove, honoring the dragon for generations to come.\"\n\nThe old woman looked at Mai, her eyes shimmering with unshed tears. \"But now, the sacred grove is lost and forgotten. Our sanctuary, long since abandoned. The guardian dragon's spirit has vanished from our village.\"\n\nMai listened intently, absorbing the old woman's words. She felt a deep sense of responsibility, for she knew that the forgotten sacred grove must be deep within the sunflower fields.\n\n\"I will help you,\" Mai declared. \"Together, we will restore the guardian dragon's sanctuary and bring life back to our village as it once was.\"\n\nThe old woman nodded, tears of gratitude streaming down her cheeks.\n\nMai began visiting the old woman every day, bringing her armfuls of sunflowers, brightening her spirit and lifting the melancholy from her heart. Their friendship blossomed, like the beautiful sunflowers that surrounded them.\n\nAs the days turned to weeks, mother and child, guided by the old woman's stories, uncovered the entrance to the sacred grove. In the very heart of the sunflower fields lay a hidden oasis, a magical world untouched by time.\n\nTogether, they restored the sanctuary, adorning the once-crumbling walls with intricate carvings that depicted the gentle guardian dragon and its sacred bond with the villagers. They planted seeds from the sunflowers, praying that the spirit of the grove would awaken and bring life back to the village.\n\nOne fateful day, the first blooms began to appear.\n\nThe guardian dragon reemerged, bestowing its life-giving powers upon the land. Rains replenished the fields, rivers flowed once more, and the villagers marveled as their crops began to flourish. The village of Lang Hoa was more vibr",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet": "emotional",
+    "curious": "mental",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "eager to learn": "mental",
+    "brave": "moral",
+    "responsible": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "71.75",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

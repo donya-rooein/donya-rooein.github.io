@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful valleys of Tajikistan, there lived a young boy named Amir. Amir was a curious and kind-hearted child who loved exploring the vast mountains and lush forests that surrounded his village.\n\nOne clear night, as the stars sparkled in the sky, Amir's father sat by his side and began to tell him a special bedtime story. He told Amir about a magical fairy who lived deep in the heart of the Pamir Mountains. The fairy was said to grant wishes to those who were pure of heart and kind to others.\n\nAmir listened in awe as his father described the fairy's shimmering wings and her gentle, soothing voice that could calm the wildest of storms. The fairy was known to bring peace and harmony to all who crossed her path.\n\nAs Amir drifted off to sleep, he dreamt of embarking on a grand adventure to find the magical fairy and ask for her blessings. He imagined soaring through the snow-capped peaks and crystal-clear rivers, guided by the whispers of the wind and the songs of the birds.\n\nThe next morning, Amir awoke with a sense of determination in his heart. He knew that he had a mission to fulfill, to seek out the fairy and uncover the wonders that awaited him. With his father's love and guidance, Amir set out on his journey, ready to face whatever challenges came his way.\n\nAnd so, Amir's quest to find the magical fairy began, filled with bravery, kindness, and the hope of making his village and his family proud. As he ventured into the unknown, he discovered the true magic lay not just in the fairy's powers, but in the courage and goodness that resided within his own heart.\n\nAnd so, dear father, may your son Amir's dreams be filled with the magic and wonder of the Pamir Mountains, and may he always remember the power of kindness and love that lies within him. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "hopeful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

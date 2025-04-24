@@ -1,0 +1,27 @@
+{
+  "id": "p-c-15-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a young boy named Kioni. Kioni lived in a small village near the base of Mount Kenya, the majestic peak that watched over the villagers and provided them with fresh water and rich soil for farming.\n\nKioni was an adventurous boy, always eager to explore the world around him. He would often wander through the forests, climb trees, and follow the rivers to see where they would lead. One day, while playing near the edge of the village, Kioni noticed a small, injured bird lying on the ground.\n\nThe bird had a broken wing and was unable to fly. Kioni knew he had to help, so he gently picked up the bird and carried it back to his home. With the help of his mother, they made a small nest for the bird and fed it warm porridge made from the grains they had grown in their fields.\n\nAs the days went by, Kioni cared for the bird, feeding it and making sure it had everything it needed to heal. The bird, whom Kioni named Mrembo (which means \"beautiful\" in Swahili), grew stronger each day. Soon, Mrembo's wing had healed, and she was ready to take to the skies once more.\n\nKioni was sad to see Mrembo go, but he knew it was time for her to return to her life in the wild. As Mrembo soared into the air, she circled above Kioni, chirping her thanks for the kindness he had shown her. Kioni waved goodbye, his heart full of joy.\n\nFrom that day on, Kioni knew that no act of kindness was ever wasted. He continued to explore the world around him, always ready to lend a helping hand to those in need. And as he grew older, he became a respected leader in his community, inspiring others with his compassion and love for all living things.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Kioni and Mrembo. Let it inspire you to be kind, to help others, and to cherish the beauty of the world around you. Goodnight, my precious one. Dream of adventures yet to come, and may your heart always be filled with love and kindness.",
+  "categories": {
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "caring": "emotional",
+    "compassionate": "emotional",
+    "kind": "moral",
+    "helpful": "moral",
+    "respected": "moral",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "86.94",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

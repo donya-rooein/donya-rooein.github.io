@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a magical land filled with lush forests and sparkling rivers, there lived a brave young warrior named Kofi. Kofi was a proud African-American boy who possessed a heart as strong as a lion and a spirit as bright as the sun.\n\nEvery evening, as the golden sun dipped below the horizon, Kofi would gather his friends around a crackling fire to share stories of their ancestors and the legends of old. With each tale, Kofi's eyes would sparkle with wonder and excitement, and his friends would hang on his every word, eager to hear more.\n\nOne night, as the moon cast its gentle glow over the land, Kofi decided to embark on a great adventure to prove his courage and bravery. With his trusty spear in hand and his loyal friends by his side, Kofi set out into the unknown, ready to face any challenge that crossed his path.\n\nAs they journeyed through the mysterious forest, Kofi and his friends encountered magical creatures and treacherous obstacles. But with unwavering determination and unwavering courage, they overcame each obstacle together, relying on their strength and unity to guide them through.\n\nFinally, after many trials and tribulations, Kofi and his friends reached the legendary Tree of Wisdom, a magnificent tree that held the secrets of the universe within its branches. With reverence and awe, Kofi approached the tree, and as he placed his hand upon its rough bark, he felt a surge of knowledge and power flow through him.\n\nFrom that day on, Kofi and his friends were known as the bravest and wisest warriors in the land, respected and admired by all who knew them. And as they gathered around the fire each evening, sharing stories of their daring adventure, Kofi's eyes would shine with pride and joy, knowing that he had proven himself as a true hero.\n\nAnd so, dear child, remember the tale of Kofi and his friends, and know that courage, unity, and wisdom will always guide you on your own adventures. As the stars twinkle in the night sky above, may you dream of your own heroic journey, filled with magic, wonder, and boundless possibility. Goodnight, my dear child, and may your dreams be filled with wonder and joy.",
+  "categories": {
+    "brave": "mental",
+    "young": "physical",
+    "proud": "emotional",
+    "african-american": "other",
+    "courageous": "moral",
+    "determined": "mental",
+    "wise": "mental",
+    "respected": "moral",
+    "admired": "moral",
+    "true hero": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.29",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "71.38",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

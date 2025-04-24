@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Armenia, there lived a young girl named Ani. Ani was a curious and adventurous child who loved exploring the vast mountains and lush forests that surrounded her home.\n\nEvery night, as the sun dipped below the horizon, Ani's grandmother would gather her close and tell her stories of ancient warriors and mystical creatures that roamed the land long ago. Ani's favorite story was about a brave hero named Vahagn who possessed the power of lightning and thunder.\n\nOne night, as Ani closed her eyes and drifted into a deep slumber, she dreamt of riding on the back of a magnificent dragon through the starlit sky. The dragon carried her to the top of Mount Ararat, where she could see the entire kingdom of Armenia spread out below her in all its glory.\n\nSuddenly, a dark shadow appeared on the horizon, threatening to cast a shadow over the land. Ani knew that it was up to her to protect her home and all the people she loved. Drawing on the courage and strength of Vahagn, she raised her hand and called forth a bolt of lightning to strike down the shadow, banishing it from the land forever.\n\nWhen Ani awoke the next morning, she felt a sense of pride and determination deep within her heart. She knew that she had the power to overcome any challenge that came her way, just like the heroes in her grandmother's stories.\n\nAnd so, every night before she closed her eyes, Ani would whisper a silent thank you to the heroes of old and drift off to sleep with dreams of bravery and adventure dancing in her mind.\n\nThe end. Goodnight, little one. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "proud": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

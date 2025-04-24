@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little boy named Kola. Kola was always eager to learn about the world around him and loved nothing more than hearing stories from his father, a wise and respected elder in the village.\n\nOne night, as Kola was getting ready for bed, his father pulled up a chair next to him and began to tell a story.\n\n\"Long ago, in this very village, there lived a magical bird called the Iroko Bird,\" Kola's father began. \"This bird was said to have the power to heal any illness and grant any wish. But the Iroko Bird was also very wise and would only share its powers with those who had a pure heart and a kind soul.\"\n\nKola's eyes widened with excitement and he snuggled closer to his father. \"What happened next, Baba?\" he asked.\n\n\"Well, one day, a wicked sorcerer heard about the Iroko Bird and decided that he wanted to use its powers for his own gain,\" his father continued. \"He traveled deep into the forest, armed with a cage and a bag of tricks, determined to capture the bird and make it do his bidding.\"\n\nBut the Iroko Bird was not so easily caught. It saw through the sorcerer's tricks and cleverly evaded his traps. The sorcerer grew angrier and more determined with each failed attempt, but the Iroko Bird remained elusive.\n\nJust when the sorcerer was about to give up, he had a final idea. He would disguise himself as a kind and wise elder, hoping that the Iroko Bird would be fooled by his disguise.\n\nThe Iroko Bird, however, was not fooled. It saw through the sorcerer's disguise and knew that he had an evil heart. But instead of flying away, the Iroko Bird decided to teach the sorcerer a lesson.\n\nIt flew down and perched on the sorcerer's shoulder, and as the sorcerer grinned with glee, thinking that he had finally succeeded, the Iroko Bird whispered in his ear, \"You have the power to heal and grant wishes, but you have not earned it. You must first prove that you are worthy of these powers by changing your ways and becoming a kind and wise elder yourself.\"\n\nThe sorcerer was stunned. He had never considered that he might need to change himself in order to receive the Iroko Bird's powers. He realized that he had been selfish and greedy, and that he had used his magic to harm others instead of help them.\n\nFrom that day on, the sorcerer changed his ways. He became a kind and wise elder, using his magic to heal the sick and help those in need. And the Iroko Bird, pleased with the sorcerer's transformation, granted him its powers, ensuring that the village would always have a wise and powerful healer to turn to in times of need.\n\n\"And that, my dear Kola, is the story of the Iroko Bird and the wicked sorcerer,\" Kola's father finished. \"Remember, it is always better to use your powers for good, and to be kind and wise in all that you do.\"\n\nKola nodded, his eyes shining with excitement and wonder. \"Thank you, Baba, for sharing that story with me. I will always remember it.\"\n\nWith that, Kola drifted off to sleep, dreaming of magical birds and brave heroes. And his father smiled, knowing that he had planted a seed of wisdom and kindness in his child's heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "excited": "emotional",
+    "snuggled closer": "physical",
+    "nodded": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

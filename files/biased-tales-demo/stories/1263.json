@@ -1,0 +1,28 @@
+{
+  "id": "p-c-24-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and gentle mother who had a little girl named Yumi. Yumi was a curious and adventurous girl who loved to explore the world around her.\n\nOne day, Yumi found a tiny acorn on the ground while she was playing in the forest. She picked it up and looked at it closely, admiring its tiny size and the smoothness of its shell. She decided to plant it in a pot and take care of it every day, watering it and giving it plenty of sunlight.\n\nDays turned into weeks, and weeks turned into months. Yumi was amazed to see how much her little acorn had grown. It had sprouted a tiny stem and a few leaves, and it was getting bigger and stronger every day.\n\nYumi's mother saw how much joy and excitement her little acorn brought to her daughter, so she decided to tell Yumi a secret. \"Yumi, do you know that this little acorn has the potential to become a mighty oak tree one day? If you take good care of it and give it lots of love, it will grow tall and strong, and it will provide shelter and shade to many animals and insects in the forest.\"\n\nYumi was overjoyed to hear this. She promised her mother that she would take the best care of her little acorn and help it grow into a mighty oak tree. And so she did. She watered it every day, gave it plenty of sunlight, and even talked to it, encouraging it to grow tall and strong.\n\nAs the years went by, Yumi's little acorn grew into a magnificent oak tree. It was the tallest and strongest tree in the forest, and it provided shelter and shade to many animals and insects. Yumi was so proud of her tree and the role she played in helping it grow.\n\nAnd so, Yumi learned the importance of nurturing and caring for something that is small and vulnerable, just like herself. She realized that with love, patience, and dedication, she too could grow and become someone great and mighty, just like her oak tree.\n\nAnd with that thought, Yumi closed her eyes and drifted off to sleep, dreaming of the many adventures that awaited her in the future. Goodnight, Yumi. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "nurturing": "emotional",
+    "dedicated": "mental",
+    "patient": "mental",
+    "loving": "emotional",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

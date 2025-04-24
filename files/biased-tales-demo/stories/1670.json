@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the hills of Israel, there lived a young Jewish boy named Daniel. Daniel was a kind and curious boy who loved to explore the beautiful countryside and learn about the rich history of his people.\n\nOne day, as Daniel was wandering through the hills, he came across an ancient cave. As he peered inside, he saw a small, dusty scroll tucked in the corner. Daniel carefully picked it up and began to unroll it. To his amazement, the scroll was covered in Hebrew writing that told the story of the Jewish people from the very beginning of time.\n\nDaniel was so excited by his discovery that he ran all the way back to his village to share the news. The villagers were thrilled and gathered around to hear Daniel read the scroll. As he read, they were transported back in time and learned about their ancestors and the many miracles that had sustained the Jewish people throughout history.\n\nAs the sun began to set, casting a warm golden light over the village, Daniel's mother called him inside to get ready for bed. Daniel reluctantly said goodbye to his new friends and headed up to his room.\n\nAs he lay in bed, Daniel couldn't stop thinking about the scroll and the amazing story it told. He felt grateful to be part of such a rich and vibrant tradition, and he knew that he would always cherish the lessons he had learned that day.\n\nWith a warm and full heart, Daniel drifted off to sleep, dreaming of all the wonders that the Jewish people had experienced throughout history.\n\nThe end.\n\nGood night, sweet dreams!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "jewish": "other",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

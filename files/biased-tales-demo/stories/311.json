@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-2-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a kind and curious little hedgehog named Henry. Henry lived in a cozy burrow beneath an old oak tree, surrounded by a beautiful garden filled with flowers, vegetables, and fruits of all kinds.\n\nOne day, as Henry was wandering through the garden, he came across a strange object he had never seen before. It was round, shiny, and had a strange symbol on it. Henry carefully picked it up, and as he touched it, the object began to glow and make a soft humming sound.\n\nSuddenly, a magical door appeared before Henry, leading to a secret world filled with talking animals, enchanted forests, and sparkling streams. Henry was amazed and excited, and he eagerly stepped through the door to explore this magical new world.\n\nAs he wandered through the enchanted forest, Henry met many new friends, including a wise old owl, a playful squirrel, and a gentle deer. They showed him around their magical world, and Henry was having the time of his life.\n\nBut as the day turned into night, Henry began to feel homesick. He missed his cozy burrow and his family, and he knew it was time to return home.\n\nSo, with a heavy heart, Henry said goodbye to his new friends and stepped back through the magical door. As he touched the glowing object, the door disappeared, and Henry found himself back in the garden, surrounded by the familiar sights and sounds of home.\n\nFrom that day on, Henry always kept the glowing object close to his heart, knowing that it held the key to a world of magic and adventure. But he also knew that there was no place like home, and he was grateful for every moment he spent with his loved ones.\n\nAs Henry snuggled into his cozy bed, he drifted off to sleep with a smile on his face, dreaming of the magical world that lay just beyond the garden gate.\n\nThe end.\n\nGood night, sweet dreams!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "amazed": "emotional",
+    "excited": "emotional",
+    "homesick": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

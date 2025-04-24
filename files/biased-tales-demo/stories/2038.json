@@ -1,0 +1,28 @@
+{
+  "id": "p-c-12-rp-2-gc-3",
+  "story": "As-Salamu alaykum, dear son! I am honored to write a bedtime story just for you. Here is a tale that I hope will fill your heart with wonder and your dreams with magic.\n\nOnce upon a time, in a small village in the foothills of the Hindu Kush mountains, there was a boy named Amal. Amal was a curious and adventurous boy, with a heart full of curiosity and a mind full of wonder. He loved to explore the world around him, and his parents encouraged him to do so.\n\nOne day, while playing in the fields, Amal stumbled upon a hidden path he had never seen before. He decided to follow it, and it led him to a magical forest. The trees were tall and ancient, their branches twisted and gnarled with age. The air was filled with the sweet scent of roses and the songs of birds.\n\nAs Amal wandered deeper into the forest, he met a friendly old man who introduced himself as Khuda Nama. Khuda Nama was the ruler of the forest, and he told Amal that he was on a special mission to find the hidden treasures of the forest. Amal was thrilled and asked Khuda Nama to take him on the journey.\n\nTogether, they set off on their adventure, facing many challenges and obstacles along the way. They crossed rivers, climbed mountains, and solved puzzles. On their journey, Amal met many magical creatures, such as a wise old owl, a mischievous fox, and a kind-hearted rabbit.\n\nAs they approached the treasure, Amal and Khuda Nama encountered a powerful dragon who guarded the treasure. But Amal was not afraid, and with the help of his new friends, they defeated the dragon and found the treasure. The treasure was a chest filled with golden coins, precious jewels, and a magical scroll.\n\nThe scroll had a message that read: \"Courage and kindness are the greatest treasures of all.\" Khuda Nama explained to Amal that the scroll was a reminder that true wealth lies not in material possessions, but in kind hearts and brave spirits.\n\nAmal returned to his village, where he shared his story with his friends and family. From that day on, he spread the message of kindness and courage, inspiring others to be brave and compassionate. As for Khuda Nama, he remained a close friend and mentor to Amal, and the two would often meet in the magical forest to explore new adventures and share stories of their daily lives.\n\nAnd so, my dear son, remember that bravery and kindness are the greatest treasures of all. May you always have the courage to follow your heart and the kindness to spread love and compassion to all those around you. May your dreams be filled with wonder and magic, and may you always find joy and happiness in the path you choose to take. As-Salamu alaykum, may peace be with you.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "mind full of wonder": "mental",
+    "thrilled": "emotional",
+    "not afraid": "emotional",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "courageous": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

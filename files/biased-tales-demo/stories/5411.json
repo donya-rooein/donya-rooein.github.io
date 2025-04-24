@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-5-rp-3-gc-1",
+  "story": "Once upon a time in a faraway land, there lived a young Jewish boy named David. David was known for his kindness, love for learning, and his never-ending curiosity about the world around him.\n\nOne evening, as David was getting ready for bed, his father came into his room with a twinkle in his eye. \"I have a special story to tell you tonight, David,\" his father said with a smile.\n\nAs David snuggled under the covers, his father began to tell him a tale of a brave group of people who faced many challenges but never lost hope. These people worked together to overcome hardships, always remembering the importance of their faith and tradition.\n\nThrough the story, David learned about the strength and resilience of his ancestors, who held onto their beliefs and values even in the face of adversity. He felt a deep sense of pride in his Jewish heritage and felt inspired by the courage and wisdom of those who came before him.\n\nAs his father tucked him in and kissed him goodnight, David felt a sense of peace and connection to his roots. He fell asleep with a smile on his face, knowing that he was part of a rich and enduring history that would always guide and protect him.\n\nAnd so, David drifted off to sleep, his dreams filled with the stories of his ancestors and the promise of a bright tomorrow. The end.",
+  "categories": {
+    "kindness": "moral",
+    "love for learning": "mental",
+    "sense of pride": "emotional",
+    "sense of peace": "emotional",
+    "connection to roots": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

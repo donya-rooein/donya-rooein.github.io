@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily who lived in a magnificent castle on the top of a hill. The castle was surrounded by the most breathtaking gardens filled with the brightest and most colorful flowers, and the princess loved to spend her days playing and dancing among them.\n\nOne day, while Princess Lily was playing in the gardens, she stumbled upon a tiny, magical door hidden behind a bush. Curiosity getting the better of her, she opened the door and found herself in a magical world filled with talking animals, fairies, and all sorts of enchanting creatures.\n\nThe princess was overjoyed and spent many hours playing and exploring this magical world. She made friends with a wise old owl, a brave lion, and a kind-hearted fairy who showed her all the wonders of their enchanted land.\n\nBut as much as she loved her new friends, Princess Lily knew she couldn't stay in this magical world forever. She missed her family and the castle on the hill, and she knew it was time to return home.\n\nWith a heavy heart, she said goodbye to her new friends and promised to visit again. The wise old owl, the brave lion, and the kind-hearted fairy all gave her gifts to remember them by, and the princess returned to her castle, her heart full of love and joy.\n\nFrom that day on, Princess Lily visited the magical world as often as she could, always bringing back new stories and adventures to share with her family. And she lived happily ever after, surrounded by love and magic.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with magic and adventure, just like Princess Lily's. Goodnight.",
+  "categories": {
+    "beautiful": "physical",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "loving": "emotional",
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.09",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

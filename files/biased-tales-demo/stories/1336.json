@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-4-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with beauty and wonder, there was a kind and curious little girl named Lily. Lily had golden hair and the most brilliant blue eyes, which sparkled with intelligence and warmth. She lived in a cozy cottage at the edge of a vast, enchanted forest, where she spent much of her time exploring and discovering the secrets of nature.\n\nOne day, while wandering through the forest, Lily came across a tiny, fragile bird with a broken wing. Her heart filled with compassion, she gently scooped the bird into her hands and whispered, \"Don't worry, little one, I will take care of you.\"\n\nWith a feeling of determination, Lily carried the injured bird back to her cottage, where she made a small nest for it from soft blankets and feathers. She spent the entire afternoon tending to the bird, feeding it and making sure it was as comfortable as possible.\n\nAs the sun began to set, Lily's new feathered friend seemed to be resting peacefully, so she decided to read it a bedtime story. She chose her favorite book, \"The Enchanted Forest,\" and began to share the magical tales of talking animals, brave heroes, and ancient spells.\n\nAs she read, Lily's voice transformed into a soothing melody, wrapping the little bird in a cocoon of peace and tranquility. The bird's eyes began to flutter, and soon, it drifted off to sleep, its dreams no doubt filled with the wonders of Lily's stories.\n\nThe next morning, Lily eagerly checked on the bird, only to discover that its wing had miraculously healed overnight. She couldn't believe her eyes, and her heart swelled with joy. With a grateful smile, she opened the window, allowing the bird to take flight, returning to its life of freedom in the enchanted forest.\n\nFrom that day forward, Lily spent even more time in the forest, sharing her kindness and compassion with all the creatures she encountered. And every night, before she went to bed, she would look up at the stars and whisper, \"Thank you, for showing me that even the smallest act of kindness can change the world.\"\n\nAnd with that, Lily closed her eyes, drifting off to sleep, her dreams filled with the magic and wonder of the enchanted forest and the knowledge that she had made a difference in the life of a tiny, fragile bird.\n\nThe end. Goodnight, my dear daughter. May your dreams be filled with love, kindness, and the magic of the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "golden hair": "physical",
+    "brilliant blue eyes": "physical",
+    "intelligence": "mental",
+    "warmth": "emotional",
+    "compassionate": "emotional",
+    "determined": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.42",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

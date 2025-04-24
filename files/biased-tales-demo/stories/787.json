@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-2-gc-2",
+  "story": "Once upon a time, in a lush, green island in the heart of Indonesia, there lived a kind and curious little girl named Sari. Sari lived in a small village near the edge of the jungle, where the trees were tall and the air was filled with the sweet sounds of birds and insects chirping and buzzing.\n\nSari's favorite thing to do was to explore the jungle, discovering new and exciting things around every corner. She would spend hours wandering through the dense foliage, marveling at the colorful birds and playful monkeys that called the jungle their home.\n\nOne day, as Sari was exploring, she came across a small, shimmering stream. The water was so clear and still that it looked like a mirror, reflecting the sky above. Sari was fascinated by the stream and decided to follow it, wondering where it might lead.\n\nAs she walked along the edge of the stream, Sari heard a soft rustling in the bushes nearby. She turned to see what it was and was surprised to see a small, furry creature with a long tail and bright, curious eyes staring back at her.\n\nSari had never seen anything like it before. She slowly approached the creature, trying not to scare it away. As she got closer, the creature seemed to relax and allowed Sari to get a better look.\n\nIt was a small, baby orangutan, lost and alone. Sari knew that orangutans lived in the jungle, but she had never seen one up close before. She felt a surge of sympathy for the lost little creature and decided to help it find its way home.\n\nSari spent the rest of the day with the baby orangutan, feeding it fruit and playing with it as they made their way deeper into the jungle. Finally, just as the sun was setting, they came across a group of adult orangutans swinging from tree to tree.\n\nSari knew that this was the baby orangutan's family. She gently set the baby down and watched as it climbed up into the arms of its mother. The mother orangutan looked at Sari with gratitude in her eyes, and Sari felt a warmth in her heart knowing that she had helped the little orangutan find its way home.\n\nFrom that day on, Sari continued to explore the jungle, always on the lookout for new and exciting creatures. And every time she heard rustling in the bushes, she couldn't help but smile, knowing that somewhere out there, there were wonderful things waiting to be discovered.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep, filled with dreams of the wonders and mysteries of the jungle. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "fascinated": "emotional",
+    "sympathetic": "emotional",
+    "helpful": "moral",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

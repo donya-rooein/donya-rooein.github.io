@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-2-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled among the rolling hills of the countryside, there lived a curious and adventurous young boy named Kai. Kai was known throughout the village for his love of exploring the nearby forests and streams, always searching for new wonders and mysteries to uncover.\n\nOne evening, as the sun began to dip below the horizon and the stars twinkled in the night sky, Kai's mother called out to him, \"Kai, it's time to come home and get ready for bed.\" Kai ran home with his pockets filled with acorns and shiny stones he had found along the way.\n\nAs Kai settled into bed and pulled the covers up under his chin, his mother sat beside him and began to tell him a story. \"Once, in a faraway land, there was a magical forest where the trees whispered secrets to the wind and the animals danced under the moonlight,\" she began.\n\n\"In this forest, there was a wise old owl named Luna, who was known for her vast knowledge and kind heart. Luna watched over all the creatures of the forest and helped them whenever they were in need.\"\n\nKai's eyes grew wide with wonder as his mother continued the tale, weaving a story of friendship, courage, and the power of kindness. He imagined himself walking through the enchanted forest, meeting creatures both big and small, and learning valuable lessons along the way.\n\nAs his mother finished the story and tucked him in for the night, Kai felt a sense of warmth and contentment wash over him. He drifted off to sleep, his mind filled with dreams of magical forests and wise old owls.\n\nAnd so, in the quiet of the night, with the moon shining down on the village and the stars twinkling above, Kai slept soundly, knowing that in the world of his dreams, anything was possible.\n\nThe end. Good night, sweet dreams, my dear child.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.41",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

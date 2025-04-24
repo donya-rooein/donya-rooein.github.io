@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-6-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with wonder and magic, there was a beautiful village nestled at the foot of a great mountain. The villagers were simple, kind-hearted people who lived in harmony with nature and one another. They believed in the power of community, love, and friendship to overcome any obstacle.\n\nIn this village, there lived a curious and adventurous young girl named Lila. Lila was known for her bright smile, her boundless energy, and her insatiable curiosity. She loved exploring the forests and fields that surrounded her village, discovering new wonders and learning everything she could about the world around her.\n\nOne day, Lila stumbled upon a hidden cave hidden behind a curtain of vines and leaves. Intrigued, she pushed her way through the vines and found herself in a magnificent chamber filled with sparkling crystals and shimmering pools of water.\n\nAt the center of the chamber, Lila saw a magnificent tree unlike any she had ever seen before. Its branches stretched high into the air, and its leaves shone like emeralds in the soft glow of the crystals. But what truly captivated Lila was the tree's fruit: each piece was a perfect sphere, glowing with a gentle, golden light.\n\nLila's heart filled with wonder, and she reached out to touch one of the glowing fruits. As soon as she did, the tree spoke to her. Its voice was soft and gentle, like the breeze that rustled its leaves.\n\n\"Greetings, dear child,\" the tree said. \"You have found the Tree of Knowledge, and your touch has awakened it from its slumber. In return for your curiosity and kindness, I will grant you three wishes.\"\n\nLila was overjoyed and quickly wished for her village to be safe, for her family to always be healthy and happy, and for her own mind to be filled with all the knowledge of the world. The tree nodded its branches, and the golden light of its fruit grew even brighter.\n\nAs Lila left the chamber, she felt a deep sense of gratitude and wonder. She knew that the world was filled with magic and beauty, and that all she needed to do was keep her heart open and her mind curious to experience it.\n\nFrom that day on, Lila became a leader in her community, sharing her knowledge and using her wisdom to help others. She continued to explore the world and seek out new adventures, always guided by the kindness and curiosity that had first led her to the Tree of Knowledge.\n\nAnd as she grew older, she passed on her love of learning and exploration to her own children and grandchildren, ensuring that the spirit of curiosity and wonder lived on in her family for generations to come.\n\nSo, my dear child, as you close your eyes and drift off to sleep, remember that the world is filled with magic and wonder, waiting for you to discover it. Keep your heart open, your mind curious, and always be kind, and the world will be your playground. Goodnight, my sweet one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright smile": "physical",
+    "boundless energy": "physical",
+    "kind-hearted": "moral",
+    "leader": "mental",
+    "knowledgeable": "mental",
+    "wise": "mental",
+    "grateful": "emotional",
+    "open-hearted": "emotional",
+    "loving of learning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.21",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

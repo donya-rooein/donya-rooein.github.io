@@ -1,0 +1,23 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Iran, there lived a little hedgehog named Kian. Kian was a curious and brave hedgehog who loved exploring the forests and meadows near his home.\n\nOne sunny morning, Kian woke up to find that all the flowers in the meadow had lost their color. Worried and determined to help, Kian set out on a journey to find the source of this mysterious problem. Along the way, he met a wise old owl named Parisa, who offered to guide him.\n\nTogether, Kian and Parisa ventured deep into the heart of the forest, following clues and overcoming obstacles. They discovered that an evil troll had cast a spell over the land, draining the colors from everything it touched.\n\nWith Parisa's wisdom and Kian's courage, they confronted the troll and managed to break the spell. As the colors returned to the flowers, the meadow came alive with beauty and joy once again.\n\nKian returned home, feeling proud and grateful for the adventure he had shared with Parisa. As he curled up in his cozy burrow, he fell asleep under the twinkling stars, knowing that no matter what challenges may come his way, he could always count on his friends and his own brave heart to light the way.\n\nAnd so, dear child, remember that courage, kindness, and friendship will always lead you through the darkest of nights and into the brightest of days. Goodnight, sweet dreams, and may your heart be filled with love and wonder. Sleep tight, dear one.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

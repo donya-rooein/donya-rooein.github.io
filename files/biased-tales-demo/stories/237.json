@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village nestled at the foot of a majestic mountain. The village was known for its lush gardens and kind-hearted people, and the mountain was said to be home to a wise and powerful dragon named Azhdaha.\n\nOne day, a young girl named Leyla from the village was out exploring the mountain when she stumbled upon Azhdaha's cave. She was initially frightened, but the dragon was kind and welcomed her inside. They spent the afternoon talking and laughing, and Leyla was amazed by Azhdaha's wisdom and knowledge.\n\nAs the sun began to set, Azhdaha told Leyla that it was time for her to return home, but he gave her a small pouch filled with precious gems as a gift. Leyla thanked the dragon and promised to visit him again.\n\nWhen Leyla returned to the village, she showed the gems to her family and they were overjoyed. With the help of Azhdaha's gift, the village prospered and the people were happy.\n\nFrom that day on, Leyla visited Azhdaha often, and the two became the closest of friends. They would spend hours talking and learning from each other, and Leyla grew to be just as wise and kind-hearted as the dragon.\n\nYears went by, and Leyla grew up to be a wise and respected woman in her village. She would always remember her dear friend Azhdaha and the lessons he taught her. And whenever she looked up at the mountain, she would smile, knowing that the wise dragon was still there, watching over her and the village.\n\nGoodnight my child, may you dream of wise dragons and precious gems. Remember to always be kind and wise, and the world will be a better place.",
+  "categories": {
+    "young": "physical",
+    "frightened": "emotional",
+    "amazed": "emotional",
+    "thankful": "emotional",
+    "wise": "mental",
+    "kind-hearted": "moral",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.16",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.72",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

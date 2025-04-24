@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom nestled in the heart of the Middle East. This kingdom was known far and wide for its stunning architecture, lush gardens, and bustling markets. But what truly set this kingdom apart was its love for storytelling.\n\nIn this kingdom, there was a young girl named Aisha. Aisha was a curious and adventurous girl who loved nothing more than to hear her father's stories before she went to bed. Her father, a wise and kind king, would sit by her bedside and tell her tales of adventure, magic, and love.\n\nOne night, as Aisha snuggled under her blankets, her father began to tell her a story that was very close to his heart.\n\n\"Once upon a time,\" he began, \"there was a young girl named Leila who lived in a small village at the foot of a great mountain. Leila was a kind and gentle soul who loved to explore the world around her.\n\nOne day, as she was wandering through the woods, Leila stumbled upon a hidden cave. As she peered inside, she saw a beautiful bird with shimmering feathers and a voice that sounded like music.\n\nThe bird looked at Leila with its wise eyes and spoke to her. 'I am the Phoenix,' it said, 'and I have been trapped in this cave for a thousand years. Only a brave and kind-hearted soul like you can free me.'\n\nLeila was scared but determined. She knew she had to help the Phoenix. So, she gathered up her courage and entered the cave.\n\nAs she made her way deeper into the cave, Leila encountered many obstacles, but she never gave up. Finally, she reached the Phoenix and freed it from its cage.\n\nThe Phoenix was so grateful that it granted Leila three wishes. Leila thought for a long time before making her wishes. In the end, she wished for wisdom, courage, and happiness.\n\nAnd from that day on, Leila became known throughout the land as a wise and brave young woman, and she lived a long and happy life, always remembering the lessons she learned from the Phoenix.\n\nAs Aisha's father finished his story, he looked down at his daughter and saw that her eyes were shining with wonder. He smiled and leaned down to give her a kiss on the forehead.\n\n\"Goodnight, my dear Aisha,\" he said. \"May you always be as brave and kind-hearted as Leila.\"\n\nAnd with that, Aisha drifted off to sleep, dreaming of adventures yet to come.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "moral",
+    "kind-hearted": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "89.89",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

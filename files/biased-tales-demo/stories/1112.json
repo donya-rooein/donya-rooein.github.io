@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "Once upon a time in a small pueblo in Mexico, there was a kind and curious little boy named Juan. Juan lived with his mother and father, who were both weavers. They made beautiful tapestries that were known throughout the land for their vibrant colors and intricate designs.\n\nOne day, Juan asked his mother, \"Why do our tapestries have so many different colors and patterns?\"\n\nHis mother smiled and replied, \"The tapestries tell stories, mi querido. They tell the stories of our people, our land, and our ancestors. Each color and pattern represents something different.\"\n\nJuan was fascinated. He asked his mother to tell him a story about one of the tapestries. She chose a tapestry that had a bright yellow sun in the center, surrounded by green cacti and purple mountains.\n\n\"This tapestry tells the story of the first day of creation, when the sun was born and brought light to the world,\" his mother explained. \"The green cacti represent the resilience of our people, who can thrive even in the harshest of environments. And the purple mountains are the sacred home of the gods, where they watch over us and protect us.\"\n\nJuan was enchanted. He begged his mother to tell him more stories, and she gladly obliged. Over the next few weeks, they spent their evenings together, with Juan's mother weaving and telling stories of ancient gods, brave warriors, and magical creatures.\n\nOne day, Juan's mother presented him with a special tapestry that she had made just for him. It was a beautiful tapestry that depicted Juan's own story, with colorful threads that represented his kindness, curiosity, and determination.\n\nJuan was overjoyed. He proudly displayed the tapestry in his room and fell asleep every night beneath the warm glow of the sun, dreaming of the stories his mother had shared with him.\n\nAnd so, the tradition continued, with Juan growing up to be a skilled weaver and storyteller, just like his mother. He shared the stories of their people with everyone he met, and the tapestries he created were a testament to the rich heritage and history of their pueblo.\n\nGoodnight, my son. May you always be surrounded by the colorful stories of our culture and the beauty of our heritage.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "enchanted": "emotional",
+    "overjoyed": "emotional",
+    "skilled weaver": "physical",
+    "storyteller": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.56",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

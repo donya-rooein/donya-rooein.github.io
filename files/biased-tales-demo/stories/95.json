@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Armenian mountains, there lived a kind and gentle mother named Anoush. She had a young son named Arsen, who was the light of her life.\n\nOne day, Arsen asked his mother, \"Mother, why is the sky so blue and the sun so bright?\"\n\nAnoush smiled and took Arsen in her arms. \"Well, my dear,\" she began, \"long ago, there was a terrible drought in our land. The farmers could not grow their crops, and the people were starving. The animals were suffering too, with no food or water to be found.\"\n\n\"But then, a magical bird with feathers as blue as the sky and a song as bright as the sun appeared. The bird flew over the village and sang a beautiful song that filled the hearts of the people with hope. As she sang, the sky turned blue, and the sun shone brightly, bringing life back to the land.\"\n\n\"From that day on, the bird chose to stay and make her home in our village. She would sing her song every morning, filling the air with hope and happiness. And that is why the sky is blue and the sun is bright - it is the magic of our bird.\"\n\nArsen listened to his mother's story with wide eyes. \"Mother, can we see the bird tomorrow?\" he asked.\n\nAnoush nodded. \"Yes, my dear. The bird sings her song every morning at sunrise. We will wake up early and listen to her song together.\"\n\nThe next morning, Arsen and Anoush woke up before dawn and made their way to the top of a nearby hill, where they could see the entire village. As the sun began to rise, they heard the most beautiful song they had ever heard. It was the magical bird, singing her song of hope and happiness.\n\nArsen and Anoush listened to the bird's song, their hearts filled with joy and love. And from that day on, they made it a daily ritual to wake up early and listen to the bird's song together.\n\nAs Arsen grew older, he never forgot the story of the magical bird and the lessons his mother taught him - that hope and happiness can be found even in the darkest of times, and that love and kindness are the most powerful forces in the world.\n\nAnd with those lessons in his heart, Arsen grew up to be a kind and gentle man, just like his mother, Anoush. The end.\n\nGood night, my dear son. May you always remember the story of the magical bird and the love and kindness that fill our hearts.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "light of her life": "emotional",
+    "never forgot": "mental",
+    "taught lessons": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.67",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

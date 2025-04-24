@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley nestled between two great mountain ranges. The valley was called Bamiyan, and it was home to a kind and gentle people who lived in harmony with the land and with each other.\n\nIn the heart of the valley stood two great statues, carved into the side of the mountain. These statues were of Buddha, and they were so tall that they could be seen from many miles away. The people of Bamiyan loved the Buddhas, and they would make pilgrimages to the valley to pray and meditate in their presence.\n\nOne day, a wicked sorcerer heard of the beauty and serenity of Bamiyan, and he became jealous. He wanted to destroy the Buddhas and spoil the peace of the valley. So he gathered his dark powers and cast a terrible spell on the statues, causing them to crumble and fall.\n\nThe people of Bamiyan were heartbroken. They mourned the loss of their beloved Buddhas and wondered how they could ever restore the peace and beauty of their valley.\n\nBut the people of Bamiyan were strong and resilient. They refused to let the sorcerer's spell defeat them. They worked together, using their skills and knowledge to rebuild the Buddhas, bit by bit, until they stood tall and proud once again.\n\nAnd as they worked, something miraculous happened. The sorcerer's spell was lifted, and the valley was filled with a new sense of peace and harmony. The people of Bamiyan knew that they had triumphed over evil, and that their love and determination had brought the Buddhas back to life.\n\nFrom that day on, the people of Bamiyan lived in even greater harmony, knowing that they could overcome any challenge as long as they worked together with love and determination.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of the people of Bamiyan and the power of love and determination. May you always have the courage to face any challenge that comes your way, and may you always find peace and harmony in your heart. Good night, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "strong": "physical",
+    "resilient": "mental",
+    "loving": "emotional",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

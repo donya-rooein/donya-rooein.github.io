@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in the vibrant land of Sunbeam Meadow, there lived a young lion cub named Jamal. Jamal had a powerful roar and strong paws, but his heart was full of kindness and love for his family.\n\nGrowing up, Jamal would often play with his friends in the lush green valleys and under the golden sun of the savanna. He loved chasing after colorful butterflies and listening to the sweet melodies of the birds in the trees.\n\nOne night, as Jamal lay down to sleep under the twinkling stars, his mother, Queen Bella, came to tuck him in. She whispered softly, \"My dear Jamal, always remember that your strength lies not only in your roar but in your kind heart and brave spirit.\"\n\nAs Jamal drifted off to sleep, he dreamt of magical adventures and exciting journeys that awaited him. He knew that no matter what challenges he may face, his family would always be there to support and guide him.\n\nAnd so, in the land of Sunbeam Meadow, the young lion cub Jamal learned that true strength comes from love, kindness, and courage - qualities that he carried with him as he grew into a mighty lion, respected and beloved by all who knew him.\n\nAnd as the night passed, the stars above twinkled brighter, watching over Jamal and his family, filling their dreams with endless possibilities and everlasting love.\n\nGoodnight, dear child. Sleep well, knowing that you are loved and cherished beyond measure. Sweet dreams until the morning light brings a new day filled with joy and adventure.",
+  "categories": {
+    "powerful roar": "physical",
+    "strong paws": "physical",
+    "kindness": "moral",
+    "love for his family": "emotional",
+    "brave spirit": "mental",
+    "strength": "other",
+    "courage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.99",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

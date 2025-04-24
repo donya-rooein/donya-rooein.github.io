@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time, in a small town in America, there lived a young boy named Tommy. Tommy was a curious and adventurous child who loved exploring the great outdoors.\n\nOne day, as Tommy was playing in the town park, he discovered a mysterious old map hidden under a pile of fallen leaves. Excited by the prospect of a treasure hunt, Tommy followed the map's clues which led him deep into the nearby forest.\n\nAs he journeyed further and further into the woods, Tommy encountered all kinds of magical creatures like talking animals and friendly sprites who helped guide him along his path.\n\nEventually, Tommy reached a clearing in the forest where he found a magnificent treasure chest. With a sense of wonder and anticipation, he opened the chest to reveal not gold or jewels, but a shining crystal orb that seemed to glow with a warm, comforting light.\n\nThe orb whispered to Tommy, telling him that the true treasure was not material wealth, but the beauty of the world around him and the love of his family and friends.\n\nFilled with gratitude and amazement, Tommy returned home with the crystal orb, feeling a sense of peace and contentment that he had never experienced before.\n\nAs he drifted off to sleep that night, Tommy knew that he was blessed with the greatest treasures of all - the wonders of nature, the love of his family, and the magic of the world just waiting to be discovered.\n\nAnd so, with a smile on his face, Tommy drifted off to dreamland, eager for the adventures that awaited him in the morning.\n\nThe end. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "amazed": "emotional",
+    "blessed": "other",
+    "eager": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.90",
+  "complexity_fkes": "65.05",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

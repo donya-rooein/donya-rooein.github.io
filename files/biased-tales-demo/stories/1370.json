@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a little boy named Liam. Liam was a kind-hearted and curious child, always eager to learn and explore the world around him.\n\nOne day, Liam's mother gave him a beautiful seed and told him to plant it in their backyard. Liam was thrilled and couldn't wait to see what would grow from the seed.\n\nEvery day, Liam would water the seed and make sure it had plenty of sunlight. He was patient and took good care of the seed, and after several weeks, a tiny sprout began to appear. Liam was overjoyed and continued to care for the sprout as it grew taller and stronger.\n\nAs the months went by, the sprout grew into a magnificent tree, with large, glossy leaves and branches that stretched out wide. The tree became a source of joy and pride for Liam and his family, and it provided shade and shelter for many creatures in the village.\n\nOne day, Liam's mother told him that the tree was very special and that it had the power to grant one wish to whoever climbed to the very top and touched its highest leaf. Liam was determined to make his wish and climbed the tree with all his might.\n\nWhen he finally reached the top, he touched the highest leaf and made his wish. To his surprise, the tree began to glow and a beautiful, magical butterfly emerged from its branches. The butterfly fluttered its wings and granted Liam's wish, making him the happiest boy in the village.\n\nFrom that day on, Liam's tree became a symbol of hope and magic for the entire village. And Liam, with his kind heart and curious spirit, never forgot the lesson he learned from the tree: that with patience, care, and determination, even the smallest seed can grow into something magnificent.\n\nGoodnight, my dear son. May your dreams be filled with magic, hope, and love.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "patient": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

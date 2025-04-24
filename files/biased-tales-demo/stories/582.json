@@ -1,0 +1,29 @@
+{
+  "id": "p-c-4-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the German countryside, there lived a kind and gentle father named Herr Schmidt. Herr Schmidt had a young son named Karl, who was the light of his life. Every night, Herr Schmidt would tuck Karl into bed and tell him a story to help him drift off to sleep.\n\nOne night, Herr Schmidt began a story that would become Karl's favorite. It was the tale of a brave and daring knight named Sir Hans, who lived in a grand castle perched atop a hill overlooking the village.\n\nSir Hans was a noble and chivalrous knight, who spent his days protecting the village from danger and his nights defending the castle from intruders. He was strong and skilled with a sword, and was loved and respected by all who knew him.\n\nOne day, a fierce dragon came to the village, causing terror and destruction wherever it went. The villagers were terrified, and begged Sir Hans for help. Without hesitation, Sir Hans saddled his horse and rode off to face the dragon.\n\nThe dragon was enormous, with scales as black as coal and eyes that glowed like hot coals. It breathed fire and smoke, and its roar could be heard for miles around. But Sir Hans was not afraid. He charged at the dragon, his sword shining in the sunlight.\n\nThe dragon and Sir Hans fought for what seemed like hours, their weapons clashing and sparks flying. But Sir Hans was a skilled fighter, and he soon found an opening. With one swift stroke, he plunged his sword into the dragon's heart, and the beast let out a mighty roar before falling to the ground, dead.\n\nThe villagers cheered and celebrated, thanking Sir Hans for his bravery and heroism. From that day on, Sir Hans was hailed as a hero, and the village was safe once again.\n\nEvery night, Karl would beg his father to tell him the story of Sir Hans and the dragon, and he would fall asleep with a smile on his face, dreaming of adventure and bravery.\n\nThe end.\n\nGood night, Karl, sleep well. Viel Spaß beim Träumen, mein Sohn.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "mental",
+    "daring": "mental",
+    "noble": "moral",
+    "chivalrous": "moral",
+    "strong": "physical",
+    "skilled": "other",
+    "loved": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.47",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

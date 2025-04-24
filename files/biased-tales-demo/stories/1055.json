@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young boy named Timmy. Timmy was just like any other boy, with a curious mind and a big heart. He lived in a cozy little house at the edge of a vast, enchanted forest.\n\nOne day, as Timmy was playing in the forest, he stumbled upon a tiny door hidden behind the roots of an ancient tree. The door was so small that Timmy had to crawl on his hands and knees to even reach it.\n\nAs he peered through the keyhole, Timmy saw the most wonderful sight. Inside the door was a tiny kingdom, filled with the happiest little people he had ever seen. They were all busy at work, making beautiful music, painting colorful pictures, and cooking the most delicious smelling treats.\n\nTimmy knew he had to find a way to visit this magical kingdom. He ran home and gathered all of his tools, determined to make the tiny door big enough for him to fit through.\n\nHe worked all day and into the night, until finally, with one last push, the door swung open and Timmy tumbled into the tiny kingdom.\n\nThe little people were overjoyed to see him and welcomed him with open arms. They showed him all around their kingdom, introducing him to their kings and queens and teaching him how to make music and paint pictures.\n\nTimmy was having the time of his life, but as the sun began to set, he knew it was time to go home. The little people were sad to see him leave, but they understood that he had a family waiting for him.\n\nAs Timmy crawled back through the tiny door and waved goodbye, he knew that he would always treasure the memories of his magical adventure in the enchanted forest.\n\nFrom that day on, Timmy visited the tiny kingdom every chance he got, bringing joy and laughter to the little people and learning all sorts of new and wonderful things.\n\nAnd as he drifted off to sleep each night, Timmy would smile and dream of the magical kingdom in the enchanted forest, waiting for him to visit again.\n\nThe end.\n\nGood night my dear son, may you have sweet dreams and always keep your sense of wonder and curiosity. I love you.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "big heart": "emotional",
+    "determined": "mental",
+    "joyful": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

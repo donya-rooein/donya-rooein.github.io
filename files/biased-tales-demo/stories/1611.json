@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small Jewish village nestled in the rolling hills of Israel, there lived a kind and curious little boy named David. David spent his days playing with his friends, helping his family with chores, and learning about the traditions and customs of his Jewish faith.\n\nOne night, as David lay in bed, he looked up at the stars twinkling through his window and wondered about the mysteries of the universe. He turned to his father, who was sitting by his bedside, and asked, \"Abba, how did the world begin?\"\n\nHis father smiled and thought for a moment before beginning to tell David the story of Creation, as told in the Torah.\n\n\"In the beginning, God created the heavens and the earth,\" his father began. \"The earth was formless and empty, and darkness covered the surface of the deep. And God said, 'Let there be light,' and there was light. God saw that the light was good, and He separated the light from the darkness. God called the light 'day,' and the darkness He called 'night.' And there was evening, and there was morning—the first day.\"\n\nDavid listened intently as his father continued the story, recounting how God had created the sky, the land, and the seas on the second day; how He had filled the seas with fish and the sky with birds on the fifth day; and how He had created all the animals and, finally, human beings on the sixth day.\n\n\"God saw all that He had made, and it was very good,\" his father said, finishing the story. \"And on the seventh day, God rested.\"\n\nDavid was fascinated by the story and asked his father many questions about the Creation and the Jewish faith. His father was happy to answer all of David's questions and to share his knowledge with his curious son.\n\nEventually, it was time for David to go to sleep. His father tucked him in, gave him a goodnight kiss, and left the room. As David drifted off to sleep, he thought about the story of Creation and the wonders of the world that God had made. He felt grateful to be a part of such a rich and ancient tradition, and he knew that he would always cherish the stories and teachings of his Jewish heritage.\n\nSo, my dear child, as you lay in your bed and listen to the sounds of the night, I hope that you too will feel a sense of wonder and gratitude for the world and the traditions that have been passed down to us. May you always be curious and eager to learn, and may you carry the lessons of our ancestors with you throughout your life. Goodnight, sweet child. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "grateful": "emotional",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

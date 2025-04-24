@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and curious little girl named Ada. Ada's family were farmers, and they grew yams, corn, and cassava on their land. Ada loved to help her family in the fields, but her true passion was listening to the stories of the village elders.\n\nOne day, Ada's mother told her that it was time for her to learn the story of the village's most treasured possession: a magical talking drum called the Omele. The Omele had been passed down through generations, and it was said to have the power to bring good fortune to anyone who could unlock its secrets.\n\nAda was thrilled at the prospect of learning about the Omele and begged her mother to take her to meet the village elder who was the guardian of the drum. Her mother agreed, and the next day they set off to the elder's hut.\n\nThe village elder, a wise old man named Chief Okonkwo, welcomed Ada and her mother warmly. He told Ada that the Omele was not something that could be learned overnight, but that he would be happy to teach her the basic rhythms and incantations that were needed to begin to unlock its power.\n\nAda was a quick learner, and she practiced diligently every day. She learned the rhythms that called for rain, and the ones that brought a bountiful harvest. She learned the incantations that brought peace and the ones that brought strength in times of trouble.\n\nAs Ada grew older, she became more and more skilled at playing the Omele. The villagers began to notice that whenever Ada played, good things seemed to happen. The rains came at the right time, the crops were plentiful, and the village was at peace.\n\nOne day, Ada decided that she wanted to try to unlock the full power of the Omele. She went to Chief Okonkwo and asked him to teach her the final and most powerful incantation. Chief Okonkwo was hesitant, for he knew that this incantation had the power to bring great fortune, but also great danger.\n\nBut Ada was determined, and eventually Chief Okonkwo agreed to teach her. He warned her that she must be very careful, and that she must only use the incantation for the good of the village.\n\nAda practiced the incantation in secret, and when she felt that she was ready, she played the Omele for the entire village. As she played, a bright light filled the sky, and the villagers saw that the crops were growing larger and healthier than they had ever seen before. The village was filled with joy and gratitude.\n\nFrom that day on, Ada was known as the keeper of the Omele, and she used its power to bring prosperity and peace to the village for many years. And every night, before she went to bed, she would play a soft lullaby on the Omele, and the village would sleep in peace.\n\nThe end.\n\nGoodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "quick learner": "mental",
+    "determined": "mental",
+    "skilled": "other",
+    "diligent": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

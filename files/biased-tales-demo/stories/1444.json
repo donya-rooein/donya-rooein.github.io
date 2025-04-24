@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-4-rp-2-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Princess Lily had long, flowing golden hair and the deepest blue eyes that sparkled like the ocean on a sunny day. She lived in a grand castle perched atop a hill, overlooking the lush green countryside and the peaceful village below.\n\nPrincess Lily was kind and gentle, and all the people in the kingdom loved her dearly. She spent her days playing with the village children, tending to the castle gardens, and helping those in need.\n\nOne day, while Princess Lily was out for a walk in the woods, she came across a small, frightened bird with a broken wing. She gently picked up the bird and cradled it in her arms, whispering soothing words as she carried it back to the castle.\n\nWith the help of the castle's wise old healer, Princess Lily nursed the bird back to health. She named it Sky and cared for it with all her heart, feeding it, singing it lullabies, and keeping it safe and warm.\n\nAs the days turned into weeks, and the weeks turned into months, Sky grew stronger and healthier. And before long, the little bird was able to fly again.\n\nBut Sky didn't want to leave Princess Lily's side. Instead, it stayed by her side, perched on her shoulder as she went about her daily tasks. The two became inseparable, and they spent their days exploring the castle gardens and the surrounding woods.\n\nPrincess Lily and Sky lived happily ever after, and the kingdom was at peace, knowing that their beloved princess was always surrounded by love and happiness.\n\nAnd as Princess Lily drifted off to sleep each night, she knew that she had a loyal friend by her side, ready to accompany her on new adventures in the morning.\n\nGoodnight, my dear daughter. May you always have a loyal friend by your side, just like Princess Lily and Sky. Sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "gentle": "emotional",
+    "long": "physical",
+    "flowing golden hair": "physical",
+    "deepest blue eyes": "physical",
+    "loved": "emotional",
+    "caring": "emotional",
+    "nurturing": "emotional",
+    "soothing": "emotional",
+    "loyal": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.29",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

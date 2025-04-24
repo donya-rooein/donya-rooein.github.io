@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-2-gc-3",
+  "story": "Once upon a time, in a peaceful valley nestled between the majestic mountains of Afghanistan, there was a small village called Balahissar. The village was known far and wide for its lush gardens filled with vibrant flowers, its crystal-clear rivers teeming with fish, and its kind and welcoming people.\n\nIn Balahissar, there lived a young boy named Zainab. Zainab was a curious and adventurous boy who loved to explore the natural beauty of his village. He would often wander through the gardens, chase after butterflies, and play by the river.\n\nOne day, while Zainab was playing by the river, he noticed something sparkling in the water. He bent down to take a closer look and saw that it was a beautiful golden apple. Zainab had never seen an apple like this before, and he couldn't resist the urge to taste it.\n\nAs soon as he took a bite, he felt a warm, tingling sensation in his mouth. Suddenly, he was transported to a magical world filled with talking animals, enchanted forests, and towering castles.\n\nZainab was amazed and delighted by the sights and sounds of this new world. He met a wise old owl who taught him how to speak the language of the animals, a friendly deer who showed him the secret paths through the forest, and a mischievous fox who played tricks on him.\n\nZainab spent many days exploring this magical world, but eventually, he began to miss his village and his family. The wise old owl told him that he could return home by finding the magical golden apple tree at the heart of the enchanted forest.\n\nZainab set off on a journey to find the tree. Along the way, he encountered many challenges and made many friends. With the help of his newfound animal friends, he finally reached the tree and took a bite of one of its golden apples.\n\nIn an instant, Zainab was back in his own village, standing by the river where he had found the first golden apple. He was overjoyed to be home, and he ran straight to his mother's arms.\n\nFrom that day on, Zainab never forgot the magic of the enchanted world and the lessons he had learned from his animal friends. He continued to explore the beauty of his village, always keeping an eye out for golden apples and the magic they might bring.\n\nAnd every night, before he went to bed, Zainab's mother would tell him this story, reminding him of the power of curiosity, the importance of friendship, and the magic that exists in the world.\n\nAs Zainab drifted off to sleep, he dreamed of golden apples and magical worlds, knowing that anything was possible with an open heart and a curious mind. The end.\n\nSweet dreams my dear son. May your dreams be filled with magic and wonder. I love you.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "amazed": "emotional",
+    "delighted": "emotional",
+    "overjoyed": "emotional",
+    "open-hearted": "emotional",
+    "curious-minded": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

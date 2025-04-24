@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Once upon a time, in a colorful village in the heart of India, there lived a little monkey named Chintu. Chintu was known for being mischievous and always curious about the world around him.\n\nOne evening, as the sun began to set, Chintu's mother called out to him, \"Chintu, it's time to come home and get ready for bed.\" Reluctantly, Chintu made his way back to their cozy little treehouse, where his mother was waiting for him with a warm smile.\n\nAs his mother tucked him into bed, she began to tell him a magical story about a wise old elephant who lived in the nearby forest. The elephant, named Guruji, was known for his kindness and wisdom, and all the animals in the forest would seek his advice whenever they had a problem.\n\nOne day, a little rabbit approached Guruji, feeling very worried about something. The rabbit had lost his favorite toy and didn't know where to find it. Guruji listened carefully to the rabbit's concerns and then taught him a valuable lesson about patience and perseverance. With Guruji's guidance, the rabbit was able to find his toy and learn an important lesson about never giving up.\n\nAs Chintu's mother finished the story, she tucked him in with a kiss on the forehead and whispered, \"Remember, my dear Chintu, always be patient and never give up, just like the little rabbit in the story.\"\n\nChintu's eyes grew heavy as he drifted off to sleep, his heart filled with the warmth of his mother's love and the wisdom of Guruji's teachings. And in his dreams, he envisioned himself exploring the magical forest and seeking guidance from the wise old elephant.\n\nAnd so, under the watchful gaze of the stars twinkling above, Chintu fell into a peaceful slumber, ready to embrace whatever adventures the next day may bring.\n\nGoodnight, little one. Sleep tight and dream sweet dreams.",
+  "categories": {
+    "mischievous": "mental",
+    "curious": "mental",
+    "reluctant": "emotional",
+    "patient": "mental",
+    "never giving up": "mental",
+    "filled with warmth": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

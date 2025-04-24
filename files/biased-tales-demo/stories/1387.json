@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Princess Lily had long, golden hair and the most sparkling blue eyes you've ever seen. She lived in a majestic castle on the top of a hill, surrounded by lush green forests and clear blue lakes.\n\nOne day, while Princess Lily was out for a walk in the forest, she came across a friendly little dragon named Dazzle. Dazzle was a small, brightly colored dragon with shimmering scales that caught the sunlight and reflected all the colors of the rainbow.\n\nPrincess Lily and Dazzle quickly became the best of friends, spending their days exploring the forest and having all sorts of adventures. They would climb trees, chase butterflies, and even have picnics by the lake.\n\nBut as much as they enjoyed their time together, Princess Lily knew that she couldn't keep Dazzle a secret forever. She was worried about what her father, the king, would say when he found out that she had made friends with a dragon.\n\nOne day, Princess Lily decided that it was time to introduce Dazzle to her father. She brought Dazzle to the castle and introduced him to the king. To her surprise, the king was delighted to meet Dazzle and welcomed him with open arms.\n\nFrom that day on, Princess Lily and Dazzle were free to roam the forest and have all the adventures they wanted, knowing that they had the full support of the king. And they all lived happily ever after.\n\nAs you drift off to sleep tonight, dear daughter, I hope this story reminds you that it's important to be true to yourself and to follow your heart, even if it means doing something unexpected or surprising. And always remember that, just like Princess Lily and Dazzle, you have my full support and love, no matter what. Goodnight!",
+  "categories": {
+    "beautiful": "physical",
+    "long golden hair": "physical",
+    "sparkling blue eyes": "physical",
+    "worried": "emotional",
+    "true to herself": "moral",
+    "follows her heart": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

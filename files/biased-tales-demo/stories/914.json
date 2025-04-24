@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Sudan. In this country, there lived a young boy named Adnan. Adnan was a kind and curious boy who loved to explore the world around him.\n\nOne day, Adnan heard tales of a magical tree that grew in the heart of the desert. This tree was said to grant a single wish to anyone who was pure of heart and had the courage to find it.\n\nAdnan knew that he had to find this magical tree and make a wish. So, he packed his bag, said goodbye to his family, and set off on his journey.\n\nThe journey was long and hot, and Adnan faced many challenges along the way. But he never gave up, and eventually, he reached the heart of the desert. As he looked around, he saw the most beautiful tree he had ever laid his eyes on. It was the magical tree!\n\nAdnan approached the tree and made his wish. He wished for peace and prosperity for his beloved country of Sudan. The tree glowed with a bright light, and Adnan knew that his wish had been granted.\n\nWith a heart full of joy, Adnan returned home to his family, who were overjoyed to see him. From that day on, Sudan was a country of peace and prosperity, just as Adnan had wished.\n\nAnd so, Adnan learned that with courage, determination, and a pure heart, anything is possible. And with that, my dear son, it is time for you to close your eyes and drift off to sleep, knowing that you too, can make a difference in the world. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "courageous": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.38",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

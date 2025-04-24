@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American boy named Kofi. Kofi was a kind, curious, and adventurous child who loved to explore the world around him. His favorite time of day was twilight, when the sun would set and the sky would transform into a beautiful canvas of purples, pinks, and oranges.\n\nOne twilight, as Kofi was gazing at the sky, he noticed a small, shiny object falling from the heavens. It landed in a nearby tree with a soft thud. Kofi ran over to the tree and saw that it was a tiny, golden seed. He picked it up and felt a warm, gentle energy pulsating from it.\n\nKofi's heart filled with excitement and curiosity. He decided to plant the seed in his backyard and see what would happen. He watered it every day and watched as it slowly grew into a tall, beautiful tree. The tree had shimmering leaves of gold and sap that flowed like honey.\n\nOne day, as Kofi was sitting under the tree, he heard a soft whisper. He looked up and saw a small, glowing fairy perched on a branch. The fairy introduced herself as Twilight, the guardian of the golden tree. She told Kofi that the tree was a very special gift, and that it had the power to grant him one wish.\n\nKofi was overjoyed and thought long and hard about what he wanted most in the world. He thought about toys, games, and treats, but none of those things seemed important enough. Finally, he knew what he wanted: he wished for the wisdom to know what was truly important in life and the courage to follow his dreams.\n\nTwilight smiled and granted his wish. From that day on, Kofi was filled with a sense of purpose and determination. He worked hard in school, helped his community, and pursued his passions with all his heart. He grew up to be a successful, happy, and wise man, always remembering the lessons he learned from the golden tree and the wise fairy Twilight.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember that wishes can come true if you have the wisdom to know what you truly want and the courage to pursue it. Goodnight, my dear one, and may your dreams be filled with adventure and magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "determined": "mental",
+    "hardworking": "mental",
+    "helpful": "moral",
+    "passionate": "emotional",
+    "successful": "other",
+    "happy": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful and majestic mountains of Tajikistan, there was a kind and gentle father who lived with his dear daughter in a cozy home. The father was a skilled craftsman, known far and wide for his intricate carpets, each one telling a unique story of Tajik culture and history.\n\nOne day, the daughter asked her father, \"Abba, where do the beautiful colors in your carpets come from?\" The father smiled and replied, \"My dear, the colors come from the rainbow that kisses the mountains after a storm.\"\n\nThe little girl's eyes sparkled with curiosity. \"But Abba, I have never seen a rainbow touch the mountains. Can you take me to see one?\"\n\nTouched by his daughter's curiosity, the father decided to take her on a journey to find the elusive mountain rainbow. They packed a small bag with food, water, and warm clothing, and set off on their adventure.\n\nAs they climbed higher and higher into the mountains, they marveled at the beauty of the landscape – the snow-capped peaks, the crystal-clear streams, and the vibrant wildflowers that painted the hillsides with bursts of color.\n\nFinally, after a long and tiring climb, they reached a breathtaking plateau, where the sky seemed endless and the air was thin and pure. And there, just as the father had promised, was the most magnificent rainbow either of them had ever seen.\n\nIt was so close that they could almost touch it, and its vibrant colors seemed to dance and shimmer in the sunlight. The little girl was awestruck, her heart filled with wonder and joy.\n\nTogether, father and daughter sat and watched the rainbow, basking in its beauty and taking in the majesty of the mountains. And as they sat there, the father told his daughter stories of the Tajik people, their history, their traditions, and their dreams for the future.\n\nAs the sun began to set, casting a warm glow over the landscape, the father and daughter made their way back down the mountain, their hearts full and their spirits lifted.\n\nWhen they finally reached the safety of their home, the little girl snuggled up close to her father, her eyes heavy with sleep. \"Abba,\" she whispered, \"that was the most beautiful thing I have ever seen. Thank you for taking me.\"\n\n\"My dear,\" the father replied, his voice filled with love, \"the beauty of the world is meant to be shared, and I am so grateful to have shared it with you.\"\n\nAnd with that, the little girl drifted off to sleep, her dreams filled with the magic of the mountain rainbow and the love of her dear father.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "skilled craftsman": "other",
+    "known far and wide": "other",
+    "filled with love": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

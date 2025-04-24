@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in China, there was a kind and gentle girl named Mei. Mei lived with her mother and father in a cozy little house near the edge of the village. She loved to help her mother in the garden and listen to her father's stories about the old days.\n\nOne day, Mei's mother told her a story about a magical tree that grew on top of a faraway mountain. The tree was said to have leaves made of the finest silk, and flowers that shone like the stars in the sky.\n\nMei was fascinated by the story and decided that she must see the magical tree for herself. She packed a small bag with some food and water, and set off on her journey.\n\nThe journey was long and difficult, but Mei was determined. She climbed steep hills and crossed rushing rivers, until at last she reached the top of the mountain.\n\nAnd there it was, the magical tree, just as her mother had described. Mei carefully plucked a leaf from the tree and held it up to the light. It was indeed made of the finest silk! She then picked a flower that shone like a star and put it in her hair.\n\nAs Mei made her way back down the mountain, she thought about how lucky she was to have seen the magical tree. She realized that the journey had been just as special as the tree itself. She had met many friendly animals along the way, and had learned to be brave and resourceful.\n\nWhen Mei returned home, she shared her adventure with her parents. They were so proud of their brave and curious daughter. From that day on, Mei always remembered that the journey is just as important as the destination.\n\nAnd with that, my dear, it's time for you to close your eyes and begin your own journey to dreamland. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "brave": "moral",
+    "resourceful": "mental",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

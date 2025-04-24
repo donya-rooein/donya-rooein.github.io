@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village in Africa, there lived a kind and curious little girl named Ada. Ada lived with her loving mother and father in a cozy hut near the edge of the village.\n\nAda loved to explore the village and play with her friends. She was always eager to learn new things and would often ask her mother and father questions about the world around her.\n\nOne day, Ada asked her mother, \"Mama, where does the sun go at night?\"\n\nHer mother smiled and replied, \"My dear Ada, the sun does not truly go away. It simply travels to the other side of the world to rest and prepare for a new day.\"\n\nAda was fascinated by this answer and asked, \"But how does it get there so quickly?\"\n\nHer mother thought for a moment, then said, \"Ada, the sun is powered by the love and light of all the good deeds done by people throughout the day. When the sun sets, it gathers all of this love and light and carries it with it to the other side of the world. That is why the sun always rises again, bringing a new day full of hope and possibility.\"\n\nAda was delighted by this story and couldn't wait to share it with her friends. From that day on, she made sure to do at least one good deed every day, whether it was helping her mother with chores, sharing her toys with her friends, or simply offering a kind word to someone who seemed sad.\n\nAnd every night, as she lay in bed, Ada would think of all the good deeds she had done and imagine the sun traveling across the world, fueled by love and light. She knew that as long as she continued to do good, the sun would always rise again, bringing a new day full of hope and possibility.\n\nAnd with that thought, Ada would drift off to sleep, dreaming of all the adventures that awaited her in the morning.\n\nThe end.\n\nGoodnight my love, sleep tight and may your dreams be filled with love, light and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "delighted": "emotional",
+    "helpful": "moral",
+    "sharing": "moral",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "84.00",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

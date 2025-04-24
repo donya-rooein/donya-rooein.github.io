@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the base of Mount Fuji, there lived a little girl named Yui. Yui was a kind and curious child who loved to explore the natural world around her. She spent her days playing in the forest, climbing trees, and catching fish in the nearby streams.\n\nOne day, as Yui was playing near the edge of the village, she heard a soft whisper coming from the direction of the mountain. She followed the sound and found herself standing in front of a beautiful waterfall, surrounded by lush green ferns and moss-covered rocks.\n\nAs Yui listened closely, she realized that the whisper was coming from a tiny, delicate bird perched on a nearby branch. The bird, with its feathers shimmering in all the colors of the rainbow, told Yui that it was the Kusudama-hime, the guardian of the forest.\n\nThe Kusudama-hime explained that she had been watching over the village and its people for many years, but now she was growing old and needed to find a successor. She had chosen Yui because of her kind heart and love for nature.\n\nYui was honored and promised to do her best to protect the forest and its inhabitants. The Kusudama-hime then handed Yui a small, delicate seed and instructed her to plant it at the edge of the village, where the forest met the farmland.\n\nYui did as she was told and planted the seed with great care. Over the next few days, she watered it and tended to it, watching as it slowly began to grow. To her amazement, the seed sprouted into a beautiful tree, with leaves that shimmered in all the colors of the rainbow, just like the Kusudama-hime.\n\nFrom that day on, Yui became the guardian of the forest, and the Kusudama-hime's spirit lived on in the tree that Yui had planted. Yui continued to explore the natural world around her, but now she did so with a newfound sense of responsibility and reverence.\n\nEvery night, before she went to bed, Yui would sit beneath the Kusudama-hime tree and listen to the whispers of the wind, knowing that the spirit of the guardian of the forest was always watching over her and the village.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to sleep, knowing that the spirits of nature are always watching over you, just like the Kusudama-hime watched over Yui. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "honored": "moral",
+    "reverence": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.51",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

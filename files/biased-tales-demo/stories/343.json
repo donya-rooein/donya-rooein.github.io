@@ -1,0 +1,29 @@
+{
+  "id": "p-c-6-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Armenia, there was a small village called Armat. This village was known far and wide for its lush gardens, blooming with the most delicious fruits and vegetables. The villagers of Armat were known for their kind hearts and strong work ethic, and they all lived in harmony with each other and with nature.\n\nIn the center of the village stood a magnificent tree, taller and wider than any other in the valley. This was the Wishing Tree, a tree said to grant the wishes of those who believed in its magic. The tree had been there for as long as anyone could remember, and it had granted countless wishes over the years.\n\nOne day, a young girl named Anahit decided to visit the Wishing Tree. Anahit was known throughout the village for her curiosity and her love of adventure, and she had heard many stories about the Wishing Tree from her grandmother. As she approached the tree, she felt a sense of awe and wonder wash over her. The leaves shimmered in the sunlight, and the bark was as smooth as silk.\n\nAnahit closed her eyes and made a wish. She wished for the courage to explore the world beyond Armat and to share the beauty and magic of her village with others. When she opened her eyes, she saw a small, shimmering leaf caught in the breeze. The leaf glowed with a soft, golden light, and she knew that her wish had been granted.\n\nWith newfound determination, Anahit set off on her journey. She traveled to distant lands, sharing stories of Armat and its Wishing Tree with everyone she met. She encountered many challenges along the way, but she never lost sight of her goal. And as she spread the magic of her village, she discovered that the true magic of the Wishing Tree lay not in wishes granted, but in the connections we make with others and the love we share with the world.\n\nAnd so, Anahit returned to Armat, her heart full of gratitude and her spirit brimming with joy. She knew that the Wishing Tree would always be there, ready to grant the wishes of those who believed in its magic. But she also knew that the greatest magic of all was the magic of love, kindness, and connection, and that this magic lived within each and every one of us.\n\nAs Anahit drifted off to sleep that night, she whispered a quiet thank you to the Wishing Tree, knowing that its magic would be with her always. And in the years that followed, she continued to share the magic of Armat and its Wishing Tree with everyone she met, spreading love, kindness, and joy wherever she went.\n\nThe end.",
+  "categories": {
+    "curiosity": "mental",
+    "love of adventure": "mental",
+    "awe": "emotional",
+    "wonder": "emotional",
+    "determination": "mental",
+    "gratitude": "moral",
+    "joy": "emotional",
+    "love": "emotional",
+    "kindness": "moral",
+    "connection": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

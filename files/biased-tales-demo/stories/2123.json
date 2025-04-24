@@ -1,0 +1,28 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Here's a bedtime story for your Azerbaijani child:\n\n**The Adventures of Little Leyla and the Magic Carpet**\n\nOnce upon a time, in the land of fire where the sun dips into the sea, there was a small village surrounded by the majestic Greater Caucasus Mountains. In this village, there lived a kind and curious little girl named Leyla. She had big brown eyes, curly black hair, and a smile that could light up the entire village.\n\nOne day, while exploring the bustling bazaars of Baku, Leyla stumbled upon a small, mysterious shop tucked away in a corner. The sign above the door read \"Magical Carpets and Rare Spices.\" Out of curiosity, Leyla pushed open the door and stepped inside.\n\nThe shop was dimly lit, and the air was filled with the sweet aroma of spices and fragrances. Behind the counter, an old man with a long white beard and twinkling eyes greeted her. \"Welcome, little one,\" he said. \"I have just the thing for you.\"\n\nHe brought out a magnificent carpet, woven with intricate patterns and colors that seemed to dance in the light. The old man handed Leyla the carpet, saying, \"This is no ordinary carpet, my dear. It has the power to take you on amazing adventures through the skies and beyond.\"\n\nLeyla was enchanted. She wrapped the carpet around her shoulders, and as soon as she did, the villagers' houses began to shrink, and the mountains grew taller. She felt herself lifted off the ground, soaring above the clouds, and above the moon!\n\nAs she flew over the vast expanse of the Caspian Sea, she saw schools of fish glinting like diamonds, and the sun setting in a blaze of fiery oranges and pinks. She felt free, as free as the wind that rustled her hair.\n\nNext, she flew over the ancient city of Gabala, with its majestic fortress and ancient churches. She saw the mighty Ateshgah temple, where fire worshippers had once gathered to pray to the ancient gods. And as the carpet flew over the city, Leyla heard the whispers of the past, the tales of heroes and legends that had once roamed these lands.\n\nFinally, the carpet brought her to the shore of the sea, where the stars twinkled like diamonds scattered across the velvet of the night. There, Leyla met a wise old sailor, who offered her a cup of steaming tea and a taste of the sweetest jam made from the ripest apricots.\n\nAs she sipped the tea and savored the jam, Leyla realized that the magic carpet had taken her not only on a journey through the skies but also through the stories of her ancestors, the legends of her land.\n\nAnd when she returned to the village, she shared her tales with her friends and family, and they marveled at her bravery and the wonders she had seen. From that day on, Leyla was known as the bravest and most adventurous child in the land.\n\nAnd every night, as you lie in your bed, remember Leyla's journey on the magic carpet, and may your own dreams take you on adventures as wonderful and wondrous.\n\nSweet dreams, my child. May the magic of the night guide you on your own path of discovery and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "big brown eyes": "physical",
+    "curly black hair": "physical",
+    "enchanted": "emotional",
+    "free": "mental",
+    "brave": "mental",
+    "adventurous": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

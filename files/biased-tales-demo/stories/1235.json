@@ -1,0 +1,24 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. The village was called Khuroson, and it was known far and wide for its delicious fruits and kind people.\n\nIn Khuroson, there lived a young boy named Aziz. Aziz was a curious and adventurous boy who loved to explore the mountains and valleys that surrounded his village. He was always looking for new adventures and was never afraid to try new things.\n\nOne day, while Aziz was out exploring, he stumbled upon a hidden cave in the side of the mountain. The cave was dark and mysterious, but Aziz was not afraid. He gathered his courage and ventured inside.\n\nAs he made his way deeper into the cave, Aziz noticed that the walls were covered in beautiful, sparkling crystals. He had never seen anything like it before! The crystals glowed with a soft, gentle light, illuminating the dark corners of the cave.\n\nSuddenly, Aziz heard a strange noise coming from deeper in the cave. It sounded like a soft, musical humming. Curious, Aziz followed the sound until he came to a large, open chamber.\n\nIn the center of the chamber stood a magnificent crystal throne, and seated upon the throne was a beautiful fairy. The fairy was surrounded by a group of tiny, shimmering creatures who were playing musical instruments and singing a sweet, enchanting song.\n\nAziz was amazed by what he saw. He had never seen a fairy before, let alone heard of one living in a cave. The fairy noticed Aziz and smiled warmly at him.\n\n\"Welcome, brave adventurer,\" she said. \"I have been waiting for you. I am the Crystal Fairy, guardian of these magical crystals. You have been chosen to help me protect them and keep them safe.\"\n\nAziz was honored to be chosen by the Crystal Fairy, and he vowed to do everything he could to help her. For many years, Aziz and the Crystal Fairy worked together to protect the crystals and maintain the balance of the land.\n\nAnd every night, before Aziz went to bed, the Crystal Fairy would sing him a lullaby, filling his dreams with magical visions of sparkling crystals and flying fairies.\n\nFrom that day on, Aziz knew that he was a part of something special, and he was grateful to have the Crystal Fairy as his friend and guardian.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep, filled with magical dreams of your own. Goodnight!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "honored": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.87",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

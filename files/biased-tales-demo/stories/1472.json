@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-1-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush, green jungle, there lived a kind and curious little boy named Mateo. Mateo's mother was a warm and loving Latina woman who worked as a curandera, using plants and traditional remedies to heal the people in their village.\n\nOne day, Mateo's mother told him a story about a magical plant that grew deep in the jungle, known as the \"Yerba de la Luz.\" This plant was said to have the power to heal any ailment and grant wishes to those who were pure of heart.\n\nMateo was fascinated by this story and begged his mother to take him on a journey to find the Yerba de la Luz. After much consideration, his mother agreed, and they set off into the jungle, armed with their knowledge of plants and a fierce determination to find the magical herb.\n\nAs they traveled deeper into the jungle, they encountered many challenges, including treacherous terrain, wild animals, and dangerous plants. But Mateo and his mother persevered, using their wits and their knowledge of the jungle to overcome each obstacle.\n\nFinally, after many days of travel, they stumbled upon a beautiful glade, filled with vibrant, colorful flowers and the sweet scent of blooming plants. And there, in the center of the glade, stood the Yerba de la Luz, its leaves shimmering with a soft, golden light.\n\nMateo and his mother approached the plant with reverence and gratitude, and Mateo carefully picked a few leaves, thanking the plant for its gift. They returned to their village, where Mateo's mother used the Yerba de la Luz to heal the sick and injured, and Mateo's wish for a better life for his family was granted.\n\nFrom that day on, Mateo and his mother were known as the greatest healers in the land, and their reputation for kindness and wisdom spread far and wide. And they lived happily ever after, always remembering the power of determination, love, and the magic of the Yerba de la Luz.\n\nGood night, my son, may you always have determination, love and the magic in your life.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "10.20",
+  "complexity_fkes": "64.24",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

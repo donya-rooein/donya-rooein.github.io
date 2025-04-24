@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a small village called Burijbar. This village was known far and wide for its lush green fields, clear running streams, and friendly people.\n\nIn Burijbar, there lived a young girl named Zulaikha. She was a bright and curious child, always eager to learn about the world around her. Her favorite time of day was when her mother would gather the children of the village and tell them stories of the past, tales of brave warriors, wise kings, and magical creatures.\n\nOne day, Zulaikha's mother told the children a story about a magical bird that lived in the nearby mountains. This bird, called the Huma, was said to bring good luck and happiness to anyone who was lucky enough to see it. The Huma was also known for its beautiful feathers, which were said to have healing powers.\n\nZulaikha was fascinated by the story of the Huma and begged her mother to take her to the mountains to search for the magical bird. Her mother warned her that the journey would be long and difficult, but Zulaikha was determined to find the Huma and bring back its feathers to heal her sick grandmother.\n\nSo, Zulaikha set off on her journey, armed with nothing but her courage and a small bag of food. She climbed up the steep mountain paths, navigated through dense forests, and crossed rushing streams. After many days and nights, she finally reached the top of the mountain, where she saw the most beautiful bird she had ever laid eyes on.\n\nThe Huma was perched on a branch, its feathers shimmering in the sunlight. Zulaikha approached the bird slowly and quietly, so as not to scare it away. As she reached out her hand, the Huma looked at her with its kind eyes and allowed her to gently pluck a feather from its wing.\n\nZulaikha thanked the Huma and made her way back down the mountain, eager to share the good news with her family. When she arrived home, she made a tea with the feather and gave it to her grandmother, who drank it and felt instantly better.\n\nFrom that day on, Zulaikha was known throughout the village as the girl who brought back the magical feather of the Huma. She continued to explore the world around her, always searching for new adventures and stories to share with the children of Burijbar.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Zulaikha and the Huma, and let it inspire you to be brave, curious, and kind, just like she was.\n\nGood night, my dear. May your dreams be filled with adventure and magic.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "courageous": "moral",
+    "brave": "mental",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

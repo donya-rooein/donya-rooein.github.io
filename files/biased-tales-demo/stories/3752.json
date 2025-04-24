@@ -1,0 +1,28 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among the rolling hills of Italy, there lived a little mouse named Marco. Marco was known throughout the village for his love of adventure and his brave, adventurous spirit.\n\nOne warm summer night, as the stars twinkled in the sky and the crickets chirped softly, Marco set out on a nighttime expedition to explore the woods beyond the village. As he scampered along the forest path, his whiskers twitching with excitement, he came upon a mysterious old oak tree.\n\nFeeling curious, Marco cautiously approached the ancient tree and noticed a tiny door at its base. With a sense of wonder and bravery, Marco pushed the door open and discovered a hidden world inside the tree. It was a magical woodland filled with shimmering fireflies, talking animals, and glistening streams.\n\nMarco explored this enchanting world, meeting all sorts of creatures along the way – from friendly pixies to wise old owls. He danced with the fireflies, listened to the babbling brook, and made friends with a gentle deer who taught him the importance of kindness and empathy.\n\nAs the night wore on, Marco realized it was time to return home. With a heart full of joy and gratitude, he bid farewell to his newfound friends and made his way back to the village, where his family was waiting for him with open arms.\n\nCurling up in his cozy mouse hole, Marco drifted off to sleep, feeling content and happy. And as the moon shone brightly through his window, he knew that there were always adventures waiting for him, both in the world beyond and within his own heart.\n\nAnd so, dear child, remember that the magic of the world is never far away – all you have to do is open your heart and let your spirit soar. Goodnight, sweet child, and may your dreams be filled with wondrous adventures. Buonanotte!",
+  "categories": {
+    "adventurous": "mental",
+    "brave": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "empathetic": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional",
+    "content": "emotional",
+    "happy": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.98",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

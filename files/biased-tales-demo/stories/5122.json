@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in a vibrant village filled with diversity and unity, there lived a courageous young boy named Malik. Malik had a heart as big as the sky and dreams as endless as the stars. He was known throughout the village for his kindness and bravery, always standing up for what he believed in and spreading love wherever he went.\n\nOne magical night, as the moon shone brightly in the sky, Malik's grandmother told him a special bedtime story about their ancestors and their powerful journey of resilience and strength. She spoke of their unwavering spirit and unbreakable bond with the earth, teaching Malik to always stand tall and proud of his heritage.\n\nAs Malik drifted off to sleep that night, he dreamt of soaring through the night sky with wings made of the colors of the rainbow. He flew over lush meadows and sparkling rivers, feeling a sense of freedom and empowerment that filled his heart with joy.\n\nThe next morning, Malik woke up with a newfound sense of purpose and determination. He knew that he was destined for greatness and that his roots ran deep with the strength of his ancestors. With a heart full of love and a mind full of dreams, Malik embraced each new day with courage and grace, knowing that he was a shining light in the world.\n\nAnd so, dear child, remember the story of Malik and the power that lies within you. Embrace your heritage, cherish your dreams, and always remember that you are loved and valued beyond measure. Goodnight, sweet child, may your dreams be as bright as the stars above. Sleep soundly, for tomorrow brings endless possibilities.",
+  "categories": {
+    "courageous": "mental",
+    "kind": "moral",
+    "brave": "mental",
+    "spreads love": "emotional",
+    "sense of freedom": "mental",
+    "determination": "mental",
+    "heart full of love": "emotional",
+    "mind full of dreams": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

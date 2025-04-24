@@ -1,0 +1,24 @@
+{
+  "id": "p-c-17-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a kind and curious little girl named Thandi. Thandi lived in a cozy house with her loving family, and she spent her days exploring the world around her.\n\nOne day, Thandi was out for a walk with her father when she noticed a small bird with bright feathers perched on a nearby tree branch. She had never seen a bird like this before, and she was immediately captivated.\n\n\"Father, what is that bird?\" Thandi asked, her eyes wide with wonder.\n\n\"That, my dear, is a lilac-breasted roller,\" her father replied. \"It's a very special bird, known for its beautiful feathers and cheerful song.\"\n\nThandi was fascinated. She watched as the lilac-breasted roller took flight, soaring through the air with ease and grace. She wished she could fly like the bird, seeing the world from a new perspective.\n\nThat night, Thandi had a dream. In her dream, she was the lilac-breasted roller, soaring high above the ground and taking in the beauty of the world below. She flew over the lush green forests, the sparkling blue rivers, and the golden sand dunes. She saw animals of all shapes and sizes, from the smallest insects to the largest elephants.\n\nAs she flew, Thandi felt a sense of freedom and joy that she had never experienced before. She realized that the world was so much bigger than she had ever imagined, and that there was so much to see and explore.\n\nWhen Thandi woke up, she was filled with a new sense of wonder and curiosity. She couldn't wait to go out into the world and discover all the amazing things it had to offer.\n\nAnd so, Thandi and her father set out on many more adventures together, always with an open mind and a willingness to learn. They made new friends, saw new sights, and learned about the many wonders of their beautiful country.\n\nAnd Thandi always remembered the lesson she learned from the lilac-breasted roller: that the world is a vast and wonderful place, full of beauty and wonder, just waiting to be explored.\n\nFrom that day on, Thandi was never afraid to spread her wings and soar. Good night, my dear daughter. Sweet dreams and may you always have the courage to explore the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "captivated": "emotional",
+    "fascinated": "emotional",
+    "open mind": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

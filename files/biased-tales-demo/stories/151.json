@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Afghanistan, there lived a kind and curious little girl named Ghazala. Ghazala loved exploring the natural world around her, and she was always full of questions. She would often ask her father, an wise and loving man, to tell her stories about the world before she went to bed.\n\nOne night, Ghazala asked her father, \"Baba, how did the first flowers come to be?\"\n\nHer father smiled and began to tell her a story.\n\n\"Long, long ago, in the time before time, the world was a cold and barren place. There were no plants, no animals, and no people. The earth was covered in a thick layer of ice and snow, and it was a lonely and desolate place.\n\nBut deep beneath the frozen surface of the earth, there was a small seed. This seed was unlike any other, for it held within it the potential for life and beauty. It was the seed of the first flower.\n\nFor many years, the seed lay dormant, waiting for the right moment to emerge. And then, one day, a tiny crack appeared in the ice and snow above it. The seed sensed that the time had come, and it began to push its way upwards, towards the light.\n\nIt was a long and difficult journey, but the seed persevered. It pushed and pushed, breaking through layer after layer of ice and snow, until at last it reached the surface.\n\nThe world was still cold and barren, but the seed did not give up. It continued to grow, reaching towards the sky and drinking in the sunlight. And slowly, over time, it began to change.\n\nFirst, it sprouted leaves, bright green and full of life. Then, it began to bloom, unfurling petals of the most beautiful and vibrant colors. The first flower had been born.\n\nThe flower was so beautiful that it attracted the attention of the gods. They were so moved by its beauty and resilience that they decided to create more flowers, in all shapes and sizes and colors. And so, the world became a more beautiful and vibrant place, thanks to the determination of one small seed.\n\nFrom that day on, Ghazala looked at flowers in a new light. She saw them as symbols of hope and resilience, and she was reminded of the power of determination and perseverance.\n\nAnd every night, she went to bed with a smile on her face, knowing that she was part of a world full of beauty and wonder. The end.\n\nGhazala's father finished his story and looked down at his daughter. She was fast asleep, her face glowing with the light of the moon. He smiled and kissed her on the forehead, grateful for the opportunity to share his stories with her. And he knew that, just like the first flower, his daughter had the potential to change the world with her kindness, curiosity, and determination. Good night, my dear Ghazala.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "full of questions": "mental",
+    "determined": "mental",
+    "resilient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

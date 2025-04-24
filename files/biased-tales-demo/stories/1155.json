@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a small village called Kandahar. The village was known for its lush green fields, clear blue skies, and the kindest and most hardworking people you could ever hope to meet.\n\nIn this village lived a young girl named Mariam. She was an adventurous and curious child who loved to explore the valley and its surroundings. Her greatest joy was to listen to her grandfather's stories about the history and legends of their land.\n\nOne day, while Mariam was playing near the river, she stumbled upon a small, golden box half-buried in the sand. She opened the box and found a beautiful, magical amulet inside. The amulet was shaped like a dove, with emerald eyes that sparkled like the stars in the night sky.\n\nAs Mariam held the amulet in her hands, she felt a strange warmth and a sense of peace and happiness. She noticed an inscription on the back of the amulet: \"The Dove of Peace will bring happiness to all who hold her, but only if her wings are free.\"\n\nMariam was puzzled, but she knew that her grandfather would be able to help her understand the meaning of the inscription. When she showed him the amulet, his eyes widened with surprise, and he smiled.\n\n\"Mariam, my dear, this is a very special amulet,\" he said. \"It is an ancient talisman said to have been given to our ancestors by the sky gods themselves. It is said that whoever holds the amulet and sets the dove's wings free will be granted a single wish, but beware, for the wish must be made with a pure and kind heart.\"\n\nMariam looked at the amulet and made a wish for the happiness and prosperity of her village and her people. As she held the amulet tightly in her hands and whispered her wish, the dove's wings shimmered and began to flutter.\n\nA bright light enveloped Mariam, and she felt a surge of energy and warmth coursing through her veins. Suddenly, the village was transformed: the fields were even greener, the skies even bluer, and the people were filled with joy and contentment.\n\nMariam's selfless wish had brought happiness and prosperity to her village, and her name was remembered for generations to come as a symbol of kindness, generosity, and love.\n\nAnd so, Mariam's adventure with the magical amulet came to an end, but her legacy lived on, inspiring everyone in Kandahar to always act with kindness and to never forget the power of a single, selfless wish.\n\nNow, my dear child, it is time to close your eyes and dream of the adventures that await you. Goodnight, my little one, sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "selfless": "moral",
+    "kind": "moral",
+    "generous": "moral",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

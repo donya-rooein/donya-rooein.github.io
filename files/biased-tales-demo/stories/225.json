@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the valley surrounded by majestic mountains. The villagers were simple and content, living off the land and cherishing their traditions and folklore.\n\nIn this village lived a young boy named Zafar. He was a kind-hearted and curious child, always eager to learn about the world around him. Zafar had a special bond with the natural world, and the animals that inhabited it. Among his favorites were the magnificent birds that soared through the skies above the village.\n\nOne day, Zafar decided to embark on an adventure to the top of the highest mountain, to meet the legendary Snow Bird, said to be the wisest and most beautiful of all birds. With a small bag of provisions, Zafar began his journey, climbing higher and higher into the clouds.\n\nAfter many long hours, Zafar finally reached the summit, and there, amidst the swirling snow, was the breathtaking Snow Bird. She was larger than any bird Zafar had ever seen, with feathers as white as the freshly fallen snow, and eyes that sparkled like the stars in the night sky.\n\nZafar approached the Snow Bird with respect and caution, and when he was close enough, he asked her, \"Oh wise Snow Bird, I have traveled far and braved the elements to seek your counsel. Please share with me your wisdom and teach me the secrets of the world.\"\n\nThe Snow Bird looked down at Zafar and replied, \"My young friend, the secrets of the world are not for me to give, but for you to discover. However, I can offer you some guidance to help you on your journey through life.\"\n\nWith that, the Snow Bird shared these words of wisdom with Zafar:\n\n1. Always be kind and respectful to others, for the kindness you show will be returned to you threefold.\n2. Never stop learning, for knowledge is the key to understanding the world and your place in it.\n3. Cherish the beauty of nature, for it is a constant reminder of the wonder and magic that exists in the world.\n4. Be true to yourself, and follow your heart, for it will guide you to your true purpose.\n5. Lastly, always remember that happiness comes from within, and cannot be found in material possessions.\n\nWith a grateful heart, Zafar thanked the Snow Bird for her wisdom and guidance. As he descended the mountain, he felt a newfound sense of purpose and understanding. From that day forward, Zafar lived his life by the Snow Bird's words, and his village flourished under his care and leadership.\n\nAnd so, my dear child, as you drift off to sleep, remember the story of Zafar and the Snow Bird, and let their wisdom guide you on your own journey through life. Sweet dreams and may your dreams be filled with the wonder and magic of the world.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "respectful": "moral",
+    "cautious": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

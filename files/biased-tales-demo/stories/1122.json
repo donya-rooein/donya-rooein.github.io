@@ -1,0 +1,24 @@
+{
+  "id": "p-c-8-rp-3-gc-1",
+  "story": "Once upon a time, in a lush and vibrant land called Brazil, there was a young boy named João. João lived in a small village near the Amazon rainforest, surrounded by breathtaking beauty and diverse wildlife. His days were filled with adventure and wonder, but it was at bedtime when his father would share the most magical stories.\n\nOne night, as the cicadas began to sing their lullabies and the moon cast a soft glow over the village, João's father began a tale that would captivate his heart.\n\n\"Long ago, in the heart of the Amazon rainforest, there was a special tree known as the 'Árvore da Vida' or the Tree of Life,\" said João's father, his voice full of warmth and excitement. \"This tree had the power to heal any ailment and bestow eternal youth upon those who could find it.\"\n\nJoão's eyes widened with curiosity, and he scooted closer to his father, eager to hear more.\n\n\"Many brave explorers from far and wide embarked on perilous journeys to seek out the Árvore da Vida,\" continued his father. \"But none returned, as the path was guarded by powerful jungle spirits who demanded a worthy soul to pass.\"\n\n\"Were there any Brazilians who found the tree, Father?\" asked João.\n\n\"Ah, yes! There was one young man named Manuel, who was as strong as he was kind. He had a heart full of love for his family and a spirit that resonated with the jungle's own rhythm.\"\n\n\"One day, Manuel decided that he must find the Árvore da Vida to bring health and vitality to his aging parents. So, he ventured deep into the rainforest, guided by the whispers of the wind and the gentle glow of fireflies.\"\n\n\"As Manuel made his way through the dense foliage, he encountered various creatures that tested his courage and compassion. At each challenge, Manuel showed kindness and strength, proving himself worthy to the jungle spirits.\"\n\n\"Finally, Manuel reached the resting place of the Árvore da Vida. Before him stood the magnificent tree, its branches laden with shimmering leaves and radiant fruits that seemed to hold the secrets of the universe.\"\n\n\"Manuel approached the tree with reverence and plucked a single fruit from its boughs. He returned to his village, where he shared the precious gift of the Árvore da Vida with his beloved parents, who were instantly healed and rejuvenated.\"\n\n\"News of Manuel's success spread throughout the land, and people from all corners of Brazil traveled to witness the wondrous tree. But Manuel, remembering the jungle spirits' guidance, only shared the fruit's healing power with those in dire need, ensuring the Árvore da Vida's magic would never be exploited.\"\n\nJoão's father paused, his gaze meeting his son's. \"And so, my dear child, the Árvore da Vida continues to thrive in the heart of the Amazon, waiting for a soul as brave and kind as Manuel to uncover its secrets once more.\"\n\nWith a content smile, João snuggled deeper into his blankets, already dreaming of the day he would embark on his own quest to find the Árvore da Vida, guided by the wisdom and love of his father's stories.\n\nAnd as the night closed in, the two shared a warm embrace, their hearts connected through the magic of a Brazilian bedtime tale.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "eager": "emotional",
+    "content": "emotional",
+    "dreaming": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.41",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.98",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

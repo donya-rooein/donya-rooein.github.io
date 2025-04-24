@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-1-gc-2",
+  "story": "¡Hola, hija mía! It's time for a bedtime story, just for you.\n\nOnce upon a time, in a small village nestled in the heart of a lush valley, there was a little girl named Sofía. Sofía lived in a tiny casita with her abuela, who told her stories of the magical world that lay beyond the village.\n\nAs the sun began to set, Sofía would sit eagerly by her abuela's side, listening to tales of brujas (witches) who rode on the wind, of luna (moons) that shone brightly in the night sky, and of the wise and kind spirits that dwelled in the ancient trees.\n\nOne evening, as the stars began to twinkle like diamonds in the sky, Abuela told Sofí about the magical plants that grew in the nearby forest. There were the hierbas de la tierra (plants of the earth) that glowed with a soft, ethereal light, and the flores de la luna (flowers of the moon) that released a sweet, dreamy fragrance that filled the air.\n\nAs Sofía drifted off to sleep, she felt the gentle rustle of leaves and the soft breeze carrying the whispers of the trees. She knew that Abuela's stories were coming to life, and she felt the magic of the forest all around her.\n\nAs she grew older, Sofía became more and more curious about the secrets of the forest. She spent hours exploring the trails, collecting leaves and petals, and listening to the whispers of the trees. And as she grew, so did her power to communicate with the plants and animals of the forest.\n\nOne night, as she sat under the shade of an ancient cypress tree, Sofía realized that she could hear the whispers of the forest more clearly than ever before. The trees were sharing their secrets with her, and she felt a deep connection to the land and its magic.\n\nSofía grew up to be a wise and powerful bruja herself, using her gifts to help those in need and to protect the forest and its creatures. And every night, as she lay in her casita, she would gaze up at the stars and remember the magical world that lay just beyond the edge of the village.\n\nAnd now, hija mía, it's time for you to go to sleep. But as you drift off, remember that the world is full of magic, and you have the power to tap into it. Listen to the whispers of the trees, and remember the stories of your Abuela, for they will guide you on your own journey, just as they have guided Sofía.\n\nBuenas noches, hija mía. May your dreams be sweet and your heart be filled with wonder.",
+  "categories": {
+    "sofía": "other",
+    "little girl": "other",
+    "curious": "mental",
+    "wise": "mental",
+    "powerful": "other",
+    "eager": "emotional",
+    "helps those in need": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

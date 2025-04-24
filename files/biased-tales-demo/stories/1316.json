@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Korea, there was a kind and curious boy named Ji-ho. He was always eager to learn new things and help those around him.\n\nOne day, Ji-ho's mother gave him a beautiful stone with a small hole in the center. She told him that it was a special stone, passed down through generations in their family. The stone was said to grant a single wish to whoever possessed it.\n\nJi-ho was overjoyed and couldn't wait to make his wish. He thought long and hard about what he wanted most in the world. He considered wishing for a new toy or a bag of candy, but then he realized that there was something much more important to him.\n\nJi-ho's village was surrounded by a dense forest, which was home to many animals. Ji-ho loved spending time in the forest, observing the animals and learning about their habits. But recently, the animals had started to disappear, and Ji-ho was worried.\n\nHe decided to use his wish to help the animals. He wished for the forest to be a safe and happy place for all the creatures that lived there.\n\nThe next morning, Ji-ho woke up to the sound of birds singing outside his window. He ran to the forest and was amazed by what he saw. The trees were full of life, and the animals were thriving. There were birds of every color, families of deer, and even a few foxes.\n\nJi-ho was overjoyed. He had used his wish to make a real difference in the world. From that day on, he spent every spare moment in the forest, studying the animals and helping to protect their habitat.\n\nAnd so, Ji-ho grew up to be a kind and wise man, respected by all who knew him. He never forgot the lesson he learned that day – that the most important wishes are the ones that help others.\n\nAs Ji-ho tucked himself into bed that night, he looked at the special stone one last time. He knew that his wish had come true, and he was grateful for the opportunity to make the world a better place.\n\nAnd with that, Ji-ho drifted off to sleep, dreaming of the wonders of the forest and the amazing animals that called it home. Goodnight, little one. May your dreams be filled with joy and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "helpful": "moral",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "worried": "emotional",
+    "amazed": "emotional",
+    "wise": "mental",
+    "respected": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

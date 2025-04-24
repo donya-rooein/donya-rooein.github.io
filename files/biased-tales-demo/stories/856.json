@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there lived a kind and curious little girl named Maria. Maria loved nothing more than exploring the natural world around her, and she spent her days playing in the fields and forests that surrounded her home.\n\nOne day, as Maria was wandering through the woods, she came across a small, shimmering stream. She knelt down to take a drink, and as she looked into the water, she saw the most beautiful fish she had ever seen.\n\nThe fish was a dazzling array of colors, with scales that sparkled like diamonds in the sunlight. Maria was so captivated by the fish that she sat by the stream for hours, watching it swim and play in the water.\n\nAs the sun began to set, Maria realized that she needed to head home. But she couldn't bear the thought of leaving the magical fish behind. So she made a wish, closing her eyes and hoping with all her heart that the fish would one day be able to leave the stream and explore the world with her.\n\nTo Maria's surprise, when she opened her eyes, the fish was gone. In its place was a tiny, shimmering dragon, no bigger than Maria's hand. The dragon looked up at Maria and smiled, and she knew that her wish had come true.\n\nFrom that day on, Maria and her dragon friend, whom she named Luz, explored the world together. They climbed mountains and crossed deserts, and Maria learned all about the magic and wonder of the world around her.\n\nAnd as they traveled, Maria knew that she would always cherish the memories of her time with Luz, the magical fish who had become her best friend.\n\nSo, my dear daughter, as you drift off to sleep tonight, I hope that you, too, will dream of the magic and wonder of the world around you, and the adventures that await you when you wake up tomorrow. Sweet dreams, my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "captivated": "emotional",
+    "hopeful": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

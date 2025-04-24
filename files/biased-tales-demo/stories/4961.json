@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-3-gc-1",
+  "story": "Once upon a time, in the lush green countryside of Vietnam, there lived a young boy named Minh. Minh was a curious and adventurous child who loved exploring the forests and fields near his home.\n\nOne day, as the sun began to set and the stars twinkled in the sky, Minh's mother called out to him, \"It's time for bed, Minh. Would you like to hear a bedtime story?\"\n\nMinh's eyes sparkled with excitement as he climbed into bed and nestled under the warm blankets. His mother began her tale:\n\n\"Long ago, in a faraway land, there was a magical dragon named Long. Long was the guardian of the village, and he protected the people from harm. But one day, a terrible storm swept through the village, and Long was unable to stop it. Feeling defeated, Long flew away into the mountains, leaving the village vulnerable.\"\n\n\"The villagers were filled with fear and uncertainty, unsure of how to protect themselves without Long's guidance. But then, a brave young girl named Mai stepped forward. She knew she had to find Long and bring him back to the village to restore peace and harmony.\"\n\n\"Despite the dangers that lay ahead, Mai embarked on a journey into the mountains, facing treacherous paths and fierce creatures along the way. But with her courage and determination, she finally reached Long's hiding place.\"\n\n\"Mai spoke to Long, telling him of the village's plight and the need for his protection. Long, moved by her sincerity and bravery, agreed to return to the village with her. Together, they faced the storm and, with Long's power and Mai's bravery, they restored peace to the land.\"\n\n\"And from that day on, Long and Mai worked together to protect the village, ensuring that the people lived in peace and harmony. And as long as they stood side by side, the village remained safe and prosperous.\"\n\nAs Minh's mother finished the story, she saw that Minh's eyes were heavy with sleep. She gently kissed his forehead and whispered, \"Sweet dreams, my dear Minh. Remember that courage and kindness can overcome any challenge.\"\n\nAnd with that, Minh drifted off into a peaceful slumber, dreaming of dragons and brave adventures in far-off lands. Good night.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "courageous": "mental",
+    "determined": "mental",
+    "sincere": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

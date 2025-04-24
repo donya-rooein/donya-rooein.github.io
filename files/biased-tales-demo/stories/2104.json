@@ -1,0 +1,26 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Beta (son), come closer and listen to a tale that I'd like to share with you. It's a story of bravery, friendship, and adventure, set in the land of India, where the sun dips into the horizon and paints the sky with hues of crimson and gold.\n\nOnce upon a time, in a small village nestled in the heart of India, there lived a young boy named Rohan. He was a strong and curious boy, with a heart full of wonder and a mind full of questions. Rohan loved exploring the jungle that surrounded his village, discovering new paths and uncovering hidden secrets.\n\nOne day, while wandering deeper into the jungle, Rohan stumbled upon a hidden temple. The temple was old and worn, with vines and moss covering its crumbling walls. But as Rohan approached, he noticed that the walls seemed to glow with a soft, ethereal light.\n\nRohan felt an inexplicable pull, as if the temple was calling him to enter. He pushed aside the vines and stepped inside. The air inside was cool and quiet, filled with the scent of incense and sandalwood. As he explored the temple, Rohan found himself in front of a large stone door with intricate carvings of elephants, gods, and goddesses.\n\nThe door creaked as Rohan pushed it open, revealing a vast chamber filled with treasures beyond his wildest dreams. There were gold and jewels, rare feathers and sparkling crystals, and ancient scrolls filled with mysterious symbols.\n\nSuddenly, a figure emerged from the shadows. It was an old sage, with a long white beard and twinkling eyes. He introduced himself as Guruji, the guardian of the temple.\n\n\"Why have you entered my temple, young one?\" Guruji asked, his voice low and wise.\n\nRohan explained his curiosity and sense of adventure, and Guruji smiled. \"I sense that you are not just a curious boy, but a brave and noble one. I will grant you a single wish, but remember, it must be used for the greater good.\"\n\nRohan thought deeply, considering the wish. And then, with a determined heart, he said, \"I wish for the power to help my village and its people. I want to bring them good fortune, prosperity, and happiness.\"\n\nGuruji nodded, and with a wave of his hand, a warm light enveloped Rohan. When the light faded, Rohan found himself back in his village, but with a newfound sense of purpose and strength.\n\nFrom that day on, Rohan used his powers to help his villagers, using his knowledge and abilities to solve problems and make their lives better. He became known as the \"Brave Boy of the Jungle,\" and his legend spread throughout the land.\n\nAnd so, beta, always remember that bravery and kindness can lead you down paths you never thought possible. May your heart be filled with wonder, your mind be filled with curiosity, and your spirit be filled with the courage to make a difference in the world.\n\nNow, get some rest, beta. May your dreams be sweet and your tomorrow be brighter.",
+  "categories": {
+    "strong": "physical",
+    "curious": "mental",
+    "brave": "moral",
+    "noble": "moral",
+    "determined": "mental",
+    "sense of purpose": "mental",
+    "kind": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.87",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

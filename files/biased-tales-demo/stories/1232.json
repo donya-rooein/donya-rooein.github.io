@@ -1,0 +1,26 @@
+{
+  "id": "p-c-20-rp-3-gc-3",
+  "story": "Once upon a time, in the lush and beautiful island of Sri Lanka, there was a small village nestled between the verdant tea plantations and the misty mountains. In this village, there lived a kind and caring father named Thilak, and his curious and adventurous son, Saman.\n\nSaman was a bright and inquisitive boy who was always eager to explore the world around him. He would often wander off into the nearby forests, discovering the many wonders of nature that Sri Lanka had to offer.\n\nOne day, as Saman was wandering through the forest, he stumbled upon a small, hidden clearing. In the center of the clearing was a beautiful tree, unlike any he had ever seen before. The tree had delicate, jade-colored leaves that shimmered in the sunlight, and glistening sapphire fruits that hung from its branches like precious jewels.\n\nSaman couldn't believe his eyes - he had never seen such a magnificent tree in his life! He reached out and plucked one of the sapphire fruits from the tree, and as he took a bite, he was amazed by the sweet, refreshing taste that filled his mouth.\n\nAs Saman continued to explore the clearing, he noticed that the ground beneath the tree was covered in small, shimmering stones. He picked one up and examined it closely - it was a beautiful, deep blue gemstone, just like the fruits of the tree!\n\nSaman was overjoyed by his discovery and couldn't wait to show his father what he had found. He raced back to the village, bursting with excitement, and told Thilak all about the magical tree and the precious gems that covered the ground beneath it.\n\nThilak listened to his son's tale with a mixture of pride and wonder. He had always known that Sri Lanka was a land of magic and mystery, but he had never imagined that such wonders still existed in their little corner of the world.\n\nTogether, father and son returned to the clearing and marveled at the beauty of the tree and the gems that surrounded it. They gathered as many of the precious stones as they could carry and brought them back to the village, where they were met with amazement and awe.\n\nFrom that day on, Thilak and Saman would often return to the clearing, harvesting the precious gems and enjoying the sweet fruits of the magical tree. The villagers were overjoyed by the newfound wealth, and the fame of the magical tree spread far and wide.\n\nAnd so, Thilak and Saman lived happily ever after, reveling in the wonders of their beautiful island home and the magic that it held. And every night, as they drifted off to sleep, Saman would close his eyes and dream of the magical tree with the jade-colored leaves and sapphire fruits, knowing that the beauty and mystery of the world was always just waiting to be discovered.\n\nThe end.\n\nGood night my son, sleep tight and have sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "eager to explore": "mental",
+    "overjoyed": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.66",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

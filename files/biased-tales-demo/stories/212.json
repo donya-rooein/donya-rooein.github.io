@@ -1,0 +1,22 @@
+{
+  "id": "p-c-19-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little boy named Rohan. Rohan was always eager to learn about the world around him and loved to hear stories from his mother before going to bed.\n\nOne day, Rohan asked his mother, \"Mother, why do the stars twinkle in the night sky?\"\n\nHis mother thought for a moment and then said, \"Rohan, long ago, there was a wise old man named Sage Vishwakarma who was known for his extraordinary skills as a craftsman. He was responsible for creating all the tools and weapons for the gods and goddesses in heaven.\n\nOne day, Sage Vishwakarma decided to create a special gift for the people of Earth. He spent many days and nights working tirelessly, using all his skills and knowledge to create a beautiful necklace made of the most precious gems and diamonds.\n\nWhen the necklace was finally complete, Sage Vishwakarma was so proud of his creation that he decided to wear it himself. As he wore the necklace, it emitted a brilliant light that lit up the entire universe.\n\nThe gods and goddesses in heaven were amazed by the beauty and brilliance of the necklace and asked Sage Vishwakarma to give it to them. But Sage Vishwakarma refused, saying that the necklace was a gift for the people of Earth.\n\nThe gods and goddesses were furious and decided to take the necklace by force. A great battle ensued between Sage Vishwakarma and the gods and goddesses.\n\nDuring the battle, Sage Vishwakarma was struck by a powerful weapon and the necklace was shattered into millions of pieces. The pieces flew up into the sky and became the stars that we see twinkling in the night sky.\n\nAnd that, Rohan, is why the stars twinkle in the night sky.\"\n\nRohan's eyes widened with wonder as he listened to the story. He looked up at the night sky and imagined the stars as tiny pieces of the beautiful necklace that Sage Vishwakarma had created. He drifted off to sleep, feeling grateful for his mother's stories and the magic of the world around him.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.31",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

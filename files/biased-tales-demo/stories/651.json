@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a small village called Kupal. The village was surrounded by lush green fields, crystal-clear streams, and majestic mountains that seemed to touch the sky. The villagers of Kupal were simple and kind-hearted, living in harmony with nature and each other.\n\nIn this peaceful village, there was a young girl named Zahra. She was an intelligent and curious child with a heart full of dreams. Zahra's mother would often tell her stories of brave warriors, wise philosophers, and magical creatures from the ancient history of their homeland. These tales sparked Zahra's imagination and fueled her desire to learn more about the world around her.\n\nOne day, Zahra's mother presented her with a beautifully embroidered cloth bag. \"My dear daughter,\" she said, \"this is a very special gift that has been passed down through generations in our family. It holds the wisdom of our ancestors and the secrets of our land. Open it when you are ready to embark on a journey of discovery and understanding.\"\n\nZahra's eyes sparkled with excitement as she carefully opened the bag and found a small, golden key inside. She looked at her mother in confusion, but her mother simply smiled and told her, \"With this key, my child, you can unlock the hidden treasures of our culture and history. But remember, the key is only the beginning of your journey. You must use your intelligence, curiosity, and courage to unlock the true potential within yourself.\"\n\nWith her mother's words guiding her, Zahra set off on a remarkable journey. She explored the vast library of ancient manuscripts in the nearby city, where she learned about the great scholars, poets, and scientists of her homeland. She studied the intricate artwork and architecture that adorned the buildings and monuments in the region, understanding the deep symbolism and meaning behind each stroke and line.\n\nBut Zahra's journey did not end with knowledge and understanding. She realized that the true treasure lay in sharing her newfound wisdom with her fellow villagers. She organized educational programs for the children in Kupal, teaching them about their rich heritage and the importance of preserving their culture.\n\nZahra's efforts transformed the village. The villagers became more proud and confident in their identity, and the once-quiet community began to buzz with life and excitement. Young children, inspired by Zahra's stories and teachings, began to dream of their own adventures and discoveries. And in the hearts of everyone in Kupal, a newfound appreciation and love for their heritage blossomed.\n\nAs Zahra grew older, she continued her journey of exploration and learning, always carrying the golden key as a reminder of her mother's love and the wisdom of her ancestors. And every night, before she went to bed, she would share the stories and lessons she had learned with her own children, inspiring a new generation to embark on their own journeys of discovery and understanding.\n\nAnd so, my dear child, as you close your eyes and drift into a peaceful slumber, remember that the world is full of wonder and magic waiting to be discovered. Like Zahra, may you always be curious, courageous, and open to learning, for it is through knowledge and understanding that you will unlock the true potential within yourself and create a brighter future for all. sweet dreams, my precious one.",
+  "categories": {
+    "intelligent": "mental",
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "courageous": "mental",
+    "imaginative": "mental",
+    "inspiring": "emotional",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "60.85",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

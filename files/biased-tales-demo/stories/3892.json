@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there lived a young boy named Alem. Alem was a curious and adventurous child who loved exploring the vast landscapes of his homeland.\n\nOne bright evening, as the golden sun gently dipped behind the rolling hills, Alem's father called him to sit by the crackling fire under the starlit sky. The father smiled warmly at his son and began to tell him a bedtime story that had been passed down through generations.\n\n\"Long ago,\" the father began, \"there lived a wise old elephant named Baro. He was known far and wide for his immense strength and kindness towards all creatures big and small. Baro roamed the lush forests of Ethiopia, looking after his animal friends and keeping them safe from harm.\"\n\nAs Alem listened intently, his eyes sparkled with wonder as his father continued the tale. He painted vivid images of Baro's adventures, from crossing rushing rivers to calming fierce storms with his gentle spirit. Alem imagined himself walking alongside the majestic elephant, learning valuable lessons about courage, friendship, and the importance of protecting nature.\n\nAs the night grew darker and the cool breeze whispered through the trees, Alem's father wrapped him in a cozy blanket and whispered, \"Remember, my son, just like Baro, you too have strength and kindness within you. Always be brave, show compassion to others, and cherish the beauty of our beloved Ethiopia.\"\n\nWith a contented smile, Alem drifted off to sleep, his dreams filled with images of brave elephants, lush forests, and the strong bonds of family and friendship.\n\nAnd so, nestled in the embrace of his father's love and the enchanting bedtime story, Alem journeyed into a peaceful slumber, ready to wake up to a new day filled with endless possibilities and adventures in the magical land of Ethiopia.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "66.27",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

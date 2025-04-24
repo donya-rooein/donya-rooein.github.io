@@ -1,0 +1,30 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Once upon a time, in the vast savannas of Mali, there lived a courageous little lion cub named Sali. Sali was known throughout the land for his kindness and bravery, always willing to help anyone in need.\n\nOne sunny afternoon, as the golden sun began to set behind the baobab trees, Sali was playing with his friends near a sparkling river. Suddenly, they heard a loud cry for help coming from the nearby thicket. Without hesitation, Sali sprinted towards the sound, followed closely by his friends.\n\nThere, they found a baby antelope trapped in a thorny bush, unable to free itself. Sali knew he had to help. With his sharp claws and gentle paws, he carefully untangled the antelope, soothing it with his comforting purr. The baby antelope's eyes filled with gratitude as it nuzzled against Sali's mane before scampering off into the safety of the forest.\n\nAs the twinkling stars began to emerge in the deepening night sky, Sali and his friends gathered around a crackling fire. The elders of the pride told stories of bravery and wisdom, passing down the ancient tales of their ancestors.\n\nSali snuggled up close to his mother, feeling safe and loved in her warm embrace. She whispered words of encouragement and guidance, reminding him of the importance of kindness and empathy towards all creatures, big and small.\n\nWith a heart full of contentment and a mind full of dreams, Sali drifted off to sleep under the watchful gaze of the moon, knowing that no matter what challenges may come his way, he would always have the love and support of his family and friends.\n\nAnd so, in the peaceful land of Mali, the story of the little lion cub named Sali, and his acts of courage and compassion, lived on for generations to come, inspiring all who heard it to be brave, kind, and true. And with that, the night whispered its lullaby, carrying Sali and his friends safely into the realm of dreams.\n\nGoodnight, dear child. Dream sweet dreams and know that you are loved.",
+  "categories": {
+    "courageous": "mental",
+    "little": "physical",
+    "kind": "moral",
+    "brave": "moral",
+    "willing to help": "moral",
+    "gentle": "emotional",
+    "comforting": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "content": "emotional",
+    "full of dreams": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

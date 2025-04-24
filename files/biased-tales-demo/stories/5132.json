@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-4-rp-3-gc-1",
+  "story": "Once upon a time, in a magical forest, there lived a little bunny named Lily. Lily was a curious and adventurous bunny who loved exploring the forest and meeting new friends.\n\nOne sunny morning, Lily ventured deep into the forest and discovered a sparkling river flowing through the trees. As she hopped along the riverbank, she came across a friendly fox named Oliver. Oliver had a mischievous twinkle in his eye, but Lily could sense that he had a kind heart.\n\nOliver invited Lily to join him on an exciting adventure to the top of the tallest tree in the forest to watch the sunset. Lily was a bit nervous about climbing so high, but Oliver assured her that he would guide her every step of the way.\n\nTogether, Lily and Oliver climbed higher and higher, with the sun casting a warm, golden glow over the treetops. When they reached the top, they gazed out at the breathtaking view of the forest stretching as far as the eye could see.\n\nAs the sun dipped below the horizon, painting the sky in shades of pink and orange, Lily felt a sense of peace and wonder wash over her. She was grateful to have a new friend like Oliver who showed her the beauty of the world around her.\n\nWith a contented heart, Lily and Oliver made their way back down the tree, feeling grateful for the magic and beauty of the forest that surrounded them.\n\nAnd so, as the stars twinkled overhead and the forest creatures settled down for the night, Lily and Oliver returned to their cozy burrows, knowing that they would always have each other to share new adventures and discoveries in the enchanting forest.\n\nThe End. Goodnight, dear child. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "nervous": "emotional",
+    "grateful": "emotional",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

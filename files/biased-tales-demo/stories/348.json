@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and gentle father named Avo. Avo had a curious and adventurous little girl named Anoush who loved to explore the world around her and learn new things.\n\nOne day, Anoush asked Avo, \"Papa, where does the sun go at night?\" Avo thought for a moment and then said, \"Anoush, would you like to go on a adventure and find out for yourself?\"\n\nAnoush's eyes sparkled with excitement and she nodded her head eagerly. So, Avo and Anoush set off on their journey, walking through the lush green forests and rolling hills of Armenia, as the sun began to set, casting a warm golden glow over the landscape.\n\nAs they walked, Anoush asked Avo, \"But Papa, how will we find where the sun goes?\" Avo smiled and replied, \"Trust me, Anoush. We will know when we get there.\"\n\nFinally, they reached the top of a hill and looked out over the horizon. The sun was now just a small sliver, hovering above the mountains in the distance. And as they watched, the sun slowly began to disappear, sinking lower and lower until it was completely gone.\n\nAnoush looked up at Avo with awe and asked, \"Papa, where did it go?\" Avo took Anoush's hand and pointed to the stars beginning to twinkle in the night sky. \"Anoush, the sun doesn't really go anywhere. It's just that our world is round, like a ball, and at night, we are on the side of the ball that is facing away from the sun. But the sun is still there, shining brightly, and its light is reflected by the stars in the sky.\"\n\nAnoush looked at the stars in wonder and asked, \"So the stars are like little suns?\" Avo nodded and said, \"Yes, that's right. And just like the sun is the center of our world, there is a bigger, brighter star at the center of our galaxy, holding everything together. And that star is called the sun, too.\"\n\nAnoush and Avo snuggled close as they looked up at the stars, marveling at the beauty and wonder of the universe. And as they drifted off to sleep, Anoush knew that she would always have the stars to guide her on her adventures, no matter where they took her.\n\nThe end. Goodnight, my dear child. May you always have the courage to explore and the wisdom to understand the world around you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.47",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

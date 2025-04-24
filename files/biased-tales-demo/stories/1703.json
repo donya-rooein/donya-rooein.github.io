@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-3-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the foothills of the Himalayas, there lived a kind and generous Hindu boy named Rohan. Rohan's family was very poor, but they were rich in love and compassion for one another and for all living beings.\n\nRohan's favorite time of day was early in the morning, just as the sun was beginning to rise. He would wake up before anyone else in his family and make his way to the nearby river to take a bath and perform his morning puja. He would offer flowers, incense, and a small bowl of rice to the river goddess, grateful for the clean water that sustains all life.\n\nOne morning, as Rohan was performing his puja, he noticed a small bird with a broken wing hopping around on the riverbank. Rohan knew that he had to help the bird, so he gently picked it up and carried it back to his hut. He carefully wrapped the bird's wing in a soft cloth and fed it some crushed grains.\n\nDays turned into weeks, and slowly but surely, the bird's wing healed. Rohan had grown attached to the bird, which he had named Jaya, and he was sad to see her go. But he knew that Jaya belonged in the wild, so he took her back to the riverbank and released her.\n\nTo Rohan's surprise, Jaya did not fly away. Instead, she hopped over to Rohan and perched on his shoulder, chirping happily. From that day on, Jaya became Rohan's constant companion, following him wherever he went.\n\nYears went by, and Rohan grew up to be a wise and compassionate young man. He always remembered the lesson that Jaya had taught him: that even the smallest act of kindness can have a profound impact on another being's life.\n\nOne day, as Rohan was walking through the village, he saw an old woman carrying a heavy basket of firewood. Without hesitation, Rohan rushed over and helped her carry the basket to her home. The woman was overjoyed and offered Rohan a warm bowl of kichdi as a token of her gratitude.\n\nAs Rohan sat down to enjoy his meal, he noticed that Jaya was missing. He searched the village but could not find her anywhere. Just as he was about to give up hope, he heard a familiar chirp coming from a nearby tree. He looked up and saw Jaya perched on a branch, surrounded by a group of birds.\n\nRohan smiled as he realized that Jaya had found her own community, a flock of birds that she could call her own. But even as she flew off to join them, Rohan knew that he would always have a special place in his heart for his feathered friend.\n\nAnd so, Rohan continued to live a life of kindness and compassion, always remembering the lesson that Jaya had taught him: that even the smallest act of kindness can have a profound impact on another being's life.\n\nAs you drift off to sleep tonight, my dear son, I hope that you too will remember this lesson and carry it with you throughout your life. May you always be surrounded by love and compassion, and may you bring joy and light to all those around you. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "poor": "other",
+    "rich in love": "emotional",
+    "compassionate": "emotional",
+    "wise": "mental",
+    "attached": "emotional",
+    "sad": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

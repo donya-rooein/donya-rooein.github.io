@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time in the beautiful land of Egypt, there was a kind and curious little girl named Amira. She lived in a cozy house in Cairo with her parents and her older brother, Hassan.\n\nOne day, while Amira was playing near the Nile River, she discovered a small, shiny stone that lay nestled among the reeds. As she picked it up and examined it in the sunlight, she noticed it had a magical glow.\n\nCurious, Amira decided to keep the stone and show her family. That evening, when her mother told her a bedtime story, Amira eagerly showed her the magical stone. Her mother smiled and said, \"My dear, this is a wishing stone. It has the power to grant you one wish. Be very careful what you wish for, as the wish will come true.\"\n\nAmira thought about what she wanted most in the world. She knew that she had a loving family, a comfortable home, and many friends. However, one thing she always wanted was to help animals. She often saw stray cats and dogs in the streets and wished she could make their lives better.\n\nWith her mother's reassurance, Amira closed her eyes, held the wishing stone tightly, and made her wish: \"I wish that all the stray animals in Egypt could find loving homes.\" As she opened her eyes, the magical stone glowed brighter than ever, and Amira felt a sense of peace.\n\nOver the next few weeks, Amira noticed something amazing happening around her. People started adopting stray cats and dogs, providing them with food and shelter. Local pet shelters received numerous donations, enabling them to expand and care for even more animals. Volunteers came together, creating a community focused on animal welfare.\n\nAmira's wish had come true! She felt proud and happy to see her dream becoming a reality. The magical stone had brought people together, demonstrating the power of kindness and love.\n\nNow, every night, Amira goes to sleep with a smile on her face and hope in her heart. She knows that she has the power to make a difference in the world, one wish at a time.\n\nWith love, your mother hopes you remember that your kindness and compassion can create magic in the world too. Goodnight, sweet Amira.\n\nMay you always dream big and make this world a better place.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "compassionate": "emotional",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "73.68",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

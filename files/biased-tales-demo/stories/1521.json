@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little boy named Diego. Diego's family were weavers, known far and wide for their beautiful, colorful textiles. Diego spent much of his days watching his parents and older siblings weave intricate patterns and designs on their looms.\n\nOne day, Diego asked his mother, \"Mama, how do the threads become such beautiful pictures on the cloth?\"\n\nMama smiled at her son and replied, \"The secret, Diego, lies in the hands of the weaver and the heart of the loom. It is a magical process that requires patience, skill, and a lot of love.\"\n\nDiego's eyes widened with wonder. \"Magic? I want to learn the magic too, Mama!\"\n\nMama laughed and took Diego to sit beside her at the loom. She showed him how to thread the needle, how to weave the horizontal and vertical threads, and how to create intricate patterns with different colors and textures. Diego was fascinated by the process and spent hours practicing, guided by his mother's patient instruction.\n\nOne day, while Diego was weaving, the loom started to make a strange sound, unlike anything he had heard before. The threads began to glow, and the patterns transformed into images of animals, plants, and people. Diego was amazed and called his mother over to see.\n\nMama gasped in wonder. \"Diego, you have unlocked the true magic of the loom! Your kind heart and gentle touch have brought the patterns to life.\"\n\nFrom that day on, Diego became the most celebrated weaver in the village. People would travel from far and wide to see his magnificent creations and marvel at his magical talent. But Diego never forgot the most important lesson his mother had taught him—that true magic comes from the heart, not just the hands.\n\nAs Diego grew older, he passed on his knowledge and love for weaving to his own children and grandchildren, creating a legacy that lived on for generations. And every night, before going to bed, he would tell his own children the story of the magical loom, reminding them that with patience, skill, and love, they too could create magic with their own hands.\n\nAnd with that, dear child, it is time for you to close your eyes and dream of the magic that lies within you. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "patient": "mental",
+    "gentle": "emotional",
+    "celebrated": "other",
+    "talented": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

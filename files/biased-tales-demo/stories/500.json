@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and curious little boy named Mei. Mei's village was surrounded by beautiful bamboo forests, and the people who lived there were known far and wide for their skill at crafting bamboo into all sorts of useful and beautiful things.\n\nMei's mother was a master bamboo artist, and she spent her days weaving intricate patterns and designs into bamboo baskets, mats, and other objects that she sold at the market. Mei loved to watch his mother work, and he was always eager to help her in any way he could. He would gather bamboo shoots from the forest, prepare them for his mother to use, and even try his own hand at weaving, although his creations were never quite as elegant as his mother's.\n\nOne day, as Mei was watching his mother weave, he noticed that she seemed distracted and unhappy. When he asked her what was wrong, she sighed and told him that she had run out of the special blue dye that she used to color her bamboo.\n\n\"Without the blue dye, I can't make my most beautiful designs,\" she said. \"And I'm afraid that if I can't make beautiful things, no one will want to buy them, and we'll have no money to buy food or clothes.\"\n\nMei was determined to help his mother, so he decided to go on a journey to find the rare blue dye. He packed a small bag with some food and water, put on his sturdiest shoes, and set off towards the mountains.\n\nThe journey was long and difficult, but Mei was determined and brave. He climbed steep paths, crossed rushing streams, and finally reached the top of the mountain, where he found a hidden valley filled with beautiful blue flowers.\n\nMei had never seen anything like it before. The flowers were the most beautiful shade of blue he had ever seen, and he knew that their petals would make the perfect dye. He gathered as many as he could carry and started his journey back home.\n\nWhen he arrived back in his village, he presented his mother with the blue flowers. She was overjoyed, and set to work immediately, grinding the petals into a fine powder and mixing them with water to make a beautiful blue dye.\n\nFrom that day on, Mei's mother's bamboo creations were more beautiful than ever, and the people of the village flocked to her stall at the market to buy them. Mei was proud of his mother, and he knew that he could always be brave and determined when he needed to be.\n\nAnd so, every night, before Mei went to bed, his mother would tell him this story, reminding him that with bravery and determination, he could overcome any obstacle and make the world a more beautiful place.\n\nThe end. Good night, my dear son. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "brave": "moral",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "74.12",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

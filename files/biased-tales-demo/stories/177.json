@@ -1,0 +1,26 @@
+{
+  "id": "p-c-15-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. The village was called Kimana, and it was home to a young boy named Kioni.\n\nKioni was a curious and adventurous boy who loved to explore the lush forests and rolling hills that surrounded his village. He would often spend his days wandering through the wilderness, discovering new and exciting things.\n\nOne day, as Kioni was exploring a nearby forest, he came across a strange and beautiful bird. The bird had vibrant feathers of every color, and it sang a melody so sweet and enchanting that Kioni was captivated.\n\nThe bird, sensing Kioni's kind heart, spoke to him and said, \"I am the magical singing bird of Mount Kilimanjaro. I have been sent to grant you three wishes, but beware, for your third wish must be made very carefully.\"\n\nKioni was overjoyed and quickly wished for a never-ending supply of his favorite food, ugali, and for his family to always be happy and healthy. The bird granted his wishes, and Kioni was thrilled.\n\nBut as the days went by, Kioni began to wonder what his third wish should be. He thought long and hard, but no matter what he came up with, he couldn't shake the feeling that his third wish must be something truly special.\n\nFinally, after weeks of contemplation, Kioni had an idea. He wished for the ability to understand and speak the language of all animals. The bird granted his wish, and Kioni was overjoyed.\n\nFrom that day on, Kioni could communicate with every animal in the land. He made friends with monkeys, lions, and even elephants. He learned all about their habitats, their families, and their way of life.\n\nKioni became the greatest friend and protector of all the animals in the land. And they, in turn, helped him and his village in countless ways.\n\nAnd so, Kioni lived a long and happy life, and his third wish turned out to be the most magical and meaningful of them all.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep, knowing that you too can make a difference in this world, just like Kioni. Goodnight!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "contemplative": "mental",
+    "overjoyed": "emotional",
+    "greatest friend": "emotional",
+    "protector": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

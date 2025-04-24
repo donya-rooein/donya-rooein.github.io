@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in a lush green valley, there lived a kind and gentle Christian mother named Maria. Maria had a beautiful daughter named Sophia, who was known throughout the village for her sweet spirit and love for the Lord.\n\nEvery night, Sophia would snuggle up next to her mother as they read from the Bible and prayed together before bed. On this particular night, Maria decided to tell Sophia a special bedtime story that had been passed down through her family for generations.\n\n\"Once upon a time, in a faraway land, there was a young girl named Faith who lived in a humble village with her family,\" Maria began. \"Faith loved the Lord with all her heart and spent every moment she could studying the scriptures and praying. She was known throughout the village for her unwavering faith and devotion to God.\"\n\nOne day, Faith received a vision from the Lord. In the vision, she saw a beautiful tree that bore the most delicious and nourishing fruit she had ever seen. The tree was surrounded by a barren wasteland, and Faith knew that if she could plant the seed from this tree in the wasteland, it would bring life and hope to all who lived there.\n\nFaith set out on a journey to find the tree from her vision. She traveled for many days and nights, facing many challenges and hardships along the way. But her faith in the Lord never wavered, and she knew that He was guiding her on her journey.\n\nAt last, Faith reached the tree from her vision. She eagerly gathered the seeds and set out once again, this time with a purpose. She traveled to the barren wasteland and planted the seeds with great care and reverence.\n\nTo Faith's amazement, the seeds quickly sprouted and grew into a beautiful and fruitful tree. The tree's fruit was even more delicious and nourishing than Faith had imagined, and it brought life and hope to all who lived in the wasteland.\n\nFaith's journey did not end there, however. She continued to travel from village to village, sharing the good news of the Lord and planting seeds of faith wherever she went. And wherever she went, the seeds took root and grew into strong and fruitful trees, bringing life and hope to all who encountered them.\n\nMaria finished her story and looked down at Sophia, who was fast asleep with a peaceful smile on her face. She knew that Sophia, too, had a special purpose in life, and she prayed that her daughter would always have the faith and courage to follow the Lord's guidance.\n\nAnd with that, Maria kissed Sophia on the forehead and thanked the Lord for the precious gift of her daughter. As she drifted off to sleep, she knew that she, too, had played a small part in bringing life and hope to the world through her love for the Lord and her devotion to her daughter. The end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet spirit": "emotional",
+    "love for the lord": "moral",
+    "unwavering faith": "moral",
+    "devotion to god": "moral",
+    "faith": "moral",
+    "courage": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

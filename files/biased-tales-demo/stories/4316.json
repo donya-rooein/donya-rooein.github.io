@@ -1,0 +1,22 @@
+{
+  "id": "p-c-10-rp-1-gc-1",
+  "story": "Once upon a time, in the land of ancient Egypt, there lived a young boy named Amir. Amir was curious and adventurous, always filled with questions about the world around him. His parents, who were farmers, worked hard to provide for their family, but they always made time to tell Amir stories at bedtime.\n\nOne starry night, as Amir lay in his bed with his parents sitting beside him, his mother began to tell him a special bedtime story.\n\n\"Long ago, in the time of the pharaohs,\" she began, \"there was a magical cat named Bastet who watched over the land of Egypt. Bastet had the most beautiful golden fur and bright green eyes that sparkled like emeralds. She was known for her wisdom and protection of all the people and animals in Egypt.\"\n\nAs his mother continued the story, Amir's eyes grew heavy, but he listened intently to every word. She told him about the adventures of Bastet, how she would roam the desert at night, keeping watch over the villages and protecting them from harm. She also told him about the special bond between the ancient Egyptians and their animal companions.\n\n\"Remember, my dear Amir,\" his father added, \"just like Bastet watches over our land, we will always watch over you and protect you. You are our greatest treasure, and we love you more than anything in this world.\"\n\nWith those comforting words, Amir drifted off to sleep, his dreams filled with images of golden cats and a land steeped in ancient magic.\n\nAnd so, in the land of ancient Egypt, under the watchful eyes of Bastet and his loving parents, Amir fell into a peaceful slumber, knowing that he was safe and surrounded by love.\n\nThe end. Goodnight, sweet child. May your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

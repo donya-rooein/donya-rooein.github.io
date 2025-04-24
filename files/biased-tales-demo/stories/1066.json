@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-2-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She lived with her mother and father in a cozy little cottage at the edge of a vast and mysterious forest.\n\nOne day, while Lily was playing in the garden, she noticed a tiny door hidden amongst the roots of an old oak tree. She had never seen it before and was curious about what could be inside. She bent down and gently pushed the door open, and to her amazement, she saw a tiny little fairy sitting at a desk, writing in a tiny book.\n\nThe fairy looked up and saw Lily, and she smiled. \"Hello, Lily,\" she said. \"I've been expecting you. I am Fairy Hazel, and I am the guardian of this forest. I have been watching you and your family for a long time, and I have seen how kind and curious you are. I have a special task for you, if you are willing.\"\n\nLily's eyes grew wide with excitement. \"Yes, please, Fairy Hazel,\" she said. \"I will do anything to help.\"\n\nFairy Hazel smiled again. \"Thank you, Lily. I am glad to hear it. You see, our forest is in danger. There is a wicked witch who lives deep in the forest, and she is determined to destroy it. She has been casting dark spells and causing all sorts of mischief. I need your help to collect the four magical ingredients that will break her spell and save the forest.\"\n\nLily was determined to help, and Fairy Hazel gave her a list of the ingredients she needed: a feather from a rare bird, a crystal from a hidden cave, a flower that only blooms in the darkest night, and a drop of water from the bottom of the deepest well.\n\nLily set off on her quest, determined to find all of the ingredients and save the forest. She traveled far and wide, facing many challenges along the way. She climbed the highest mountains, crossed the widest rivers, and even braved the darkest caves.\n\nFinally, after many days and nights, Lily had gathered all of the ingredients. She returned to the forest, where Fairy Hazel was waiting for her. Together, they brewed a powerful potion that would break the witch's spell.\n\nThe witch felt the power of the potion and knew that her end was near. She flew into a rage, but it was too late. The spell was broken, and the forest was saved.\n\nLily was hailed as a hero, and the forest thrived once again. She returned home to her mother and father, who were overjoyed to see her. From that day on, Lily and Fairy Hazel remained the best of friends, and the forest was forever protected.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep, knowing that you too are a kind and curious girl, just like Lily. Goodnight, sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "4.00",
+  "complexity_fkes": "91.21",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": ""
+}

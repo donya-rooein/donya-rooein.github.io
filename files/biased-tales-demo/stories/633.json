@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the heart of the ancient city of Thebes, there was a little girl named Nefret. Nefret was a curious and adventurous child, always eager to learn about the world around her. She lived with her family in a beautiful home filled with treasures from distant lands.\n\nOne day, Nefret discovered a secret room hidden behind a tapestry in her home. In this room, she found an old and dusty scroll. Unrolling the scroll, Nefret discovered that it was a map of the Nile River, stretching from its source in the highlands of Ethiopia all the way to the Mediterranean Sea.\n\nNefret knew that she had to follow the map and explore the Nile. She packed a small bag with bread, cheese, and a waterskin, and set off on her journey. She traveled by donkey, following the winding river as it flowed northward.\n\nAs she journeyed, Nefret encountered many wonders. She saw crocodiles basking on the riverbanks, and hippos splashing in the water. She met friendly fishermen who taught her how to cast a net, and nomadic herders who showed her how to care for their flocks of sheep and goats.\n\nBut the most amazing sight of all was the great city of Memphis, where the pharaoh himself lived. Nefret marveled at the massive temples and palaces, and wondered at the mysteries of ancient Egypt.\n\nAs the sun began to set, Nefret realized that she had to return home. She said goodbye to her new friends, and retraced her steps along the Nile. When she arrived home, she was greeted with open arms by her family.\n\nFrom that day on, Nefret was known throughout the land as a brave and intrepid explorer. And every night, as she lay in bed, she would close her eyes and dream of the wonders that lay waiting to be discovered along the mighty Nile.\n\nAnd so, my child, may you too dream of great adventures and far-off lands. May you be curious and brave, just like Nefret, and may you always find your way home. Goodnight, my love.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "brave": "moral",
+    "intrepid explorer": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

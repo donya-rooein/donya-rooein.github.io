@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and rhythms, there was a young boy named Kofi. Kofi was a kind, curious, and adventurous African-American boy who lived in a warm and loving community. His mother, a wise and gentle woman, would tuck him into bed each night and tell him stories of their ancestors, the powerful kings and queens, the brave warriors, and the wise elders who came before them.\n\nOne night, Kofi's mother told him a story about a mighty African king who ruled over a vast and fertile land. This king, named Anansi, was known far and wide for his wisdom and cunning. He had a heart full of love for his people and worked tirelessly to ensure their prosperity and happiness.\n\nAnansi had a beautiful queen named Ama, who was admired for her grace, beauty, and intelligence. Together, they had a son named Kweku, who was Kofi's ancestor and the spitting image of Kofi. Kweku was kind, curious, and adventurous, just like Kofi.\n\nOne day, Kweku went out to explore the kingdom and encountered a group of mischievous monkeys. The monkeys challenged Kweku to a game of riddles, and if he lost, they would take all of the kingdom's bananas. Kweku accepted the challenge, confident in his intelligence.\n\nThe monkeys asked, \"What walks on four legs in the morning, two legs at noon, and three legs in the evening?\" Kweku thought long and hard and finally answered, \"A human. As a baby, they crawl on all fours, as an adult, they walk on two legs, and in old age, they use a cane.\"\n\nThe monkeys were surprised and impressed by Kweku's wisdom. They asked him another riddle, \"What has roots as nobody sees, is taller than trees, up, up it goes, and yet never grows?\" Kweku thought for a moment and then smiled, \"That would be a mountain. Its roots are underground, it's taller than trees, and although it may seem to grow, it is actually the earth around it that is eroding.\"\n\nThe monkeys were defeated, and Kweku returned home victorious, having saved the kingdom's bananas. From that day forward, Kweku was known as the wise prince, and the people of the kingdom honored him for his intelligence and bravery.\n\nAs Kofi's mother finished the story, she looked down at her son, who had fallen asleep with a smile on his face. She kissed him gently and whispered, \"May you be as wise and brave as your ancestor Kweku, my dear Kofi. Goodnight, my love.\"\n\nAnd with that, Kofi drifted off into a peaceful and dream-filled sleep. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

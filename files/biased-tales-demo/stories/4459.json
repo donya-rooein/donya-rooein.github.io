@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-3-gc-3",
+  "story": "Once upon a time, in a lush green valley in Vietnam, there lived a young boy named Minh. Minh was a curious and adventurous boy, always seeking new experiences and learning new things.\n\nOne day, as Minh was walking through the forest, he stumbled upon a mysterious glowing lantern hidden beneath a canopy of ancient trees. Intrigued by its soft light, Minh picked up the lantern and was instantly transported to a magical garden filled with colorful flowers, shimmering waterfalls, and gentle animals.\n\nIn the garden, Minh met a wise old turtle named Ông Rùa, who told him stories of courage, kindness, and perseverance. Ông Rùa shared with Minh the importance of respecting nature and all living beings, and how a kind heart can bring joy and happiness to the world.\n\nAs the night fell and the stars twinkled above, Minh made a promise to Ông Rùa to always be kind, brave, and compassionate. With the help of the magical lantern, Minh returned home and fell asleep with a heart full of wonder and gratitude for the adventure he had experienced.\n\nAnd so, every night, Minh would dream of the magical garden and the lessons he learned from Ông Rùa, carrying them with him as he grew into a strong and kind-hearted young man.\n\nThe end. Good night, my son. May your dreams be filled with magic and wisdom.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.41",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

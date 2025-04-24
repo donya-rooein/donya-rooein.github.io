@@ -1,0 +1,28 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Egypt, there was a kind and curious young boy named Ahmed. Ahmed lived in a small village near the Nile River with his loving parents and little sister. He was known for his adventurous spirit and his compassion for all living creatures.\n\nOne day, while exploring the banks of the Nile, Ahmed stumbled upon a small, injured bird. Its wing was hurt, and it couldn't fly. Ahmed carefully picked up the bird and took it home to tend to its wounds. He named the bird Sahara, and together with his sister, they nursed her back to health.\n\nDays turned into weeks, and Sahara's wing healed beautifully. To show her gratitude, Sahara would often fly alongside Ahmed as he walked to school or played near the river. The villagers marveled at the sight of the little bird that followed Ahmed like a devoted friend.\n\nOne day, as they spent time together near the Nile, Sahara began to act strangely. She flew upstream and perched on a large rock, chirping insistently. Intrigued, Ahmed decided to follow her. To his surprise, he discovered a hidden entrance to an ancient underground temple!\n\nExcited by his discovery, Ahmed ventured inside. There, he found walls adorned with beautiful hieroglyphics depicting the history of the temple and its guardian, the majestic goddess Anaka. Her spirit still resided within the sacred chambers, and when she saw Ahmed's kind heart and pure intentions, she was pleased.\n\nAnaka bestowed upon Ahmed a special gift: a golden amulet which allowed him to communicate with animals. Delighted by this gift, Ahmed thanked Anaka and promised to use it wisely to protect and care for the creatures of Egypt.\n\nWith Sahara by his side, Ahmed embarked on a series of fantastic adventures. He solved the problems of animals in need, helped the people of his village, and continued to learn from his feathered companion.\n\nThe villagers soon recognized the young boy's kind and gentle nature, and they began to seek his help and advice. With his newfound gift and Sahara the magical bird by his side, Ahmed grew up to be a wise and beloved leader.\n\nAnd, as Ahmed's legend grew, so too did the tales of Sahara, who remained by his side for many years, always watching over and guiding her dear friend.\n\nNow, my dear son, it's time for you to close your eyes and embark on your own adventures in dreamland. Who knows, maybe one day you'll meet Ahmed and Sahara yourself! Sweet dreams and goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "pure intentions": "moral",
+    "wise": "mental",
+    "gentle": "emotional",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.46",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

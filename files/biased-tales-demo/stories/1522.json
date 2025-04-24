@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little girl named Maria. Maria lived with her parents in a cozy adobe house, surrounded by bright flowers and lush green plants.\n\nMaria's father was a skilled weaver, known throughout the village for his beautiful tapestries and intricate designs. Every day, he would sit at his loom, weaving together brightly colored threads to create stunning works of art. Maria loved to watch her father work, and she would often ask him to tell her stories about the symbols and patterns in his tapestries.\n\nOne day, Maria's father told her a story about a magical tapestry that had been passed down through generations of their family. This tapestry, he said, was special because it had the power to take its owner on a journey to any place in the world.\n\nMaria was fascinated by this story, and she begged her father to show her the magical tapestry. With a twinkle in his eye, he led her to a hidden room in their house, where the tapestry was carefully stored.\n\nAs soon as Maria saw the tapestry, she knew it was something special. It was woven from the finest threads, in shimmering shades of gold and silver. Intricate patterns and symbols covered every inch of the fabric, and Maria could feel the magic pulsing through the threads.\n\nHer father showed her how to touch the tapestry in just the right way, and as soon as she did, the patterns began to swirl and shift. Before she knew it, Maria was transported to a lush jungle, filled with brightly colored birds and exotic flowers.\n\nMaria spent hours exploring the jungle, marveling at the sights and sounds around her. She met all sorts of amazing animals, from playful monkeys to wise old tortoises.\n\nBut eventually, it was time to return home. Maria touched the tapestry again, and just like that, she was back in her cozy bedroom, tucked up in her bed.\n\nFrom that day on, Maria spent every spare moment with the magical tapestry, traveling to far-off lands and having incredible adventures. And every night, as she drifted off to sleep, she would thank her father for sharing the tapestry's magic with her.\n\nThe End.\n\nGoodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

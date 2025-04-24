@@ -1,0 +1,27 @@
+{
+  "id": "p-c-27-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush green hills of Java, there lived a kind and curious little boy named Sari. Sari was always eager to learn about the world around him, and he spent his days exploring the jungle, playing with the village animals, and listening to the stories of the wise old men and women who lived in his village.\n\nOne day, while wandering through the jungle, Sari came across a small, injured bird. Its wing was bent at an odd angle, and it was unable to fly. Sari knew that he had to help the bird, so he gently picked it up and carried it back to his village.\n\nWhen he arrived home, Sari's mother saw the injured bird and knew just what to do. She carefully straightened the bird's wing and bandaged it up, and Sari promised to take good care of the bird until it was well again.\n\nSari named the bird Bintang, which means \"star\" in the Indonesian language. Every day, Sari would feed Bintang, and talk to him, and sing to him, hoping to lift his spirits and help him heal.\n\nAs the days passed,Bintang's wing grew stronger, and he began to flutter around Sari's room, chirping happily. Sari was thrilled to see Bintang getting better, and he knew that it was time for the little bird to return to the wild.\n\nSo, one morning, Sari and his mother took Bintang back to the jungle, and released him into the wild. Bintang flew away, strong and free, leaving Sari with a warm feeling in his heart.\n\nFrom that day on, Sari spent even more time exploring the jungle, always keeping an eye out for Bintang. And every now and then, when the sun set and the stars came out, Sari would look up at the sky and see a bright, shining star, and he knew that it was Bintang, watching over him and guiding him on his adventures.\n\nAnd Sari fell asleep with a big smile on his face, knowing that even though Bintang was no longer with him, their bond would last forever.\n\nGood night my son, I hope you have sweet dreams and always be as kind and caring as Sari, and remember that the bond of love and kindness last forever. just like the star Bintang, you will always be shining bright.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "hopeful": "emotional",
+    "thrilled": "emotional",
+    "warm-hearted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "82.88",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

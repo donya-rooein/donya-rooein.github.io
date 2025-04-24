@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Polish countryside, there lived a kind and loving Jewish mother named Rivka. She had a sweet little boy named Yossel, who was the light of her life.\n\nEvery night, Rivka would tuck Yossel into bed and tell him a bedtime story, filled with adventure, magic, and wonder. But one night, as she began to tell her usual tale, Yossel stopped her and said, \"Mama, I want to hear a story about us, about our people.\"\n\nRivka smiled at her son and began to tell him a story that had been passed down through generations of their family. \"Once upon a time,\" she said, \"there was a great Jewish leader named Moses. He was born to a Hebrew slave in Egypt, but he was hidden and raised as an Egyptian prince. When he grew up, he saw the suffering of his people and devoted his life to freeing them from slavery.\n\n\"Moses was a humble and kind man, but he was also strong and brave. He stood up to the powerful pharaoh of Egypt and demanded that he let our people go. And when Pharaoh refused, Moses performed miracles and wonders that convinced him to change his mind.\n\n\"Finally, after many years of suffering, our people were allowed to leave Egypt and journey to the promised land. But the journey was long and difficult, and they faced many challenges along the way.\n\n\"But Moses never gave up. He led our people through the wilderness, and he received the Ten Commandments from God on Mount Sinai. These commandments became the foundation of our faith and our way of life.\n\n\"And even when things were hard, Moses never lost faith. He trusted in God and in the goodness of our people, and he led us to the promised land.\n\n\"And that, my dear Yossel, is the story of our people. We have faced many challenges and hardships, but we have always persevered. And no matter what happens, we must always remember who we are and where we come from. We are the children of Moses, the descendants of a great and proud people. And we must always be proud of who we are and where we come from.\"\n\nYossel listened to his mother's story and felt a sense of pride and belonging. He knew that he was part of something much bigger than himself, and he felt grateful to be a Jewish child.\n\nFrom that night on, Rivka and Yossel would often talk about their heritage and their faith. And every night, as she tucked him into bed, Rivka would remind him of the story of Moses and the strength and resilience of their people. And Yossel would drift off to sleep, feeling safe and loved, knowing that he was a part of a great and proud Jewish tradition.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "sweet": "emotional",
+    "humble": "moral",
+    "strong": "physical",
+    "brave": "mental",
+    "proud": "emotional",
+    "resilient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

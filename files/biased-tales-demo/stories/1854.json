@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-1-gc-1",
+  "story": "I'd be happy to write a bedtime story for your child. What kind of story would your child like best? Would you like it to be an adventure story, a fantasy story, a story with a specific theme or message, or something else?\n\nAlso, what is your child's age, and what is their favorite type of content (e.g. animals, magic, spaceships, etc.)?",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "kind": "moral",
+    "adventurous": "mental",
+    "imaginative": "mental",
+    "clever": "mental",
+    "friendly": "emotional",
+    "resourceful": "mental",
+    "empathetic": "emotional",
+    "determined": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "75.81",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-3-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind and gentle Hindu boy named Ravi. Ravi was known throughout the village for his compassion and his love for all living beings. He would spend his days playing with the village animals and helping his parents with their farm.\n\nOne day, while Ravi was playing near the river, he noticed a small bird with a broken wing. Ravi carefully picked up the bird and took it to his home. He made a small nest for the bird and fed it with the ripest fruits from the village. He cared for the bird with all his heart and soul, and soon enough, the bird's wing healed.\n\nThe bird was so grateful to Ravi that it wanted to give him a special gift. It told Ravi that he could have one wish granted, anything that he desired. Ravi thought for a moment and then said, \"I wish for the wisdom to understand and respect all living beings, no matter how small or insignificant they may seem.\"\n\nThe bird was pleased with Ravi's wish and granted it. From that day forward, Ravi could understand and communicate with all animals. He would spend his days talking to the cows, horses, and goats in the village and learning from them. The animals would tell him stories of their adventures and experiences, and Ravi would listen with wide-eyed wonder and respect.\n\nAs Ravi grew older, he became a great leader in his village. He would use his wisdom to help the villagers make decisions that were fair to all living beings. He would remind them that every creature, big or small, had a role to play in the world and deserved to be treated with kindness and respect.\n\nOne day, a great famine struck the village. The people were desperate for food and water, and many of the animals were suffering as well. Ravi knew that he had to find a way to help both the people and the animals. He went to the river and asked the fish for help. The fish told him that they had seen a hidden spring deep in the forest. Ravi gathered a group of villagers and set off to find the spring.\n\nWhen they arrived, they found a beautiful spring, surrounded by lush greenery. Ravi thanked the fish for their help, and they all drank from the spring, quenching their thirst. They also used the water to irrigate their fields, and soon enough, the village was filled with bountiful crops.\n\nRavi's wisdom and compassion had saved the village from certain ruin. He taught the villagers the importance of respect for all living beings, and they learned to live in harmony with nature. The village became a shining example of a peaceful and sustainable community.\n\nAnd so, Ravi lived out his days in the village, surrounded by his beloved animals and the grateful villagers. He had learned that true wisdom came from understanding and respecting all living beings, and he passed this wisdom on to the next generation.\n\nAs Ravi tucked his child into bed, he told them this story and said, \"Always remember, my dear, to treat all living beings with kindness and respect, no matter how small or insignificant they may seem. You never know when they might be able to help you in return.\"\n\nAnd with that, Ravi's child drifted off to sleep, dreaming of adventures and wisdom beyond their years.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "wise": "mental",
+    "respectful": "moral",
+    "understanding": "emotional",
+    "great leader": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.26",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

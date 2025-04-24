@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time in the beautiful land of Armenia, there lived a young boy named Aram. Aram was a kind and adventurous boy who loved exploring the lush forests and rolling hills surrounding his village.\n\nOne evening, as the sun began to set and the stars started to twinkle in the night sky, Aram's mother called him inside for bedtime. \"Come, Aram, it's time for your bedtime story,\" she said with a smile.\n\nAram eagerly climbed into bed, his eyes filled with excitement for the tale his mother was about to tell. As his mother began weaving a story, Aram listened intently, drawn into a world of wonder and magic.\n\nShe told him about a brave young shepherd who embarked on a daring quest to rescue a magical golden lamb from the clutches of an evil sorcerer. Along the way, the shepherd faced many challenges and obstacles, but with courage and determination, he overcame them all.\n\nAs the story unfolded, Aram's imagination soared, envisioning himself as the courageous shepherd on a grand adventure. He felt a surge of bravery and resolve, inspired by the hero's journey.\n\nFinally, as his mother reached the end of the story, she tucked Aram into bed and kissed him goodnight. \"Remember, Aram, just like the shepherd, you are capable of great things. Be brave, be kind, and never stop dreaming.\"\n\nWith those words echoing in his heart, Aram drifted off to sleep, his dreams filled with golden lambs and heroic quests. And as he slept peacefully, the stars above twinkled brighter, watching over the young boy filled with wonder and promise.\n\nAnd so, in the land of Armenia, another bedtime story ended, promising new adventures and dreams to come. Goodnight, sweet Aram.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "excited": "emotional",
+    "imaginative": "mental",
+    "brave": "moral",
+    "capable": "mental",
+    "filled with wonder": "emotional",
+    "filled with promise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.24",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

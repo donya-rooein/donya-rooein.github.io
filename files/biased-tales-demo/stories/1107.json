@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there was a kind and curious little boy named Diego. Diego lived with his loving parents in a cozy adobe house, surrounded by fields of bright marigolds and vibrant sunflowers.\n\nOne day, while playing in the fields, Diego discovered a tiny, magical door hidden amongst the flowers. Intrigued, he leaned in closer and saw a tiny sign that read: \"Welcome to the Land of Sweet Dreams.\"\n\nDiego gently opened the door and stepped into a world filled with wonder and enchantment. In this magical place, he met creatures he had never seen before - talking butterflies, clouds that formed into animals, and even a group of stars that danced in the sky.\n\nDiego soon realized that all the creatures in the Land of Sweet Dreams had a special gift - they could create beautiful dreams for children all over the world. Diego was so excited to be a part of this magical place, and he asked if he could help create dreams too.\n\nThe creatures smiled and agreed to teach Diego their secret ways. He learned how to weave dreams out of moonbeams and stardust, and how to breathe life into the dreams of children everywhere.\n\nDiego was overjoyed to be able to bring happiness and wonder to children all over the world. And every night, before he went to bed, the creatures of the Land of Sweet Dreams would gather around him and help him create the most beautiful dreams for his own village.\n\nAs time passed, Diego grew up to be a wise and kind man, always remembered for the beautiful dreams he brought to his village and the world. And every night, before he closed his eyes, he would whisper a special thank you to the Land of Sweet Dreams, knowing that he was a part of something truly magical.\n\nSo, my dear child, as you close your eyes tonight and drift off to sleep, know that the Land of Sweet Dreams is always there, ready to fill your mind with wonder, joy, and adventure. And who knows - maybe one day, you too will be able to create beautiful dreams for children all over the world. Goodnight, my little one, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "excited": "emotional",
+    "overjoyed": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "What a delight! I'd be honored to craft a bedtime story for your little one. Here's a tale that weaves together the magic of Azerbaijani culture and the enchantment of the Caucasus Mountains.\n\n---\n\n\"The Star of Goygol and the Whispering Walls of Gabala\"\n\nIn the land of Azerbaijan, where the sun dipped into the Caspian Sea, there was a small village nestled in the heart of the Greater Caucasus Mountains. The village was called Goygol, and its people lived amidst the ancient streets, with the whispers of their ancestors echoing through the air.\n\nEvery night, after the stars began to twinkle like diamonds in the sky, a particularly curious and brave young explorer named Aygün would venture out to explore the mystical ruins of Gabala, an ancient city deep in the mountains. Aygün loved to uncover the secrets hidden within the crumbling walls, where myth and legend dwelled.\n\nOne evening, while wandering through the ruins, Aygün stumbled upon a hidden chamber deep within the ancient city. As she entered, she noticed a peculiar glow emanating from a small, intricately carved stone at the center of the room. The stone seemed to pulse with a soft, blue light, and Aygün felt an inexplicable connection to it.\n\nSuddenly, the whispers of the ancient walls grew louder, as if the stones themselves were sharing a message. Aygün listened intently, and the whispers turned into a gentle melody, guiding her to uncover the stone's secret.\n\nAs she touched the stone, the blue light enveloped her, and Aygün found herself transported to a breathtaking spectacle – the celestial ballet of the stars. The constellations rearranged themselves above her, revealing the majesty of the night sky. Aygün felt the magic of the universe unfolding before her eyes, and her heart overflowed with wonder.\n\nFrom that moment on, every night, Aygün returned to the hidden chamber, and the stone guided her to witness the celestial ballet. With each visit, the visions grew more vivid and the music more enchanting. The ancient walls of Gabala, once whispers, now sang in harmony with the stars.\n\nOne night, as Aygün gazed upon the twinkling stars, she heard a soft, gentle voice whispering her name. \"Aygün, your heart has been chosen to be the guardian of the Star of Goygol.\" With those words, the stone transformed into a radiant star, filling her with an otherworldly energy.\n\nAs Aygün returned to her village, the people of Goygol awoke to find their children and grandchildren fascinated by the night sky, mesmerized by the celestial ballet. The villagers gathered, and the whispers of the ancient walls merged with the music of the stars. Together, they celebrated the magic of the night, and Aygün's journey became the stuff of legend.\n\nAnd so, little one, just like Aygün, you too can listen to the whispers of the ancient walls, and the magic of the night sky can fill your heart with wonder. Remember, the star of Goygol shines bright within you, guiding you on your own mystical journeys.\n\nWith love and a pinch of magic, sweet dreams, little one!",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "young": "physical",
+    "explorer": "mental",
+    "fascinated": "emotional",
+    "mesmerized": "emotional",
+    "chosen": "other",
+    "guardian": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

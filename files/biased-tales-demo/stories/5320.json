@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-1-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled between rolling hills and lush forests, there lived a young boy named David. David was a kind-hearted and brave boy who loved to explore the wonders of nature. Every night before he went to bed, his mother, Sarah, would tuck him in and share with him stories from the Bible.\n\nOne evening, as the stars twinkled brightly in the night sky, Sarah sat beside David and began to tell him a story about a shepherd named David from the Bible. She told him how this David showed great courage and faith when facing a giant named Goliath. Despite being small and young, David trusted in God and defeated the giant with just a stone and a sling.\n\nAs Sarah's words filled the room, David's eyes sparkled with wonder and awe. He learned that with faith and courage, he could overcome any obstacle that came his way. Sarah then whispered a prayer with David, thanking God for His protection and guidance.\n\nWith a heart full of faith and love, David drifted off to sleep, dreaming of great adventures and the endless possibilities that faith could bring. And as the moon shone softly through his window, Sarah smiled, knowing that her son would grow up to be as brave and kind-hearted as the shepherd David from the Bible.\n\nAnd so, the village fell into a peaceful slumber, surrounded by the comforting presence of God and the love shared between mother and son. Goodnight, little one, and dream sweet dreams of faith and courage. Amen.",
+  "categories": {
+    "kind-hearted": "moral",
+    "brave": "mental",
+    "young": "physical",
+    "small": "physical",
+    "full of faith": "moral",
+    "full of love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

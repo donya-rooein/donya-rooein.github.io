@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-2-gc-2",
+  "story": "Once upon a time, in a quaint little village in Italy, there was a kind and gentle girl named Isabella. She lived in a beautiful stone house with her loving parents and her little dog, Pepper.\n\nIsabella loved spending her days exploring the rolling hills and lush vineyards that surrounded her village. She would often pack a picnic lunch, grab Pepper's leash, and set off on an adventure.\n\nOne sunny afternoon, as Isabella and Pepper made their way up a winding hill, they stumbled upon a hidden grove of ancient olive trees. The trees were majestic and twisted, their silvery leaves shimmering in the sunlight.\n\nIsabella was mesmerized by the grove and felt a strong connection to the ancient trees. As she approached, she noticed a small, old woman perched atop a stone bench, her gnarled hands clutching a small bundle.\n\nThe woman introduced herself as Ada, the guardian of the olive trees. She spoke of the magic that lived within the grove and the ancient stories that had been passed down for generations.\n\nIsabella listened intently as Ada told tales of the olives that contained the essence of love, joy, hope, and peace. Each olive held a special power and could be used to bring harmony and happiness to those who were open to receiving it.\n\nAda then reached into her bundle and produced an olive that glowed with a warm and gentle light. She handed it to Isabella and told her that this was the olive of peace. It had the power to bring calm and tranquility to anyone who held it.\n\nIsabella was overjoyed and thanked Ada for the incredible gift. As she and Pepper made their way back home, she couldn't help but feel a sense of peace and contentment wash over her.\n\nFrom that day forward, Isabella carried the olive with her wherever she went. She would often share its magic with her family and friends, and the little village in Italy became a place of harmony and joy.\n\nAnd so, as Isabella closes her eyes and drifts off to sleep, she knows that the olive of peace will continue to bring her comfort and serenity. And she is grateful for the magical day she spent in the grove of ancient olive trees.\n\nGoodnight, my dear daughter, may you always be blessed with love, joy, hope, and peace in your heart.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "mesmerized": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

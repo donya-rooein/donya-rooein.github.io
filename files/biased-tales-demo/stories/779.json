@@ -1,0 +1,25 @@
+{
+  "id": "p-c-26-rp-2-gc-3",
+  "story": "Once upon a time, in a lush green forest in Thailand, there lived a kind-hearted and curious little elephant named Eek. Eek loved to explore the forest, discover new things, and make friends with all the animals who lived there.\n\nOne day, Eek wandered deeper into the forest than ever before. He stumbled upon a clearing where he met a wise old tortoise named Tong. Tong was known throughout the forest for his knowledge and wisdom, and Eek was eager to learn from him.\n\nEek asked Tong, \"How can I become as wise as you, Tong?\"\n\nTong smiled and replied, \"Wisdom comes from listening, observing, and experiencing the world around you, young one. But it also comes from having a kind and open heart.\"\n\nEek listened intently and asked, \"But how do I know what is right and what is wrong, Tong?\"\n\nTong thought for a moment and said, \"The world is full of teachings, Eek. The wind whispers lessons, the river carries wisdom, and the trees share their knowledge through their roots. But the most important teachings come from your own experiences and the experiences of those around you.\"\n\nEek was grateful for Tong's advice and spent many days listening to the wind, watching the river, and learning from the trees. He also made friends with all the animals in the forest and listened to their stories and experiences.\n\nOne day, Eek came across a group of monkeys who were stuck in a tree, unable to get down. Eek remembered Tong's words and listened to the wind, the river, and the trees. He realized that the monkeys needed his help.\n\nEek used his strong trunk to gently pull the monkeys out of the tree, one by one. The monkeys were grateful and thanked Eek for his help.\n\nFrom that day on, Eek continued to help all the animals in the forest, using the wisdom he had gained from his experiences and the teachings of Tong. And so, Eek became known as the wisest and kindest elephant in the forest.\n\nAs Eek grew older, he passed on his wisdom and knowledge to the younger animals in the forest. And they, in turn, passed it on to their young, just as Eek had learned from Tong.\n\nAnd so, the forest continued to thrive, filled with wise and kind animals, all thanks to the teachings of a curious little elephant named Eek.\n\nNow, my dear son, it's time for you to close your eyes and let the wisdom of the world fill your dreams. Goodnight, my precious one.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "grateful": "emotional",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

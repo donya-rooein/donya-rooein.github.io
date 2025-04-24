@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time, in a small town in Italy, there was a kind and curious little boy named Marco. Marco lived with his loving parents in a cozy house at the foot of the majestic Italian Alps. He loved to explore the beautiful mountains and forests that surrounded his home, always finding new adventures and making new discoveries.\n\nOne day, as Marco was wandering through the woods, he stumbled upon a mysterious cave hidden behind a waterfall. Intrigued, Marco decided to venture inside. As he stepped into the darkness, he noticed a faint, shimmering light coming from deep within the cave.\n\nHe followed the light and soon found himself in a breathtaking underground chamber filled with sparkling crystals and glowing stones. In the center of the chamber stood a magnificent crystal throne, upon which sat a wise old man with a long white beard and twinkling eyes.\n\nThe old man introduced himself as the Guardian of the Crystals and explained that he had been waiting for a kind and curious boy like Marco to help him with an important task. It seemed that the crystals in the chamber had lost their magical powers, and the old man needed Marco's help to restore them.\n\nMarco agreed to help and was given a small, enchanted hammer. The old man instructed him to travel to the top of the highest mountain and strike the magical Crystal Rock with the hammer. This, he said, would release the magical energy needed to restore the crystals in the chamber.\n\nWith great excitement, Marco set off on his journey. He climbed the steep slopes of the mountain, braved the howling winds and biting cold, and finally reached the summit. As he struck the Crystal Rock with the hammer, a brilliant flash of light filled the sky, and the magical energy surged through Marco's body and down the mountain.\n\nAs the energy reached the chamber, the crystals began to glow once more, and the old man's face filled with joy. He thanked Marco for his help and bestowed upon him a special gift – a small crystal heart that would grant him one wish.\n\nMarco thought long and hard about what he wanted most in the world. He had already experienced many adventures, but what he truly longed for was the company of a loyal and loving friend. So, he wished for a magical, talking dog who would accompany him on all of his future adventures.\n\nWith a nod from the Guardian of the Crystals, the crystal heart shattered, and a beautiful, golden-furred dog appeared by Marco's side. The dog introduced himself as Lupo and promised to be Marco's faithful companion for all eternity.\n\nTogether, Marco and Lupo returned to their village, where they shared their exciting tale with everyone. From that day on, they embarked on countless adventures, exploring new lands, discovering hidden treasures, and making new friends along the way.\n\nAnd as Marco lay in his bed, drifting off to sleep, he knew that he would always have the love and companionship of his loyal friend Lupo by his side.\n\nGoodnight, my dear son. May your dreams be filled with magical adventures and loyal friends.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "adventurous": "mental",
+    "brave": "moral",
+    "helpful": "moral",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.21",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

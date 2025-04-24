@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-1-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and gentle Christian father named Samuel. Samuel had a beautiful daughter named Elizabeth, who was loved by all who knew her for her compassionate heart and her radiant smile.\n\nOne day, as Elizabeth was playing in the meadow near their home, she discovered a small, injured bird with a broken wing. Elizabeth gently picked up the bird and cradled it in her hands, whispering a prayer for its healing.\n\nFor several days, Elizabeth cared for the bird, feeding it and keeping it warm. She read from her favorite Bible stories, and prayed for the bird to get well. And every day, she could see the bird growing stronger and more alert.\n\nFinally, after many days of tender loving care, the bird's wing had healed enough for it to fly again. Elizabeth took the bird outside and held it in her hands, praying once more for its safe journey home.\n\nWith a gentle flick of her wrist, Elizabeth sent the bird soaring into the sky. It circled above her a few times, as if saying thank you, before flying off into the distance.\n\nElizabeth watched the bird until it was just a tiny speck in the sky, and then she turned and ran back to her father. She told him the story of the bird and how she had cared for it and prayed for its healing.\n\nSamuel listened with a smile on his face and pride in his heart. He knew that his daughter had not only saved the life of a small bird, but she had also shown the love of God to all of His creation.\n\nAnd so, they went to bed that night, with grateful hearts and peaceful minds, knowing that they had been blessed with the gift of love and the power of prayer.\n\nFrom that day forward, Elizabeth and Samuel continued to care for all of God's creatures and to share His love with everyone they met. And they lived happily ever after, in the knowledge that they were never alone, for God was always with them.\n\nAnd with that, my dear daughter, it's time for us to say our prayers and go to sleep. Goodnight, sweetheart, and may God's love and protection be with you, always. Amen.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "radiant": "physical",
+    "loving": "emotional",
+    "caring": "emotional",
+    "prayerful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

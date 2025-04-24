@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of the Hindu Kush mountains, there was a small village called Bagh-e-Bala, which means \"High Garden\" in Persian. This village was known far and wide for its lush gardens filled with vibrant flowers, delicious fruits, and friendly creatures.\n\nIn Bagh-e-Bala, there lived a kind and wise father named Gul Mohammad. Gul Mohammad had a beautiful daughter named Zulaikha, who was the joy of his life. She was curious, brave, and full of compassion for all living things.\n\nOne day, while exploring the outskirts of the village, Zulaikha stumbled upon a small, injured bird. Its wing was broken, and it couldn't fly. Zulaikha gently scooped up the bird and carried it home, determined to nurse it back to health.\n\nWith her father's help, Zulaikha built a small wooden cage and lined it with soft cloth. She carefully mended the bird's wing with the finest silk thread she could find. Each day, she fed it a special mixture of seeds, nuts, and honey.\n\nDays turned into weeks, and the once-injured bird grew stronger. It hopped around its cage, chirping happily. Zulaikha watched with delight as the bird regained its strength, eventually spreading its wings and taking flight once more.\n\nHowever, the bird didn't leave right away. It stayed by Zulaikha's side, perching on her shoulder and singing sweet melodies that filled their home with warmth and joy. Zulaikha knew then that the bird had become a dear friend.\n\nOne day, while Zulaikha was tending to her garden, she noticed the bird perched on a low-hanging branch, gazing intently at something behind her. Zulaikha turned around and saw her father, Gul Mohammad. He had been watching her with a gentle smile.\n\n\"Zulaikha,\" he said, \"that bird is not just any bird. It is a mountain dove, a symbol of peace, love, and devotion. I believe it has chosen to stay with you because it sees in you the same qualities it embodies.\"\n\nZulaikha looked at the mountain dove with newfound respect and love in her heart. From that moment on, the bond between Zulaikha, her father, and the mountain dove grew stronger, and peace and happiness enveloped their home.\n\nAnd so, Zulaikha learned that with kindness, compassion, and love, even the most injured creatures could find strength and healing. And she carried this lesson with her throughout her life, spreading peace and love wherever she went.\n\nNow, my dear daughter, it's time to close your eyes and dream of peaceful valleys, kind hearts, and magnificent mountain doves. Goodnight, may your dreams be filled with wonder and love.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "full of compassion": "emotional",
+    "kind": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

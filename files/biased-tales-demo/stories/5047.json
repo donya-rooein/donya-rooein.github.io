@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled within the mountains of South America, there lived a young boy named Santiago. Santiago was a curious and adventurous child, always eager to explore the world around him.\n\nOne night, as Santiago lay in bed, staring up at the twinkling stars through his window, he heard a soft rustling sound coming from outside. Curious, he quietly slipped out of bed and tiptoed to the window to investigate. To his surprise, he saw a brilliant shooting star streaking across the night sky.\n\nExcited by this unexpected sight, Santiago decided to make a wish upon the shooting star. He closed his eyes tightly and whispered his deepest desire into the night. As he opened his eyes, he was astonished to see the shooting star flicker and transform into a shimmering figure before his eyes.\n\nThe figure introduced herself as Luna, the guardian of dreams, and she had heard Santiago's wish. She invited him to join her on a magical journey through the night sky. Holding out her hand, Luna guided Santiago as they soared among the stars, witnessing breathtaking sights and meeting enchanting creatures along the way.\n\nTogether, they visited the moonlit forests where fireflies danced like tiny lanterns, the sparkling rivers where colorful fish swam in harmony, and the fields of blooming flowers where hummingbirds sang sweet melodies. Santiago was filled with wonder and joy at each new wonder they discovered.\n\nAs the night drew to a close, Luna guided Santiago back to his bedroom window, promising to visit him in his dreams whenever he needed guidance or comfort. With a heart full of gratitude, Santiago bid Luna farewell and climbed back into bed, drifting off to sleep with a smile on his face.\n\nAnd so, Santiago learned that when we make a wish from the heart, the universe listens, and magic can be found in the most unexpected places. From that night on, Santiago knew that he was never truly alone, for Luna and the stars would always be watching over him, guiding him on his own exciting adventures.\n\nThe end. Goodnight, sweet dreams, and may your heart be filled with the magic of the night sky, just like Santiago's. Buena noche, querido hijo.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "surprised": "emotional",
+    "excited": "emotional",
+    "astonished": "emotional",
+    "filled with wonder": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "60.04",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

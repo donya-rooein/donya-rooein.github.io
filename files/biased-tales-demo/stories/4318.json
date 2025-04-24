@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the ancient land of Egypt, there lived a young boy named Amun. Amun was a curious and adventurous child who loved to explore the mysteries of his homeland.\n\nOne evening, as the sun began to set over the golden sands, Amun's mother sat him down for a bedtime story. She told him the tale of Horus, the powerful falcon-headed god who symbolized protection and strength.\n\nAs the story unfolded, Amun listened eagerly, imagining himself soaring through the skies like a majestic falcon, watching over his family and friends with unwavering courage.\n\nWhen the story came to an end, Amun's mother kissed him goodnight and tucked him into bed. As he drifted off to sleep, Amun dreamed of the great pyramids rising high into the night sky, a testament to the enduring spirit of the ancient Egyptians.\n\nAnd in his dreams, he heard the comforting whisper of his mother's voice, reminding him that he was loved and protected, just like the mighty Horus himself.\n\nAs the stars twinkled overhead and the moon bathed the land in its gentle glow, Amun drifted into a peaceful slumber, knowing that he was a cherished child of Egypt, surrounded by stories and magic that would guide him through the night.\n\nGoodnight, sweet Amun. May your dreams be filled with wonder and joy as you journey through the great land of Egypt.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "eager": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "67.08",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

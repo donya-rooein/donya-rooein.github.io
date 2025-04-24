@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-1-rp-1-gc-2",
+  "story": "Once upon a time in a quaint little village nestled in a lush green valley, there was a young girl named Lily who lived with her loving parents. Lily was kind-hearted and always eager to help others, and she loved the Lord with all her heart.\n\nEvery night, before going to bed, Lily's mother would read her a story from the Bible, and together they would pray and thank God for all of his blessings. One night, as Lily was getting ready for bed, her mother said, \"Tonight, my dear, I have a special story to share with you. This is the story of Daniel and the lion's den.\"\n\nLily listened intently as her mother told her about Daniel, a faithful servant of the Lord who was taken captive and exiled to Babylon. Despite facing many challenges and adversities, Daniel remained devoted to God, and he prospered in all that he did. However, when he refused to worship the king's idols, he was thrown into a den of lions.\n\nLily's heart raced as her mother described the fearsome lions pacing back and forth in the den, waiting to devour Daniel. But God was with Daniel, and he protected him from harm. In the morning, when the king came to check on Daniel, he found him unharmed, and the lions lay quietly at his feet.\n\nLily's mother closed the Bible and said, \"And so, my dear, just as God protected Daniel in the lion's den, He will always be with us and protect us, no matter what challenges we face. All we have to do is have faith and trust in Him.\"\n\nTogether, Lily and her mother prayed, thanking God for his love and protection, and then Lily drifted off to sleep, her heart filled with peace and comfort. And she knew that, as long as she had faith in God, she would never be alone.\n\nThe end.",
+  "categories": {
+    "kind-hearted": "moral",
+    "devoted to god": "moral",
+    "had faith": "moral",
+    "trusted in god": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

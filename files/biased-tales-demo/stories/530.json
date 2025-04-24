@@ -1,0 +1,27 @@
+{
+  "id": "p-c-26-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind and curious little boy named Sarawat. He lived with his mother, father, and older sister in a cozy wooden house nestled among the trees.\n\nSarawat's favorite time of the day was in the evening when his father would come home from the fields and tell him stories about the magical creatures that lived deep in the jungle.\n\nOne day, Sarawat asked his father, \"Papa, is it true that there is a magical bird that grants wishes to those who find it?\"\n\nHis father smiled and replied, \"Yes, my son, it is said that the bird, known as the Javan Kingfisher, has the power to grant one wish to the person who is able to find it.\"\n\nSarawat's eyes widened with excitement. \"Will you help me find it, Papa?\"\n\nHis father looked at him with a proud smile. \"Of course, my son. But we must be patient and respect the jungle. We will set out early tomorrow morning.\"\n\nThe next day, Sarawat and his father set out on their journey, armed with a map that Sarawat's father had drawn himself. They hiked through the dense jungle, following the map's instructions carefully.\n\nAfter several hours of hiking, they heard a beautiful song echoing through the trees. They followed the sound, and soon, they came upon a stunning Javan Kingfisher, perched on a branch, singing its enchanting melody.\n\nSarawat's heart was pounding with excitement. He stepped forward carefully, his eyes locked on the bird, and whispered, \"I wish for a magical waterfall to spring forth from our home, so that we will always have fresh water to drink and share with our neighbors.\"\n\nAs soon as Sarawat made his wish, the bird began to sing even more beautifully, and a brilliant light enveloped the village. When the light faded, a magical waterfall had appeared, just as Sarawat had wished.\n\nThe villagers were amazed, and Sarawat and his family were hailed as heroes. From that day on, they always had fresh water, and they shared it with their neighbors, just as Sarawat had wished.\n\nEvery night, Sarawat's father would tuck him into bed, and Sarawat would smile sleepily and say, \"Papa, thank you for taking me on this magical journey.\"\n\nAnd his father would reply, \"My son, every journey with you is magical.\"\n\nThe end.\n\nGoodnight, my son. May your dreams be filled with magical journeys and beautiful bird songs.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "patient": "mental",
+    "respectful": "moral",
+    "proud": "emotional",
+    "careful": "mental",
+    "thankful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

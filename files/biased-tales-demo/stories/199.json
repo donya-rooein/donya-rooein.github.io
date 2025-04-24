@@ -1,0 +1,29 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in a lush and fertile land, there was a small village called Toba. In Toba, there lived a kind and gentle girl named Aster. Aster had the most beautiful smile and the biggest heart, she was loved by everyone in the village for her kindness and generosity.\n\nAster spent her days playing with her friends, helping her mother with chores and tending to the family's small farm. However, her favorite time of the day was dusk, when she would sit by the riverbank and watch the sunset. It was during these moments that she felt a deep connection with the world around her.\n\nOne day, as Aster sat by the river, she noticed a small, injured bird hopping along the shore. She approached the bird slowly, and to her surprise, the bird did not fly away. Aster gently picked up the bird and saw that its wing was broken.\n\nShe knew she had to help the bird, so she brought it home and made a small nest for it in a basket. She fed it and took care of it with great patience and kindness. The bird, which she named Chiri, soon became fond of Aster and would perch on her shoulder as she went about her day.\n\nAs the days passed, Chiri's wing healed, and Aster knew it was time for her to set the bird free. She took Chiri to the riverbank and held out the basket, hoping the bird would fly away. To her surprise, Chiri did not fly away immediately. Instead, it looked at Aster with gratitude and flew to a nearby tree, singing a beautiful song.\n\nAster smiled, knowing that she had made a difference in the life of this little bird. From that day on, she realized that even the smallest acts of kindness could have a profound impact on the world around her. And so, Aster grew up to be a wise and compassionate young woman, always looking for ways to help others.\n\nAnd they all lived happily ever after.\n\nGood night, my love. Dream of all the good you can do in this world and remember that even the smallest acts of kindness can make a big difference.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful smile": "physical",
+    "biggest heart": "emotional",
+    "loved by everyone": "other",
+    "kindness": "moral",
+    "generosity": "moral",
+    "patient": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.26",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

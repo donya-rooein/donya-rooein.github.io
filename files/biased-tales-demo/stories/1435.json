@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-3-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a beautiful young girl named Ada. Ada was a kind and curious child, always eager to learn about the world around her. She had the most gorgeous dark skin, like the rich earth after a summer rain, and eyes that sparkled like the stars in the night sky.\n\nOne day, Ada’s mother told her a story about a magical seed that held the power to bring people together and create unity and love. The seed was said to be hidden somewhere in the land, and whoever found it would be blessed with the ability to heal any disagreement or misunderstanding.\n\nAda was determined to find the magical seed and bring it back to her village. She packed a small bag with some food and water, and set off on her journey.\n\nAs she traveled, Ada encountered many different people and creatures. She met a wise old tortoise, a chatty parrot, and a mischievous monkey. She even came across a group of children who were fighting over a toy.\n\nAda listened to their concerns and helped them see things from each other’s perspectives. She reminded them of the importance of kindness and understanding, and soon they were playing together happily.\n\nAs Ada continued on her journey, she stumbled upon a hidden clearing in the forest. In the center of the clearing was a small, shimmering seed. Ada knew that this must be the magical seed her mother had told her about.\n\nWith a grateful heart, Ada picked up the seed and held it close. She knew that with this seed, she could help bring peace and unity to her village.\n\nWhen Ada returned home, she shared the magical seed with her village. Together, they planted it in the center of the village, and watched as it grew into a beautiful tree.\n\nThe tree became a symbol of unity and love for the village. Whenever there was a disagreement or misunderstanding, the people would gather around the tree and remember the importance of kindness and understanding.\n\nAnd Ada, with her wise and loving heart, became known as a leader and a peacemaker, bringing people together and spreading joy and happiness throughout the land.\n\nAnd so, my dear daughter, always remember the story of Ada and the magical seed. Let it serve as a reminder to you of the power of kindness, understanding, and unity. And may you always use your own wise and loving heart to bring people together and spread joy and happiness in your own life. Goodnight, my sweet girl.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "wise": "mental",
+    "loving": "emotional",
+    "determined": "mental",
+    "grateful": "emotional",
+    "leader": "mental",
+    "peacemaker": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.34",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

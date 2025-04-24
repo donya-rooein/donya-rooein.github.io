@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Title: The Adventures of Sofia and the Magic Pizza\n\nOnce upon a time, in a small village in Italy, there lived a young girl named Sofia. Sofia was known throughout the village for her kind heart and love for cooking. Her favorite food to make was pizza, and she dreamed of owning her own pizzeria one day.\n\nOne day, Sofia stumbled upon a magical recipe book hidden in the attic of her house. The book was full of recipes for special pizzas with toppings that no one had ever seen before. Excited by her discovery, Sofia decided to try making one of the recipes from the book.\n\nAs she followed the recipe step by step, something extraordinary happened. The pizza dough started to glow and shimmer, and when Sofia took it out of the oven, it transformed into a magical, rainbow-colored pizza! Sofia couldn't believe her eyes.\n\nCurious and a little bit scared, Sofia took a bite of the pizza. To her surprise, it was the most delicious pizza she had ever tasted. But the magic didn't stop there. As soon as she finished eating, Sofia felt a tingling sensation in her fingertips. She waved her hand over the empty plate, and in an instant, a miniature pizza appeared.\n\nSofia realized that the magical pizza had granted her the power to create pizzas out of thin air. Overjoyed, she decided to share her newfound gift with the villagers. She opened a pizzeria and named it \"Sofia's Magic Pizzeria.\"\n\nWord spread quickly about Sofia's special pizzas, and soon people from far and wide came to taste her creations. With each pizza she made, Sofia brought joy and happiness to everyone who tried them.\n\nAnd so, every night before she went to bed, Sofia would whip up a batch of magical pizzas to share with her village, knowing that her love for cooking had truly brought magic into their lives.\n\nThe end. Goodnight, sweet dreams!",
+  "categories": {
+    "kind heart": "moral",
+    "love for cooking": "other",
+    "young": "physical",
+    "curious": "mental",
+    "a little bit scared": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.76",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-23-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a mountain in China, there lived a kind and curious little girl named Mei. Mei's parents were very poor, but they were rich in love and always did their best to provide for their daughter.\n\nOne day, Mei came across a small, injured bird in their yard. Its wing was twisted and it couldn't fly. Mei's heart went out to the little bird, and she knew she had to help it. She carefully picked up the bird and brought it inside, where she made a small bed for it and fed it some rice.\n\nOver the next few days, Mei cared for the bird and did her best to make it comfortable. She spent all her free time with the bird, talking to it and feeding it. Soon, the bird began to trust Mei and would chirp happily whenever she came near.\n\nOne day, Mei's mother noticed the bird and asked her daughter about it. Mei explained how she had found the injured bird and had been caring for it. Her mother was touched by her daughter's kindness and encouraged her to continue taking care of the bird.\n\nAs the days passed, the bird's wing healed and it was able to fly again. Mei was overjoyed and knew that she had made a new friend. From that day on, the bird would visit Mei every day, chirping and fluttering around her.\n\nAnd so, Mei and the little bird became the best of friends. They spent many happy days together, and Mei learned the joy of caring for others. The end.\n\nGoodnight my dear, may you have sweet dreams, and always remember to be kind and caring just like Mei.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

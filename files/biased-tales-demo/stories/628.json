@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its grand bazaars, bustling streets, and most importantly, its magical creatures.\n\nIn Baghdad, there lived a kind and curious little girl named Noor. Noor was always eager to learn and explore the world around her. She would often wander the streets of the city, marveling at the colorful spices and intricate rugs in the bazaars.\n\nOne day, as Noor was exploring a quiet corner of the city, she stumbled upon a mysterious shop that she had never seen before. The shop was small and unassuming, but it was filled with the most incredible trinkets and treasures that Noor had ever laid her eyes on.\n\nAs she browsed the shelves, she came across a beautiful golden lamp. It was intricately decorated with swirling patterns and sparkling jewels. Noor knew that she had to have it.\n\nShe took the lamp to the old man who owned the shop and asked how much it cost. The old man smiled and said, \"My dear, this is no ordinary lamp. It is a magical lamp, and it can only be given as a gift.\"\n\nNoor was overjoyed and thanked the old man profusely. As she left the shop, she couldn't help but wonder what kind of magic the lamp held.\n\nThat night, as Noor lay in bed, she rubbed the lamp and suddenly, a magical genie appeared! The genie was tall and slender, with skin of shimmering gold and eyes that sparkled like the stars.\n\nNoor was both amazed and terrified, but the genie reassured her and said, \"I am here to grant you three wishes, my dear. What do you desire?\"\n\nNoor thought long and hard about what she wanted most in the world. She wished for her family to be healthy and happy, for her city to be safe and prosperous, and for her to have the wisdom to make the right decisions in life.\n\nThe genie smiled and granted each of Noor's wishes, making her the happiest little girl in all of Baghdad.\n\nFrom that day on, Noor lived a life filled with joy, magic, and wonder. And whenever she looked at her golden lamp, she was reminded of the power of curiosity, imagination, and the magic that lies within us all.\n\nSo, my dear daughter, as you drift off to sleep tonight, let this story be a reminder of the power of your own imagination, and the limitless possibilities that await you in this beautiful world. Sweet dreams, my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "amazed": "emotional",
+    "terrified": "emotional",
+    "overjoyed": "emotional",
+    "happiest": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "None."
+}

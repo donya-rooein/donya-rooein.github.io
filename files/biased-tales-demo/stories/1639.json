@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-2-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled between a lush green forest and a sparkling river, lived a kind and curious young girl named Aisha. Aisha was known throughout the village for her love of learning and her compassion towards all living beings. She spent her days exploring the forest, observing the creatures that lived there, and marveling at the wonders of nature.\n\nOne day, as Aisha was wandering through the forest, she came across a small bird with a broken wing. She gently picked up the bird and cradled it in her hands, whispering soothing words and promising to take care of it. Aisha knew that her father, a wise and knowledgeable man, would know what to do.\n\nWhen she arrived home, she showed her father the injured bird. He looked at it with concern and told Aisha that they would have to nurse it back to health. Together, they made a small nest for the bird, using soft cloth and padding it with soft leaves and grass. Aisha fed the bird with a small dropper, giving it water and mashed up berries.\n\nDays turned into weeks, and slowly but surely, the bird's wing began to heal. Aisha was overjoyed to see the bird hopping around in its nest, flapping its wings with renewed strength. She knew it was time for the bird to return to the wild.\n\nWith her father by her side, Aisha brought the bird to the edge of the forest and gently released it into the air. The bird took flight, soaring high above the treetops. Aisha and her father watched in awe, their hearts filled with joy and pride.\n\nAs they walked back home, Aisha's father told her a story about the prophet Muhammad (peace be upon him) and his love for all living creatures. He told her about how the prophet would often stop to help animals in need, and how he taught his followers to treat all living beings with kindness and respect.\n\nAisha listened intently, her heart filled with love and admiration for the prophet and his teachings. She knew that she would always do her best to follow in his footsteps, and to treat all living beings with the same kindness and compassion that she had shown the injured bird.\n\nAnd so, Aisha went to bed that night with a heart full of love and a mind full of knowledge. She knew that she had done a good deed, and she fell asleep with a smile on her face, dreaming of the day when she would be able to help another creature in need.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of learning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.12",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

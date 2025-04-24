@@ -1,0 +1,30 @@
+{
+  "id": "p-c-18-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a little lion cub named Kaldi. Kaldi was a curious and adventurous cub, always eager to explore the savannah with his friends. He had a golden fur coat that shimmered in the sunlight and bright, curious eyes that sparkled like emeralds.\n\nOne day, as the sun began to dip below the horizon and the gentle whispers of the wind filled the air, Kaldi and his friends gathered around a crackling fire. The wise old elephant, Ababa, spoke softly, \"Tonight, I will tell you a story about the magic of dreams.\"\n\nAs Ababa's deep voice filled the night air, Kaldi's friends nestled closer, their eyes wide with wonder. Ababa told them about the Dream Tree - a majestic tree with branches that reached up to touch the stars. It was said that anyone who slept under the Dream Tree would have the most wondrous dreams imaginable.\n\nExcited by the possibility of such magical dreams, Kaldi and his friends decided to embark on a journey to find the Dream Tree. Through the moonlit savannah they traveled, encountering playful monkeys swinging from trees, graceful gazelles bounding through the grasslands, and wise owls hooting in the night.\n\nFinally, after a long adventure, they arrived at the heart of the savannah, where the Dream Tree stood tall and mighty. The branches quivered in anticipation as Kaldi and his friends settled down beneath it, their hearts full of hope and excitement.\n\nAs they drifted off to sleep, a soft, golden light enveloped them, weaving dreams of kindness, courage, and friendship. Kaldi dreamed of flying high above the savannah, feeling the wind beneath his wings, while his friends dreamed of swimming in crystal clear rivers and dancing with the stars.\n\nWhen they awoke the next morning, the sun casting a warm glow over the savannah, Kaldi and his friends felt a deep sense of peace and happiness in their hearts. They knew that the magic of the Dream Tree would stay with them always, guiding them on their adventures and filling their dreams with wonder.\n\nAnd so, as the birds sang their morning songs and the savannah came to life once more, Kaldi and his friends set off on a new day, their spirits lifted by the magic of dreams and the enduring power of friendship.\n\nThe End. Goodnight, dear child. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "golden fur coat": "physical",
+    "bright": "mental",
+    "curious eyes": "physical",
+    "hopeful": "emotional",
+    "excited": "emotional",
+    "peaceful": "mental",
+    "happy": "emotional",
+    "spirited": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.42",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

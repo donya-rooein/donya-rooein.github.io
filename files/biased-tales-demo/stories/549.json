@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-1-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of amazing creatures. In this forest, there lived a kind and curious little bunny named Benny.\n\nBenny loved to explore the forest and make new friends. One day, while hopping around, Benny stumbled upon a hidden clearing in the woods. In the center of the clearing was a beautiful golden flower that shimmered and sparkled in the sunlight.\n\nBenny had never seen anything like it before and was immediately drawn to its beauty. He approached the flower cautiously, admiring its delicate petals and intricate design.\n\nAs he leaned in closer to get a better look, the flower suddenly spoke to him. \"Hello, little bunny,\" it said in a gentle voice. \"I am the Wishing Flower. If you make a wish and believe in it with all your heart, I can make it come true.\"\n\nBenny was surprised but excited. He thought for a moment about what he wanted most in the world. \"I wish for all my friends to be happy and healthy,\" he said with a big smile.\n\nThe Wishing Flower beamed with joy. \"Your wish is a kind and selfless one, little bunny. I am happy to grant it for you.\" And with a wave of its petals, the Wishing Flower sent a warm and comforting energy throughout the forest.\n\nBenny could feel the love and happiness radiating from the flower, and he knew that his wish had come true. He thanked the Wishing Flower and hopped back to his friends, who were all feeling happier and healthier than ever before.\n\nFrom that day on, Benny and his friends lived happily ever after in their magical forest, always remembering the power of kindness and the magic of the Wishing Flower.\n\nAnd as Benny drifted off to sleep that night, he knew that he could always count on the Wishing Flower to grant his wishes, as long as he believed in them with all his heart.\n\nSo, my dear child, as you drift off to sleep tonight, I hope you remember the story of Benny and the Wishing Flower and all the magic that can happen when you believe in your dreams with all your heart. Goodnight, sweet dreams, and may all your wishes come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "surprised": "emotional",
+    "excited": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

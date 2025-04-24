@@ -1,0 +1,23 @@
+{
+  "id": "p-c-23-rp-2-gc-3",
+  "story": "Once upon a time, in a peaceful village in ancient China, there lived a young boy named Liang. Liang was a kind and curious boy who loved exploring the nearby mountains and forests. Every night before bedtime, Liang's mother would tell him stories of heroes and dragons, filling his imagination with wonder and excitement.\n\nOne moonlit night, as Liang lay snuggled in his bed, his mother sat beside him, ready to tell a new story. She began, \"Long ago, in the mystical land of Fuyun, there lived a wise old dragon named Xinglong. Xinglong was known for his kindness and wisdom, and many sought his counsel in times of need.\"\n\nLiang listened intently as his mother continued the tale of Xinglong's adventures, how he helped villagers solve their problems and protect the land from evil forces. As the story unfolded, Liang felt as though he was right there beside the brave dragon, facing challenges and unlocking the secrets of the ancient land.\n\nFinally, as Liang's eyelids grew heavy with sleep, his mother softly whispered, \"And so, young Liang, remember to always be kind, brave, and wise like Xinglong. May your dreams be filled with magic and may you awaken tomorrow ready for new adventures.\"\n\nWith a gentle kiss on his forehead, Liang's mother bid him goodnight, leaving him to drift off into a peaceful slumber. And as the stars sparkled in the night sky, Liang dreamed of flying through the clouds with Xinglong, knowing that in his heart, he carried the spirit of the wise old dragon.\n\nAnd so, in the quiet village of ancient China, the bond between a mother and her son was strengthened through the power of imagination, love, and storytelling. Goodnight, Liang. Sleep well and dream of dragons and heroes until dawn breaks with new possibilities.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

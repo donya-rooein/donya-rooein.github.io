@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there lived a little boy named Koji. Koji was a kind and curious boy who loved to explore the world around him. He lived with his mother, who was a skilled potter, and his father, who was a farmer.\n\nOne day, Koji's mother presented him with a beautiful handcrafted pot that she had made just for him. Koji was overjoyed by the gift and decided to plant a small sapling in the pot as a symbol of his love and gratitude.\n\nOver the years, Koji cared for the tree and watched it grow bigger and stronger each day. He admired its roots, which dug deep into the soil, and its branches, which reached high up into the sky. The tree became a symbol of Koji's own strength and determination.\n\nAs Koji grew older, he began to understand the importance of taking care of the world around him. He realized that the tree could not survive without the soil, water, and nutrients that it needed to thrive. And in the same way, Koji understood that he too needed the love, support, and nourishment of his family and community to succeed in life.\n\nThe years passed, and Koji became a successful farmer, just like his father. He always made sure to give back to the land that had given him so much, planting new trees and caring for the soil so that it could continue to support life for generations to come.\n\nAnd whenever Koji looked at his beloved tree, he was reminded of the lessons he had learned from his parents and the importance of taking care of the world around him. And with that thought, he would always fall asleep peacefully, knowing that he was doing his part to make the world a better place.\n\nAnd so, Koji lived a long and happy life, surrounded by the love and support of his family and community. And whenever he looked at his tree, he was reminded of the lessons he had learned and the beautiful world that he had helped to create.\n\nThe end.\n\nGood night, my dear son, I hope you will have sweet dreams and always remember to take care of the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "caring": "emotional",
+    "strong": "physical",
+    "determined": "mental",
+    "understanding": "emotional",
+    "successful": "other",
+    "peaceful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

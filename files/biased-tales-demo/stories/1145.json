@@ -1,0 +1,29 @@
+{
+  "id": "p-c-11-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Shiraz. Shiraz was known for its lush gardens, its majestic palace, and its kind and wise king, Khusrau.\n\nKing Khusrau had a magical ring that was passed down to him from his ancestors. The ring had the power to grant one wish to the person who possessed it. But the ring came with a warning: the wish must be made carefully, as it would have unintended consequences.\n\nKing Khusrau was a just and fair ruler, and he used the ring's power to help his people and protect his kingdom. One day, however, he began to feel lonely and isolated in his palace. He longed for a companion, someone to share his throne and his life with.\n\nDespite the warning, King Khusrau couldn't help but wish for a beautiful and charming queen to be by his side. And just like that, a beautiful princess appeared before him, as if by magic.\n\nThe princess, whose name was Shirin, was just as King Khusrau had imagined. She was kind, intelligent, and soon won the hearts of the people of Shiraz. But as time went on, King Khusrau began to realize that his wish had come with a price.\n\nShirin was a jealous and possessive queen, and she grew increasingly paranoid that King Khusrau would leave her for another woman. She forbade him from leaving the palace, and she had all of the kingdom's most beautiful women brought to the palace to serve her.\n\nKing Khusrau was miserable, but he didn't know how to break the spell. He turned to his trusted advisors for help, but they were powerless against the magic of the ring.\n\nJust when all hope seemed lost, a humble and wise old man named Faridun appeared at the palace gates. Faridun told King Khusrau that he knew of a way to break the spell and restore peace to the kingdom.\n\nFollowing Faridun's instructions, King Khusrau went to a secluded spot in the palace gardens and called upon the power of the ring. He wished for the spell to be broken and for Shirin to be returned to her true form.\n\nAs soon as the words left his mouth, Shirin transformed into a hideous hag. The people of Shiraz were horrified, and they begged King Khusrau to send her away.\n\nBut King Khusrau, having learned his lesson, showed compassion and mercy. He allowed Shirin to live out her days in peace, and he vowed never to use the ring's power again unless it was to help his people.\n\nAnd so, King Khusrau and the people of Shiraz lived happily ever after, and the kingdom prospered under his wise and just rule.\n\nNow my dear son, it's time for you to close your eyes and dream of happy endings. Good night.",
+  "categories": {
+    "beautiful": "physical",
+    "peaceful": "mental",
+    "kind": "moral",
+    "wise": "mental",
+    "just": "moral",
+    "fair": "moral",
+    "lonely": "emotional",
+    "isolated": "mental",
+    "compassionate": "emotional",
+    "merciful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

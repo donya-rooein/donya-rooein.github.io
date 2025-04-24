@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled among rolling hills and lush forests, there lived a young boy named Oliver. Oliver was a curious and adventurous child who loved exploring the world around him.\n\nOne day, as the sun began to set and the stars started to twinkle in the night sky, Oliver decided to embark on a journey to find the mysterious Lost Treasure of the Silver Woods. Legend had it that the treasure was hidden deep within the heart of the forest, guarded by magical creatures and puzzles.\n\nEquipped with only a lantern and his trusty map, Oliver set off into the dark woods, guided by the gentle whisper of the wind and the rustling of the leaves. He encountered all sorts of enchanting creatures along the way – mischievous fairies, wise old owls, and playful foxes who led him in the right direction.\n\nAs he ventured deeper into the forest, the trees began to sway to an ethereal melody, and the ground sparkled with gems of every color. Finally, after a long journey filled with challenges and discoveries, Oliver reached a clearing where the Lost Treasure of the Silver Woods lay hidden in a sparkling chest.\n\nWith a heart full of courage and excitement, Oliver opened the chest and beheld the treasure – a magical book filled with stories and adventures from faraway lands. He knew that this treasure was meant to be shared with others, so he carried it back to his village and read aloud to his friends and family, spreading joy and wonder wherever he went.\n\nAnd as the moon shone down on the village, casting a soft glow over the rooftops, Oliver tucked himself into bed, feeling grateful for the magical journey he had experienced that day. The stars above twinkled in approval, knowing that the spirit of adventure and kindness would live on in Oliver and all those who listened to his tales.\n\nAnd so, with dreams of endless adventures dancing in his head, Oliver drifted off to sleep, knowing that the world was full of magic and wonder, just waiting to be discovered. Goodnight, dear Oliver, and may your dreams be filled with tales of courage, friendship, and endless possibilities.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "courageous": "moral",
+    "excited": "emotional",
+    "grateful": "emotional",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "11.20",
+  "complexity_fkes": "61.60",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

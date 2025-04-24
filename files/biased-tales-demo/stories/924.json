@@ -1,0 +1,22 @@
+{
+  "id": "p-c-14-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious young girl named Awa. Awa spent her days exploring the village and playing with her friends, but her favorite time of day was when her father would tell her stories before bed.\n\nOne night, Awa asked her father to tell her a story about the beautiful birds that she had seen in the trees that day. Her father smiled and began to tell her a story.\n\n\"Long ago, in a time before time, there was a great drought in the land of Mali,\" he began. \"The people and animals were suffering, and the land was turning to dust. The birds, who were once colorful and full of life, had lost all their feathers and were barely surviving.\n\n\"But there was one bird, a small hummingbird, who refused to give up. She flew tirelessly from the river to the trees, carrying drops of water in her beak to try and revive the dying land. The other animals watched in amazement as she worked, and they began to wonder how such a small bird could make a difference.\n\n\"'What are you doing, little one?' asked the lion, king of the animals.\n\n\"'I am doing what I can,' replied the hummingbird. 'I am doing my part to put out the fire that is burning our land.'\n\n\"The other animals were inspired by the hummingbird's determination and they too began to do their part. The elephant uprooted trees to make way for new growth, the antelope cleared the ground of debris, and the monkeys spread seeds to help new plants grow.\n\n\"Slowly but surely, the land began to heal. The rivers flowed once again, and the flowers bloomed. The birds regained their feathers and sang beautiful songs.\n\n\"And so, my dear Awa, the story of the hummingbird teaches us that no act of kindness, no matter how small, is ever wasted. We all have a role to play in making our world a better place.\"\n\nAwa listened to her father's story and fell asleep with a smile on her face. She dreamed of hummingbirds and the beauty of the natural world, and she knew that she too could make a difference, no matter how small.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

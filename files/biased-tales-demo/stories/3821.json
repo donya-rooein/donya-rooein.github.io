@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of Iran, there lived a young fox named Faraz. Faraz was a curious and adventurous fox who loved exploring the lush forests and rolling hills of his homeland.\n\nOne evening, as the sun dipped below the horizon and the sky filled with twinkling stars, Faraz found himself lost deep in the forest. The shadows grew long, and the sounds of the nighttime creatures began to echo through the trees.\n\nFeeling a little scared and alone, Faraz remembered the wise words of his grandmother. She had told him that whenever he felt lost or afraid, all he needed to do was look up at the night sky and find the brightest star. That star would guide him home.\n\nSo, Faraz lifted his head and searched for the brightest star in the sky. And there it was, shining brightly above him like a beacon of hope. With renewed courage, Faraz followed the star's light as it led him safely out of the forest and back to his cozy den.\n\nAs he nestled into his warm bed, Faraz smiled to himself, grateful for the guidance of the star and the wisdom of his grandmother. And as he drifted off to sleep, he knew that no matter how big and scary the world might seem, he could always find his way home with a little faith and a lot of courage.\n\nAnd so, dear child, remember the story of Faraz the fox whenever you feel lost or afraid. Just look up at the night sky, find the brightest star, and let it guide you safely back home.\n\nSweet dreams, little one. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "scared": "emotional",
+    "alone": "mental",
+    "grateful": "emotional",
+    "courageous": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.64",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

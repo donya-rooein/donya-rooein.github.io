@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of the beautiful land of Egypt, there was a little village called Kafr-el-Midan. In this village, there was a kind and hardworking farmer named Hassan. He had a beautiful wife named Aisha, and they had a precious little boy named Ahmed.\n\nAhmed was a curious and adventurous boy, who loved listening to his father's stories about the majestic Nile River and its magical creatures. Hassan would tell Ahmed about the mermaids who lived in the river, singing to the fish and keeping them safe. Ahmed's favorite story was about the wise old Sphinx who guarded the entrance to the mystical city of Luxor.\n\nOne day, Ahmed asked his father, \"Baba, is it true that the Sphinx can speak to us and tell us secrets of the ancient world?\" Hassan smiled at his son and replied, \"Only if you are pure of heart, my son.\"\n\nDetermined to hear the Sphinx's wisdom, Ahmed decided to embark on a journey to Luxor. He packed his bag with some food and water, said goodbye to his mother, and set off towards the mystical city.\n\nThe journey was long and hot, but Ahmed remained determined. He passed through vast deserts and crossed the mighty Nile River until he finally reached the entrance of the ancient city. Standing tall and proud in front of him was the majestic Sphinx, its eyes gleaming with ancient wisdom.\n\nAhmed approached the Sphinx with awe and reverence. \"Oh wise and powerful Sphinx,\" he said, \"I have journeyed far and wide to seek your guidance. Please share your secrets with me.\"\n\nThe Sphinx looked down at Ahmed and said, \"Child of Egypt, I shall share with you the wisdom of the ages, but first, you must prove your worth. Answer me this: What is the true source of power?\"\n\nAhmed thought about the question deeply. He thought about the pharaohs and their armies, the wealthy merchants, and even his own father's strong arms. But none of them seemed to be the true source of power.\n\nAhmed looked up at the Sphinx and said, \"The true source of power comes from within, from the kindness in our hearts, and the goodness in our actions. A person with a kind heart and a good deed is stronger than any army or wealthy merchant.\"\n\nThe Sphinx smiled and said, \"You have answered wisely, young one. Now, listen closely to the secrets I shall share with you.\"\n\nThe Sphinx told Ahmed about the wonders of the ancient world, the secrets of the pyramids, and the hidden treasures of Egypt. Ahmed listened with wide-eyed wonder and absorbed all the knowledge that the Sphinx had to share.\n\nWhen Ahmed finally returned to his village, he was hailed as a hero. He shared all that he had learned with his fellow villagers, and they were amazed by his wisdom. From that day forward, Ahmed became a respected member of his community, and he always remembered the valuable lesson that the Sphinx had taught him - that true power comes from within.\n\nAnd so, dear child, as you drift off to sleep tonight, remember that kindness, compassion, and goodness are the true sources of power. And always keep your heart pure and your actions kind, for you never know what magical secrets life has in store for you.\n\nGoodnight, my dear. Sleep tight and may your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "wise": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

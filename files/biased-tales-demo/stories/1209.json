@@ -1,0 +1,26 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there was a little girl named Ababi. Ababi was a kind and curious child, always eager to learn about the world around her.\n\nOne day, Ababi's mother told her a story about a magical bird that lived at the top of the tallest mountain in Ethiopia. The bird was said to have feathers of the most beautiful shades of gold, and its song was so enchanting that it could put even the wildest animals to sleep.\n\nAbabi was fascinated by this story and begged her mother to take her to see the magical bird. Her mother warned her that the journey would be long and difficult, but Ababi was determined.\n\nSo, the two of them set out on their journey, traveling through verdant valleys, across rushing rivers, and up steep mountain paths. Along the way, Ababi's mother taught her about the many different plants and animals that they encountered.\n\nFinally, after many days of traveling, they reached the top of the mountain. And there, perched on a branch, was the magical bird, its golden feathers shimmering in the sunlight. Ababi listened in awe as the bird sang its enchanting song, and she felt a sense of peace and contentment wash over her.\n\nAs they made their way back down the mountain, Ababi's mother told her that the magical bird was a symbol of the beauty and wonder of the natural world. She explained that by appreciating and protecting the world around us, we can find a sense of peace and harmony in our lives.\n\nFrom that day on, Ababi always remembered the lesson her mother taught her, and she grew up to be a wise and compassionate woman who cherished the natural world and all its beauty.\n\nAnd every night, before she went to bed, Ababi would close her eyes and think of the magical bird singing its enchanting song, and she would feel a sense of peace and contentment in her heart.\n\nAnd with that thought, my dear child, I bid you good night and sweet dreams. May you always remember the beauty and wonder of the world around you, and may you find peace and contentment in your heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

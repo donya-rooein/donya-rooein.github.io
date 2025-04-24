@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little girl named Aisha. Aisha loved to explore the world around her, and she was always asking questions and learning new things.\n\nOne day, Aisha heard a strange sound coming from the edge of the village. She followed the sound until she came to a beautiful garden filled with vibrant flowers and lush greenery. In the center of the garden stood a magnificent tree, its branches swaying gently in the breeze.\n\nAs Aisha approached the tree, she noticed that it was unlike any tree she had ever seen before. Its bark was smooth and silvery, and its leaves shimmered in the sunlight. And the sound that Aisha had heard? It was coming from the tree itself, a soft, melodic hum that seemed to fill the air with magic.\n\nAisha reached out to touch the tree, and as she did, the humming grew louder and more insistent. Suddenly, the tree began to speak!\n\n\"Greetings, little one,\" the tree said in a gentle, soothing voice. \"I have been waiting for you.\"\n\nAisha was startled, but she didn't feel afraid. Instead, she felt a deep sense of peace and wonder.\n\n\"Who are you?\" she asked the tree.\n\n\"I am the Tree of Wishes,\" the tree replied. \"I have the power to grant one wish to anyone who truly believes in the magic of the world around them.\"\n\nAisha's eyes widened with excitement. \"Can you really grant wishes?\" she asked.\n\n\"I can,\" the tree said. \"But be careful what you wish for, little one. Wishes have a way of changing the world in unexpected ways.\"\n\nAisha thought for a moment, and then she whispered her wish to the tree. The tree nodded gravely, and its branches began to sway more vigorously.\n\nSuddenly, there was a blinding flash of light, and when Aisha opened her eyes, she found herself in a completely different world. She was surrounded by towering mountains, sparkling streams, and lush forests. And there, walking towards her, was a lion with a kind face and a gentle demeanor.\n\n\"Hello, Aisha,\" the lion said. \"I am here to grant your wish.\"\n\nAisha was amazed, but she wasn't afraid. She knew that this was all part of the magic of the Tree of Wishes.\n\nTogether, Aisha and the lion explored this new world, discovering all sorts of wonders and meeting all sorts of incredible creatures. And as they traveled, Aisha learned that the world was even more magical and amazing than she had ever imagined.\n\nAt last, it was time for Aisha to return home. The lion led her back to the Tree of Wishes, and as she touched its silvery bark once more, she was filled with a deep sense of gratitude and wonder.\n\n\"Thank you, Tree of Wishes,\" she said. \"Thank you for showing me the magic of the world.\"\n\nThe tree hummed softly in response, and Aisha knew that she would never forget this incredible adventure. From that day on, she saw the world with new eyes, always searching for the magic hidden in every leaf and flower.\n\nAnd as she drifted off to sleep each night, she would remember the Tree of Wishes, and the incredible world that lay just beyond the edge of the village. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loves to explore": "mental",
+    "learning new things": "mental",
+    "deep sense of peace": "emotional",
+    "wonder": "emotional",
+    "excitement": "emotional",
+    "gratitude": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "83.46",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

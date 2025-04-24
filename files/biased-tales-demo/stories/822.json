@@ -1,0 +1,28 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time in a beautiful village in Italy, nestled in the rolling hills and surrounded by vineyards and fields of sunflowers, there was a kind and loving mother who had a young daughter named Rosa. Every night, the mother would tuck Rosa into bed and tell her a bedtime story, to help her drift off to sleep filled with sweet dreams.\n\nOne night, the mother began to tell Rosa a story about a magical land called Il Paese delle Meraviglie (The Land of Wonders). In this land, the flowers and trees could talk, and the animals lived in harmony with the humans.\n\nRosa was enthralled by the story, and begged her mother to tell her more. The mother continued the tale, speaking of a wise old owl who lived in a tree at the edge of the village, and was said to have all the answers in the world.\n\nOne day, the little girl Rosa decided to go and meet the wise old owl for herself. She packed a small bag with some bread and cheese, and set off early in the morning. She walked for many hours, following the sun as it rose higher and higher in the sky.\n\nFinally, she reached the edge of the village and saw the wise old owl perched in a tree, looking down at her with wise, knowing eyes.\n\n\"Greetings, little one,\" said the owl. \"What brings you to my tree today?\"\n\nRosa looked up at the owl and felt a little shy, but she gathered her courage and spoke. \"I have heard that you have all the answers in the world. I was hoping you could help me with something.\"\n\nThe owl tilted its head and considered the little girl. \"What is it that you need help with, child?\"\n\nRosa thought for a moment before speaking. \"I want to know how to be happy, no matter what happens in my life. I want to always have a positive attitude and see the best in every situation.\"\n\nThe wise old owl nodded its head, understanding the little girl's request. \"Ah, a noble quest indeed. The secret to happiness lies within yourself, little one. It is not something that can be given to you by others. You must find it within your own heart.\"\n\nRosa looked at the owl, confused. \"But how do I do that?\"\n\nThe owl smiled down at the little girl. \"By practicing gratitude. Every day, take a moment to think of three things that you are grateful for. It can be anything, big or small. By focusing on the good in your life, you will begin to see more and more of it, and happiness will follow.\"\n\nRosa thanked the wise old owl and set off back to her village, determined to practice gratitude every day. And sure enough, the more she focused on the good in her life, the happier she became.\n\nFrom then on, every night, Rosa's mother tucked her into bed and asked her what three things she was grateful for that day. And Rosa always had an answer, knowing that the secret to happiness was within her own heart, just waiting to be discovered.\n\nAnd they all lived happily ever after. Goodnight, my dear.\nSweet dreams.\n\nThis is a bedtime story I came up with for you, I hope you like it.\nLet me know if there is any particular thing you would like me to include next time.\nGoodnight.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "young": "physical",
+    "enthralled": "emotional",
+    "shy": "emotional",
+    "courageous": "moral",
+    "determined": "mental",
+    "grateful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.24",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

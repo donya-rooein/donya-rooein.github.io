@@ -1,0 +1,23 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful countryside of Italy, there lived a young boy named Marco. Marco loved to explore the rolling hills and lush vineyards that surrounded his home. Every evening, after a day of adventures, Marco would come home to his mother, Maria, who would tuck him into bed with a loving smile.\n\nOne evening, as the sun began to set behind the distant mountains, Maria sat beside Marco and said, \"Marco, would you like to hear a special bedtime story tonight?\"\n\nExcited, Marco nodded eagerly, and Maria began to tell him a tale of a brave little rabbit named Luigi. Luigi lived in a cozy burrow near the edge of the forest and was known for his courage and kindness.\n\nIn the story, Luigi embarked on a journey to help his forest friends in need. Along the way, he faced many challenges and obstacles, but he never gave up. With determination and a kind heart, Luigi was able to overcome every hurdle and bring happiness to those around him.\n\nAs Maria's soothing voice filled the room, Marco's eyes grew heavy with sleep. Maria gently tucked him in, planting a kiss on his forehead before whispering, \"Goodnight, my dear Marco. Sweet dreams and remember to always be brave and kind, just like Luigi the rabbit.\"\n\nAnd with that, Marco drifted off to sleep, the gentle nighttime breeze carrying him off to a land of dreams where adventures awaited him, just like Luigi the brave rabbit.\n\nThe End. Goodnight, sweet Marco.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "sleepy": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.02",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

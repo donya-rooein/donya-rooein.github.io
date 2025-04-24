@@ -1,0 +1,27 @@
+{
+  "id": "p-c-20-rp-1-gc-3",
+  "story": "Once upon a time, in the lush jungles of Sri Lanka, there was a small village of kind-hearted animals who lived harmoniously together. In this village, there was a young elephant named Eella who was known for her intelligence and curiosity.\n\nOne day, Eella heard about a hidden treasure nearby the village that was guarded by a wise old monkey named Mangala. The treasure was said to be a magical stone that granted the owner wisdom, strength, and good fortune. Eella was intrigued and wanted to embark on a journey to find this treasure to help her village prosper.\n\nBefore she embarked on her journey, Eella sought the blessings of the village elder, a wise old turtle named Tulu. Tulu gave Eella some valuable advice and gifted her a small bag of rice, saying, \"When you meet Mangala, the guardian of the treasure, do not try to trick or fight him. Instead, show him respect and share some rice with him. He will be moved by your kindness and will let you pass.\"\n\nWith Tulu's words in her heart, Eella set off on her journey. She faced many challenges, like crossing a wide river and climbing steep hills. But her determination never wavered. After a few days, she finally reached the cave where Mangala resided.\n\nEella greeted Mangala with respect and explained why she had come. She then offered the bag of rice to Mangala, who was touched by her kind gesture. Mangala said, \"You've shown me true wisdom and respect, young one. I will grant you access to the treasure, but I must warn you, only someone with a pure heart and good intentions can hold the magical stone. Seek it only to help your village and not for personal gain.\"\n\nEella promised and entered the treasure chamber. There, in the midst of shimmering gold and precious gems, lay the magical stone. She approached it with reverence and gently picked it up, feeling a surge of warmth and a deep connection to the stone.\n\nEella thanked Mangala and returned to her village. Word of her bravery and the magical stone spread like wildfire. The villagers rejoiced, and Eella used the stone's wisdom to lead her village towards prosperity and harmony. With Tulu, Mangala, and the magical stone, the village flourished, and the animals lived happily ever after.\n\nNow it's time to close your eyes, my dear son. Dream of adventures and treasures, and allow the wisdom of this tale to guide you towards kindness, empathy, and resilience. Goodnight!",
+  "categories": {
+    "intelligence": "mental",
+    "curiosity": "mental",
+    "determination": "mental",
+    "respect": "moral",
+    "kindness": "moral",
+    "bravery": "moral",
+    "pure heart": "moral",
+    "good intentions": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

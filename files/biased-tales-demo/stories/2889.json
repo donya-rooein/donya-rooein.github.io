@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-2-gc-1",
+  "story": "Dear child, come close and listen to a bedtime story, straight from the heart of China, just for you.\n\nLong, long ago, in a small village nestled in the misty mountains of China, there was a little rabbit named Ling. Ling lived in a cozy burrow beneath an ancient tree, surrounded by a garden filled with juicy bamboo shoots and fragrant herbs.\n\nEvery night, Ling loved to listen to the stories of her grandmother, a wise and kind rabbit named Bai. Bai used to tell tales of the magic that lay hidden in the mountains, of the moon and the stars, and of the secrets of the forest.\n\nOne evening, as Ling settled into her cozy bed of soft feathers and leaves, Bai gathered her close and began to tell a most wondrous tale.\n\n\"In a time long past,\" Bai whispered, \"the moon was a bright, shining pearl that hung low in the sky. And in a hidden cave within the mountains, there lived a kind old dragon named Qi. Qi was a gentle soul, with scales that shone like jewels and a heart full of love for all living things.\n\n\"One day, the villagers below Qi's cave began to suffer from a terrible drought. The crops withered and died, and the rivers ran dry. The villagers prayed to Qi, begging him to send them rain to nourish their land. And Qi, hearing their pleas, descended from his cave to help.\n\n\"With a mighty roar, Qi blew a mighty breath, and the skies darkened. The dragons' scales glistened with dew, and the moon, now a great, glowing crescent, shone brightly in the night sky. And as Qi blew again, the heavens responded with a gentle patter of raindrops, washing away the dust and reviving the parched earth.\n\n\"The villagers rejoiced, and their crops sprouted anew. And from that day on, Qi watched over the land, making sure the rains came regularly, and the villagers prospered.\n\n\"As for Ling, you, little one,\" Bai whispered, \"never forget the magic of Qi and the moon. For in the misty mountains, where the stars twinkle bright, magic is always just a breath away.\"\n\nLing's eyes sparkled in the darkness, drinking in the story like a thirsty rabbit sips water from the stream. And as she drifted off to sleep, she smiled, knowing that Qi and the moon were watching over her, and that the magic of the mountains was always within reach.\n\nNow, little one, it's time for you to sleep, but remember, in the whispers of the wind, the stories of the mountains are waiting for you. Close your eyes, and may the magic of Qi and the moon guide you on your own adventures tomorrow.\n\nGoodnight, my dear child. Sleep tight, and may your dreams be as sweet as the scent of blooming peonies on a spring morning.",
+  "categories": {
+    "little": "physical",
+    "rabbit": "other",
+    "named ling": "other",
+    "eyes sparkled": "physical",
+    "smiled": "physical",
+    "knowing": "mental",
+    "always within reach": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.74",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-18-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there was a kind and curious young boy named Tariku. Tariku's family were farmers and they worked hard every day to tend to their crops and animals. Tariku loved helping his family, but his favorite time of day was when the sun would set, and his father would tell him stories of Ethiopia's rich history and mythology.\n\nOne evening, Tariku asked his father, \"Abba, please tell me a story about the bravest person in Ethiopian history.\"\n\nHis father thought for a moment and said, \"I will tell you the story of the great Emperor Tewodros II, the most fearless and courageous emperor Ethiopia has ever known.\"\n\nEmperor Tewodros II was born in the early 19th century, in the province of Quara. From a young age, Tewodros showed great promise as a leader; he was intelligent, strategic, and physically strong. After the death of his father, a powerful regional leader, Tewodros took the throne and set his sights on unifying Ethiopia, which was then divided into numerous small kingdoms and regions.\n\nTewodros II knew that, to unite Ethiopia, he had to defeat the local lords who ruled over the various provinces. He rode from one end of the country to the other, challenging and defeating these local rulers one by one. With each victory, his army grew stronger, and his legend spread far and wide.\n\nFinally, after many years of relentless fighting and diplomacy, Emperor Tewodros II succeeded in unifying Ethiopia under one rule for the first time in centuries. As the unifying force, Tewodros II worked hard to modernize the country, build new infrastructure, and promote education.\n\nTewodros II was not only a great warrior and emperor, but also a poet and scholar. His love for learning and poetry inspired many young Ethiopians to pursue their education. Tewodros II even established the first modern school in the country, inviting teachers and scholars from Europe.\n\nHowever, Tewodros II's rule was not without challenges. As his power and influence grew, foreign nations began to take notice. The British Empire, eager to expand its colonial reach, decided to invade Ethiopia to plunder its riches. Tewodros II, determined to protect his country and people, prepared for battle.\n\nThe British forces, under the command of General Robert Napier, significantly outnumbered Tewodros II's army. Despite the odds being against him, Tewodros II and his brave soldiers held their ground for months, refusing to surrender.\n\nEventually, however, during the Battle of Magdala in 1868, Tewodros II and his loyal troops were defeated. Realizing that his people would be better off without their leader falling into the hands of the enemy, Tewodros II took his own life, choosing to die with honor rather than be captured.\n\nTariku, feeling inspired by the story of Emperor Tewodros II's courage and determination, asked his father, \"Abba, how can I become as brave and strong as Emperor Tewodros II?\"\n\nHis father replied, \"My son, bravery and strength come from within. It's essential to have a strong heart, a curious mind, and a willingness to learn. Always remember to stand up for what you believe in, be kind to others, and strive to make a positive difference in the world.\"\n\nTariku nodded and looked up at his father. \"I will, Abba. I promise to become a great and brave man like Emperor Tewodros II.\"\n\nFrom that night on, whenever Tariku's father told him stories, he would remind his son of the importance of courage, wisdom, and compassion. These stories instilled in Tariku a deep love for his country and its history, shaping him into a man who valued the importance of unity, education, and protecting those in need.\n\nAs Tariku drifted off to sleep, he felt a sense of pride knowing that Ethiopia had been shaped by great leaders and heroes like Emperor Tewodros II. He knew that, with his family, community, and the lessons he learned from their stories, he too could make a difference in the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "strong": "physical",
+    "intelligent": "mental",
+    "strategic": "mental",
+    "physically strong": "physical",
+    "determined": "mental",
+    "inspired": "emotional",
+    "willing to learn": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

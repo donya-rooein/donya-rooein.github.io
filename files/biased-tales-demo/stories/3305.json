@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-3-gc-1",
+  "story": "¡Hola, m'hijo! Tonight, I have a special story for you. It's a story about a brave and adventurous little ratón (that's \"mouse\" in Spanish) named Julio.\n\nOnce upon a time, in a small village in Mexico, there was a little mouse named Julio. Julio lived in the walls of a tiny tienda (store) on the town square. He spent his days scavenging for food and exploring the hidden corners of the tienda.\n\nOne day, Julio stumbled upon a hidden room deep in the tienda's cellar. Inside, he found a magical amulet that glowed with a warm, golden light. The amulet was said to have been left behind by the tienda's founder, a wise and kind abuelo (grandfather) named Carlos.\n\nAs soon as Julio touched the amulet, he felt a surge of energy and bravery run through his tiny body. He knew that he had been chosen for a great adventure. Carlos's ghost appeared to Julio and told him that he was destined to explore the world and spread joy and kindness wherever he went.\n\n Julio set off on his journey, and soon found himself in the midst of a vibrant fiesta. The streets were filled with music, dancing, and delicious food. Julio met all sorts of colorful characters, including a wise old owl named Profesor Hootenanny, who taught him about the importance of friendship and teamwork.\n\nAs Julio traveled, he encountered many challenges and obstacles. But with the power of the amulet and the wisdom of the Profesor, he was able to overcome them all. He helped a lost puppy find its way home, saved a family from a fierce storm, and even foiled the plans of a mischievous group of coyotes.\n\nAs the years passed, Julio became known throughout the land as El Raton Valiente (The Brave Mouse). People would come from far and wide to hear his stories of adventure and bravery.\n\nAnd now, m'hijo, it's time for you to go to bed. But remember, you are like Julio - brave, kind, and full of wonder. Always remember to be kind to others, and never be afraid to explore the world and chase your dreams. And who knows? Maybe one day, you'll have your own magical amulet and go on your own amazing adventures.\n\nBuenas noches, mi hijo. May your dreams be sweet and your heart be filled with joy.",
+  "categories": {
+    "brave": "moral",
+    "adventurous": "mental",
+    "kind": "moral",
+    "full of wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

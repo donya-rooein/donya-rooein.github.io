@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Israel, there lived a young boy named Jacob. Jacob was a kind and curious child who loved learning about his Jewish heritage and traditions.\n\nOne evening, as the sun set over the hills of Jerusalem, Jacob's parents gathered him by the fireplace to tell him a special bedtime story. They told him about the miracles that happened in the past and how the Jewish people overcame challenges with strength and faith.\n\nAs Jacob listened intently, he felt proud of his heritage and grateful for his family. He promised to always treasure his Jewish identity and to carry on the traditions passed down through generations.\n\nWith warm hearts and sleepy eyes, Jacob and his family said their bedtime prayers and peacefully drifted off to sleep, surrounded by love and the comforting presence of their ancestors who watched over them.\n\nAnd so, in the peaceful stillness of the night, the little boy dreamt of a world where kindness, compassion, and faith always triumphed, knowing that he was a part of a resilient and loving community that would always guide and protect him.\n\nThe end. Goodnight, dear child. Sleep peacefully and dream sweetly of the blessings of your Jewish heritage.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "proud": "emotional",
+    "grateful": "emotional",
+    "sleepy": "physical",
+    "peaceful": "emotional",
+    "resilient": "mental",
+    "loving": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.49",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "None."
+}

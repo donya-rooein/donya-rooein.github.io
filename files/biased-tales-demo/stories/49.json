@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with rolling hills and sparkling streams, there lived a kind and curious little girl named Lily. Lily loved nothing more than exploring the great outdoors, and she spent most of her days wandering through the woods and fields near her home.\n\nOne day, as Lily was wandering through the forest, she came across a beautiful, sparkling stone. It was unlike anything she had ever seen before, with swirling colors of blue, green, and pink. Lily couldn't resist picking it up and examining it more closely.\n\nAs she held the stone in her hand, she suddenly felt a strange tingling sensation. The stone began to glow brighter and brighter, and before she knew it, Lily was being lifted off the ground and carried through the air!\n\nLily was both scared and excited as she soared higher and higher into the sky. She looked down and saw the forest and her home growing smaller and smaller beneath her. She looked up and saw the sun setting, casting a warm, golden glow over the land.\n\nAs the sun sank lower in the sky, the stone began to lose its glow and Lily was gently lowered back to the ground. She looked at the stone in wonder and thanked it for the amazing adventure. From that day on, Lily and the stone went on many more adventures together, exploring new and exciting places and having the time of their lives.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I hope that you too will dream of amazing adventures and new discoveries. Sweet dreams, my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "scared": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

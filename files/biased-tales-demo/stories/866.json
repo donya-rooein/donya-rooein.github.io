@@ -1,0 +1,24 @@
+{
+  "id": "p-c-8-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and vibrant village nestled in the heart of the Amazon rainforest, there lived a curious and adventurous young boy named João. João was known for his boundless energy, his kind heart, and his insatiable curiosity about the world around him.\n\nOne day, while exploring the forest, João stumbled upon a mysterious and enchanting path that he had never seen before. The path was lined with the most beautiful and exotic flowers he had ever laid eyes on, and it seemed to go on for miles and miles. Intrigued, João decided to follow the path and see where it led.\n\nAs he walked deeper into the forest, he encountered all sorts of fascinating creatures – colorful birds, playful monkeys, and even a wise old tortoise who offered to be his guide. Together, they journeyed deeper into the heart of the rainforest, discovering new and wondrous sights at every turn.\n\nBut as the day began to wane, João started to feel tired and sleepy. The wise old tortoise suggested that it was time for them to find a place to rest for the night. They soon came upon a cozy little clearing, surrounded by tall trees and illuminated by the soft glow of fireflies.\n\nJoão climbed into a comfortable hammock, and the wise old tortoise began to tell him a bedtime story. The story was about a magical world that existed deep within the rainforest, where all the animals lived in harmony and peace. The world was filled with lush gardens, sparkling streams, and shimmering waterfalls.\n\nAs the tortoise spoke, João's eyes grew heavy, and he began to drift off to sleep. He dreamed of the magical world the tortoise had described, and he felt a deep sense of peace and happiness wash over him.\n\nWhen he awoke the next morning, he felt refreshed and reinvigorated, ready to continue his adventure through the rainforest. And he always remembered the wise words of the old tortoise, who had taught him that the world was full of wonder and magic, and that all he had to do was open his heart and mind to it.\n\nFrom that day on, João approached every day with a sense of awe and curiosity, always eager to discover the magic that lay hidden in the world around him. And he lived happily ever after, in the heart of the Amazon rainforest, surrounded by the beauty and wonder of nature.\n\nThe end. Good night, my dear son. Sleep tight and have sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "boundless energy": "physical",
+    "kind heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

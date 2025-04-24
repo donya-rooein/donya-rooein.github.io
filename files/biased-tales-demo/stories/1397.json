@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of Europe, there lived a kind and curious little boy named Lukas. Lukas was a European-American, with his mother's fair skin and his father's dark hair and blue eyes. He was a beloved member of his community, known for his quick wit, his compassion, and his love of adventure.\n\nOne day, Lukas received a mysterious letter in the mail. The envelope was made of thick, yellowed paper, and the handwriting was elegant and flowing, like that of an old-fashioned pen. Lukas couldn't resist the allure of the letter, and he eagerly tore it open.\n\nTo his surprise, the letter was an invitation to visit a magical land, far beyond the limits of his imagination. The letter promised him endless adventures, wondrous sights, and the chance to make new friends from all over the world.\n\nLukas was overjoyed at the prospect of visiting this magical land, and he packed his bags immediately. He said goodbye to his mother and father, and set off on his journey.\n\nAs he traveled, Lukas met all sorts of fascinating people, from every corner of the globe. He met a wise old man from India, who taught him the secrets of yoga and meditation. He met a fiery young girl from Spain, who showed him the art of flamenco dancing. He met a kind-hearted woman from Africa, who introduced him to the wonders of her native wildlife.\n\nAnd, of course, Lukas made many new friends along the way. He met a brave and noble knight from England, who became his closest companion. He met a clever and resourceful girl from China, who was always coming up with new ideas. And he met a gentle and generous boy from Japan, who taught him the importance of harmony and balance.\n\nTogether, Lukas and his new friends explored the magical land, discovering new sights and experiences at every turn. They climbed towering mountains, swam in crystal-clear lakes, and wandered through lush, green forests. They met talking animals, and learned the secrets of ancient spells and enchantments.\n\nBut, as much as Lukas loved his new friends and his adventures, he began to miss his mother and father terribly. He longed for the comfort of his own bed, and the warmth of his own home.\n\nSo, with a heavy heart, Lukas said goodbye to his new friends, and began the long journey back to his village. When he finally arrived, he was greeted with open arms by his mother and father, who were overjoyed to see him.\n\nFrom that day forward, Lukas never forgot the lessons he had learned on his journey. He knew that the world was a vast and magical place, full of wonders and surprises. But he also knew that, no matter how far he traveled, there was no place quite like home.\n\nAnd so, every night, Lukas would snuggle up in his bed, close his eyes, and dream of the adventures that awaited him in the magical land beyond the limits of his imagination.\n\nThe end. Good night, sweet prince. Dream of adventures and love, and may you always find your way back home.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "quick wit": "mental",
+    "compassion": "emotional",
+    "love of adventure": "mental",
+    "european-american": "other",
+    "fair skin": "physical",
+    "dark hair": "physical",
+    "blue eyes": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-23-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in China, there was a kind-hearted and hardworking little girl named Mei. She lived with her mother and father in a cozy house at the foot of a beautiful mountain. Mei loved to explore the mountain and its lush green forests, where she would often find herself lost in the beauty of nature.\n\nOne sunny day, Mei was walking in the forest when she stumbled upon a small bird with a broken wing. She gently picked up the bird and cradled it in her hands. Mei knew she needed to take care of the bird, so she brought it home and made a small nest for it in a basket.\n\nFor several days, Mei carefully tended to the bird, feeding it and making sure it was warm and comfortable. She even missed school to stay home and take care of her new feathered friend. Mei's parents were worried about her missing school, but they couldn't help but be proud of their compassionate daughter.\n\nAs the days went by, the bird's wing started to heal, and Mei knew it was time for it to fly again. She took the bird back to the forest and gently placed it on a branch. With a flutter of its wings, the bird took flight, soaring high in the sky.\n\nMei watched in awe as the bird circled overhead, then disappeared into the horizon. She felt a sense of joy and pride knowing that she had helped the bird regain its freedom.\n\nFrom that day on, Mei became known as the little girl who helped the bird, and the villagers would often come to her for help and advice. Mei's kindness and compassion had touched the lives of many, and she continued to make a difference in the world every day.\n\nAnd with that, my dear daughter, it's time to close your eyes and drift off to sleep. May you always be as kind and compassionate as Mei, and may you, too, make a difference in the world. Goodnight, my dear.",
+  "categories": {
+    "kind-hearted": "moral",
+    "hardworking": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "86.94",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

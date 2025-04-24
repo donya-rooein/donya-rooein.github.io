@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-3-rp-3-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American boy named Kofi. Kofi was a kind, curious, and adventurous boy who loved to explore the world around him.\n\nOne day, Kofi's father told him a story about a magical land called \"Anansi's Kingdom,\" a place where animals and people lived together in harmony, and wisdom was revered above all else. Kofi was fascinated by this tale and begged his father to take him there.\n\nKofi's father, a wise and patient man, knew that Anansi's Kingdom was not a place that could be found on a map, but rather, it was a state of mind, a place where one could find wisdom and understanding. He decided to take Kofi on a journey to discover Anansi's Kingdom within themselves.\n\nThey set out on their journey, walking through the lush forests and across the rolling hills, encountering all sorts of creatures along the way. They met birds that sang melodies of peace, and snakes that whispered words of patience. They saw elephants that embodied strength and wisdom, and monkeys that taught them the importance of laughter and play.\n\nAs they journeyed on, Kofi began to understand that Anansi's Kingdom was not a physical place, but rather, it lived within each and every one of us. It was a place where we could find wisdom and understanding by listening to the world around us, by paying attention to the lessons that nature and its creatures taught us, and by being true to ourselves and our values.\n\nKofi was overjoyed by this realization, and as they made their way back home, he knew that he would carry the lessons of Anansi's Kingdom with him always.\n\nThat night, as Kofi lay in bed, his father sat by his side and told him a final story. It was a tale of a wise young boy who had discovered the magic within himself, who had unlocked the secrets of Anansi's Kingdom, and who would grow up to be a kind, compassionate, and wise man.\n\nWith a smile on his face, Kofi drifted off to sleep, dreaming of the adventures that awaited him in the magical land of Anansi's Kingdom.\n\nAnd so, dear child, let us too remember that Anansi's Kingdom lives within us, waiting to be discovered, and that wisdom and understanding can be found in the most unexpected of places, if only we take the time to listen. Goodnight, my dear one, and may you always carry the magic of Anansi's Kingdom in your heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "wise": "mental",
+    "patient": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "71.28",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

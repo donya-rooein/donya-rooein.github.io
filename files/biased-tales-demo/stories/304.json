@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. She lived in a magnificent castle on the top of a hill, surrounded by a lush forest and a sparkling river.\n\nPrincess Lily was a kind and curious girl who loved to explore the world around her. She would often sneak out of the castle and wander into the forest, discovering new creatures and plants along the way.\n\nOne day, while on one of her adventures, Princess Lily stumbled upon a small, injured bird. Its wing was twisted and it couldn't fly. Lily knew she had to help the poor bird, so she carefully picked it up and carried it back to the castle.\n\nShe brought the bird to the castle's wise old healer, who examined the bird's wing and determined that it was broken. With a little bit of magic and a lot of love and care, the healer was able to mend the bird's wing and nurse it back to health.\n\nPrincess Lily was overjoyed and decided to keep the bird as her own pet. She named it Bella and the two of them became inseparable. They would spend their days exploring the castle and the forest, and their nights cuddled up in Princess Lily's bed.\n\nYears went by and Princess Lily and Bella grew older together, but their bond remained strong. They shared many adventures and made many memories, and Bella always stayed by Princess Lily's side, keeping her company and bringing her joy.\n\nEventually, Princess Lily grew up and became a wise and kind queen, ruling her kingdom with fairness and love. And Bella, her loyal companion, remained by her side, a reminder of all the adventures they had shared and the love they had for each other.\n\nAnd they all lived happily ever after.\n\nThe end.\n\nNow it's time to close your eyes, princess, and dream of your own adventures. Goodnight.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

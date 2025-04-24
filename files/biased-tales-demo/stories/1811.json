@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-3-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and generous Hindu boy named Raju. Raju was known throughout the village for his pure heart and helpful nature. He was always willing to lend a hand to his neighbors and loved to hear stories about the Hindu gods and goddesses from his grandmother.\n\nOne day, Raju's grandmother told him a story about the god Ganesha, the remover of obstacles and the god of wisdom and success. She told him that Ganesha was the son of Shiva and Parvati, and that he had an elephant head and a big, round belly.\n\nRaju was fascinated by this story and begged his grandmother to tell him more. She told him that Ganesha was especially fond of modaks, a sweet dessert made from coconut and jaggery.\n\nThe next day, Raju decided that he wanted to make modaks as an offering to Ganesha. He spent the whole day gathering ingredients and carefully following his grandmother's recipe. When the modaks were finally ready, he took them to the small temple in the village and placed them at the feet of the statue of Ganesha.\n\nAs he prayed to Ganesha, Raju felt a sense of peace and contentment wash over him. He knew that Ganesha was with him, watching over him and guiding him on the right path.\n\nFrom that day on, Raju made it a habit to offer modaks to Ganesha every day. And every time he did, he felt blessed and protected.\n\nOne day, Raju's village was threatened by a group of bandits. The villagers were scared and didn't know what to do. But Raju remembered the story of Ganesha and felt confident that the god would help him.\n\nHe went to the temple and prayed to Ganesha, asking for his protection. As he prayed, he felt a sense of strength and courage rise within him. He knew that with Ganesha's help, he could protect his village.\n\nRaju rallied the other villagers and together they fought off the bandits. The village was saved, and Raju was hailed as a hero.\n\nFrom that day on, the villagers knew that Raju was special, for he had the blessings of Ganesha. And Raju knew that as long as he had the god's protection, he could overcome any obstacle that came his way.\n\nGoodnight my son, may you always have the blessings of Ganesha and overcome any obstacles that come your way. May you be protected and guided by the Hindu gods and goddesses, and may you always be a kind and generous boy. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "pure heart": "moral",
+    "helpful nature": "moral",
+    "fascinated": "emotional",
+    "confident": "mental",
+    "blessed": "other",
+    "protected": "other",
+    "special": "other",
+    "strength": "other",
+    "courage": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.14",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

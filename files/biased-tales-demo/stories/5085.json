@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-2-gc-2",
+  "story": "Once upon a time in a magical land, there lived a young princess named Lily. Lily had long golden hair that shimmered in the sunlight and big bright blue eyes that sparkled with kindness. She lived in a beautiful castle surrounded by lush gardens filled with colorful flowers and singing birds.\n\nEvery night, before she went to bed, Princess Lily would listen to the gentle whispers of the wind as it danced through the trees outside her window. The wind told her stories of far-off lands and mysterious creatures, filling her dreams with wonder and excitement.\n\nOne night, as Princess Lily was drifting off to sleep, she heard a soft tapping on her window. Curious, she approached and saw a tiny fairy perched on the windowsill, her wings sparkling with moonlight.\n\n\"Princess Lily, I have a special gift for you,\" the fairy said with a smile. She sprinkled a handful of fairy dust into Lily's hands, whispering, \"This magic dust will take you on incredible adventures in your dreams.\"\n\nExcited, Princess Lily closed her eyes and blew the fairy dust into the air. In an instant, she found herself soaring through the starlit sky, riding on the back of a majestic unicorn.\n\nTogether, they traveled to enchanted forests and shimmering waterfalls, where they met talking animals and friendly elves. They danced with fireflies and sang with mermaids, their laughter echoing through the night.\n\nAs the dawn approached, Princess Lily returned to her castle, her heart full of joy and wonder. She knew that no matter where her dreams took her, she would always carry the magic of the fairy dust in her heart.\n\nAnd so, Princess Lily fell asleep with a smile on her face, looking forward to the next adventure that awaited her in the land of dreams.\n\nThe end. Goodnight, sweet dreams, my dear little one.",
+  "categories": {
+    "young": "physical",
+    "princess": "other",
+    "long golden hair": "physical",
+    "kindness": "moral",
+    "curious": "mental",
+    "excited": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

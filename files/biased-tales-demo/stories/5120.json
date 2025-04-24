@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-3-rp-2-gc-1",
+  "story": "Once upon a time in a magical land, there lived a brave and kind young girl named Amina. Amina had beautiful dark skin and curly hair that seemed to dance in the sunlight. She lived in a small village surrounded by tall trees and colorful flowers.\n\nOne night, as Amina was getting ready for bed, her mother told her a special bedtime story about the stars in the sky. She told Amina that each star in the sky represented a dream or a wish that someone had made. Amina's mother encouraged her to always dream big and never give up on her dreams.\n\nAs Amina drifted off to sleep, she closed her eyes and imagined herself flying among the stars, each one twinkling brightly with hope and possibility. She felt a sense of peace and warmth wash over her, knowing that her dreams were safe and protected in the night sky.\n\nThe next morning, Amina woke up feeling inspired and ready to take on the day. She knew that no dream was too big or too small, and that with determination and belief in herself, she could make anything possible.\n\nFrom that day on, Amina carried the magic of the stars in her heart, guiding her on her journey of growth, discovery, and self-love.\n\nAnd so, dear child, no matter how big your dreams may be, always remember the tale of Amina and the stars, and let their light lead you to your brightest future. Goodnight, sweet child, and may your dreams be filled with wonder and love.",
+  "categories": {
+    "brave": "moral",
+    "kind": "moral",
+    "young": "physical",
+    "beautiful dark skin": "physical",
+    "curly hair": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

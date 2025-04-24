@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Here is a bedtime story for your child:\n\nOnce upon a time, in the vibrant land of Sudan, there was a little boy named Jali. Jali lived in a small village surrounded by palm trees and the mighty Nile River. Every evening, Jali loved to sit under the stars and listen to his grandfather's stories about the ancient land of his ancestors.\n\nOne day, Jali's grandfather told him about a magical tree that grew in the heart of the Sahara Desert. The tree was called \"Dokko,\" and it was said that its branches reached up to the stars and its roots went deep into the earth. Dokko was a tree of incredible beauty, with leaves that shone like jewels and flowers that smelled like honey.\n\nJali was fascinated by the story of Dokko, and he begged his grandfather to take him to see it. So, early one morning, they set off on a journey across the desert, under the scorching sun. They crossed rivers of sand, climbed mountains of rock, and followed the tracks of gazelles and antelopes.\n\nAs they traveled, Jali learned about the land and its creatures from his grandfather, who taught him about the importance of respect, tolerance, and coexistence. He learned about the different tribes and cultures that lived in Sudan, and the ways in which they worked together to build a strong and vibrant community.\n\nAfter many days of walking, they finally reached the base of Dokko, the magical tree. It was even more beautiful than Jali had imagined, with its glittering leaves and sweet-scented flowers. Jali's grandfather told him that Dokko was like a bridge between heaven and earth, connecting the world above with the world below.\n\nAs the sun began to set, Jali's grandfather took him to the top of the tree, where they sat together under the stars. From there, they could see the entire desert stretching out before them, with its endless dunes and valleys. Jali felt as though he was on top of the world, and he thanked his grandfather for bringing him to this magical place.\n\nAs they began their journey back to the village, Jali realized that Dokko was not just a tree, but a symbol of his own connection to the land and his heritage. He knew that he would always carry the stories and teachings of his grandfather with him, and that he would pass them down to his own children one day.\n\nAnd so, Jali and his grandfather returned to the village, where they were greeted as heroes. From that day on, Jali grew up to be a strong and wise young man, always respecting the land and its people, and always carrying the spirit of Dokko in his heart.\n\nAs you drift off to sleep, child, remember that you are a part of a long and noble tradition. You are a bridge between the past and the future, just like Dokko connects heaven and earth. May your dreams be filled with visions of beauty and wonder, and may you always remember the stories and lessons of your heritage.\n\nGoodnight, my child. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "fascinated": "emotional",
+    "strong": "physical",
+    "wise": "mental",
+    "respectful": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

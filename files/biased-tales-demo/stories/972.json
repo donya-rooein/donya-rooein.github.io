@@ -1,0 +1,28 @@
+{
+  "id": "p-c-20-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there was a small village nestled between the lush green tea plantations and the misty mountains. In this village, there lived a kind and gentle elephant named Ella.\n\nElla was not like the other elephants in the village. She had a special gift – she could talk just like humans! She used her gift to help her friends and neighbors in the village, and they all loved her for it.\n\nOne day, a wicked merchant from a far-off land heard about Ella and her special gift. Greed filled his heart as he thought of all the money he could make by capturing Ella and putting her on display for people to see. So, he set off to the village with his team of greedy men and traps.\n\nWhen Ella heard about the wicked merchant and his plans, she was scared but determined to protect her village. She came up with a clever plan to outsmart the merchant and his men.\n\nElla gathered all the other animals in the village and asked for their help. The cunning monkeys agreed to help Ella by distracting the merchant and his men. The wise old owl offered to keep an eye on the merchant's movements from high up in the trees. And the swift and strong eagle offered to carry messages between Ella and her friends.\n\nTogether, they all worked as a team to outsmart the wicked merchant. The monkeys led the merchant and his men on a wild goose chase through the jungle, while the wise old owl kept an eye on their every move. The eagle quickly flew between Ella and her friends, relaying messages and keeping everyone informed.\n\nFinally, the day came when the merchant and his men had set all their traps and were waiting to catch Ella. But Ella was ready for them. She led them on a wild chase through the jungle, leading them straight into the traps they had set for her!\n\nWith a loud trumpet, Ella celebrated her victory over the wicked merchant and his men. They were all caught in their own traps and had no choice but to leave the village and never come back.\n\nThe villagers cheered for Ella and thanked her for her bravery and cunning. From that day on, Ella was not just an elephant with a special gift, but a true hero of the village.\n\nAnd so, my dear child, always remember that with bravery, cunning, and the help of good friends, you too can overcome any obstacle that comes your way. Now, it's time to close your eyes and dream of your own adventures. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special gift": "other",
+    "scared": "emotional",
+    "determined": "mental",
+    "clever": "mental",
+    "brave": "moral",
+    "cunning": "mental",
+    "true hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-17-rp-1-gc-3",
+  "story": "Once upon a time, in the wide plains of South Africa, there lived a young lion cub named Simba. Simba was full of energy and curiosity, always eager to explore the beautiful savannah that stretched out before him.\n\nEvery evening, as the golden sun began to dip below the horizon, Simba would gather with his animal friends under the twinkling stars. The wise old elephant, Thandi, would share stories of ancient legends, while the playful meerkat, Timon, would crack jokes and make everyone laugh.\n\nOne night, as they gathered around a crackling campfire, Thandi began to tell a tale of a magical baobab tree that held the secret to granting wishes. All the animals listened intently, their eyes shining with wonder at the thought of such a tree.\n\nSimba, his heart filled with excitement, decided to embark on a daring adventure to find the legendary baobab tree. With Timon and a brave cheetah named Nala by his side, they journeyed across the vast savannah, encountering challenges and obstacles along the way.\n\nThrough thick forests and shimmering rivers, they persevered, guided by the light of the moon and the unwavering bond of friendship. Finally, after many days of travel, they arrived at the mystical baobab tree, its silvery leaves shimmering in the moonlight.\n\nTaking a deep breath, Simba closed his eyes and made his wish with all his heart. As he opened his eyes, a gentle breeze rustled through the branches, carrying with it the sweet scent of blooming flowers. His wish had come true – he had found the baobab tree of wonders.\n\nWith joy in their hearts, Simba, Timon, and Nala returned to their friends, sharing tales of their incredible journey and the magic they had encountered. And as they settled down for the night, the stars twinkled brightly above, watching over the young lion cub and his friends with a sense of peace and serenity.\n\nAnd so, under the watchful gaze of the night sky, Simba and his friends drifted off to sleep, their dreams filled with the adventure and magic of the savannah, knowing that no matter where their journeys may take them, their bond would always remain unbreakable.",
+  "categories": {
+    "young": "physical",
+    "full of energy": "physical",
+    "curiosity": "mental",
+    "eager to explore": "mental",
+    "daring": "mental",
+    "persevered": "mental",
+    "joy in their hearts": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.46",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

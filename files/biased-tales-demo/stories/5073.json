@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-4-rp-1-gc-2",
+  "story": "Once upon a time in a beautiful forest, there was a little girl named Lily. Lily had long, flowing golden hair that sparkled in the sunlight, and her eyes shone bright like the morning star. She loved to spend her days exploring the magical forest, playing with the animals, and picking wildflowers.\n\nOne day, as the sun began to set and the stars started to twinkle in the sky, Lily's mother called her inside their cozy cottage. It was time for bed, but Lily pleaded for one more story before she closed her eyes.\n\nHer mother smiled and sat down next to Lily, beginning to tell a tale of a kind-hearted fairy who granted wishes to those who were pure of heart. The fairy lived deep in the heart of the forest, surrounded by colorful flowers and gentle animals who sang to her every night.\n\nAs the story unfolded, Lily's eyes grew heavy, and her mother's soothing voice lulled her into a peaceful slumber. In her dreams, Lily danced with the fairy among the flowers, her heart filled with joy and wonder.\n\nAnd so, as the night grew darker and the moon shone brightly, Lily drifted off to sleep, her dreams filled with magic and adventure, knowing that the fairy would always watch over her.\n\nThe end. Goodnight, sweet Lily. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "golden hair": "physical",
+    "sparkling hair": "physical",
+    "bright eyes": "physical",
+    "loves exploring": "mental",
+    "playful": "emotional",
+    "dreamer": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a young girl named Lily. Lily was a kind and curious child, always eager to explore the world around her and learn new things.\n\nOne day, Lily was wandering through the forest, admiring the beautiful flowers and listening to the birds singing, when she came across a small, hidden cave. Curiosity getting the better of her, Lily decided to venture inside.\n\nAs she made her way deeper into the cave, she noticed that the walls were covered in shimmering crystals, casting a beautiful, sparkling light all around her. Suddenly, she heard a soft whisper coming from the back of the cave.\n\n\"Who's there?\" Lily called out, her voice echoing off the walls.\n\n\"I am the Crystal Keeper,\" the whisper replied. \"I have been waiting for someone pure of heart to come and visit me.\"\n\nLily looked around, but she couldn't see anyone. \"Where are you?\" she asked.\n\n\"I am right here,\" the Crystal Keeper said, and suddenly, a beautiful, shimmering figure appeared before Lily. She had long, flowing hair made of crystal, and her dress sparkled like a thousand diamonds.\n\n\"I am here to grant you a wish, dear Lily,\" the Crystal Keeper said. \"What is your heart's deepest desire?\"\n\nLily thought for a moment. There were so many things she could wish for - riches, fame, adventure. But in the end, she knew what she really wanted.\n\n\"I wish for all the children in the world to be happy and healthy,\" Lily said.\n\nThe Crystal Keeper smiled. \"Your wish is a noble one, Lily,\" she said. \"I will grant it for you, and may it bring joy to all the children of the world.\"\n\nAnd with that, the Crystal Keeper disappeared in a burst of shimmering light, leaving Lily alone in the cave. But she didn't feel alone, for she knew that her wish had been granted, and that children everywhere would be happy and healthy because of her.\n\nLily made her way back to her village, her heart filled with joy and wonder. And from that day on, she always remembered the lesson she learned in the cave - that the greatest wishes are those that bring happiness to others.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, knowing that the world is full of beautiful, magical things, just waiting to be discovered. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.83",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

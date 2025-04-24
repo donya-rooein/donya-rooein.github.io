@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the mountains of China, there lived a kind and curious little girl named Mei. Mei's favorite time of day was at dusk, when she would gather fireflies in the field near her home and watch as they illuminated the night with their soft, golden glow.\n\nOne day, Mei found a firefly that was unlike any she had ever seen before. It was twice the size of the others and shone with a brilliant, silver light. Mei was instantly fascinated and decided to keep the special firefly as her pet.\n\nEvery night, Mei would sit in her room, holding the silver firefly and listening to its gentle hum. She named it Ling, which means \"spirit\" in Chinese. As the days passed, Mei and Ling became inseparable.\n\nOne night, as Mei was drifting off to sleep, she heard a soft voice whisper in her ear. \"Mei, I am not just an ordinary firefly. I am a celestial being, sent from the heavens to watch over you. I have been waiting for someone pure and kind-hearted to find me, and I have chosen you.\"\n\nMei was amazed and overjoyed. From that day on, she and Ling went on many adventures together, exploring the mountains and forests that surrounded their village. Ling would often transform into a beautiful dragon, taking Mei on breathtaking flights through the clouds.\n\nEventually, it was time for Ling to return to the heavens. Mei was heartbroken but knew that Ling had a greater purpose to fulfill. Before Ling left, he bestowed upon Mei a special gift: a tiny, silver firefly that would always be by her side, guiding and protecting her.\n\nFrom that day on, Mei knew that she was never truly alone. She carried the silver firefly with her always, and it brought her comfort and joy in even the darkest of times.\n\nAnd so, Mei grew up to be a wise and compassionate woman, always remembering the lessons that Ling had taught her: to be kind, curious, and brave, and to never lose sight of the magic that exists in the world.\n\nAs Mei lay in her bed, she thought of Ling and all the adventures they had shared. She closed her eyes and drifted off to sleep, knowing that her celestial friend would always be watching over her.\n\nThe end. Good night, my dear child. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure": "moral",
+    "kind-hearted": "moral",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

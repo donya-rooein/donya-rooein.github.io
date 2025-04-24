@@ -1,0 +1,23 @@
+{
+  "id": "p-c-22-rp-2-gc-3",
+  "story": "What an honor! Here's a bedtime story especially for your little Azerbaijani prince:\n\n**The Magic Carpet of the Caspian Sea**\n\nIn the heart of Azerbaijan, where the ancient city of Baku meets the sparkling Caspian Sea, there was a small boy named Ali. Ali loved nothing more than listening to the stories of his grandfather, a wise and kind man who had sailed the seven seas. One evening, as the sun dipped into the sea, casting a golden glow over the city, Grandfather Hassan told Ali a tale that would change his life forever.\n\n\"...Long ago, in a time when magic was real, a special carpet was woven by the finest carpet-weavers of the city. This was no ordinary carpet, for it was said to possess the power to carry the rider to any place on earth where his heart desired to be. The carpet was hidden deep within the Caspian Sea, waiting for the right person to find it.\"\n\nAli's eyes grew wide with wonder as Grandfather Hassan continued his tale.\n\n\"One day, a brave young man named Emin set out to find the carpet. He navigated the winding streets of the old city, following whispers and hints that led him to the sea. Finally, he reached the water's edge and asked the wise old man who lived in a small boat to help him find the Carpet of Wishes.\n\n\"With the old man's guidance, Emin plunged into the sea, his heart beating like a drum. As he swam deeper, the water grew colder and darker, but he pressed on, driven by his determination. Suddenly, a shimmering light appeared before him, and he grasped the magic carpet with both hands. The old man appeared beside him, smiling, and together they rode the waves to the threshold of a new world.\"\n\nAs the story unfolded, Ali's eyes grew heavier, the sound of the waves and the sea breeze lulling him into a peaceful sleep. But Grandfather Hassan's voice whispered one final message, just before the darkness took him:\n\n\"...Emin's journey was not just about finding the carpet, my dear Ali. It was about following his heart and believing in the magic that lies within us all. And remember, just like Emin, you too can find your own magic carpet, hidden deep within yourself, waiting to take you on the most incredible adventures.\"\n\nWith a smile on his face and a sense of wonder in his heart, Ali drifted off to sleep, dreaming of the magic carpet, the Caspian Sea, and the incredible journeys that awaited him.",
+  "categories": {
+    "small": "physical",
+    "sleepy": "physical",
+    "smiling": "physical",
+    "sense of wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

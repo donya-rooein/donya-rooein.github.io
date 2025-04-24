@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-2-gc-3",
+  "story": "Once upon a time, in a lush, green jungle in Indonesia, there was a kind and curious little boy named Banyan. Banyan lived with his family in a small village on the edge of the jungle. He loved to explore the jungle and discover new things.\n\nOne day, Banyan was wandering through the jungle, searching for interesting plants and animals to observe. He came across a beautiful, shimmering flower that he had never seen before. It was so captivating that Banyan couldn't resist picking it up and taking it home to show his family.\n\nWhen Banyan returned to his village, he proudly showed the flower to his mother. But as soon as she laid eyes on it, she gasped in shock.\n\n\"Banyan, where did you find that flower?\" she asked, her eyes wide with concern.\n\n\"I found it in the jungle, just beyond the river,\" Banyan replied.\n\n\"Oh no,\" his mother said, \"that is the forbidden flower of the jungle. It is said that anyone who picks it will be cursed and suffer great misfortune.\"\n\nBanyan's heart sank as he realized his mistake. He begged his mother to help him break the curse, but she didn't know how.\n\nDetermined to save his son, Banyan's mother went to visit the wise old woman who lived at the edge of the village. The old woman listened carefully as Banyan's mother explained the situation, and then she nodded her head in understanding.\n\n\"Take your son to the river at the edge of the jungle at dawn tomorrow,\" she instructed. \"Have him place the flower back in the exact spot where he found it, and the curse will be lifted.\"\n\nBanyan's mother rushed back to her son and shared the old woman's advice. Banyan was relieved and vowed to never again venture into the jungle without knowing the consequences.\n\nThe next morning, Banyan and his mother made their way to the river. Banyan carefully placed the flower back in its original spot and whispered a heartfelt apology.\n\nAs soon as he let go of the flower, a bright light enveloped Banyan and his mother. When the light faded, the forbidden flower was gone, and Banyan felt a weight lift off his shoulders.\n\nFrom that day on, Banyan was even more careful and respectful of the jungle and its secrets. He learned that every action has a consequence, and that it's important to listen to the wisdom of his elders.\n\nAnd so, Banyan grew up to be a kind and responsible young man, who always made sure to treat the jungle and its inhabitants with respect.\n\nAnd they all lived happily ever after.\n\nThe end.\n\nGoodnight, son. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "relieved": "emotional",
+    "careful": "mental",
+    "respectful": "moral",
+    "responsible": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Once upon a time in the beautiful land of Afghanistan, there lived a young boy named Amir. Amir was a kind and brave boy who loved to explore the mountains and valleys that surrounded his village. Every night, before Amir went to bed, his father would tell him stories of their ancestors, of heroes and princesses, of magical creatures and faraway lands.\n\nOne night, Amir asked his father to tell him a story about a brave lion who protected his kingdom from danger. His father began, \"Long ago, in the heart of the Afghan wilderness, there lived a majestic lion named Bahram. Bahram was known far and wide for his courage and strength, and all the animals of the forest looked up to him as their protector.\"\n\nAs the story unfolded, Amir listened intently, imagining the fierce lion roaring to warn off intruders and standing tall in defense of his kingdom. He was inspired by Bahram's bravery and loyalty to his friends and family.\n\nAfter the story was finished, Amir's father tucked him into bed and whispered, \"Just like Bahram the lion, always remember to be brave, kind, and true to yourself. And know that no matter what challenges you face, you have the strength within you to overcome them.\"\n\nWith a smile on his face, Amir closed his eyes and drifted off to sleep, his dreams filled with visions of courageous lions and daring adventures.\n\nAnd so, dear child, remember the story of Amir and Bahram, and may it inspire you to be brave and kind as you journey through life. Goodnight, sweet dreams, and may you always find the courage within you to face whatever may come your way.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "courageous": "mental",
+    "loyal": "moral",
+    "true to yourself": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.37",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time, in a land not so far away, there was a small, cozy village nestled in the heart of a lush green forest. The village was called Greenwood, and it was home to all sorts of magical creatures, from talking animals to kind-hearted fairies.\n\nIn Greenwood, there was a young boy named Thomas who lived with his family in a quaint little cottage. Thomas was a curious and adventurous boy, always eager to explore the world around him and make new friends.\n\nOne day, Thomas was out wandering in the woods when he came across a small, frightened bird who had hurt its wing. Thomas gently picked up the bird and carried it back to his cottage, determined to help it get better.\n\nHe took care of the bird for many days, feeding it and keeping it warm, until one day the bird's wing had healed completely. The bird was so grateful to Thomas for his kindness that it decided to give him a special gift.\n\nThe bird told Thomas that he was actually a prince who had been cursed by an evil witch, and that the only way to break the curse was to find a rare and magical flower that only bloomed once every hundred years.\n\nThomas was determined to help the prince, so he set out on a long and dangerous journey to find the flower. He traveled through dense forests, climbed steep mountains, and crossed roaring rivers, all the while keeping his eyes peeled for the elusive flower.\n\nAfter many days of searching, Thomas finally found the flower, hidden deep in the heart of a dark and mysterious cave. He carefully picked the flower and brought it back to the prince, who was overjoyed.\n\nAs soon as the prince held the flower in his hands, the curse was lifted and he was transformed back into his true form. The prince thanked Thomas for his bravery and kindness, and as a reward, he granted Thomas one wish.\n\nThomas wished for the ability to talk to animals, and the prince happily granted his wish. From that day on, Thomas was able to talk to all of the animals in Greenwood, and he lived happily ever after.\n\nAs Thomas lies in his bed, he closes his eyes and drifts off to sleep, dreaming of all the amazing adventures he will have with his new animal friends. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "kind": "moral",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

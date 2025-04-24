@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in a small pueblo in Mexico, there was a little boy named Miguel who lived with his family. Miguel was a kind and curious boy who loved to explore the world around him. He would often wander through the hills and fields that surrounded his pueblo, discovering new things and making friends with the creatures he met along the way.\n\nOne day, while Miguel was out exploring, he came across a beautiful flower that seemed to be glowing with a soft, golden light. Miguel had never seen anything like it before, and he was drawn to its beauty. As he reached out to touch the flower, he heard a soft voice whisper, \"Thank you for finding me, Miguel. I have been waiting for someone pure of heart to discover me.\"\n\nMiguel was startled, but he felt a warmth in his heart and knew that he could trust the voice. \"Who are you?\" he asked.\n\n\"I am a fairy,\" the voice replied. \"And I have a special gift for you, Miguel. But first, I must warn you of a danger that threatens your pueblo. A wicked witch has cast a spell on the land, and soon the people will be in grave danger.\"\n\nMiguel's heart filled with fear at the thought of his family and friends being in danger. \"What can I do to help?\" he asked.\n\nThe fairy smiled. \"You have a pure heart, Miguel, and that is the only thing that can break the witch's spell. But first, you must prove your courage and strength. I will give you a magic seed, and you must plant it in the ground and care for it until it grows into a mighty tree. When the tree is full-grown, it will provide a shield to protect your pueblo from the witch's wrath.\"\n\nMiguel eagerly accepted the seed and rushed home to plant it. He watered it and cared for it every day, and soon it began to grow. The tree grew quickly, and before long it was tall and strong, with branches that stretched out to protect the pueblo.\n\nThe wicked witch soon learned of Miguel's tree, and she was furious. She flew to the pueblo on her broomstick, determined to destroy the tree and punish Miguel for standing in her way. But the tree was too strong, and the witch's powers had no effect on it.\n\nMiguel watched as the witch flew away, defeated. He knew that the people of his pueblo were safe, thanks to the fairy's gift and his own bravery and hard work. From that day on, Miguel was known as the bravest boy in the pueblo, and he lived a long and happy life, always remembering the lessons he had learned about the power of a pure heart.\n\nAnd with that, Miguel, it is time for you to close your eyes and drift off to sleep. Sweet dreams, and may you always have the courage to face the challenges that come your way.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "courageous": "mental",
+    "brave": "moral",
+    "hardworking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "88.97",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

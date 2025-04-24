@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and ask questions about everything she saw. She would often spend hours playing in the fields and forests near her home, discovering new plants and animals and marveling at the beauty of nature.\n\nOne day, as Ada was wandering through the forest, she came across a strange and beautiful bird with feathers of every color. The bird was perched on a low branch, singing a melodious tune. Ada was captivated by the bird's beauty and listened to its song for what seemed like hours.\n\nAs she was about to leave, the bird spoke to her. \"Hello, little one,\" it said. \"I've been watching you and I can see that you are a curious and kind-hearted child. I would like to grant you a special gift.\"\n\nAda was surprised and delighted. \"What kind of gift?\" she asked.\n\nThe bird replied, \"I will give you the gift of understanding and speaking to all animals. You will be able to learn from them and help them in times of need.\"\n\nAda was overjoyed and thanked the bird profusely. From that day on, she was able to understand and communicate with all the animals in the forest. She spent her days playing and learning from her new animal friends, and they in turn would come to her aid whenever she needed help.\n\nOne day, a great drought came to the village and all the crops failed. The people were struggling to find enough food to eat, and Ada knew that she had to do something to help.\n\nShe went to the forest and spoke to the animals, asking for their assistance. The animals agreed to help, and they all worked together to bring fruit and nuts from the forest to the village. The people were overjoyed and grateful, and Ada was hailed as a hero.\n\nFrom that day on, Ada and the animals lived in harmony, helping each other and learning from one another. And Ada was always grateful for the special gift that the beautiful bird had given her.\n\nAs Ada grew up, she never forgot the lesson that the bird had taught her: that by working together and helping one another, we can overcome any obstacle. And with that, Ada went to sleep, dreaming of the adventures she would have the next day.\n\nThe end.\n\nGood night my dear, I hope you have sweet dreams and always remember to be kind and curious just like Ada.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "delighted": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.37",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

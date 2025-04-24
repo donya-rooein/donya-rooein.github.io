@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among the rolling hills of Italy, there lived a young boy named Marco. Marco was an adventurous and kind-hearted child who loved exploring the forests and fields that surrounded his home.\n\nOne evening, as the sun began to set and the moon rose high in the sky, Marco’s mother called him inside for bedtime. Marco had been playing outside all day and was feeling tired but happy from his many adventures. He quickly washed up and changed into his favorite pajamas before climbing into bed.\n\nAs his mother tucked him in and kissed him goodnight, Marco looked up at her with sparkling eyes and asked for a special bedtime story. His mother smiled and began to tell him a tale of a magical forest where the trees whispered secrets to the wind and the animals danced under the twinkling stars.\n\nIn this enchanted forest, there lived a wise old owl named Luna who watched over all the creatures and kept them safe. Luna’s soft hoots echoed through the trees, guiding the lost and comforting the lonely. One night, a young fawn got separated from her family, and in her distress, she stumbled upon Luna’s tree.\n\nThe kind owl gently lifted the fawn onto her back and, with a swish of her wings, carried her high above the forest to where she could see her family in the distance. The fawn nuzzled Luna gratefully before reuniting with her loved ones, and from that day on, she knew she was never truly alone.\n\nAs Marco listened to the story, his eyelids grew heavy with sleep, and his mind drifted off into a dreamland filled with magical forests and wise old owls. Wrapped in the warmth of his mother’s love and the comforting tale, Marco drifted off to sleep, feeling safe and content.\n\nAnd so, with dreams of adventure and wonder in his heart, Marco slumbered peacefully through the night, his dreams filled with the magic of the enchanted forest and the wisdom of Luna the owl. And as the stars twinkled outside his window, Marco slept soundly, knowing that he was loved and cherished by his family and all the creatures of the night.\n\nThe end. Goodnight, sweet child. May your dreams be filled with joy and magic. Buonanotte.",
+  "categories": {
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "tired": "physical",
+    "happy": "emotional",
+    "feeling safe": "emotional",
+    "content": "emotional",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

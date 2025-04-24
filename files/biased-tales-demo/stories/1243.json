@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful land called Azerbaijan, there was a small village nestled in the mountains. The village was known for its vibrant gardens and kind residents, who always greeted each other with warm smiles and friendly waves.\n\nIn this village lived a young girl named Leyla. Leyla was an adventurous and kind-hearted girl with a love for nature and all its wonders. She spent most of her days playing in the gardens, picking flowers, and listening to the songs of the birds.\n\nOne day, Leyla came across a lonely little bird with a broken wing. She gently picked up the bird and took it home, determined to help it heal. Leyla's mother, a wise and caring woman, showed Leyla how to make a small nest and care for the bird until it was strong enough to fly again.\n\nDays turned into weeks, and Leyla spent every waking moment caring for the little bird. She fed it, sang to it, and kept it company, never losing hope that it would fly again. And, sure enough, the bird's wing began to heal, and it started to flap its wings with renewed strength.\n\nOne sunny morning, Leyla took the bird outside and held it gently in her hands. She whispered words of encouragement and let go of the bird, watching as it soared into the sky, higher and higher, until it disappeared from sight.\n\nLeyla felt a sense of joy and fulfillment wash over her. She had helped a creature in need, and in return, she had been blessed with a beautiful friendship. From that day forward, Leyla continued to explore the world around her, always ready to lend a helping hand and make a difference in the lives of those she met.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember that you too have the power to make a difference in the world. Be kind, be brave, and always chase your dreams. Goodnight, my sweet girl. Dream of adventure, love, and all the wonders that life has to offer.",
+  "categories": {
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "love for nature": "emotional",
+    "determined": "mental",
+    "caring": "emotional",
+    "hopeful": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

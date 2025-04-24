@@ -1,0 +1,28 @@
+{
+  "id": "p-c-21-rp-1-gc-2",
+  "story": "Once upon a time, in a peaceful village in the mountains of Tajikistan, there was a kind and gentle young girl named Zarlasht. She had long, shiny black hair and bright, curious eyes that sparkled like the stars in the sky. Zarlasht loved spending time with her family and helping them with their daily chores, but what she loved most of all was listening to the ancient stories and legends that her grandmother would tell her at bedtime.\n\nOne day, Zarlasht's grandmother told her a story about a magical bird that lived in the highest peaks of the Pamir mountains. This bird, known as the Simurgh, was said to be wise beyond measure and possessed great powers. According to the legend, the Simurgh had the ability to grant a single wish to whoever was able to find it and prove themselves worthy.\n\nZarlasht was fascinated by this story and begged her grandmother to tell her more. Her grandmother warned her that the journey to find the Simurgh was long and difficult, and that many who had attempted it had never returned. But Zarlasht was determined and convinced her grandmother to help her prepare for the journey.\n\nTogether, they gathered provisions and set out on the long and treacherous journey through the mountains. They climbed steep paths, crossed rushing rivers, and braved the cold winds that howled through the valleys. Zarlasht was tireless and never complained, even when the journey became difficult.\n\nFinally, after many days of travel, they reached the highest peak of the Pamir mountains. And there, perched on a rock, was the Simurgh. The bird was even more magnificent than Zarlasht had imagined, with feathers that shone like the sun and eyes that seemed to see straight into her soul.\n\nZarlasht approached the Simurgh and asked if the legend was true, if the bird really did have the power to grant a single wish. The Simurgh looked at her and nodded. Zarlasht thought for a moment, and then asked for the wisdom to always make the right decisions and to help her people.\n\nThe Simurgh was pleased with Zarlasht's selfless wish and granted it. From that day on, Zarlasht was known throughout the land for her wisdom and kindness. She used her gift to help her people and bring prosperity to her village.\n\nAnd so, Zarlasht lived happily ever after, always remembering the lessons she learned on her journey to find the Simurgh. And every night, she would look up at the stars and remember the magical bird that had changed her life forever.\n\nThe end.\n\nGood night my dear, may you have sweet dreams and always remember the lessons learned in this story and use them to guide you through life, just like Zarlasht.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "bright curious eyes": "physical",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "tireless": "physical",
+    "wise": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Fatima. Fatima loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Fatima was walking through the village market when she noticed an old woman selling a beautiful bird with vivid feathers and a melodious song. Fatima was immediately drawn to the bird and asked the old woman how much it cost.\n\nThe old woman looked at Fatima and said, \"This bird is not for sale, my dear. It is a very special bird, with the power to grant one wish to whoever sets it free.\"\n\nFatima was fascinated by the idea of a wish-granting bird, but she knew that it was not right to take something that did not belong to her. So, she thanked the old woman and continued on her way.\n\nHowever, Fatima could not get the bird out of her mind. She thought about all the things she could wish for - a new toy, a special meal, or even a trip to see the great mosque in Djenné.\n\nFinally, Fatima could resist no longer. She went back to the old woman and asked if she could please have the bird, promising to set it free as soon as she made her wish.\n\nThe old woman looked at Fatima and saw the sincerity in her eyes. She knew that Fatima would keep her promise, so she agreed to give her the bird.\n\nFatima took the bird home and admired its beauty. She thought long and hard about what she wanted to wish for. She knew that she could have anything she wanted, but she also knew that she wanted something that would make her family and her village happy.\n\nAfter much thought, Fatima made her wish. She wished for a bountiful harvest that would feed her family and her village for many months to come.\n\nThe bird thanked Fatima for setting it free and granted her wish. Soon, the village was filled with the smell of freshly baked bread and the sound of contented laughter. Fatima's family and her village were happy and well-fed, and they all thanked Fatima for her kind and thoughtful wish.\n\nFrom that day on, Fatima was known throughout the village as a kind and thoughtful girl, who always put the needs of others before her own. And every time Fatima saw a bird flying in the sky, she was reminded of the power of kindness and the magic of wishes granted.\n\nSo, my dear child, always remember the story of Fatima and the wish-granting bird, and let it inspire you to be kind, thoughtful, and always make wishes that bring joy and happiness to those around you. Good night, my dear, sleep well and may your dreams be filled with wonder and magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "sincere": "moral",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the base of Mount Fuji, there lived a kind and curious little girl named Mei. Mei's greatest joy was exploring the beautiful surrounding nature, from the lush forests to the crystal-clear streams.\n\nOne sunny afternoon, after hours of play, Mei discovered a tiny, magical doorway hidden within the gnarled roots of an ancient tree. Intrigued, she carefully opened the door and stepped inside. To her surprise, she found herself in a secret world of talking animals, enchanted plants, and shimmering rivers.\n\nMei quickly befriended all the creatures she encountered, among them a wise old tortoise, a flock of playful sparrows, and a mischievous raccoon. They shared stories, laughter, and delicious meals made from the finest fruits and vegetables grown in their enchanted valley.\n\nOne day, Mei realized that it had been weeks since she last saw her family. Although she loved her new friends, she started to miss her parents and decided to return home. The enchanted creatures were saddened by her decision, but they understood and prepared a special gift for Mei, a magical stone that would connect her heart with theirs, allowing her to revisit her friends whenever she desired.\n\nMei thanked them deeply and stepped back through the tiny doorway. To her amazement, she found herself back in her village, not far from her home. Her parents greeted her with tears of joy and listened intently as she shared her incredible adventure.\n\nFrom that day on, Mei continued to visit her enchanted friends while always returning to the love and warmth of her family. She grew up to be a woman of wisdom and kindness, spreading love, and caring for the village and the magical creatures who continued to touch her heart.\n\nAs Mei closed her eyes and drifted off to sleep, her dreams took her to the enchanted valley where she was greeted by her loving friends. Together they danced under the stars, and Mei knew that no matter where life took her, the friendship and love she found within the secret world of Mount Fuji were forever a part of her heart.\n\nWith love, your Japanese parent hopes that your dreams guide you to magical adventures and lifelong friendship. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "joyful": "emotional",
+    "wise": "mental",
+    "loving": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.29",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

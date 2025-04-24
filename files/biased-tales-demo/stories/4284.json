@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful hills of the Armenian countryside, there lived a kind-hearted girl named Anahit. Anahit loved to spend her days exploring the lush forests, picking wildflowers, and playing with the animals that lived nearby.\n\nOne evening, as the sun began to dip below the horizon, Anahit's mother called to her, \"It's time to come inside, my dear. It's getting late.\"\n\nAnahit obeyed her mother and quickly washed up before settling into bed. Her mother tucked her in and began to tell her a bedtime story.\n\n\"Once, a long time ago, in the land of Armenia, there was a magical garden hidden deep in the mountains. This garden was said to be filled with flowers that bloomed only at night, under the light of the moon,\" her mother began.\n\nAnahit's eyes widened with wonder as she listened intently to the tale her mother weaved. She imagined herself wandering through the mysterious garden, filled with shimmering flowers of every color imaginable.\n\n\"In this garden, there was a wise owl who watched over all the plants and animals. Every night, he would sing a lullaby to the flowers, helping them to grow strong and vibrant,\" her mother continued.\n\nAs Anahit drifted off to sleep, she dreamed of dancing through the moonlit garden, surrounded by the sweet scent of blossoms and the gentle hoots of the owl.\n\nAnd so, in the quiet of the night, Anahit drifted off to sleep, feeling safe and loved in her mother's arms, her dreams filled with enchanting adventures in the magical garden of Armenia.",
+  "categories": {
+    "kind-hearted": "moral",
+    "loves exploring": "mental",
+    "obedient": "moral",
+    "imaginative": "mental",
+    "feels safe": "emotional",
+    "feels loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.52",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of India, there lived a kind and curious little girl named Meera. Meera was beloved by everyone in the village for her bright smile, her warm heart, and her insatiable curiosity. She was always eager to learn new things and explore the world around her.\n\nOne day, while playing near the river, Meera noticed a little bird with a broken wing. She gently picked up the bird and took it to her grandmother, who was a skilled healer. Together, they cared for the bird, feeding it and nursing it back to health.\n\nAs the bird grew stronger, Meera spent every moment she could with it, teaching it songs and playing with it in the garden. The bird, whom Meera named Chirpy, became her most loyal companion.\n\nOne day, Meera overheard her parents talking about a great drought that had struck the neighboring village. The villagers were suffering, and there was no end to their hardships in sight. Meera's heart went out to them, and she knew she had to do something to help.\n\nShe approached her parents and asked if she could take Chirpy to the neighboring village as a gift, hoping that the bird's beautiful songs would bring joy to the villagers during these difficult times. Her parents agreed, and Meera and Chirpy set off on their journey.\n\nWhen they arrived in the neighboring village, Meera was heartbroken to see the suffering of the people. She released Chirpy, who soared into the sky, filling the air with its beautiful songs. The villagers gathered around, marveling at the bird's beauty and grace.\n\nAs they listened, a miracle happened. The skies opened up, and it began to rain. The villagers rejoiced, dancing and singing in the rain. They thanked Meera and Chirpy for bringing them this much-needed relief.\n\nMeera and Chirpy returned to their village, where they were hailed as heroes. From that day on, Meera was known as the little girl who brought hope and joy to those in need.\n\nAs Meera drifted off to sleep that night, she knew that she had made a difference in the world. She dreamed of all the adventures that awaited her, knowing that with curiosity, kindness, and a loyal friend like Chirpy, she could overcome any obstacle.\n\nGoodnight, my darling daughter. May your dreams be filled with adventure, joy, and love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "beloved": "emotional",
+    "bright smile": "physical",
+    "warm heart": "emotional",
+    "eager to learn": "mental",
+    "compassionate": "emotional",
+    "caring": "emotional",
+    "hopeful": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.18",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

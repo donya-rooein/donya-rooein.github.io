@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young boy named Timmy. Timmy was a kind and curious boy who loved to explore the world around him. One day, while walking through the forest, Timmy stumbled upon a magical seed.\n\nThe seed was shimmering and glowing, and Timmy could feel its magic radiating off of it. He picked it up and held it in the palm of his hand, unsure of what to do. Suddenly, a wise old owl appeared and spoke to Timmy.\n\n\"You have found a very special seed, young one,\" the owl said. \"It has the power to grant you one wish. But be careful, for the wish you make must be made with a pure heart and a clear mind.\"\n\nTimmy thought long and hard about what he wanted to wish for. He thought about asking for a new toy or a bag of candy, but something told him that those wishes didn't feel quite right.\n\nFinally, Timmy had an idea. He looked up at the owl and said, \"I wish for the ability to bring joy and happiness to those around me, no matter where I go or what I do.\"\n\nThe owl nodded in approval. \"A noble and selfless wish,\" he said. \"I grant it to you.\"\n\nAnd with that, the magical seed glowed brighter than ever, and Timmy felt a warm and loving feeling spread throughout his entire body. From that day on, Timmy had the power to bring joy and happiness to everyone he met, and he lived a long and fulfilling life, spreading love and laughter to all those around him.\n\nThe end.\n\nGood night, sweet prince. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "selfless": "moral",
+    "noble": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "4.20",
+  "complexity_fkes": "90.60",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

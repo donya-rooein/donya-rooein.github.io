@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful mountains of Tajikistan, there was a small village called Shahr-e-Ziba, which means \"beautiful city\" in Persian. The villagers were simple and kind, living in harmony with nature. They grew their own food, tended to their animals, and helped each other in times of need.\n\nIn this village lived a young girl named Zarina. She was a curious and adventurous girl who loved exploring the mountain trails, discovering new waterfalls, and listening to the stories of her ancestors. Her favorite story was about the majestic Simurgh, a mythical bird with the body of a lion and the head of a human. The Simurgh, as the story went, was a symbol of wisdom and kindness, and it was believed to live high up in the mountains, beyond the clouds.\n\nOne sunny day, as Zarina was wandering near a waterfall, she met an old man who introduced himself as Mullah Nasruddin. The old man was a well-known storyteller and a wise man, and Zarina was instantly drawn to him.\n\n\"Sit down, young one,\" the Mullah said. \"I have a story to tell you, but only if you promise to remember and share it with others.\"\n\nZarina nodded eagerly, her eyes wide open with excitement, and the Mullah began:\n\n\"One day, a long, long time ago, a small bird decided to fly to the highest point of the world, where the air was thin and the wind relentless. Her wings were small, and the journey was long and arduous, but she had heard that a precious gem lay there, and she was determined to make it her own.\n\nAs she flew higher and higher, her wings grew tired, the wind grew stronger, and she began to feel discouraged. She longed to rest, but knew she must keep going. It was then that she heard the sweetest song she had ever heard, and she saw a magnificent bird, the Simurgh, singing the most melodious tune.\n\nThe little bird was in awe of the Simurgh's magnificent beauty and grace, and the Simurgh, noticing the little one's struggle, invited her to rest. The Simurgh listened to the little bird's story and admired her determination and willpower. She thanked the little bird for her courage and told her to close her eyes and sleep, promising to sing her a lullaby that would restore her strength.\n\nSo, the little bird closed her eyes and listened to the Simurgh's enchanting song. When she awoke, she realized that the gem she sought was not a material object, but a gift within herself: wisdom and kindness, the same virtues the Simurgh embodied.\n\nWith a heart filled with gratitude, the little bird returned to her home, carrying the lesson she learned, and shared it with others. And, from that moment on, her life and the lives of her community were forever changed.\"\n\nHearing this story, Zarina felt a sense of peace and contentment. She looked up at Mullah Nasruddin and smiled. \"I will remember your story, and I will share it with others. Thank you, Mullah.\"\n\n\"You're welcome, Zarina,\" he replied with a warm smile. \"Remember, the greatest gems are those that reside within us, and by sharing our stories, we can cultivate wisdom, foster kindness, and inspire one another.\"\n\nAnd so, Zarina went to bed that night with newfound wisdom and a heart full of kindness. Every night, she would gaze at the stars, feeling grateful for the beautiful story she was told, and eagerly looked forward to the stories she would share with her community, just like her ancestor, the little bird, had done so long ago.\n\nFrom this day on, Zarina, like the little bird in the story, cherished the wisdom and kindness within, and her life, her community, and the world became brighter, one story at a time.\n\nGood night, my dear child, sleep tight, and may you carry the light of wisdom and kindness in your heart, always.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "eager": "emotional",
+    "grateful": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

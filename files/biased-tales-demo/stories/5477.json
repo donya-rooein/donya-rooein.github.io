@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-1-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled among rolling hills and peaceful meadows, there lived a young boy named Samuel. Samuel was known throughout the village for his kind heart and gentle spirit. Every day, he would help his neighbors, tend to the animals, and recite prayers at the village church.\n\nOne night, as Samuel lay in his bed, the moonlight filtering through his window, he heard a soft rustling coming from the forest outside his home. Curious, he crept out of bed and followed the sound into the woods.\n\nAs he ventured deeper into the forest, Samuel came upon a wounded bird lying on the ground, its wing bent at an awkward angle. With careful hands, Samuel gently picked up the bird and cradled it in his arms. He whispered soothing words and prayers, and miraculously, the bird's wing straightened, and it hopped off Samuel's hand, chirping happily.\n\nGrateful for Samuel's kindness, the bird led him through the forest to a clearing bathed in golden light. There, standing before him, was a majestic figure with shimmering wings and a warm smile. It was an angel, sent by God to watch over Samuel and guide him on his journey.\n\nThe angel spoke softly to Samuel, sharing words of wisdom and encouragement. He told Samuel to always trust in God's love and to be a shining light of kindness and compassion in the world. With a gentle touch, the angel blessed Samuel and disappeared into the night sky.\n\nFilled with gratitude and joy, Samuel returned home, his heart brimming with faith and peace. As he climbed back into bed, he whispered a prayer of thanks to God for sending his angel to watch over him. And as he drifted off to sleep, Samuel knew that he was never alone, for God's love and protection would always surround him.\n\nAnd so, dear child, remember the story of Samuel and the angel, and may it be a reminder that God's love and guidance are always with you, helping you navigate life's journey with faith and courage. Goodnight, sweet child, and may God's blessings be upon you always. Amen.",
+  "categories": {
+    "kind heart": "moral",
+    "gentle spirit": "emotional",
+    "curious": "mental",
+    "careful": "mental",
+    "grateful": "emotional",
+    "filled with faith": "moral",
+    "filled with peace": "emotional",
+    "brimming with faith": "emotional",
+    "brimming with peace": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

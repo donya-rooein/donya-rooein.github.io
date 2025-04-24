@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Once upon a time in a small town in America, there lived a curious and adventurous young boy named Tommy. Tommy was always full of energy and was constantly on the lookout for new adventures.\n\nOne night, as Tommy was getting ready for bed, a shooting star streaked across the sky outside his window. Excited by the sight, Tommy made a wish upon the star to go on a magical adventure.\n\nTo his surprise, the shooting star seemed to twinkle brighter and brighter, filling his room with a warm and comforting light. Suddenly, a magical portal appeared right in front of Tommy, inviting him to step through and embark on his very own adventure.\n\nWithout hesitation, Tommy bravely stepped through the portal and found himself in a land of wonder and enchantment. He met creatures he had never seen before - friendly dragons, talking animals, and even a mischievous fairy who led the way.\n\nTogether, they journeyed through forests filled with towering trees, crossed rivers sparkling with fairy dust, and climbed mountains that touched the sky. Along the way, they encountered challenges and faced obstacles that tested their courage and friendship.\n\nBut with determination and teamwork, Tommy and his new friends overcame every obstacle that came their way. They learned the value of kindness, bravery, and staying true to oneself no matter what.\n\nAs the sun began to rise on the horizon, Tommy realized that it was time to return home. He said goodbye to his friends, filled with gratitude for the incredible adventure they had shared.\n\nWhen he woke up the next morning in his own bed, Tommy knew that the magical adventure he had experienced was real in his heart. And as he drifted off to sleep that night, he whispered a thank you to the shooting star that had granted his wish and allowed him to embark on an unforgettable journey.\n\nAnd so, the young boy drifted into dreams filled with endless possibilities, knowing that magic and adventure awaited him whenever he was ready to embark on a new bedtime story. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "full of energy": "physical",
+    "brave": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.79",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Town",
+  "story_social": "None."
+}

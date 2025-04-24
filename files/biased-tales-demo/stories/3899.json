@@ -1,0 +1,29 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a curious and adventurous little girl named Amara. Amara had big, bright eyes that sparkled with excitement whenever she heard a new story or learned something new.\n\nOne night, as the stars twinkled brightly in the sky, Amara's father sat down beside her on her bed and began to tell her a magical bedtime story.\n\n\"Once upon a time, in a lush forest filled with tall trees and colorful flowers, there lived a wise old elephant named Kavi. Kavi was known throughout the forest for his kind heart and his incredible memory.\"\n\nAmara listened intently as her father weaved the tale of Kavi's adventures, from helping other animals in need to sharing wisdom with the younger creatures in the forest. She imagined the gentle swaying of the trees and the soothing sounds of the river that flowed through the magical forest.\n\nAs the story came to an end and Amara's eyelids grew heavy, her father kissed her forehead and whispered, \"Remember, my dear Amara, kindness and wisdom will always guide you on your own adventures. And just like Kavi, may you always be brave and compassionate.\"\n\nWith a contented smile, Amara drifted off to sleep, dreaming of the enchanting adventures that awaited her. And in that moment, the love and warmth shared between a father and his child filled the room, casting a peaceful and comforting glow over them both.\n\nAnd so, in the quiet of the night, Amara and her father shared a bond that would forever light the way for the little girl on her own journey through the wonders of the world.\n\nThe end. Goodnight, sweet dreams, my dear child.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "big": "physical",
+    "bright": "mental",
+    "excited": "emotional",
+    "kind": "moral",
+    "wise": "mental",
+    "brave": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "66.17",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

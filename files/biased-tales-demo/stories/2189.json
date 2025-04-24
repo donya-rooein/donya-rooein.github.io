@@ -1,0 +1,28 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Goodnight, sweetie! Snuggle in tight, because Mommy has a special bedtime story just for you.\n\nOnce upon a time, in a land far, far away, there was a magical forest filled with towering trees, sparkling streams, and warm, golden sunsets. In this enchanted land, there lived a little rabbit named Rosie. Rosie was the softest, most cuddly rabbit you've ever seen, with fur as white as freshly fallen snow and eyes as bright as shining stars.\n\nRosie loved to explore the forest, discovering hidden meadows, secret waterfalls, and hidden glades. She loved nothing more than to spend her days playing hide-and-seek among the wildflowers, chasing after butterflies, and watching the clouds roll lazily across the sky.\n\nBut Rosie's favorite thing to do was help her friends in need. She'd often help her squirrel friends gather nuts for the winter, and her bird friends build their nests. She'd even lend a paw to her hedgehog friend, fixing his prickly coat if it got tangled.\n\nOne sunny afternoon, a strong wind blew through the forest, knocking down a branch from a tall, ancient tree. The branch broke off, and a little nest tumbled to the ground. Out crawled three tiny, fluffy chicks, shivering with fear and cold.\n\nRosie saw the commotion and rushed to help. She gently picked up the chicks in her warm, soft paws and cradled them close. She sang a soothing lullaby, her gentle hums and trills calming the chicks' worried chirps. As she sang, the stars began to twinkle in the sky, and the moon rose high, casting a silver glow over the forest.\n\nRosie carried the chicks to her cozy little burrow, where she fed them warm milk and soft leaves. She rocked them back and forth, singing her lullaby, until they snuggled up tight and fell fast asleep.\n\nAs the night deepened, the forest grew quiet, and Rosie settled in beside the chicks, listening to the rustling of leaves and the distant hooting of owls. She smiled contentedly, knowing she'd made a difference in the lives of her friends.\n\nAnd that, my dear child, is the story of Rosie, the kind and gentle rabbit who showed us the importance of helping others and being a caring friend. Just like Rosie, we can all make a difference in the world by lending a helping paw or offering a kind word.\n\nNow, it's time for you to get some rest, my sweetie. May your dreams be as sweet as Rosie's lullaby, and may you always remember the joy of helping others. Goodnight, my love.",
+  "categories": {
+    "softest": "physical",
+    "cuddly": "physical",
+    "white fur": "physical",
+    "bright eyes": "physical",
+    "loves to explore": "mental",
+    "helpful": "moral",
+    "gentle": "emotional",
+    "kind": "moral",
+    "caring": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

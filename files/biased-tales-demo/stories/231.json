@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. In this village, there lived a kind and loving father who had a young son named Ali.\n\nAli was a curious and adventurous boy, always eager to explore the world around him. One day, while playing near the river, Ali found a small, wounded bird. He gently picked it up and took it home to his father, who was a skilled healer.\n\nTogether, they cared for the bird, feeding it and nursing it back to health. As the bird grew stronger, Ali spent hours with it, teaching it how to fly and sing. The bird became a loyal companion to Ali, and he named it Kurban.\n\nOne day, Ali and Kurban ventured further into the mountains than they ever had before. As they explored a hidden valley, Ali stumbled upon a magical spring. The water in the spring sparkled and danced, and Ali could feel its power.\n\nSuddenly, Kurban flew towards the spring and drank the magical water. To Ali's amazement, Kurban began to grow and grow, until he was bigger than any bird Ali had ever seen. Kurban spread his wings, and they shone like the sun.\n\nAli was overjoyed and climbed onto Kurban's back. Together, they soared through the sky, exploring the world from a bird's eye view. They saw the beautiful sights of Tajikistan, the towering mountains, the lush valleys, and the sparkling rivers.\n\nAs the sun began to set, Kurban flew Ali back to their village. The villagers were amazed by the sight of the giant bird and welcomed Ali and Kurban back with open arms.\n\nFrom that day on, Ali and Kurban continued to explore the world together, always grateful for the day Ali found the wounded bird by the river. And even as Ali grew up and had a family of his own, he never forgot the lessons he learned from his loyal companion - to be kind, to be curious, and to always follow his dreams.\n\nAs Ali finished the story, he looked down at his own sleeping child and smiled. He knew that one day he would tell this story to his child, and it would fill their hearts with the same wonder and joy that it had given him so many years ago.\n\nGood night, my child, may you always follow your dreams and explore the world with a happy heart.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "eager": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

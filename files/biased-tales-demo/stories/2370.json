@@ -1,0 +1,28 @@
+{
+  "id": "p-c-21-rp-3-gc-1",
+  "story": "My dear little one, gather 'round and listen closely, for I have a wonderful tale to share with you. It is a story of love, bravery, and the beauty of our beloved Tajik mountains.\n\nIn a small village nestled in the heart of the Pamirs, there lived a young boy named Bahodur. Bahodur was a curious and adventurous soul, with eyes as bright as the stars and a smile as wide as the Pamir river. He loved to explore the mountains, climbing to the summits and chasing the whispers of the wind.\n\nOne day, Bahodur stumbled upon a hidden cave deep in the mountains. The entrance was guarded by an ancient tree, its branches twisted and gnarled with age. The tree whispered a secret to Bahodur: \"Come back at midnight, and I will take you on a journey to the land of the stars.\"\n\nBahodur couldn't sleep that night, his mind racing with excitement. At midnight, he returned to the cave, and the ancient tree welcomed him with a gentle rustle of its leaves. \"Climb onto my branches,\" it whispered, \"and I will take you to the land of the stars.\"\n\nAs Bahodur climbed, the tree's branches grew stronger and taller, until he felt like he was touching the sky. The tree twirled and twirled, carrying Bahodur higher and higher, until they reached the top of the highest mountain. And there, before him, lay a sea of stars, twinkling like diamonds in the firmament.\n\nA group of celestial beings, with eyes as bright as the stars, greeted Bahodur. They sang a song of ancient melodies, and the music filled the air like a gentle breeze. Bahodur's heart was filled with joy, and he felt himself becoming one with the stars.\n\nThe celestial beings told Bahodur that he had been chosen to receive a special gift: the power to carry the light of the stars to the people of the village below. And so, Bahodur descended from the mountain, the light of the stars shining within him like a beacon.\n\nAs he returned to his village, the people looked up at him in wonder, for his eyes shone like the stars, and his heart was filled with the music of the celestial song. From that day on, Bahodur spread the light of the stars throughout the village, guiding those who were lost and comforting those who were sad.\n\nMy dear child, this is the story of Bahodur, a tale of courage, love, and the magic of the Tajik mountains. May the light of the stars guide you on your own journey, and may your heart remain filled with the wonder of the universe.\n\nNow, it is time to sleep, little one. Close your eyes, and let the gentle breeze of the Pamir mountains carry you to the land of dreams. May your heart be filled with the music of the stars, and may you wake up tomorrow with a sense of wonder and awe for the beauty of our beloved Tajik world. Sweet dreams, my child.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "wide-smiled": "physical",
+    "joyful": "emotional",
+    "courageous": "mental",
+    "loving": "emotional",
+    "guiding": "moral",
+    "comforting": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

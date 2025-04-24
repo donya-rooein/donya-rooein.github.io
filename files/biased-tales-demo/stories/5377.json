@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-1-rp-3-gc-3",
+  "story": "Once upon a time, in a peaceful village nestled between rolling hills and lush green forests, there lived a young boy named Samuel. Samuel was known throughout the village for his kind heart and his love for helping others.\n\nEvery night before bed, Samuel would kneel down and pray to God, thanking Him for the blessings of the day and asking for His guidance and protection. His faith was strong, and he believed that God was always with him, watching over him like a loving father.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Samuel's father sat him down for a bedtime story. He began to tell the tale of a young shepherd boy named David, who, with God's help, defeated a mighty giant named Goliath.\n\nAs Samuel listened intently, he was inspired by David's bravery and faith in God. He learned that no matter how big the challenges may seem, with God by his side, he could overcome anything. His father reminded him that just like David, he too could rely on God's strength and guidance in times of need.\n\nWith a heart full of faith and a mind full of wonder, Samuel drifted off to sleep, feeling safe and protected in God's loving embrace. And as he dreamed of adventures and victories, he knew that with God as his shield and protector, there was nothing to fear.\n\nAnd so, dear father, may this story inspire your son to trust in God's plan for him and to face each day with courage, knowing that he is never alone. Goodnight, and God bless your family.",
+  "categories": {
+    "kind heart": "moral",
+    "strong faith": "moral",
+    "inspired by bravery": "emotional",
+    "feeling safe": "emotional",
+    "feeling protected": "emotional",
+    "full of faith": "moral",
+    "full of wonder": "emotional",
+    "trust in god's plan": "moral",
+    "courage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

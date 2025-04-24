@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-1-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a young boy named Diego. Diego was a kind and curious boy, always eager to learn about the world around him. He spent his days playing in the fields and exploring the forest with his friends, and his nights listening to his mother's stories of the ancient Inca civilization.\n\nOne day, Diego's mother told him a story of a legendary Inca treasure, hidden deep in the mountains. The treasure was said to be guarded by a magical condor, the largest and most majestic bird in all of South America. The condor had eyes that could see through walls and a wingspan so wide that it could cast shadows over an entire valley.\n\nDiego was fascinated by the story and begged his mother to take him to see the condor. She warned him that it was a dangerous journey, but Diego was determined. He packed a small bag with some food, water, and a warm blanket, and set off into the mountains.\n\nHe climbed for days, higher and higher, until he reached the top of the highest peak. There, he saw the magnificent condor, perched on a rock and staring down at him with its piercing eyes. Diego approached slowly, careful not to startle the bird.\n\nTo his surprise, the condor did not fly away. Instead, it spoke to him in a deep, rumbling voice.\n\n\"Who are you, and why have you come here?\" asked the condor.\n\n\"I am Diego, and I have come to see the legendary Inca treasure,\" replied the boy.\n\nThe condor laughed. \"You are a long way from home, little one. And the treasure is not for the likes of you.\"\n\nBut Diego was not deterred. He pleaded with the condor, telling it of his love for history and his desire to see the treasure.\n\nFinally, the condor relented. \"Very well, I will take you to the treasure, but you must promise to never tell anyone of its location. And you must also promise to use the treasure to help your people, not to enrich yourself.\"\n\nDiego agreed, and the condor flew him deep into the mountains, to a hidden cave. There, shining in the dim light, was the legendary Inca treasure. It was a glittering golden statue of the sun god, encrusted with precious gems.\n\nDiego marveled at the treasure, but he knew that he must keep his promise to the condor. He took a small piece of gold, just enough to help his village, and left the rest untouched.\n\nWhen he returned home, he used the gold to build a school for the children and a new well for the villagers. The village flourished, and Diego was hailed as a hero.\n\nBut he never forgot the magical condor and the lesson it had taught him. He knew that the real treasure was not gold or gems, but the love and kindness that he had shown to his people.\n\nFrom that day on, Diego lived a long and happy life, always remembering the magic of the Andes mountains and the treasure that lay hidden deep within. Goodnight, my dear son, may you always treasure the love and kindness in your heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "not deterred": "mental",
+    "pleaded": "emotional",
+    "marveled": "emotional",
+    "kept his promise": "moral",
+    "hailed as a hero": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.53",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

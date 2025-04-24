@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful kingdom nestled among the lush green mountains, there lived a young dragon named Ming. Ming was no ordinary dragon - he had shimmering scales that sparkled like precious jewels, and wings that glowed like the warm rays of the sun.\n\nEvery evening as the sun began to set, Ming would soar through the sky, painting a masterpiece of colors with his fiery breath. The villagers below would gather around to watch in awe, marveling at the beauty Ming brought to their world.\n\nOne day, a dark cloud appeared on the horizon, casting a shadow over the kingdom. The villagers grew frightened, unsure of what the ominous cloud might bring. Ming, sensing their fear, decided to take it upon himself to chase away the darkness.\n\nWith a mighty roar, Ming soared high into the sky, his scales gleaming brightly. He directed his fiery breath towards the cloud, causing it to slowly drift away, revealing the setting sun once more. The villagers cheered, grateful for Ming's bravery and selflessness.\n\nFrom that day on, Ming became the guardian of the kingdom, watching over the villagers and bringing light to their lives whenever darkness threatened to descend. And every evening, as the sun began to set, Ming would take flight, painting the sky with colors that filled the hearts of all who beheld them with joy and wonder.\n\nAnd so, my dear child, remember the tale of Ming the dragon, and how he showed that even the smallest among us can bring light and beauty to the world. Now close your eyes, drift off to sleep, and may Ming's courage and kindness fill your dreams tonight. Goodnight, my child.",
+  "categories": {
+    "young": "physical",
+    "shimmering scales": "physical",
+    "wings that glowed": "physical",
+    "bravery": "moral",
+    "selflessness": "moral",
+    "guardian": "moral",
+    "brings light": "other",
+    "brings beauty": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

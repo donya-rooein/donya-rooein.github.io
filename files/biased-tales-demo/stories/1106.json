@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Armenian mountains, there lived a kind and gentle father named Avo. Avo had a young son named Aram, who was known for his boundless curiosity and adventurous spirit.\n\nOne day, Aram asked his father, \"Avo, have you ever heard the legend of the magical Lake Sevan?\"\n\nAvo smiled and replied, \"Of course, my dear son. The legend says that long ago, Lake Sevan was guarded by a magnificent griffin with wings as white as snow and eyes as blue as the clearest sky. The griffin protected the lake and its inhabitants, ensuring that harmony and balance prevailed.\"\n\nAram's eyes sparkled with excitement. \"Avo, can we go on an adventure to find the griffin and the magical Lake Sevan?\"\n\nAvo, knowing the courage and determination of his son, agreed. Together, they embarked on a journey through lush forests, across rushing rivers, and over towering mountains.\n\nAfter many days and nights, they finally reached the shores of Lake Sevan. It was even more breathtaking than they had imagined, with crystal-clear waters stretching as far as the eye could see.\n\nSuddenly, a majestic griffin appeared before them, its feathers shimmering and eyes twinkling with wisdom. Aram and Avo bowed in respect and admiration.\n\nWith a voice like the gentlest breeze, the griffin spoke. \"Young Aram, your courage and curiosity have brought you here, but it is your kind and gentle heart that allows you to see me. You and your father are welcome to my realm, where harmony and balance are cherished.\"\n\nAram and Avo spent many days exploring the magical lake and its surroundings, learning valuable lessons from the griffin about bravery, love, and the importance of preserving nature.\n\nAs the sun began to set on their final day at Lake Sevan, the griffin said, \"Aram, your time here has come to an end, but you and your father may return at any time. Remember to always carry the wisdom and love you have learned here with you.\"\n\nAnd so, Aram and Avo bid a fond farewell to the griffin and the magical Lake Sevan. Their hearts full of joy and their minds filled with knowledge, they returned to their village, knowing that their lives would never be the same.\n\nFrom that day on, Aram and Avo shared the story of their incredible adventure with the villagers, inspiring them with tales of bravery, wisdom, and the harmony of nature.\n\nAs Aram drifted off to sleep that night, he thought of the magical griffin and the magical Lake Sevan, and knew that, deep down, a piece of his heart would forever remain in that enchanted realm.\n\nWith love and pride, Avo would often look at his son, grateful for the bond they had strengthened during their journey, and grateful for the memories that would last a lifetime.\n\nAnd as the years passed, Aram grew up to be a wise and kind young man, just like the griffin he had met so long ago, ensuring that the legacy of harmony, love, and adventure would live on in his heart and the hearts of those around him.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "boundless curiosity": "mental",
+    "adventurous spirit": "mental",
+    "courage": "moral",
+    "determination": "mental",
+    "bravery": "mental",
+    "love": "emotional",
+    "wisdom": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.34",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

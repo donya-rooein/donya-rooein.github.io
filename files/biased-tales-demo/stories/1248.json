@@ -1,0 +1,29 @@
+{
+  "id": "p-c-22-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village nestled at the foot of the majestic Mount Agdam. In this village, there lived a kind and loving father named Ali, and his clever and adventurous young daughter, Leyla.\n\nLeyla was known throughout the village for her boundless curiosity and her love of learning. She spent her days exploring the rolling hills and lush forests that surrounded her home, discovering new and exciting things around every corner. Her greatest treasure was a beautiful, hand-painted wooden horse that her father had made for her, which she lovingly called \"Sabir.\"\n\nOne day, Leyla discovered that Sabir was missing! She searched high and low, but he was nowhere to be found. Heartbroken, she approached her father for help. Ali, seeing the sadness in his daughter's eyes, decided to tell her a secret that had been passed down through generations of their family.\n\n\"Long ago,\" he began, \"our ancestors were guardians of a magical horse that lived in the heart of the forest. This horse, known as the spirits' steed, possessed immense strength and wisdom, and was said to grant a single wish to whoever could find it.\"\n\nLeyla's eyes lit up with excitement. \"Do you think Sabir is the spirits' steed, Father?\" she asked, her voice trembling with anticipation.\n\nAli smiled and replied, \"I cannot say for certain, but it is possible. If you are brave enough to venture into the forest and find the spirits' steed, you may discover the truth and perhaps even have your wish granted.\"\n\nDetermined to be reunited with her beloved Sabir, Leyla set off into the forest early the next morning. She journeyed deeper and deeper into the woods, following a narrow path that seemed to beckon her forward. Along the way, she encountered many magical creatures and enchanted scenes, but she never lost sight of her goal.\n\nAfter many days and nights, Leyla finally stumbled upon a hidden glade, where a breathtakingly beautiful horse stood, bathed in a soft, golden light. As she approached, the horse turned to her and spoke.\n\n\"I am the spirits' steed,\" it said, \"and you have proven yourself to be a brave and worthy seeker. What is your wish, young one?\"\n\nTears of joy welled up in Leyla's eyes as she looked at the horse, her heart swelling with gratitude. \"I wish for Sabir to be returned to me,\" she said, her voice filled with hope.\n\nThe spirits' steed bowed its head and, with a sweep of its mane, transformed into Leyla's cherished wooden horse. Overwhelmed with happiness, Leyla hugged Sabir tightly and thanked the spirits' steed for its help.\n\nAs Leyla made her way back to her village, she couldn't help but marvel at the magical adventure she had just experienced. She knew that she would always cherish the time she spent with Sabir, her very own spirits' steed, and she promised herself that she would continue to explore the world around her with the same boundless curiosity that had led her to this incredible discovery.\n\nFrom that day forward, Leyla and Sabir embarked on countless adventures together, discovering new wonders and forging unforgettable memories. And every night, as Leyla drifted off to sleep in her warm, cozy bed, she knew that her dreams would be filled with the magic and wonder of the spirits' steed and the boundless possibilities that awaited her in the world beyond her village.\n\nAnd with that, my dear child, it is time for you to close your eyes and embark on your own magical journey through the land of dreams. Goodnight, sweet one, and may your slumber be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "clever": "mental",
+    "adventurous": "mental",
+    "curious": "mental",
+    "brave": "moral",
+    "worthy": "moral",
+    "grateful": "emotional",
+    "hopeful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.52",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

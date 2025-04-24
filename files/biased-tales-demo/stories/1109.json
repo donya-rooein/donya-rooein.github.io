@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there was a kind and curious little boy named Diego. Diego lived with his loving parents in a cozy adobe house, surrounded by lush gardens filled with vibrant flowers and delicious fruits.\n\nDiego's most cherished possession was a small, worn-out book about the magical creatures that lived in the enchanted forest nearby. Every night, his parents would tell him fascinating stories about the creatures, and Diego would dream about the day he could finally venture into the forest and meet them himself.\n\nOne night, as Diego's parents were tucking him into bed, they noticed the longing in his eyes. His father, a wise and gentle man, decided to grant Diego's wish and took him to the edge of the enchanted forest. As they stood there, Diego's father placed a protective amulet around his neck and whispered, \"This will keep you safe, my son. Now, go explore and learn, but remember to return before the sun sets.\"\n\nWith a fluttering heart and wide eyes, Diego stepped into the enchanted forest. He was immediately greeted by the soft rustling of leaves and the melodic songs of birds. As he ventured deeper into the forest, he stumbled upon a small clearing where he found a group of enchanting creatures.\n\nThere was a sparkling, wispy-haired duendecillo who introduced himself as Puck. A shy, timid nymph named Melia emerged from behind a tree, her skin glowing like the moon. And a wise, old talking tree by the name of Don José shared his knowledge of the forest's secrets.\n\nTogether, they showed Diego the wonders of their magical world. He marveled at the shimmering waterfall that seemed to fall upwards, danced with the joyful, colorful sprites that lived among the flowers, and listened intently as the wise Don José shared stories of ancient times.\n\nAs the day wore on, Diego realized it was time to return to his village. He bid his newfound friends farewell, promising to visit them again soon. With a heart full of newfound knowledge and memories, Diego returned to his parents, who welcomed him with open arms and smiles.\n\nFrom that day on, Diego became the village storyteller, sharing tales of enchantment and wonder with everyone he met. And every night, he'd look up at the stars, thankful for the magical gift his father had given him – a glimpse into a world where dreams come true and friendships last a lifetime.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own magical adventures. Goodnight, and may your dreams be filled with enchantment and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "longing": "emotional",
+    "wide-eyed": "physical",
+    "fluttering heart": "physical",
+    "marveled": "emotional",
+    "thankful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

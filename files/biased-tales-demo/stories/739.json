@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Azerbaijan. This kingdom was filled with rolling hills, towering mountains, and crystal-clear rivers. The people of Azerbaijan were known for their kindness, hospitality, and love for their country.\n\nIn this kingdom, there was a young princess named Leyla. Leyla was not your typical princess - she was brave, curious, and full of energy. She loved to explore the kingdom and learn about its history and culture.\n\nOne day, Leyla heard a story about a magical flower that grew on the top of the highest mountain in the kingdom. It was said that this flower had the power to grant one wish to whoever found it.\n\nLeyla was intrigued by this story and decided that she must find this magical flower. She packed a small bag with some food, water, and a warm blanket, and set off on her journey.\n\nThe journey to the top of the mountain was not easy. Leyla had to climb over rocky terrain, cross rushing rivers, and navigate through dense forests. But she was determined and never gave up.\n\nAfter several days of traveling, Leyla finally reached the top of the mountain. And there, glowing in the sun, was the magical flower.\n\nLeyla approached the flower with caution and respect. She knew that this was a special moment and that she needed to choose her wish wisely.\n\nAfter some thought, Leyla made her wish. She wished for the happiness and prosperity of the kingdom of Azerbaijan and all its people.\n\nAs soon as she made her wish, the flower glowed brighter than ever and then slowly began to wilt. Leyla knew that her wish had been granted.\n\nShe made her way back down the mountain, feeling grateful and fulfilled. When she returned to the kingdom, she saw that her wish had come true. The people of Azerbaijan were happier and more prosperous than ever before.\n\nFrom that day on, Leyla was known as the princess who brought happiness and prosperity to the kingdom of Azerbaijan. And every night, she would look up at the mountain and smile, knowing that the magical flower had helped her make the kingdom an even better place.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with magic and wonder, just like Princess Leyla's. Good night.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "full of energy": "physical",
+    "determined": "mental",
+    "grateful": "emotional",
+    "fulfilled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "73.68",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

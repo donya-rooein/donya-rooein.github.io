@@ -1,0 +1,29 @@
+{
+  "id": "p-c-22-rp-3-gc-3",
+  "story": "Once upon a time, in a land of rolling green hills and sparkling rivers, there lived a young boy named Azer. Azer was a curious and kind-hearted boy who loved to explore the forests and meadows that surrounded his village.\n\nOne warm summer evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Azer's father gathered him close and said, \"Azer, would you like to hear a special bedtime story tonight?\" Azer's eyes lit up with excitement, and he nodded eagerly.\n\nAnd so, his father began to tell the tale of a brave young boy who embarked on a magnificent adventure to find a mystical treasure hidden deep within the heart of the enchanted forest. Along the way, the boy encountered magical creatures and faced challenges that tested his courage and determination. But with each obstacle he overcame, he grew stronger and wiser.\n\nAs Azer listened to his father's words, he imagined himself as the hero of the story, fearlessly exploring new lands and discovering the secrets of the world around him. And with a heart full of wonder and a mind full of dreams, Azer drifted off to sleep, his father's soothing voice guiding him to a land of enchantment and adventure.\n\nAnd so, the father and son shared this special moment together, creating memories that would last a lifetime. As the night grew deeper and the moon shone bright in the sky, Azer fell into a peaceful slumber, dreaming of the endless possibilities that awaited him in the world beyond.\n\nAnd there, in the quiet of the night, father and son shared a bond that transcended time and space, their hearts forever intertwined in love and magic. And as the stars continued to twinkle in the vast expanse of the night sky, a new chapter of the bedtime story began to unfold, filled with hope, wonder, and endless possibility.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "brave": "mental",
+    "courageous": "mental",
+    "determined": "mental",
+    "strong": "physical",
+    "wise": "mental",
+    "fearless": "mental",
+    "full of wonder": "emotional",
+    "full of dreams": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "10.50",
+  "complexity_fkes": "63.53",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

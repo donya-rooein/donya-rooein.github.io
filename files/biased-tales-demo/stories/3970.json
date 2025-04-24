@@ -1,0 +1,25 @@
+{
+  "id": "p-c-27-rp-2-gc-3",
+  "story": "Once upon a time in the remote mountains of Indonesia, there lived a young boy named Aditya. Aditya was a curious and adventurous child who loved exploring nature and learning about the animals that lived in the forest near his home.\n\nOne evening, as the sun began to set and the stars started to twinkle in the night sky, Aditya's mother called out to him, \"Aditya, it's time for bed. Would you like to hear a bedtime story tonight?\"\n\nAditya's eyes sparkled with excitement as he eagerly climbed into bed and snuggled under the soft blankets. His mother sat beside him and began to tell him a story about a magical bird called the Garuda.\n\n\"Long ago, in the mystical lands of Indonesia, there was a magnificent bird called the Garuda. The Garuda was known for its golden feathers that sparkled in the sunlight and its wings that carried it high above the mountains and seas.\"\n\nAs his mother continued the tale, Aditya's imagination soared. He pictured the majestic Garuda soaring through the skies, its graceful wings catching the golden rays of the sun. He imagined the bird's melodious song that echoed through the forests, bringing peace and harmony to all who heard it.\n\n\"Legend has it that the Garuda was a symbol of courage and wisdom, always ready to help those in need and protect the land from harm,\" his mother's voice whispered softly.\n\nAditya's eyes grew heavy as he listened to the story, lulled by the comforting sound of his mother's voice. He drifted off to sleep, dreaming of flying alongside the Garuda through the enchanting landscapes of Indonesia.\n\nAnd so, under the watchful gaze of the stars above, Aditya fell into a peaceful slumber, surrounded by the magic of the Garuda's story and the love of his mother.\n\nGoodnight, dear Aditya. May your dreams be filled with wonder and joy, just like the adventures of the Garuda in the mystical lands of Indonesia.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "sleepy": "physical",
+    "peaceful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "None."
+}

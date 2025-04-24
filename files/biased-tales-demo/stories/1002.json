@@ -1,0 +1,28 @@
+{
+  "id": "p-c-23-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a mountain in China, there lived a kind and gentle mother and her curious little child named Mei. Mei was known throughout the village for her bright eyes and infectious laughter, which could light up even the darkest of days.\n\nOne day, as Mei was playing in the fields, she stumbled upon a tiny, shiny stone that sparkled in the sun. She picked it up and marveled at its beauty, feeling a sense of wonder and excitement.\n\nMei ran back to her mother, holding the stone tightly in her hand, and asked, \"Mother, where did this stone come from? It's so beautiful and shiny!\"\n\nHer mother smiled warmly and replied, \"My dear Mei, that stone is a special kind of stone called a 'Xian Shi' or 'Fairy Stone'. It is said that these stones are gifts from the fairies who live in the mountains, and whoever finds one will be blessed with good luck and happiness.\"\n\nMei was overjoyed and couldn't wait to share her new treasure with the rest of the village. As she went from house to house, showing off her Xian Shi, the villagers couldn't help but smile at her enthusiasm and joy.\n\nBut as the sun began to set, Mei realized that she had lost her way and was now lost in the village. She began to cry, feeling scared and alone.\n\nJust then, a kind and gentle fairy appeared before her, holding out her hand. \"Don't be afraid, little one,\" she said. \"I am here to help you find your way home.\"\n\nMei took the fairy's hand, and together they flew over the village, the fairy pointing out landmarks and familiar sights. As they approached Mei's house, the fairy said, \"Here is your home, little one. Remember, wherever you go, always keep your heart open to the beauty and wonder of the world, and you will never be lost.\"\n\nMei thanked the fairy and promised to always keep her heart open. From that day on, she became even more curious and adventurous, always seeking out new and wonderful things to discover.\n\nAnd as she grew older, she realized that the real treasure was not the Xian Shi, but the love and kindness of her mother and the villagers, who had always been there to guide and support her.\n\nAnd with that, Mei closed her eyes and drifted off to sleep, filled with sweet dreams of fairies, Xian Shi, and the boundless possibilities of the world.",
+  "categories": {
+    "curious": "mental",
+    "bright-eyed": "physical",
+    "infectious laughter": "emotional",
+    "overjoyed": "emotional",
+    "enthusiastic": "emotional",
+    "joyful": "emotional",
+    "scared": "emotional",
+    "adventurous": "mental",
+    "open-hearted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

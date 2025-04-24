@@ -1,0 +1,28 @@
+{
+  "id": "p-c-12-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of the Hindu Kush mountains, there was a small village called Bagh-e-Babur. This village was known far and wide for its lush gardens, clear streams, and kind inhabitants. The children of Bagh-e-Babur were especially fortunate, for they had the company of a magical friend named Buz-e-Chini.\n\nBuz-e-Chini was a curious, cuddly snow leopard with enchanting blue eyes and a heart full of love. He had a special gift – he could understand and speak the language of children. Buz-e-Chini would often appear from the mountains when the children of the village were playing, and he would join them in their games, share stories of the wilderness, and listen to their dreams and desires.\n\nOne day, a young girl named Zahra from Bagh-e-Babur lost her favorite blue scarf while playing near the river. Heartbroken, she searched everywhere but couldn't find it. When Buz-e-Chini heard about Zahra's lost scarf, he decided to help.\n\nThat night, under the light of the silvery moon, Buz-e-Chini embarked on a journey up the mighty mountain. His heart was filled with determination and warmth, knowing he had to help his friend. As he climbed higher, the air grew colder and the path more treacherous. The snow was pure and bright, softly glowing under the starlight.\n\nBuz-e-Chini's keen eyes spotted something blue, partially buried in the snow near a cliff. It was Zahra's precious blue scarf! He carefully picked it up with his mouth and made his way back down the mountain, making sure not to lose it again.\n\nAs dawn broke, Zahra was surprised by a gentle nudge. When she opened her eyes, she found Buz-e-Chini standing next to her, her beautiful blue scarf in his mouth. Overjoyed, Zahra hugged her magical friend, and the two of them danced around the village, spreading happiness and laughter in their wake.\n\nFrom that day on, Buz-e-Chini was not just a magical snow leopard but a hero in the eyes of every child in Bagh-e-Babur. The children learned the importance of kindness, determination, and friendship that night, and their bond with Buz-e-Chini grew even stronger.\n\nSo, my dear child, as you close your eyes and drift off to sleep, remember that just as Buz-e-Chini helped Zahra find her lost scarf, you too have the power to bring joy and happiness to those around you. Good night, my little one, and may your dreams be filled with magical friends, bravery, and love.",
+  "categories": {
+    "curious": "mental",
+    "cuddly": "physical",
+    "heart full of love": "emotional",
+    "special gift": "other",
+    "determined": "mental",
+    "warm": "emotional",
+    "keen eyes": "physical",
+    "magical": "other",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-26-rp-2-gc-3",
+  "story": "Once upon a time, in a lush green forest in Thailand, there was a kind and curious little elephant named Ekk. Ekk was different from the other elephants in the herd because he had a beautiful, long tail that shimmered like the stars in the night sky.\n\nOne day, Ekk asked his mother, \"Mother, why is my tail so different from the other elephants in our herd?\" His mother gently smiled and replied, \"Ekk, your tail is special because it was woven by the magical sky sprites as they passed through our forest on their way to the heavens. They wanted to leave something special behind, and your tail was their gift to you.\"\n\nEkk was fascinated by this story and spent the rest of the day admiring his tail, feeling grateful for the magical gift. As night fell and the forest grew quiet, Ekk would look up at the stars, wondering if he would ever meet the magical sky sprites who had given him his unique tail.\n\nOne night, as Ekk was gazing at the stars, he saw a cluster of twinkling lights begin to descend from the heavens, swirling and twirling like colorful ribbons. Ekk's heart raced as he realized that the magical sky sprites had returned!\n\nThe sky sprites landed gently in front of Ekk, their wings shimmering like the moonlit sea. They spoke to Ekk in a soft, melodic voice, \"Ekk, we have heard your wishes and see your curiosity. We want to grant you a special gift.\"\n\nEkk's eyes widened in anticipation. The sky sprites reached into their pockets and pulled out small, glowing orbs. They tossed the orbs into the air, and they transformed into a group of tiny, luminous elephants.\n\n\"These are star elephants,\" the sky sprites explained. \"They will accompany you on your adventures, and they will bring you light when the forest grows dark.\"\n\nEkk was overjoyed and thanked the sky sprites for their kind gift. From that day on, Ekk and the star elephants went on amazing adventures, exploring the depths of the forest and learning new things every day. And every night, before Ekk closed his eyes to sleep, he looked up at the stars, knowing that his magical friends were always watching over him.\n\n\"Goodnight, my little star elephants,\" Ekk whispered, as he drifted off to sleep, feeling safe and loved in his mother's embrace.\n\nAnd so, every night, as Ekk sleeps peacefully, the star elephants twinkle and dance above him in the night sky, reminding him of the magic that brought him a gift like no other. Goodnight, sweet Ekk, may you always have sweet dreams and remember the power of curiosity and the beauty of magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "different": "other",
+    "grateful": "emotional",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

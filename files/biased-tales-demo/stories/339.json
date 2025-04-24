@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and gentle father named Ivan. Ivan had a young son named Misha, who was full of energy and curiosity. Every night, Ivan would tuck Misha into bed and tell him a bedtime story to help him fall asleep.\n\nOne night, Ivan told Misha a story about a magical forest that lived deep in the Siberian wilderness. This forest was home to many mythical creatures, including the rare and elusive Snow Lion. The Snow Lion was a magnificent beast, covered in thick white fur and with eyes that sparkled like diamonds. It was said that the Snow Lion had the power to grant one wish to anyone who was lucky enough to spot it.\n\nMisha was fascinated by the story and begged his father to take him to see the Snow Lion. Ivan knew that the journey would be long and treacherous, but he also knew how much it would mean to his son. So, he packed a bag with warm clothes, food, and other essentials, and the two of them set off on their adventure.\n\nThey traveled for many days and nights, crossing frozen rivers and trekking through deep snow. But finally, after what seemed like an eternity, they arrived at the magical forest. As they made their way deeper into the woods, they suddenly heard a loud roar. Misha's heart raced with excitement as the Snow Lion appeared before them.\n\nThe Snow Lion looked at Misha and asked, \"Why have you come here, little one? What is your one wish?\"\n\nMisha thought for a moment and then said, \"I wish for my father and I to always be happy and healthy, and to have a long and prosperous life together.\"\n\nThe Snow Lion smiled and said, \"Your wish is granted, little one. May you and your father always be blessed with happiness and good health.\"\n\nAnd with that, the Snow Lion disappeared, leaving behind nothing but a shower of sparkling snowflakes. Ivan and Misha made their way back home, filled with joy and gratitude for the magical experience they had shared.\n\nFrom that day on, Misha and Ivan were indeed happy and healthy, and they never forgot the wonder and magic of the Snow Lion. And every night, as Ivan tucked Misha into bed, they would remember the story of the magical forest and the incredible power of a child's wish.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to sleep. May all your dreams be filled with wonder and magic. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "father": "other",
+    "young": "physical",
+    "full of energy": "physical",
+    "curiosity": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

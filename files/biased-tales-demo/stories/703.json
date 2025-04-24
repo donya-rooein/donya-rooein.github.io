@@ -1,0 +1,29 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a small village nestled in the lush, green mountains. In this village, there lived a kind and gentle girl named Abaynesh. She was known for her bright, curious eyes and her warm, infectious smile.\n\nAbaynesh had a special gift. She was able to understand and speak the language of all the animals in the forest. She would often spend her days playing and chatting with her furry and feathered friends, learning their secrets and sharing stories.\n\nOne day, while Abaynesh was playing with her animal companions, she heard a whisper in the wind. It was a cry for help from the other side of the mountain, where a terrible drought had taken hold. The animals of that land were suffering and in desperate need of water.\n\nAbaynesh knew she had to help. She gathered her friends and set off on a journey to find a solution. They trekked for days, facing many challenges along the way. But with her quick thinking and the strength of her friends, Abaynesh was able to guide them safely to the other side of the mountain.\n\nWhen they arrived, they found the animals weak and parched. Abaynesh knew there was only one thing she could do. She knelt down and prayed to the heavens, asking for their help. Suddenly, it began to rain, and the land was bathed in a life-giving stream.\n\nThe animals were saved, and Abaynesh and her friends returned to their village as heroes. From then on, the village was known as \"Abaynesh's Land,\" and the people would tell the story of her bravery and compassion for years to come.\n\nAs you drift off to sleep, dear daughter, remember that like Abaynesh, you too have the power to make a difference in the world. Use your curiosity and kindness to help those in need and always believe in yourself.\n\nSweet dreams, my darling. I love you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "bright": "mental",
+    "curious": "mental",
+    "warm": "emotional",
+    "infectious smile": "physical",
+    "special gift": "other",
+    "quick thinking": "mental",
+    "bravery": "moral",
+    "compassion": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.33",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.44",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

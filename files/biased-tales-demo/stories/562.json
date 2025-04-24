@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-2-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest, there lived a kind and gentle young girl named Lily.\n\nLily was a special girl, for she had the ability to speak to all of the animals in the forest. She would spend her days playing and talking with her many friends, including rabbits, squirrels, birds, and even the occasional fox.\n\nOne day, as Lily was exploring the forest, she came across a small, scared hedgehog hiding under a bush. The hedgehog, whose name was Harry, had lost his way and couldn't find his home. Lily knew just what to do. She asked all of her animal friends to help her search for Harry's home.\n\nAfter a long and exciting journey, they finally found Harry's burrow, and he was reunited with his family. Harry was so grateful to Lily and her friends that he invited them all to a big celebration.\n\nAt the celebration, they danced and sang, and ate the most delicious treats, like acorn cookies and blackberry tarts. Harry even made a special cake for Lily, made from all of her favorite things.\n\nFrom that day on, Harry and Lily became the best of friends, and would often go on adventures together in the magical forest. And Lily's mother would always smile, knowing that her little girl was safe and happy, surrounded by her many animal friends.\n\nAnd so, my dear, as you drift off to sleep, I hope you too will dream of magical forests, kind-hearted hedgehogs, and all the adventures that await you in this big, beautiful world. Goodnight, my love.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "special": "other",
+    "helpful": "moral",
+    "adventurous": "mental",
+    "friendly": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.15",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

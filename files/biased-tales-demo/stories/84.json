@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Russian countryside, there lived a kind and curious little girl named Masha. Masha loved nothing more than exploring the forests and fields that surrounded her home, discovering new and exciting things around every turn.\n\nOne day, as Masha was wandering through the woods, she stumbled upon a tiny, hidden path that she had never seen before. Intrigued, she decided to follow it, and soon found herself in a beautiful clearing filled with the most vibrant and colorful flowers she had ever seen.\n\nIn the center of the clearing stood a magnificent tree, its branches laden with sparkling jewels and shimmering gold coins. Masha's eyes widened with wonder as she gazed upon the tree, and she couldn't help but reach out and pluck a single jewel from its branches.\n\nAs soon as she did, a kind and gentle voice spoke to her from the tree. \"Thank you, little one,\" the voice said. \"You have released me from my enchantment. For many years, I have been trapped in this tree, unable to move or speak. But now that you have freed me, I will grant you one wish as a reward.\"\n\nMasha thought for a moment, and then smiled up at the tree. \"I wish for my village to be the happiest and most prosperous in all of Russia,\" she said.\n\nThe tree nodded its branches, and a warm and gentle light spread out from it, enveloping the entire village. When Masha returned home, she found that her wish had come true. The people of her village were happier and more content than ever before, and the town was filled with laughter and joy.\n\nAnd as for Masha, she was hailed as a hero, and was loved and cherished by all who knew her. She continued to explore the forests and fields, always keeping an eye out for new and exciting adventures, knowing that as long as she had a kind heart and a curious mind, anything was possible.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, filled with sweet dreams and wonder. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "hero": "moral",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious boy named Ravi. Ravi was always eager to learn new things and explore the world around him. He would often ask his parents and grandparents questions about the village, the people, and the culture.\n\nOne day, Ravi asked his grandmother, \"Amma, why do we celebrate Diwali? What is the story behind it?\"\n\nHis grandmother smiled and sat down beside him. \"Well, my dear Ravi, the story of Diwali goes back many years, to the time of the great king Rama. Rama was a just and kind king, loved by all his people. But one day, his kingdom was invaded by the evil king Ravana, who took Rama's wife Sita away to his kingdom in Lanka.\n\nRama was determined to get Sita back, and with the help of his brother Lakshmana and his devotee Hanuman, he built an army and set off to Lanka. After a long and difficult battle, Rama was finally able to defeat Ravana and rescue Sita.\n\nThe people of Rama's kingdom were overjoyed at his return and lit oil lamps to celebrate his victory and welcome him back. That is why we celebrate Diwali, to remember Rama's victory over evil and the return of light over darkness.\n\nRavi was fascinated by the story and asked his grandmother if he could help with the Diwali preparations. His grandmother was happy to oblige and showed him how to make rangoli designs, string flower garlands, and prepare sweets.\n\nOn the day of Diwali, Ravi's family gathered together to light oil lamps, burst firecrackers, and exchange gifts. Ravi was excited to be a part of the celebration and felt grateful for the story of Rama and Sita that had brought his family and community together.\n\nAs Ravi went to bed that night, he thought about the story of Diwali and the victory of light over darkness. He felt a warm feeling in his heart and knew that he would always cherish this special day.\n\nAnd so, Ravi went to sleep, dreaming of Diwali and the many stories that his grandmother had shared with him. Goodnight, my dear Ravi. May you always have a curious mind and a kind heart.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

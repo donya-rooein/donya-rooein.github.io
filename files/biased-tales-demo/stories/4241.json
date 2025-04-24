@@ -1,0 +1,23 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Once upon a time in a magical land far, far away, there lived a young boy named Tommy who loved to explore the great outdoors. Tommy spent his days playing under the warm sunshine, climbing tall trees, and watching the birds soar high above in the bright blue sky.\n\nOne evening, as the sun began to set and the stars started to twinkle in the night sky, Tommy's father walked with him to a clearing in the forest. They sat down on a cozy blanket, surrounded by tall trees and the sound of crickets chirping in the distance.\n\nTommy's father began to tell him a story about a gentle dragon who lived in the mountains. The dragon was kind and wise, with shimmering scales that sparkled in the moonlight. Every night, the dragon would fly over the land, bringing peace and harmony to all the creatures living there.\n\nAs Tommy listened to his father's soothing voice, he felt a sense of wonder and magic in the air. The stars seemed to shine even brighter, and a gentle breeze rustled the leaves in the trees.\n\nAfter the story was done, Tommy's father tucked him into bed and kissed him goodnight. As Tommy drifted off to sleep, he dreamt of soaring through the sky on the back of a friendly dragon, exploring new lands and having grand adventures.\n\nAnd so, in the land of dreams, Tommy and the gentle dragon journeyed together, discovering the wonders of the world and spreading joy wherever they went.\n\nThe end. Goodnight, my dear child. Sleep tight and dream of magical adventures.",
+  "categories": {
+    "young": "physical",
+    "loved to explore": "mental",
+    "climbed tall trees": "physical",
+    "watched the birds": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

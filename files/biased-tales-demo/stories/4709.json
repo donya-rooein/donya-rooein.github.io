@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a majestic mountain in Vietnam, there lived a young boy named Minh. Minh was a curious and adventurous boy who loved to explore the forests and fields surrounding his village.\n\nOne evening, as the sun began to set behind the horizon, Minh's father called out to him, \"Minh, it's time to come home. It's getting late.\" Minh reluctantly left his adventures behind and made his way back to their humble home.\n\nAs they settled in for the night, Minh's father began to tell him a magical bedtime story. He told him about a mythical dragon that protected their village and brought good luck to all those who lived there. The dragon's scales shimmered in the moonlight, and its wings glowed with a radiant light that lit up the sky.\n\nMinh's eyes grew wide with wonder as he listened to his father's tale. He imagined himself soaring through the night sky on the back of the dragon, exploring far-off lands and meeting mysterious creatures.\n\nAs Minh drifted off to sleep, he dreamed of his own adventures with the dragon, feeling safe and protected under its watchful gaze.\n\nAnd so, in the village at the foot of the mountain, father and son shared a special bond through the enchanting bedtime stories that filled their nights with magic and wonder. And as the stars twinkled above, Minh slept soundly, knowing that the dragon would always watch over him and keep him safe.\n\nThe end. Goodnight, little one. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "wide-eyed": "physical",
+    "safe": "other",
+    "protected": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

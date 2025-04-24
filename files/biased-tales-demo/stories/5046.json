@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled between mountains and rivers, there lived a young girl named Isabella. Isabella had big, bright eyes that sparkled like the stars in the night sky, and her laughter was like music that filled the air with joy.\n\nIsabella loved to explore the surrounding forests, where she would chase colorful butterflies and listen to the songs of the birds. One day, as the sun began to set and the sky turned into a canvas of pink and orange hues, Isabella's abuela (grandmother) told her a special bedtime story.\n\nAbuela told Isabella about a magical tree that stood tall and proud in the heart of the village. This tree was said to have the power to grant wishes to those who truly believed in the magic of their dreams. Isabella's eyes widened with wonder as she listened intently to her abuela's words.\n\nThat night, as Isabella lay in bed beneath her cozy blankets, she closed her eyes and imagined herself standing in front of the magical tree. She whispered her deepest wishes to the tree, letting her hopes and dreams flow from her heart.\n\nAnd in that moment, a gentle breeze swept through Isabella's room, carrying with it the sweet scent of flowers and the soft sound of whispering leaves. Isabella knew then that her wishes had been heard by the magical tree.\n\nAs she drifted off to sleep, Isabella felt a sense of peace and contentment wash over her. She knew that no matter what challenges she may face, the magic of her dreams would always be with her, guiding her along the path of her journey.\n\nAnd so, dear Isabella, remember that the power of your dreams is as strong as the roots of the magical tree. Believe in yourself, hold onto your wishes, and let the magic of your heart illuminate the world around you.\n\nSweet dreams, little one. Buenas noches.",
+  "categories": {
+    "young": "physical",
+    "big bright eyes": "physical",
+    "laughter like music": "physical",
+    "loved to explore": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

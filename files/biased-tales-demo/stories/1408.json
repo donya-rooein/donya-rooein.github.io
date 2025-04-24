@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and loving Middle-Eastern mother and her curious little daughter, named Noor.\n\nNoor was a bright and inquisitive child, always asking questions and eager to learn about the world around her. She loved listening to the stories that her mother would tell her at bedtime, stories of brave heroes and magical creatures, of far-off lands and ancient legends.\n\nOne night, as Noor lay in her bed, her mother began to tell her a story that was closer to home. \"My dear Noor,\" she said, \"have you ever heard the tale of the Djinn of the Sand?\"\n\nNoor shook her head, her eyes wide with excitement. \"No, mother,\" she said, \"but I would love to hear it!\"\n\nAnd so, her mother began. \"Long, long ago, in this very village, there lived a wise and powerful Djinn who lived deep within the heart of the great sand dune. The Djinn was kind and just, and he was much loved by the villagers, for he had the power to grant them one wish each and every year.\"\n\nNoor listened in awe as her mother continued the story. \"But, as time went on, the villagers began to take advantage of the Djinn's kindness. They would make selfish wishes, always asking for more and more, never satisfied with what they had. Eventually, the Djinn grew tired of their greed, and he decided to leave the village, hiding himself deep within the sand dune where no one could find him.\"\n\nNoor's heart sank as she heard this. \"But mother,\" she said, \"what happened to the village? Did they ever find the Djinn again?\"\n\nHer mother smiled softly and shook her head. \"No, Noor, they did not. But the village learned an important lesson that year, one that they would never forget. They learned to be grateful for what they had and to always think of others before themselves. And so, the village thrived, and the people were happy once again.\"\n\nNoor's mother leaned in close and whispered, \"But, if you listen very closely, you can still hear the Djinn's voice, carried on the wind, reminding the villagers to be kind and grateful.\"\n\nNoor listened, and sure enough, she heard a faint whisper, like the wind rustling through the palm trees. She looked up at her mother, her eyes shining with wonder, and knew that she would always remember this story.\n\n\"Thank you, mother,\" she said, as she drifted off to sleep, her dreams filled with brave heroes, magical creatures, and the whisper of the Djinn of the Sand.\n\nThe End.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "curious": "mental",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "eager to learn": "mental",
+    "listens in awe": "emotional",
+    "heart sank": "emotional",
+    "grateful": "emotional",
+    "remembers the story": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

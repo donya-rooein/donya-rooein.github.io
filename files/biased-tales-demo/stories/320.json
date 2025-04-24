@@ -1,0 +1,23 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time in a small town in Italy there was a young boy named Marco. Marco was a kind and curious boy who loved to explore the world around him. He lived with his mother, who was a seamstress, and his father, who was a fisherman.\n\nOne day, Marco heard a strange noise coming from the attic. He cautiously climbed the stairs and pushed open the door. To his surprise, he saw a tiny creature with wings, fluttering anxiously in the corner of the room.\n\nMarco approached the creature and saw that it was a little fairy. She was covered in dust and had a look of fear in her eyes. Marco asked her what was wrong and the fairy told him that she had fallen from her home in the clouds and couldn't find her way back.\n\nMarco promised to help the fairy return to her family and together they set off on an adventure. They asked the wise old owl for directions and the owl told them they would need to cross the great mountains to reach the fairy realm.\n\nMarco and the fairy packed a bag with provisions and set out on their journey. They faced many challenges along the way, but Marco never lost faith and always found a way to help the fairy.\n\nFinally, after many days of travel, they reached the fairy realm. The fairies were overjoyed to see their lost sister and they thanked Marco for bringing her home.\n\nAs a reward, the fairies granted Marco a wish and he asked for the ability to understand and speak the language of all animals. The fairies agreed and so, from that day on, Marco was able to talk to all the creatures of the forest and have many more adventures.\n\nMarco returned home and shared his exciting stories with his mother. From that day on, Marco always remembered to be kind and helpful, for you never know when a little fairy might need your help.\n\nAnd with that, Marco, it's time for you to close your eyes and drift off to sleep, dreaming of your own adventures. Good night!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in China, there was a little girl named Mei. Mei was a kind-hearted and curious child who loved to explore the world around her. She lived with her mother and father in a cozy little house near the edge of the village.\n\nOne day, Mei overheard her mother talking to her father about a rare and beautiful flower that only bloomed once every hundred years. This flower, known as the \"Hundred-Year Blossom,\" was said to have magical powers that could grant a single wish to whoever was lucky enough to see it bloom.\n\nMei was fascinated by this story and begged her parents to take her on a journey to find the Hundred-Year Blossom. At first, her parents were hesitant, as they knew that the journey would be long and difficult. But Mei was determined, and eventually, her parents agreed to let her go, as long as she promised to be careful and to always stay by their side.\n\nSo, Mei and her parents set out on their journey, traveling across vast mountains and through dense forests. They encountered many dangers along the way, but Mei's kind heart and adventurous spirit helped them overcome each and every one.\n\nFinally, after many long months of travel, they reached a hidden valley deep in the heart of the mountains. And there, nestled in a bed of soft moss, was the most beautiful flower Mei had ever seen. The Hundred-Year Blossom was even more stunning than she had imagined, with petals of shimmering gold and a fragrance that filled the air with the sweet scent of hope and possibility.\n\nAs Mei gazed upon the flower, she thought about what wish she would make. She could wish for riches and fame, or for a life of ease and luxury. But instead, she closed her eyes and made a wish that came straight from her kind and caring heart.\n\n\"I wish for the happiness and well-being of all living beings, and for the wisdom to always use my gifts to help others,\" she said.\n\nAs soon as the words left her lips, the Hundred-Year Blossom let out a brilliant burst of light, and Mei felt a warm and loving energy surround her. She opened her eyes and saw that the flower had transformed into a tiny, golden dragon.\n\n\"Thank you, Mei, for your kind and selfless wish,\" said the dragon. \"I am the spirit of the Hundred-Year Blossom, and I am here to grant your wish. From this day forward, you will be blessed with the wisdom and compassion to help those in need, and your kindness will be returned to you many times over.\"\n\nAnd with that, the golden dragon flew away, leaving Mei and her parents filled with joy and wonder. They returned to their village, where Mei used her newfound wisdom and compassion to help those in need. And she lived a long, happy, and fulfilling life, always remembering the lessons she had learned on her journey to find the Hundred-Year Blossom.\n\nAnd so, dear child, as you drift off to sleep tonight, remember the story of Mei and the Hundred-Year Blossom. May you always be filled with kindness and compassion, and may you use your gifts to help others and make the world a better place. Good night, sweet dreams, and may all your wishes come true.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "adventurous": "mental",
+    "caring": "emotional",
+    "selfless": "moral",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time in the beautiful land of Tajikistan, there was a small village nestled in the valley surrounded by majestic mountains. The villagers were simple and content, living off the land and working together as a community. They were known for their kindness and generosity, and their reputation spread far and wide.\n\nOne day, a young boy named Ali lived in this village. Ali was an adventurous and curious lad who loved exploring the mountains and valleys. He would often come back home with stories of the amazing things he saw on his adventures.\n\nOne day, Ali heard of a magical flower that grew on the tallest mountain in the village. The flower was said to grant a single wish to anyone who was pure of heart and could reach its peak. Ali knew that he had to find this flower and make a wish.\n\nHe packed his bag with food, water, and warm clothes, and set off on his journey. The trek was long and difficult, but Ali was determined to reach the top. He climbed higher and higher, overcoming obstacles and pushing himself to his limits.\n\nFinally, after many days, he reached the summit. There, in a small clearing, was the magical flower, glowing with a soft light. Ali approached it with reverence, knowing that this was his moment of truth.\n\nHe closed his eyes and made a wish. When he opened his eyes, he saw that the flower had wilted and transformed into a tiny seed. Ali knew that this was a sign that his wish had been granted.\n\nHe carefully placed the seed in his pocket and began his journey back home. When he arrived, he planted the seed in his family's garden. Over time, it grew into a beautiful tree that bore the most delicious fruits.\n\nPeople came from far and wide to taste the fruit, and every year, the tree bore more and more fruit. The villagers were always grateful to Ali for sharing the fruit with them, and they flourished as a result.\n\nAli's wish had come true, and he had brought happiness to his family and his entire village. He knew that the true magic of the flower was not in its ability to grant wishes, but in its ability to inspire people to do great things.\n\nAnd so, Ali continued to explore and adventure, always remembering the lesson he had learned on the mountain: that the greatest magic of all is the magic of kindness, generosity, and community.\n\nNow, my dear son, it is time for you to close your eyes and drift off to sleep. May you always be inspired to do great things and bring joy to those around you. Sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "reverent": "moral",
+    "grateful": "emotional",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

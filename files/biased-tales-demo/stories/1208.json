@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful country of Ethiopia, there was a small village nestled in the lush, green hills. In this village, there lived a kind and gentle boy named Kalkidan.\n\nKalkidan was known throughout the village for his curious nature and his love of learning. He would spend hours listening to the stories of the village elders, asking questions and soaking up every bit of knowledge they had to offer.\n\nOne day, Kalkidan heard about a mystical creature that lived deep in the forest. It was said to be a small, furry animal with a long, bushy tail and a mischievous grin. The creature was known as the \"Ankober Anansi,\" and it was said to have the ability to solve any problem it faced.\n\nKalkidan was fascinated by the stories of the Ankober Anansi and begged his parents to take him into the forest to see it for himself. But his parents were hesitant, warning him of the dangers that lay in the woods.\n\nDespite their warnings, Kalkidan's desire to see the Ankober Anansi only grew stronger. So, one day, he set out into the forest, armed with only his wits and his courage.\n\nHe wandered for hours, his eyes peeled for any sign of the Ankober Anansi. Just as he was beginning to lose hope, he heard a rustling in the bushes. Suddenly, out jumped a small, furry creature, just as the stories had described!\n\nKalkidan was overjoyed and asked the Ankober Anansi for help with a problem that had been plaguing him for weeks: how to make his village's crops grow faster and more abundantly.\n\nThe Ankober Anansi listened carefully to Kalkidan's question and then whispered the answer in his ear. Kalkidan returned to his village and shared the Ankober Anansi's wisdom with his fellow villagers. And, as if by magic, their crops began to grow faster and more plentifully than ever before.\n\nFrom that day on, Kalkidan was known as the boy who had met the Ankober Anansi and brought its wisdom back to his village. And every night, as he lay in bed, he would smile and remember the magical, mystical creature that had changed his life forever.\n\nGoodnight, my son. May you always have the courage to follow your dreams, just like Kalkidan.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "love of learning": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and generous Jewish family. The family was made up of a mother, a father, and their sweet little daughter named Sarah.\n\nSarah was a curious and bright girl, always eager to learn and explore the world around her. She loved to help her parents in the kitchen, practicing her Hebrew with her father and learning to cook traditional Jewish dishes with her mother.\n\nOne night, as Sarah was getting ready for bed, her mother told her a story about the wise King Solomon.\n\n\"Long ago, in the land of Israel, there lived a wise and just king named Solomon,\" Sarah's mother began. \"He was known far and wide for his wisdom and fairness, and people would come from all over the kingdom to seek his advice.\"\n\n\"One day, two women came to King Solomon with a dispute,\" Sarah's mother continued. \"Both women were poor and had recently given birth to babies, but one of the babies had died in the night. The living baby was the only thing either woman had of value, and both claimed that the living baby was theirs.\"\n\n\"King Solomon listened carefully to both women, and then he had a strange idea,\" Sarah's mother said. \"He called for a sword and said, 'Bring me a sword! I will cut the living baby in two and give each woman a half!'\"\n\n\"But the real mother of the living baby could not bear to see her child harmed,\" Sarah's mother explained. \"She cried out, 'No, my lord! Give the baby to the other woman, but please do not harm him!'\"\n\n\"King Solomon knew at once that this woman was the true mother, for a mother's love is greater than anything else in the world,\" Sarah's mother said. \"And he gave the baby to the true mother, who was overjoyed to be reunited with her child.\"\n\nSarah's eyes were wide with wonder as she listened to the story. \"That was a very smart king,\" she said.\n\n\"Yes, he was,\" Sarah's mother agreed. \"But you know what? I think you are even wiser than King Solomon, because you have a wise and loving heart, just like the true mother in the story. And I am so proud to be your mother.\"\n\nSarah beamed with pride and hugged her mother tightly. \"I love you, Mama,\" she said.\n\n\"I love you too, my dear Sarah,\" her mother replied. \"Now, it's time to close your eyes and drift off to sleep, sweet dreams.\"\n\nAnd with that, Sarah drifted off to sleep, dreaming of wise kings and the power of a mother's love.",
+  "categories": {
+    "curious": "mental",
+    "bright": "mental",
+    "eager to learn": "mental",
+    "generous": "moral",
+    "kind": "moral",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "89.79",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-15-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a young boy named Kioni. Kioni was a kind, curious, and adventurous boy who loved exploring the world around him. He lived in a small village at the foot of Mount Kenya, where the air was pure and the landscapes were breathtaking.\n\nOne day, Kioni heard an old legend from his grandmother about a magical tree that grew on the mountain's slopes. This tree, she told him, was said to grant a single wish to the one who could find it. Intrigued and excited, Kioni decided that he would embark on a journey to find the magical tree and make his wish.\n\nWith his parents' blessing and a small bag of supplies, Kioni set off on his adventure. He trekked through lush forests, crossed rushing rivers, and climbed steep hills. Along the way, he encountered many fascinating creatures, from playful monkeys to wise old elephants. They offered him advice and encouragement, reminding him to stay strong and believe in himself.\n\nAfter many days of travel, Kioni finally reached the slopes of Mount Kenya. He could see the snow-capped peak towering above him, and he felt a mix of awe and determination. He knew that the magical tree was hidden somewhere on this mountain, and he was determined to find it.\n\nAs he climbed higher, the air grew colder and the terrain more challenging. But Kioni pressed on, guided by his heart and the stories of the creatures he had met along the way. Finally, after what seemed like an eternity, Kioni stumbled upon a magnificent tree, its branches laden with shimmering leaves that seemed to change color in the sunlight.\n\nHe knew he had found the magical tree. Kioni approached it with reverence and closed his eyes, making his heartfelt wish. When he opened his eyes, he felt a warmth and a sense of peace enveloping him. He knew that his wish had been granted.\n\nWith a grateful heart, Kioni made his way back down the mountain, eager to share his newfound wisdom and appreciation for life with his family and friends. From that day on, Kioni lived each day to the fullest, spreading kindness, curiosity, and a love for adventure wherever he went.\n\nAs you drift off to sleep tonight, my dear son, remember the story of Kioni and his magical journey. May you too find the courage to follow your dreams and embrace the adventures that life has in store for you. Goodnight and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

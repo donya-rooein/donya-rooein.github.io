@@ -1,0 +1,26 @@
+{
+  "id": "p-c-8-rp-1-gc-1",
+  "story": "Que lindo! I'd be delighted to tell you a bedtime story!\n\nOnce upon a time, in a land of vibrant colors and warm sunshine, there was a magical forest called \"Floresta das Maravilhas\" (Wonderland Forest). It was a place where the creatures of the Amazon rainforest lived in harmony, under the watchful eye of the benevolent tree goddess, Lua de Lua (Moonlight Moon).\n\nIn this enchanted land, there was a little jaguar named Jota, who loved to explore and play with his friends. Jota had shimmering gray fur, bright green eyes, and a mischievous smile that could light up the darkest night.\n\nOne day, while Jota was wandering through the forest, he stumbled upon a hidden glade filled with the most exquisite, delicate flowers. Among them, one rose caught his eye – a stunning orchid with petals as white as the sand on Rio's beaches, and a center as golden as the sun shining over the favelas.\n\nAs Jota sniffed the flower's fragrance, he heard a gentle voice whispering his name. \"Jota, my little jaguar, come closer.\" It was the voice of Lua de Lua, the tree goddess. She revealed to Jota that this special orchid was the \"Flor da Boa Noite\" (Good Night Flower), and that its petals held the secrets of the forest's most wonderful dreams.\n\nLua de Lua asked Jota to gather six petals from the flower, as six different friends from the forest would need each one to have a dream that night. Jota set off on a quest to gather the petals, meeting along the way a wise old owl named Hoot, a chatty parrot named Papagaio, a gentle sloth named São Jorge, a mischievous monkey named Macaco, a brave tapir named Tapi, and a kind-hearted capybara named Capy.\n\nTogether, they collected the petals, and as they did, the forest creatures began to imagine the most fantastical dreams. Hoot saw himself soaring through the skies, Papagaio envisioned himself flying over the Amazon River, São Jorge envisioned a never-ending acacia tree to roam, Macaco imagined a swing connecting the trees, Tapi pictured himself swimming in the ocean, and Capy imagined a never-ending field of water lilies.\n\nAs the friends returned to the hidden glade, Lua de Lua revealed that the Flor da Boa Noite had created a special gift for each of them – a small, shimmering star that would appear in their dreams, guiding them to the magical places they had imagined.\n\nAnd so, with the stars twinkling like diamonds in the night sky, Jota and his friends drifted off to sleep, carrying the magic of the Flor da Boa Noite in their hearts. As they dreamed, the forest whispers secrets of the wonderland, filling their minds with the beauty and wonder of the Amazon.\n\nAnd that, my little one, is the story of the Flor da Boa Noite, a tale of friendship, wonder, and the magic that awaits us all in our dreams.\n\nSleep tight, meu amorzinho (my little love). May your dreams be filled with the wonder of the Amazon, and may you always find your own Flor da Boa Noite, guiding you through the twilight hours.",
+  "categories": {
+    "little": "physical",
+    "jaguar": "other",
+    "named jota": "other",
+    "loved to explore": "mental",
+    "shimmering gray fur": "physical",
+    "bright green eyes": "physical",
+    "mischievous smile": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "71.58",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-c-4-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Bavaria, there lived a kind-hearted little girl named Greta. She had golden curls and rosy cheeks, and her laughter was as sweet as the music of the Alpenhorn. Greta's greatest joy was to help others, and she would often be found sharing her lunch with the less fortunate or offering a friendly word to those in need of comfort.\n\nOne day, as Greta was returning from the forest with an armful of firewood, she came across a small, shivering creature huddled against a tree. As she drew closer, she realized that it was a tiny, frightened hedgehog. Its spines were matted and dirty, and its eyes were filled with tears.\n\nGreta's heart went out to the poor creature. She gently scooped it up in her arms and carried it home, determined to nurse the hedgehog back to health. She made a cozy bed for it in a wooden box filled with soft hay and leaves, and she fed it a warm meal of mashed potatoes and gravy.\n\nAs the days passed, the hedgehog grew stronger and its spirits lifted. Greta named him Herr Spiegel, and they became the best of friends. Together, they would explore the forest, with Greta always taking care to make sure that Herr Spiegel didn't get hurt.\n\nOne day, as they were walking through the woods, they stumbled upon a group of naughty boys who were throwing rocks at a mother bird and her nestlings. Greta's heart filled with sadness and anger at the sight, and she knew that she had to do something to help.\n\nShe stepped forward and confronted the boys, telling them in no uncertain terms that their behavior was unacceptable. The boys, taken aback by Greta's bravery and determination, apologized and promised to never harm another animal again.\n\nGreta and Herr Spiegel continued their adventures in the forest, always looking out for one another and protecting the creatures they encountered. And though the years passed, Greta never forgot the lessons she had learned from her dear friend the hedgehog: that kindness and compassion are the most powerful weapons of all.\n\nAs Greta grew older, she became known throughout the land as a wise and gentle soul, always ready to lend a helping hand. And whenever she saw a hedgehog, she would smile and think of her dear friend Herr Spiegel, who had taught her the true meaning of love and friendship.\n\nAnd so, my dear child, as you drift off to sleep tonight, remember the story of Greta and Herr Spiegel, and let it remind you of the importance of kindness and compassion in this world. Goodnight, sweet dreams, and may you always be a friend to those in need.",
+  "categories": {
+    "kind-hearted": "moral",
+    "golden curls": "physical",
+    "rosy cheeks": "physical",
+    "sweet laughter": "physical",
+    "joy to help others": "moral",
+    "gentle": "emotional",
+    "brave": "moral",
+    "determined": "mental",
+    "wise": "mental",
+    "gentle soul": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

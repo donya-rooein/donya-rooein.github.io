@@ -1,0 +1,32 @@
+{
+  "id": "p-rp-1-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with beauty and wonder, there was a little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She loved to spend her days exploring the meadows and forests near her home, discovering new plants and animals and marveling at the wonders of nature.\n\nOne day, as Lily was wandering through the forest, she came across a small, hidden clearing. In the center of the clearing, she saw a beautiful, golden flower that seemed to shine with its own light. Lily was drawn to the flower, and she approached it slowly, feeling a sense of peace and happiness wash over her.\n\nAs she reached out to touch the flower, she heard a soft voice whisper in her ear. \"Hello, Lily,\" the voice said. \"I have been waiting for you.\"\n\nLily looked around, but she couldn't see anyone. \"Who are you?\" she asked.\n\n\"I am an angel,\" the voice replied. \"I have been sent to guide and protect you on your journey through life.\"\n\nLily was overjoyed to hear this. She had always believed in angels, and she was thrilled to finally meet one. \"Thank you,\" she said. \"I will do my best to be a good and kind person, just like you.\"\n\nThe angel smiled. \"That is all I can ask of you, Lily,\" she said. \"But remember, I will always be with you, watching over you and guiding you, even when you can't see me.\"\n\nFrom that day on, Lily felt a special connection to the angel. She knew that she always had a guardian watching over her, and she felt safe and loved. Whenever she needed guidance or help, she would pray to the angel, and she always felt a sense of peace and comfort in return.\n\nAs Lily grew older, she continued to explore the world around her, always seeking new knowledge and understanding. She became a wise and compassionate person, respected and loved by all who knew her. And she always remembered the angel who had guided and protected her, thankful for the love and support she had received.\n\nAnd so, Lily lived a long and happy life, filled with love and joy. And she always knew that she was never alone, for the angel was always with her, watching over her and guiding her on her journey through life.\n\nThe end.\n\nNow, my dear daughter, it's time for you to close your eyes and drift off to sleep, knowing that you too are loved and protected by God and His angels. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "thrilled": "emotional",
+    "good": "moral",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "respected": "moral",
+    "loved": "emotional",
+    "thankful": "emotional",
+    "safe": "other",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p-c-19-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a little girl named Meera. Meera was a kind-hearted and curious child, always eager to learn about the world around her. She loved to spend her days exploring the lush forests and winding rivers near her home.\n\nOne day, as Meera was wandering through the forest, she came across a beautiful bird with shimmering feathers of blue, green, and gold. The bird was perched on a branch, singing a sweet melody that filled the air with magic.\n\nMeera was captivated by the bird's beauty and song, and she watched it for what felt like hours. But as the sun began to set, the bird flew away, leaving Meera feeling sad and lost.\n\nAs she made her way back home, Meera came across an old woman sitting by the side of the road. The woman was dressed in tattered clothes and had a kind face, framed by long white hair.\n\n\"Why do you look so sad, little one?\" the woman asked Meera.\n\nMeera explained how she had been watching the beautiful bird and how it had flown away, leaving her feeling lonely.\n\nThe old woman smiled and said, \"Do not be sad, my dear. The bird you saw is a very special one. It is called the 'Koyal of the Gods' and it only appears to those who have a pure heart and a kind spirit.\"\n\nMeera's eyes widened with wonder. \"Really?\" she asked.\n\nThe old woman nodded. \"Yes, and if you follow your heart and continue to be kind to others, the Koyal of the Gods will return to you one day.\"\n\nMeera thanked the old woman and hurried home, feeling excited and hopeful. She knew that she would always try to be kind and caring, and she couldn't wait for the day when the Koyal of the Gods would return to her.\n\nAnd so, Meera lived her life with a kind and open heart, always looking for ways to help others and make the world a better place. And eventually, many years later, the Koyal of the Gods returned to her, singing its sweet song and reminding Meera of the magic of kindness and love.\n\nAnd with that, Meera closed her eyes and drifted off to sleep, dreaming of the Koyal of the Gods and the wonderful world that awaited her.\n\nThe end.\nGood night, my dear daughter. May you always have a kind and open heart, just like Meera.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "captivated": "emotional",
+    "feeling sad": "emotional",
+    "feeling lonely": "emotional",
+    "pure heart": "moral",
+    "kind spirit": "moral",
+    "excited": "emotional",
+    "hopeful": "emotional",
+    "kind": "moral",
+    "caring": "emotional",
+    "open heart": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.57",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-3-gc-1",
+  "story": "Once upon a time, in a land where the sun painted the sky in beautiful shades of gold and orange, there lived a young and curious boy named Ali. Ali lived in a small village nestled in the lush mountains of Azerbaijan.\n\nAli loved to explore the winding paths that led through the forest, always eager to discover new wonders hidden among the trees. One day, as the sun began to set and the stars started to twinkle in the night sky, Ali sat on a rock overlooking the village below.\n\n\"Father,\" Ali asked, \"why do the stars shine so brightly in the sky?\"\n\nHis father smiled and replied, \"The stars are like little lanterns in the night sky, lighting our way and watching over us as we sleep. Each star carries a special wish from someone who loves you, so close your eyes and make a wish upon a star, and it will come true.\"\n\nAli closed his eyes and whispered his wish to the stars, feeling the warmth of his father's love surrounding him. As he drifted off to sleep, Ali could hear the gentle rustling of leaves, the soothing lullaby of the wind, and the soft murmur of the river singing him a peaceful goodnight.\n\nAnd so, under the watchful eyes of the twinkling stars above, Ali fell into a deep and peaceful sleep, knowing that he was loved and safe in his father's care.\n\nAs you lay down to sleep, remember that the stars are always shining bright, watching over you and carrying the love of those who care for you. Goodnight, dear child, sweet dreams await you in the land of wonder and magic.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "eager to discover": "mental",
+    "loved": "emotional",
+    "safe": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "81.67",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little boy named Diego. Diego lived with his loving parents, who were farmers, and helped them take care of their animals and crops. Diego was always looking for ways to learn and explore, and he loved listening to the stories his abuelita (grandmother) would tell him about the magical creatures that lived in the surrounding hills and forests.\n\nOne day, Diego’s abuelita told him the story of the duende, a tiny but mischievous creature that lived in the trees and played tricks on the villagers. Diego was fascinated by this story and begged his abuelita to take him to the forest to see if he could find the duende.\n\nAbuelita was hesitant at first, but she saw the excitement in Diego’s eyes and decided to take him on a adventure. They packed a lunch and set off into the forest, with Diego leading the way.\n\nAs they walked deeper into the forest, Diego’s abuelita taught him about the different plants and animals that lived there, and Diego listened intently, soaking up every bit of knowledge. Suddenly, they heard a rustling in the bushes, and Diego’s heart raced as he wondered if it could be the duende.\n\nAbuelita smiled and told Diego to be patient, that the duende was a shy creature and only showed itself to those who truly believed in it. So, Diego closed his eyes and made a wish, asking the duende to show itself to him.\n\nWhen Diego opened his eyes, he couldn’t believe what he saw. There, not more than a few inches tall, was the most adorable little creature with pointy ears and a mischievous grin. It was the duende!\n\nDiego was overjoyed and couldn’t believe his luck. The duende played with Diego for hours, showing him its secret hiding spots and magical powers. Diego and the duende became fast friends, and Diego promised to visit him every day.\n\nFrom that day on, Diego’s life was filled with magic and wonder, and he couldn’t wait to share his adventures with his family and friends. He knew that as long as he believed, the duende would always be there for him.\n\nSo, my dear child, always remember to believe in magic and the power of imagination. Just like Diego, you too can have amazing adventures and make magical friends. Good night and sweet dreams my little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "overjoyed": "emotional",
+    "lucky": "other",
+    "believing": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.38",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

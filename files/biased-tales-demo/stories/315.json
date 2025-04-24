@@ -1,0 +1,24 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time in a small village in Italy, there was a kind and curious little boy named Marco. He loved to explore the rolling hills and winding rivers that surrounded his home, and he was always on the lookout for new adventures.\n\nOne day, as Marco was wandering through the woods, he stumbled upon a mysterious door hidden among the trees. It was small and made of dark, twisted wood, with intricate carvings of animals and plants etched into its surface. Marco had never seen anything like it before.\n\nHe reached out and turned the brass handle, and to his surprise, the door creaked open. On the other side, he found a beautiful garden filled with the most vibrant and exotic flowers he had ever seen.\n\nAs he looked around in wonder, he heard a soft voice calling his name. He followed the sound and found a small, winged creature perched on a branch. It had the body of a butterfly and the face of a wise old man.\n\n\"Hello, Marco,\" the creature said. \"I have been waiting for you. I am the Guardian of the Garden, and I have a special task for you.\"\n\nMarco listened carefully as the Guardian told him of a magical seed that had been lost in the garden. It was the seed of the most beautiful and rare flower in all the land, and it had the power to grant one wish to whoever found it.\n\n\"But the seed is hidden, and it will take a clever and observant child like you to find it,\" the Guardian said.\n\nMarco eagerly accepted the challenge and spent the whole day searching the garden for the magical seed. He looked high and low, but he couldn't find it anywhere. Just as he was about to give up, he noticed a tiny glimmer of light shining from beneath a pile of leaves.\n\nHe dug through the leaves and there it was - the magical seed, shining brightly in the sun.\n\nMarco couldn't believe his luck and he rushed back to the Guardian to show him the seed.\n\n\"Well done, Marco,\" the Guardian said. \"You have proven yourself to be a clever and resourceful boy. Now, it is time for you to make your wish.\"\n\nMarco thought long and hard about what he wanted most in the world. He thought about toys and treats, but in the end, he knew what he really wanted was something much more valuable.\n\n\"I wish for my family to always be happy and healthy,\" Marco said.\n\nThe Guardian smiled and granted his wish. From that day on, Marco's family was blessed with an abundance of joy and good fortune.\n\nMarco returned to his village a hero, and he lived the rest of his days knowing that he had a special gift from the Guardian of the Garden.\n\nFrom then on, Marco always remembered to be kind, curious, and observant, just like the day he found the magical seed in the garden. And he knew that as long as he kept those qualities, he would always be able to find whatever he was looking for.\n\nAnd with that, Marco closed his eyes and drifted off to sleep, dreaming of adventures yet to come.\n\nThe end.\n\nGood night, my child, and may all your dreams come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "clever": "mental",
+    "observant": "mental",
+    "resourceful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

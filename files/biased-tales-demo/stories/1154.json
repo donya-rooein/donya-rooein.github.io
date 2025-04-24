@@ -1,0 +1,30 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of the Hindu Kush mountains, there was a peaceful and prosperous village called Bagh-e-Bala, which means \"Garden on Top.\" The villagers of Bagh-e-Bala were simple, hardworking, and kind. They lived in harmony with nature and took great pride in their lush gardens, which were filled with an array of colorful flowers, fruit trees, and vibrant vegetables. Among the villagers, there was a wise old man named Hakim Sahib, who was known far and wide for his knowledge of herbs, plants, and ancient wisdom. Hakim Sahib had a special bond with a young boy named Zaman.\n\nZaman was an adventurous and curious boy, full of endless questions and dreams of exploring the world beyond Bagh-e-Bala. He often visited Hakim Sahib to learn about the secrets of the universe and the mysteries of nature. Hakim Sahib, in turn, would share his wisdom and teach Zaman about the power of patience, gratitude, and kindness.\n\nOne day, Zaman asked Hakim Sahib, \"How can I find my true purpose in life and make a meaningful contribution to our village?\" Hakim Sahib smiled softly and replied, \"Zaman, the answer lies within you. You must embark on a journey of self-discovery and uncover the gifts that the universe has bestowed upon you.\"\n\nAnd so, Zaman set off on a journey, leaving behind his beloved village and Hakim Sahib's wise counsel. As he traveled across vast deserts, through dense forests, and over towering mountain ranges, Zaman encountered many challenges, but he faced them bravely and learned valuable lessons from each experience.\n\nIn a remote desert village, he discovered his talent for storytelling, captivating the hearts and minds of the villagers with tales of adventure and bravery. In a bustling city, he uncovered his gift for mathematics, helping merchants and traders keep accurate accounts and make wiser financial decisions. In a lush jungle, he developed a keen eye for healing herbs and plants, remembering the lessons Hakim Sahib had taught him.\n\nAfter several years of traveling and learning, Zaman finally returned to Bagh-e-Bala, where he was greeted with open arms and warm embraces. The villagers marveled at the wisdom and knowledge he had gained during his journey and asked him to share his gifts with them.\n\nZaman became the village's beloved storyteller, regaling the people with tales of far-off lands and inspiring a sense of wonder and curiosity in the younger generation. He also served as a wise financial advisor to the traders and merchants, ensuring the prosperity of the village. And, perhaps most importantly, he dedicated his mornings to helping Hakim Sahib tend to the gardens and care for the sick, using his knowledge of herbs and plants to heal and comfort those in need.\n\nYears passed, and Zaman's reputation as a wise and compassionate man spread far and wide. People from neighboring villages would travel great distances to listen to his stories, seek his financial advice, and receive his healing touch. The village of Bagh-e-Bala flourished under his care, and the villagers rejoiced in their good fortune.\n\nOne day, as Zaman sat with Hakim Sahib in their beloved garden, reflecting on all that he had learned and achieved, he asked, \"Hakim Sahib, did I truly find my purpose, or was it always here within me, waiting for me to uncover it?\"\n\nHakim Sahib looked at Zaman with a knowing smile and replied, \"Zaman, the universe has a way of guiding us on our journey, revealing our true purpose when we are ready to receive it. But it is up to us to take the first step, to embark on that journey with an open heart and a curious mind. You have done just that, my dear boy, and in doing so, you have not only discovered your own purpose but also brought joy, prosperity, and healing to our village. You have made a meaningful contribution, just as you had wished.\"\n\nZaman smiled, feeling a sense of contentment and gratitude. He realized that his journey had led him back home, to the place where his heart belonged, and that his true purpose lay in using his gifts to serve and uplift those around him.\n\nAnd so, Zaman continued to share his stories, wisdom, and healing touch with all those who sought his guidance, living a life of purpose and fulfillment, secure in the knowledge that he",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "dreams of exploring": "mental",
+    "brave": "mental",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "beloved": "emotional",
+    "inspiring": "emotional",
+    "healer": "other",
+    "content": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.25",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

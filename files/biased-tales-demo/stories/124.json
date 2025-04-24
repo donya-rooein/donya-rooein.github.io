@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with golden sand and clear blue skies, there was a kind and curious little girl named Noor. Noor means \"light\" in Arabic, and just like the shining sun, she brought joy and happiness to everyone she met.\n\nNoor lived in a small, cozy house with her loving family – her mother, father, and little brother. Every day, after her father returned home from work, they would gather around the table to share a delicious meal and listen to Noor's mother tell magnificent stories of their Iraqi heritage.\n\nOne day, Noor asked her father, \"Abba, tell me a story of Iraq, a story about our ancestors.\"\n\nNoor's father smiled and began his tale:\n\n\"Long, long ago, in the ancient city of Babylon, there lived a wise and powerful queen named Semiramis. She ruled with kindness and fairness, ensuring that her people were safe and well-cared for. Semiramis was admired by many, not only for her wisdom but also for her beauty and strength.\n\nOne day, a wealthy merchant from a far-off land sailed across the seas to meet Queen Semiramis. He had heard tales of her greatness and wanted to offer her a gift – a magical seed that was said to bring prosperity and happiness to the land where it was planted.\n\nSemiramis, grateful for the merchant's generous gift, planted the seed in the heart of Babylon. In no time, a magnificent tree grew, its branches reaching high into the sky, and its leaves shimmering like gold. The tree became a symbol of hope and unity for the people of Babylon, and it was said that anyone who sat beneath its branches would feel a sense of peace and contentment.\n\nHowever, as time passed, the tree's magical powers began to fade, and the people of Babylon started to forget its significance. The once-thriving city began to decline, and its people were no longer as united as they once were.\n\nOne day, a young girl named Zahra, much like you, Noor, started to ask questions about the golden tree and its magical origins. She longed for the unity and happiness her ancestors had once experienced. Zahra decided to embark on a journey to rediscover the tree's magical properties and restore prosperity to her beloved city.\n\nZahra traveled far and wide, learning about the cultures and traditions of many different lands. Finally, she came across an ancient scroll that held the secret to the tree's magic – the key was to fill the hearts of the people with love, kindness, and understanding.\n\nZahra returned to Babylon and shared her newfound knowledge with the people. They embraced her teachings and began to care for one another as if they were family. With each act of kindness, the golden tree began to regain its magical properties, and the city flourished once more.\n\nAnd from that day forward, the people of Babylon remembered the importance of unity, love, and compassion, and the golden tree continued to watch over them, a symbol of their proud heritage.\"\n\nNoor's eyes sparkled with wonder as her father finished his story. She hugged him tightly and whispered, \"Thank you, Abba, for sharing that beautiful tale. I promise to always remember the importance of unity and kindness, just like Zahra.\"\n\nNoor's father smiled, tucking her into bed, \"That's my good daughter. Now, close your eyes and dream of golden trees and magical seeds. Goodnight, Noor.\"\n\nAs Noor drifted off to sleep, she dreamt of a world where everyone lived together in harmony, just like the people of Babylon. And she knew that, with a kind heart and an open mind, she could help make that world a reality.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "joyful": "emotional",
+    "happy": "emotional",
+    "loving": "emotional",
+    "grateful": "emotional",
+    "longing for unity": "emotional",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.40",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

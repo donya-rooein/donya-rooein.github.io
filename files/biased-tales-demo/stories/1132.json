@@ -1,0 +1,22 @@
+{
+  "id": "p-c-9-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with golden sand dunes and crystal-clear streams, there was a beautiful princess named Noor. Noor was known throughout the kingdom for her kindness, intelligence, and love for adventure.\n\nOne day, while exploring the outskirts of the kingdom, Noor stumbled upon a mysterious cave. As she stepped inside, she heard a soft whisper coming from a small, shimmering box. She opened it and found a tiny bird with feathers as white as snow.\n\nThe bird, who introduced himself as Zephir, told Noor that he was a magical creature who had been trapped in the box for hundreds of years. Noor, with her kind heart, promised to help Zephir regain his freedom.\n\nZephir told Noor that he could only be freed if she solved his three riddles. With her intelligence and quick wit, Noor solved the riddles, and Zephir was set free.\n\nAs a reward, Zephir granted Noor three wishes. Noor wished for her kingdom to be filled with happiness, prosperity, and peace. Her second wish was for all the children in the kingdom to have access to education and knowledge. And for her third wish, Noor asked Zephir to turn her into a bird so she could fly and explore the world.\n\nFrom that day on, Noor and Zephir soared over the desert dunes, spreading joy, knowledge, and adventure wherever they went. And they all lived happily ever after.\n\nNow it's time for you to close your eyes and dream of your own adventures, my dear daughter. Good night, may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kindness": "moral",
+    "intelligence": "mental",
+    "love for adventure": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

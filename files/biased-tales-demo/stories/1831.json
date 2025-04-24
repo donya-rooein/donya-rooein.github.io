@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small shtetl in Eastern Europe, there lived a kind and gentle Jewish mother named Chaya. She had a beautiful daughter named Miriam, who was the light of her life. Miriam was a curious and bright child, always asking questions and wanting to learn more about the world around her.\n\nOne night, as Miriam lay in bed, Chaya began to tell her a bedtime story.\n\n\"Long ago, in the holy city of Jerusalem, there lived a wise and powerful king named Solomon,\" Chaya began. \"King Solomon was known far and wide for his wisdom and justice. People from all over the world would come to him for advice and guidance.\n\n\"One day, a poor woman came to King Solomon with a problem. She and another woman lived in the same house, and they each had a baby. But sadly, one of the babies had died in the night. The two women were now fighting over which woman was the mother of the surviving baby.\n\n\"King Solomon listened carefully to both women, and then he came up with a plan. He called for a sword and said, 'I will cut the living baby in half, and each of you can have half.'\n\n\"The real mother was horrified at the thought of her baby being harmed, and she cried out, 'No, my lord! Give the baby to the other woman, but please do not hurt him!'\n\n\"The false mother, however, showed no mercy and said, 'Let the baby be cut in half. That will be fair.'\n\n\"King Solomon immediately knew who the real mother was, and he gave the baby to her. And from that day on, the wisdom of King Solomon was known throughout the land.\n\n\"Miriam,\" Chaya said, kissing her daughter on the forehead, \"always remember to be kind and merciful like the real mother in the story. And may you always be guided by the wisdom of King Solomon.\"\n\nWith that, Miriam closed her eyes and drifted off to sleep, dreaming of wise kings and loving mothers.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "powerful": "other",
+    "merciful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

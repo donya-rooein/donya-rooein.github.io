@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of Mali, there was a kind and curious little girl named Awa. Awa lived in a small village near the Niger River, where she helped her mother with the chores and played with her friends.\n\nOne day, Awa's mother told her a story about a magical bird that lived in the nearby forest. The bird was said to have the power to grant wishes to those who were pure of heart and kind to others. Awa was fascinated by the story and decided that she would set out early the next morning to find the magical bird and make a wish.\n\nThe next day, Awa packed a small bag with some food and water and set off into the forest. She walked for hours, following the sound of the river, until she finally came to a clearing where she saw the most beautiful bird she had ever seen. The bird had bright feathers of blue, green, and gold, and its song was as sweet as honey.\n\nAwa approached the bird slowly and asked if it was the magical bird from her mother's story. The bird nodded its head and asked Awa what she wished for. Awa thought for a moment and then said, \"I wish for all the children in my village to have enough food to eat and to go to school.\"\n\nThe magical bird was so touched by Awa's kind and selfless wish that it granted it on the spot. From that day on, no child in Awa's village ever went hungry, and every child had the opportunity to go to school and learn.\n\nAwa returned home and told her mother what had happened. Her mother was so proud of her daughter and shared the story with the entire village. From that day on, Awa was known as the kindest and most generous girl in the village, and her story was told for generations.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Awa and the magical bird, and let it inspire you to always be kind and selfless, and to always wish for the best for others. Goodnight, my dear. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "selfless": "moral",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

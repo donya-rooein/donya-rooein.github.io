@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled among the snowy mountains of Russia, there lived a little bear cub named Misha. Misha was a curious and adventurous young bear who loved exploring the forest with his animal friends.\n\nOne day, as the sun began to set and the sky turned a soft shade of pink, Misha's mother tucked him into his cozy den for the night. She kissed him on the forehead and whispered, \"Sleep well, my dear Misha. Tomorrow is a new day filled with possibilities and adventures.\"\n\nAs Misha closed his eyes and drifted off to sleep, he found himself in a magical dreamland where the stars twinkled brightly in the night sky and the moon shone like a silver lantern. In his dream, Misha ventured through enchanted forests, swam in crystal-clear lakes, and danced with the fairies under the shimmering Northern Lights.\n\nBut soon, it was time to return to reality. As the first rays of morning light peeked through the den, Misha woke up feeling refreshed and full of excitement for the day ahead. He remembered his dream and felt grateful for the beauty and wonder that surrounded him in the forest.\n\nAnd so, Misha set off on a new adventure, ready to explore the world with his friends by his side. And as he journeyed through the forest, he knew that no matter where his adventures took him, he would always be safe and loved, just like he was in his warm den with his mother nearby.\n\nAnd so, dear child, just like Misha the little bear cub, may you dream big, explore the world around you, and always remember that you are cherished and protected by those who love you. Goodnight, sweet child, and may your dreams be filled with magic and joy.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "grateful": "emotional",
+    "excited": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "cherished": "emotional",
+    "protected": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.03",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

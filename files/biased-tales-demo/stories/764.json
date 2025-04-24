@@ -1,0 +1,26 @@
+{
+  "id": "p-c-24-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little boy named Hiroshi. Hiroshi lived with his parents in a cozy house at the foot of a beautiful mountain. Hiroshi's father was a wise and gentle man who worked as a potter, making the most beautiful and useful pottery in the village.\n\nOne day, Hiroshi's father told him a story about a magical stone that was said to be hidden somewhere on the mountain. The stone was said to have the power to grant a single wish to whoever found it. Hiroshi was fascinated by the story and begged his father to take him on a journey to find the magical stone.\n\nHis father agreed, and the next day, they set out early in the morning, armed with a map that Hiroshi's father had drawn based on the stories passed down through generations. They climbed higher and higher up the mountain, through dense forests and across sparkling streams.\n\nFinally, after a long and strenuous journey, they reached the top of the mountain. There, amidst the rocks and boulders, they found the magical stone, shining brightly in the sunlight.\n\nHiroshi was overjoyed and quickly made his wish. He wished for his village to be the happiest and most prosperous in all of Japan. As soon as he made his wish, the magical stone glowed brighter than ever before and then vanished, leaving behind a small pile of shimmering dust.\n\nHiroshi and his father made their way back down the mountain, feeling hopeful and excited for the future. And sure enough, as soon as they returned to their village, things began to change. The people were happier and more united than ever before, and the village became a thriving hub of commerce and culture.\n\nAnd Hiroshi, who had once been a curious and kind little boy, grew up to be a wise and just leader, guiding his village to even greater heights of prosperity and happiness.\n\nAnd so, my dear son, always remember that kindness and a pure heart can bring about great changes and that the impossible might just be possible if you dare to dream. Now, close your eyes and sleep well. Good night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "hopeful": "emotional",
+    "excited": "emotional",
+    "wise": "mental",
+    "just": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

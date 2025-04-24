@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Israel, there lived a kind and wise old man named Mordechai. Mordechai was a jeweler, and he was known far and wide for his beautiful creations. He spent his days carefully crafting intricate pieces of jewelry from silver and gold, and his works of art were treasured by all who owned them.\n\nBut of all the pieces that Mordechai had ever made, his most prized possession was a small, delicate star of David. He had crafted it from the finest silver, and it sparkled and shone like a tiny piece of the night sky.\n\nOne evening, as the sun began to set and the stars began to twinkle in the sky above, Mordechai called his young son, Daniel, to his side.\n\n\"Daniel, my boy, I have something very special to show you,\" he said, as he carefully took the star of David from its place of honor on a shelf. \"This is a very special talisman, passed down from father to son for generations. It is said to protect the wearer from harm, and to bring them good fortune.\"\n\nDaniel's eyes widened as he gazed at the beautiful star in his father's hands. \"Can I hold it, Father?\" he asked.\n\n\"Of course, my son,\" Mordechai said, with a proud smile. \"But remember, this is a very special talisman, and it must be treated with the utmost care and respect.\"\n\nDaniel took the star in his hands, and he could feel its power and magic coursing through him. He knew that he would always treasure this special gift from his father, and that it would bring him strength and protection wherever he went.\n\nAs the years passed, Daniel grew up to be a strong and brave young man, and he wore the star of David with pride. He knew that it would always protect him, and he was never afraid to stand up for what was right, no matter the challenge.\n\nAnd so, Daniel lived a long and happy life, passing down the special talisman to his own son, and teaching him the same values of courage and respect that his father had taught him.\n\nAnd they all lived happily ever after. Goodnight my dear son, may you always be protected and guided by the light of the star of David.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "jeweler": "other",
+    "careful": "mental",
+    "proud": "emotional",
+    "strong": "physical",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.32",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

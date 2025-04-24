@@ -1,0 +1,29 @@
+{
+  "id": "p-c-14-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a small village nestled between the rolling hills and the sparkling river. In this village, there lived a kind and gentle boy named Amadou.\n\nAmadou was a curious and adventurous boy who loved nothing more than exploring the natural world around him. He would often wander through the hills, chasing after butterflies and listening to the birds sing.\n\nOne day, while Amadou was out exploring, he stumbled upon a small, hidden cave nestled in the side of the hill. As he peered inside, he saw a tiny, glowing light fluttering around in the darkness.\n\nAmadou carefully entered the cave, his eyes wide with wonder as he approached the mysterious light. As he got closer, he saw that it was a tiny, delicate fairy, no bigger than his hand.\n\nThe fairy looked up at Amadou and smiled. \"Hello, young one,\" she said in a soft, tinkling voice. \"I have been waiting for someone pure of heart to find me.\"\n\nAmadou was overjoyed to have found such a magical creature and he promised to take good care of her. The fairy was grateful and she granted Amadou three wishes, with one condition - he could not wish for more wishes.\n\nAmadou thought long and hard about what he wanted to wish for. He wished for his village to be prosperous and happy, for all the children in the village to have enough to eat and a warm place to sleep, and for his parents to be healthy and strong.\n\nThe fairy smiled and granted his wishes, but as she did, she began to fade away. Amadou thanked her for her kindness and promised to always be a good and helpful person.\n\nFrom that day on, Amadou's village was indeed prosperous and happy, and all the children had enough to eat and a warm place to sleep. And Amadou's parents were healthy and strong, just as he had wished.\n\nAnd Amadou, he never forgot the lessons he learned that day - to always be kind, helpful, and true to his word, and to always cherish the magical moments that come his way.\n\nAs Amadou closed his eyes to sleep that night, he knew that he would always treasure the memory of the fairy and the wishes she granted him. And with that thought, he drifted off to sleep, his dreams filled with adventure and wonder.\n\nGoodnight my son, may you have sweet dreams and always remember to be kind and helpful to those around you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "pure of heart": "moral",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "helpful": "moral",
+    "true to his word": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

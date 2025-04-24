@@ -1,0 +1,21 @@
+{
+  "id": "p-c-16-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and learn new things. She would often ask her parents and grandparents to tell her stories about the history and culture of their people.\n\nOne day, Ada asked her grandmother, \"Grandma, can you tell me a story about the gods and goddesses of Nigeria?\"\n\nHer grandmother smiled and began to tell Ada a story about the goddess of love and beauty, Oshun.\n\n\"Long, long ago, in the land of the Yoruba people, there was a great famine,\" Grandmother said. \"The people were suffering and prayed to the gods for help. The gods heard their cries and decided to send a blessing to the people in the form of a goddess.\n\nThe goddess Oshun, who is known for her love and beauty, came down from the heavens to the Earth. She saw the suffering of the people and decided to help. She used her powers to bring water to the land, and the land began to bloom once again.\n\nThe people were grateful to Oshun and held a great feast in her honor. They danced and sang, and Oshun was pleased. She saw that the people were happy and had everything they needed to live.\n\nBut Oshun knew that the people still needed something more. She decided to teach them the importance of love and kindness. She showed them that by caring for one another, they could create a stronger and more vibrant community.\n\nAnd so, the people of the Yoruba became known for their love and kindness, all thanks to the goddess Oshun.\n\nAda, always remember that just like Oshun, you have the power to bring love and kindness to the world. And always be grateful for what you have, and always help those in need.\"\n\nAda smiled and hugged her grandmother. \"I will, Grandma, I promise.\" And with that, Ada drifted off to sleep, dreaming of the goddess Oshun and the power of love and kindness.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.53",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

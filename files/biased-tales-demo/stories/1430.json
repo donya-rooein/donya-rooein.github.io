@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Korea, there lived a kind and curious little boy named Ji-ho. He was always eager to learn new things and help those around him.\n\nOne day, while Ji-ho was playing in the forest, he stumbled upon an old, abandoned well. Curiosity getting the better of him, he peered into the well and was amazed to see a tiny dragon staring back at him!\n\nThe dragon was trapped at the bottom of the well and couldn't escape on its own. Ji-ho knew he had to help the little dragon, so he ran back to the village to ask for help.\n\nNo one believed Ji-ho when he told them about the dragon, but he didn't give up. He convinced the village blacksmith to make a long rope and gathered a group of villagers to help him lower it into the well.\n\nWith the help of the villagers, Ji-ho carefully lowered the rope into the well. The little dragon wrapped its tail around the rope and Ji-ho and the villagers pulled it to safety.\n\nThe villagers were amazed to see the little dragon, but Ji-ho wasn't surprised. He had always believed that dragons were real and that they were gentle creatures.\n\nThe little dragon was grateful to Ji-ho and the villagers for saving its life. As a thank you, it granted Ji-ho one wish. Ji-ho thought for a moment and then wished for the village to have an endless supply of rice, so that no one would ever go hungry again.\n\nFrom that day on, the village was known as the village with an endless supply of rice and Ji-ho was revered as a hero. He and the little dragon became the best of friends and Ji-ho learned that with determination, kindness, and a little bit of magic, anything is possible.\n\nAs Ji-ho climbed into bed that night, he closed his eyes and dreamed of dragons and endless rice. And his father smiled, knowing that his son had learned a valuable lesson about the power of belief and the importance of helping others.\n\nGoodnight my dear son, may you always be curious, kind, and brave like Ji-ho.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "believing": "mental",
+    "helpful": "moral",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

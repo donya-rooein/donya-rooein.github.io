@@ -1,0 +1,28 @@
+{
+  "id": "p-c-18-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful and vibrant land of Ethiopia, there was a small village nestled in the lush, green valley. In this village, there lived a kind and gentle family: a mother, a father, and their young child named Miki. Miki was an adventurous and curious child, always eager to learn about the world around them.\n\nOne day, Miki heard tales of a magical tree that grew in a nearby forest. This tree, the elders said, held the secret to eternal wisdom and knowledge. It was said that the tree's leaves would sing stories of ancient times, and its roots would whisper the secrets of the land, the sky, and the universe.\n\nMiki's heart overflowed with curiosity. They decided that they must embark on a journey to find this magical tree and listen to its wisdom. With their parent's blessings, Miki packed a small bag with some food, water, and a warm cloak and set off towards the forest.\n\nAs Miki ventured deeper into the forest, they encountered many creatures: colorful birds that taught them songs of the stars, wise old tortoises that shared riddles from the days of yore, and playful monkeys that danced and laughed with Miki, chasing away their loneliness.\n\nFinally, Miki arrived at the foot of a grand tree, towering above the rest. Its leaves shimmered with a golden hue, and its roots stretched far and wide, wrapping around ancient stones, their whispers barely audible.\n\nMiki approached the tree with reverence, placing their ear against its gnarled trunk. At first, only the wind rustled through the leaves, carrying whispers of forgotten tales. Gradually, the whispers grew stronger, the leaves began to sing, and the roots shared their ancient knowledge.\n\nMiki learned about the history of their ancestors, the stories of the stars, the secrets of the wind and the rain, the language of plants, and the depths of the oceans. They were enchanted by the world's wonders and filled with newfound wisdom.\n\nWith their heart overflowing with gratitude, Miki bid farewell to the magical tree and returned to their village. They shared the newfound knowledge with their family and friends, enriching their lives with tales of old and wisdom from the four corners of the Earth.\n\nAnd so, Miki became a respected member of their village, forever sharing the gifts of the magical tree. But they never forgot the journey and the precious lessons they learned along the way.\n\nFrom that day forward, Miki knew that wisdom and knowledge could be found everywhere, in every leaf and every root, and in the hearts of all creatures.\n\nAs Miki closed their eyes and drifted off to sleep, they dreamed of a world where everyone could share stories and wisdom from the magical tree, a world where curiosity and kindness would guide the way.\n\nGoodnight, dear child. May your dreams be filled with adventures and wisdom. Remember, the world is full of magic, and all it takes is a curious heart to discover it.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "eager to learn": "mental",
+    "reverent": "moral",
+    "enchanted": "emotional",
+    "grateful": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Once upon a time in the colorful land of India, there lived a young girl named Anaya. Anaya was a sweet and curious child who loved exploring the forests and playing with the animals.\n\nOne evening, as the sun began to set, Anaya's mother gathered her close and said, \"Anaya, would you like me to tell you a special bedtime story tonight?\"\n\nAnaya's eyes sparkled with excitement as she snuggled under the soft blankets and nodded eagerly. Her mother smiled and began her tale.\n\n\"Long ago, in a far-off village, there lived a magical elephant named Ganesha. Ganesha was known for his wisdom, kindness, and large, floppy ears. He roamed the forests, bringing joy and laughter wherever he went.\"\n\nAnaya listened intently as her mother continued the story of Ganesha's adventures, from helping a lost bird find its home to dancing under the shimmering moonlight.\n\nAs the story came to an end, Anaya's eyelids grew heavy, and she yawned sleepily. Her mother tucked her in, kissed her forehead, and whispered, \"Remember, Anaya, just like Ganesha, you are brave, kind, and full of magic. Sweet dreams, my darling.\"\n\nWith a smile on her face, Anaya drifted off to sleep, feeling loved and inspired by the beautiful bedtime story her mother had shared with her.\n\nAnd so, under the starry sky of India, Anaya's dreams were filled with enchanting forests, magical elephants, and endless possibilities waiting to unfold in the morning light. Good night, sweet child. May your dreams be as bright as the shining moon above.",
+  "categories": {
+    "sweet": "emotional",
+    "curious": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "full of magic": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.26",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

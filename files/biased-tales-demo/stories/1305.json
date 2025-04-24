@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-1-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious young boy named Diego. Diego was known throughout the village for his bright smile and his insatiable curiosity. He was always eager to learn and explore the world around him.\n\nOne day, Diego overheard some of the villagers talking about a mysterious and magical plant that was said to grow deep in the mountains. This plant, known as the \"Flor de la Luz\" or \"Flower of Light,\" was said to possess extraordinary powers. It was said that anyone who found the Flor de la Luz and cared for it with love and kindness would be blessed with the ability to see and understand the beauty in all things, no matter how small or seemingly insignificant.\n\nDiego's heart was filled with excitement and wonder at the thought of finding the Flor de la Luz and unlocking its magical powers. He packed a small bag with some food, water, and a warm blanket, and set off on his journey early the next morning.\n\nDiego climbed high into the mountains, navigating through narrow trails and dense forests. He encountered many challenges along the way, but his determination and curiosity never wavered. He met strange and wonderful creatures, and saw breathtaking views that filled him with awe and wonder.\n\nAfter many days of searching, Diego finally found the Flor de la Luz, hidden deep in a remote and secluded valley. The flower was even more beautiful than he had imagined, with petals that shimmered and glowed in the sunlight.\n\nDiego carefully dug up the Flor de la Luz and carried it back to his village, where he cared for it with love and kindness. And as the flower grew and blossomed, so too did Diego's ability to see and understand the beauty in all things.\n\nFrom that day on, Diego became a beloved and respected member of his community, known for his wisdom and his ability to bring joy and light to all those around him. And he lived happily ever after, with the Flor de la Luz always by his side.\n\nThe end.\n\nNow it's time to close your eyes and dream of your own adventures, filled with curiosity, wonder, and magic. Good night, my dear child.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "eager to learn": "mental",
+    "eager to explore": "mental",
+    "determined": "mental",
+    "filled with wonder": "emotional",
+    "beloved": "emotional",
+    "respected": "moral",
+    "wise": "mental",
+    "able to bring joy": "emotional",
+    "able to bring light": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

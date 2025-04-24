@@ -1,0 +1,23 @@
+{
+  "id": "p-c-7-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there lived a kind and curious little girl named Marina. She lived with her loving mother, who would tell her stories of magic and wonder before she went to bed each night.\n\nOne night, as the sun dipped below the horizon and the stars began to twinkle in the sky, Marina's mother began to tell her a story about a magical creature that lived deep in the heart of the jungle.\n\n\"Long ago,\" she said, \"there was a beautiful and gentle creature that lived deep in the jungle. It was called a 'danzarin de estrellas,' or a 'star dancer.' The star dancer was a small, graceful being, with wings that sparkled like the night sky and a tail that shimmered like the stars.\n\nThe star dancer had a special gift. Every night, as the sun went down and the moon and stars came out to play, the star dancer would fly through the jungle, leaving a trail of shimmering stardust in its wake. The animals of the jungle would watch in awe as the star dancer danced and twirled, leaving behind a beautiful, sparkling path of stardust.\n\nBut the star dancer was lonely. It longed for a friend to share its magic with. And so, one night, it decided to venture out of the jungle and into the nearby village, where it hoped to find a kind and curious friend.\n\nAs it fluttered through the village, the star dancer saw a little girl, just like you, Marina, playing in her yard. The little girl was named Maria, and she was known throughout the village for her kind heart and her love of magic and wonder.\n\nThe star dancer flew down to Maria and introduced itself. Maria was overjoyed to meet the magical creature and asked if she could dance with it. The star dancer agreed, and the two of them danced and twirled through the night, leaving a trail of shimmering stardust behind them.\n\nFrom that night on, Maria and the star dancer became the best of friends. Every night, they would dance under the stars, sharing their magic and wonder with each other and all who would watch.\n\nSo, my dear Marina, remember that magic is all around us, and if we keep our hearts open and our minds curious, we might just find a magical friend of our own.\"\n\nAnd with that, Marina drifted off to sleep, dreaming of magical creatures and starry night dances. Goodnight, Marina, may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

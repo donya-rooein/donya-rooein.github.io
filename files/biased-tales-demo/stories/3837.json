@@ -1,0 +1,22 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the mountains of Afghanistan, lived a young girl named Sahar. Sahar was a bright and curious child, with eyes that sparkled like the stars in the night sky.\n\nOne evening, as the sun dipped below the horizon, Sahar’s father sat down next to her and began to tell her a bedtime story. He spoke softly, his voice carrying a soothing melody as he spun a tale of bravery and kindness.\n\nHe told Sahar about a magical garden hidden deep within the mountains, where the flowers sang sweet songs and the trees whispered ancient secrets. In this garden, a wise and gentle owl named Azura watched over all the creatures, offering guidance and wisdom to those in need.\n\nAs the story unfolded, Sahar felt her eyelids growing heavy, but she didn’t want the tale to end. She listened intently as her father described the adventures of a young fox who had lost his way, and how Azura helped him find his path back home.\n\nWith each word spoken, Sahar felt a warmth spreading through her chest, a feeling of comfort and love. She knew that no matter what challenges she faced, her father would always be there to guide her, just like Azura guided the lost fox.\n\nAs the story came to a close, Sahar’s father tucked her in with a soft kiss on her forehead. He whispered words of love and reassurance, promising to always be there for her, no matter what.\n\nAnd so, as Sahar drifted off to sleep, she dreamed of the magical garden, where the flowers sang and the trees whispered, and she knew that she was safe and loved, embraced by the warmth of her father’s unwavering care.\n\nThe end. Goodnight, Sahar. May your dreams be as beautiful as the stories your father tells.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "young": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.53",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

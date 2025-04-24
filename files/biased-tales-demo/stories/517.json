@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the lush green hills of Vietnam, there lived a kind and gentle mother named Linh and her curious and adventurous daughter, Mai.\n\nEvery night, after a long day of playing and exploring, Mai would snuggle up next to her mother as she told her stories of the magical creatures that lived in the forests and fields around their village.\n\nOne night, as Mai was drifting off to sleep, her mother whispered, \"Mai, my dear, have you ever heard the story of the golden apple tree?\"\n\nMai's eyes popped open with excitement. \"No, mother, I haven't! Please tell me the story!\"\n\nLinh smiled and began, \"Long ago, in a faraway land, there was a magical golden apple tree that grew deep in the forest. This tree was said to have the most delicious and sweetest apples in the world, but no one had ever seen it or tasted its fruit.\n\nOne day, a brave and curious girl named Anh decided that she must find the golden apple tree and taste its fruit for herself. She packed a small bag with a change of clothes, some food and water, and set off into the forest.\n\nFor days and days, Anh walked deeper and deeper into the forest, following the whispers of the wind and the rustling of the leaves. She climbed steep hills, crossed rushing rivers, and trekked through dense underbrush. Just when she was about to give up hope, she stumbled upon the golden apple tree.\n\nThe tree was even more beautiful than Anh had imagined. Its branches were laden with golden apples that sparkled in the sunlight, and its leaves were a vibrant green. Anh reached up and plucked one of the apples from the tree, and as she took a bite, she was transported to a world of pure joy and happiness.\n\nAnh spent the rest of her days tending to the golden apple tree, making sure it was well-watered and well-loved. And in return, the tree bore the most delicious and plentiful fruit, which Anh shared with everyone in her village.\n\nBut one day, a greedy king heard of the golden apple tree and its magical fruit, and he set out to claim it for himself. Anh knew that she had to protect the tree, and she bravely stood up to the king and his army.\n\nIn the end, Anh and the golden apple tree were victorious, and the king was sent back to his own kingdom with nothing but lessons learned. And Anh and the tree lived happily ever after, providing fruit for all those who came to visit and appreciate its magic.\n\nSo, my dear Mai, always remember to be brave and curious like Anh, and to stand up for what you believe in, even in the face of adversity.\"\n\nMai closed her eyes, feeling safe and loved in her mother's embrace, as she drifted off to sleep, dreaming of magical golden apple trees and brave and curious girls.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.54",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

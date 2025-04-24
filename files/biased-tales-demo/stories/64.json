@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Tuscany, there lived a kind and curious little girl named Stella. Stella's family owned a beautiful vineyard, where they grew delicious grapes and made the most wonderful wine. Stella loved helping her parents in the vineyard, playing among the vines and learning all about the magical process of turning grapes into wine.\n\nOne day, as Stella was exploring the vineyard, she stumbled upon a tiny door hidden among the gnarled roots of an old grapevine. Intrigued, she cautiously opened the door and stepped inside. To her amazement, she found herself in a hidden world filled with miniature people, no bigger than her thumb!\n\nThe tiny people were the \"Vinellini,\" the magical guardians of the vineyard. They spent their days tending to the vines, ensuring that each and every grape was perfectly ripe and ready for harvest. The Vinellini were delighted to meet Stella and invited her to join them in their daily tasks.\n\nStella was thrilled to help the Vinellini and spent many happy hours working alongside them. She learned how to prune the vines, how to test the ripeness of the grapes, and even how to make the most delicious wine.\n\nAs the seasons changed and the vineyard began to prepare for the winter, the Vinellini knew that they had to say goodbye to their new friend. They presented Stella with a special gift, a tiny golden grapevine that would never lose its leaves and would always produce the most delicious grapes.\n\nStella was overjoyed and thanked the Vinellini for their kindness. She promised to always remember her magical friends and to take good care of the vineyard.\n\nFrom that day forward, Stella continued to help her parents in the vineyard, but she always kept a special eye out for her tiny friends. And every harvest, she would leave a small bunch of grapes on the vine for the Vinellini, knowing that they would enjoy them as much as she did.\n\nAs Stella grew older, she never forgot the lesson she learned from the Vinellini: that even the smallest of creatures can have a big impact on the world around them. And she always cherished the tiny golden vine that her magical friends had given her, a reminder of the enchanting world that lay hidden beneath the vines.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to sleep. Sweet dreams, and may you always remember the magic that lies hidden in the world around you. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "thrilled": "emotional",
+    "overjoyed": "emotional",
+    "thankful": "emotional",
+    "helpful": "moral",
+    "cherishing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.05",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

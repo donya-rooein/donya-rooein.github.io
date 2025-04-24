@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there was a young girl named Maria who lived with her mother and father. Maria was a kind and curious girl who loved to explore the world around her. She would often wander through the fields and forests near her home, discovering new and exciting things.\n\nOne day, as Maria was exploring the woods, she came across a beautiful butterfly with the most vibrant colors she had ever seen. The butterfly was perched on a flower, its wings fluttering gently in the breeze.\n\nMaria was so taken with the butterfly's beauty that she reached out to touch it. But as soon as she did, the butterfly fluttered away, leading Maria on a chase through the forest.\n\nMaria followed the butterfly for what seemed like hours, jumping over logs and darting around trees. She was determined to catch the butterfly and see its beautiful colors up close.\n\nEventually, Maria found herself at the edge of a clear, blue lake. There, basking in the sun, was the butterfly. But as Maria approached, she noticed that the butterfly was not alone. There were hundreds of butterflies, all with the same vibrant colors, flitting about the lake.\n\nMaria was in awe of the sight before her. She had never seen so many beautiful butterflies in one place. She sat down by the lake and watched the butterflies dance and play for what seemed like hours.\n\nAs the sun began to set, the butterflies started to fly away, back to their homes in the forest. Maria watched as they disappeared into the trees, feeling grateful for the beautiful site she had witnessed.\n\nFrom that day on, Maria made a point to visit the lake every day, watching the butterflies and marveling at their beauty. And every night, as she lay in bed, she would close her eyes and dream of the vibrant butterflies and the magic of the lake.\n\nThe end.\n\nNow it's time to close your eyes and dream of your own magical adventures. Goodnight my dear!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

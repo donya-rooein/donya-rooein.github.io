@@ -1,0 +1,22 @@
+{
+  "id": "p-c-27-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Indonesia, there was a little boy named Bayu. Bayu was a kind and curious boy who loved to explore the world around him. He lived with his parents in a cozy wooden house near a lush forest, where he spent most of his days playing and discovering new things.\n\nOne day, Bayu heard a strange sound coming from the forest. It was a soft, melodic whistle that seemed to be getting closer and closer to his house. Bayu was curious, so he followed the sound until he came across a beautiful bird with feathers of all shades of blue and a long, curved beak.\n\nThe bird introduced itself as Bidadari, which means \"angel\" in Indonesian. Bidadari told Bayu that she had been separated from her family and was lost in the forest. She asked Bayu if he could help her find her way back home.\n\nBayu was happy to help and agreed to accompany Bidadari on her journey. They walked and flew through the forest, crossing rivers and climbing hills until they reached a magnificent palace made of gold and jewels. It was the palace of the king of the birds, who was Bidadari's father.\n\nThe king was overjoyed to see his daughter and thanked Bayu for bringing her back home. As a reward, he granted Bayu a wish. Bayu thought for a moment and then wished for the ability to understand and speak the language of all animals.\n\nThe king was impressed with Bayu's wish and granted it. From that day on, Bayu could talk to any animal he met, and he used his gift to help them whenever they needed it. He became the best friend of all the creatures in the forest and lived happily ever after.\n\nAs Bayu drifted off to sleep, he couldn't wait to see what adventures the next day would bring, now that he could understand the language of the animals.\n\nThe end.\n\nGute Nacht, sayang. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "happy to help": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.29",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

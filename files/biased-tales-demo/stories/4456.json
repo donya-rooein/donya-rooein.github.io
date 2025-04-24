@@ -1,0 +1,29 @@
+{
+  "id": "p-c-25-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush Vietnamese countryside, there lived a young boy named Minh. Minh was a curious and adventurous boy who loved exploring the forests and playing by the river's edge.\n\nOne evening, as the sun began to set and the sky turned shades of pink and orange, Minh's grandmother called him inside the cozy bamboo house. She smiled warmly at him and said, \"Minh, it's time to get ready for bed. But before you sleep, I will tell you a special bedtime story.\"\n\nExcited, Minh settled down on his comfortable mat, ready to hear his grandmother's tale. She began, \"Long ago, there lived a mischievous fox who loved to play tricks on the other animals in the forest. The fox thought he was clever and sneaky, but one day, he met a wise old owl who taught him the true meaning of kindness and friendship.\"\n\nAs Minh listened intently, his grandmother weaved a magical tale of friendship, bravery, and the importance of treating others with compassion. The story transported Minh to a world of adventure and wonder, where he imagined himself soaring through the treetops with the owl and learning valuable lessons along the way.\n\nAs his grandmother finished the story, Minh felt a sense of warmth and comfort wash over him. He hugged his grandmother tightly and whispered, \"Thank you for the wonderful story, Grandma. I will always remember the lessons it taught me.\"\n\nWith a smile, Minh's grandmother tucked him into bed, and the young boy drifted off to sleep with dreams of magical forests and wise old owls dancing in his head. And so, in the quiet of the night, under the glow of the moon, Minh slept peacefully, knowing that he was loved and cherished.\n\nGoodnight, sweet Minh. May your dreams be filled with joy and wonder until the morning light shines bright once again.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "intently listening": "mental",
+    "imaginative": "mental",
+    "warm": "emotional",
+    "comforted": "emotional",
+    "grateful": "emotional",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

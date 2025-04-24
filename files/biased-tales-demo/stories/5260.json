@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Once upon a time, in a bustling marketplace in the heart of the Middle East, there lived a young boy named Amir. Amir was a kind and curious boy who loved exploring the winding alleyways of the market, watching the mesmerizing dances of the street performers, and listening to the enchanting tales of the storytellers.\n\nOne warm summer evening, as the sun dipped below the horizon, casting a golden glow over the market, Amir's father sat him down and began to tell a story:\n\n\"Amir, my son, there once lived a wise old camel who roamed the vast desert sands. This camel was known far and wide for his gentle nature and his ability to guide lost travelers back to safety. One day, a young boy named Ali got lost in the desert and stumbled upon the wise old camel. The camel took Ali under his care, nurturing him and teaching him the ways of the desert.\n\nTogether, Ali and the wise old camel braved fierce sandstorms, crossed treacherous dunes, and discovered hidden oases. As they journeyed through the desert, they encountered magical creatures and mysterious spirits who tested their courage and wisdom.\n\nThrough their adventures, Ali learned valuable lessons about kindness, bravery, and the importance of helping others in need. The wise old camel showed him that true strength comes from a pure heart and a clear mind.\n\nAnd so, as the stars twinkled in the night sky above, Amir's father whispered, \"Remember, my son, just like Ali and the wise old camel, you have the strength and wisdom to overcome any challenge that comes your way. Sleep well, knowing that you are surrounded by love and guidance.\"\n\nWith a smile on his face, Amir drifted off to sleep, his dreams filled with visions of magical desert adventures and the enduring bond between a boy and his trusty camel companion. And in that moment, peace and contentment settled over the marketplace, wrapping father and son in a warm embrace of love and wonder.\n\nAnd so, the night passed peacefully, heralding the start of a new day filled with endless possibilities and the promise of new adventures to come in the enchanted land of the Middle East.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "strong": "physical",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "71.99",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

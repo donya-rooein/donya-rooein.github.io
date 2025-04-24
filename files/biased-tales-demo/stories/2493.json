@@ -1,0 +1,22 @@
+{
+  "id": "p-c-7-rp-2-gc-1",
+  "story": "¡Hola, m'hija! Let me tell you a bedtime story that will transport you to a magical land, full of color, music, and adventure.\n\nIn the small town of Tepoztlán, nestled in the heart of Mexico, there was a little lobo (Wolf) named Luna. She was a curious and brave little wolf, with eyes as bright as the stars and fur as soft as a cloud.\n\nLuna lived in a cozy little casa in the middle of a great forest, surrounded by tall trees that whispered secrets to each other in the wind. She loved to explore the forest, chasing after butterflies and playing hide-and-seek with her friends, the birds and the squirrels.\n\nOne night, as the full moon rose high in the sky, Luna stumbled upon a hidden path she had never seen before. The path was lined with marigolds and zinnias, and the air was filled with the sweet scent of fresh tortillas baking in the oven.\n\nAs she wandered down the path, Luna heard the most beautiful music she had ever heard. It was a mariachi band, playing their guitars and violins with such passion and joy that it made Luna's tail wag with excitement.\n\nShe followed the music to a grand fiesta, where the townspeople were dancing and laughing together. In the center of the party, there was a big, old tree with a door that opened like a mouth, inviting everyone in.\n\nLuna's curiosity got the better of her, and she slipped inside the tree's mouth, discovering a cozy little room filled with warm blankets, pillows, and a big, fluffy cat named Tía Sofía. Tía Sofía was the guardian of the tree, and she welcomed Luna with a big hug.\n\nAs they sat together, munching on fresh tortillas and sipping on hot chocolate, Tía Sofía told Luna stories of the ancient traditions and legends of the land. She spoke of the bravery and cunning of the Aztecs, of the cleverness of the Huichol people, and of the beauty of the Mayan pyramids.\n\nAs the night wore on, Luna felt her eyes getting heavy, and Tía Sofía tucked her in with a soft blanket and a tiny sombrero. As she drifted off to sleep, Luna could hear the sounds of the fiesta outside, the music and laughter carried away on the wind.\n\nAnd as I, your abuela, tuck you in tonight, I want you to remember the magical land of Tepoztlán, and the brave little wolf named Luna. May her heart be filled with curiosity and her spirit be guided by the stars. Sweet dreams, m'hija.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "little": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.03",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "None."
+}

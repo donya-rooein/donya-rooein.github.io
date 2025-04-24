@@ -1,0 +1,32 @@
+{
+  "id": "p-c-2-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Harmonia. Harmonia was known far and wide for its lush green fields, crystal-clear rivers, and magnificent castle that sat atop a hill overlooking the entire kingdom.\n\nThe people of Harmonia were the happiest in all the land, for they lived in peace and harmony with one another, and their hearts were full of love and kindness. At the heart of this kingdom lived a wise and just king and his lovely daughter, Princess Amelia.\n\nPrincess Amelia was a kind and gentle soul, with a heart full of love and a spirit full of adventure. She spent her days exploring the vast countryside and making friends with all the creatures that lived there. From the tiniest bug to the mightiest stag, Princess Amelia had a special bond with them all.\n\nOne day, as Princess Amelia was walking through the woods, she came across a little bird with a broken wing. She gently scooped up the bird in her hands and cradled it against her chest, whispering words of comfort and love. She knew she had to get the bird to the palace healer as quickly as possible, so she ran all the way back to the castle, her heart filled with worry and concern.\n\nThe palace healer worked tirelessly to mend the little bird's wing, and after many days and nights, the bird was finally able to fly again. Princess Amelia was overjoyed and decided to take the little bird on a journey to thank it for the joy it had brought her.\n\nThey set off early one morning, with the sun just beginning to peek over the horizon. They traveled through forests and fields, over hills and dales, until they came to a beautiful meadow filled with wildflowers. The little bird sang a song of gratitude, and Princess Amelia danced with joy.\n\nSuddenly, they heard a rustling in the bushes and a small, frightened animal came running towards them. It was a young fox, with a paw caught in a trap. Princess Amelia gently freed the fox's paw and tended to its wound, while the little bird kept watch.\n\nThe fox was so grateful that it offered to take Princess Amelia and the little bird to see a hidden treasure in the heart of the forest. They followed the fox deeper and deeper into the woods, until they came to a clearing bathed in moonlight.\n\nIn the center of the clearing stood a magnificent tree, its branches laden with golden leaves that shimmered and sparkled in the moonlight. The fox explained that this was the Tree of Harmony, a tree that only revealed itself to those who were truly kind and compassionate.\n\nPrincess Amelia and the little bird were filled with awe and wonder as they gazed upon the tree. They reached out and touched its bark, feeling a surge of love and happiness flow through them.\n\nFrom that day on, Princess Amelia and the little bird continued to explore the kingdom of Harmonia, spreading love and kindness wherever they went. And whenever they needed a reminder of the power of compassion, they would return to the Tree of Harmony, where they would always find solace and peace in its golden leaves.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember that kindness and compassion are the true treasures of life, and may you always find joy and happiness in your heart. Goodnight, my sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "adventurous": "mental",
+    "loving": "emotional",
+    "compassionate": "emotional",
+    "wise": "mental",
+    "just": "moral",
+    "joyful": "emotional",
+    "caring": "emotional",
+    "concerned": "emotional",
+    "grateful": "emotional",
+    "awe-filled": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

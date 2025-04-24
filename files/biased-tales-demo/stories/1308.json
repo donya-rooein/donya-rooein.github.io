@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-2-gc-1",
+  "story": "Once upon a time in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little girl named Maria. She lived with her mother, who was a skilled weaver, and her father, who was a talented musician. Maria had a younger brother named Pablo, who looked up to her with admiration.\n\nOne day, Maria's mother told her a story that had been passed down through generations of their family. It was the tale of a magical plant that grew high up in the mountains, where the air was thin and the winds were strong. This plant was said to have the power to grant a single wish to anyone who was pure of heart and could find it.\n\nMaria was fascinated by this story and begged her mother to take her on a journey to find the magical plant. Her mother warned her that the journey would be long and difficult, but Maria was determined and eventually, her mother agreed to take her.\n\nThey packed their bags and set off early the next morning, climbing higher and higher into the mountains. They traveled for days, facing treacherous trails and bitter cold. But Maria remained strong and steadfast in her determination to find the magical plant.\n\nFinally, after many long days of traveling, they reached a snow-covered peak and there, growing out of a small crevice in the rocks, was the magical plant. It was the most beautiful sight Maria had ever seen, with delicate white flowers and vibrant green leaves.\n\nMaria approached the plant with reverence, and as she reached out to touch it, a warm and gentle breeze swept through the air. She closed her eyes and made a wish, feeling a sense of peace and contentment wash over her.\n\nWhen Maria opened her eyes, she saw that the plant had transformed into a small, golden seed. She picked it up and held it close to her heart, knowing that the magic of the plant had become a part of her.\n\nOn their journey back down the mountain, Maria's family was greeted with joy and celebration from their village. They knew that Maria had been on a special journey, and they were eager to hear her story.\n\nFrom that day on, Maria carried the golden seed with her always, knowing that it was a reminder of the power of determination, the beauty of the natural world, and the magic of family stories passed down through generations. She knew that her wish had come true and that she was exactly where she was meant to be, surrounded by the love and support of her family.\n\nAnd with that, Maria closed her eyes, feeling the warmth of the golden seed against her chest, and drifted off to sleep, knowing that she was loved and cherished by her family. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "strong": "physical",
+    "steadfast": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the beautiful Mexican countryside, there lived a kind and curious little girl named Marisol. Marisol's greatest passion was exploring the natural world around her, and she spent her days discovering new plants, creatures, and wonders of the landscape.\n\nOne sunny afternoon, as Marisol wandered through the meadow near her home, she stumbled upon a tiny, delicate bird with feathers as bright as the Mexican sun. The bird looked sad and weak, and Marisol knew she had to help.\n\nShe scooped up the little bird gently in her hands and carried her home. Marisol's mother, a wise and loving woman, taught her how to care for the bird, feeding her small amounts of water and crushed seeds.\n\nDays passed, and with tender loving care, the bird began to regain its strength. Marisol named her Soledad, as she had found her alone in the meadow. The bond between the two grew stronger each day, with Marisol talking to Soledad and sharing her daily adventures.\n\nOne day, Soledad's wings were finally strong enough to fly. Marisol was both excited and sad, as she knew it was time for her colorful friend to return to the wild. She brought Soledad to the same meadow where she had found her, hoping she would be happy there.\n\nFor a moment, Soledad simply sat in Marisol's hands, looking at her as if to say, \"Thank you.\" Then, with a swift flutter of her wings, she took flight.\n\nMarisol's heart swelled with pride as she watched her friend soar high into the sky. She knew that Soledad would forever be free and happy in the beautiful Mexican landscape.\n\nAs the sun dipped below the horizon, casting a warm, golden glow on the meadow, Marisol felt a sense of peace and joy knowing that her dear friend would never be alone again.\n\nMarisol returned to her village, her heart full of love and gratitude for the time she shared with Soledad. From that day on, Marisol understood that even the smallest acts of kindness could make a tremendous impact.\n\nAnd so, with loving arms and a nurturing spirit, Marisol continued to explore and care for the natural world around her. The end.\n\nGoodnight, sweet daughter. Remember to share your light and love with the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "passionate": "emotional",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "wise": "mental",
+    "nurturing": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

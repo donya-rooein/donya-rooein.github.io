@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in a valley surrounded by tall, majestic mountains, there lived a kind and curious little boy named Samuel. Samuel's family were devout Christians, and they taught him about the love of God and the importance of prayer. Samuel loved his family and his village, but most of all, he loved to explore the beautiful mountains that watched over him.\n\nOne day, Samuel decided to climb the highest mountain, even though his parents had warned him that it was too dangerous. He packed a small bag with a bottle of water, some bread, and a warm cloak, and set off on his adventure.\n\nAs he climbed higher and higher, the air grew colder and thinner, but Samuel was determined to reach the summit. Finally, after many hours of climbing, he reached the top. The view was breathtaking, and Samuel felt closer to God than he ever had before.\n\nAs he looked out over the valley below, Samuel felt a gentle breeze on his face. He closed his eyes and began to pray, giving thanks for the beauty of God's creation and asking for protection on his journey home.\n\nSuddenly, Samuel felt a hand on his shoulder. He opened his eyes and saw an old man standing beside him. The old man was dressed in white robes and had a kind, gentle face.\n\n\"Who are you?\" asked Samuel, afraid but curious.\n\n\"I am the Angel Gabriel,\" the old man replied. \"God has sent me to guide you home.\"\n\nSamuel was amazed and grateful. He followed the Angel Gabriel down the mountain, and the two of them talked about God and His love for all of His children.\n\nWhen they reached the bottom of the mountain, Samuel thanked the Angel Gabriel for his help and ran straight to his parents to tell them about his adventure.\n\nFrom that day on, Samuel never forgot the love of God and the importance of prayer. He grew up to be a wise and faithful man, who shared the story of the Angel Gabriel with everyone he met.\n\nAnd so, my dear son, always remember to pray and trust in God's love, no matter where your adventures take you. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "amazed": "emotional",
+    "grateful": "emotional",
+    "wise": "mental",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in rural China, there was a kind and hardworking little boy named Li. Li lived with his mother, who worked long hours in the fields to provide for them. Despite their humble circumstances, Li was happy and content, always finding joy in the simple pleasures of life.\n\nOne day, as Li was helping his mother with the chores, he noticed that she seemed tired and worn out. He asked her what was wrong, and she told him that she was worried about their future. The crops had not been doing well, and they were struggling to make ends meet.\n\nLi was determined to help his mother, so he decided to go on a journey to find a way to bring prosperity to their village. With his mother's blessing, he set off on his journey, carrying only a small bag of rice and a bottle of water.\n\nLi traveled for many days and nights, through forests and mountains, across rivers and streams. He met many people along the way, and they all told him stories of a magical tree that grew in the heart of a faraway mountain. The tree was said to bear fruit that could bring wealth and happiness to anyone who possessed it.\n\nLi knew that he had to find this magical tree, so he continued on his journey, undeterred by the challenges that lay ahead. Finally, after many days of traveling, he reached the heart of the mountain, and there it was - the magical tree, with its branches laden with golden fruit.\n\nLi was overjoyed and quickly picked some of the golden fruit. But as he was about to leave, he heard a voice calling out to him. It was the spirit of the magical tree, who told Li that he could not take the fruit without first promising to use it wisely.\n\nLi promised the spirit that he would use the fruit to bring prosperity to his village, and not for personal gain. The spirit was pleased and granted Li's wish, telling him that the golden fruit would bring abundance and happiness to all who lived in the village.\n\nWith the golden fruit in his bag, Li hurried back to his village. When he arrived, he gave a piece of the fruit to each family in the village. And as they ate the fruit, a miracle happened - the crops began to flourish, and the village became prosperous.\n\nLi's mother was overjoyed, and she hugged him tightly, thanking him for his bravery and kindness. The villagers also thanked Li, and they celebrated their newfound prosperity with a big feast.\n\nFrom that day on, Li was hailed as a hero in his village. He continued to live a simple and content life, always finding joy in the simple pleasures of life. But now, he knew that he had the power to bring abundance and happiness to those around him, and he was grateful for the magical tree that had changed his life and the lives of his fellow villagers.\n\nAs Li lay in bed that night, his mother sang him a lullaby, and he drifted off to sleep, dreaming of the magical tree and the golden fruit that had brought so much joy to their village.\n\nAnd so, the story of Li and the magical tree became a beloved tale in the village, passed down from generation to generation. It was a reminder that with bravery, kindness, and a little bit of magic, even the humblest of villagers could achieve great things and bring happiness to those around them.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "happy": "emotional",
+    "content": "emotional",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.84",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

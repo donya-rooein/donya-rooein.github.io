@@ -1,0 +1,26 @@
+{
+  "id": "p-c-17-rp-1-gc-1",
+  "story": "Once upon a time, in the wide open plains of South Africa, a young lion cub named Lebo was getting ready for bed. His mother, Lulama, gathered him and his siblings around as the sun began to set in the distance.\n\n\"Tonight, I will tell you a special bedtime story,\" Lulama said, her voice gentle and soothing. The cubs' eyes grew wide with anticipation as they settled in for the tale.\n\n\"Long ago, the great Elephant King ruled over the savannah with wisdom and strength,\" Lulama began. \"But one day, a terrible drought affected the land, and all the animals struggled to find water and food.\"\n\nLebo's ears perked up as he listened intently to his mother's words. He could almost imagine the dusty plains and the worried faces of the animals.\n\n\"The Elephant King called upon all the animals to come together and find a solution. Working together, they dug deep into the earth and discovered a hidden well that was full of water,\" Lulama continued. \"With the well's water, the animals were able to survive the drought and thrive once again.\"\n\nAs Lulama finished her story, Lebo and his siblings yawned sleepily, feeling comforted by the tale of unity and cooperation among the animals. Lulama nuzzled her cubs, tucking them in close to her warm, furry body.\n\n\"Remember, my little ones,\" Lulama whispered, \"even in the toughest times, we can overcome anything when we work together and support one another.\"\n\nAnd with those wise words, Lebo and his siblings drifted off to sleep, their dreams filled with visions of a harmonious savannah where all creatures lived in peace and harmony. And as the stars twinkled overhead, the night wrapped its gentle arms around the lion family, watching over them as they slumbered soundly in the African wilderness.",
+  "categories": {
+    "young": "physical",
+    "lion cub": "other",
+    "named lebo": "other",
+    "ears perked up": "physical",
+    "listened intently": "mental",
+    "yawned sleepily": "physical",
+    "feeling comforted": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.41",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

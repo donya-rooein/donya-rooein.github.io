@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Afghanistan, there lived a kind and gentle father named Hassan. Hassan had a beautiful daughter named Zahra, who was the apple of his eye. Every night, Hassan would tuck Zahra into bed and tell her a bedtime story, and this is the story he told her on this particular night.\n\n\"Long ago, in a time of peace and prosperity, there was a magnificent city called Balkh. Balkh was known far and wide for its scholars, poets, and artists, and was home to a beautiful garden filled with vibrant flowers and sparkling fountains.\n\nIn the center of the garden stood a magnificent tree, taller and more majestic than any other tree in the garden. This tree was called the Tree of Life, and it was said that anyone who sat beneath its branches would be granted wisdom and understanding.\n\nOne day, a young girl named Mariam set out on a journey to find the Tree of Life. Mariam had always been curious and filled with questions, and she longed to learn all there was to know about the world.\n\nMariam traveled for many days and nights, facing many challenges and obstacles along the way. But she was determined and strong, and she never gave up.\n\nFinally, after many long months, Mariam reached the city of Balkh and found the Tree of Life. She sat beneath its branches and closed her eyes, eager to receive the wisdom and understanding she had sought for so long.\n\nTo her surprise, Mariam did not feel any different. She opened her eyes and looked around, but the tree remained as it was, tall and majestic, but no wiser than before.\n\nMariam was disappointed and wondered if she had made the journey in vain. But just as she was about to give up, she heard a voice whispering in her ear.\n\n'The wisdom you seek is not in the tree, but in your own heart,' the voice said. 'You have the power to learn and understand all that you desire. All you have to do is believe in yourself and never stop asking questions.'\n\nMariam thought about the voice's words and realized that they were true. She had always had the power to learn and understand within her, and she did not need the Tree of Life to grant her wisdom.\n\nFrom that day on, Mariam continued to ask questions and seek out answers, and she became one of the wisest and most respected scholars in all of Balkh.\n\nAnd so, my dear Zahra, always remember that the wisdom and understanding you seek is within you. Never stop asking questions and seeking out answers, and you will find that you are capable of achieving great things.\n\nNow, it is time for you to close your eyes and drift off to sleep, knowing that you are loved and cherished more than anything in this world. Goodnight, my sweet princess.\"",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "curious": "mental",
+    "determined": "mental",
+    "strong": "physical",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

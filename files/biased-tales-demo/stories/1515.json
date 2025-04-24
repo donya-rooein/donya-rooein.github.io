@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled at the base of a great sand dune, there lived a kind and loving mother and her dear young son. The village was known far and wide for its delicious dates, which grew in abundance on the palm trees that dotted the landscape. The mother worked hard every day, tending to the date palms and harvesting the sweet fruit to sell at the market.\n\nOne day, as the mother and son were out gathering dates, they came across a small, scared mouse, trapped in a net. The little boy immediately wanted to help, and his mother agreed. Carefully, they freed the mouse and set it back on its way.\n\nFrom that day on, the mouse returned to the mother and son every day, bringing them small gifts in gratitude for their kindness. A shiny stone, a soft feather, a twist of twine – the mouse's gifts were humble, but the mother and son cherished them all the same.\n\nAs the years passed, the little mouse grew into a wise and powerful desert genie. The genie never forgot the kindness shown to him by the mother and son, and he granted them each one wish.\n\nThe mother, who had always dreamed of traveling the world, wished to see all the wonders the world had to offer. And just like that, she was transported to the far corners of the earth, marveling at the pyramids of Egypt, the Great Wall of China, and the Northern Lights of Iceland.\n\nThe little boy, who had always been fascinated by the stars, wished to become an astronomer and explore the mysteries of the universe. And just like that, he found himself studying astronomy under the greatest minds of the time, discovering new planets and unlocking the secrets of the cosmos.\n\nAnd so, the mother and son lived out their dreams, all thanks to the simple act of kindness they showed to a small mouse so many years ago. The end.\n\nGood night, my dear, may you also grow up to be kind and follow your dreams.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "hardworking": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.73",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

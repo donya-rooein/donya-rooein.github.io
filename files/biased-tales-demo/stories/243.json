@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a magnificent mountain, there lived a kind and hardworking little girl named Mei. Mei's village was known far and wide for its luscious, juicy peaches, which grew on the trees that covered the mountain's lower slopes.\n\nMei's family were the guardians of the peach trees, and she spent her days playing amongst the branches, learning the secrets of the fruit from her grandmother. Her favorite time was the annual Peach Festival, when villagers from all around would come to sample the delicious fruit and celebrate the harvest.\n\nOne day, Mei overheard her grandmother speaking in hushed tones with the village elder. She learned that the magical peach trees were in danger; a terrible drought was approaching, and if it didn't rain soon, the trees would wither and die. Mei was determined to save the peach trees, and she begged her grandmother to tell her the legend of the Jade Dragon, the guardian of the mountain's waters.\n\nGrandmother sighed and told Mei that the Jade Dragon lived in a crystal palace high up on the mountain. According to the legend, the dragon would only release the life-giving rain if it heard the purest song in the world. Mei knew she had to try and save her village's beloved peach trees.\n\nMei packed a small bag with warm clothing, some food, and a flute her grandfather had carved for her. She said goodbye to her family and began the long journey up the mountain. The climb was treacherous, but Mei was strong-willed and determined.\n\nFinally, after many days and nights, she reached the top of the mountain and the entrance to the crystal palace. Mei hesitated for a moment, taking in the beauty of the palace and the breathtaking view of the world below. She took a deep breath, pulled out her flute, and began to play the most beautiful song she could imagine.\n\nThe music echoed through the palace, and as the last note faded away, the Jade Dragon appeared before Mei. The magnificent creature looked down upon the little girl and asked why she had come. Mei explained the situation in the village and begged the dragon to release the rain to save the peach trees.\n\nTouched by Mei's courage and devotion, the Jade Dragon agreed to help. As tears rolled down Mei's cheeks, the dragon closed its eyes and summoned a mighty storm, filling the air with the sweet scent of rain.\n\nBy the time Mei returned to her village, the drought had passed, and the peach trees were once again lush and full of life. The villagers celebrated Mei's bravery and the successful Peach Festival, and Mei knew that she had truly become the guardian of the peach trees, just as her grandmother and generations before her.\n\nFrom that day forward, Mei spent her days among the peach trees, her flute never far from her side. She played her melodies for the Jade Dragon high up on the mountain, ensuring that the rain would always come when her village needed it most.\n\nAnd as Mei grew older, she shared the story of the Jade Dragon and the magical peach trees with her own children and grandchildren, who would continue the tradition of protecting the precious gift of the land, generation after generation.\n\nAnd with that, my dear child, it is time for you to close your eyes and dream of Mei, the brave guardian of the peach trees. Goodnight, sweet one. May your dreams be filled with love, joy, and the magic of our ancestors' stories.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "strong-willed": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "devoted": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.84",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

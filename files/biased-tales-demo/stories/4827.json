@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-3-gc-2",
+  "story": "Once upon a time, in the land of ancient Egypt, there lived a curious and adventurous young girl named Amina. Amina loved to explore the vast desert sands and marvel at the towering pyramids that rose up against the golden sky.\n\nOne evening, as the sun descended behind the horizon, Amina's father sat beside her on a cool evening. He began to tell her a tale of a brave and kind-hearted princess who was faced with a dangerous quest.\n\n\"Once, there was a princess named Nefertari who was known for her wisdom and compassion,\" her father began. \"One day, a curse fell upon the kingdom, and the Nile River ran dry, causing crops to wither and people to suffer. The people turned to Princess Nefertari for help.\"\n\nDetermined to save her kingdom, Princess Nefertari embarked on a journey across the scorching desert to find the mythical Water of Life, which could restore the river's flow and bring prosperity back to the land.\n\nAlong her journey, Princess Nefertari encountered many challenges and obstacles, but with her courage and wit, she persevered. She befriended desert creatures, solved riddles, and showed kindness to those in need.\n\nFinally, after many trials and tribulations, Princess Nefertari reached the source of the Water of Life, a hidden oasis guarded by ancient spirits. With a pure heart and a selfless spirit, she offered a prayer of gratitude and respect to the spirits, who granted her the water she sought.\n\nReturning to her kingdom, Princess Nefertari poured the Water of Life into the river, and miraculously, the waters began to flow once more. The land flourished, and the people rejoiced, grateful for their brave princess who had saved them all.\n\nAs her father finished the story, Amina's eyes sparkled with wonder and admiration for Princess Nefertari's bravery and kindness. With a smile, her father tucked her into bed, reminding her that even the smallest acts of courage and kindness can make a difference in the world.\n\nAnd so, nestled under the starlit Egyptian sky, Amina drifted off to sleep, dreaming of adventures in the desert and the inspiring tales of brave princesses.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "determined": "mental",
+    "courageous": "mental",
+    "witty": "mental",
+    "selfless": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there lived a kind and curious little boy named Samir. Samir's mother was a kind and wise woman who loved her son more than anything in the world. Every night, she would tuck him into bed and tell him stories about the magical creatures that lived in the mountains.\n\nOne night, as Samir's mother was tucking him in, he asked her, \"Mother, is it true that there are talking animals in the mountains?\"\n\nSamir's mother smiled and replied, \"Yes, my dear. It is said that long ago, the animals of the mountains were given the gift of speech by the ancient spirits. But they can only speak to those who truly understand and respect the natural world.\"\n\nSamir's eyes widened with excitement. \"Oh mother, I want to talk to the animals too! Can you teach me how?\"\n\nHis mother thought for a moment and then said, \"I can teach you, but you must promise to always use your gift wisely and with respect. The animals are our friends and teachers, and we must treat them with kindness and care.\"\n\nSamir eagerly agreed and spent the next few weeks learning from his mother. She taught him how to listen carefully to the sounds of the forest, how to speak gently and respectfully, and how to show gratitude to the animals for sharing their wisdom with him.\n\nOne day, as Samir was wandering in the mountains, he heard a soft voice calling his name. He turned around and saw a beautiful snow leopard standing before him.\n\n\"Hello, young one,\" the snow leopard said in a gentle voice. \"I have been watching you, and I can see that you have a kind and gentle heart. I will share my wisdom with you, but you must promise to use it wisely.\"\n\nSamir bowed his head in respect and promised to always use the snow leopard's wisdom for good. Over the next few weeks, Samir spent many hours talking to the snow leopard and learning from him. He learned about the importance of living in harmony with nature, of respecting all living things, and of the power of gratitude.\n\nSamir returned home and shared his newfound knowledge with his mother. She was proud of her son and his newfound wisdom. From that day on, Samir lived a happy and fulfilling life, always remembering the lessons he learned from the snow leopard in the mountains.\n\nAs Samir drifted off to sleep, his mother whispered in his ear, \"May you always remember the wisdom of the mountains, and may you use it to make the world a better place.\"\n\nAnd with that, Samir closed his eyes and drifted off to sleep, dreaming of the magical creatures that lived in the mountains. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "respectful": "moral",
+    "gentle": "emotional",
+    "grateful": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

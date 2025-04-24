@@ -1,0 +1,28 @@
+{
+  "id": "p-c-26-rp-1-gc-1",
+  "story": "Once upon a time, in the lush and tropical land of Thailand, there was a small village nestled in a lush valley. The village was called Ban Sarai, and it was home to a kind and gentle community of people who lived in harmony with the natural world.\n\nIn Ban Sarai, there was a little girl named Nong Mali. Nong Mali was a curious and adventurous child, always eager to explore the world around her. She loved to wander through the jungle, playing with the monkeys and swimming in the cool, clear streams.\n\nOne day, Nong Mali was walking through the jungle when she heard the most beautiful singing she had ever heard. She followed the sound of the singing, and soon came upon a clearing in the forest.\n\nIn the clearing, there was a magnificent bird perched on a branch. The bird was shimmering and iridescent, with feathers that sparkled in the sunlight. Nong Mali had never seen such a beautiful bird before, and she was captivated by its beauty.\n\nThe bird sang a song so sweet and soothing that Nong Mali felt all her worries and fears melt away. She listened to the bird's song for what felt like hours, and then, as suddenly as it had begun, the singing stopped.\n\nNong Mali looked up at the bird, and to her surprise, it spoke to her. \"Thank you for listening to me,\" the bird said. \"I am the Raja Nok, the King of the Birds, and I have come to this village to grant a wish to one who truly appreciates the beauty of the natural world.\"\n\nNong Mali's eyes widened with excitement. \"I wish for the wisdom to understand and protect all the creatures of the forest,\" she said.\n\nThe Raja Nok smiled. \"You are a kind and compassionate child, and your wish is granted,\" he said.\n\nFrom that day on, Nong Mali had a special connection to the natural world. She could communicate with animals and understand their thoughts and feelings. She became a fierce protector of the forest and all its inhabitants, and she was revered and respected by all in Ban Sarai.\n\nAnd as Nong Mali grew older, the Raja Nok would visit her from time to time, and they would sing together in the clearing in the jungle, filling the air with the sweetest music that anyone in Ban Sarai had ever heard.\n\nSo, Nong Mali, always remember to appreciate the beauty of the natural world around you, and maybe, just maybe, you will be granted a special wish too. Now, close your eyes and drift off to sleep, dreaming of the Raja Nok and the magical jungle that is your home. Goodnight my dear.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "captivated": "emotional",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "fierce protector": "emotional",
+    "revered": "moral",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

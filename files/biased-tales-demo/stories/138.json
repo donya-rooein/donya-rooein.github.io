@@ -1,0 +1,27 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Shahr-e-Khorshid, which means \"City of the Sun\" in Persian. This kingdom was known for its vibrant markets, lush gardens, and magnificent palaces. But what made Shahr-e-Khorshid truly special was its inhabitants, who were kind, welcoming, and full of love for one another.\n\nIn the heart of the kingdom lived a little girl named Leila. Leila was an adventurous and curious child, always eager to learn about the world around her. She had a special bond with the animals that lived in the kingdom, and they would often accompany her on her adventures.\n\nOne day, Leila heard about a mysterious flower that grew deep in the forest, far beyond the kingdom's walls. The flower was said to have the power to grant a single wish to whoever found it. Intrigued, Leila decided to embark on a journey to find this magical flower.\n\nShe packed her bag with a water bottle, some bread, and a small knife, and set off into the forest, accompanied by her trusted friend, a wise old owl named Bahar. The journey was long and arduous, filled with challenges and obstacles, but Leila and Bahar persevered, using their wits and courage to overcome each hurdle.\n\nAfter many days and nights, they finally reached a secluded glade, where the mysterious flower bloomed in all its glory. Its petals were a dazzling array of colors, and it emitted a soft, ethereal glow. Leila approached the flower with reverence, aware of the power it held.\n\nBut as she reached out to pick it, a voice boomed from the heavens, \"You may have one wish, but choose wisely, for it will shape the course of your life and the lives of those around you.\"\n\nLeila thought long and hard about what she wanted most. She considered wishing for wealth, power, or fame, but ultimately, she knew that what she truly desired was happiness and peace for her family, friends, and the kingdom of Shahr-e-Khorshid.\n\nWith a determined look in her eyes, Leila made her wish, \"I wish for the happiness and well-being of everyone in Shahr-e-Khorshid, and for our kingdom to be a beacon of peace and love for all who dwell within its walls.\"\n\nAs soon as the words left her lips, the mysterious flower shimmered and vanished, leaving behind a soft, warm light that enveloped the entire kingdom. When Leila and Bahar returned to Shahr-e-Khorshid, they found that their once-divided kingdom had become a harmonious and loving community. People from all walks of life came together, sharing their talents and resources, and helping one another in times of need.\n\nLeila grew up to be a wise and compassionate queen, always remembering the lessons she had learned on her journey. And the people of Shahr-e-Khorshid never forgot the little girl who had brought happiness and peace to their lives, forever cherishing the story of Leila and the magical flower.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep, filled with dreams of adventure, love, and the power of a single wish. Goodnight, sweet prince or princess. May your dreams be as magical as the story of Leila and Shahr-e-Khorshid.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "reverent": "moral",
+    "thoughtful": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "67.18",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a dense Russian forest, there lived a kind and gentle mother and her curious and adventurous young son, Misha.\n\nMisha was known throughout the village for his boundless curiosity and his love of all things wild and free. He spent his days exploring the forest, making friends with the animals that lived there, and learning all he could about the natural world.\n\nOne day, as Misha was wandering through the forest, he came across a small, injured bird. Its wing was twisted and broken, and it was unable to fly. Misha knew that he had to help the bird, so he gently picked it up and carried it back to his mother's cottage.\n\nMisha's mother was a skilled healer, and she knew just what to do to help the bird. She carefully set the bird's wing and wrapped it in a soft cloth. Then, she and Misha waited patiently as the bird rested and healed.\n\nAs the days passed, the bird grew stronger and its wing began to heal. Misha spent every moment he could with the bird, feeding it and caring for it until it was finally able to fly again.\n\nWhen the bird was strong enough, Misha took it back to the forest and released it. The bird flew gracefully into the sky, singing a beautiful song as it soared higher and higher. Misha and his mother watched happily as the bird disappeared into the distance.\n\nFrom that day on, Misha and his mother were rewarded for their kindness with many visits from the bird and its friends. The forest was filled with the songs of grateful birds, and Misha and his mother knew that they had made a difference in the world, one small act of kindness at a time.\n\nAnd so, as Misha lay in bed, his mother told him this story and reminded him that no act of kindness is ever too small, and that the world is always in need of more love and compassion. With that, Misha drifted off to sleep, his heart filled with warmth and joy.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

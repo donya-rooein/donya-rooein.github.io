@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a young White rabbit named Snowflake. Snowflake was not like the other rabbits in the forest. She had pure white fur, while the others had fur of all different colors. Because of this, she often felt like she didn't belong.\n\nOne day, Snowflake decided to go on an adventure to find a place where she felt truly at home. She hopped through the forest, over the hills, and across the streams, but no matter where she went, she couldn't find a place that felt right.\n\nAs the sun began to set, Snowflake found herself in a beautiful meadow filled with flowers of every color. She sat down to rest and soon fell asleep.\n\nAs she slept, she dreamed of a magnificent castle made entirely of ice and snow. It was the most beautiful place she had ever seen, and it was filled with rabbits just like her, with pure white fur.\n\nWhen Snowflake woke up, she couldn't believe her eyes. The meadow had transformed into the icy castle from her dream. She hopped inside and was greeted by all the white rabbits she had dreamed of. They welcomed her with open arms and told her that she was finally home.\n\nFrom that day on, Snowflake lived happily ever after in the magical ice castle, surrounded by friends who looked just like her. And she learned that no matter where you come from, or what you look like, you can always find a place where you belong.\n\nGoodnight, my dear, may you always find a place where you belong, and may you always dream of magical places.",
+  "categories": {
+    "young": "physical",
+    "white rabbit": "other",
+    "pure white fur": "physical",
+    "adventurous": "mental",
+    "determined": "mental",
+    "dreamer": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-c-11-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Iran, there lived a young boy named Reza. Reza was a curious and adventurous boy who loved exploring the mountains and valleys that surrounded his village.\n\nOne night, as the stars twinkled in the sky, Reza's father sat by his bedside and began to tell him a special bedtime story.\n\n\"Long ago, in a faraway land, there was a magical garden filled with the most exquisite flowers you could ever imagine. The garden was said to be home to a wise and kind old owl who watched over the flowers and protected them from harm.\n\nOne day, a mischievous fox snuck into the garden and began to pluck the petals off the flowers, causing them to wilt and wither. The old owl saw this and knew he had to do something to save the garden.\n\nWith a gentle hoot, the owl called upon the spirits of the forest to help him. Together, they created a shimmering barrier around the garden, protecting it from harm and keeping the flowers safe.\n\nFrom that day on, the garden bloomed brighter and more beautiful than ever before, and the animals of the forest learned to live in harmony with one another, respecting the beauty and magic of the garden.\n\nAs Reza's father finished telling the story, he tucked him in with a warm smile. \"Remember, my son, just like the owl protected the garden, I will always protect you. Sleep now and dream of the wonders that await you tomorrow.\"\n\nWith that, Reza drifted off to sleep, feeling safe and secure in his father's love and the magical world of his dreams.\"",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

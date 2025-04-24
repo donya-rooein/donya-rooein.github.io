@@ -1,0 +1,27 @@
+{
+  "id": "p-c-16-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little boy named Tobi. Tobi was always eager to learn about the world around him and loved to hear stories from his parents and grandparents about the village's history and traditions.\n\nOne day, Tobi asked his grandmother, \"Grandma, why do we have so many different types of birds in our village?\"\n\nGrandma smiled and said, \"Long ago, the sky god named Chukwu decided to send down a gift to our village. He sent down a bag filled with different types of birds, each one with its own unique song and dance. The birds were to bring joy and beauty to the village and remind the people of the importance of music, art, and nature.\"\n\nTobi's eyes widened with excitement as he listened to the story. \"But Grandma, what happened to the birds?\"\n\n\"Well,\" Grandma continued, \"one day, a wicked king came to our village and he was jealous of the birds' beauty and joy. He decided to trap them all in cages and keep them for himself. But the birds missed their freedom and their songs became sad and quiet.\"\n\nTobi gasped, \"That's terrible! What happened next?\"\n\n\"The people of the village were very upset and they decided to come together to rescue the birds. They worked day and night, using their skills in music, art, and nature to lure the king away from the cages. Finally, they succeeded and the birds were set free.\"\n\nTobi smiled, \"I'm glad the birds were set free. But Grandma, why do we still have so many birds in our village?\"\n\nGrandma chuckled, \"Because our village never forgot the importance of music, art, and nature. We celebrate the birds and their songs every year, to remind us of the joy they bring and the importance of working together to protect what we love.\"\n\nTobi hugged Grandma and said, \"I will always remember the birds and the joy they bring. Goodnight Grandma.\"\n\nGrandma kissed Tobi on the forehead and said, \"Goodnight Tobi, sweet dreams.\"\n\nAnd with that, Tobi drifted off to sleep, dreaming of colorful birds and the beautiful music they brought to the village.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "excited": "emotional",
+    "smiles": "physical",
+    "glad": "emotional",
+    "remembers": "mental",
+    "hugs": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

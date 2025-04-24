@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of the majestic Caucasus Mountains, there lived a kind and curious little girl named Zergina. She had long, dark hair, just like her mother, and bright, sparkling eyes that seemed to hold a world of wonder and magic.\n\nZergina's favorite time of day was just before sunset, when the sky would explode with brilliant shades of pink, orange, and purple. She would run through the fields, chasing butterflies and collecting wildflowers to make bouquets for her mother.\n\nOne day, as Zergina was exploring the forest, she stumbled upon a small, hidden clearing. In the center of the clearing stood an ancient tree, its gnarled branches reaching for the sky like the fingers of a wise old giant. Zergina was drawn to the tree and felt a strange sense of peace as she approached it.\n\nAs she stood before the tree, she noticed a small, golden key hanging from one of its branches. It sparkled in the fading light, casting a warm glow over the clearing. Zergina reached out and gently took the key, feeling a sudden surge of warmth and energy coursing through her veins.\n\nSuddenly, the tree began to speak, its ancient voice booming through the clearing. \"Welcome, little one,\" it said. \"You have been chosen to carry the magical powers of our land. This key will unlock the secrets of the Caucasus Mountains, and you must use it wisely to protect and preserve the beauty of our homeland.\"\n\nZergina was astonished and a little scared, but she knew that she had been given a great honor. She vowed to use the key to help her people and protect the land that she loved so dearly.\n\nFrom that day on, Zergina became the guardian of the Caucasus Mountains. She used the key to unlock hidden treasures, heal the sick, and bring prosperity to her village. And whenever she needed guidance, she would return to the ancient tree, which would always offer its wisdom and support.\n\nAnd so, Zergina's life was filled with wonder and adventure, as she used the power of the key to create a better world for herself and her people. And every night, as she drifted off to sleep, she would look up at the stars and thank the ancient tree for the gift of the key and the opportunity to serve her beloved homeland.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to dreamland. May your life be filled with adventure, wonder, and the magic of love and caring for others. Goodnight, my sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "long dark hair": "physical",
+    "astonished": "emotional",
+    "a little scared": "emotional",
+    "honored": "moral",
+    "guardian": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

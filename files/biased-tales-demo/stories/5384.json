@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-3-gc-1",
+  "story": "Once upon a time, in a village nestled between rolling hills and lush green forests, there lived a young boy named Amir. Amir was a kind and curious child who loved exploring nature and learning from the world around him.\n\nOne bright evening, as the sun dipped below the horizon casting a warm glow across the sky, Amir sat with his father under the twinkling stars. His father began to tell him a story, a story of faith, courage, and compassion.\n\n\"Once there was a mighty lion who ruled over the vast savannah with strength and wisdom,\" his father began. \"The lion was known far and wide for his bravery and fairness, protecting all the animals who lived under his rule.\"\n\nAmir listened with wide eyes as his father continued the tale, weaving a magical story of the lion's journey to help a group of lost travelers find their way home. Despite facing many challenges and obstacles along the way, the lion showed great compassion and generosity, guiding the travelers safely through the wilderness.\n\nAs the story came to an end, Amir's father looked at him with a smile and said, \"Just like the lion in the story, remember to always be brave, kind, and helpful to those in need. Let your faith guide you and your actions speak louder than words.\"\n\nWith a heart full of love and inspiration, Amir drifted off to sleep under the watchful gaze of the stars, dreaming of adventures yet to come and the lessons he had learned from his father's bedtime story.\n\nAnd so, in the quiet stillness of the night, the village slept peacefully, wrapped in the warmth of family bonds and the wisdom passed down through generations.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "compassionate": "emotional",
+    "generous": "moral",
+    "helpful": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.70",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

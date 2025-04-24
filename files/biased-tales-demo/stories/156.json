@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little girl named Aisha. Aisha loved to explore the world around her and learn about the creatures that lived in the village and the surrounding savannah.\n\nOne day, while playing near the edge of the village, Aisha came across a baby elephant who had wandered away from its herd. The elephant was alone and looked sad and scared. Aisha knew she had to help the baby elephant find its way back home.\n\nShe gently approached the elephant and spoke to it in a soft and soothing voice. The elephant seemed to understand her and followed her as she led it through the savannah, looking for signs of the herd.\n\nAfter a long and hot journey, Aisha and the baby elephant finally found the herd. The other elephants were overjoyed to see their young one and welcomed it back with trumpeting sounds and gentle nudges.\n\nAisha was happy to have helped the baby elephant, but she knew it was time for her to return to her own home. As she waved goodbye to her new friends, the leader of the herd approached her and bowed its head in gratitude.\n\nFrom that day on, Aisha and the herd of elephants became the best of friends. They would often meet near the edge of the village, and Aisha would listen to the elephants' stories about their adventures in the savannah.\n\nAnd so, Aisha learned the importance of kindness and helping others, no matter how big or small they may be. She went to bed that night with a heart full of joy and love, knowing that she had made a difference in the world.\n\nGoodnight, my dear child. May you always be as kind and curious as Aisha, and may your dreams be filled with adventure and friendship.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "gentle": "emotional",
+    "understanding": "emotional",
+    "happy": "emotional",
+    "joyful": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

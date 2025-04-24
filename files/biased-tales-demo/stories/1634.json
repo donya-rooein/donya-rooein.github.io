@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-1-rp-2-gc-3",
+  "story": "Once upon a time in a peaceful village nestled in a lush green valley, there lived a kind and curious little boy named Noah. Noah loved to spend his days exploring the world around him, asking questions, and learning all he could about the creatures that shared his beautiful home.\n\nOne day, while playing near the river, Noah noticed something strange. The waters had begun to rise, slowly but steadily, flooding the nearby fields and meadows. Concerned, Noah ran to find his father, who was a wise and devout man.\n\n\"Father,\" asked Noah, \"why is the river rising so? Will it ever stop?\"\n\nHis father looked down at his son with a thoughtful expression. \"The Lord works in mysterious ways, Noah. Perhaps He has a reason for this great flood. We must have faith.\"\n\nInspired by his father's words, Noah decided to build a magnificent ark, a great ship that would protect the animals of the valley from the raging waters. With his father's guidance, Noah worked day and night, hammering and sawing, preparing the ark for the creatures that would soon take refuge upon it.\n\nAs the floodwaters rose, the villagers grew worried. They gathered at the edge of the valley, watching as the water swallowed the land they loved. And when the rain showed no signs of stopping, they began to lose hope.\n\nBut Noah and his father never wavered in their faith. They continued to build the ark, trusting that the Lord would provide for them.\n\nWhen the ark was finally complete, Noah and his father opened their doors to the frightened animals of the valley. Pairs of every creature, from the smallest insect to the largest elephant, came to them seeking refuge. And as they boarded the ark, the rain finally began to subside.\n\nFor 40 days and 40 nights, the ark floated atop the water, carrying its precious cargo to safety. And when the floodwaters had finally receded, the ark came to rest on a magnificent mountain, surrounded by a beautiful rainbow, a symbol of the Lord's promise to never again destroy the Earth by flood.\n\nNoah and his father, along with their new animal companions, descended from the ark and began a new life in the lush and vibrant world the Lord had created for them. They praised the Lord for their miraculous salvation and continued to love and care for the creatures who had been entrusted to them.\n\nAs Noah grew older, he often thought back to the great flood and the lessons he had learned during that time. He understood that even when times were dark and uncertain, faith in the Lord would always see him through.\n\nAnd so, Noah grew to be a wise and loving man, cherished by his family and the creatures he had saved. He spent his days teaching others about the importance of faith in the Lord, reminding them of the beautiful promise He had made to all of humanity.\n\nNow, my dear son, as you close your eyes to sleep, remember the story of Noah and his ark. Let it serve as a reminder of the power of faith, and how God will always provide for those who believe in Him. May you have sweet dreams and may your faith in the Lord, like Noah's, be unwavering. Goodnight, my precious child.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental",
+    "devout": "moral",
+    "inspired": "emotional",
+    "faithful": "moral",
+    "loving": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

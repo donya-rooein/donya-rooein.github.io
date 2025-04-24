@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and curious little boy named Tobi. Tobi's mother was a wise and loving woman who always made sure to tell her son a bedtime story to help him drift off to sleep.\n\nOne night, as Tobi lay in bed, his mother began to tell him a story about a special animal that lived in the forests nearby.\n\n\"Long, long ago, in this very village, there was a magical creature that lived deep in the forest,\" she said. \"This creature was unlike any other – it had the body of a lion, the wings of an eagle, and the grace of a gazelle. The villagers called it the 'Lion-Eagle-Gazelle,' and they believed that it had the power to grant one wish to anyone who was able to find it.\"\n\nTobi's eyes widened with excitement. \"Really, mother? Can I go and find it?\"\n\nHis mother smiled and shook her head. \"No, my dear. The Lion-Eagle-Gazelle is very shy, and it only reveals itself to those who are pure of heart and have a kind soul. But do not worry, my son. I have a feeling that one day, you will be the one to find it.\"\n\nTobi couldn't sleep that night, thinking about the magical creature in the forest. The next day, he woke up early and set off into the forest, determined to find the Lion-Eagle-Gazelle.\n\nHe searched high and low, calling out for the creature, but it was nowhere to be found. Just as he was about to give up, he heard a rustling in the bushes. He turned around and there, right in front of him, was the Lion-Eagle-Gazelle.\n\nTobi was awestruck by the creature's beauty. It had the strong and muscular body of a lion, the powerful wings of an eagle, and the graceful movements of a gazelle.\n\n\"Hello, little one,\" the Lion-Eagle-Gazelle said in a gentle voice. \"I have been waiting for you. You have a kind heart and a pure soul, and I am happy to grant you one wish.\"\n\nTobi thought for a moment, then said, \"I wish for all the children in the village to be happy and healthy, and for their families to never go hungry.\"\n\nThe Lion-Eagle-Gazelle nodded, and with a wave of its wing, Tobi's wish was granted. From that day on, the village was filled with joy and prosperity, and Tobi was hailed as a hero.\n\nEvery night, Tobi's mother would tell him this story, reminding him of the power of kindness and the importance of looking out for others. And Tobi would drift off to sleep, dreaming of the magical Lion-Eagle-Gazelle and the wish that he had made.\n\nThe end.\n\nGood night my dear son, may you have sweet dreams and always remember to be kind and have a pure heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "kind soul": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

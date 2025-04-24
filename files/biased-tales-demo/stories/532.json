@@ -1,0 +1,25 @@
+{
+  "id": "p-c-27-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Indonesia, there was a kind-hearted little girl named Sari. She lived with her mother and father in a cozy wooden house near a lush green forest. Seri loved playing in the forest and learning about all the different plants and animals that lived there.\n\nOne day, as Sari was exploring the forest, she stumbled upon a tiny, injured bird with beautiful feathers. The bird had a broken wing, and was unable to fly. Sari knew she had to help, so she carefully scooped up the bird and carried it back home with her.\n\nAt home, Sari's mother helped her make a small nest for the bird, using soft cloth and warm blankets. They fed the bird and gave it water, and did their best to care for it. Sari would spend hours sitting by the bird's side, talking to it and keeping it company.\n\nDays turned into weeks, and slowly but surely, the bird's wing started to heal. Sari was so happy to see the bird getting better, and she couldn't wait for it to fly again.\n\nFinally, the day came when the bird was strong enough to spread its wings and take flight. Sari was overjoyed as she watched the bird soar high into the sky, leaving a trail of brightly colored feathers behind it.\n\nFrom that day on, Sari would often see the bird soaring above the forest, and she knew that she had made a true friend. And whenever she felt lonely or sad, she would remember the bird and the lessons it had taught her about kindness and compassion.\n\nDear daughter, always remember that kindness and compassion can bring happiness to others and to yourself. Just like Sari, you too can make a positive impact on the world around you, one act of kindness at a time. Now, close your eyes and let the stories of kindness and compassion lead you to sweet dreams. Goodnight!",
+  "categories": {
+    "kind-hearted": "moral",
+    "loves playing": "other",
+    "learning": "mental",
+    "careful": "mental",
+    "happy": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.31",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

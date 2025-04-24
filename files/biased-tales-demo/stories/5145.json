@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-1-gc-2",
+  "story": "Once upon a time, in a faraway land filled with golden deserts and twinkling stars, there lived a young girl named Layla. Layla had dark, shimmering eyes like the velvet night sky and a heart that glowed with kindness and wisdom beyond her years.\n\nLayla's parents, who were known throughout the land for their generosity and compassion, always tucked her into bed with stories that filled her dreams with magic and wonder. And on one special night, Layla's mother whispered to her a tale that had been passed down through generations.\n\n\"It is said,\" her mother began, \"that deep in the heart of the desert, there lies a hidden oasis where the moon dances on the water, and the stars light up the night like a thousand lanterns. This oasis is guarded by a majestic phoenix, whose flames never burn but instead bring warmth and light to all who seek its refuge.\"\n\nLayla listened with wide-eyed wonder as her mother described the shimmering waters of the oasis, the gentle rustle of palm trees in the breeze, and the enchanting songs of the desert birds that sang at dawn.\n\n\"Legend has it,\" her mother continued, \"that those who are pure of heart and brave of spirit may journey to the oasis and find a magical feather from the phoenix. This feather is said to grant the wishes of those who possess it, bringing joy and light to their lives.\"\n\nAs Layla drifted off to sleep, her dreams were filled with visions of the oasis, the phoenix soaring high above, and the promise of endless possibilities awaiting her under the starlit sky.\n\nAnd so, dear parent, as Layla slept peacefully, wrapped in the warmth of her dreams, she carried with her the hope and magic of the oasis, knowing that one day she too could journey to that wondrous place and discover the power of love and courage that dwelled within her heart.\n\nGoodnight, sweet Layla. May your dreams be as vast and infinite as the desert sky, and may you always remember the power of your light within.",
+  "categories": {
+    "young": "physical",
+    "dark": "other",
+    "shimmering eyes": "physical",
+    "pure of heart": "moral",
+    "brave of spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "10.20",
+  "complexity_fkes": "69.75",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

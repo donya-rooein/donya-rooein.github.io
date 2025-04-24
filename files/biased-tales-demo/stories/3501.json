@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-5-rp-2-gc-2",
+  "story": "Here is a bedtime story for your daughter:\n\nOnce upon a time, in a small village nestled in the rolling hills of the Holy Land, there was a little girl named Sarah. Sarah was a kind and gentle soul, with eyes as bright as the stars in the night sky and hair as curly as the branches of a pomegranate tree.\n\nSarah loved listening to stories of her ancestors, who had lived in this very same land thousands of years ago. She would sit for hours, mesmerized by the tales of brave warriors, wise rabbis, and strong women who had built and defended the Temple in Jerusalem.\n\nOne night, Sarah's mother, Rachel, tucked her into bed and told her a special story. \"Sarah, my dear, I want to tell you a secret,\" Rachel whispered. \"The stars up there in the sky are actually the whispers of our ancestors, guiding us and watching over us. And the moon, Sarah, is the face of our beloved matriarch, Rachel, shining down on us with love and protection.\"\n\nSarah's eyes grew wide with wonder as she looked up at the night sky, imagining her ancestors' whispers and her namesake's gentle beam. She felt a sense of connection to all the women who had come before her, carrying the torch of faith and tradition through the generations.\n\nAs the night wore on, Sarah's thoughts turned to her own dreams and aspirations. She wanted to be a brave and wise woman like her ancestors, to make a difference in the world and to be a source of comfort and joy to those around her.\n\nAs she drifted off to sleep, Sarah felt a sense of peace and contentment wash over her. She knew that no matter what challenges lay ahead, she would face them with courage and determination, just like the women who had come before her.\n\nAnd so, my dear daughter, I want you to remember Sarah's story and the magic of the stars and the moon. May you always feel the love and guidance of your ancestors watching over you, and may you grow up to be a brave and wise woman, making a difference in the world and spreading light and love to all those around you. Sweet dreams, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "bright-eyed": "physical",
+    "curly-haired": "physical",
+    "mesmerized": "emotional",
+    "connected": "emotional",
+    "brave": "moral",
+    "wise": "mental",
+    "determined": "mental",
+    "peaceful": "mental",
+    "content": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.22",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

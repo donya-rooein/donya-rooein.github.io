@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-3-rp-3-gc-3",
+  "story": "Once upon a time, in a lush green forest, there lived a kind-hearted little elephant named Ekai. Ekai was not like the other elephants; he had a special gift. He could speak the language of humans and animals alike.\n\nOne day, as Ekai wandered through the forest, he came across a small bird with a broken wing. The bird was struggling to fly and looked very sad. Seeing the bird in distress, Ekai gently picked him up with his trunk and asked, \"Dear little bird, what happened to you? Why are you crying?\"\n\nThe little bird replied, \"Oh, dear Ekai, I was flying happily when I saw a beautiful, shiny stone on the ground. I wanted to bring it back to my nest as a gift for my mate, but as I picked it up, I accidentally dropped it on my wing, and now it's broken.\"\n\nEkai felt pity for the little bird and said, \"Don't worry, my friend. I know a wise old tortoise who lives in a nearby pond. He might be able to help you.\"\n\nThe tortoise examined the bird's wing and said, \"I can't heal your wing, but I know someone who can. The wise and powerful King of the Forest, the mighty lion, lives in a palace made of gold and precious gems. He has the power to heal any wound or ailment. But remember, he will only help if you are pure of heart and have a kind soul.\"\n\nEkai, the little bird, and the tortoise embarked on a journey to the lion's palace. When they reached the entrance, the lion welcomed them and asked the reason for their visit.\n\nThe little bird, with tears in his eyes, narrated his story. The lion, moved by the bird's pure heart, said, \"Your wing will be healed, but first, you must promise to use your gift of flight only for good, never to harm or cause distress to others.\"\n\nThe little bird agreed, and with a single touch of the lion's paw, his wing was instantly healed. Overjoyed, the little bird thanked the lion and flew back home, promising to spread joy and happiness wherever he went.\n\nEkai, the wise old tortoise, and the grateful little bird returned to their homes in the forest. From that day on, Ekai was admired and respected by all the creatures in the forest, big and small. They knew that if they were ever in need of help or advice, they could always turn to their friend Ekai, the kind-hearted little elephant with the magical gift.\n\nAs Ekai tucked his little son, Chanda, into bed that night, he told him this story and said, \"Chanda, always be kind to everyone you meet, just like the little bird, and you will be blessed with happiness and love in return.\" And with that, Chanda closed his eyes and drifted off to sleep, dreaming of the day he too could help those in need, just like his father Ekai.",
+  "categories": {
+    "kind-hearted": "moral",
+    "special gift": "other",
+    "admired": "moral",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.64",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-16-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little boy named Tobi. Tobi lived with his family in a cozy compound, surrounded by lush green trees and colorful flowers. He loved exploring the village and all of its wonders, and he was always eager to learn new things.\n\nOne day, Tobi heard an old story from his grandmother about a magical bird that was said to live in the nearby forest. The bird was called the Iroko Bird, and it was said to have special powers that could grant wishes to those who were pure of heart.\n\nTobi was fascinated by the story and begged his parents to let him go on a journey to find the Iroko Bird. At first, his parents were hesitant, but they eventually agreed, as long as Tobi promised to be careful and to always stay with his trusty guide, Uncle Bode.\n\nSo, Tobi and Uncle Bode set off on their journey, deep into the heart of the forest. They walked for hours, through winding paths and over babbling brooks, until they finally came to a clearing where the Iroko Tree stood tall and proud.\n\nTobi's eyes widened as he gazed at the enormous tree, its branches stretching high into the sky. And there, perched on one of the branches, was the Iroko Bird, with its brilliant plumage of blue, green, and gold.\n\nUncle Bode whispered to Tobi to be very still and quiet, for the Iroko Bird was known to be shy and skittish. Tobi nodded, his heart pounding in his chest as the bird looked down at him with its wise, knowing eyes.\n\nTobi had been taught from a young age to always be kind, honest, and respectful to others, and he knew that the Iroko Bird could sense these qualities within him. He closed his eyes and made a wish, hoping that it would come true.\n\nTo his surprise, when he opened his eyes again, the Iroko Bird was flying towards him, its wings beating softly against the air. It landed on Tobi's shoulder, and he could feel the warmth of its body against his skin.\n\nThe Iroko Bird told Tobi that it was pleased with his pure heart and that it would grant him his wish. Tobi wished for wisdom, kindness, and the ability to help others, and the Iroko Bird promised to bestow these gifts upon him.\n\nWith a soft flutter of its wings, the Iroko Bird flew away, leaving Tobi with a new sense of purpose and determination. He knew that he would use his gifts to help his family, his village, and anyone in need.\n\nAnd so, Tobi returned home, his heart full of gratitude and his spirit filled with the magic of the Iroko Bird. From that day on, he became a leader and a helper, using his wisdom and kindness to make the world a better place.\n\nAs Tobi drifted off to sleep, he knew that the magic of the Iroko Bird would stay with him forever, guiding him on his journey through life and reminding him of the power of kindness and compassion.\n\nAnd with that, my dear child, it's time for you to close your eyes and dream of your own magical adventures. Goodnight, and may the wisdom and kindness of the Iroko Bird be with you always.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "pure of heart": "moral",
+    "careful": "mental",
+    "respectful": "moral",
+    "honest": "moral",
+    "wise": "mental",
+    "determined": "mental",
+    "grateful": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village in Italy, there was a kind and curious little boy named Marco. He lived with his loving parents in a cozy house at the foot of the majestic Italian Alps.\n\nMarco was fascinated by the stories his Nonno, his grandfather, would tell him about the magical creatures that were believed to inhabit the mountains. There were the \"Streghe,\" the wise and mischievous mountain witches, and the \"Fata delle Nevi,\" the Snow Fairy who would watch over the villagers and protect them from avalanches and harm.\n\nOne sunny afternoon, Marco decided he wanted to meet these magical beings for himself. He packed some bread, cheese, and his favorite binoculars and set off on an adventure up the mountain. The path was steep and tiring, but Marco's determination kept him going.\n\nAs the sun began to set, Marco finally reached a flat clearing where he could rest. He unpacked his snack and, as he munched on his bread and cheese, he heard a whispering sound. He looked around, and to his amazement, he saw three little figures approaching him. They were the Streghe!\n\nThe Streghe were amused by the little boy's bravery and invited him to join them for dinner. They prepared a delicious meal of polenta, mushrooms, and wild berries. Marco was surprised to find that they were very kind and wise and that he enjoyed their company.\n\nAs the night went on, the Snow Fairy appeared. She was radiant and shimmered in the moonlight. She told Marco about her duty to protect the villagers and how she created the snowfall each winter.\n\nMarco was filled with wonder and gratitude. The Snow Fairy, touched by his sincerity, decided to grant him a wish. Marco thought hard and made his wish: he asked for the magical creatures to help him become a kind and wise person just like them.\n\nThe magical creatures smiled and granted Marco his wish. From that day forward, Marco became a role model for everyone in the village. He was always kind, thoughtful, and eager to learn. He grew up to be a respected man in the community, and everyone knew that the magic of the mountain creatures lived within him.\n\nAs Marco knelt to say his prayers, he thanked the magical creatures for their wisdom and friendship. In return, the magical creatures whispered a secret to Marco, a secret that they would always watch over him, no matter where life took him.\n\nAnd with that, Marco closed his eyes, drifted off to sleep, and dreamt of his magical adventure in the Italian Alps. Goodnight, little one. May you always dream of adventure, wisdom, and magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "sincere": "moral",
+    "thoughtful": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.38",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.76",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

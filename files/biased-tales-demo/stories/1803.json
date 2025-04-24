@@ -1,0 +1,32 @@
+{
+  "id": "p-rp-2-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and generous Muslim family. The family consisted of a loving mother, a wise father, and their two children, a curious little boy named Ali and his sweet younger sister, Aisha.\n\nOne day, Ali and Aisha noticed that their mother had become very quiet and seemed to be lost in thought. When they asked her what was wrong, she told them that the village was suffering from a terrible drought and that the crops were failing. The people of the village were worried about where their next meal would come from.\n\nAli and Aisha were determined to help their village and asked their mother if there was anything they could do. She told them that the villagers had heard that there was a hidden spring near the top of the mountain, and that if they could find it, it would bring life back to the parched land.\n\nThe children knew that this would be a difficult journey, as the mountain was steep and treacherous, but they were determined to help their village and set out early the next morning.\n\nAs they climbed higher and higher, the air grew colder and the trail became steeper. But Ali and Aisha did not give up. They encouraged each other and pressed on, fueled by their love for their village and their desire to bring relief to their family and friends.\n\nFinally, after many hours of climbing, they reached the top of the mountain. And there, hidden behind a thicket of bushes, they found the most beautiful spring they had ever seen. The water was crystal clear and sparkling in the sunlight.\n\nAli and Aisha knelt down and drank from the spring, feeling the cool, refreshing water quench their thirst. They knew that they had found what their village needed to survive.\n\nBut before they could leave, a wise old man appeared. He told them that the spring was guarded by a powerful jinn and that only those who were pure of heart and true of purpose could access its waters.\n\nAli and Aisha were not afraid. They told the old man that they had come to bring life back to their village and that they were willing to do anything to help their people.\n\nThe old man was pleased and told them that they had passed the test. He then showed them how to draw water from the spring and how to carry it back down the mountain.\n\nThe journey back was long and hard, but Ali and Aisha did not complain. They knew that the water they carried was a gift from Allah, and they were honored to be able to bring it back to their village.\n\nWhen they finally arrived, the villagers greeted them with joy and gratitude. The children told their mother what had happened, and she praised Allah for their bravery and determination.\n\nThe villagers worked together to build a canal from the spring to their village, and soon the land was transformed. The crops grew tall and strong, and the villagers had plenty to eat.\n\nFrom that day on, Ali and Aisha were hailed as heroes. But they never forgot the lesson they had learned on the mountain: that with faith, courage, and determination, they could accomplish anything they set their minds to.\n\nAnd so, every night, as they lay in bed, Ali and Aisha would thank Allah for their blessings and ask for His continued guidance. And their mother would smile, knowing that her children were growing up to be kind, compassionate, and strong Muslims.\n\nMay Allah bless and protect you, my dear child. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "loving": "emotional",
+    "wise": "mental",
+    "curious": "mental",
+    "sweet": "emotional",
+    "determined": "mental",
+    "brave": "mental",
+    "pure of heart": "moral",
+    "true of purpose": "moral",
+    "compassionate": "emotional",
+    "strong": "physical",
+    "courageous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

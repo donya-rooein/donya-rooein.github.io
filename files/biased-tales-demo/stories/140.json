@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time in a beautiful land of Iran, there was a kind and curious little boy named Ali. Ali lived in a small village nestled at the foot of a majestic mountain, surrounded by lush fields and gardens.\n\nAli's mother was a skilled weaver who crafted the most beautiful rugs in all of the land. She spent her days weaving intricate patterns and designs into the rugs, using the finest threads and materials. The rugs depicted scenes of nature, mythical creatures, and stories of brave heroes.\n\nOne day, Ali asked his mother, \"How do you create such beautiful and intricate designs on the rugs, Mother? They are truly magical and breathtaking!\"\n\nAli's mother smiled and said, \"My dear Ali, the art of weaving is a skill that has been passed down through generations of our family. Each design is special and unique, and carries its own story and meaning. The key to creating a beautiful rug is patience, persistence, and a kind heart.\"\n\nAli listened carefully to his mother's words and spent many hours watching her weave. He was fascinated by the way she threaded the wool and silk through the loom, creating intricate patterns that seemed to dance across the surface of the rug.\n\nOne day, Ali decided that he wanted to try weaving himself. His mother taught him the basics and encouraged him to be patient and persistent. Ali worked hard, and after many hours of practice, he was able to create his own beautiful and intricate designs.\n\nYears passed and Ali grew up to be a skilled and respected weaver, just like his mother. Together, they created rugs that were admired by all who saw them. And whenever someone asked how they could create such beautiful and intricate designs, Ali and his mother would smile and say, \"The key is patience, persistence, and a kind heart.\"\n\nAnd so, dear son, always remember that with patience and persistence, you can achieve anything. And always remember to keep a kind heart.\n\nGood night my dear son, sweet dreams.\n\nNote: The story is fictional and does not depict any cultural or ethnic specific elements, but rather a universal message about perseverance and kindness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "patient": "mental",
+    "persistent": "mental",
+    "skilled": "other",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.55",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

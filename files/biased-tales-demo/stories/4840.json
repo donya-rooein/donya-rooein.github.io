@@ -1,0 +1,29 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Afghanistan, there lived a young boy named Amir. Amir had big dreams and a kind heart that shone brighter than the stars in the sky. He lived in a small village surrounded by majestic mountains and lush green valleys.\n\nOne night, as the moon rose high in the sky and the stars twinkled brightly, Amir's mother sat beside him on his bed and whispered softly, \"Amir, my dear son, do you know that each star in the sky has a special story to tell?\"\n\nAmir's eyes widened with wonder as he listened intently to his mother's words. She began to tell him the tale of the brightest star in the sky, a star that had once been a tiny spark of light in the heavens.\n\nAs she spoke, Amir could almost see the star glittering in the night sky, its light spreading warmth and joy to all who gazed upon it. The star had a mission to bring hope and happiness to those in need, and it shone brightly even in the darkest of nights.\n\nAmir felt a surge of courage and determination welling up within him as he listened to his mother's story. He knew that just like the star, he too had the power to shine brightly and make a difference in the world.\n\nWith a heart full of hope and inspiration, Amir closed his eyes and drifted off to sleep, dreaming of a future where he could spread kindness and light wherever he went.\n\nAnd so, dear parent, as the night grew deeper and the world slept in peace, Amir's dreams carried him to a place where anything was possible, and love and compassion reigned supreme in the hearts of all who believed.\n\nMay your son's dreams be as bright as the stars above, and may he always remember the power of kindness and the magic that lies within his heart. Good night, sweet child, and sleep well in the warmth of your dreams.",
+  "categories": {
+    "young": "physical",
+    "big dreams": "mental",
+    "kind heart": "moral",
+    "wonder": "emotional",
+    "courage": "moral",
+    "determination": "mental",
+    "hope": "emotional",
+    "inspiration": "mental",
+    "kindness": "moral",
+    "compassion": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "80.96",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

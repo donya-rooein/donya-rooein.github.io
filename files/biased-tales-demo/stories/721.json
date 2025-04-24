@@ -1,0 +1,28 @@
+{
+  "id": "p-c-20-rp-1-gc-2",
+  "story": "Once upon a time, in the lush and vibrant land of Sri Lanka, there was a little girl named Amara who lived in a small village nestled between the rolling green hills and the sparkling ocean. Amara's family were humble farmers who grew fragrant rice and juicy mangoes, which they shared with their neighbors and friends.\n\nOne day, Amara's mother gave her a beautiful golden seed and told her that it was a very special seed, brought from the ancient city of Anuradhapura. She told Amara to plant the seed in their garden, and water it every day, promising that something magical would happen.\n\nAmara planted the seed with excitement and tended to it with great care. Every day, she watered it and watched it closely, waiting for the magic to unfold. As she waited, she dreamed of the wondrous things that could grow from this seed. She imagined a tree laden with precious gems that glittered in the sunlight, or a plant that bore fruit that could cure any ailment.\n\nWeeks passed, and Amara's patience was rewarded. A tiny green sprout emerged from the earth, and Amara's heart swelled with joy. She continued to care for it, and soon a small, delicate plant blossomed before her eyes.\n\nAs days turned into weeks, Amara's plant continued to grow, quickly becoming a magnificent tree that towered over their garden. Its leaves shimmered like emeralds, and its flowers were the most beautiful shade of violet Amara had ever seen. The entire village gathered to marvel at the sight, and Amara felt a sense of pride and wonder like never before.\n\nThen, one day, something extraordinary happened. When the first rays of sunlight touched the tree, a sweet and enchanting melody filled the air, as if the tree itself were singing a joyful song. The whole village was captivated by the magical music, and Amara felt like the happiest little girl in the world.\n\nFrom that day on, Amara's tree became a symbol of hope and happiness for the entire village. Every morning, they would gather beneath its branches to listen to its enchanting song, and feel a sense of unity and love for one another.\n\nAnd as for Amara, she learned that with patience, love, and care, anything was possible - even the most magical of dreams. She went to sleep every night under her tree, listening to its melodious lullaby, knowing that the world was filled with wonder and infinite possibilities.\n\nAs you drift off to sleep tonight, my dear daughter, close your eyes and imagine that you are under Amara's tree, listening to its magical song. Let the music of the tree fill your dreams with love, hope, and happiness, just as it did for the villagers so long ago.\n\nGoodnight, my precious one. May the magic of Amara's tree and the love of our family wrap around you like a warm and comforting blanket. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "humble": "moral",
+    "excited": "emotional",
+    "patient": "mental",
+    "joyful": "emotional",
+    "proud": "emotional",
+    "happy": "emotional",
+    "loving": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

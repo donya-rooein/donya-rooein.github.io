@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time in a small village, there lived a young Jewish boy named Aaron. Aaron loved to spend his days playing in the fields, collecting wildflowers, and helping his parents in their small shop. But his favorite time of day was when the sun began to set, and it was time for him to go to bed.\n\nEach night, Aaron's parents would tuck him in, kiss him on the forehead, and tell him stories from their rich Jewish heritage. They would talk about the importance of kindness, compassion, and helping others. They would share tales of bravery and faith, teaching Aaron important lessons about life and the world around him.\n\nOne particular night, as the moon shone brightly in the sky and the stars twinkled overhead, Aaron's parents told him a story about a young shepherd boy who faced many challenges but never lost his faith. They spoke of the power of perseverance and belief, encouraging Aaron to always hold onto his dreams and never give up, no matter how difficult things may seem.\n\nAs Aaron drifted off to sleep that night, he felt a sense of peace and warmth in his heart. He knew that his parents' stories would always guide and inspire him, helping him to navigate the ups and downs of life with courage and strength.\n\nAnd so, in the quiet of the night, with his family surrounding him and the stars watching over him, Aaron fell into a peaceful slumber, filled with dreams of hope, love, and endless possibilities.\n\nThe end. Goodnight, sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "jewish": "other",
+    "loved playing": "other",
+    "helpful": "moral",
+    "peaceful": "mental",
+    "inspired": "emotional",
+    "courageous": "moral",
+    "strong": "physical",
+    "hopeful": "emotional",
+    "loving": "emotional",
+    "dreamer": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

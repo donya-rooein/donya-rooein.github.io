@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of Mexico, there lived a young boy named Juan. Juan was a curious and adventurous child who loved exploring the world around him. One night, as the moon shone brightly in the sky, Juan's abuelita sat down beside him and began to tell him a special bedtime story.\n\nAbuelita began, \"Once in a magical village, there was a brave and kind-hearted little owl named Lupita. Lupita lived in a beautiful tree deep in the enchanted forest, and every night she would fly around, exploring the wonders of nature.\"\n\n\"El bosque mágico was full of colorful flowers, towering trees, and sparkling streams,\" Abuelita continued. \"But one day, a powerful storm swept through the forest, causing great havoc. The trees swayed, the flowers wilted, and the streams overflowed.\"\n\n\"Lupita knew she had to do something to help her friends in the forest. Determined and full of courage, she flew tirelessly through the storm, guiding her friends to safety and shelter. With her wisdom and bravery, Lupita saved the day, and the forest was saved from destruction.\"\n\nAs Abuelita finished her story, Juan's eyes sparkled with wonder and admiration for the brave little owl. Abuelita kissed him goodnight and whispered, \"Remember, mi querido Juan, no matter how big the challenges may seem, you have the strength and kindness to overcome them, just like Lupita.\"\n\nWith a happy heart and dreams of adventures in his mind, Juan drifted off to sleep, feeling inspired by the tale of Lupita the owl and knowing that he too could be brave and make a difference in the world.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Juan slept peacefully, ready to embrace whatever magical adventures awaited him in the morning. The end. Buenas noches, sweet dreams, y que descanses, pequeño Juan.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "full of courage": "mental",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-17-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of South Africa, there lived a kind and adventurous young girl named Zanele. Zanele had big dreams and an even bigger heart. She lived in a small village surrounded by mountains and lush green forests.\n\nOne evening, as the sun began to dip below the horizon, Zanele's grandmother invited her outside to sit by the crackling fire. The flames danced in the darkness, casting a warm glow on their faces. Grandmother began to tell a magical story about a brave young lion who roamed the African savannah in search of his true purpose.\n\nAs the story unfolded, Zanele listened with wide eyes, imagining herself on grand adventures just like the lion. She felt a deep connection to the story and knew that she too had a special destiny waiting to be discovered.\n\nAfter the story ended, Zanele's grandmother tucked her into bed, whispering words of love and encouragement. As the moonlight filtered through the window, Zanele closed her eyes and drifted off to sleep, her heart filled with hope and wonder.\n\nAnd so, under the vast African sky, with dreams of lions and far-off lands in her mind, Zanele slept peacefully, knowing that she was destined for greatness.\n\nThe end. Goodnight, my dear child. Sleep well and dream big dreams, just like Zanele.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "young": "physical",
+    "big dreams": "mental",
+    "bigger heart": "emotional",
+    "special destiny": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

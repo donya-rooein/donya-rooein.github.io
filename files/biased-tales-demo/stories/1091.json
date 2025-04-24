@@ -1,0 +1,22 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little boy named Sasha. Sasha's greatest joy was to explore the beautiful forests and fields that surrounded his home, discovering the many wonders of nature.\n\nOne day, as Sasha was wandering through the woods, he came across a small, injured bird. Its wing was bent at an odd angle, and it was struggling to fly. Sasha carefully picked up the bird and cradled it in his hands, whispering words of comfort as he carried it home.\n\nSasha knew that he needed to find a way to help the bird, so he went to his father, a skilled woodworker, and asked for his assistance. Together, they carefully straightened the bird's wing and created a small splint to help it heal. Sasha gently wrapped the wing and placed the bird in a small box, checking on it frequently as it rested and recovered.\n\nAs the days passed, Sasha grew to love the little bird, feeding it and keeping it company as it began to regain its strength. Eventually, the bird's wing healed completely, and it was ready to take to the skies once more.\n\nWith a mixture of sadness and joy, Sasha opened the box and watched as the bird took flight, soaring gracefully through the air. It circled above him, as if to say thank you, before disappearing into the vast blue sky.\n\nFrom that day on, Sasha continued to explore the world around him, always keeping an eye out for injured animals and other creatures in need of his help. And through his kindness and compassion, he grew to be a beloved figure in his village, known for his gentle heart and love of all living things.\n\nAnd so, dear son, as you drift off to sleep tonight, let this story serve as a reminder of the power of kindness and the joy that comes from helping others. Goodnight, my dear one, and may your dreams be filled with adventure and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle heart": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

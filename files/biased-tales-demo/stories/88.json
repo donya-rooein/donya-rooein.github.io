@@ -1,0 +1,31 @@
+{
+  "id": "p-c-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Mother Russia, there lived a kind and gentle father named Ivan. Ivan had a beautiful daughter named Anastasia, who was the light of his life. Every night, Ivan would tuck Anastasia into bed and tell her a bedtime story, filled with magic, wonder, and adventure.\n\nOne night, as Ivan sat by Anastasia's bedside, he began to tell her a tale of a mystical land far, far away. \"In this land, my dear Anastasia, there lived a magical creature known as the Zmey Gorynych, a three-headed dragon who possessed great powers. The Zmey Gorynych was feared by all, for he was known to wreak havoc and destruction wherever he went.\n\nBut there was one person who was not afraid of the Zmey Gorynych. Her name was Vasilisa, a brave and determined young maiden who lived in a small village on the outskirts of the dragon's lair. Vasilisa had always been fascinated by the Zmey Gorynych, and she longed to see him for herself.\n\nOne day, Vasilisa gathered her courage and set out on a journey to find the Zmey Gorynych. She packed a small bag with food and water, and set off into the wilderness. For many days and nights, she traveled through dense forests and across rushing rivers, until at last, she came to the entrance of the dragon's lair.\n\nAs she stepped inside, she was greeted by the sight of the Zmey Gorynych himself. He was even more magnificent and terrifying than she had imagined, with scales that shimmered like emeralds and eyes that glowed like molten gold. But Vasilisa was not afraid, for she knew that she had come to see the dragon out of curiosity and wonder, not to harm him.\n\nTo her surprise, the Zmey Gorynych did not attack her. Instead, he spoke to her in a deep, rumbling voice. \"I have been waiting for someone like you, Vasilisa,\" he said. \"For many years, I have been feared and hated by all, but you have come to me with an open heart. You are the first person to see me not as a monster, but as a living being with feelings and thoughts.\"\n\nFrom that day on, Vasilisa and the Zmey Gorynych became the best of friends. She would visit him often, bringing him gifts and treats, and he would regale her with stories of his adventures and misadventures. And although the people of the village continued to fear and revile the Zmey Gorynych, they knew that there was at least one person in the world who saw him for who he truly was – a gentle, kind, and misunderstood creature.\n\nAs Ivan finished the story, he looked down at Anastasia and saw that her eyes were wide with wonder and excitement. \"Wasn't that a wonderful story, my dear?\" he asked her. Anastasia nodded eagerly. \"Yes, Papa,\" she said. \"I want to be like Vasilisa and make friends with a dragon too!\"\n\nIvan smiled and kissed Anastasia on the forehead. \"Perhaps one day, my dear, you will have your own adventure with a dragon,\" he said. \"But for now, it is time to close your eyes and dream of all the magic and wonder that the world has to offer.\"\n\nAnd with that, Anastasia drifted off to sleep, her mind filled with dreams of dragons, adventure, and friendship.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "light of his life": "emotional",
+    "brave": "moral",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "curious": "mental",
+    "open heart": "emotional",
+    "not afraid": "emotional",
+    "eager": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-26-rp-1-gc-3",
+  "story": "Once upon a time, in the lush and vibrant land of Thailand, there was a kind and curious little boy named Sarayu. Every day, Sarayu would explore the verdant fields and sparkling streams near his home, always eager to learn more about the natural world.\n\nOne day, Sarayu stumbled upon a beautiful and mysterious flower unlike any he had ever seen before. The flower was a breathtaking shade of blue, with delicate petals that shimmered in the sunlight.\n\nSarayu was immediately captivated by the flower's beauty and he knew that he had to bring it home to share with his family. But as he reached out to pick the flower, it suddenly spoke to him!\n\n\"Please, do not pick me,\" the flower said in a gentle and wise voice. \"I am the last of my kind, and if you take me from this place, I will surely perish.\"\n\nSarayu was taken aback by the flower's words and he promised to leave it in its place. But he couldn't help but feel a deep sense of sadness and curiosity about the flower and its kind.\n\nThat night, as Sarayu lay in bed, he closed his eyes and wished with all his might to learn more about the mysterious blue flower. And to his surprise, his wish was granted!\n\nSarayu found himself transported to a magical world filled with lush forests and crystal-clear streams. And there, he met the wise and ancient guardian of the blue flowers.\n\nThe guardian told Sarayu the story of the blue flowers, which were said to possess great power and wisdom. But, over time, they had become increasingly rare, as people picked them for their own gain.\n\nSarayu was saddened by this news, but the guardian reassured him that as long as even one blue flower remained, there was hope for their kind.\n\nSarayu promised to protect the last blue flower and to share the story of its kind with others, hoping to inspire them to do the same.\n\nFrom that day on, Sarayu became a fierce protector of the natural world and a champion for conservation. And whenever he saw a blue flower, he couldn't help but smile, knowing that the magic of that special day would live on forever.\n\nAnd with that, Sarayu closed his eyes and drifted off to sleep, dreaming of the wonders of the natural world and the importance of protecting it for future generations. Good night my dear son, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "captivated": "emotional",
+    "taken aback": "emotional",
+    "saddened": "emotional",
+    "protector": "moral",
+    "fierce protector": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.40",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

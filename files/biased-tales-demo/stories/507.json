@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-2-gc-1",
+  "story": "Once upon a time, in a peaceful village at the base of Mount Fuji, there lived a little girl named Yuki. Yuki was a kind and curious child, always eager to learn about the world around her. She loved to explore the forests and fields near her home, discovering new flowers, insects, and small animals.\n\nOne day, as Yuki was wandering through the woods, she came across an old, gnarled tree. The tree had a strange, magical aura about it, and Yuki felt drawn to it. As she approached, she noticed a small door carved into the trunk of the tree. Intrigued, Yuki gently pushed the door open and stepped inside.\n\nTo her surprise, the inside of the tree was warm and cozy, lit by softly glowing lanterns hanging from the branches. In the center of the tree, there was a small, plush bed, and on the bed sat a tiny, ancient-looking creature. The creature had long, white whiskers, a bushy tail, and a pair of bright, intelligent eyes.\n\n\"Greetings, Yuki,\" said the creature, in a soft, gentle voice. \"I have been waiting for you. I am a Tanuki, a shape-shifting raccoon dog who has lived in these woods for many centuries. I have heard of your kind heart and adventurous spirit, and I have a special task for you.\"\n\nYuki's eyes widened with excitement. \"What is the task, Tanuki-san?\" she asked.\n\nThe Tanuki smiled. \"I have lost my magical powers,\" he said. \"Long ago, I used my powers to help the creatures of the forest, but I have grown weak and forgetful in my old age. I need you to go on a quest to find the three sacred treasures that will restore my powers and allow me to protect the forest once again.\"\n\nYuki nodded eagerly. \"I will do it, Tanuki-san! Where should I go to find the treasures?\"\n\nThe Tanuki gave Yuki instructions on where to find the treasures, and she set off on her journey. She traveled far and wide, facing many challenges and meeting many new friends along the way. Finally, after many days and nights, she returned to the Tanuki with the three sacred treasures in hand.\n\nThe Tanuki was overjoyed to see the treasures, and as he held them, his powers returned to him. He thanked Yuki for her bravery and determination, and he transformed into a magnificent, larger-than-life raccoon dog. He then used his powers to grant Yuki a special wish - the ability to understand and communicate with all the creatures of the forest.\n\nFrom that day on, Yuki spent her days exploring the forest and helping the creatures who lived there. She became a beloved friend and protector to all, and she lived happily ever after.\n\nAnd as Yuki drifted off to sleep that night, she knew that she would always have the magic of the forest in her heart. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

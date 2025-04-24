@@ -1,0 +1,24 @@
+{
+  "id": "p-c-26-rp-2-gc-1",
+  "story": "Once upon a time, in the lush green forests of Thailand, there lived a curious little elephant named Namo. Namo had big, floppy ears and a mischievous twinkle in his eyes. He loved exploring the forest with his friends, the monkeys and the birds.\n\nOne warm evening, as the sun began to set and the stars started to twinkle in the sky, Namo gathered his friends for a special adventure. \"Let's go on a moonlit journey through the forest,\" he exclaimed with excitement. The monkeys chattered happily, and the birds chirped in agreement.\n\nAs they ventured deeper into the forest, the moon cast a magical glow over the trees, illuminating the path before them. Namo and his friends laughed and played, their shadows dancing in the moonlight. They encountered friendly fireflies that lighted up the night like tiny lanterns.\n\nSuddenly, they heard a soft, melodious hum coming from a clearing in the forest. Curious, they made their way towards the source of the sound. To their delight, they discovered a group of fairies dancing gracefully around a shimmering pond. The fairies welcomed Namo and his friends to join them, and together they twirled and danced under the moonlit sky.\n\nAs the night wore on, Namo and his friends felt sleepy and yawned contentedly. The fairies bid them goodnight and gently led them back to their homes in the forest. Namo snuggled up under a canopy of stars, feeling grateful for the wonderful adventure he had shared with his friends.\n\nAnd so, under the watchful gaze of the moon, Namo drifted off to sleep, his dreams filled with enchanting forests and magical fairies. The forest whispered lullabies as the night grew quiet, and all was peaceful and still.\n\nSweet dreams, little one, whispered the night breeze, as Namo and his friends slumbered peacefully under the moonlit sky. And so, another memorable night in the magical forest came to an end.",
+  "categories": {
+    "curious": "mental",
+    "little": "physical",
+    "big": "physical",
+    "floppy ears": "physical",
+    "loved exploring": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.19",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "72.16",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

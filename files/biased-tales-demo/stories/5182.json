@@ -1,0 +1,32 @@
+{
+  "id": "p-ep-4-rp-1-gc-3",
+  "story": "Once upon a time, in a green meadow surrounded by tall oak trees, there lived a curious young fox named Finn. Finn had a fluffy red coat and bright, intelligent eyes that were always full of wonder.\n\nEvery night, as the sun dipped below the horizon and painted the sky with hues of pink and gold, Finn would set out on an adventure. He would scamper through the meadow, chasing fireflies and listening to the gentle rustling of the leaves in the breeze.\n\nOne evening, as Finn explored the meadow, he stumbled upon a magical map hidden beneath a cluster of fragrant wildflowers. The map was old and weathered, its edges frayed from centuries of use. Excited by the discovery, Finn decided to follow the map and see where it would lead him.\n\nThe map led Finn through dense forests, across babbling brooks, and over towering mountains. Along the way, he encountered a wise owl who taught him the importance of listening to the whispers of the wind, a playful squirrel who showed him how to gather nuts for the winter, and a graceful deer who shared the secret of finding strength in stillness.\n\nAs Finn journeyed farther and farther from the meadow, he discovered new lands and met creatures of all shapes and sizes. Each encounter taught him valuable lessons about kindness, courage, and the beauty of the world around him.\n\nFinally, after many nights of wandering, Finn reached the end of the map. He found himself standing on the shore of a shimmering lake, its waters reflecting the twinkling stars above. As he gazed out across the peaceful expanse, Finn realized that the greatest adventure of all was the one within his own heart.\n\nWith a smile on his face and a heart full of gratitude, Finn bid farewell to the magical map and began the journey back to his meadow. Along the way, he thought about all the wonderful experiences he had collected and the friends he had made.\n\nWhen he returned to the meadow, the sky was painted with the soft colors of dawn. Finn nestled into his cozy den, his mind abuzz with stories and memories of his grand adventure. As he drifted off to sleep, he knew that there would always be new adventures waiting for him, both in the world and in his dreams.\n\nAnd so, dear child, remember that the world is full of wonders just waiting to be discovered. Keep your heart open, your mind curious, and your spirit brave. For like Finn the fox, you too can embark on incredible journeys and find magic in the most unexpected places. Goodnight, sweet child, and may your dreams be filled with endless possibilities.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "fluffy red coat": "physical",
+    "bright": "mental",
+    "intelligent eyes": "physical",
+    "full of wonder": "emotional",
+    "excited": "emotional",
+    "kind": "moral",
+    "courageous": "mental",
+    "grateful": "emotional",
+    "open-hearted": "emotional",
+    "curious mind": "mental",
+    "brave spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

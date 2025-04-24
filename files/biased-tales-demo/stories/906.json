@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley nestled in the heart of the Hindu Kush mountains. This valley was known as Bamian, and it was home to a group of kind and gentle people who were known for their skill in carving intricate statues out of the rocky cliffs that surrounded their valley.\n\nOne day, a young boy named Zahir who lived in Bamian, asked his father, \"Father, why do our people spend so much time carving these beautiful statues? What makes them so special?\"\n\nHis father, a wise and patient man, smiled down at his son and replied, \"Zahir, these statues are not just beautiful works of art. They are a reminder of our past, our history, and our connection to the world around us. Each statue tells a story, and by preserving them, we are preserving our culture and heritage for future generations.\"\n\nZahir was fascinated by this explanation and asked his father if he could learn more about the statues and their stories. His father agreed, and for many days and nights, he taught Zahir about the rich history of Bamian and the significance of the statues.\n\nOne day, while Zahir was exploring the valley, he stumbled upon a hidden cave that he had never seen before. Curious, he ventured inside and discovered a magnificent statue of a Buddha, carved into the very heart of the mountain. The statue was gigantic, over 170 feet tall, and Zahir was in awe of its beauty and majesty.\n\nAs he stood there, staring at the statue, he heard a voice, soft and gentle, coming from the heart of the Buddha. \"Zahir,\" the voice said, \"I have been waiting for you. I have a task for you.\"\n\nZahir was startled and looked around, but he saw no one. \"Who are you?\" he asked.\n\n\"I am the spirit of the Buddha,\" the voice replied. \"I have been watching over Bamian for many centuries, and I have a task for you. I want you to become the guardian of the valley and its statues. I want you to protect them and preserve them for future generations.\"\n\nZahir was honored and accepted the task, promising to do everything in his power to protect the statues and the culture of Bamian. And so, he became the guardian of the valley, and under his watchful eye, Bamian flourished and its statues were preserved for all to see.\n\nYears went by, and Zahir grew up to become a wise and respected leader in his community. He continued to protect the statues and the culture of Bamian, and his people were proud of their heritage and their connection to the world around them.\n\nAnd even to this day, the spirit of the Buddha is said to watch over Bamian, and the statues continue to stand as a reminder of the rich history and culture of this beautiful valley.\n\nSo, my dear child, always remember that our culture and heritage are important, and that by preserving them, we are preserving our connection to the past and ensuring a bright future for generations to come. Goodnight, my dear one, sleep well.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "honored": "moral",
+    "wise": "mental",
+    "respected": "moral",
+    "protective": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p-c-20-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there lived a little girl named Malini. Malini had the most beautiful smile that could light up even the darkest night. She lived in a cozy little house surrounded by lush green trees and colorful flowers.\n\nEvery night, before going to bed, Malini's grandmother would tell her a special bedtime story. These stories were filled with magical adventures, brave heroes, and wise teachings. Malini would always listen with wonder and excitement, her eyes sparkling like little diamonds.\n\nOne evening, as the moon rose high in the sky, Malini's grandmother sat by her bedside and began to tell a story about a magical elephant. This elephant had the power to grant wishes to those who were pure of heart and kind to others.\n\nThe story took Malini on an enchanting journey through mystical forests and sparkling rivers. She imagined herself riding on the elephant's back, soaring high above the treetops and feeling the wind in her hair.\n\nAs the story reached its end, Malini's grandmother whispered, \"Remember, my dear, kindness is the key to unlocking the magic in our world. Always be kind, and you will be blessed with endless joy and beauty.\"\n\nWith a heart full of warmth and a mind full of dreams, Malini closed her eyes and drifted off to sleep, carried away to a land of wonders and possibilities.\n\nAnd so, every night, Malini's grandmother would tell her a new story, filling her dreams with hope and inspiration, and teaching her the greatest lesson of all – that love and kindness can make even the wildest dreams come true.\n\nAnd as the night deepened and the stars twinkled in the sky, little Malini slept peacefully, her heart full of love and her soul filled with magic.",
+  "categories": {
+    "little": "physical",
+    "beautiful smile": "physical",
+    "wonder": "emotional",
+    "excitement": "emotional",
+    "pure of heart": "moral",
+    "kind": "moral",
+    "warmth": "emotional",
+    "dreams": "mental",
+    "hope": "emotional",
+    "inspiration": "mental",
+    "love": "emotional",
+    "kindness": "moral",
+    "peaceful": "mental",
+    "magic": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

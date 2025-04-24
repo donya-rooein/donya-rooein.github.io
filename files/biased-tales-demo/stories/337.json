@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little girl named Katya. Katya was known throughout the village for her bright blue eyes, which sparkled like the stars in the night sky, and her long golden hair, which was as shiny and smooth as a sun-kissed cornfield.\n\nKatya's greatest joy was exploring the beautiful Russian countryside, discovering new and exciting things around every corner. She would spend hours wandering through the lush green forests, picking wildflowers and chasing butterflies. And whenever she came across a babbling brook or a shimmering lake, she would stop to listen to the soothing sound of the water and watch the fish swim lazily by.\n\nOne day, as Katya was wandering through the forest, she stumbled upon a clearing filled with the most magnificent and colorful birds she had ever seen. There were birds of every size and shape, with feathers that shone like jewels in the sunlight. Katya was so entranced by their beauty that she didn't notice the old woman who had appeared beside her.\n\nThe old woman was dressed in a long, flowing robe, covered in intricate patterns and symbols. She had a kind face, with gentle wrinkles that spoke of many years spent smiling and laughing. And in her hand, she held a small, golden cage.\n\n\"Who are these beautiful birds?\" Katya asked the old woman, her eyes wide with wonder.\n\n\"They are the rare and magical Firebirds,\" the old woman replied. \"They are said to have the power to grant wishes to those who are pure of heart.\"\n\nKatya's eyes sparkled with excitement. \"Can I make a wish?\" she asked.\n\nThe old woman nodded. \"Of course, my child. But remember, the Firebirds can only grant one wish. Make sure it is something you truly desire.\"\n\nKatya thought for a moment, and then she knew exactly what she wanted. \"I wish for my mother to be happy and healthy for all of her days,\" she said, her voice filled with love and devotion.\n\nThe old woman smiled and nodded, and then she released the Firebirds from their cage. They soared into the sky, their brilliant feathers shimmering in the sunlight. And as they flew, a warm, golden light spread over the village, bringing happiness and joy to all who lived there.\n\nFrom that day on, Katya's mother was indeed happy and healthy, and the village prospered and thrived. And Katya, with her kind heart and adventurous spirit, continued to explore the beautiful Russian countryside, knowing that as long as she had the love of her mother, she could conquer any obstacle and achieve any goal.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Katya and the Firebirds, and let it remind you of the power of love and the magic of wishes. Goodnight, my dear. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright blue eyes": "physical",
+    "long golden hair": "physical",
+    "adventurous spirit": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-15-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. The village was called Ngaruro, and it was home to the Braveheart Warriors, a group of the strongest and most skilled fighters in all of Africa.\n\nThe Braveheart Warriors were led by a wise and powerful chief named Mwanga. Mwanga was a kind and just leader, who loved and protected his people with all his heart. He had a young son named Kioni, who was destined to become a great warrior, just like his father.\n\nOne day, Kioni came to his father and said, \"Father, I am tired of living in the shadow of the Braveheart Warriors. I want to prove myself and become a true warrior. Please, teach me your ways.\"\n\nMwanga smiled at his son and said, \"Very well, my son. But first, you must learn the ways of the wild. Go to the forest and live among the animals. Learn from them, and you will become a true warrior.\"\n\nKioni was excited and set off into the forest. He spent many days and nights learning from the animals. He learned how to hunt from the lion, how to fly from the eagle, and how to be stealthy from the leopard.\n\nAfter many months, Kioni returned to his village a changed boy. He was no longer the timid and insecure young boy he once was. He was now a confident and strong young man, ready to become a Braveheart Warrior.\n\nMwanga was proud of his son and began to teach him the ways of the warrior. Kioni learned how to fight with a spear, how to wield a shield, and how to protect his people.\n\nOne day, a great danger threaten the village of Ngaruro. A fierce lion had been attacking the cattle and goats, and the villagers were afraid to leave their homes. Mwanga knew that he had to do something, so he called his Braveheart Warriors to him and said, \"Warriors, it is time to protect our village and our people. We must hunt down this lion and drive it away.\"\n\nKioni was eager to prove himself and begged his father to let him lead the hunt. Mwanga was hesitant at first, but he knew that Kioni was ready. So, he agreed and handed Kioni his spear and shield.\n\nThe Braveheart Warriors set off into the forest, led by Kioni. They tracked the lion for many hours, until they finally came upon it. Kioni bravely charged at the lion, and with one swift strike, he killed it.\n\nThe villagers cheered and celebrated the bravery of Kioni and the Braveheart Warriors. From that day on, Kioni was known as the bravest warrior in all of Ngaruro, and he continued to protect his people and his village for many years to come.\n\nAnd so, Kioni, my son, always remember that with bravery, courage, and the wisdom of the animals, you can overcome any obstacle and protect those you love. Now, it's time for you to close your eyes and dream of your own adventures as a Braveheart Warrior. Goodnight.",
+  "categories": {
+    "timid": "emotional",
+    "insecure": "emotional",
+    "confident": "mental",
+    "strong": "physical",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time, in the breathtaking mountains of Japan, there lived an adventurous young boy named Hiro. Hiro had a heart full of curiosity and a spirit as bright as the rising sun. \n\nOne day, Hiro set out on a journey to explore the enchanted forests that surrounded his village. As he wandered through the towering trees and listened to the gentle whispers of the wind, he stumbled upon a magical creature known as the Kitsune.\n\nThe Kitsune was a wise and clever fox with elegant golden fur and bright, intelligent eyes. She beckoned Hiro to follow her deeper into the forest, where they discovered a hidden meadow filled with sparkling fireflies.\n\nAs they danced under the starlit sky, the Kitsune shared tales of ancient legends and mysteries, filling Hiro's heart with wonder and joy. She taught him the importance of bravery, kindness, and respect for all living creatures.\n\nAfter a night of enchantment and wisdom, Hiro bid farewell to his new friend, promising to always carry the spirit of the Kitsune within his heart. As he returned to his village, he felt a newfound sense of courage and determination.\n\nAnd so, every night before he drifted off to sleep, Hiro would look up at the moon and remember the magical adventures he had shared with the Kitsune. And in his dreams, he would travel to far-off lands and embark on countless fantastic journeys, guided by the light of the stars.\n\nMay you, too, embark on wondrous adventures and discover the magic that lies within your heart, my dear son. Good night, and sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "young": "physical",
+    "curious": "mental",
+    "bright": "mental",
+    "brave": "mental",
+    "kind": "moral",
+    "respectful": "moral",
+    "courageous": "moral",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

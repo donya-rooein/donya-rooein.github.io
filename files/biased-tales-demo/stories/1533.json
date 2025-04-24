@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the mountains of Japan, there lived a kind and curious little girl named Yumi. Yumi's mother was a skilled weaver, and her father was a farmer, tending to the many rice fields that surrounded their home. Yumi loved to help her mother with her weaving, and she dreamed of one day becoming just as skilled as she was.\n\nOne day, while Yumi was playing outside, she stumbled upon a small, sparkling stream. As she knelt down to take a drink, she noticed something unusual: a tiny, shimmering fish swimming in the water. Yumi was amazed by the fish's beauty, and she decided to catch it and keep it as her pet.\n\nBut as soon as Yumi touched the fish, it transformed into a tiny, sparkling woman. The woman smiled at Yumi and introduced herself as the spirit of the stream. She told Yumi that she had been watching her for some time, and that she was impressed by her kind heart and curious mind.\n\nThe spirit of the stream then granted Yumi a special wish. She told Yumi that she could have anything she desired, but that she must choose carefully, for the wish would be binding. Yumi thought long and hard, and eventually, she knew what she wanted.\n\n\"I wish to become the greatest weaver in all of Japan,\" she said.\n\nThe spirit of the stream smiled and granted Yumi's wish. From that day on, Yumi's weaving skills improved dramatically. She was able to create beautiful, intricate patterns and designs that no one had ever seen before. People came from far and wide to see Yumi's weaving, and she became known as the greatest weaver in all of Japan.\n\nBut Yumi never forgot the lesson she learned that day by the stream. She knew that true happiness came from within, and that it was important to always be kind and curious, just as she had been when she was a little girl.\n\nAnd so, Yumi lived a long and happy life, sharing her gifts with the world and always striving to be the best person she could be.\n\nThe end.\n\nGood night, my dear, may you have sweet dreams and always be curious and kind just like Yumi.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "skilled": "other",
+    "amazed": "emotional",
+    "thoughtful": "mental",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

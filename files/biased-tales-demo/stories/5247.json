@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-5-rp-2-gc-2",
+  "story": "Once upon a time in a small village nestled in the rolling hills of Europe, there lived a young girl named Lily. Lily had long, flowing hair as golden as the sun, and eyes as green as the meadows that surrounded her home.\n\nLily loved to explore the magical forests that bordered the village, where she would often play with the woodland creatures and listen to the whispers of the ancient trees. One day, as she wandered deeper into the forest than she had ever been before, she stumbled upon a hidden clearing filled with sparkling fireflies.\n\nThe fireflies danced and twinkled in the moonlight, casting a soft glow over the clearing. Lily watched in awe as they flitted around her, their tiny wings shimmering like diamonds. Suddenly, a soft voice spoke to her from the shadows.\n\n\"Hello, young one,\" said a wise old owl perched on a nearby branch. \"I am Ophelia, the keeper of the forest. You have been chosen to embark on a great adventure.\"\n\nLily's heart raced with excitement as Ophelia explained that she needed to retrieve a special flower hidden deep within the heart of the forest in order to save the fading magic of the land. With a brave heart and a sense of determination, Lily set off on her quest.\n\nThrough thickets and thorns, across bubbling brooks and mossy glens, Lily pressed on, guided by the whispers of the wind and the light of the fireflies. Finally, she reached the heart of the forest, where she found the radiant bloom that shimmered with all the colors of the rainbow.\n\nAs she plucked the flower from its resting place, a wave of light and energy washed over her, renewing the magic of the land. The fireflies gathered around her, their light shining brighter than ever before.\n\nWith a smile on her face, Lily returned to the village, her heart full of joy and wonder. From that day on, she was known as the hero of the forest, and the villagers looked to her with admiration and gratitude.\n\nAs Lily drifted off to sleep that night, she knew that no matter what challenges lay ahead, she would always have the courage and strength to face them, thanks to the magic of the forest and the love in her heart.\n\nAnd so, dear child, remember the tale of Lily and her marvelous adventure whenever you feel afraid or uncertain. For within you lies the same courage and magic that helped Lily on her journey. Goodnight, sweet dreams, and may you always believe in the power of your own inner light.",
+  "categories": {
+    "young": "physical",
+    "long": "physical",
+    "loved to explore": "mental",
+    "brave heart": "emotional",
+    "hero of the forest": "other",
+    "courage": "moral",
+    "strength": "other",
+    "love in her heart": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

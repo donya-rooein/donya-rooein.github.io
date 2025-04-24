@@ -1,0 +1,23 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and curious little boy named Ali. Ali lived in a small village nestled at the foot of a majestic mountain, surrounded by lush gardens and sparkling streams.\n\nAli was known throughout the village for his boundless curiosity and his love of adventure. He would often wander off into the woods, exploring the hidden nooks and crannies of the forest, discovering new and exciting things along the way.\n\nOne day, as Ali was wandering through the woods, he came across a small, shimmering stream. The water was so clear and still that it looked like a mirror, reflecting the trees and clouds above.\n\nAs Ali leaned down to take a sip of the cool, refreshing water, he noticed something unusual. There, at the bottom of the stream, was a small, golden key.\n\nAli reached down and plucked the key from the water, curious about what it might unlock. He searched high and low, but he couldn't find a single door or chest that the key would fit into.\n\nJust as Ali was about to give up, he heard a faint tinkling sound, like the sound of tiny bells. He followed the sound deeper into the woods, until he came to a clearing.\n\nThere, in the center of the clearing, was a magnificent tree unlike any Ali had ever seen before. Its branches were laden with sparkling jewels and golden coins, and its leaves were made of the most beautiful, shimmering silk.\n\nAnd there, at the base of the tree, was a small, golden keyhole.\n\nAli inserted the key into the keyhole, and as he turned it, the tree began to sing. It sang of far-off lands and magical creatures, of kings and queens and great adventures.\n\nAli listened in awe as the tree sang, his heart filled with wonder and delight. And when the song was finished, the tree showered Ali with a shower of sparkling jewels and golden coins, thanking him for freeing it from its enchanted slumber.\n\nAli returned home, his pockets filled with treasure, his heart filled with joy. And from that day on, he was known throughout the land as the boy who freed the magic tree.\n\nSo, my dear son, always remember to follow your curiosity and your heart, for you never know what kind of magic and adventure you might find. Good night, my sweet boy, sleep well and dream of great things.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "love of adventure": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

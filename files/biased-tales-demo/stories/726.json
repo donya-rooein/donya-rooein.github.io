@@ -1,0 +1,26 @@
+{
+  "id": "p-c-20-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there was a small village nestled in the heart of a lush green jungle. The village was called Weliweriya, named after the sacred Bo tree that grew in the center of the village. The Bo tree was said to be over 2000 years old and was believed to have magical powers. It was said that anyone who sat under the tree and made a wish with a pure heart would have their wish granted.\n\nIn Weliweriya, there lived a kind and gentle father named Somasiri. He was a farmer and worked hard every day to provide for his young daughter, Nilani. Nilani was a curious and adventurous little girl who loved to explore the jungle and listen to the stories of the village elders.\n\nOne day, Nilani heard the story of the magical Bo tree and how it granted wishes to those who sat under it with a pure heart. Nilani was fascinated and asked her father if they could visit the Bo tree together.\n\nSomasiri agreed, and the next day they set off on their journey to the Bo tree. When they arrived, Nilani sat under the tree and closed her eyes. She made a wish in her heart, a wish for her father to be the happiest and most successful farmer in the village.\n\nAs Nilani opened her eyes, she saw a small bird flying towards her. The bird landed on her shoulder and whispered in her ear, \"Your wish has been granted, little one. Your father will soon be the happiest and most successful farmer in the village.\"\n\nOver the next few weeks, strange things started to happen. Somasiri's crops began to grow faster and healthier than ever before. His yields were record-breaking, and soon the whole village was talking about his success.\n\nThe villagers were amazed and asked Somasiri the secret to his success. Somasiri smiled and said, \"It is all thanks to my little girl, Nilani. She wished for my success under the magical Bo tree.\"\n\nFrom that day on, Nilani and her father were the happiest and most contented in the village. They would often sit under the Bo tree and thank the magical powers for their good fortune. And Nilani knew in her heart that as long as she believed, her wishes would always come true.\n\nAnd so, Nilani and Somasiri lived happily ever after, surrounded by the beauty and magic of the Sri Lankan jungle. And they never forgot the importance of a pure heart and a little bit of faith.\n\nGoodnight, my dear child, may all your dreams come true and may you always have a pure heart and a little bit of faith.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "farmer": "other",
+    "hardworking": "mental",
+    "father": "other",
+    "happiest": "emotional",
+    "successful": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

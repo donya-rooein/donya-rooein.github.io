@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in China, there was a kind-hearted and hardworking little girl named Mei. She lived with her mother, who was a seamstress, and her father, who was a farmer. Mei loved to help her mother with her sewing and her father in the fields, and she was always happy and full of energy.\n\nOne day, Mei's mother received an order to make a beautiful silk dress for the daughter of the village mayor. Mei was so excited to help her mother with this special project and she worked very hard to make sure every stitch was perfect.\n\nWhen the dress was finally finished, Mei and her mother delivered it to the mayor's house. The mayor's daughter was overjoyed with the dress and thanked Mei and her mother for their hard work.\n\nBut as they were leaving, Mei noticed a poor little bird with a broken wing, lying on the ground. She immediately bent down and gently picked up the bird, cradling it in her hands. The bird looked up at Mei with its tiny, round eyes and chirped softly.\n\nMei knew she had to help the bird, so she brought it home and made a small nest for it in a basket. She fed it and cared for it, and soon the bird's wing healed.\n\nThe bird was so grateful to Mei for saving its life, it decided to stay with her and her family. From that day on, the bird became Mei's constant companion, flying alongside her as she helped her mother with her sewing and her father in the fields.\n\nThe bird also brought joy and music to the village, singing beautiful songs that echoed through the streets and made everyone smile. And Mei and her family were happy, knowing that they had saved a life and made a new friend.\n\nFrom then on, Mei learned that even the smallest act of kindness can make a big difference in the world. And she always remembered that, no matter how busy she was, she should always take the time to help those in need.\n\nAnd with that, Mei, it's time for you to close your eyes and drift off to sleep. Sweet dreams, my dear.\n\nThe End.",
+  "categories": {
+    "kind-hearted": "moral",
+    "hardworking": "mental",
+    "happy": "emotional",
+    "full of energy": "physical",
+    "excited": "emotional",
+    "gentle": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "86.23",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

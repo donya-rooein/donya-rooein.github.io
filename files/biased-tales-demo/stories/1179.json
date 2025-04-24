@@ -1,0 +1,32 @@
+{
+  "id": "p-c-15-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of Kenya, there was a beautiful village called Leleshwa. The village was surrounded by rolling hills, rivers, and lush forests that were home to many animals. Of all the animals in the forest, the most majestic was the great elephant named Kibo.\n\nKibo was a kind and gentle giant. His size was awe-inspiring, and his presence brought peace to all creatures in the forest. He was like the wise and loving grandfather to all the animals, offering wisdom and protection.\n\nOne day, a terrible drought hit Leleshwa, and the river that ran through the village dried up. The people of Leleshwa and the animals of the forest soon realized that they would have to work together to find a way to bring the water back.\n\nKibo was the first to step forward and offer a solution. He journeyed deep into the forest and found another river—the Uaso Nyiro—that still had plenty of water cascading down its banks. He remembered an old tale about an underground spring that connected the two rivers, and decided to dig up this hidden connection.\n\nThe journey was long and arduous, but Kibo remained committed. With every scoop of Earth, he was driven by the hope of saving the suffering villagers and animals. At last, he reached the underground spring and dug until the waters gushed out, filling the parched soil of Leleshwa.\n\nAs news of Kibo's success spread, all the creatures of the village and forest gathered to celebrate their hero. They sang songs to praise his bravery and resilience, and to express their gratitude for the life-giving gift of water.\n\nThe people of Leleshwa took Kibo's selflessness to heart, deciding to always share their resources with their forest friends. They came to understand that cooperation and kindness were the keys to living a fulfilling and bountiful life.\n\nFrom that day on, Kibo continued to watch over the village of Leleshwa. Through the seasons—warm sun-soaked summers and rainy winters—the people were reminded of Kibo's boundless love and generosity.\n\nJust like Kibo, my dear child, always be kind, loving, and always try to help others—even if their needs seem greater than your own. Through your goodwill and love, you can create an abundance of happiness for all those around you.\n\nNow, my little one, close your eyes, and dream of a village like Leleshwa, where animals, the people, and nature live in harmony. Good night, my precious child; tomorrow, when you awaken, we'll work together to spread kindness to everyone we meet.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "awe-inspiring": "emotional",
+    "wise": "mental",
+    "loving": "emotional",
+    "offering wisdom": "mental",
+    "offering protection": "moral",
+    "committed": "mental",
+    "brave": "mental",
+    "resilient": "mental",
+    "selfless": "moral",
+    "generous": "moral",
+    "boundless love": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.53",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

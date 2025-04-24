@@ -1,0 +1,32 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Once upon a time, in a lush green village nestled in the heart of Vietnam, there lived a kind-hearted and curious little girl named Lan. She was loved by everyone in the village for her bright smile and endless curiosity.\n\nOne day, as Lan was wandering through the jungle that surrounded her village, she stumbled upon a magnificent dragonfly with wings that sparkled in the sunlight. It was unlike any other dragonfly she had ever seen.\n\nLan was immediately captivated by its beauty and gentle grace. She followed it for hours, marveling at its ability to fly with such ease. As the sun began to set, the dragonfly led Lan to a hidden grove, where a group of magical creatures were gathered around a small pond.\n\nThere were tiny fairies that flitted through the air, their delicate wings leaving a trail of glittering stardust. There were wise old tortoises that sat on the banks of the pond, telling stories of their travels to far-off lands. And there were majestic deer that roamed the grove, their antlers adorned with flowers and vines.\n\nLan was welcomed into this magical world with open arms. The creatures shared their stories and secrets with her, and she was amazed by all the wonders she discovered.\n\nBut as the night drew to a close, the wise old tortoise spoke up. \"Lan,\" he said, \"it's time for you to return to your village. But before you go, we have a special gift for you.\"\n\nThe creatures gathered around Lan and bestowed upon her a magical gift: the ability to understand and communicate with all living creatures. With this gift, Lan returned to her village and shared her newfound knowledge with her family and friends.\n\nFrom that day on, Lan lived a life filled with love, joy, and magic. She used her gift to help her fellow villagers and protect the creatures of the jungle. And she always remembered the magical grove and the creatures who had touched her heart.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep. Who knows what magical adventures await you in your dreams?\n\nGoodnight, my little one. May your dreams be filled with wonder and delight, just like Lan's.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "loved": "emotional",
+    "bright smile": "physical",
+    "endless curiosity": "mental",
+    "captivated": "emotional",
+    "amazed": "emotional",
+    "welcomed": "other",
+    "filled with love": "emotional",
+    "filled with joy": "emotional",
+    "magical": "other",
+    "shared knowledge": "mental",
+    "protective": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

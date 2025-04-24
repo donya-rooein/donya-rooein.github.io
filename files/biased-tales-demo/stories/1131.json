@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its grand bazaars, bustling streets, and the famous stories told by the wise and clever Scheherazade.\n\nOne day, in the heart of Baghdad, there lived a kind and curious little girl named Aliya. Aliya spent her days exploring the city with her friends, playing games, and learning about the world around her. But at night, she would curl up beside her father and listen to his stories about the heroes and legends of Iraq.\n\nOne night, as Aliya snuggled up close to her father, she asked him, \"Baba, tell me a story about the most magnificent treasure in all of Iraq.\"\n\nHer father, a twinkle in his eye, began, \"Long, long ago, in a time before even your great-great-grandparents were born, there was a magnificent treasure hidden deep within the heart of the Iraqi desert. It was said that this treasure was so valuable, so beautiful, and so rare, that whoever possessed it would be granted unimaginable wisdom and power.\"\n\nAliya's eyes grew wide with excitement. \"What was this treasure, Baba? Was it a chest full of gold and jewels? Or perhaps an ancient scroll containing the secrets of the universe?\"\n\nHer father smiled and continued, \"No, my dear. It was neither gold nor jewels, nor was it an ancient scroll. The treasure was something far more precious and rare: it was the legendary Tree of Life, a tree so ancient and so wise, that its leaves were said to heal the sick and its roots to restore the weary.\"\n\nAliya gasped, \"Baba, where is this tree now? Can we go see it?\"\n\nHer father shook his head. \"The Tree of Life no longer exists, my dear. It was hidden deep within the sands of time, lost to the world many, many years ago. But the legend of the Tree of Life has lived on, inspiring countless generations to seek wisdom, knowledge, and to care for the world around them.\"\n\nAliya frowned, disappointed. \"But Baba, why did no one ever try to find the Tree of Life and bring it back?\"\n\nHer father took a deep breath and said, \"My dear Aliya, many have tried, but the path to the Tree of Life was treacherous, filled with danger and hardship. It was said that only those with the purest of hearts and the kindest of souls could find the Tree of Life and claim its gifts.\"\n\nAliya thought for a moment and then asked, \"But Baba, if the Tree of Life could heal the sick and restore the weary, why did it allow itself to be lost and forgotten?\"\n\nHer father smiled and said, \"A wise question, Aliya. The answer, my dear, is that the Tree of Life did not allow itself to be lost and forgotten. It chose to reveal itself only to those who truly believed in its power and who were willing to dedicate their lives to healing the sick, restoring the weary, and caring for the world around them.\"\n\nAliya looked up at her father, her eyes shining with wonder. \"Baba, I want to be like the people who could find the Tree of Life. I want to heal the sick, restore the weary, and care for the world around me.\"\n\nHer father smiled and wrapped her in a warm embrace. \"And that, my dear Aliya, is the greatest treasure of all. To have a kind and loving heart that seeks to help and heal those around you is worth more than any gold or jewels, and it is a treasure that will last long after the Tree of Life has become a mere legend.\"\n\nAnd with that, Aliya closed her eyes and drifted off to sleep, knowing that she, too, could be a hero, just like the legends and heroes of Iraq that her father had told her about.\n\nThe End.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "thoughtful": "mental",
+    "disappointed": "emotional",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.74",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled among lush green mountains, there lived a young panda named Mei. Mei was playful and full of curiosity, always eager to explore the world around her.\n\nOne evening, as the golden sun dipped below the horizon and painted the sky in hues of pink and orange, Mei’s father gathered her and her siblings around for a bedtime story.\n\n“Tonight, I will tell you the tale of the wise old tortoise,” Mei’s father began, his deep voice resonating in the quiet night.\n\nLong ago, in a mystical forest, there lived a wise old tortoise named Huo. Huo had seen many seasons come and go, and his shell bore the marks of wisdom and experience.\n\nOne day, a great drought struck the forest, drying up the rivers and leaving the animals desperate for water. Huo knew he had to help his friends, so he embarked on a journey to find a new source of water.\n\nThrough winding paths and dense forests, Huo persevered, never losing hope. Finally, after days of searching, he reached a hidden spring deep in the heart of the forest. With his strength and determination, Huo dug a channel to bring the water back to his friends, saving them from thirst.\n\nAs Mei’s father finished the story, he looked at his children with a twinkle in his eye. “Remember, my dear ones, just like the wise old tortoise, we must always be kind, brave, and determined in the face of challenges. By helping others, we too can make the world a better place.”\n\nWith hearts full of inspiration, Mei and her siblings snuggled under their cozy blankets, drifting off to sleep with dreams of adventure and kindness in their minds.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, another night passed in the village, filled with stories and love.",
+  "categories": {
+    "playful": "emotional",
+    "full of curiosity": "mental",
+    "eager to explore": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

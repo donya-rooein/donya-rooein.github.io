@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-1-gc-2",
+  "story": "Here is a bedtime story for your daughter:\n\n**The Magical Adventure of Aïcha in the Sahara Sunset**\n\nIn the heart of Mali, where the Sahara Desert meets the savannah, there lived a young girl named Aïcha. She was a curious and adventurous soul, with dark brown skin and bright brown eyes that twinkled like the stars on a clear night.\n\nOne evening, as the sun began to set over the dunes, Aïcha's grandmother, Mama Fatou, told her it was time for bed. But Aïcha was not ready to sleep. She had heard stories of magical creatures that roamed the desert when the sun dipped below the horizon.\n\nAs she drifted off to sleep, she felt a gentle breeze rustle her hair, and suddenly, she was transported to a world of wonder. The stars twinkled brighter, and the air was filled with the sweet scent of mangoes and hibiscus.\n\nAïcha found herself standing at the edge of a vast expanse of sand, with the majestic peaks of the Adar Desert Mountains rising in the distance. The sky was painted with hues of orange, pink, and purple, as if the setting sun had set the sky on fire.\n\nAs she wandered through the dunes, she met a friendly desert fox named Djingarey, who offered to guide her on a magical journey. Together, they rode on the back of a gentle dune dragon, whose scales shone like the moon.\n\nAs they soared through the desert, Aïcha saw wonders she had never imagined: golden ostriches with iridescent feathers, towering baobab trees with branches that seemed to dance in the wind, and even a herd of playful gazelles that leaped and bounded across the sand like they were performing a mystical ballet.\n\nAs the night deepened, Aïcha and Djingarey reached a sparkling oasis, where a group of enchanting Djinn danced under the stars, their movements weaving a spell of protection and peace over the desert.\n\nAs the magic of the desert washed over her, Aïcha realized that every moment of her life was precious, every breath a gift from the universe, and every night a time for rest and rejuvenation.\n\nAnd so, with its magic still coursing through her veins, Aïcha returned to her own bed, her heart filled with joy and wonder. She smiled, knowing that the Sahara Desert had gifted her with a special promise: to dream of magic, every night, and wake up to its beauty, every morning.\n\nAs you drift off to sleep, my dear daughter, may the stars twinkle in your heart, and the magic of the desert whisper sweet dreams in your ear. May you always remember that the world is full of wonder, and that every night brings the promise of a new adventure. Goodnight, my dear one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "dark brown skin": "physical",
+    "bright brown eyes": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "72.29",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

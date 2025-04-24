@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled among the mountains, there lived a curious and brave young girl named Rosa. Rosa had long, flowing black hair that shimmered like a midnight sky, and eyes that sparkled with kindness and wisdom beyond her years.\n\nRosa loved to explore the forests and meadows surrounding her village, finding joy in the beauty of nature and the songs of the birds. She was known far and wide for her compassion towards all living creatures and her adventurous spirit that knew no bounds.\n\nOne crisp autumn evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink, Rosa ventured deeper into the forest than she had ever gone before. Guided by the soft glow of fireflies, she stumbled upon a magical clearing where a family of foxes lived.\n\nThe foxes welcomed Rosa with open arms, sensing her gentle spirit and pure heart. They told her stories of the ancient ways of the forest and the importance of living in harmony with nature. As the night grew darker and the stars twinkled overhead, the foxes shared their wisdom with Rosa, teaching her the secrets of the forest and the power of love and kindness.\n\nAs the night drew to a close, Rosa bid farewell to her newfound friends, her heart full of gratitude and wonder. She returned to her village under the watchful gaze of the moon, feeling blessed by the magic of the forest and the love of the foxes.\n\nAnd so, every night as Rosa lay her head down to sleep, she would dream of the enchanted forest and the gentle foxes who had taught her the true meaning of compassion and connection. And in her dreams, she would weave tales of love and hope that carried her through each new day.\n\nAnd so, my dear child, remember that the magic of the forest and the wisdom of its creatures live within you always, guiding you on your journey through life's enchanting mysteries. Sweet dreams, little one. Buenas noches.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "loved to explore": "mental",
+    "adventurous spirit": "mental",
+    "gentle spirit": "emotional",
+    "pure heart": "moral",
+    "gratitude": "moral",
+    "wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Once upon a time in a lush Vietnamese forest, there lived a curious little squirrel named Mai. She had the softest fur that shimmered under the moonlight, and the brightest eyes that sparkled like stars in the night sky. Mai loved to explore the forest, hopping from tree to tree, collecting acorns and berries for her meals.\n\nOne evening, as the sun began to set, Mai was feeling adventurous. She decided to venture deeper into the forest than she had ever gone before. The trees grew taller and the shadows grew longer as she hopped along, following a mysterious glow in the distance.\n\nAs she reached a clearing, Mai discovered a magical sight – a field filled with fireflies dancing in the moonlight. Their gentle light twinkled and swirled like a beautiful ballet, casting a warm and enchanting glow over the entire clearing. Mesmerized by the fireflies' dance, Mai sat down and watched, feeling a sense of peace and wonder wash over her.\n\nIn that moment, a wise old owl perched on a nearby branch hooted softly, \"Little one, remember that the world is full of beauty and magic waiting to be discovered. Cherish every moment and never stop exploring.\"\n\nWith those words of wisdom, Mai felt her eyelids growing heavy. She nestled into a cozy hollow of a tree, lulled by the gentle hum of the forest and the flickering light of the fireflies. As she drifted off to sleep, Mai felt grateful for the beauty of the world around her and the adventures that awaited her the next day.\n\nAnd so, in the heart of the Vietnamese forest, under a canopy of stars and fireflies, little Mai dreamed sweet dreams of endless adventures and boundless magic.\n\nThe end. Good night, sweet dreams, and may your heart be filled with wonder, just like Mai's.",
+  "categories": {
+    "curious": "mental",
+    "little": "physical",
+    "softest fur": "physical",
+    "brightest eyes": "physical",
+    "adventurous": "mental",
+    "mesmerized": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.27",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

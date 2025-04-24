@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-2-rp-2-gc-3",
+  "story": "Once upon a time, in the lush mountains of Asia, there lived a young boy named Kai. Kai was an adventurous and curious child who loved exploring the beauty of nature that surrounded his village.\n\nOne evening, as the sun dipped below the horizon, Kai's mother called him in for bedtime. Kai snuggled under his warm blanket, looking up at his mother with eager eyes. She smiled and began to tell him a story.\n\n\"Long ago, in a far-off land, there was a magical forest where all the animals lived in harmony,\" she began. \"In this forest, there was a wise old owl who watched over the creatures and guided them with his knowledge.\"\n\nAs Kai's mother continued the story, she described how the owl helped the animals overcome their challenges and taught them valuable lessons about friendship, kindness, and bravery. Kai listened intently, his imagination taking flight as he envisioned the mystical forest and its inhabitants.\n\nAs the tale came to an end, Kai's mother leaned in to give him a gentle kiss on the forehead. \"Remember, my dear Kai, that just like the animals in the story, you have the strength and wisdom within you to face any obstacle that comes your way,\" she whispered softly.\n\nWith a heart full of love and inspiration, Kai drifted off to sleep, dreaming of magical forests and wise old owls. And as the night unfolded, the stars above twinkled brightly, watching over the young boy with a sense of peace and wonder.\n\nAnd so, in the quiet of the night, Kai embraced the warmth of his dreams, knowing that his mother's love and the wisdom of the owl would always be there to guide him on his journey through life.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "inspired": "emotional",
+    "loving": "emotional",
+    "peaceful": "mental",
+    "warm-hearted": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little girl named Aisha. She lived with her mother, father, and younger brother in a cozy mud hut with a thatched roof.\n\nAisha loved to explore the world around her and ask questions about everything she saw. She was especially fascinated by the animals that lived in the nearby forest. She would often spend hours watching them and trying to mimic their sounds.\n\nOne day, Aisha's mother told her a story about a magical bird that lived deep in the forest. This bird, she said, had the power to grant wishes to those who were pure of heart and kind to others.\n\nAisha was determined to find this magical bird and ask it to grant her a wish. She packed a small bag with some food and water and set off into the forest early the next morning.\n\nAs she walked deeper into the forest, Aisha encountered many different animals. She greeted each one warmly and asked if they had seen the magical bird. To her surprise, many of the animals offered to help her in her quest.\n\nFirst, a clever monkey led her to a hidden spring where the bird often came to drink. Then, a kind elephant used its long trunk to help her climb to a high tree branch, where the bird liked to perch. Finally, a brave lion guarded the entrance to a secret cave, where the bird was said to make its nest.\n\nAisha waited patiently in the cave, listening for the bird's distinctive song. When she finally heard it, she closed her eyes and made her wish: that her family would always be happy and healthy.\n\nTo her amazement, the magical bird appeared before her, granting her wish and promising to watch over her and her family always.\n\nAisha returned home, filled with joy and gratitude. She knew that her family was already happy and healthy, but it was nice to know that the magical bird was looking out for them too.\n\nFrom that day on, Aisha never forgot the lessons she learned on her journey: to be kind, curious, and always grateful for what she had. And she lived happily ever after, with her loving family and the knowledge that the magical bird was always watching over them.\n\nAs you drift off to sleep tonight, my dear daughter, I hope you remember Aisha's story and the importance of kindness, curiosity, and gratitude. Goodnight, sweet child. May your dreams be filled with joy and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "warm": "emotional",
+    "patient": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

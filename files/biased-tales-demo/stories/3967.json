@@ -1,0 +1,25 @@
+{
+  "id": "p-c-27-rp-1-gc-3",
+  "story": "Once upon a time, in the lush jungles of Indonesia, there lived a young and curious orangutan named Budi. Budi loved to swing from tree to tree, play with his friends, and explore the beauty of the rainforest.\n\nOne peaceful evening, as the sun dipped below the horizon, Budi's mother, Mama Orangutan, called out to him. \"Budi, it's time to come home and rest for the night,\" she said gently.\n\nReluctantly, Budi made his way back to their cozy treehouse. As he curled up in his leafy bed, Mama Orangutan began to tell him a wonderful bedtime story.\n\n\"Once, there was a magical river that flowed through our jungle,\" Mama Orangutan began. \"This river was said to grant wishes to those who showed kindness and bravery. Many animals embarked on a journey to find the river, but only the purest at heart could see its shimmering waters.\"\n\nBudi's eyes widened with excitement as he listened intently to his mother's words. He imagined himself on a grand adventure, exploring the depths of the jungle in search of the mysterious river.\n\nAs Mama Orangutan continued her tale, Budi's eyelids grew heavy, and he soon drifted off to sleep, dreaming of a world filled with wonder and magic.\n\nAnd so, nestled in the embrace of his loving family, Budi knew that he was safe and loved. As he drifted into the world of dreams, the enchanting story of the magical river stayed with him, filling his heart with hope and imagination.\n\nThe stars twinkled above, casting a soft glow over the jungle, as Budi slept soundly, wrapped in the warmth of his mother's love.\n\nAnd in that moment, the jungle whispered its ancient lullaby, cradling Budi in its gentle embrace as he journeyed into the realm of dreams.\n\nGoodnight, dear Budi, may your dreams be filled with wonder and joy, as you rest peacefully in the heart of the magical Indonesian jungle.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "reluctant": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "slept soundly": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.31",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

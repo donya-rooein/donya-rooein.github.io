@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Здравствуйте, little one! (Hello, little one!) I have a special bedtime story just for you.\n\nOnce upon a time, in a small village nestled in the heart of Russia, there was a little bear named Владимир (Vladimir). Vladimir lived in a cozy little cave on the edge of a dense forest, surrounded by towering trees that whispered secrets to the wind.\n\nEvery night, Vladimir would listen to the whispers of the trees and dream of grand adventures. He longed to explore the world beyond his village, to discover hidden treasures, and to make new friends.\n\nOne day, Vladimir decided to set out on his big adventure. He packed a small bag, said goodbye to his family, and set off into the unknown.\n\nAs he wandered deeper into the forest, the trees grew taller and the path grew narrower. Vladimir encountered a wise old owl perched on a tree branch, who offered him some sage advice: \"Follow the river, little bear. It will lead you to hidden wonders.\"\n\nVladimir followed the river's gentle flow, which wound its way through the forest, sparkling in the sunlight. Along the way, he met a friendly rabbit who offered him some freshly picked berries and a song to sing. A family of beavers introduced him to their cozy lodge, where they shared stories of their own adventures. Even a curious squirrel shared some of its stash of nuts, and Vladimir felt grateful for the kindness of strangers.\n\nAs the sun began to set, Vladimir came upon a magnificent waterfall, cascading down a rocky cliff. The sound of the rushing water was like music to his ears, and he felt as though he had reached the heart of the forest.\n\nAs the stars began to twinkle in the sky, Vladimir curled up beneath a willow tree, feeling content and full of wonder. He knew that he would never forget his journey along the river, and the friends he had made along the way.\n\nAnd so, little one, it's time for you to find your own way, to explore and discover the wonders of the world. Just remember to always follow your heart, and you will find your own hidden treasures. Goodnight, dear one. May your dreams be as bright as the stars in the sky.\n\nСпокойной ночи, мой маленький волк (Good night, my little one).",
+  "categories": {
+    "little": "physical",
+    "adventurous": "mental",
+    "curious": "mental",
+    "grateful": "emotional",
+    "content": "emotional",
+    "full of wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.30",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

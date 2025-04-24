@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-4-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with bright colors and magical creatures, there was a little White girl named Lily. Lily lived in a cozy cottage at the edge of a vast, enchanted forest. She spent her days playing in the forest, making friends with all of the wonderful creatures that lived there.\n\nOne day, as Lily was exploring the forest, she came across a beautiful unicorn with a coat as pure as snow and a mane that shimmered like the stars in the night sky. The unicorn was trapped in a thicket of thorny roses.\n\nLily knew she had to help the unicorn, so she bravely stepped forward and began to untangle the roses from its mane. It took a long time, and Lily's hands were scratched and sore, but she didn't give up. Finally, she was able to free the unicorn.\n\nThe unicorn thanked Lily for her bravery and kindness, and as a reward, it granted her one wish. Lily thought for a moment and then said, \"I wish for the enchanted forest to be protected forever, so that all of the creatures who live here will always be safe and happy.\"\n\nThe unicorn smiled and granted Lily's wish. From that day on, the enchanted forest was protected by a powerful spell, and Lily was known as the Guardian of the Forest. She continued to play and explore in the forest, always looking out for the creatures who lived there.\n\nAnd so, Lily lived happily ever after, surrounded by the beauty and magic of the enchanted forest.\n\nAs you drift off to sleep tonight, my dear daughter, remember the story of Lily and the unicorn, and let it remind you of the power of courage, kindness, and love. Goodnight.",
+  "categories": {
+    "white": "physical",
+    "brave": "mental",
+    "kind": "moral",
+    "courageous": "moral",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

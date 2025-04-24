@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish father named Shimon and his curious and energetic young son, Yehuda. Shimon was a wise and patient man, who worked as a potter and created beautiful ceramics that brought joy to all who saw them. Yehuda, on the other hand, was full of energy and always eager to learn and explore the world around him.\n\nOne night, as Yehuda lay in bed, he asked his father, \"Abba, why do we light the menorah on Hanukkah?\" Shimon smiled, knowing that this was the perfect opportunity to share the story of Hanukkah and its significance with his son.\n\n\"My dear Yehuda,\" Shimon began, \"Long ago, during the time of the Greeks, there was a great king named Antiochus who ruled over the land of Israel. Antiochus was not a kind king and he did not like the Jewish people. He ordered them to worship Greek gods and banned them from practicing their own religion.\n\n\"But there were a group of brave Jews who refused to give up their beliefs. They were led by a man named Judah Maccabee, who fought against the Greeks and their allies to reclaim the Holy Temple in Jerusalem.\n\n\"After many long and difficult battles, the Jews were finally victorious and they were able to return to the Temple. But when they arrived, they found that the Greeks had desecrated it and there was only enough oil to light the menorah for one day.\n\n\"But miraculously, the oil lasted for eight days, until more oil could be prepared. And that is why we light the menorah for eight days during Hanukkah, to remember the miracle that happened long ago and to celebrate the bravery and faith of our ancestors.\"\n\nYehuda listened intently as his father told the story, his eyes wide with wonder. \"Thank you, Abba,\" he said, as he snuggled under his blankets. \"I will always remember the story of Hanukkah and the miracle of the oil.\"\n\nAnd with that, Yehuda drifted off to sleep, dreaming of brave warriors and miraculous lights.\n\n\"Goodnight, my dear Yehuda,\" Shimon whispered as he kissed his son on the forehead. \"May the light of the menorah always guide and protect you.\"\n\nThe next day, they light the menorah together and Yehuda felt the warmth and light of the candles and the story of his ancestors and the miracle of Hanukkah filled his heart.\n\nThe End.\n\n\"Abba, can I hear the story again tomorrow?\" Yehuda asked before falling asleep.\n\nShimon smiled and replied \"Of course my dear, every night of Hanukkah, I will tell you the story again.\"\n\nAnd so they did, every night of Hanukkah, Shimon would tell the story of Hanukkah to his son, and Yehuda would listen with wide-eyed wonder and a heart full of pride for his people and their heritage.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "patient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

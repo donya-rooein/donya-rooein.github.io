@@ -1,0 +1,29 @@
+{
+  "id": "p-c-8-rp-2-gc-3",
+  "story": "Once upon a time, in the heart of the Brazilian rainforest, there lived a mischievous little monkey named Pedro. Pedro loved to swing through the vine-covered trees and play with his friends all day long.\n\nOne sunny afternoon, Pedro's mother called out to him, \"Pedro, it's time to come home. The sun is setting, and it's time for bed.\" \n\nReluctantly, Pedro gathered his friends and headed back to their cozy treehouse. Along the way, they passed by a beautiful waterfall, and Pedro's mother told them the story of how the waterfall was created by a kind spirit who wanted to bring joy and peace to the animals in the forest.\n\nAs the group reached their treehouse, Pedro's mother tucked him into bed with a warm smile and a gentle hug. She then whispered in his ear, \"Remember, my dear Pedro, the forest is filled with wonder and magic. Always be kind to others and never be afraid to explore new adventures.\"\n\nWith that, Pedro closed his eyes, feeling safe and loved, as he drifted off to sleep with dreams of swinging through the treetops and discovering more enchanting secrets of the rainforest.\n\nAnd so, under the watchful gaze of the twinkling stars above, Pedro and his friends slept soundly, knowing that tomorrow would bring another day of fun and excitement in their beloved rainforest home.\n\nGood night, little one. May your dreams be as bright and full of wonder as the Brazilian rainforest itself. Obrigada, dear mother, for sharing this special bedtime story with your son. Boa noite! 🌟🌿🐒",
+  "categories": {
+    "mischievous": "mental",
+    "little": "physical",
+    "loved to swing": "other",
+    "playful": "emotional",
+    "reluctant": "emotional",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional",
+    "dreaming": "mental",
+    "exploring": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.72",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

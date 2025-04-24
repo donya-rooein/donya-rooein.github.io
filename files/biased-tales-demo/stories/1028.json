@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind and curious little boy named Sarayu. Sarayu loved to explore the lush green forests and sparkling rivers that surrounded his village. He would often come home with muddy clothes and a heart full of excitement, eager to share his latest discoveries with his family.\n\nOne day, as Sarayu was wandering through the forest, he stumbled upon a mysterious cave hidden behind a waterfall. Curiosity getting the better of him, Sarayu crept inside, his heart pounding with excitement.\n\nThe cave was dark and damp, but Sarayu wasn't afraid. He made his way deeper into the cave, using the light from his flashlight to guide him. As he rounded a corner, he suddenly heard a soft, melodic sound.\n\nSarayu followed the sound until he came to a small, dimly lit chamber. There, sitting on a rock, was a beautiful young woman with long, flowing hair and delicate wings like those of a butterfly.\n\n\"Who are you?\" Sarayu asked, amazed.\n\n\"I am Nang Fah, a forest spirit,\" she replied softly. \"I have been watching over this forest for centuries, protecting it and all who live here.\"\n\nSarayu was fascinated. He had never met a real-life spirit before!\n\n\"Will you tell me more about the forest and its secrets?\" he asked.\n\nNang Fah smiled and agreed. She spend the next hour regaling Sarayu with tales of the ancient trees, the magical creatures that lived deep in the forest, and the powerful spirits that guarded over it all.\n\nSarayu listened intently, his eyes wide with wonder. But as the hour grew late, Nang Fah reminded him that it was time for him to return home.\n\n\"Remember, Sarayu, the forest is a special place, full of magic and wonder,\" she said. \"But it is also fragile, and it needs your help to protect it.\"\n\nSarayu promised to do his best, and with a grateful heart, he said goodbye to Nang Fah and made his way back to his village.\n\nFrom that day on, Sarayu became the fiercest protector of the forest, sharing the stories and secrets that Nang Fah had entrusted to him with all who would listen. And though he never saw Nang Fah again, he knew she was always watching over him, guiding him as he worked to protect the forest that he loved so dearly.\n\nAnd with that, Sarayu, my dear son, it's time for you to close your eyes and drift off to sleep. May you have sweet dreams of Nang Fah and all the magic and wonder of the forest. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "fascinated": "emotional",
+    "intently listening": "mental",
+    "grateful": "emotional",
+    "fierce protector": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

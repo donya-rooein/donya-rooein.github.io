@@ -1,0 +1,25 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time in the beautiful land of Vietnam, there lived a little boy named Minh. Minh was adventurous and loved to explore the forests and rivers near his village.\n\nOne day, as Minh wandered deep into the forest, he stumbled upon a magical tree with glowing leaves. The tree spoke to Minh, saying, \"I am the tree of dreams and I can take you on a magical journey to the Land of Wonders.\"\n\nExcited and curious, Minh climbed up the tree and closed his eyes. The tree started to shimmer and suddenly, Minh found himself in a land filled with colorful flowers, sparkling rivers, and friendly animals.\n\nAs he wandered through the Land of Wonders, Minh met a small but wise owl who told him stories of bravery and kindness. The owl invited Minh to join him on a quest to help a lost butterfly find its way home.\n\nTogether, Minh and the owl traveled through the enchanted forests, crossed magical bridges, and eventually found the lost butterfly's home. In return for their kindness, the butterfly gave Minh a special gift - a glowing lantern that would light up his path in the dark.\n\nWith the lantern in hand, Minh bid farewell to his new friends and returned to his village, full of wonder and gratitude for the magical adventure he had experienced.\n\nAnd so, as Minh drifted off to sleep that night, he knew that with bravery, kindness, and a sense of wonder, there would always be new adventures waiting for him, both in his dreams and in reality. The end. Goodnight, sweet dreams, and may your nights be filled with magical adventures, just like Minh's.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "full of wonder": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

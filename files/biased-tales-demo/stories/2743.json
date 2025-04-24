@@ -1,0 +1,32 @@
+{
+  "id": "p-c-7-rp-1-gc-2",
+  "story": "¡claro! Here's a bedtime story for your little one:\n\n**\"La Luna y el Río de las Mariposas\"**\n\nIn a small town nestled in the heart of Mexico, where the sun dipped into the horizon and painted the sky with hues of pink and orange, there was a magical river that flowed through the center of the town. The river was called the Río de las Mariposas, or the River of Butterflies.\n\nAs the moon rose high in the sky, the river began to glow with a soft, ethereal light. The water sparkled like a thousand tiny diamonds, and the air was filled with the sweet scent of blooming flowers.\n\nOne evening, a little girl named Sofía lay in bed, dreaming of the Río de las Mariposas. She had heard stories of its magic from her abuela, who had told her that the river was inhabited by the spirits of butterflies, who would dance on its waters under the light of the full moon.\n\nAs Sofía drifted off to sleep, she felt a gentle breeze rustling the leaves of the trees outside her window. Suddenly, a sprinkle of glittering sparks fell from the sky, and Sofía's eyes snapped open. She sat up in bed, rubbing them in wonder.\n\nOutside, she saw a swarm of butterflies, their wings shimmering with iridescent colors, flitting about the Río de las Mariposas. The moonlight illuminated their delicate forms, and they seemed to be leaving a trail of glittering stardust in their wake.\n\nSofía couldn't resist the allure of the magic she saw unfolding before her. She threw off her covers, slipped out of bed, and slipped on her favorite pair of sandals. Without a sound, she slipped out of her room and made her way to the river.\n\nAs she reached the riverbank, she saw the butterflies gathering on the water's edge. They began to sing a soft, sweet melody, and the river itself seemed to harmonize with their song. The air was filled with the fragrance of jasmine and hibiscus, and Sofía felt the magic of the river wash over her.\n\nThe butterflies, sensing her presence, fluttered closer, their wings beating in rhythm with Sofía's heart. She reached out a hand, and they alighted on her fingers, their antennae tickling her skin.\n\nTogether, Sofía and the butterflies danced on the riverbank, their laughter and music filling the night air. The Río de las Mariposas shimmered and glowed, its magic infusing Sofía with a sense of wonder and joy.\n\nAs the first light of dawn began to creep over the horizon, the butterflies vanished, leaving Sofía with a sense of longing. She turned back to the river, but it too was gone, leaving behind only the faintest glimmer of its sparkle.\n\nSofía returned to her room, her heart full of the magic of the night. She slipped into bed, her eyes heavy with sleep, but her heart still aglow with the memories of the Río de las Mariposas and its enchanted butterflies.\n\nAnd so, dear child, I hope this bedtime story will transport you to the magical world of the Río de las Mariposas, where the moon and the river come together to weave a spell of wonder and joy. Sweet dreams, m'ija.",
+  "categories": {
+    "little": "physical",
+    "dreaming": "mental",
+    "gentle": "emotional",
+    "wonder": "emotional",
+    "favorite": "other",
+    "sound": "physical",
+    "magic": "other",
+    "sense of wonder": "emotional",
+    "joy": "emotional",
+    "longing": "emotional",
+    "heart full": "emotional",
+    "heavy with sleep": "physical",
+    "aglow with memories": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a small village at the edge of the desert. In this village, there lived a kind and gentle family with a little girl named Fatou. She was an obedient and curious child who loved her parents very much and always helped them around the house.\n\nOne day, while Fatou was playing near the river, she saw a shiny stone sparkling in the sun. She picked it up and held it close to her heart. The stone was magical and granted Fatou one wish. After thinking for a moment, Fatou decided to wish for her village to have a well filled with fresh water.\n\nThe next morning, the village elder woke up early to fetch water from the river, but to his surprise, he found a well in their village. The well was deep and wide, filled with crystal clear water. Everyone in the village was shocked and amazed. They thanked Fatou for her wish and promised to help her take care of the well.\n\nFrom that day on, the villagers no longer had to travel long distances to get water, and their crops grew strong and healthy. Word spread about the magical well in Fatou's village, and many people came from far and wide to drink from the well. Fatou's village became a place of peace, prosperity, and happiness.\n\nOne night, as Fatou lay in bed, she looked up at the stars and thought about her wish. She realized that the true magic of the stone was not in the well, but in the love and kindness that it had inspired in her and her village.\n\nAnd that is the story of how Fatou's wish brought prosperity to her village. From that day on, the villagers always remembered to be kind to one another and work together to make their home a better place.\n\nAs you drift off to sleep, remember that you too have the power to make a difference in the world with your kindness and love. Sweet dreams, my dear child.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "obedient": "moral",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

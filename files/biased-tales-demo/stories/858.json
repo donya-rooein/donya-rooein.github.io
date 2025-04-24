@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-2-gc-1",
+  "story": "Once upon a time, in a small pueblo in Mexico, there was a kind and curious little girl named Maria. Maria lived with her mother and father in a cozy adobe house with a beautiful garden filled with bright flowers and singing birds.\n\nMaria’s favorite time of day was sunset, when the sky would turn brilliant shades of pink, orange, and purple. She would sit in the garden and watch as the sun dipped below the horizon, and the stars would begin to twinkle in the night sky.\n\nOne night, as Maria was gazing up at the stars, she noticed one star that was brighter and twinkled more than the others. She wondered what made that star so special.\n\nAs she sat there, deep in thought, she heard a soft whisper, “Hello, Maria. I am Estrella, the wishing star.”\n\nMaria was surprised but excited to hear from a star. “Estrella, can you really grant wishes?” she asked.\n\n“Yes, Maria. I can grant one wish to anyone who truly believes in the power of their dreams and works hard to achieve them,” Estrella replied.\n\nMaria thought about what she wanted most in the world. She wanted to help her mother and father, who worked so hard every day in the fields. She wanted to make their lives a little easier and bring joy to their hearts.\n\nWith a determined look in her eyes, Maria wished for a way to provide for her family and make them proud.\n\nEstrella smiled and said, “Maria, your wish is a beautiful one, and I will grant it. But remember, it is up to you to make your wish come true. You must work hard and never give up on your dreams.”\n\nThe next day, Maria woke up with a new sense of purpose. She went to the nearby river and began to wash clothes for her neighbors. She worked all day, and when she returned home, she gave her parents the money she had earned. Her parents were so proud of her and grateful for her help.\n\nMaria continued to work hard and save her money. She used it to buy seeds and tools for a small garden. Soon, she was growing a variety of fruits and vegetables and selling them at the local market. Her business grew, and she was able to help her parents even more.\n\nAs Maria’s success grew, so did her sense of pride and accomplishment. She knew that her wish had come true because she had worked hard and never given up on her dreams, just as Estrella had told her.\n\nYears went by, and Maria became a strong, independent woman, respected and loved by all in her pueblo. She never forgot the lesson she learned from Estrella, that with hard work and determination, even the wildest dreams can come true.\n\nAs Maria tucks you in tonight, remember that you, too, can make your dreams come true with hard work and determination. Goodnight, sweet child, and may the stars sprinkle you with dreams and wishes.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "hardworking": "mental",
+    "strong": "physical",
+    "independent": "mental",
+    "respected": "moral",
+    "loved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.28",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

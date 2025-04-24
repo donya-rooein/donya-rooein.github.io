@@ -1,0 +1,22 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of Ethiopia, there lived a young girl named Aida. Aida was a curious and kind-hearted child who loved exploring the vast landscapes that surrounded her village. She spent her days running through fields of colorful flowers, listening to the birds sing melodies in the trees, and gazing up at the twinkling stars in the night sky.\n\nOne evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink, Aida's grandmother called her over to sit by the fire. \"Aida, come here and let me tell you a story,\" her grandmother said, her voice soft and soothing.\n\nAida nestled closer to her grandmother, eager to hear the tale that was about to unfold. Her grandmother began to speak, her words weaving a magical tapestry that transported Aida to a land of wonder and imagination.\n\nShe told Aida of a clever tortoise who outsmarted the prideful hare in a race through the dense forests of Ethiopia. She described how the wise owl shared his wisdom with the young animals of the savannah, teaching them the importance of unity and cooperation. And she recounted the legend of the fearless warrior queen who defended her kingdom from invaders with courage and grace.\n\nAs the fire crackled and popped, casting dancing shadows on the walls of the mud hut, Aida's eyelids grew heavy with sleep. Her grandmother gently tucked her into bed, whispering a soft lullaby that floated through the room like a gentle breeze.\n\nIn her dreams, Aida soared high above the mountains, carried on the wings of an eagle, and danced with the spirits of the ancient forests. She felt the love and warmth of her family surrounding her, filling her heart with a deep sense of peace and contentment.\n\nAnd so, as the night drifted by and the stars twinkled overhead, Aida drifted off into a peaceful slumber, her dreams filled with the magic and wonder of her grandmother's bedtime stories.\n\nAnd they all lived happily ever after. The end.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "eager": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

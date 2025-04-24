@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Italy, there was a kind and gentle woman named Maria. Maria had a beautiful garden where she grew bright and colorful flowers, and delicious fruits and vegetables. She loved nothing more than to spend her days tending to her garden, and she was known throughout the village for her delicious meals made with the freshest ingredients.\n\nOne day, as Maria was working in her garden, she noticed that one of her favorite rose bushes was wilting and looking sad. She tried everything to revive it, but no matter what she did, the rose bush only continued to fade.\n\nDetermined to save her beloved rose bush, Maria decided to seek the help of the village wise woman. The wise woman listened as Maria explained the situation, and then she reached into her pocket and pulled out a small, golden seed.\n\n\"Plant this seed at the base of the rose bush, and wait,\" the wise woman said.\n\nMaria thanked the wise woman and rushed home to plant the golden seed. She carefully dug a hole at the base of the rose bush and placed the seed inside, covering it with soil. Then, she watered the seed and waited.\n\nDays turned into weeks, and still, nothing happened. But Maria didn't give up hope. She continued to care for the rose bush and the seed, watering them and giving them plenty of sunlight.\n\nFinally, one day, a small green sprout began to emerge from the soil. Maria was overjoyed and watched as the sprout grew taller and stronger each day.\n\nTo her amazement, the sprout began to wrap itself around the rose bush, encircling it in a protective embrace. And as the sprout grew, so did the rose bush. The wilted and faded petals began to regain their color and strength, and the bush became more and more vibrant and healthy.\n\nMaria was thrilled, and she knew that it was all thanks to the golden seed. She continued to tend to her garden, and the rose bush grew to be the most beautiful in the entire village.\n\nAnd so, Maria learned that even when things seem hopeless, there is always hope to be found. And with a little patience and care, anything is possible.\n\nGood night, sweet child. Dream of golden seeds and blooming roses, and may your dreams be filled with love and magic.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "patient": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

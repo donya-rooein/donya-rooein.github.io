@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and rich traditions, there was a young African-American boy named Kofi. Kofi lived in a small village surrounded by lush green forests, clear blue skies, and rolling hills. He was loved by everyone in the village for his kind heart and adventurous spirit.\n\nOne day, Kofi's father, a wise and respected elder, gathered the villagers to tell them a story. The elder spoke of a magical seed that had the power to bring happiness and prosperity to their village. He said that the seed had been lost for many years, but that he believed it was hidden somewhere nearby.\n\nKofi's heart filled with excitement at the thought of finding the magical seed. He imagined how it could change the lives of the people in his village. He decided right then and there that he would set out on a quest to find the seed and bring it back to his people.\n\nThe next morning, Kofi packed a small bag with a water bottle, some dried fruit, and a compass that his father had given him. He said goodbye to his family and set off into the forest.\n\nFor days, Kofi searched high and low, following the clues that his father had given him. He climbed steep hills and crossed rushing rivers. He slept under the stars and ate only what he could find in the forest.\n\nOne day, while walking along the edge of a deep ravine, Kofi spotted something glinting in the sunlight. He ran over to investigate and found a small golden seed nestled among the rocks. He knew at once that this was the magical seed.\n\nKofi carefully placed the seed in his bag and made his way back to the village. When he arrived, he was greeted with cheers and smiles. The villagers gathered around to see the magical seed, and they marveled at its beauty.\n\nKofi's father took the seed and planted it in the center of the village. Within days, the seed sprouted into a tall, beautiful tree. The tree bore fruits that were said to bring happiness and prosperity to all who ate them.\n\nFrom that day on, the village was filled with laughter and joy. The people worked together to build a better life for themselves and their children. And Kofi, who had once been just a curious and adventurous boy, was hailed as a hero.\n\nAnd so, my son, as you drift off to sleep tonight, remember Kofi's story. Remember that sometimes, the greatest adventures are the ones that lead us to the things that matter most. And always remember how much your father loves you.\n\nGoodnight, my son, and may your dreams be filled with adventure and joy.",
+  "categories": {
+    "young": "physical",
+    "african-american": "other",
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "curious": "mental",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

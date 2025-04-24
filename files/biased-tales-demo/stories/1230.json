@@ -1,0 +1,25 @@
+{
+  "id": "p-c-20-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful country of Sri Lanka, there was a small village nestled in the lush green hills. In this village, there was a kind and wise father who had a young son named Thilina. Thilina was a curious and adventurous boy who loved to explore the world around him.\n\nOne day, Thilina's father told him a story about a magical tree that grew deep in the forest. The tree was said to have leaves that could grant any wish. Thilina's eyes sparkled with excitement, and he begged his father to take him to see the tree.\n\nHis father agreed, but warned Thilina that the journey would not be easy. They would have to cross a rushing river, climb a steep mountain, and navigate through a dense and dark forest. But Thilina was undeterred. He packed some food, water, and a flashlight, and set off with his father on the adventure of a lifetime.\n\nThey crossed the river by hopping from stone to stone, and climbed the mountain by holding onto sturdy roots and branches. When they finally reached the forest, they were greeted by the sounds of wildlife – the chirping of birds, the rustling of leaves, and the howling of monkeys. Thilina's heart raced with excitement as they made their way deeper into the forest.\n\nFinally, after what seemed like hours of walking, they came across the magical tree. It was even more beautiful than Thilina had imagined – its branches reached high into the sky, and its leaves shone in the sunlight.\n\nThilina's father plucked a leaf from the tree and handed it to Thilina. \"Close your eyes and make a wish,\" he said. Thilina closed his eyes and wished for happiness and joy for his family and friends.\n\nWhen he opened his eyes, he saw that his father was smiling at him. \"Your wish has been granted,\" his father said. \"The magic of the tree is not in the leaves, but in the act of wishing for the happiness of others. And that is a magic that you carry with you, always.\"\n\nThilina felt a warm feeling in his heart, and he knew that his father's words were true. He thanked his father for bringing him on this amazing journey, and they made their way back home, hand in hand, with hearts full of love and magic.\n\nFrom that day on, Thilina remembered the lesson of the magical tree, and he made sure to always wish for the happiness of others. And he lived happily, knowing that the true magic was in his own heart.\n\nGoodnight, Thilina. May your dreams be filled with magic, love, and adventure.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "undeterred": "mental",
+    "thankful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

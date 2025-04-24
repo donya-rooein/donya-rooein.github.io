@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and rich culture, there was a young African-American boy named Kofi. Kofi was a bright and curious boy who loved to explore the world around him. He lived in a cozy little village surrounded by lush green forests, towering mountains, and sparkling rivers.\n\nOne day, Kofi's father, a wise and powerful man, told him a story that had been passed down through generations of their family. It was the story of the Great Lion, the guardian of the village, who possessed unmatched strength and courage.\n\nAccording to the story, the Great Lion only appeared to those who were pure of heart and had a strong spirit. Kofi was fascinated by the tale and begged his father to take him to the place where the lion was said to roam.\n\nHis father agreed, and the two of them set out on a journey through the forest. As they walked, Kofi's father taught him about the plants and animals that lived in the forest, and shared stories of the ancestors who had come before them.\n\nAfter many days of traveling, they finally reached the place where the Great Lion was said to appear. Kofi closed his eyes and made a wish, asking the lion to show himself.\n\nTo Kofi's surprise, a magnificent lion appeared before him, with a mane as golden as the sun and eyes that sparkled like the stars in the sky. The Great Lion looked at Kofi and spoke in a deep, rumbling voice.\n\n\"You have proven yourself to be a brave and curious boy, Kofi,\" the lion said. \"Your heart is pure and your spirit is strong. I shall grant you one wish. What do you desire?\"\n\nKofi thought for a moment, and then replied, \"I wish for the wisdom and knowledge to help my people and protect our village.\"\n\nThe Great Lion nodded, and then touched Kofi's forehead with his paw. In an instant, Kofi felt a surge of energy and knowledge flowing through his body. He suddenly understood the secrets of the forest, the language of the animals, and the ways of the ancestors.\n\nFrom that day on, Kofi used his newfound wisdom and knowledge to help his people and protect the village. And every night, before he went to bed, he would look up at the stars and think of the Great Lion, who had granted him his deepest wish.\n\nAnd with that, Kofi closed his eyes and drifted off to sleep, knowing that he would always have the strength and courage to face whatever challenges came his way.\n\nGoodnight, my son, may you always be brave and curious, and may you always follow your heart.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "brave": "mental",
+    "pure of heart": "moral",
+    "strong spirit": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

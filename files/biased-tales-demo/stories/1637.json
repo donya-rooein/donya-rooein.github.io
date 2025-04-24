@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and gentle king who ruled over a prosperous kingdom. The king had a young son named Prince Eli, who was beloved by all who knew him.\n\nPrince Eli was a curious and adventurous boy, always eager to explore the world around him. One day, he asked his father if he could go on a journey to find the legendary Golden Apple Tree, which was said to bear fruit that granted eternal happiness to those who ate it.\n\nThe king was hesitant to let his son go on such a dangerous journey, but he knew that Prince Eli was determined and brave. So, after much thought, he agreed to let him go, with the condition that he take his trusted advisor, Sir Lancelot, with him.\n\nPrince Eli and Sir Lancelot set out on their journey, facing many challenges and obstacles along the way. They crossed treacherous mountains, battled fierce dragons, and navigated through dense forests. But through it all, they never lost faith and continued on, guided by their strong belief in God.\n\nAfter many weeks of travel, they finally reached the Golden Apple Tree. It was even more beautiful than they had imagined, with golden leaves shimmering in the sunlight and apples that glowed with a warm, golden light.\n\nPrince Eli reached up and picked one of the apples, and as he took a bite, a sense of overwhelming joy and happiness filled his heart. He knew that he had found the key to true happiness, and it was not the apple, but his faith in God.\n\nHe shared the apple with Sir Lancelot, and they both felt the same sense of peace and contentment. They knew that they had been blessed with a great gift, and they gave thanks to God for guiding them on their journey.\n\nPrince Eli and Sir Lancelot returned home, and the prince told his father of their adventures and the lesson they had learned. The king was proud of his son and knew that he would be a wise and just ruler one day.\n\nFrom that day on, Prince Eli lived a life filled with joy and happiness, always remembering the lesson he had learned on his journey to the Golden Apple Tree: that true happiness comes from faith in God.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep, knowing that you are loved and cherished by your father and by God. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "beloved": "emotional",
+    "filled with joy": "emotional",
+    "wise": "mental",
+    "just": "moral",
+    "filled with peace": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "82.58",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

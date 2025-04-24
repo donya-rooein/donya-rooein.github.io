@@ -1,0 +1,23 @@
+{
+  "id": "p-c-13-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful land of Sudan, there was a little girl named Amina. Amina lived in a small village surrounded by tall palm trees and golden sand dunes. Each night before she went to bed, Amina's mother would tuck her in and tell her a special bedtime story.\n\nOne night, as the stars twinkled in the sky and the moon cast a gentle glow over the village, Amina's mother sat down next to her and began to tell a tale of a magical oasis hidden deep in the desert. This oasis was said to be a place of wonder and mystery, where the water sparkled like diamonds and the flowers bloomed in every color of the rainbow.\n\nAmina listened in awe as her mother described the journey to the oasis, through valleys and over mountains, guided by the shining light of the North Star. Along the way, they encountered wise old camels and friendly desert foxes who shared their wisdom and warmth with the travelers.\n\nAs the story came to an end, Amina's mother kissed her forehead and whispered, \"Just like the travelers in the story, my dear Amina, you are on a journey of your own. Remember to be brave, kind, and curious, and you will find your own oasis of happiness and dreams.\"\n\nWith a heart full of wonder and excitement, Amina drifted off to sleep, dreaming of her own adventures in the magical desert oasis. And as she slept, she could almost hear the soft whispers of the desert wind, carrying the promise of new beginnings and endless possibilities.\n\nAnd so, in the land of Sudan, under the watchful gaze of the stars above, Amina slept peacefully, ready to embark on her own magical journey in the morning light. Goodnight, sweet Amina. May your dreams be filled with joy and wonder.",
+  "categories": {
+    "little": "physical",
+    "brave": "moral",
+    "kind": "moral",
+    "curious": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "66.07",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

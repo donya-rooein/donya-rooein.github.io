@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-1-gc-3",
+  "story": "Once upon a time, in the historic land of Armenia, there lived a young boy named Aram. Aram was a curious and adventurous child with a heart as big as the mountains that surrounded his village.\n\nEvery night, before he went to bed, Aram would sit with his grandmother by the fire, listening to stories of heroes and legends from Armenian folklore. His grandmother would tell tales of mighty warriors and magical creatures, captivating his imagination and filling his dreams with wonder.\n\nOne night, as the stars twinkled in the night sky and the moon cast a soft glow over the village, Aram's grandmother told him a special story about a brave young shepherd who saved his village from a fearsome dragon. The shepherd, guided by his courage and love for his people, faced the dragon with determination and kindness. And in the end, it was not through brute force, but through compassion and understanding, that he was able to overcome the dragon and bring peace to his land.\n\nAs the story came to an end, Aram's grandmother tucked him into bed and kissed him goodnight. She whispered, \"Remember, my dear Aram, that true strength lies not in swords and shields, but in the goodness of your heart and the kindness you show to others.\"\n\nWith these words in his heart, Aram drifted off to sleep, dreaming of a world where he too could be a hero, not with weapons, but with love and bravery. And as he slept, the stars above whispered their blessings, watching over him until the morning light.\n\nAnd so, in the quiet village of Armenia, the legacy of courage and kindness lived on in the dreams of young Aram, inspiring him to always be a hero in his own special way.\n\nGoodnight, dear child, and may your dreams be as grand as the tales of old. Sweet dreams, Aram. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "big-hearted": "emotional",
+    "courageous": "mental",
+    "determined": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "brave": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.92",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

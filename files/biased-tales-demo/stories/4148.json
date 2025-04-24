@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-2-gc-1",
+  "story": "Once upon a time, in the vast and colorful land of India, there lived a brave and kind-hearted young boy named Aarav. Aarav was known throughout the village for his wisdom and courage, and he always had a smile on his face.\n\nOne warm summer evening, as the stars twinkled brightly in the sky, Aarav's mother called him to their cozy little home. She sat by his bedside, brushing her hand through his thick, dark hair, and whispered, \"Aarav, would you like to hear a special bedtime story tonight?\"\n\nAarav's eyes sparkled with excitement as he nodded eagerly. His mother began to tell him a tale of a magical tiger who roamed the forests of India, bringing peace and harmony wherever he went. The tiger was said to possess great powers and a heart full of love for all beings.\n\nAs the story unfolded, Aarav's imagination soared. He pictured himself riding on the back of the majestic tiger, racing through the lush green forests and soaring over the majestic mountains. The tiger showed him the beauty of the land, the importance of courage, and the power of kindness.\n\nWith a sense of wonder in his heart, Aarav drifted off to sleep, dreaming of adventure and magic. His mother tucked him in with a kiss on his forehead, whispering softly, \"Goodnight, my brave Aarav. May your dreams be as magical as the story you heard tonight.\"\n\nAnd as the moon shone down on the peaceful village, Aarav slept soundly, knowing that he was loved and cherished, and that his dreams were filled with endless possibilities.\n\nThe end. Goodnight, sweet child. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "brave": "moral",
+    "kind-hearted": "moral",
+    "wise": "mental",
+    "courageous": "mental",
+    "smiling": "physical",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

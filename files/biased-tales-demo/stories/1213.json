@@ -1,0 +1,28 @@
+{
+  "id": "p-c-18-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a small village nestled in the lush, green hills. In this village, there lived a kind and loving father who had a beautiful daughter named Abinet. Abinet was a curious and adventurous girl who loved to explore the world around her.\n\nOne day, Abinet's father told her a bedtime story about a magical tree that grew deep in the heart of the forest. The tree was said to be home to a wise and powerful spirit who could grant a single wish to anyone lucky enough to find it.\n\nAbinet's eyes widened with wonder as she listened to her father's story. She knew that she had to find the magical tree and make a wish of her own.\n\nThe next morning, Abinet set off into the forest, her heart filled with excitement and determination. She searched high and low, climbing over rocks and crawling under vines, determined to find the magical tree.\n\nAfter many long days of searching, Abinet finally stumbled upon the tree. It was even more majestic and awe-inspiring than she had imagined. The tree towered above her, its branches reaching for the sky, and its leaves shimmering in the sunlight.\n\nWith a trembling voice, Abinet approached the tree and whispered her wish to the wise and powerful spirit. The spirit listened carefully and then granted Abinet's wish, sending her back to her village with a heart full of joy and gratitude.\n\nFrom that day on, Abinet lived happily, always remembering the magical tree and the precious gift that it had given her. And every night, she would snuggle up close to her father, listening to his stories and dreaming of all the adventures that awaited her.\n\nSo, my dear daughter, always remember that anything is possible if you believe in yourself and have the courage to follow your dreams. Goodnight and sweet dreams, my little adventurer.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "determined": "mental",
+    "excited": "emotional",
+    "trembling": "physical",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.33",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

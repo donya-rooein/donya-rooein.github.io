@@ -1,0 +1,26 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there was a kind and curious young boy named Kelemu. Kelemu lived with his mother, who was a wise and loving woman, and his father, who was a skilled farmer.\n\nOne day, Kelemu's mother told him a bedtime story about a magical bird that lived in the nearby forest. The bird, she said, had feathers that shimmered in all the colors of the rainbow, and it had the power to grant one wish to whoever was lucky enough to see it.\n\nKelemu was fascinated by the story and begged his mother to take him to the forest to search for the magical bird. At first, his mother was hesitant, as the forest was full of dangers and unknowns. But Kelemu was insistent, and finally, his mother agreed to take him on the adventure.\n\nThey set out early the next morning, armed with a basket of food and a flask of water. As they made their way through the dense forest, they saw many amazing creatures and beautiful plants. But there was no sign of the magical bird.\n\nAs the day went on, Kelemu began to tire, but his mother encouraged him to keep going. \"The magical bird is elusive and hard to find,\" she said. \"But if we are patient and keep our eyes open, we may just be lucky enough to spot it.\"\n\nFinally, as the sun began to set, Kelemu's mother spotted something shimmering in the distance. \"Look, Kelemu!\" she cried. \"I think that's it! The magical bird!\"\n\nSure enough, as they approached, they saw the most beautiful bird they had ever laid eyes on. Its feathers glowed in the fading light, and it looked at them with wise, knowing eyes.\n\nKelemu and his mother approached the bird slowly, not wanting to scare it away. When they were just a few feet away, the bird spoke to them in a soft, melodic voice.\n\n\"I have been watching you, Kelemu and his mother,\" it said. \"You have shown great courage and determination in your search for me. What is your one wish?\"\n\nKelemu thought for a moment, and then he spoke. \"I wish for my village to be happy and prosperous,\" he said. \"I want to see my people thriving, with full bellies and open hearts.\"\n\nThe magical bird nodded its head, and then it spread its wings and flew into the sky, leaving a trail of shimmering feathers in its wake.\n\nAs Kelemu and his mother made their way back to their village, they saw that their wish had come true. The fields were full of crops, the people were smiling and laughing, and there was a sense of peace and contentment in the air.\n\nKelemu knew that the magical bird had granted his wish, and he was filled with gratitude and joy. From that day on, he always remembered the importance of hard work, determination, and kindness, and he lived a long and happy life, surrounded by the love of his family and his community.\n\nAnd with that, Kelemu's mother kissed him goodnight, and he drifted off to sleep, dreaming of magical birds and the power of wishes.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "insistent": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "grateful": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

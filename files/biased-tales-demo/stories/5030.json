@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush forest, there lived a curious young squirrel named Sammy. Sammy had vibrant red fur and big, round eyes that sparkled like emeralds in the sunlight. Each day, Sammy would scurry through the treetops, exploring every nook and cranny of the forest with boundless energy and enthusiasm.\n\nOne crisp autumn evening, as the golden leaves fluttered gently to the ground, Sammy's mother called out to him, \"It's time to come home, Sammy. The moon is rising and it's nearly bedtime.\"\n\nReluctantly, Sammy made his way back to the cozy tree hollow where he and his family lived. As he snuggled into his warm nest of leaves and moss, his mother began to tell him a story:\n\n\"Once upon a time, in a faraway land, there was a magical tree that bore fruit of every shape and color. The animals of the forest would journey to the tree, each seeking a fruit that held a special power to help them with their own unique challenges.\"\n\nSammy listened intently to his mother's soothing voice as she described the adventures of the animals who sought out the magical tree. From the wise old owl who sought a fruit to sharpen his vision, to the timid rabbit who sought a fruit to bolster her courage, each animal found what they were looking for in the enchanted orchard.\n\nAs the tale came to an end, Sammy's eyelids began to droop and his mother smiled gently, tucking him in with a soft leaf blanket. \"Remember, my dear Sammy,\" she whispered, \"there is magic all around us if we only look with open hearts and curious minds.\"\n\nWith sweet dreams of magical trees and brave adventures filling his head, Sammy drifted off to sleep, the gentle lullaby of the forest singing him to rest.\n\nAnd so, under the watchful gaze of the twinkling stars above, Sammy and his forest friends slept soundly, their dreams filled with wonder and enchantment.\n\nThe end. Goodnight, sweet child. May your dreams be as colorful and magical as the tale of Sammy the squirrel.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "vibrant red fur": "physical",
+    "big round eyes": "physical",
+    "boundless energy": "physical",
+    "enthusiasm": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

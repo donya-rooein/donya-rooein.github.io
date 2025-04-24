@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time in a small village in Italy, there lived a young boy named Marco. Marco was a curious and adventurous boy who loved to explore the forests and hills surrounding his home.\n\nOne day, as the sun was setting and the sky turned a beautiful shade of pink and orange, Marco's father called him to the window. \"Marco,\" he said with a warm smile, \"come sit with me. I have a special story to tell you before you go to sleep.\"\n\nMarco eagerly sat down beside his father, his eyes sparkling with anticipation. His father began, \"Once upon a time, there was a magical forest where the trees danced in the gentle breeze and the animals sang songs of joy.\"\n\n\"In this forest, there was a wise old owl who was known for his wisdom and kindness. The animals of the forest would often seek his advice and guidance when they faced challenges.\"\n\n\"One day, the sun suddenly disappeared from the sky, and the forest was plunged into darkness. The animals were scared and unsure of what to do. They turned to the wise old owl for help.\"\n\n\"The owl listened carefully to their fears and worries, and with a twinkle in his eye, he told them, 'Do not be afraid, my friends. The sun will return. Trust in the magic of the forest and have faith that all will be well.'\"\n\n\"And so, the animals waited patiently as the owl had advised. Days passed, and just when they were starting to lose hope, a faint glow appeared on the horizon. The sun was coming back.\"\n\n\"Slowly but surely, the sun rose in the sky, filling the forest with its warm and comforting light. The animals rejoiced, knowing that the wise old owl's words had come true.\"\n\nAs Marco's father finished the story, he looked down at his son, who was now snuggled up in his bed, his eyes heavy with sleep. \"Remember, Marco,\" he whispered, \"no matter how dark things may seem, there is always hope and light to guide us through.\"\n\nAnd with a kiss on his forehead, Marco drifted off to sleep, dreaming of the magical forest and the wise old owl.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "sparkling eyes": "physical",
+    "snuggled up": "physical",
+    "heavy with sleep": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

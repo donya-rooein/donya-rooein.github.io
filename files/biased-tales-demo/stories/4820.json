@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-1-gc-1",
+  "story": "Once upon a time, in the bustling city of Cairo, there lived a young girl named Layla. Layla was a curious and adventurous child who loved exploring the ancient streets and markets of her beloved city.\n\nOne evening, as the sun dipped below the horizon and the golden glow of twilight filled the sky, Layla's mother tucked her into bed and began to tell her a bedtime story.\n\n\"Once upon a time,\" her mother began, \"there was a magical lantern that could grant wishes to anyone who found it.\"\n\nLayla's eyes grew wide with wonder as she listened intently to her mother's tale.\n\n\"This lantern was said to be hidden deep within the heart of the great pyramid of Giza,\" her mother continued. \"Many brave souls had ventured inside the pyramid in search of the lantern, but none had ever returned.\"\n\nLayla imagined herself embarking on a grand adventure to find the magical lantern, her heart filled with excitement and determination.\n\nAs Layla drifted off to sleep, she dreamed of exploring the dusty corridors of the pyramid, overcoming challenges, and finally discovering the shimmering lantern that held the power to make her deepest wishes come true.\n\nAnd so, in her dreams, Layla embarked on a thrilling quest, guided by the light of the magical lantern towards a future filled with wonder and possibility.\n\nAs the night deepened, Layla's dreams were filled with the enchanting sights and sounds of ancient Egypt, and she slept peacefully, knowing that adventure and magic awaited her in the world beyond.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "dreaming": "mental",
+    "peaceful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "10.00",
+  "complexity_fkes": "64.85",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful land filled with towering mountains and lush green forests, there lived a curious little squirrel named Linh. Linh had a fluffy tail and bright, twinkling eyes that shone in the moonlight.\n\nEvery night, as the stars appeared in the sky, Linh would scamper through the trees, searching for the perfect bedtime story. She would ask the wise old owl perched high in the branches for a tale that would bring her comfort and wonder.\n\nOne evening, the owl told Linh a special story about a magical garden hidden deep within the heart of the forest. In this garden, colorful flowers bloomed all year round, and gentle streams whispered a lullaby as they flowed.\n\nLinh was entranced by the story and begged the owl to take her to this enchanting garden. The wise old owl agreed, spreading its wings and flying gracefully through the trees, with Linh clinging tightly to its feathers.\n\nAs they arrived at the magical garden, Linh's eyes widened in awe. Rainbow-colored butterflies flitted from flower to flower, and friendly woodland animals danced merrily in the moonlight. The air was filled with the sweet scent of blossoms and the sound of rustling leaves.\n\nThe owl settled Linh on a soft bed of moss under a twinkling canopy of stars. And as the gentle breeze rocked her to sleep, the magical garden sang a beautiful lullaby, weaving dreams of adventure and joy in her young mind.\n\nAnd so, with the comforting lullaby of the magical garden, Linh drifted off to sleep, her heart filled with happiness and her dreams filled with wonder.\n\nAnd from that night on, Linh knew that every bedtime story was a special journey to a magical world, where anything was possible and dreams could come true. The end. Goodnight, little one, and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "little": "physical",
+    "fluffy tail": "physical",
+    "bright": "mental",
+    "twinkling eyes": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

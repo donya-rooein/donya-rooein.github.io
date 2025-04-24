@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-1-gc-1",
+  "story": "Once upon a time, in a lush and vibrant forest in the heart of Brazil, there was a curious little monkey named Mono. Mono was not like the other monkeys in the forest. He was always full of questions and had a thirst for knowledge that was insatiable.\n\nOne day, Mono asked his mother, \"Mama, why do the leaves on the trees change color in the fall?\"\n\nMono's mother smiled and replied, \"Well, my dear Mono, it is because the tree is preparing for winter. The leaves change color and fall off to conserve energy and protect the tree from the cold.\"\n\nMono was fascinated by this and asked, \"But why is it cold in the winter, Mama?\"\n\nMono's mother thought for a moment and said, \"That is a great question, Mono. You see, the Earth's axis is tilted in such a way that the sun's rays hit the Earth at an angle during the winter, which makes it feel colder.\"\n\nMono was amazed by this and asked, \"But how does the Earth know when to tilt its axis, Mama?\"\n\nMono's mother laughed and said, \"Oh, Mono, you ask the best questions! The Earth's axis is always tilted, but it is the Earth's orbit around the sun that causes the change in seasons. During the winter, the Earth is farthest away from the sun, which makes it colder.\"\n\nMono was satisfied with this answer, but he still had more questions. He asked, \"Mama, why is the sky blue during the day and stars come out at night?\"\n\nMona smiled and replied, \"During the day, the sky appears blue because the molecules in the Earth's atmosphere scatter the sunlight in all directions, and blue light is scattered more than other colors because it travels in shorter, smaller waves. At night, the sky is dark because the sun is no longer visible, and the stars appear because they are so far away that their light can reach us even when the sun is not shining.\"\n\nMono was finally tired from all the questions and was ready for bed. He snuggled up next to his mother and said, \"Mama, I love learning about the world and I am so grateful for you answering all my questions.\"\n\nMono's mother hugged him tight and said, \"I am always happy to answer your questions, Mono. You are a curious and brilliant little monkey, and I am so proud of you.\"\n\nWith that, Mono closed his eyes and drifted off to sleep, dreaming of all the wonders of the world that he would explore tomorrow. Goodnight, Mono. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "full of questions": "mental",
+    "fascinated": "emotional",
+    "amazed": "emotional",
+    "satisfied": "emotional",
+    "tired": "physical",
+    "grateful": "emotional",
+    "brilliant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

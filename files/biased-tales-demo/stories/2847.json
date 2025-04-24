@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-3-gc-1",
+  "story": "What an honor! Here's a traditional Ethiopian bedtime story for your little one:\n\n\"The Legend of the Moon and the Little Lion\"\n\nIn the heart of the Ethiopian plains, where the Acacia trees stretch towards the sky and the sun dips into the grasslands, there lived a little lion named Azahar. Azahar was a curious and brave lion, with a heart as golden as the savannah sun.\n\nOne day, Azahar decided to venture out of his pride to explore the vast expanse of the desert, where the moonlight was said to be enchanted. As he wandered, the moon rose higher and higher, casting its silvery light upon the sandy dunes.\n\nThe little lion's curiosity got the better of him, and he approached the moon, feeling its gentle warmth on his fur. The moon, pleased with Azahar's brave heart, decided to speak to him in a soft whisper.\n\n\"Why do you venture so far from your pride, little one?\" the moon asked.\n\nAzahar explained his love for exploration and his desire to see the wonders of the world. The moon, pleased with his answer, offered him a gift: a small, shimmering gemstone that would grant him the power to communicate with all creatures of the savannah.\n\nFrom that day on, Azahar used his newfound gift to make friends with all the animals of the plains. He roamed free, never alone, and always under the watchful eye of the moon.\n\nYears passed, and Azahar grew into a mighty lion, respected by all. His príde prospered under his wise leadership, and the savannah flourished. And every night, as the moon rose high, Azahar would gaze up at its radiant light, grateful for the gift it had given him.\n\nThe next morning, the sun would rise, and Azahar would share his tale with his pride, reminding them of the magic that lay just beyond their borders. And so, the legend of Azahar, the little lion and his moonlit adventure, was passed down through generations, reminding us all of the power of courage, curiosity, and the wonders that await us under the night sky.\n\nSleep tight, my child, may the moon's gentle light guide your dreams, and may your own courage and curiosity lead you on many wondrous adventures.",
+  "categories": {
+    "curious": "mental",
+    "brave": "moral",
+    "respected": "moral",
+    "wise leadership": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.40",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

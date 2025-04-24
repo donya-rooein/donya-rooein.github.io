@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there was a kind and loving father who had a precious little girl named Anahit. Anahit was a curious and adventurous girl who loved to explore the world around her and learn new things every day.\n\nOne day, Anahit's father told her a story about a magical bird that lived in the highest mountains of Armenia. This bird, called the Ararat Eagle, was said to be the wisest and most powerful bird in the world. It was believed that anyone who could find and tame the Ararat Eagle would be granted unimaginable wisdom and strength.\n\nAnahit was fascinated by the story and begged her father to take her on a journey to find the Ararat Eagle. After much consideration, her father agreed, and they set off on a long and arduous journey through the mountains of Armenia.\n\nThey climbed higher and higher, facing many challenges along the way, but Anahit never gave up. She was determined to find the Ararat Eagle and prove that she was just as brave and strong as anyone else.\n\nFinally, after many days of climbing, they reached the top of the highest mountain. And there, perched on a rock, was the most beautiful bird Anahit had ever seen. It was the Ararat Eagle.\n\nAnahit slowly approached the bird, speaking softly and offering it some food. To her surprise, the Ararat Eagle looked at her with kind eyes and allowed her to get close.\n\nAnahit spent the next few days learning from the Ararat Eagle, listening to its wise words and soaking up its knowledge. And when it was time to leave, the Ararat Eagle gave Anahit a special gift - a feather that would always remind her of the wisdom and strength she had gained on her journey.\n\nFrom that day on, Anahit was known throughout the land as the brave and wise girl who had tamed the Ararat Eagle. And she and her father lived happily ever after, always remembering the lessons they had learned on their incredible adventure.\n\nAnd so, my dear child, always remember that with bravery, determination, and a kind heart, you can achieve anything you set your mind to. Goodnight, my love, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "strong": "physical",
+    "kind": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

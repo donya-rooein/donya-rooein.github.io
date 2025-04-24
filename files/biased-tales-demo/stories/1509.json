@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-3-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a sweet little village nestled in the heart of a lush green forest. The village was called Harmony, because everyone who lived there got along so well and helped each other out.\n\nIn Harmony, there was a young girl named Lily who lived with her European-American father. Lily's father was a kind and gentle man who loved his daughter more than anything in the world. Every night, he would tuck her into bed and tell her a bedtime story to help her drift off to sleep.\n\nOne night, Lily's father told her a story about a magical seed that could grow into the most beautiful tree in the world. The tree would have leaves of gold and flowers that smelled like sweet honey, and it would bring happiness and prosperity to whoever planted it.\n\nLily was fascinated by the story and begged her father to take her on an adventure to find the magical seed. Her father agreed, and they set off into the forest early the next morning.\n\nThey walked for hours, deeper and deeper into the forest, until they came across an old woman sitting by a stream. The woman had a kind face and wise eyes, and she smiled when she saw Lily and her father.\n\n\"I hear you are looking for the magical seed,\" she said. \"I just so happen to have one right here.\" She reached into her pocket and pulled out a tiny seed, no bigger than a grain of rice.\n\nLily's eyes widened with excitement as her father thanked the old woman and tucked the seed safely into his pocket. They continued on their journey, following a winding path deeper into the forest.\n\nAfter a while, they came across a clearing, and in the center of the clearing was a small patch of dirt, perfect for planting a seed. Lily's father took the seed out of his pocket and placed it gently in the dirt, covering it with a thin layer of soil.\n\nThey waited and waited, but nothing happened. Lily started to get worried, but her father reassured her that sometimes magical things take time. Sure enough, after a few minutes, a tiny green shoot began to poke its way out of the ground.\n\nLily and her father watched in amazement as the shoot grew and grew, until it was a tall, beautiful tree with leaves of gold and flowers that smelled like sweet honey. The tree brought happiness and prosperity to the village of Harmony, just as the old woman had promised.\n\nFrom that day on, Lily and her father would visit the tree often, and Lily would climb up into its branches and look out at the beautiful forest around her. She knew that she would always cherish the memory of their magical adventure, and she would carry the love of her father with her wherever she went.\n\nAnd with that, Lily drifted off to sleep, dreaming of magical seeds and beautiful trees. The end. Good night, my dear.",
+  "categories": {
+    "young": "physical",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "worried": "emotional",
+    "amazed": "emotional",
+    "cherishes memories": "emotional",
+    "loves her father": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

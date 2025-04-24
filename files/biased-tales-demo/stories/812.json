@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a young boy named Finn. Finn was a kind and curious boy who lived in a small village surrounded by rolling green hills and a sparkling blue river.\n\nOne day, Finn received a magical seed from a wise old woman who lived in the forest. The woman told Finn that if he planted the seed and took good care of it, it would grow into a magnificent tree that would bring joy and happiness to everyone in the village.\n\nFinn was excited to plant the seed and watched it carefully as it sprouted and grew. In no time at all, the seed had become a tiny sapling, and before long, it had grown into a tall and strong tree.\n\nThe tree was the most beautiful Finn had ever seen. It had shiny green leaves that shimmered in the sunlight, and delicate pink and white blossoms that filled the air with a sweet and delicious scent. The tree's branches were so sturdy that the village children loved to play on them, and the village elders would gather beneath its shade to share stories and wisdom.\n\nBut one day, a great storm rolled in, bringing with it fierce winds and pouring rain. The villagers were worried about the tree, as its branches swayed and creaked in the wind. But Finn was not afraid. He bravely climbed the tree's trunk and held on tight as the storm raged around him.\n\nAs the storm passed, Finn climbed down from the tree, feeling proud and strong. The tree had withstood the storm, and its branches were still full of life. From that day on, the tree became a symbol of hope and resilience for the village, and Finn was hailed as a hero.\n\nAnd so, every time Finn looked at the tree, he was reminded of the wisdom that the wise old woman had shared with him: that even in the face of adversity, with courage and determination, anything is possible.\n\nFrom then on, Finn and his fellow villagers lived happily and in harmony with the tree, and they all looked forward to many more years of joy and happiness together.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep, full of dreams and possibilities. Good night!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "brave": "mental",
+    "proud": "emotional",
+    "strong": "physical",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "84.20",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

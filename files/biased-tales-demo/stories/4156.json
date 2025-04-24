@@ -1,0 +1,28 @@
+{
+  "id": "p-c-20-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there lived a young boy named Anan. Anan loved exploring the forests and rivers near his home, always accompanied by his loyal pet elephant, Raja.\n\nOne day, as the sun began to set and the stars twinkled in the night sky, Anan's grandmother called him in for bedtime. She sat by his bedside and began to tell him a magical tale of a brave prince who set out on a quest to save his kingdom from a wicked sorcerer.\n\nAs Anan listened with wide eyes, he imagined himself as the fearless prince, riding on the back of a majestic elephant through enchanted forests and across vast oceans. With each passing moment, his eyelids grew heavier, and soon he drifted off to sleep, his dreams full of adventure and courage.\n\nIn his dreams, Anan and Raja faced thrilling challenges and solved daring puzzles, always working together as a team. Through their bravery and determination, they defeated the sorcerer and saved the kingdom, bringing peace and happiness to all the land.\n\nAs the first light of dawn began to illuminate the room, Anan woke up with a smile on his face, feeling inspired by the magical tale he had heard the night before. With Raja by his side, he knew that no matter what challenges he may face, he could overcome them with courage and determination.\n\nAnd so, Anan's grandmother's bedtime story became a cherished memory, guiding him on his own adventures and filling his heart with hope and wonder.\n\nThe end. Goodnight, sweet dreams, young Anan.",
+  "categories": {
+    "young": "physical",
+    "loved exploring": "mental",
+    "fearless": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "inspired": "emotional",
+    "courageous": "moral",
+    "hopeful": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.86",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

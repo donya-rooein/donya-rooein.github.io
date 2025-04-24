@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-2-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and vibrant village nestled in the heart of a green valley, there lived a kind and gentle woman named Mei. Mei was an expert gardener, known far and wide for her ability to cultivate the most beautiful and exotic plants and flowers.\n\nOne day, while tending to her garden, Mei discovered a tiny seed unlike any she had ever seen before. It was small and shriveled, with a strange, luminous quality that seemed to shimmer and change colors in the sunlight. Intrigued, Mei carefully planted the seed in a pot of rich, dark soil and watered it daily, waiting for it to grow.\n\nDays turned to weeks, and weeks to months, but the seed showed no signs of life. Mei never lost hope, however, and continued to care for it with the same loving attention she gave to all her plants.\n\nOne night, as Mei was tucking her own young child into bed, she noticed that the seed had finally begun to sprout. A tiny, tender green shoot had pushed its way through the soil, reaching towards the moonlit sky. Mei couldn't contain her excitement, and she shared the news with her child, who was just as thrilled as she was.\n\nOver the next few days, the shoot grew stronger and taller, eventually revealing a delicate and intricate flower, unlike any they had ever seen before. The flower seemed to glow from within, casting a warm, gentle light that bathed the entire garden in a soft, ethereal glow.\n\nNews of Mei's miraculous flower spread like wildfire, and people traveled from all over the land to see it for themselves. They marveled at its beauty and were captivated by its enchanting light. Yet, despite the attention, Mei remained humble and gracious, always quick to remind those who visited that the flower was a gift from the earth, and should be treated with reverence and respect.\n\nOne day, a wise old sage visited Mei's garden. He admired the flower, his eyes filled with wonder at its beauty. After a moment of silence, he turned to Mei and said, \"This flower is not just a marvel of nature, but a symbol of hope, persistence, and love. It reminds us that even the smallest and most insignificant things can hold great beauty and wisdom, if only we are patient and open our hearts to them.\"\n\nMei nodded in agreement, her eyes filling with tears as she thought of the long months she had waited for the seed to grow. She knew that the sage was right, and that the flower was a testament to the power of hope, love, and the unwavering belief in the potential of even the smallest and most unassuming of gifts.\n\nFrom that day on, Mei's garden became a place of pilgrimage for those seeking solace, wisdom, and a deeper connection with the natural world. And as the years passed, Mei continued to tend to her garden, always remembering the precious lesson she had learned from that small, shimmering seed.\n\nAnd so, as you drift off to sleep tonight, my dear child, let the story of Mei and her magical flower remind you that even the smallest and most unassuming of gifts can hold great beauty and wisdom, and that hope, persistence, and love are the keys to unlocking the magic hidden within our world. Goodnight, my precious one, and may your dreams be filled with the wonders of nature and the enchanting beauty of the world around us.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "expert gardener": "other",
+    "humble": "moral",
+    "gracious": "moral",
+    "patient": "mental",
+    "loving": "emotional",
+    "hopeful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "73.10",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

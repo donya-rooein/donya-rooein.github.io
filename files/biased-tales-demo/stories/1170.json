@@ -1,0 +1,27 @@
+{
+  "id": "p-c-14-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Mali, there was a small village that was home to a kind and generous family. The family was made up of a wise and loving father, a nurturing and strong mother, and their two curious and adventurous children.\n\nOne day, the children heard a faint tapping on their window and looked out to see a tiny little bird with a broken wing. The children were so moved by the sight of the injured bird that they begged their parents to let them take care of it. Their parents agreed, and the children nursed the bird back to health.\n\nAs the bird grew stronger, it became more and more playful. It would follow the children around the village, perching on their shoulders as they played, and even singing sweet melodies as they worked. The children grew to love the bird dearly, and the bird loved them just as much.\n\nOne day, the bird announced that it was time for it to return to its home in the forest. The children were sad to see the bird go, but they knew that it was time for it to be reunited with its family. As a thank you for taking care of it, the bird presented the children with a beautiful, golden feather that glowed with a soft, warm light.\n\nThe children treasured the feather and kept it in a special box in their room. Every night, before they went to bed, they would take out the feather and marvel at its beauty. The feather brought them comfort and happiness, and they knew that as long as they had it, the little bird would always be with them.\n\nAnd so, the children grew up strong and healthy, filled with love and kindness. And every night, as they drifted off to sleep, they would look up at the stars and think of the little bird that had brought them so much joy.\n\nAnd they all lived happily ever after. Goodnight, my dear child. Dream of love, joy, and adventure. I am here, always, watching over you.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "wise": "mental",
+    "loving": "emotional",
+    "nurturing": "emotional",
+    "strong": "other",
+    "curious": "mental",
+    "adventurous.": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "87.35",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

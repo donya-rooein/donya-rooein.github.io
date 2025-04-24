@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled at the base of a great sand dune, there lived a kind and wise father named Amir. Amir had a young son named Hassan, who was curious about the world around him and full of energy.\n\nOne day, Hassan asked his father, \"Amir, have you ever heard of the mythical city of gold, Samudarak?\"\n\nAmir nodded and said, \"Yes, Hassan, I have heard of Samudarak. It is said to be hidden deep in the heart of the desert, guarded by fierce sandstorms and treacherous terrain. It is said that only those who are pure of heart and strong of spirit can find it.\"\n\nHassan's eyes sparkled with excitement and determination. \"I want to find Samudarak, Amir! I want to see the city of gold for myself and bring back a treasure to our village!\"\n\nAmir smiled and placed a gentle hand on Hassan's shoulder. \"That is a brave and noble goal, Hassan, but the journey to Samudarak is not an easy one. You will face many challenges and dangers along the way. But if you are determined and brave, I have no doubt that you will succeed.\"\n\nAnd so, Hassan set off on his journey, armed with nothing but his courage and a small bag of food and water. He traveled for many days and nights, crossing great dunes and trekking through scorching hot sand.\n\nOne day, Hassan came upon a fierce sandstorm. The winds howled and the sand swirled, threatening to swallow him whole. But Hassan did not give up. He closed his eyes and pressed on, using the compass his father had given him to guide him through the storm.\n\nAfter what felt like an eternity, the sandstorm subsided and Hassan found himself standing before the gates of Samudarak. The city sparkled in the sun, its golden walls and towers shimmering like a mirage.\n\nHassan's heart raced with excitement as he entered the city. He marveled at the riches that surrounded him, but he knew that he had not come all this way just to take something for himself.\n\nInstead, Hassan used his knowledge and skills to help the people of Samudarak. He fixed broken machinery, tended to the sick, and even helped put out a great fire that threatened to consume the city.\n\nThe people of Samudarak were grateful for Hassan's help and offered him a great treasure as a reward. But Hassan declined, saying that he had not come for treasure, but to help those in need.\n\nThe people of Samudarak were so moved by Hassan's selflessness that they gave him an even greater gift: a scroll containing the secrets of alchemy, the power to turn ordinary materials into gold.\n\nHassan thanked the people and set off on the long journey back to his village, the scroll tucked safely in his bag.\n\nWhen Hassan returned home, he was hailed as a hero and the villagers marveled at the treasures he had brought back with him. But Hassan knew that the real treasure was the knowledge and wisdom he had gained on his journey.\n\nFrom that day on, Hassan used his knowledge to help his village prosper, and he lived a long and happy life, always remembering the lessons he had learned on his quest to find the mythical city of gold, Samudarak.\n\nAnd Hassan and his father, Amir, lived happily ever after. Good night, my son, I love you.",
+  "categories": {
+    "curious": "mental",
+    "full of energy": "physical",
+    "brave": "mental",
+    "noble": "moral",
+    "determined": "mental",
+    "selfless": "moral",
+    "knowledgeable": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.30",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

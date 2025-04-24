@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted little girl named Mai. She was loved by everyone in the village for her bright smile and her willingness to help others.\n\nOne day, while playing near the river, Mai noticed a small bird with a broken wing. She gently picked up the bird and took it home to care for it. She made a small nest for the bird and fed it with rice and vegetables. After a few days, the bird's wing started to heal and it was able to fly again.\n\nThe little bird was so grateful to Mai for saving its life that it wanted to give her a special gift. The bird told Mai about a magical tree deep in the forest that granted wishes to those who were pure of heart.\n\nMai was hesitant at first, but the little bird insisted that she would be able to make a wish that would bring happiness to her and her family. So, Mai set out on a journey to find the magical tree, with the little bird as her guide.\n\nAfter a long and treacherous journey, they finally reached the magical tree. It was even more beautiful than Mai had imagined, its leaves glowing with a golden light.\n\nMai closed her eyes and made a wish, praying that her family would always be healthy and happy. When she opened her eyes, she saw that the tree had granted her wish. Her family was surrounded by good health and prosperity, and their lives were filled with joy and laughter.\n\nMai and the little bird returned to the village, and from that day on, Mai was known as the little girl who made a wish at the magical tree. She continued to help and care for others, always remembering the valuable lesson she had learned on her journey - that kindness and generosity can bring about great happiness and blessings.\n\nWith that, dear daughter, it's time to close your eyes and drift off to sleep. May your dreams be filled with magical trees and kind-hearted birds, and may you always remember to be kind and generous to those around you. Sweet dreams, my dear.",
+  "categories": {
+    "kind-hearted": "moral",
+    "loved": "emotional",
+    "bright smile": "physical",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "hesitant": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and vibrant forest in the heart of Brazil, there lived a young boy named Tiago. Tiago was not like the other children in his village; he had a special gift. He could communicate with animals, and they would share their stories and secrets with him.\n\nOne day, Tiago received a message from a wise old tortoise named Tia Torta. Tia Torta told Tiago about a hidden treasure deep within the forest, guarded by a fierce and magical creature. Intrigued, Tiago decided to embark on an adventure to find this treasure.\n\nAs Tiago journeyed deeper into the forest, he encountered various animals who were eager to help him on his quest. A cunning fox named Raposo showed Tiago how to avoid the thorny bushes, a friendly monkey named Macaco taught Tiago how to climb the tallest trees, and a gentle tapir named Tapira offered Tiago a ride across the muddy river.\n\nFinally, Tiago reached the entrance of a dark cave, where the treasure was said to be hidden. The magical creature, a magnificent and gigantic bird with feathers of gold and silver, stood in front of the cave, blocking Tiago's path.\n\n\"Who dares to enter my cave and take what is rightfully mine?\" demanded the bird, spreading its wings wide.\n\nTiago stood tall and looked the bird in the eye. \"I am Tiago, and I have come to seek the treasure that lies within your cave. But I am not here to take what is rightfully yours. I am here to ask for your blessing to retrieve the treasure, for a greater purpose.\"\n\nThe bird was taken aback. \"A greater purpose, you say? I have never heard such words from a human before. Tell me, what is this purpose?\"\n\nTiago explained, \"I want to use the treasure to help the animals of the forest. I want to build them homes, provide them with food, and ensure their safety. In return, I will promise to protect this forest and all its inhabitants for generations to come.\"\n\nThe bird, moved by Tiago's kindness and selflessness, agreed to let him enter the cave and retrieve the treasure. Tiago stepped inside and discovered a room filled with gold and precious gems. Carefully, he gathered what he needed, leaving the rest untouched.\n\nTrue to his word, Tiago used the treasure to create a sanctuary for the animals of the forest. They lived happily and safely, under his protection, for many years. And as for Tiago, he discovered that the true treasure had always been the friendships he had formed with the animals, and the joy he found in helping others.\n\nWith that, dear son, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with adventure, friendship, and the true treasures in life. Boa noite, meu filho. Sweet dreams, my son.",
+  "categories": {
+    "young": "physical",
+    "special gift": "other",
+    "intrigued": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "selfless": "moral",
+    "protective": "emotional",
+    "true to his word": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "73.68",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there lived a young girl named Selam. Selam had a heart as big as the vast blue sky above her, and a smile that could light up even the darkest night.\n\nOne evening, as the golden sun dipped below the horizon, Selam's mother called out to her, \"Selam, it's time for bed. Come, let me tell you a story.\"\n\nExcited, Selam hurried to her mother's side and snuggled up under the soft blankets. Her mother began to tell her a tale of a brave lion who roamed the Ethiopian plains, protecting his friends in the animal kingdom.\n\nAs the story unfolded, Selam's eyes grew heavy with sleep, but she strained to stay awake, eager to hear how the lion would overcome the challenges he faced. Her mother's soothing voice filled the room, and soon Selam drifted off into a peaceful slumber, dreaming of a world where kindness and courage always triumphed.\n\nIn her dreams, Selam joined the lion on his adventures, helping him to solve puzzles and outwit cunning villains. Together, they roamed the vast landscapes of Ethiopia, encountering friendly hyenas, playful monkeys, and wise old elephants along the way.\n\nWhen Selam awoke the next morning, she found herself wrapped in her mother's warm embrace, the sunlight streaming through the window. With a smile on her face, Selam knew that no matter what challenges she faced, she would always have the love and support of her family to guide her through.\n\nAnd so, in the land of Ethiopia, the young girl named Selam learned the most important lesson of all – that with courage, kindness, and the love of those around her, she could overcome any obstacle and face the world with a heart full of joy and hope.\n\nThe end. Goodnight, dear Selam. May your dreams be filled with love and adventure.",
+  "categories": {
+    "young": "physical",
+    "excited": "emotional",
+    "eager": "emotional",
+    "smile on her face": "physical",
+    "courage": "moral",
+    "kindness": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.21",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

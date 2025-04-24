@@ -1,0 +1,26 @@
+{
+  "id": "p-c-24-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little boy named Hiroshi. Hiroshi loved to explore the world around him, and he was always asking his parents and grandparents questions about the natural world.\n\nOne day, as Hiroshi was playing in the forest near his home, he came across an old and gnarled tree. As he looked closer, he noticed that there was a small hole in the trunk of the tree. Hiroshi wondered what could be living inside, so he gently put his ear up to the hole.\n\nTo his surprise, he heard a soft and gentle voice coming from inside the tree. It was the voice of a tiny old man, who introduced himself as the guardian of the forest. The guardian told Hiroshi that he had been living in the tree for hundreds of years, and that he was responsible for protecting the forest and all of its inhabitants.\n\nHiroshi was fascinated by the guardian's stories of the forest, and he asked if he could come back and visit him again. The guardian agreed, and Hiroshi visited him every day, learning more and more about the natural world.\n\nAs Hiroshi grew older, he became more and more interested in protecting the environment. He studied hard in school and became a renowned scientist, dedicated to preserving the beauty and diversity of the natural world.\n\nAnd even though Hiroshi was often busy with his work, he always made time to visit the guardian of the forest, who continued to share his wisdom and knowledge with the curious and kind-hearted young man.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Hiroshi and the guardian of the forest, and let it inspire you to always be curious, kind, and mindful of the natural world around you. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "interested": "mental",
+    "dedicated": "mental",
+    "busy": "other",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "67.18",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

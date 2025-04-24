@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-1-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Puerto Rico, there lived a kind and gentle father named Juan. Juan had a young daughter named Isabela, who was as curious as she was kind-hearted.\n\nEvery night, Juan would tuck Isabela into bed and tell her a bedtime story. One night, as Isabela snuggled under her blankets, Juan began to tell her a new story, one that he had heard from his own father when he was a little boy.\n\n\"Long ago,\" Juan began, \"there was a beautiful and magical bird that lived in the rainforest. This bird was unlike any other, for it had feathers that shone like the stars in the night sky. People came from far and wide just to catch a glimpse of this magnificent creature.\n\nBut the bird was also very wise, and it knew that if it stayed in one place for too long, it would be in danger of being captured. So, every so often, it would spread its wings wide and take to the skies, flying to a new and hidden corner of the rainforest.\n\nOne day, a young boy named Jose set out on a quest to find the starry-feathered bird. He journeyed for many days, facing all sorts of challenges and obstacles along the way. But he never gave up, for he knew that finding the bird would bring joy and wonder to his village.\n\nAt last, after many days of travel, Jose stumbled upon the bird's hiding place. There, among the thick leaves and tangled vines of the rainforest, he saw the bird in all its glory. Its feathers shimmered and sparkled like the most beautiful night sky he had ever seen.\n\nAs Jose approached the bird, it looked down at him with its wise and knowing eyes. It seemed to understand that Jose had come searching for it with a pure and open heart. And so, it allowed him to come closer, and even to gently touch its soft and shimmering feathers.\n\nJose was overjoyed, and he knew that he had been granted a great gift. He thanked the bird and promised to keep its secret, vowing to protect it and its rainforest home.\n\nFrom that day on, the starry-feathered bird was never seen again. But whenever the people of Jose's village looked up at the night sky, they were reminded of the beauty and wonder of the natural world, and of the importance of protecting it for future generations.\"\n\nAs Juan finished his story, Isabela yawned and snuggled deeper under her blankets. \"Will I ever see the starry-feathered bird, Papa?\" she asked, her eyes shining with excitement.\n\nJuan smiled and kissed her on the forehead. \"Who knows, mi amor?\" he said. \"Perhaps one day, you will be the one to find it and protect it, just like Jose.\"\n\nAnd with that, Isabela drifted off to sleep, dreaming of starry-feathered birds and magical rainforests.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p-c-8-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and vibrant forest in the heart of Brazil, there lived a young and curious monkey named Macaco. Macaco was not like the other monkeys in the forest. He was always eager to learn and explore, and he had a deep love for all living things.\n\nOne day, Macaco was swinging through the trees when he noticed a small bird with a broken wing. The bird was struggling to fly and was clearly in distress. Macaco's heart went out to the bird, and he knew he had to help.\n\nHe carefully picked up the bird and carried it to his home, deep in the heart of the forest. There, he made a small bed for the bird and fed it some of his favorite fruits. Over the next few days, Macaco cared for the bird with all his heart, and to his delight, the bird's wing began to heal.\n\nAs the bird grew stronger, Macaco taught it how to fly again. He showed it how to soar through the trees, how to catch insects in mid-air, and how to sing with joy. The bird was grateful for Macaco's kindness, and it sang a beautiful song every day to thank him.\n\nWord of Macaco's kindness spread throughout the forest, and soon, all the animals came to him for help. He cared for the sick, healed the injured, and taught everyone to live in harmony with one another.\n\nYears went by, and Macaco grew old, but his spirit remained young. He continued to care for the animals of the forest, and they, in turn, looked after him.\n\nOne day, as Macaco lay on his bed, surrounded by his dear friends, he closed his eyes and took his last breath. The forest fell silent, and the animals wept. But then, they heard a beautiful song, and looking up, they saw the little bird, flying high above them, singing a song of love and gratitude.\n\nFrom that day on, the bird returned every day to sing to Macaco's memory, reminding all the animals of the power of kindness and the beauty of friendship.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Macaco and the little bird. Let it remind you to always be kind, to always explore, and to always love. Sweet dreams, my dear one.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "eager to explore": "mental",
+    "kind": "moral",
+    "caring": "emotional",
+    "helpful": "moral",
+    "compassionate": "emotional",
+    "nurturing": "emotional",
+    "teaching": "mental",
+    "harmonious": "mental",
+    "spirited": "emotional",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.86",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

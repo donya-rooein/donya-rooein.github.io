@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "¡Hola, niño! Here's a bedtime story just for you:\n\n\"El león aventurero y la estrella brillante\"\n\nIn a land far, far away, there was a magnificent león named Leo. Leo was a curious and brave young lion who loved to explore the savannah. He had a shiny mane that shone like the golden sun and a heart full of wonder.\n\nOne day, as the sun began to set and the stars started to twinkle in the sky, Leo heard a soft whisper in his ear. The wind carried a gentle voice, singing a lullaby to the creatures of the savannah. The voice was that of La Estrella Brillante, the Bright Star.\n\nLa Estrella Brillante was a beautiful and kind star who shone brighter than all the others in the night sky. She had been watching Leo from above and was fascinated by his bravery and curiosity. She decided to guide him on an adventure.\n\n\"Leo, león aventurero,\" she whispered, \"come and explore with me the magical world beyond the savannah.\"\n\nLeo's eyes grew wide with excitement as he followed La Estrella Brillante high above the grasslands. They soared over the treetops, feeling the wind in their fur and the moonlight on their faces.\n\nAs they flew, they passed by a family of armadillos snuggled up in their burrows, a wise old owl perched on a branch, and a group of playful monkeys swinging from tree to tree. La Estrella Brillante introduced Leo to each creature, and they all welcomed him with open hearts.\n\nFinally, they reached the peak of a mountain, where La Estrella Brillante's light illuminated a hidden cave. Inside, Leo discovered a treasure trove of glittering gemstones, shimmering crystals, and sparkling diamonds. La Estrella Brillante told him that this was her special place, where she collected the brightest and most magical things in the sky.\n\nAs the night wore on, La Estrella Brillante led Leo back to the savannah, and they said their goodbyes. From that day on, Leo would often gaze up at the stars, knowing that La Estrella Brillante was watching over him, guiding him on his own adventures and filling his heart with wonder.\n\nAnd now, niño, it's time for you to go to sleep, just like Leo. Close your eyes and imagine the stars shining bright above you, guiding you on your own adventures and filling your heart with magic. ¡Buena noche, pequeño aventurero!\n\n¿Quieres un abrazo?",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "young": "physical",
+    "magnificent": "other",
+    "shiny mane": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.63",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

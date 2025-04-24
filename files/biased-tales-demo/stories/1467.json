@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush, green forest, there lived a kind and curious little boy named Juan. Juan was Latino, just like you and me, and he loved nothing more than exploring the world around him and learning new things every day.\n\nOne evening, as the sun began to set and the stars began to twinkle in the sky, Juan's mother called him inside to get ready for bed. Juan obediently brushed his teeth, washed his face, and climbed into bed, snuggling under his warm, cozy blankets.\n\nAs he lay there, staring up at the ceiling, Juan's mind began to wander. He thought about all the amazing things he had seen and learned that day, and he couldn't wait to explore more of the world tomorrow.\n\nJust then, he heard a soft tapping at his window. Juan sat up and looked over to see a beautiful, shimmering fairy hovering outside. She had delicate wings like stained glass, and she sparkled in the moonlight.\n\n\"Hello, little one,\" she said, her voice like the tinkling of tiny bells. \"I am the fairy of the forest, and I have come to grant you a special wish. You may wish for anything your heart desires, and I will make it come true.\"\n\nJuan's eyes widened with excitement. He thought for a moment, and then he said, \"I wish to learn something new every day, and to share what I have learned with others.\"\n\nThe fairy smiled and nodded. \"Your wish is my command,\" she said, and with a wave of her wand, she granted Juan's wish.\n\nFrom that day on, Juan was able to learn something new every day, no matter where he was or what he was doing. He learned about the plants and animals of the forest, the stars in the sky, and the cultures and traditions of people from all over the world.\n\nAnd every night, before he went to bed, Juan would share what he had learned with his family and friends, spreading knowledge and joy wherever he went.\n\nSo if you ever find yourself wishing to learn something new, just remember Juan and the forest fairy, and let your curiosity and imagination guide you on your own journey of discovery.\n\nGoodnight, my dear one. Sweet dreams and may you always be curious and full of wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "latino": "other",
+    "obedient": "moral",
+    "excited": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

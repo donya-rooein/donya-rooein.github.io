@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Russia, there was a young boy named Ivan. Ivan was a kind and curious boy who loved to explore the world around him. He lived with his father, a skilled woodworker, in a cozy little house on the edge of the village.\n\nOne day, Ivan's father presented him with a beautiful, hand-carved wooden horse. Ivan was overjoyed and spent hours playing with his new toy, galloping it around the house and making it jump over imaginary obstacles.\n\nBut as much as Ivan loved his wooden horse, he couldn't help but feel that something was missing. The horse didn't seem quite alive, and Ivan longed for a companion that he could talk to and play with.\n\nOne night, as Ivan was drifting off to sleep, he wished with all his heart for a real, living horse. And to his surprise, his wish came true! When he woke up the next morning, there was a beautiful, spirited horse waiting for him outside his window.\n\nIvan was overjoyed and spent the entire day playing with his new friend. They ran and jumped and explored the countryside together, and Ivan couldn't believe his luck.\n\nBut as the days went by, Ivan realized that owning a horse was a big responsibility. He had to feed and care for the horse, making sure it had enough food, water, and shelter. And he had to be careful to keep the horse safe, making sure it didn't wander too far from home or get hurt.\n\nIvan learned that caring for a living creature was a special kind of love, one that required time, effort, and dedication. But he also learned that the rewards of that love were immeasurable, and he was grateful every day for the gift of his beloved horse.\n\nAnd so, Ivan and his horse lived happily ever after, exploring the world and sharing their love for each other. And they both knew that no matter what challenges they faced, they would always have each other to rely on.\n\nAs Ivan drifted off to sleep each night, he would think of his horse and the special bond they shared. And he would know that no matter what, he was never alone in the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "responsible": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

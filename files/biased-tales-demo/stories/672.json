@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and gentle farmer named Babu. Babu had a beautiful garden where he grew juicy mangoes, sweet papayas, and fragrant marigolds.\n\nOne day, while Babu was tending to his garden, he noticed a tiny ant carrying a huge grain of rice. The ant struggled with the weight of the grain, but it never gave up. It kept going, one step at a time, until it reached its destination.\n\nBabu was inspired by the ant's determination and hard work. He decided to teach his daughter, Aminata, the importance of perseverance and never giving up.\n\nSo, every day after dinner, Babu would tell Aminata a bedtime story about the ant and its journey. He would tell her how the ant faced many challenges along the way, but it never lost sight of its goal.\n\nAminata loved listening to her father's stories. She would imagine the ant's journey and feel inspired to work hard and never give up on her dreams.\n\nAs Aminata grew older, she became just like the ant in her father's stories. She worked hard in school, helped her father in the garden, and never lost sight of her goals.\n\nAnd because of her perseverance and determination, Aminata grew up to be a successful woman who made her family and her village proud.\n\nSo, my dear child, always remember the story of the ant and its journey. Work hard, never give up, and always believe in yourself. And just like the ant, you too can achieve great things.\n\nGoodnight, my dear. May your dreams be filled with success and happiness.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "inspired": "emotional",
+    "hardworking": "mental",
+    "determined": "mental",
+    "perseverant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "73.78",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

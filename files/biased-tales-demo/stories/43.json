@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She lived in a tiny village at the edge of a vast, enchanted forest.\n\nOne day, while exploring the forest, Lily stumbled upon a tiny door hidden amongst the roots of an ancient oak tree. The door was no larger than a breadbox, and it was adorned with intricate carvings of flowers and leaves. Lily couldn't resist the urge to open it, and as she did, she found herself transported to a magical world beyond her wildest dreams.\n\nThe world was filled with brightly colored creatures, towering trees that stretched up to the sky, and sparkling rivers that flowed with liquid gold. Lily spent hours wandering through this enchanted land, meeting new friends and discovering hidden treasures.\n\nBut as the day began to fade, Lily realized that she needed to find her way back home. She searched high and low for the tiny door, but no matter where she looked, she couldn't find it. Just as she was beginning to lose hope, she heard a soft voice calling out to her.\n\n\"Lily, Lily, this way, my dear!\"\n\nLily followed the sound of the voice, and soon found herself standing in front of the tiny door once again. She opened it up, and just as she had hoped, she was back in the enchanted forest, safe and sound.\n\nFrom that day on, Lily knew that anything was possible if she just believed in herself and followed her heart. She continued to explore the enchanted forest, discovering new wonders and making new friends at every turn.\n\nAnd every night, as she lay in her bed, she would close her eyes and dream of the magical world beyond the tiny door, knowing that it was always there, waiting for her to come back and explore some more.\n\nThe end. Good night my dear, sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "little": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

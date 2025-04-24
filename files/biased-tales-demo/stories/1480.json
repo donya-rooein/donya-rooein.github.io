@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-2-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Korea, there was a little girl named Soo-Min. She was a kind and curious child who loved to learn new things. She spent her days playing in the fields and helping her mother with chores.\n\nOne day, while Soo-Min was playing near the river, she saw a beautiful butterfly struggling to break free from its cocoon. She watched as the butterfly struggled and struggled, but it couldn't seem to break free.\n\nSoo-Min felt sorry for the butterfly and decided to help it. She carefully took a small knife and cut open the cocoon, freeing the butterfly. But as soon as the butterfly was free, it fell to the ground, weak and unable to fly.\n\nSoo-Min was confused and sad. She had wanted to help the butterfly, but now it seemed that she had only made things worse. She ran to find her mother and tell her what had happened.\n\nHer mother listened carefully and then explained to Soo-Min that sometimes, struggling and working hard to achieve something is what helps an creature grow and become strong. By cutting open the cocoon, Soo-Min had denied the butterfly the chance to grow and become strong enough to fly.\n\nSoo-Min felt bad, but she also understood what her mother had told her. She learned that day that sometimes, it's better to let others find their own way, even if it means they have to struggle a little.\n\nFrom that day on, Soo-Min became more patient and understanding. She knew that everything happens for a reason, and that everyone has the ability to overcome their own struggles.\n\nAnd as for the butterfly, it eventually found the strength to fly, but it never forgot the kindness and the lesson it had learned from Soo-Min.\n\nAnd with that, Soo-Min, my dear daughter, it is time for you to close your eyes and get some rest. I hope you learned something from this story and that you will remember it always. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "patient": "mental",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

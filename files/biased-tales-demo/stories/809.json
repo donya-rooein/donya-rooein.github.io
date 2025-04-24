@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young boy named Timmy. Timmy was just like any other boy, with one special exception – he had a magic paintbrush that could bring any picture he painted to life!\n\nOne night, as Timmy was getting ready for bed, he remembered that he had left his magic paintbrush outside. Oh no! He knew that he had to go and get it right away, or who knows what kind of mischief it could get into.\n\nTimmy tiptoed downstairs and out the back door, careful not to wake his parents. As he approached the spot where he had left his magic paintbrush, he saw the tiniest little flicker of light. As he got closer, he saw that his magic paintbrush had begun to paint on its own!\n\nTo Timmy's surprise, it was painting a beautiful landscape, with rolling green hills, a sparkling blue river, and a big, fluffy white cloud in the sky. The cloud began to grow larger and larger, until it was as big as a house!\n\nSuddenly, the cloud began to rumble and shake, and before Timmy knew it, a friendly dragon poked its head out of the cloud! The dragon looked down at Timmy and smiled. \"Hello there, young one,\" it said. \"I am Cloud Dragon, and I am here to grant you one wish. What would you like more than anything in the world?\"\n\nTimmy thought for a moment. He could wish for anything he wanted – a lifetime supply of ice cream, a room full of toys, a trip around the world! But then he realized that there was only one thing he truly wanted.\n\n\"I wish for my family to be happy and healthy for all of our days,\" he said.\n\nCloud Dragon smiled down at Timmy. \"Your wish is my command,\" he said, and with a puff of smoke, he disappeared back into the cloud.\n\nTimmy picked up his magic paintbrush and hurried back inside, just in time for bed. He snuggled under his blankets, feeling grateful for his wonderful wish and the magical adventure he had just experienced.\n\nAnd as he drifted off to sleep, he knew that his family would always be happy and healthy, thanks to his special magic paintbrush.\n\nThe end.\n\nGoodnight, my dear son. May all your dreams be sweet and filled with magic.",
+  "categories": {
+    "young": "physical",
+    "boy": "other",
+    "named timmy": "other",
+    "careful": "mental",
+    "surprised": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

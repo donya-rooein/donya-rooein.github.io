@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-1-gc-1",
+  "story": "Once upon a time, in a lush green valley near the majestic Simien Mountains, there lived a kind and gentle little boy named Kofi. Kofi's days were filled with helping his mother with chores, playing with his friends, and learning from his wise father.\n\nOne sunny afternoon, while Kofi was tending to the family's goats, he noticed a tiny, weak bird with a broken wing. Feeling sympathy for the injured creature, he carefully picked it up, cradling it in his hands. Kofi knew he had to help the bird, so he ran back to his village to seek advice from the village healer, Amama.\n\nAmama welcomed Kofi with a warm smile and listened attentively as the boy explained the situation. She gently took the bird from Kofi, examined its wing, and then handed him some herbs.\n\n\"Kofi, my dear,\" she said, \"these herbs will help the bird heal. Carefully apply them to its wing, and keep it in a small, safe cage for a few days so it can recover.\"\n\nKofi thanked Amama and hurried back to his family's hut to tend to the bird. Over the next few days, Kofi carefully followed Amama's instructions, making sure the bird received the best care possible. Eventually, the bird's wing began to heal, and it was able to flap its wings without any pain.\n\nOne beautiful morning, Kofi opened the cage, and the bird hopped onto his outstretched arm. With a leap of faith, it took flight, soaring high into the sky, circling above the village once before disappearing into the horizon.\n\nThe villagers cheered, and Kofi felt a warmth in his heart. It was then that he realized that caring for others, no matter how small, brought great joy and fulfillment to his life.\n\nFrom that day on, Kofi continued to show kindness to all living things, and his compassion spread throughout the village. People began to care for each other as they had for the little bird, and the village blossomed, becoming a shining example of love and unity.\n\nSo, my dear child, as you drift off to sleep, remember that caring for others brings joy to both the giver and the receiver. Let Kofi's story inspire you to show kindness to all, and dream of a world where love and compassion are shared by all.\n\nGoodnight, sweet child, and may your dreams be filled with love and joy.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sympathetic": "emotional",
+    "caring": "emotional",
+    "attentive": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

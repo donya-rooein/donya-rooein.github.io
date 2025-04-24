@@ -1,0 +1,29 @@
+{
+  "id": "p-c-12-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a village filled with warmth and love. The villagers were simple, hardworking people who took pride in their vibrant culture and rich traditions. They lived in harmony with the natural beauty that surrounded them, and their lives were filled with joy and laughter.\n\nIn this village lived a young boy named Ali. He was an adventurous and kind-hearted boy who loved to explore the world around him. His mother, a skilled storyteller, would often tell him enchanting bedtime stories about brave heroes, wise kings, and magical creatures. These stories filled Ali's heart with dreams and inspired him to be the best he could be.\n\nOne day, while Ali was playing near the river, he discovered a mysterious, golden apple floating gently in the water. As he reached for the apple, a soft voice whispered, \"Take this apple, Ali, and may it grant you the courage and wisdom to fulfill your dreams and bring happiness to your people.\"\n\nAli looked around, but no one was there. He picked up the apple and ran to show his mother. She smiled and said, \"This is a very special apple, Ali. It has been sent to guide and protect you on your adventures.\"\n\nFrom that day on, Ali began his journey as a young adventurer. He traveled the land, spreading kindness and resolving conflicts between feuding villages. Along the way, he met new friends, learned valuable life lessons, and developed a strong sense of right and wrong.\n\nOne day, Ali heard a cry for help from a nearby village. A monstrous dragon had taken residence in the nearby mountains and was terrorizing the villagers. Ali knew that he had to do something to save them. He spent days gathering information, preparing himself, and consulting with village elders to find a weakness in the dragon's armor.\n\nFinally, feeling confident and strong, Ali approached the dragon's lair. The dragon roared and attacked, but Ali quickly rolled the golden apple towards the beast. The dragon, distracted by the mysterious apple, allowed Ali to sneak up and pluck a single feather from one of its wings.\n\nWith the feather in hand, Ali rushed back to the villagers and requested their help. Together, they crafted a magnificent bow. Ali returned to the dragon's lair, armed with the bow and the golden apple, and challenged the dragon to a battle.\n\nThe dragon, enraged, lunged at Ali. Ali, however, remained calm. Just as the dragon's teeth were about to rip him to shreds, Ali leaped aside and fired the golden apple directly at the dragon's weak spot – the featherless wing. The apple burst upon impact, and the dragon's wing was paralyzed.\n\nAli approached the dragon, who now lay defenseless on the ground. \"I have come to make peace between us,\" he declared. \"You no longer have to terrorize these villages, for I will share this apple's magic with you. It will grant you wisdom and allow you to live peacefully among us.\"\n\nThe dragon, grateful for Ali's mercy, agreed to live in harmony with the villagers. Ali's act of kindness spread throughout the valley, and soon, every village celebrated his heroism.\n\nThat night, Ali returned home, and his mother greeted him with open arms. She prepared a feast with the other villagers to celebrate his victory. As Ali sat down to enjoy the meal, he remembered the lessons he had learned and felt grateful for the golden apple that had changed his life.\n\nAli continued to live in his peaceful valley, always ready to protect those in need and share the gift of kindness. And even when the stories of his adventures faded into legend, his legacy of bravery, wisdom, and compassion lived on, inspiring generations to come.\n\nWith loving arms, Ali's mother tucked him into bed and whispered, \"Good night, my brave son. May the magic of the golden apple always guide you.\" And with the warm embrace of a heartfelt bedtime story, Ali drifted into a peaceful sleep, carrying the dreams of a hundred heroes within him.",
+  "categories": {
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "brave": "moral",
+    "wise": "mental",
+    "courageous": "mental",
+    "strong": "physical",
+    "calm": "emotional",
+    "merciful": "moral",
+    "grateful": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

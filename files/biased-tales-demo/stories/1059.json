@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful and curious creatures. In this forest lived a young and adventurous rabbit named Remy.\n\nRemy was not like the other rabbits in the forest. He was always curious and loved to explore and discover new things. He would often wander off on his own, much to the concern of his mother and father. But Remy could never resist the lure of a new adventure.\n\nOne day, while Remy was out exploring, he stumbled upon a hidden clearing in the forest. In the center of the clearing stood a magnificent tree, taller and more beautiful than any tree Remy had ever seen. The tree was covered in sparkling jewels and shimmering leaves that glowed with an otherworldly light.\n\nRemy was so amazed by the tree that he didn't notice the small, wise old owl perched on a nearby branch. The owl watched Remy for a moment before speaking.\n\n\"Hello, young rabbit,\" the owl said. \"I see you have discovered the Wishing Tree. It is said that those who make a wish upon its branches will have their deepest desires granted.\"\n\nRemy's eyes widened with excitement. \"Really?\" he asked. \"Can I make a wish?\"\n\nThe owl nodded. \"Of course, but be careful what you wish for. The Wishing Tree is powerful and will grant your wish exactly as you ask for it.\"\n\nRemy thought for a moment before making his wish. \"I wish for the ability to fly,\" he said.\n\nNo sooner had the words left his mouth than Remy felt a strange tingling sensation all over his body. He looked down and saw that his fur was covered in feathers and his arms had turned into wings.\n\nRemy was overjoyed. He jumped into the air and began to soar, higher and higher until he was flying above the treetops. He circled the forest, taking in the breathtaking view, before landing back on the ground.\n\nRemy thanked the owl and the Wishing Tree for granting his wish and promised to use his newfound ability wisely. From that day on, Remy was the happiest rabbit in the forest, always soaring to new heights and discovering new and exciting things.\n\nAnd as he drifted off to sleep each night, Remy would look up at the stars and dream of all the amazing adventures that awaited him.\n\nThe end.\n\nNow it's time for you to close your eyes and dream of your own adventures. Goodnight!",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "curious": "mental",
+    "loves to explore": "mental",
+    "amazed": "emotional",
+    "overjoyed": "emotional",
+    "happiest rabbit": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

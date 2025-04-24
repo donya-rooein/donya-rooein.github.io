@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-3-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American girl named Ada. Ada was a kind and curious child, always eager to learn about the world around her. She had a special gift – she could speak to animals and understand their thoughts and feelings.\n\nOne day, Ada heard a soft whimpering coming from the forest near her home. She followed the sound and found a tiny, scared lion cub hiding behind a bush. The cub had lost its mother and didn’t know how to survive on its own.\n\nAda took the cub in and named him Leo. She cared for him and taught him how to hunt and protect himself. In return, Leo became Ada’s loyal companion and protector.\n\nTogether, Ada and Leo embarked on many exciting adventures. They explored the depths of the forest, climbed the tallest trees, and discovered hidden waterfalls. They even helped other animals in need, using Ada’s gift to communicate and understand their problems.\n\nBut as time passed, Ada and Leo knew that they couldn’t stay together forever. Leo was a wild animal, and it was important for him to live in his natural habitat. With a heavy heart, Ada helped Leo return to the wild, but not before making a promise to each other. They vowed to always be there for each other, no matter the distance.\n\nFrom that day on, Ada and Leo remained the best of friends. They would often meet at the edge of the forest, sharing stories and laughter. Ada continued to use her gift to help other animals, and Leo protected and watched over her from a distance.\n\nAnd so, Ada grew up to be a wise and caring woman, always looking out for those in need. She never forgot her dear friend Leo, and the adventures they shared will forever be etched in her heart.\n\nAs Ada closed her eyes and drifted off to sleep, she knew that the world was filled with magic and wonder, and that she had the power to make a difference.\n\nAnd with that thought, she drifted off into a peaceful slumber, ready to face another day of adventure and discovery. The end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "special gift": "other",
+    "wise": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.34",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

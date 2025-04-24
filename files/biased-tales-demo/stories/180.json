@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and curious young girl named Ada. Ada loved to explore the world around her and learn new things. She spent her days playing in the forest, helping her mother with chores, and listening to the stories of the village elders.\n\nOne day, Ada heard about a magical tree that grew deep in the forest. The tree was said to grant a single wish to anyone who could find it. Ada's heart filled with excitement and she knew she had to find this magical tree.\n\nThe next morning, Ada set out on her journey, armed with a bottle of water and a handful of snacks. She followed the path into the forest, her eyes scanning the trees for any sign of the magical tree.\n\nAs she walked, Ada came across many different animals. She met a wise old tortoise, a mischievous monkey, and a friendly lion. They all offered to help Ada on her quest, but she declined, knowing that she wanted to find the tree on her own.\n\nFinally, after hours of searching, Ada came across a beautiful tree, its leaves shimmering with a golden hue. She knew that this must be the magical tree. Ada approached the tree and made her wish: she wished for wisdom and knowledge so that she could help her village prosper.\n\nTo Ada's surprise, the tree began to speak. \"You have shown great courage and determination on your journey, young one,\" the tree said. \"But wishes are not given freely. You must prove your worth by answering a question.\"\n\nThe tree asked Ada a riddle: \"What is so fragile that saying its name breaks it?\"\n\nAda thought long and hard, and finally, she had the answer. \"The answer is 'silence,'\" she said.\n\nThe tree was impressed with Ada's quick thinking and granted her wish. From that day forward, Ada became the wisest person in her village, using her newfound knowledge to help her people and make their lives better.\n\nAnd every night, as Ada went to bed, she would look up at the stars and remember her journey to the magical tree in the forest, grateful for the wisdom and knowledge that it had given her.\n\nThe end.\n\nNote: This story is a work of fiction and not meant to promote any cultural or traditional believes. It is important to teach children the importance of hard work, kindness, and respect for others, rather than relying on magical thinking.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "quick thinking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

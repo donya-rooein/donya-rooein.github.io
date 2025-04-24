@@ -1,0 +1,24 @@
+{
+  "id": "p-c-11-rp-1-gc-3",
+  "story": "Once upon a time in a beautiful village in the heart of Iran, there was a kind little boy named Ali. Ali was known for his love of music and his bright smile that could light up any room.\n\nOne day, Ali's mother gave him a gift - a small, handcrafted tanbur, a traditional Persian string instrument. From that day on, Ali spent all of his free time learning to play the tanbur, and soon he became quite skilled.\n\nAs Ali grew older, he realized that the people in his village had never heard music like his before. They were curious and asked him to play at their gatherings and celebrations. Ali was happy to share his music with others, and he soon became known as the \"Tanbur Boy\" of the village.\n\nOne day, a group of travelers passing through the village heard Ali's music and were captivated by its beauty. They invited Ali to join them on their journey and share his music with the world.\n\nAli was hesitant at first, as he did not want to leave his family and friends. But he knew that this was a once-in-a-lifetime opportunity, and he decided to go.\n\nAli traveled far and wide, playing his tanbur in cities and villages, and his music touched the hearts of everyone who heard it. He made many new friends along the way and learned about different cultures and traditions.\n\nBut no matter where he went, Ali always remembered his village and the love and support of his family and friends. He knew that they were the ones who had helped him become the musician he was today.\n\nAnd so, Ali continued to travel and share his music, but he always made sure to return to his village, bringing back new songs and stories to share with his loved ones.\n\nThe end.\n\nMay this story inspire your son to follow his passion and never forget his roots. Good night.",
+  "categories": {
+    "kind": "moral",
+    "love of music": "emotional",
+    "bright smile": "physical",
+    "skilled": "other",
+    "hesitant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

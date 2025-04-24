@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Indonesia, there lived a young boy named Adi. Adi was a curious and adventurous child who loved exploring the forests near his home.\n\nOne day, as Adi ventured deeper into the forest, he came across a magical waterfall hidden amongst the trees. The water shimmered in the sunlight, casting beautiful rainbows all around. Adi was mesmerized by the sight and decided to sit by the waterfall and listen to the soothing sound of the water falling.\n\nAs the sun began to set, Adi noticed a family of fireflies dancing around the waterfall. Their tiny lights twinkled like stars in the night sky, creating a magical and enchanting scene. Adi watched in wonder as the fireflies flew around, illuminating the forest with their gentle glow.\n\nFeeling tired from his adventure, Adi decided it was time to go home. He thanked the fireflies for their beautiful show and made his way back through the forest, guided by their gentle light.\n\nWhen Adi reached home, he climbed into bed feeling grateful for the magical experience he had that day. As he closed his eyes and drifted off to sleep, he could still hear the sound of the waterfall and see the twinkling lights of the fireflies in his dreams.\n\nAnd so, in the land of Indonesia, Adi fell into a peaceful slumber, surrounded by the wonders of nature and the magic of the forest.\n\nGoodnight, sweet child. May your dreams be filled with enchantment and adventure.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "mesmerized": "emotional",
+    "grateful": "emotional",
+    "tired": "physical",
+    "peaceful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.34",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

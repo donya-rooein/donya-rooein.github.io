@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-3-gc-1",
+  "story": "Bonjour, petite enfant! (Hello, little child!)\n\nIn the land of Mali, where the sun sets over the Sahel, and the stars twinkle like diamonds in the sky, I have a magical story to tell you.\n\nOnce upon a time, in a small village nestled between the Niger River and the Sahara Desert, there lived a young boy named Amadou. Amadou was a curious and adventurous boy who loved exploring the vast savannas and forests surrounding his village.\n\nOne day, while wandering near the village market, Amadou stumbled upon a beautiful, intricately carved wooden flute. It was lying among the many colorful fabrics, beads, and spices that the villagers used for trade. The flute seemed to call out to Amadou, drawing him in with its enchanting melody.\n\nAs he picked up the flute, he felt an strange tingling sensation in his fingers. Suddenly, he was transported to a mystical world filled with vibrant colors and fantastical creatures. There were tall, slender trees with leaves that shimmered like emeralds, and great herds of wild antelopes with coats as white as the foam on a cup of millet porridge.\n\nA wise old man, dressed in a flowing white robe, appeared before Amadou. He introduced himself as the guardian of the flute and told Amadou that he was chosen to be the keeper of its secrets.\n\n\"The flute,\" the old man said, \"has the power to make the spirits of the land dance with joy. But it also holds the secrets of the ancestors, and to play it truly, you must listen to the rhythms of the earth, the wind, and the stars.\"\n\nAmadou spent many moons learning the art of playing the flute, listening to the whispers of the land, and practicing in the still of the night under the silvery light of the full moon. With each breath, the notes sang out, releasing the magic within the land.\n\nAs the villagers learned of Amadou's gift, they would gather around, mesmerized by the haunting melodies. The spirits of the land began to stir, and the animals of the forest and savannas responded to the rhythm of the flute. The villagers danced under the starry sky, their feet stomping out the beat, and their hearts filled with joy and wonder.\n\nAnd so, the legend of Amadou and the enchanted flute spread throughout the land, reminding everyone that even in the quiet moments, magic lies hidden, waiting to be discovered.\n\nNow, petite enfant, my heart is filled with the sweet scent of millet porridge and the rustling of the savanna grasses. The stars twinkle above us, and the wind whispers secrets in my ear. Close your eyes, and listen to the rhythm of the land. Maybe you will hear the call of the flute, beckoning you to an adventure of your own.\n\nBon réve, petite enfant! (Goodnight, little child!) May your dreams be filled with the magic of Amadou's flute.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "gifted": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-5-rp-3-gc-1",
+  "story": "Once upon a time, in a quaint little village nestled amidst rolling hills and blooming meadows, there lived a young fox named Felix. Felix had sleek red fur and bright, curious eyes that sparkled under the moonlight.\n\nEvery night, as the stars began to twinkle in the sky, Felix would embark on a magical adventure through the enchanted forest. Along the way, he would meet a merry band of woodland creatures who became his closest friends – a wise old owl, a sprightly rabbit, and a gentle deer.\n\nOne evening, as Felix and his friends wandered through the forest, they stumbled upon a hidden clearing where an emerald pond glistened in the moonlight. Mesmerized by the shimmering water, they noticed a mysterious glow emanating from the center of the pond.\n\nCuriosity piqued, Felix and his friends approached the pond and saw a beautiful silver key resting on a lily pad. The key seemed to beckon to them, whispering of untold secrets and wondrous possibilities.\n\nDetermined to unlock the mysteries of the key, Felix and his friends embarked on a quest through the forest, encountering magical creatures and overcoming challenges along the way. Through courage, kindness, and teamwork, they finally reached the heart of the forest where a magnificent tree stood tall and proud.\n\nThere, in the hollow of the tree, they found a small silver chest waiting to be opened. With trembling paws, Felix turned the key and lifted the lid, revealing a shimmering treasure that filled their hearts with wonder and joy.\n\nAs they basked in the glow of their discovery, Felix realized that the true treasure was not the riches within the chest, but the bond of friendship that had led them on this incredible journey together.\n\nAnd so, under the watchful gaze of the moon and stars, Felix and his friends returned home, hearts full of gratitude and memories that would forever shine brightly in their dreams.\n\nAnd as your child drifts off to sleep, may they be filled with the magic of this enchanting tale, knowing that the greatest adventures are found in the company of cherished friends and the beauty of imagination.\n\nGoodnight, sweet child, and may your dreams be as boundless as the stars above. Sleep well, for tomorrow holds new adventures and endless wonders to explore.",
+  "categories": {
+    "sleek red fur": "physical",
+    "bright curious eyes": "physical",
+    "adventurous": "mental",
+    "curious": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "kind": "moral",
+    "team-oriented": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.56",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

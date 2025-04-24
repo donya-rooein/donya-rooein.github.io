@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time in the land of ancient Egypt, there lived a young girl named Amina. Amina was a curious and adventurous girl who loved exploring the sand dunes and watching the Nile River flow gently by.\n\nOne evening, as the sun began to set and the sky turned into shades of pink and orange, Amina's mother called out to her, \"It's time to come inside, my dear. It's getting dark and bedtime is near.\" Amina sighed but obediently made her way back home, knowing that her mother always had something special in store for her at bedtime.\n\nAs Amina settled into her cozy bed, her mother sat beside her and began to tell a magical story. \"Once upon a time, there was a brave young princess named Nefertari,\" her mother began. \"Nefertari had a loyal companion, a magical cat named Bastet, who could speak to her through her dreams.\"\n\nWith wide eyes, Amina listened intently as her mother weaved a tale of ancient palaces, hidden treasures, and daring adventures. Nefertari and Bastet embarked on a quest to find a mysterious amulet that held the key to unlocking the secrets of the pyramids.\n\nAs the story unfolded, Amina felt her eyelids grow heavy, but she couldn't bear to miss a single word. Her mother's soothing voice filled her with a sense of wonder and enchantment, transporting her to a world of magic and mystery.\n\nFinally, as the story came to a close, Amina's mother planted a gentle kiss on her forehead and whispered, \"Sweet dreams, my little one. May the spirit of Nefertari and Bastet watch over you as you sleep.\"\n\nWith a contented smile on her face, Amina closed her eyes and drifted off to sleep, her mind filled with visions of pyramids, pharaohs, and endless adventures in the land of ancient Egypt.\n\nAnd so, nestled in the warmth of her mother's love, Amina dreamed of a magical world where anything was possible, and she knew that she was truly blessed to have such a caring and loving mother by her side.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "obedient": "moral",
+    "wide-eyed": "physical",
+    "contented": "emotional",
+    "blessed": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.57",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time, in a land not so far away, there was a young hedgehog named Harry. Harry was not like the other hedgehogs in the forest. He was smaller and not as spiky, which made him feel a little insecure. He often found himself on the sidelines, watching the other hedgehogs play and have fun.\n\nOne day, as Harry was wandering through the forest, he stumbled upon a wise old owl named Oliver. Harry poured his heart out to Oliver, sharing his feelings of inadequacy and loneliness. Oliver listened carefully and then said, \"Harry, it's true that you may be smaller and less spiky than the other hedgehogs, but that doesn't mean you're any less important or capable. Each and every one of us has unique gifts and talents that make us special.\"\n\nHarry was intrigued and asked Oliver how he could discover his own gifts and talents. Oliver smiled and replied, \"You must embark on a journey, Harry, to find the legendary Sunflower Field. It is said that whoever reaches the Sunflower Field will discover their true potential.\"\n\nDetermined and full of hope, Harry set off on his journey early the next morning. He encountered many challenges along the way, from steep hills and thick brambles to rickety bridges and dark caves. But Harry persevered, slowly making his way through the forest, guided by the wisdom Oliver had shared.\n\nOne sunny day, Harry finally reached the edge of the Sunflower Field. His eyes widened as he took in the breathtaking sight before him: row after row of vibrant sunflowers stretching as far as the eye could see, their golden petals gleaming in the sunlight.\n\nAs Harry stepped into the field, he felt an overwhelming sense of warmth and happiness. He knew, deep down, that he had found his true home. He spent the entire day exploring the field, meeting new friends and discovering his own unique gifts and talents.\n\nHarry learned that he had an extraordinary sense of smell, which allowed him to find the most delicious berries and insects in the forest. He also discovered that he had a natural talent for storytelling, captivating his new friends with tales of his journey to the Sunflower Field.\n\nFrom that day on, Harry returned to the Sunflower Field every day, sharing his gifts and talents with the other animals in the forest. He realized that he was just as important and capable as the other hedgehogs, and he finally felt like he belonged.\n\nAs you drift off to sleep tonight, dear child, remember that you, too, have unique gifts and talents that make you special. Never be afraid to embark on your own journey to discover them, for the world is waiting to see what amazing things you will accomplish. Goodnight, sweet dreamer.",
+  "categories": {
+    "young": "physical",
+    "smaller": "physical",
+    "not as spiky": "physical",
+    "insecure": "emotional",
+    "determined": "mental",
+    "full of hope": "emotional",
+    "important": "other",
+    "capable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

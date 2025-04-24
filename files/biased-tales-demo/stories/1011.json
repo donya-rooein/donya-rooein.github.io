@@ -1,0 +1,27 @@
+{
+  "id": "p-c-24-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Japan, there was a little girl named Yumi. Yumi lived with her mother and father in a cozy house at the foot of a mountain.\n\nYumi loved to explore the woods that surrounded their home. She would spend hours wandering through the trees, discovering new paths and playing with the creatures that lived there.\n\nOne day, Yumi found a curious stone in the woods. It was smooth and round, with a beautiful iridescent sheen. She picked it up and carried it home, feeling a strange warmth emanating from the stone.\n\nThat night, as Yumi lay in bed, she heard a soft voice whispering to her. At first, she thought it was her imagination, but the voice grew louder and clearer.\n\n\"Yumi, I am the Spirit of the Forest,\" the voice said. \"I have been watching over you as you explore my woods. Thank you for finding my stone. It has been lost for a very long time.\"\n\nYumi was amazed. She had never heard of a forest spirit before, but she felt a deep sense of wonder and respect.\n\n\"I am happy to have found your stone,\" Yumi said. \"What can I do for you now?\"\n\nThe Spirit of the Forest smiled. \"I have a task for you, Yumi. The animals of the forest are in need of your help. A great beast has been stealing their food, leaving them hungry and weak.\"\n\nYumi was determined to help. \"I will do whatever it takes to make things right,\" she said.\n\nThe forest spirit gave Yumi a special seed. \"Plant this seed in the heart of the forest,\" the spirit said. \"It will grow into a mighty tree, and its fruit will provide food for all the animals.\"\n\nYumi thanked the spirit and set off into the woods at dawn the next day. She found the perfect spot and planted the seed, watering it with care and love.\n\nDays turned into weeks, and weeks into months. Yumi tended to the seed, keeping it safe from harm and making sure it had enough water and sunlight.\n\nOne day, as Yumi sat by the seed, she heard a rustling in the bushes. She turned to see a beautiful tree, its branches heavy with luscious fruit.\n\nThe animals of the forest appeared, grateful for the food that would sustain them. They thanked Yumi and promised to protect the tree and the forest for generations to come.\n\nFrom that day on, Yumi became known as the guardian of the woods, forever cherished by the animals and the Spirit of the Forest.\n\nAnd with that, Yumi, it's time for you to close your eyes and dream of your own adventures in the woods. Sweet dreams, my dear.",
+  "categories": {
+    "little": "physical",
+    "curious": "mental",
+    "determined": "mental",
+    "caring": "emotional",
+    "respectful": "moral",
+    "helpful": "moral",
+    "grateful": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "4.60",
+  "complexity_fkes": "84.27",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

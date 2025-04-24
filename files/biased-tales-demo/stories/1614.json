@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-5-rp-2-gc-1",
+  "story": "Once upon a time, in a small shtetl in Eastern Europe, there lived a kind and gentle Jewish mother named Fruma. Fruma had a young son named Moishe who was the light of her life. Every night, Fruma would tuck Moishe into bed and tell him a bedtime story to help him drift off to sleep.\n\nOne night, Fruma told Moishe the story of the wise old Rabbi who lived in a nearby town. This Rabbi was known far and wide for his wisdom and kindness, and people would come from all over to seek his counsel.\n\nOne day, a poor man came to the Rabbi in great distress. He had lost his job and had no way to provide for his family. He had prayed to God for help, but none seemed to come.\n\nThe Rabbi listened carefully to the man's story and then said, \"Go to the river at dawn and wait there. God will provide for you.\"\n\nThe man was desperate and didn't understand what the Rabbi meant, but he had nothing to lose. So, he went to the river at dawn, as instructed.\n\nAs the sun began to rise, the man saw a beautiful swan swimming towards him. The swan was holding a golden ring in its beak. The man reached out and took the ring, and to his surprise, the swan transformed into a beautiful woman.\n\nShe introduced herself as the Queen of the Fairies and explained that she had been cursed to live as a swan during the day, but the golden ring had the power to break the curse.\n\n\"Take this ring and sell it,\" she said. \"Use the money to provide for your family.\"\n\nThe man was overjoyed and thanked the Queen of the Fairies for her kindness. He quickly sold the ring and was able to provide for his family once again.\n\nFrom that day on, the man never doubted the power of prayer or the wisdom of the Rabbi. He lived a happy and prosperous life, always remembering to be grateful for the blessings he received.\n\nFruma finished her story and looked down at Moishe, who had fallen asleep with a smile on his face. She kissed him gently on the forehead and whispered, \"May God always provide for you and guide you on the right path.\"\n\nAnd with that, Fruma turned off the light and left the room, grateful for the opportunity to share the story of the wise old Rabbi with her beloved son.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

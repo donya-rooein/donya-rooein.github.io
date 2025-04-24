@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-3-gc-1",
+  "story": "Once upon a time, in a lush and vibrant town in the heart of Brazil, there lived a kind and curious little capybara named Capy. Capy was not your ordinary capybara, he was always eager to learn and explore new things, and he had a special gift – he could talk to animals just like humans!\n\nOne day, Capy heard about a magical fruit that grew deep in the heart of the Amazon rainforest. This fruit, known as the “Fruit of Wisdom,” was said to grant the one who ate it extraordinary knowledge and understanding of the world. Intrigued and excited, Capy decided to embark on a journey to find the Fruit of Wisdom and bring it back to his town.\n\nCapy packed his little backpack with some clothes, food, and water, and set off on his adventure. He traveled for days, crossing streams and climbing hills, until he finally reached the edge of the Amazon rainforest.\n\nAs Capy ventured deeper into the rainforest, he encountered many different animals, each with their own unique stories and wisdom to share. He met a wise old tortoise who taught him the importance of patience and persistence, a clever monkey who showed him the value of quick thinking and agility, and a playful toucan who reminded him to always have fun and enjoy the little things in life.\n\nDespite the challenges he faced, Capy remained determined and optimistic, and finally, after many days of searching, he found the Fruit of Wisdom hanging from a tall and ancient tree.\n\nBut just as Capy was about to reach for the fruit, a sneaky snake slithered up and tried to steal it from him! Capy was quick to react, and with the help of his new friends, he managed to outsmart the snake and keep the Fruit of Wisdom safe.\n\nWith the fruit in his possession, Capy returned to his town, where he was greeted with cheers and celebration. He shared the Fruit of Wisdom with the entire town, and from that day on, everyone in the town became wiser and more understanding of the world around them.\n\nAnd Capy, with his newfound wisdom, continued to explore and learn, always eager to discover the wonders of the world.\n\nSo, my dear child, always remember to be curious and brave, just like Capy, and you too will find the wisdom and understanding you need to make your own dreams come true. Good night, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "eager to explore": "mental",
+    "special gift": "other",
+    "determined": "mental",
+    "optimistic": "emotional",
+    "quick to react": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "72.50",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

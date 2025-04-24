@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-5-rp-1-gc-1",
+  "story": "Once upon a time, in a magical forest far, far away, there lived a curious little squirrel named Sammy. Sammy had the bushiest tail and the brightest eyes you could ever imagine. He loved exploring the forest, climbing trees, and collecting nuts.\n\nOne sunny afternoon, as Sammy was jumping from branch to branch, he heard a tiny voice calling out for help. It was a baby bird named Bella, who had fallen out of her nest. Sammy quickly scurried down the tree and gently picked up Bella in his paws. He placed her back safely in her nest, and from that day on, the two of them became the best of friends.\n\nTogether, Sammy and Bella went on many adventures in the enchanted forest. They met wise old owls, playful rabbits, and friendly butterflies. They even discovered a secret path that led to a shimmering lake where a magical unicorn drank from the crystal-clear waters.\n\nOne moonlit night, when the stars were twinkling brightly in the sky, Sammy and Bella sat on a soft bed of moss and whispered about their favorite moments together. Sammy told Bella stories of his tree-climbing escapades, and Bella shared her dreams of flying high in the sky.\n\nAs the night grew darker, Sammy and Bella snuggled close, feeling grateful for their friendship and the beauty of the world around them. And with the gentle rustling of leaves in the wind, they drifted off to sleep, knowing that no matter where their adventures took them, they would always have each other.\n\nAnd so, in that magical forest, under the watchful gaze of the moon, Sammy and Bella's friendship blossomed, proving that even the smallest of creatures can create the biggest of wonders. And as the night faded into dawn, the forest whispered a lullaby of peace and harmony, ensuring that Sammy and Bella would always have sweet dreams, nestled in the warmth of their friendship.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "bushiest tail": "physical",
+    "brightest eyes": "physical",
+    "loved exploring": "mental",
+    "climbing trees": "physical",
+    "collecting nuts": "other",
+    "gentle": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

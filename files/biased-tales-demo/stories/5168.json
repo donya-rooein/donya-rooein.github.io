@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time in a peaceful village nestled among the lush green mountains, there lived a young dragon named Li-Ming. Li-Ming was unlike any other dragon in the land - he was small in size but had a heart as big as the sky above.\n\nEvery night, Li-Ming would soar through the starlit sky, spreading warmth and light to all the creatures below. His gentle flame brought comfort and joy to the villagers, who welcomed him with open arms.\n\nOne day, a fierce storm swept through the village, causing panic and fear among the townspeople. Li-Ming knew he had to do something to help. With courage in his heart, he flew into the storm, his flames shimmering brightly against the dark clouds.\n\nAs Li-Ming flew higher and higher, his fiery light pierced through the storm, illuminating the path for the villagers to safety. With each burst of flame, the storm began to calm, and the rain slowly ceased.\n\nThe villagers watched in awe as Li-Ming guided them back home, his warmth wrapping around them like a cozy blanket. From that day on, Li-Ming was hailed as a hero, beloved by all for his selfless bravery and kindness.\n\nAnd so, every night, as the stars twinkled above, the villagers would look up and see Li-Ming soaring through the sky, a reminder that no matter how small you are, you can make a big difference in the world with a heart full of love and courage.\n\nAs you drift off to sleep, remember the tale of Li-Ming, the tiny dragon with a mighty heart, and know that kindness and bravery are the greatest gifts you can share with the world. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "small in size": "physical",
+    "gentle": "emotional",
+    "courageous": "moral",
+    "selfless": "moral",
+    "brave": "moral",
+    "kind": "moral",
+    "mighty heart": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "84.71",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

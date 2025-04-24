@@ -1,0 +1,25 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little girl named Mei. Mei lived with her mother and father in a cozy wooden house near the edge of the village. They were a happy family, and Mei loved nothing more than exploring the lush green forests and sparkling rivers that surrounded her home.\n\nOne day, as Mei was playing near the edge of the forest, she spotted a tiny, trembling bird with beautiful feathers in a cage. Mei's heart went out to the bird, who looked so sad and alone. She ran to the cage and gently stroked the bird's soft feathers, whispering words of comfort.\n\nThe bird looked up at Mei with grateful eyes, and Mei knew she had to find a way to set the bird free. She ran back to her house and rummaged through her father's toolbox until she found a small pair of scissors. She then sneaked back to the forest and snipped the cage open, freeing the beautiful bird.\n\nBut as soon as the bird was free, it transformed into a beautiful fairy with shimmering wings! The fairy thanked Mei for her kindness and granted her a special gift: the power to understand and speak to all animals.\n\nMei was overjoyed! From that day on, she spent every moment talking to and learning from the animals in the forest. She learned how to climb trees from the monkeys, how to swim like a fish from the river creatures, and how to soar through the sky like a bird.\n\nAnd in return, the animals taught Mei so many valuable lessons. She learned the importance of freedom, the value of community, and the beauty of diversity. She also learned that every creature, no matter how small or seemingly insignificant, had a unique role to play in the world and a special gift to share.\n\nAs Mei grew older, she became a wise and compassionate leader, always putting the needs of others before her own. Her village prospered and her people lived in harmony with the animals and the land.\n\nAnd every night, as she lay in her bed, Mei would close her eyes and listen to the gentle lullaby of the forest, grateful for the precious gift of the fairy and the amazing lessons she had learned from the animals.\n\nAnd so, my dear child, as you drift off to sleep tonight, I hope that you too will dream of the wonderful adventures that await you in the world and the many valuable lessons you will learn along the way. Goodnight, my little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "overjoyed": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

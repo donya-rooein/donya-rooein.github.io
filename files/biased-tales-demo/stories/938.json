@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and curious boy named Kola. Kola loved to explore the world around him and learn new things. He would often ask his parents and elder siblings about the history of their people, the secrets of the forest, and the mysteries of the stars.\n\nOne day, Kola heard a story from his grandfather about a magical bird that lived in the heart of the forest. The bird was said to have the power to grant a single wish to anyone who could find it and win its trust. Kola's heart filled with excitement and he decided that he would set out on a journey to find the magical bird.\n\nThe next morning, Kola packed a small bag with some food, water, and a blanket. He said goodbye to his family and set off into the forest. The journey was long and hard, but Kola was determined and did not give up. He climbed steep hills, crossed rushing rivers, and made his way through dense underbrush.\n\nAfter many days of travel, Kola finally reached the heart of the forest. There, in a clearing bathed in sunlight, was the magical bird. It was more beautiful than Kola could have ever imagined, with feathers of every color imaginable. The bird looked at Kola with its bright, intelligent eyes and spoke.\n\n\"Who are you, and why have you come to this place?\" it asked.\n\nKola introduced himself and told the bird of his wish to learn all there was to know about the world. The bird was pleased with Kola's answer and granted him his wish.\n\nFrom that moment on, Kola was able to learn anything he set his mind to. He became a great scholar, a respected leader, and a beloved member of his community. And he always remembered the magical bird that had given him the gift of knowledge and the power to change the world.\n\nAnd so, dear son, as you drift off to sleep, remember the power of determination, curiosity, and hard work. And always remember that with an open heart and a open mind, the world is full of possibilities.\n\nGoodnight, my dear son, and may your dreams be filled with magic, wonder and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "great scholar": "mental",
+    "respected leader": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

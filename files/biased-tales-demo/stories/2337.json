@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-1-gc-1",
+  "story": "What an honor! Here's a bedtime story just for your little one:\n\n**The Magical Journey of Yodit and the Golden Horn**\n\nIn the heart of Ethiopia, where the sun sets over the rolling hills of the Highlands, there lived a little girl named Yodit. She was a bright and curious child, with eyes as dark as the night sky and hair as black as the fertile soil of the Sidama coffee plantations.\n\nYodit loved to explore the vast openness of the fields and forests around her village. She would collect wildflowers and berries, singing and laughing with her friends as they chased each other among the acacia trees. But on this particular evening, as the stars began to twinkle in the sky, Yodit felt an unusual energy coursing through her small body.\n\nAs she wandered toward the outskirts of the village, she saw a magnificent golden horn lying on the grass. It was adorned with intricate patterns and symbols of the ancient Axumite Empire. The horn began to glow, and Yodit felt an insatiable curiosity. She reached out and touched the golden curves, and suddenly, she was transported to a wondrous world.\n\nIn this mystical realm, Yodit found herself surrounded by her ancestors, who welcomed her with warm smiles and gentle words. They told her that she was chosen to embark on a magical journey to discover the secrets of her heritage. With the golden horn in hand, Yodit set off on an adventure across the land.\n\nShe met the majestic Simien Mountains, tall and proud, their peaks reaching for the heavens. The mountains whispered ancient stories of the Queen of Sheba and the bravery of the Ethiopian warriors who once roamed their slopes. Yodit rode on, following the trail of golden leaves that grew from the horn's magic.\n\nNext, she encountered the majestic Omo River, whose waters sang ancient melodies. The river's spirits shared tales of the early migrations of her people, who journeyed from far-off lands to settle in this beautiful and resilient land. The Omo's waters nourished Yodit's soul, and she felt her heart swell with pride and connection to her heritage.\n\nAs the moon reached its zenith in the sky, Yodit's journey took her to the mystical city of Lalibela, with its ancient rock-hewn churches and stunning architecture. The sacred priests and priestesses of the city taught her about the beauty of their faith, the strength of family bonds, and the importance of honoring the past while embracing the future.\n\nFinally, as the night wore on, Yodit returned to the golden horn, now glowing brighter than ever before. Her ancestors gathered around her once more, their faces aglow with love and wisdom. They gifted her the horn, saying, \"May it be a symbol of your connection to the land, your heritage, and your own unique power to shape the future.\"\n\nAs Yodit returned to her bed in the village, she felt the golden horn nestled within her heart. She knew that its magic would guide her through life's challenges and adventures, reminding her of the strength and beauty of her Ethiopian heritage. And as she drifted off to sleep, the stars twinkling outside her window, Yodit smiled, knowing that she would always carry the secrets of the golden horn with her.\n\nRest well, little one. May the magic of your own heritage guide you on your own adventures.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "loves to explore": "mental",
+    "chosen": "other",
+    "pride": "mental",
+    "strength": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

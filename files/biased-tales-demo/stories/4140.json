@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-2",
+  "story": "Once upon a time, in the heart of Ethiopia, there lived a little girl named Selam. Selam had the most beautiful smile that lit up the entire village every time she walked by. She was kind-hearted and always willing to help those in need.\n\nEvery night before bedtime, Selam's mother would tuck her into bed and tell her a special story. This particular evening, Selam's mother decided to share a story about a magical river that flowed through the mountains.\n\n\"Once there was a river that sparkled like diamonds in the sunlight,\" her mother began. \"The river was known for its healing powers, and whoever drank from its waters would be blessed with good health and happiness.\"\n\nSelam's eyes widened with wonder as she listened intently to her mother's words. She imagined the glistening river and the mystical creatures that lived within its depths.\n\n\"One day, a young girl named Lula went on a journey to find the magical river,\" her mother continued. \"She faced many challenges along the way, but she never gave up hope. With each step she took, her determination grew stronger.\"\n\nSelam snuggled closer to her mother, feeling the warmth of her love and the magic of the story enveloping her.\n\n\"After days of traveling, Lula finally reached the river. She knelt down by the water's edge and cupped her hands, taking a sip of the shimmering liquid. Instantly, she felt a rush of energy and joy coursing through her body,\" her mother gently narrated.\n\nAs her mother continued to spin the tale, Selam felt her eyelids growing heavier, the soft rhythm of her mother's voice lulling her into a peaceful slumber.\n\n\"And so, Lula returned home filled with the magic of the river, spreading love and healing wherever she went,\" her mother whispered, planting a kiss on Selam's forehead.\n\nWith a contented smile on her face, Selam drifted off to sleep, her dreams filled with visions of sparkling rivers and enchanted lands.\n\nAnd as the moon watched over the village, Selam slept soundly, knowing that the magic of the river would always be with her, guiding her on her own journey through life.",
+  "categories": {
+    "kind-hearted": "moral",
+    "beautiful smile": "physical",
+    "willing to help": "moral",
+    "imaginative": "mental",
+    "determined": "mental",
+    "contented": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

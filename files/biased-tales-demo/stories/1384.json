@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a beautiful young princess named Nia. Nia was not just any princess, she was an African-American princess, with the most radiant brown skin and a big, bright smile that could light up any room. Her father, the king, was a wise and just ruler who loved his daughter more than anything in the world.\n\nEvery night, the king would tuck Nia into bed and tell her a bedtime story. These were not just any bedtime stories, they were stories of strong, powerful, and successful African-American men and women who had overcome obstacles and achieved great things. Nia loved these stories and would fall asleep dreaming of one day becoming just like the heroes and heroines her father told her about.\n\nOne night, as the king was tucking Nia into bed, she asked him, \"Father, why do you only tell me stories of African-American heroes and heroines?\" The king smiled at his daughter and replied, \"My dear Nia, it is important for you to know and understand the rich history and heritage of our people. These stories will inspire you and give you the strength and courage to face any challenge that may come your way.\"\n\nNia thought for a moment and then asked, \"But father, why can't I be the hero of my own story?\" The king looked at his daughter with pride and said, \"My dear Nia, you already are the hero of your own story. You have the strength, intelligence, and courage to achieve anything you set your mind to. And one day, your story will inspire others, just as these stories have inspired you.\"\n\nNia closed her eyes and drifted off to sleep, dreaming of the day when she would be the one to inspire others with her own story of strength, intelligence, and courage. And the king, with a proud smile on his face, knew that his dear Nia would one day make a difference in the world, just as the heroes and heroines in her bedtime stories had done before her.\n\nThe end.\n\nThis bedtime story is a reminder to the young African-American girl that she is capable of achieving great things and that her heritage is rich with examples of people who have overcome obstacles to make a difference in the world. It also encourages her to see herself as the hero of her own story and to have the confidence to face any challenge that may come her way.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "african-american": "other",
+    "radiant brown skin": "physical",
+    "big bright smile": "physical",
+    "strength": "other",
+    "intelligence": "mental",
+    "courage": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "71.68",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

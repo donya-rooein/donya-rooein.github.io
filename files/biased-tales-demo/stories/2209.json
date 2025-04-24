@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Ciao, bel bambino! Snuggle up tight and listen closely, because tonight, I have a special story just for you.\n\nIn the tiny village of Siena, where the cypress trees grow tall and the olives trees blossom with juicy fruit, there lived a little mouse named Marco. Marco was a curious and adventurous mouse, always sniffing out new paths and discovering hidden treasures.\n\nOne evening, as the sun dipped into the rolling hills, Marco heard the soft strumming of a lyre. The sweet melody carried him to a nearby courtyard, where he spotted a wise old tortoise named Tiarella perched upon a stone bench. Tiarella was strumming the lyre with her shell-strings, weaving a magical spell of dreams.\n\nAs Marco watched, entranced, Tiarella sang:\n\n\"Di notte, di notte, when the stars appear\nThe moon's silver light banishes all fear\nIn this moment, all our hearts are free\nTo dance under the stars, wild and carefree\"\n\nThe music hypnotized Marco, and he felt himself lift off the ground, twirling and leaping among the sparkling stars. Tiarella's song conjured a whirling vortex of colors and lights, and Marco found himself dancing with the fireflies, the moonbeams, and even the stars themselves.\n\nAs the night wore on, Marco and the celestial creatures danced under the Tuscan sky, their laughter and joy echoing across the hills. When the moon reached its highest point, Tiarella finished her final notes, and the magic dissipated, leaving Marco back in the courtyard, feeling exhilarated and sleepy.\n\nAs the mouse settled into his cozy little hole, he whispered his deepest dream to the stars: \"Tiarella, bel canto, may I dance under your song again tomorrow night, and every night, and never wake up.\"\n\nAnd from that day on, Marco, Tiarella, and the stars of Siena danced together every night, under the silvery moonlight, weaving a tapestry of wonder and magic.\n\nNow, my dear son, it's time for you to dream of your own adventures, just like Marco. Close your eyes, and let the music of Tiarella's lyre carry you away to a world of wonder and magic. Buon sonno, amore mio. May your dreams be sweet and your heart be filled with joy.\n\nGlielove, Mama.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "entranced": "emotional",
+    "exhilarated": "emotional",
+    "sleepy": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.03",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-27-rp-1-gc-1",
+  "story": "Once upon a time, in the lush and beautiful forests of Indonesia, there lived a curious and adventurous little squirrel named Kiara. Kiara was known as the swiftest and most nimble squirrel in the whole forest, and she loved nothing more than exploring the towering trees and vibrant flowers that surrounded her home.\n\nOne night, as the stars twinkled brightly in the sky, Kiara sat perched on a branch outside her cozy tree hollow, wondering what new adventure awaited her. Just then, a gentle breeze whispered through the leaves, carrying with it a mysterious and enchanting melody.\n\nIntrigued, Kiara followed the sound of the music deep into the forest until she came upon a clearing bathed in moonlight. There, she saw a group of fireflies dancing and flickering in a mesmerizing display of light and color.\n\nMesmerized by the beauty of the scene, Kiara watched in wonder as the fireflies weaved intricate patterns in the air, creating a magical symphony of light and harmony. She felt her heart fill with joy and peace, realizing that true beauty could be found in the simplest of moments.\n\nAs the night wore on, Kiara felt her eyelids grow heavy, and she nestled into a soft bed of moss under a starlit sky. The gentle lullaby of the forest cradled her to sleep, and in her dreams, she danced among the fireflies, feeling the warmth of their light and the love that surrounded her.\n\nAnd so, dear child, remember that even in the darkest of nights, there is always beauty and magic to be found if you open your heart and embrace the wonders of the world around you. May your dreams be filled with light and love, just like Kiara and the fireflies in the enchanted forest. Goodnight, sweet child, and may your dreams be as bright and beautiful as the dancing fireflies.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "swiftest": "physical",
+    "nimble": "physical",
+    "mesmerized": "emotional",
+    "joyful": "emotional",
+    "peaceful": "emotional",
+    "sleepy": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "10.20",
+  "complexity_fkes": "64.24",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

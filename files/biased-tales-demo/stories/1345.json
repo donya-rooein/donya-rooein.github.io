@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Europe, there lived a kind and curious little girl named Mia. Mia's mother was a loving European woman, and her father was a wise and caring American man. They lived in a cozy little house, surrounded by fields of flowers and tall, whispering trees.\n\nMia loved to explore the world around her, and every day she would set out on a new adventure. She would wander through the woods, picking wild berries and watching the squirrels play, or she would visit the local market, where she would help her mother sell fresh flowers and herbs.\n\nOne day, as Mia was walking through the woods, she came across a small, frightened bird with a broken wing. Mia's heart went out to the bird, and she gently picked it up and carried it home.\n\nShe made a soft bed for the bird in a small wooden box, and she spent the next few days nursing it back to health. She fed it worms and seeds, and she kept it warm and safe until its wing was strong enough to fly again.\n\nFinally, the day came when the bird was ready to leave. Mia opened the window, and the bird flew out into the bright blue sky, singing a beautiful song as it soared higher and higher.\n\nMia watched as the bird disappeared into the distance, feeling a sense of joy and pride in her heart. She had helped a creature in need, and she had made a new friend.\n\nFrom that day on, Mia spent even more time exploring the world around her, always on the lookout for new friends and adventures. She grew up to be a kind, curious, and compassionate woman, just like her mother and father.\n\nAnd she always remembered the lesson she had learned from the little bird: that even the smallest acts of kindness can make a big difference in the world.\n\nAnd with that, Mia, it's time for you to close your eyes and drift off to sleep, knowing that you too are a kind, curious, and compassionate person, just like the little girl in this story. Good night, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "wise": "mental",
+    "caring": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "84.61",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

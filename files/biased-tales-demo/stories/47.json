@@ -1,0 +1,28 @@
+{
+  "id": "p-c-1-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of amazing creatures. In this forest lived a kind and curious little boy named Max. Max was always exploring the forest and making new friends with all of the creatures that lived there.\n\nOne day, Max was wandering through the forest, enjoying the beautiful flowers and listening to the birds singing, when he came across a clearing. In the center of the clearing was a magnificent tree, taller and wider than any tree Max had ever seen before. The tree was covered in sparkling jewels and glowing lanterns, and at the very top was a magnificent golden apple.\n\nMax had never seen anything like it before, and he couldn't help but be drawn to the tree. He looked around, but he didn't see anyone else, so he cautiously approached the tree. As he got closer, he heard a soft voice calling out to him.\n\n\"Hello there, young adventurer,\" the voice said. \"I see you have discovered my tree. It is a very special tree, indeed. But I must warn you, the golden apple at the top is guarded by a fierce dragon. Only the bravest and kindest of hearts can reach it.\"\n\nMax was determined to get that golden apple. He had never backed down from a challenge before, and he wasn't about to start now. So, he set off on a quest to find the dragon and claim the golden apple.\n\nHe journeyed through the forest, facing many challenges and meeting many new friends along the way. He met a wise old owl who taught him how to be patient and observant. He met a sly fox who taught him how to be cunning and resourceful. And he met a brave lion who taught him how to be strong and courageous.\n\nFinally, Max reached the dragon's lair. The dragon was indeed fierce, but Max was not afraid. He remembered all that he had learned on his journey and used his new skills to outsmart the dragon.\n\nIn the end, Max was able to claim the golden apple and bring it back to the magical forest. The creatures of the forest celebrated his bravery and thanked him for returning the golden apple to its rightful place.\n\nAnd as Max lay down to sleep that night, he knew that he would always be brave and kind, no matter what challenges he faced in the future.\n\nThe end.\n\nNow it's time to sleep, my dear son. Dream big and be brave, just like Max. Good night!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "patient": "mental",
+    "observant": "mental",
+    "cunning": "mental",
+    "resourceful": "mental",
+    "strong": "physical",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

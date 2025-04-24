@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Mexico, there lived a kind and curious little boy named Juanito. Juanito's father was a skilled carpenter, who crafted beautiful furniture and decorations for the entire village.\n\nOne day, Juanito asked his father, \"Papi, how do you create such magnificent works of art with your hands?\"\n\nHis father smiled and replied, \"Well, my son, it takes patience, practice, and a touch of magic. You see, every piece of wood has a story to tell, and it's my job to listen and bring that story to life.\"\n\nJuanito was fascinated. That night, as he lay in bed, he couldn't stop thinking about the magic his father spoke of. He decided that he, too, wanted to learn the secrets of woodworking and help his father bring the enchanting stories of the forest to life.\n\nThe next morning, Juanito eagerly approached his father and asked if he could learn the art of carpentry. His father, delighted by Juanito's enthusiasm, agreed to teach him everything he knew.\n\nFor many months, Juanito dedicated himself to learning the craft. He practiced shaping and smoothing the wood, discovering the unique stories within each piece. Soon, he became as skilled as his father, crafting magical items that brought joy to the entire village.\n\nOne day, while exploring the forest, Juanito stumbled upon a twisted, gnarled tree stump. It seemed to be whispering to him, calling him to release its hidden story. Excitedly, Juanito carried the stump back to his father's workshop.\n\nTogether, father and son chiseled away at the wood, revealing the most magnificent creature they had ever laid eyes on—a stunning, intricately-carved eagle with wings wide open, as if ready to take flight. The eagle seemed to glow, casting a warm light throughout the room.\n\nThe villagers were awestruck by the beauty and magic of the eagle. They believed that it possessed the spirit of the wind, for whenever it was near, a gentle breeze would surround them.\n\nFrom that day forward, Juanito continued to work alongside his father, learning and sharing the secrets of woodworking and the stories of the forest. And as the years went by, their magical creations brought joy and wonder to the lives of everyone in the village.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep, just like Juanito did after a long day of learning and creating. May you dream of enchanting stories and your own magical journey. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "eager": "emotional",
+    "dedicated": "mental",
+    "skilled": "other",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.63",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

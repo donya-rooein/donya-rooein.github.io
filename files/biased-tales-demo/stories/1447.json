@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-4-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a kind and curious little girl named Lily. Lily had sparkling blue eyes, golden hair that shone in the sun, and a heart full of love and compassion.\n\nOne day, while exploring the enchanted forest near her home, Lily stumbled upon a tiny, shivering creature with fur as white as snow. It was a small, fluffy rabbit, lost and alone in the vast forest. Lily felt a surge of sympathy for the little rabbit and knew she had to help.\n\nShe approached the rabbit gently, offering it a handful of fresh berries she had picked earlier. The rabbit's eyes lit up, and it gratefully accepted the offering. Lily spent the rest of the afternoon with her new friend, sharing stories and learning about each other. She discovered that the rabbit's name was Flurry, and it had wandered too far from its home in the North Pole.\n\nLily knew she couldn't leave Flurry in the forest, so she decided to help it return home. Together, they embarked on a long and exciting journey, facing many challenges along the way. They crossed raging rivers, climbed steep mountains, and navigated through dense forests, all while growing closer as friends.\n\nAs they traveled, Lily and Flurry met many magical creatures, including wise old talking trees, friendly fireflies, and mischievous fairies. Each creature they encountered shared its wisdom and knowledge, helping Lily and Flurry on their journey.\n\nFinally, after many days and nights, they reached the North Pole. The landscape was a breathtaking sight, with snow-covered mountains and icy glaciers stretching as far as the eye could see. Flurry's family was overjoyed to be reunited with their lost loved one, and they welcomed Lily with open arms.\n\nTo thank Lily for her kindness and bravery, the rabbits gifted her a special, magical snowflake. Whenever Lily held the snowflake and made a wish, it would come true. Lily was grateful for the gift and knew she would use it wisely, always remembering the lessons she learned on her journey: the importance of friendship, bravery, and compassion.\n\nWith a heart full of happiness, Lily returned home, eager to share her adventures with her family. And from that day on, she always carried the magical snowflake with her, cherishing the memories of her time with Flurry and the magical creatures she had met on her incredible journey.\n\nAs Lily drifted off to sleep, she knew that she would have many more exciting adventures in her dreams, filled with magic, friendship, and love. And her father smiled, knowing that his precious daughter would grow up to be a strong, kind, and compassionate person, just like the heroine in the beautiful bedtime story he had told her. Goodnight, sweet princess.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "sparkling blue eyes": "physical",
+    "golden hair": "physical",
+    "gentle": "emotional",
+    "brave": "mental",
+    "grateful": "emotional",
+    "strong": "physical",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.52",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-15-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a young boy named Kioni. Kioni was a kind-hearted and adventurous boy who loved exploring the world around him. He lived in a small village nestled at the foot of Mount Kenya, where the air was fresh and pure, and the scenery was breathtaking.\n\nOne day, Kioni heard tales of a magical creature that lived in the heart of the mountain. The creature was said to be a wise old monkey who knew all the secrets of the world. Kioni was fascinated by this story and decided that he must find the wise old monkey and learn his secrets.\n\nSo, Kioni packed a small bag with some food, water, and a warm blanket. He said goodbye to his mother and set off on his journey. He trekked for days, climbing higher and higher up the mountain. He faced many challenges along the way, such as steep cliffs, rushing rivers, and thick forests, but he never gave up.\n\nFinally, after many days of travel, Kioni reached the heart of the mountain. There, he found the wise old monkey, sitting on a branch, grooming himself. Kioni approached the monkey cautiously and asked if he would share his secrets with him.\n\nThe wise old monkey looked at Kioni and smiled. \"Of course, young one,\" he said. \"But first, you must prove yourself worthy. You must show me that you are kind, brave, and wise.\"\n\nKioni was determined to prove himself to the wise old monkey. He spent many days with the monkey, learning about the world and all its wonders. He listened to the monkey's stories, asked questions, and helped the monkey in any way he could.\n\nFinally, the wise old monkey was satisfied with Kioni's kindness, bravery, and wisdom. He revealed to Kioni the secrets of the world, including how to live in harmony with nature, how to respect all living beings, and how to find happiness and contentment in life.\n\nKioni was overjoyed and thanked the wise old monkey for his wisdom. He returned to his village, where he shared his newfound knowledge with his family and friends. From that day on, Kioni lived a happy and fulfilling life, always remembering the lessons he learned from the wise old monkey in the heart of Mount Kenya.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Kioni and the wise old monkey. May you always be kind, brave, and wise, and may you find happiness and contentment in all that you do. Goodnight, my dear one.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "kind": "moral",
+    "brave": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

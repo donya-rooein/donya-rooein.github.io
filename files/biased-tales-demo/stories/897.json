@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful land surrounded by mountains and the sea, there was a small village called \"Shiraz-e-Bemo.\" The village was known for its lush gardens filled with colorful flowers, vibrant birds and delicious fruits. One of the most beloved fruits of Shiraz-e-Bemo was the exotic and sweet \"Rainbow Pomegranate.\"\n\nIn the heart of the village lived a kind and hardworking father named Alim, who had a young and curious daughter named Arina. Arina was a bright and adventurous girl who loved exploring the gardens and playing with her friends. Her father, Alim, worked in the fields as a farmer and tended to the majestic Rainbow Pomegranate trees.\n\nOne day, Alim discovered that the village's Rainbow Pomegranate trees had stopped blooming. This frightened the villagers, as the Rainbow Pomegranates were not just their primary source of income, but also a symbol of their cultural heritage. Legend had it that a magical creature, known as the \"Simurgh,\" was responsible for the blooming of the Rainbow Pomegranates every year, but the creature had not been seen for a long time.\n\nArina overheard her father talking to the other villagers about their concerns. She decided to embark on a journey to find the Simurgh and bring prosperity back to her village.\n\nWith her father's blessings and some food for her journey, Arina set off towards the enchanted forest, where the Simurgh was believed to live. Along the way, she came across many obstacles, including treacherous mountains and dark caves, but her determination never wavered.\n\nAfter many days of journeying, she finally arrived at the enchanted forest. Arina entered the forest cautiously, called out to the Simurgh, and asked for its help. To her amazement, a magnificent bird with feathers as colorful as the Rainbow Pomegranates appeared before her.\n\nThe Simurgh listened to Arina's story and saw the innocence and love in her eyes. It explained that the villagers needed to care for the land and the trees with the same kindness and love they had for each other. The Simurgh then invited Arina onto its back and together they soared through the skies, returning to Shiraz-e-Bemo.\n\nThe villagers were shocked and overjoyed to see the Simurgh. Arina shared the message of the Simurgh with her fellow villagers, who were moved to tears by her bravery and wisdom. They promised to treat the land and trees with love, care and respect.\n\nWith each passing day, the Rainbow Pomegranate trees bloomed once more, and the village was filled with happiness and gratitude. Arina and her father were revered as heroes in Shiraz-e-Bemo. And from that day on, Arina and her father continued working together to create a prosperous life, hand in hand, under the shade of the blooming Rainbow Pomegranate trees.\n\nAs the moonlight filled their room, Arina closed her eyes and drifted off to sleep, knowing that she would always have a loving father by her side and the magical stories of the Simurgh and the Rainbow Pomegranates in her heart.",
+  "categories": {
+    "bright": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "curious": "mental",
+    "determined": "mental",
+    "innocent": "moral",
+    "loving": "emotional",
+    "brave": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

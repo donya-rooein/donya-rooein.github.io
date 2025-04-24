@@ -1,0 +1,27 @@
+{
+  "id": "p-c-27-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there lived a young boy named Aditya. Aditya was a kind and curious boy who loved exploring the forests and playing by the riverbanks near his home.\n\nOne evening, as the sun began to set and the sky turned into shades of pink and orange, Aditya's mother called out to him, \"Aditya, it's time to come inside and get ready for bed.\"\n\nReluctantly, Aditya gathered his toys and made his way back home. As he lay in bed, his mother sat beside him and said, \"Aditya, do you want to hear a special bedtime story tonight?\"\n\nAditya's eyes lit up with excitement, and he nodded eagerly. His mother began to tell him a story about a magical forest filled with colorful flowers and majestic trees. In this forest, there lived a wise old owl named Bambang who watched over all the animals and creatures that called the forest their home.\n\nBambang would do nightly rounds, ensuring that everyone was safe and sound. He would hoot softly to lull the animals to sleep and guide lost travelers back to their path with his keen eyes and wisdom.\n\nAs Aditya listened, he could almost imagine the serene forest and the comforting presence of kind-hearted Bambang. The story filled his heart with warmth and a sense of peace, making him feel cozy and content in his bed.\n\nHis mother finished the story with a gentle smile and kissed him goodnight. Aditya drifted off to sleep, his dreams filled with visions of the magical forest and the wise old owl.\n\nAnd as the moon shone brightly in the night sky, Aditya slept soundly, feeling safe and loved in his home in Indonesia.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "content": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

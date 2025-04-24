@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-4-rp-2-gc-2",
+  "story": "Once upon a time, in a peaceful village nestled at the foot of a great mountain, there lived a kind and wise little girl named Maya. Maya's mother and father were loving and caring, and they taught her the ways of Buddhism from a young age. Maya learned about the importance of compassion, wisdom, and inner peace, and she strived to live her life in accordance with these teachings.\n\nOne day, as Maya was playing near the river that flowed through the village, she noticed a small bird with a broken wing. The bird was struggling to fly and was clearly in distress. Maya's heart went out to the bird, and she knew she had to help.\n\nShe carefully scooped up the bird in her hands and carried it back to her home. With the help of her mother, she made a small nest for the bird and fed it. Maya tended to the bird with love and care, and over time, the bird's wing healed.\n\nThe day finally came when the bird was strong enough to fly again. Maya took the bird outside and gently set it free. The bird circled above her, chirping and singing with joy. Maya smiled, knowing that she had made a difference in the life of this small creature.\n\nFrom that day on, Maya continued to live her life with kindness and compassion, always looking for ways to help those in need. She grew up to be a wise and respected woman, and her village flourished under her guidance.\n\nThe moral of the story is: even the smallest act of kindness can make a big difference in the world. By living with compassion and wisdom, we can bring peace and happiness to ourselves and others.\n\nNow, my dear daughter, it's time to close your eyes and drift off to sleep, filled with thoughts of love and kindness. May you have sweet dreams and may you wake up with a heart full of compassion, ready to bring peace and happiness to the world. Good night, my dear.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "loving": "emotional",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "87.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

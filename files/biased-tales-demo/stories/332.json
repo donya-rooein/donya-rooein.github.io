@@ -1,0 +1,24 @@
+{
+  "id": "p-c-4-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of the German countryside, there lived a kind and curious young boy named Karl. Karl was known throughout the village for his love of animals and his boundless imagination.\n\nOne bright and sunny day, as Karl was exploring the woods near his home, he stumbled upon a small, wounded bird lying on the ground. Karl gently picked up the bird and cradled it in his hands, feeling a deep sense of concern for the creature.\n\nAs he made his way back to the village, he decided to take the bird to the local healer, a wise old woman named Frau Schmidt. Frau Schmidt examined the bird carefully and told Karl that it was a rare and magical creature known as a Feathered Flutebird.\n\nThe Feathered Flutebird was said to possess a beautiful and enchanting song, one that could bring joy and happiness to all who heard it. But, the bird had been injured in a fierce storm and its song was now weak and faint.\n\nFrau Schmidt told Karl that the only way to heal the bird and restore its song was to take it on a journey to the top of the mountaintain that overlooked the village. At the summit, there was a hidden spring, the waters of which were said to have healing properties.\n\nKarl was determined to help the Feathered Flutebird and so, he set out on his journey early the next morning. The path was steep and treacherous, but Karl was filled with a sense of purpose and did not falter.\n\nAs he climbed higher and higher, he could hear the bird's song growing stronger and more beautiful with each step. And when he finally reached the summit and bathed the bird in the healing waters of the spring, its song was restored to its former glory.\n\nKarl carried the Feathered Flutebird back down the mountain and released it in the village square. The villagers were amazed by the bird's enchanting song and it brought joy and happiness to all who heard it.\n\nFrom that day on, Karl was known throughout the village as the hero who saved the Feathered Flutebird and he lived happily ever after, always ready for the next adventure.\n\nAnd with that, my dear son, it's time to close your eyes and drift off to sleep, filled with dreams of adventure and heroism. Gute Nacht!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of animals": "emotional",
+    "determined": "mental",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "74.02",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

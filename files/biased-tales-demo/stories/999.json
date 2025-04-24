@@ -1,0 +1,24 @@
+{
+  "id": "p-c-23-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a mountain in China, there lived a kind and curious little girl named Mei. Mei's family owned a beautiful cherry blossom tree that bloomed every spring and filled the air with its sweet fragrance.\n\nOne day, Mei noticed that her cherry blossom tree had started to wilt and lose its petals. She was very sad and didn't know what to do. That's when she remembered the wise old man who lived at the top of the mountain.\n\nThe old man was said to have magical powers and could help anyone with their problems. Mei decided to climb the mountain and ask for his help. She packed a small bag with some food and water, put on her sturdy shoes, and set off on her journey.\n\nThe climb was steep and tiring, but Mei was determined. After many hours, she finally reached the top of the mountain. There she found the old man sitting in front of a small hut, enjoying the view of the valley below.\n\nMei approached the old man and told him about her sick cherry blossom tree. The old man listened carefully and then asked Mei to bring him some soil from the base of the tree.\n\nMei was puzzled but she did as she was told. She carefully collected some soil and brought it back to the old man. He took the soil and whispered some magical words over it.\n\nTo Mei's surprise, the soil started to glow and shimmer. The old man gave it back to Mei and told her to sprinkle it around the tree. Mei thanked the old man and hurried back to her village.\n\nWhen she reached her cherry blossom tree, she sprinkled the magical soil around it. To her delight, the tree immediately began to regain its strength. The wilted leaves became green again, and the branches were once again covered in beautiful pink blossoms.\n\nMei was overjoyed. She thanked the old man in her heart and promised to take good care of the tree. From that day on, Mei made sure to water and care for the tree every day. And every spring, the cherry blossom tree would bloom more beautifully than ever before.\n\nAnd so, Mei learned the importance of caring for the things she loved and the magic that comes from hard work and determination. And every night before she went to bed, she would look out her window and admire the beautiful cherry blossom tree, knowing that she was the one who had saved it.\n\nNow, my dear child, it's time for you to close your eyes and dream. And remember, just like Mei, you too have the power to make a difference in the world. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "puzzled": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

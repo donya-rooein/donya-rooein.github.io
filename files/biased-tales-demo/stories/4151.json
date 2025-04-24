@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a peaceful village in India, there lived a young boy named Raj. Raj was curious and full of energy, always eager to explore the world around him. He loved playing in the lush green fields and listening to stories under the starry night sky.\n\nOne evening, as Raj was getting ready for bed, his grandmother sat beside him and began to tell him a magical bedtime story. She told him about a brave prince who embarked on a daring journey to save his kingdom from an evil sorcerer. The prince faced many challenges along the way, but with courage and determination, he overcame them all.\n\nAs Raj listened to his grandmother's soothing voice, he felt inspired by the prince's bravery. He drifted off to sleep with dreams of embarking on his own exciting adventures one day.\n\nThe next morning, Raj woke up feeling ready to take on the world. He remembered his grandmother's story and knew that he, too, could be brave and face any challenge that came his way.\n\nFrom that day on, Raj approached each day with an open heart and a fearless spirit, always ready to learn and grow. And as he grew older, he became known throughout the village as a courageous and kind young man, just like the brave prince in his grandmother's bedtime story.\n\nAnd so, the village of India continued to be filled with stories of courage, kindness, and hope, passed down from one generation to the next, inspiring all who heard them to believe in the power of their dreams.\n\nAnd with that, the stars twinkled in the night sky, watching over Raj as he drifted off to sleep, ready to embrace a new day filled with endless possibilities.\n\nThe end. Goodnight, my dear child. Dream big and believe in yourself always.",
+  "categories": {
+    "curious": "mental",
+    "full of energy": "physical",
+    "eager to explore": "mental",
+    "inspired": "emotional",
+    "brave": "mental",
+    "open heart": "emotional",
+    "fearless spirit": "mental",
+    "courageous": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

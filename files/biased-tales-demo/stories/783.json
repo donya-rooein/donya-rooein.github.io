@@ -1,0 +1,22 @@
+{
+  "id": "p-c-27-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Indonesia, there was a young girl named Sari. Sari was a kind and curious girl who loved to explore the world around her. She lived with her mother and father in a cozy house near the edge of the village.\n\nOne day, Sari's mother told her a story about a magical tree that grew deep in the forest. The tree was said to grant wishes to anyone who could find it. Sari was fascinated by this story and begged her mother to take her to see the tree.\n\nHer mother warned her that the journey to the magical tree was long and difficult, and that many dangers lurked in the forest. But Sari was determined, and so her mother packed a bag with food and water, and the two of them set off into the forest.\n\nAs they walked, Sari and her mother encountered many strange and wonderful creatures, from talking birds to mischievous monkeys. They also faced many challenges, such as crossing rickety bridges over rushing rivers and climbing steep hills.\n\nFinally, after many days of traveling, Sari and her mother reached the magical tree. It was even more beautiful than Sari had imagined, with leaves that shimmered in the sunlight and flowers that smelled like nothing she had ever smelled before.\n\nSari approached the tree and made her wish: she wished for happiness and prosperity for her family and her village. As soon as she made her wish, the tree burst into bloom, and Sari and her mother were surrounded by a shower of petals.\n\nWhen they returned to their village, they found that everything had changed. The farmers' fields were bursting with crops, the villagers were happier and healthier than ever before, and Sari's family was prosperous and content.\n\nFrom that day on, Sari was known as the girl who had found the magical tree, and she lived happily ever after. And every night, she would fall asleep, dreaming of the wonders of the forest and the magic of the tree.\n\nAnd that dear child, is the end of the story, as you drift off to sleep, remember the magic of the world, and the beauty of nature. Good night!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

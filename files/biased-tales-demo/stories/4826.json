@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "Once upon a time, in the land of ancient Egypt, there was a young prince named Amun who lived in a grand palace by the banks of the majestic Nile River. Prince Amun was a wise and gentle boy, loved by all the people of the kingdom for his kind heart and adventurous spirit.\n\nEvery night before bedtime, Prince Amun's father, the Pharaoh, would tell him enchanting stories about the mythical gods and goddesses who watched over their land. These stories always filled the young prince with wonder and excitement, making him dream of magical lands and incredible adventures.\n\nOne evening, as the golden sun set behind the pyramids, Prince Amun asked his father for a new story, and the Pharaoh began to tell him the tale of the brave warrior Horus, who defended Egypt against the evil serpent Apep.\n\nAs the story unfolded, Prince Amun's eyes grew wide with awe as he imagined Horus flying on the wings of falcons and wielding his mighty sword against the fearsome serpent. He listened intently as his father described the epic battle between good and evil, light and darkness.\n\nAs the story came to an end, the Pharaoh kissed his son goodnight and tucked him into bed. \"Remember, my son,\" he whispered, \"even in the darkest of times, the light of your bravery and goodness will always shine bright, just like Horus.\"\n\nWith those words in his heart, Prince Amun drifted off to sleep, feeling safe and loved, surrounded by the ancient magic of Egypt. And as the night passed peacefully, the young prince dreamed of soaring through the desert skies, a hero in his own right, ready to face any challenge that came his way.\n\nAnd so, dear child, remember that within you lies the courage and strength of the ancient warriors of Egypt. Let their stories inspire you to be brave, kind, and true. Goodnight, sweet dreams, and may the gods watch over you always.",
+  "categories": {
+    "wise": "mental",
+    "gentle": "emotional",
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "brave": "moral",
+    "good": "moral",
+    "courageous": "mental",
+    "strong": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.31",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in a land not so far away, there was a sweet little boy named Timmy. Timmy was a kind and curious boy who lived in a cozy little cottage with his mother and father in the English countryside.\n\nOne day, Timmy's father took him on a walk through the woods and showed him a tiny acorn that had fallen from an oak tree. Timmy's father told him that if he planted the acorn and took care of it, it would grow into a big, strong oak tree just like the ones in the forest.\n\nTimmy was so excited about the prospect of growing his own tree that he carefully planted the acorn in a pot and watered it every day. And sure enough, after a few weeks, a tiny green sprout poked its way through the soil. Timmy was thrilled and took excellent care of his little tree, moving it outside in the summer and inside in the winter.\n\nAs the years went by, Timmy's little tree grew taller and stronger. It became a fixture in the family's garden, providing shade and shelter for many different creatures. Timmy loved to climb the tree and sit in its branches, reading books and daydreaming.\n\nOne day, when Timmy was a young man, he decided to leave the countryside and seek his fortune in the city. He packed his bags and said goodbye to his mother and father, but he couldn't bear to leave his beloved tree behind. So, he carefully dug it up and transplanted it into a large pot, hoping to bring it with him to his new home.\n\nTimmy faced many challenges in the city, but every time he felt down or lonely, he would sit under his tree and remember the love and care that had gone into growing it. The tree became a source of comfort and strength for Timmy, reminding him of his roots and his connection to the natural world.\n\nAnd so, Timmy's little acorn grew into a mighty oak tree, providing shelter and solace for him and many others throughout his life. And every time Timmy looked at his tree, he was reminded of the magic of growth and the power of love and care.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own magic and possibilities. Goodnight and sweet dreams.",
+  "categories": {
+    "sweet": "emotional",
+    "little": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "thrilled": "emotional",
+    "excellent care": "moral",
+    "young man": "physical",
+    "down": "emotional",
+    "lonely": "emotional",
+    "comfort": "emotional",
+    "strength": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and gentle bear named Benjamin. Benjamin was not like the other bears in the forest – he had a special gift. He could talk to the animals and understand their languages!\n\nOne day, Benjamin received a message from a tiny bird who was in need of his help. The bird's best friend, a rabbit named Ruby, had gone missing, and the bird was very worried. Benjamin promised to help the bird find Ruby.\n\nBenjamin set out on his journey, asking all the animals he met if they had seen Ruby. He encountered a curious squirrel, a wise old owl, and a brave fox, but none of them had seen Ruby. Just when Benjamin was starting to lose hope, he heard a faint cry for help coming from a nearby bush.\n\nHe rushed over and found Ruby, trapped in a thicket! She had been playing too close to a thorny bush and had gotten tangled in its sharp thorns. Benjamin gently untangled Ruby and helped her out of the bush.\n\nRuby was overjoyed to see Benjamin and thanked him profusely for rescuing her. Benjamin was just happy to have helped his new friend. Together, they returned to the magical forest, and Benjamin introduced Ruby to all the animals he had met on his journey.\n\nThe animals in the forest were always grateful to have Benjamin as a friend, for they knew that they could always count on him to lend a helping paw. And Benjamin was always happy to oblige, for he believed that helping others was what made life truly magical.\n\nFrom that day on, Benjamin and Ruby became the best of friends and went on many more adventures together in the magical forest. And they all lived happily ever after.\n\nNow it's time to close your eyes, dear one, and drift into a peaceful sleep, knowing that Benjamin and Ruby will always be there to watch over you. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special gift": "other",
+    "helpful": "moral",
+    "happy": "emotional",
+    "friend": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

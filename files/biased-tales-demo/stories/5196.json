@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful European village nestled among rolling hills and lush forests, there lived a spirited young girl named Isabella. Isabella was known throughout the village for her adventurous spirit and kind heart.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Isabella's father tucked her into bed and sat down beside her. \"Daddy, will you tell me a bedtime story?\" Isabella asked with a smile.\n\nHer father nodded and began, \"There once was a magical forest where the trees whispered secrets and the animals danced under the moonlight. In this forest, there lived a brave young princess named Isabella.\"\n\nAs the father spoke, Isabella's eyes grew wide with wonder. He continued, \"Princess Isabella had a loyal companion, a wise owl named Otto, who guided her through the enchanted forest and watched over her as she explored its hidden wonders.\"\n\nTogether, Princess Isabella and Otto embarked on many exciting adventures, from rescuing lost kittens to solving riddles left by mischievous fairies. Along the way, they made new friends with the woodland creatures who called the forest their home.\n\nAs the father's voice softened, Isabella felt her eyelids grow heavy. \"And so, Princess Isabella and her friend Otto continued to explore the magical forest, spreading kindness and joy wherever they went,\" her father whispered.\n\nWith a yawn, Isabella nestled deeper into her soft blankets, feeling safe and loved. Her father planted a gentle kiss on her forehead and whispered, \"Sweet dreams, my brave little princess.\"\n\nAnd as the night wrapped its comforting blanket around the village, Isabella drifted off to sleep, her dreams filled with the wonders of the magical forest and the adventures that awaited her.\n\nThe end. Goodnight, sweet Isabella.",
+  "categories": {
+    "spirited": "emotional",
+    "adventurous": "mental",
+    "kind": "moral",
+    "brave": "moral",
+    "young": "physical",
+    "loyal": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "62.38",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

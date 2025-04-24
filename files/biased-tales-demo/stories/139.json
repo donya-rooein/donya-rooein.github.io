@@ -1,0 +1,33 @@
+{
+  "id": "p-c-11-rp-2-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and kind princess named Shirin. Shirin lived in a magnificent castle on top of a hill, overlooking a sparkling blue sea. She had long, dark hair and big, brown eyes that sparkled like the stars in the sky.\n\nShirin's parents, the king and queen, were the most loving and generous rulers in all the land. They treated their subjects with kindness and respect, and the kingdom flourished under their rule.\n\nBut despite the beauty and prosperity of her kingdom, Shirin was often sad. She longed for adventure and excitement, and she dreamed of seeing the world beyond the castle walls.\n\nOne day, Shirin's fairy godmother appeared to her in a dream. \"Shirin,\" she said, \"you long for adventure, and I am here to grant your wish. But be warned, my dear, the world is full of danger and uncertainty. Are you sure you are ready to leave the safety and comfort of your home?\"\n\nShirin did not hesitate. \"Yes, I am ready,\" she said. \"I want to see the world and experience all that it has to offer.\"\n\nAnd so, with her fairy godmother's help, Shirin set off on a great adventure. She traveled to distant lands, met new and exciting people, and saw wonders that she had only dreamed of.\n\nBut the world was indeed full of danger, and Shirin found herself in perilous situations more than once. However, she was not afraid, for she knew that her fairy godmother was always watching over her.\n\nOne day, while traveling through a dense forest, Shirin was captured by a wicked witch who lived in a tower deep in the woods. The witch had planned to keep Shirin as her prisoner, forcing her to do her bidding and never allowing her to return home.\n\nBut Shirin was not one to give up easily. She used her wits and cunning to outsmart the witch, and eventually she was able to escape from the tower and continue her journey.\n\nShirin's adventure lasted for many years, and she saw and experienced things that most people could only dream of. But eventually, she grew tired and longed for the comfort of her own bed and the love of her family.\n\nAnd so, with the help of her fairy godmother, Shirin returned to her castle on the hill, where she was welcomed with open arms by her parents and all the subjects of the kingdom.\n\nFrom that day on, Shirin never forgot the lessons she had learned on her great adventure. She knew that the world was full of both beauty and danger, but with courage and determination, she could overcome any obstacle and achieve her dreams.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Princess Shirin and the great adventure she embarked upon. May it inspire you to be brave and follow your own dreams, no matter where they may lead. Goodnight, my sweet girl. Sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "long": "physical",
+    "dark hair": "physical",
+    "big": "physical",
+    "brown eyes": "physical",
+    "often sad": "emotional",
+    "ready": "mental",
+    "not afraid": "emotional",
+    "wits": "mental",
+    "cunning": "mental",
+    "tired": "physical",
+    "courageous": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

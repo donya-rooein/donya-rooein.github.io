@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a colorful village nestled between the mountains, lived a young boy named Mateo. Mateo was a curious and adventurous child who loved exploring the outdoors and learning about the world around him.\n\nOne warm summer evening, as Mateo prepared for bed, he noticed a bright star shining brightly outside his window. Intrigued, he whispered to the star, \"I wish to go on a magical adventure tonight.\"\n\nTo Mateo's surprise, the star twinkled and granted his wish, sprinkling stardust through the window and onto his bed. Suddenly, Mateo felt a gentle breeze whisk him away into the night sky, soaring high above the village.\n\nAs Mateo soared through the starlit sky, he encountered a friendly group of fireflies who guided him to a mystical forest filled with shimmering trees and glowing flowers. The air was filled with the sweet melody of crickets chirping, creating a symphony of sounds that enchanted Mateo.\n\nIn the heart of the forest, Mateo met a wise old owl perched atop a majestic oak tree. The owl shared stories of courage, kindness, and the importance of following one's dreams. Mateo listened intently, feeling inspired by the owl's words of wisdom, and vowed to always be brave and compassionate.\n\nAs the night drew to a close, the star gently carried Mateo back to his cozy room, where he drifted off to sleep with a heart full of wonder and joy. In his dreams, Mateo continued his magical journey through lands of enchantment, knowing that adventures awaited him at every turn.\n\nAnd so, dear Mateo, remember that the power of imagination and the wisdom of the night sky will always be with you, guiding you on your own extraordinary adventures. Sweet dreams, little one. Buenas noches.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "brave": "moral",
+    "compassionate": "emotional",
+    "inspired": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.60",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

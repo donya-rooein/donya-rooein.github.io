@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there lived a young girl named Leyla. Leyla had deep brown eyes that sparkled like the stars in the night sky, and a smile that brightened up even the gloomiest of days.\n\nEvery night, Leyla's grandmother would tuck her into bed and tell her enchanting bedtime stories about mythical creatures that roamed the forests and mountains of Azerbaijan. Leyla would listen intently, imagining herself flying on the back of a majestic phoenix or swimming with magical mermaids in the Caspian Sea.\n\nOne evening, as Leyla drifted off to sleep, she was awoken by a gentle rustling sound coming from her window. Curious, she tiptoed over and peeked outside to see a shy little fairy perched on the ledge.\n\n\"Hello, young one,\" the fairy whispered, \"I am Zara, the guardian of dreams. I have come to take you on a magical journey tonight.\"\n\nExcited yet a little scared, Leyla climbed out of her window and onto the fairy's outstretched hand. With a flick of Zara's wand, they were whisked away through the starlit sky, soaring over the snow-capped mountains and lush valleys of Azerbaijan.\n\nThey flew past ancient fortresses and bustling bazaars, where merchants sold colorful rugs and sweet baklava. They danced with fire sprites in the flames of burning oil wells and swam with mermaids in the glittering waters of Lake Göygöl.\n\nAs the night wore on, Leyla felt her eyelids growing heavy. Zara gently carried her back to her bedroom and tucked her into bed, where she whispered, \"Remember, Leyla, the magic of Azerbaijan is always with you, in your dreams and in your heart.\"\n\nWith a contented sigh, Leyla drifted off to sleep, her dreams filled with visions of dragons and fairies, heroes and princesses, all living in the enchanting land of Azerbaijan.\n\nAnd so, dear parent, as you watch over your precious daughter while she sleeps, remember that the magic of bedtime stories and fairy tales will always be a source of joy and wonder for her. Good night, and sweet dreams to you both.",
+  "categories": {
+    "young": "physical",
+    "deep brown eyes": "physical",
+    "curious": "mental",
+    "excited": "emotional",
+    "a little scared": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.05",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

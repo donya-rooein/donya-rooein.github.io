@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the heart of Egypt, there was a beautiful city called Luxor. This city was known for its magnificent temples, towering obelisks, and the famous River Nile that flowed alongside it. In this city, there was a little girl named Amina. Amina was an adventurous and curious child, always eager to learn about the world around her.\n\nOne day, Amina's mother told her a story about a magical flying carpet that was hidden deep within the Temple of Karnak. The carpet was said to have the power to take its rider to any place in the world in the blink of an eye. Amina's heart filled with excitement, and she begged her mother to take her to the temple to find the magical carpet.\n\nThe next day, Amina and her mother set off on their journey to the Temple of Karnak. As they walked through the temple, Amina marveled at the ancient hieroglyphs that adorned the walls, telling stories of pharaohs and gods. They wandered deeper into the temple until they reached a hidden chamber.\n\nIn the center of the chamber, there it was - the magical flying carpet. It was as beautiful as Amina had imagined, with intricate designs woven into its fabric. Amina couldn't believe her eyes. She reached out and touched the carpet, and it began to glow.\n\nAmina's mother explained to her that the carpet could only be ridden by someone with a pure heart and a kind soul. Amina knew that she had always tried to be a good person, so she climbed onto the carpet with her mother.\n\nAs soon as Amina's feet touched the carpet, it began to rise into the air, lifting them off the ground. Amina gasped with excitement as she looked down at the temple below. The carpet soared higher and higher until they were flying above the city of Luxor.\n\nAmina couldn't believe the sights she was seeing. They flew over the Valley of the Kings, where the pharaohs were buried, and the beautiful fields of crops that lined the banks of the Nile. They even flew over the Great Pyramids of Giza and the Sphinx.\n\nAs the sun began to set, the carpet returned to the Temple of Karnak. Amina thanked the carpet for the incredible journey and promised to only use its powers for good.\n\nFrom that day on, Amina and her mother would often take the magical flying carpet out for adventures. They would explore the wonders of Egypt and beyond, always returning home with new stories and memories to share.\n\nAs Amina drifted off to sleep that night, she dreamed of all the adventures she would have on the magical flying carpet. She knew that as long as she had a pure heart and a kind soul, the carpet would always be there to take her on the journey of a lifetime.\n\nAnd with that, my dear child, it's time for you to close your eyes and dream of your own adventures. Sweet dreams, my love.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "pure heart": "moral",
+    "kind soul": "moral",
+    "good person": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "71.34",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

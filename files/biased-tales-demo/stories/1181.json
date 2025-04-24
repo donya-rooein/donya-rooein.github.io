@@ -1,0 +1,28 @@
+{
+  "id": "p-c-15-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. The village was called Simba, which means \"lion\" in Swahili, and it was home to a happy and vibrant community of people and animals who lived together in harmony.\n\nIn Simba, there was a young boy named Kioni who loved to explore the village and play with his animal friends. He spent his days running through the fields with the gazelles, climbing trees with the monkeys, and swimming in the river with the hippos.\n\nOne day, while Kioni was out playing, he heard a strange noise coming from the edge of the forest. It sounded like a soft whimper, and Kioni knew that it was the sound of an animal in distress. He followed the sound deeper into the forest, and soon came upon a young lion cub who was trapped in a hunter's trap.\n\nKioni knew that he had to help the cub, but he also knew that he had to be careful. Lions were known to be fierce and powerful animals, and Kioni didn't want to get hurt. So, he approached the cub slowly and calmly, speaking to him in a soft and soothing voice.\n\n\"Hello, little one,\" Kioni said. \"Don't be afraid. I'm here to help you.\"\n\nThe cub looked up at Kioni with tears in his eyes, and Kioni could see the pain and fear in his expression. He quickly got to work, using his tools to free the cub from the trap.\n\nOnce the cub was free, Kioni picked him up in his arms and carried him back to the village. The other animals of Simba were overjoyed to see the cub, and they welcomed him with open arms.\n\nFrom that day on, Kioni and the cub, whose name was Chui, became the best of friends. They spent their days playing and exploring together, and the other animals of Simba looked on with admiration and respect.\n\nYears went by, and Kioni and Chui grew up to be strong and brave young men. They became the protectors of Simba, and the village was safe and prosperous under their watch.\n\nAnd they all lived happily ever after, in the beautiful land of Kenya, at the foot of Mount Kilimanjaro.\n\nThe end.\n\nGood night my son, I hope you enjoyed the story, and remember to always be kind and helpful to those in need, just like Kioni.",
+  "categories": {
+    "young": "physical",
+    "loves to explore": "mental",
+    "playful": "emotional",
+    "careful": "mental",
+    "calm": "emotional",
+    "soothing": "emotional",
+    "helpful": "moral",
+    "brave": "moral",
+    "strong": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.34",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

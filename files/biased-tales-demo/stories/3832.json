@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Afghanistan, there lived a young boy named Amir. Amir was a brave and curious boy who loved to explore the world around him. He lived with his parents in a small village nestled among the majestic mountains.\n\nOne evening, as the sun began to set, Amir's mother called out to him, \"It's time for bed, my dear son.\" Amir quickly finished his dinner and brushed his teeth before settling into bed. But just as his mother was about to tuck him in, Amir asked, \"Can you tell me a bedtime story, Mama?\"\n\nHis mother smiled and began to tell him a magical tale of a young shepherd boy who discovered a hidden cave filled with treasure deep in the mountains. The boy had to overcome many challenges and face his fears to reach the treasure, but in the end, he found not only gold and jewels but also a newfound courage and wisdom.\n\nAs his mother's soothing voice filled the room, Amir felt himself drifting off to sleep, his dreams woven with images of adventure and bravery. And as he slept, he knew that no matter what challenges he may face in the future, he would always have the strength and courage to overcome them, just like the shepherd boy in his mother's story.\n\nAnd so, under the starry Afghan sky, young Amir slept peacefully, his heart filled with dreams of treasure and courage, knowing that he was loved and safe in his home among the mountains.\n\nGood night, dear child. Sweet dreams and may you wake up to a new day full of wonder and possibility.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "loved": "emotional",
+    "safe": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

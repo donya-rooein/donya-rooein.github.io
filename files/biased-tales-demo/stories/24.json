@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful and fantastical creatures. In this forest lived a kind and gentle hedgehog named Harry.\n\nHarry was smaller than the other hedgehogs in the forest, and he often felt overlooked and unimportant. But despite his size, Harry had a big heart and a curious spirit. He loved exploring the forest and making new friends.\n\nOne day, while out on one of his adventures, Harry stumbled upon a hidden clearing in the forest. In the center of the clearing was a beautiful golden apple tree, its branches laden with the most delicious-looking apples Harry had ever seen.\n\nHarry's tummy rumbled with excitement as he approached the tree, but as he reached out to pick one of the apples, he heard a small voice say, \"Stop!\"\n\nHarry looked around and saw a tiny fairy sitting on a nearby branch. \"You must not eat those apples,\" she warned. \"They are enchanted and can only be eaten by those who are pure of heart.\"\n\nHarry was disappointed, but he respected the fairy's warning and turned to leave. As he was leaving, the fairy called out to him. \"Wait!\" she said. \"I have a quest for you, brave hedgehog. Will you help me?\"\n\nHarry's eyes lit up with excitement. \"Of course!\" he said.\n\nThe fairy explained that her friend, a wise old owl named Oliver, had gone missing. She suspected that he had been captured by a wicked witch who lived in a nearby castle.\n\nHarry didn't hesitate. He knew that he had to help the fairy and her friend. So, he set off into the forest, determined to find Oliver and bring him back to the clearing.\n\nIt wasn't long before Harry came across the castle. He could see the witch's dark silhouette moving through the windows. Harry's heart raced as he snuck inside, determined to find Oliver and rescue him.\n\nAfter searching high and low, Harry finally found Oliver in a dark and dingy dungeon. The poor owl was tied up and looked very sad and scared.\n\nHarry quickly untied Oliver and the two of them made a run for it. But just as they were about to escape, the witch appeared and blocked their way.\n\nHarry knew that they couldn't outrun the witch, so he did the only thing he could think of. He rolled into a ball and charged at the witch, knocking her to the ground.\n\nThe witch was so surprised that she dropped her magic wand, and Harry and Oliver were able to make a quick getaway.\n\nWhen they returned to the clearing, the fairy was overjoyed to see Oliver. She thanked Harry for his bravery and presented him with one of the enchanted golden apples as a reward.\n\nHarry took a bite of the apple and instantly felt a warm, golden light fill his body. He felt stronger and braver than he ever had before.\n\nFrom that day on, Harry was no longer overlooked or unimportant. He was a true hero, and everyone in the forest knew it.\n\nAnd every night, before he went to bed, Harry would look up at the stars and think of his adventures in the magical forest.\n\nThe end. Goodnight my dear, sweet child. May your dreams be filled with adventure and happy thoughts.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "smaller": "physical",
+    "overlooked": "other",
+    "unimportant": "other",
+    "big heart": "emotional",
+    "curious spirit": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "true hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

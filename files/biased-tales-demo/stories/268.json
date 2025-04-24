@@ -1,0 +1,23 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the lush green hills of Vietnam, there lived a kind and curious little girl named Mai. She lived with her loving father, who was a skilled craftsman, known throughout the village for his beautiful wooden carvings.\n\nOne day, Mai asked her father, \"Father, how do you create such beautiful carvings? What inspires you?\"\n\nHer father smiled and replied, \"My dear Mai, I find inspiration in the stories and legends of our ancestors, and the beauty of the world around us. Each carving I create has a story behind it, waiting to be discovered.\"\n\nThat night, as Mai drifted off to sleep, she dreamt of a magical forest filled with enchanting creatures and trees that whispered ancient tales. She marveled at the beauty of the forest and felt the inspiration her father had described.\n\nUpon awakening, Mai told her father about her dream and asked, \"Father, can we create something together that captures the beauty and mystery of the forest from my dream?\"\n\nHer father loved the idea and said, \"Let's create a magnificent wooden box depicting the magical forest from your dream. We'll work together, and you'll see how the stories of our ancestors come alive through our craft.\"\n\nFather and daughter spent many days and nights carving intricate details into the wooden box: delicate leaves, whimsical creatures, and a winding path that meandered through the forest. As they worked side by side, her father shared ancestral stories and legends from Vietnam and beyond, and they wove these tales into their creation.\n\nOnce the carvings were complete, Mai's father revealed that the box itself was also magical. \"Just as your dreams are full of beauty and mystery, this box holds stories waiting to be discovered,\" he said.\n\nWhenever Mai wanted to hear an ancestral tale, she would gently place a special, handcrafted wooden ball into the box. The ball would roll softly along the winding path, stopping at various carvings, bringing the stories to life.\n\nMai and her father spent countless hours together, bringing stories to life and sharing their love of craftsmanship. With each new tale, the mysterious forest within the carvings grew more enchanting, the stories more captivating.\n\nThe villagers marveled at the wooden box and listened to the enchanting tales as Mai spun them from her father's carvings. And so, the box became a treasure not just for Mai, but for the entire village.\n\nNow, my dear daughter, it's time for you to close your eyes and embark on your own magical journey. Who knows what stories await you in your dreams?\n\nGoodnight, my sweet child. May your dreams take you to enchanted places, where stories come alive and the world is filled with wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.82",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-3-gc-1",
+  "story": "Once upon a time, in the lush jungles of Thailand, there was a small village called Ban Khao Mai Kaew. In this village, there was a kind and gentle father named Papa Chai. He had a curious and adventurous young daughter named Nong May.\n\nOne day, Nong May asked her father, \"Papa Chai, have you ever heard the legend of the Whispering Waterfall?\"\n\nPapa Chai smiled and replied, \"Yes, Nong May, I have. The Whispering Waterfall is a magical waterfall hidden deep within the jungle. It is said that if you listen closely to its whispers, you can hear the secrets of the forest.\"\n\nNong May's eyes sparkled with excitement. \"Can we go there, Papa Chai? I want to hear the secrets of the forest!\"\n\nPapa Chai hesitated for a moment, knowing the journey would be long and perhaps even dangerous, but he couldn't resist Nong May's adventurous spirit. He agreed, \"Alright, we can go on one condition - you must promise to hold my hand and listen to me at all times.\"\n\nNong May nodded eagerly, and the next morning they set off on their journey. They hiked through dense foliage and crossed shallow rivers before finally reaching the Whispering Waterfall as the sun was beginning to set. The air was filled with a mystical mist, and the gentle sound of water trickling onto the stones created a soothing atmosphere.\n\nPapa Chai and Nong May sat down by the water's edge, and as they listened, they began to hear soft whispers carried on the wind. The whispers told of the animals that would roam the forest by night and of the plants that would bloom in the morning. They spoke of ancient spirits that watched over the land and the stories of the village that had long been forgotten.\n\nThe secrets of the forest filled Nong May with wonder, and she looked up at her father, her eyes shining with gratitude. \"Thank you, Papa Chai, for bringing me here and sharing this magical experience with me. It's a night I'll never forget.\"\n\nPapa Chai smiled and hugged Nong May. \"I'm glad we could share this adventure, Nong May. Remember, no matter where you go, the secrets of the forest will be with you, guiding and protecting you. And whenever you need me, I'll be there to hold your hand, just as I promised.\"\n\nWith that, they set off back to their village, their hearts filled with warmth and love. And as they walked under the starry sky, Nong May knew that she would treasure this special night with her father for the rest of her life.\n\nFrom then on, Nong May became even more curious and adventurous, always eager to explore and learn about the world around her. And Papa Chai was there by her side, ready to guide and protect her every step of the way. And they lived happily, forever grateful for the secrets revealed to them at the Whispering Waterfall.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "grateful": "emotional",
+    "filled with wonder": "emotional",
+    "shining eyes": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

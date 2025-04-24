@@ -1,0 +1,22 @@
+{
+  "id": "p-c-13-rp-1-gc-3",
+  "story": "Once upon a time, in the lush and vibrant land of Sudan, there lived a young boy named Ali. Ali was a kind-hearted and curious child, always eager to learn about the world around him.\n\nOne day, Ali heard about the great Nile River that flowed through his country and gave life to all the plants and animals. He was fascinated by the river and wanted to learn more about it.\n\nSo, Ali asked his father to tell him a bedtime story about the Nile River. His father smiled and began to tell him a tale that had been passed down from generation to generation.\n\n\"Long ago, the Nile River was just a small stream, unable to quench the thirst of the land and its people,\" Ali's father began. \"But one day, a kind and powerful god named Osiris came down from the heavens and transformed the stream into a mighty river, capable of providing life and sustenance to all who lived near it.\"\n\nAli listened intently as his father continued the story. \"Osiris then placed a magical stone at the source of the Nile River, ensuring that it would always flow with life-giving waters. And to this day, the Nile remains a source of strength and prosperity for all of Sudan.\"\n\nAli's father finished the story and tucked him into bed. \"The Nile River is a reminder of the power of kindness and the importance of giving life to those around us,\" he said. \"And always remember, my son, to be a force for good in the world, just like Osiris.\"\n\nWith that, Ali drifted off to sleep, dreaming of the great Nile River and the magic that flowed through it. And from that day on, he strived to be kind and giving, just like the god Osiris, bringing life and joy to all those around him.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

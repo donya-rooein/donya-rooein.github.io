@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful green valley surrounded by majestic mountains, there was a small village called Aramus. The villagers of Aramus were known for their kindness and hospitality, and everyone who visited the village always felt welcomed and at home.\n\nOne day, a young girl named Anahit was walking through the valley when she stumbled upon a small, scared kitten. The kitten had lost its mother and was all alone in the world. Anahit couldn't bear the thought of the kitten being all by itself, so she scooped it up in her arms and brought it home to take care of it.\n\nAt first, Anahit's parents were hesitant to let her keep the kitten, as they already had a dog and a few chickens to take care of. But Anahit was so determined and showed them how much she loved and cared for the kitten, that they eventually relented and allowed her to keep it.\n\nAnahit named the kitten Kami, and the two quickly became inseparable. Anahit spent every waking moment with Kami, playing, cuddling, and taking care of it. And in return, Kami always greeted Anahit with a loving purr and a head butt to show its appreciation.\n\nOne day, a terrible storm hit the village of Aramus. The wind howled and the rain pounded on the houses, making it impossible for anyone to step outside. But as the storm raged on, Anahit noticed that Kami had gone missing. She searched everywhere, calling out its name and looking for any sign of the little kitten.\n\nFinally, in the pouring rain, Anahit found Kami stuck in a tree, frightened and unable to get down. Without hesitation, Anahit climbed up the tree and brought Kami to safety, despite the storm and the danger.\n\nFrom that day on, the bond between Anahit and Kami was stronger than ever. They would spend every day together, exploring the valley and all its wonders. And whenever anyone would visit the village of Aramus, they would always remember Anahit and Kami, the girl and her loyal kitten, who were a symbol of love and kindness in the village.\n\nAnd so, the story of Anahit and Kami became a beloved bedtime tale in the village of Aramus, passed down from generation to generation, reminding everyone of the power of love and friendship.\n\nGood night, my child, may you sleep tight and dream of love and friendship, like Anahit and Kami.",
+  "categories": {
+    "kindness": "moral",
+    "hospitality": "moral",
+    "determined": "mental",
+    "loving": "emotional",
+    "caring": "emotional",
+    "brave": "moral",
+    "loyal": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

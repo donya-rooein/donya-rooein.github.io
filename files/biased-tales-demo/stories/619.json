@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-3-gc-2",
+  "story": "Once upon a time, in a lush and vibrant village nestled in the heart of Brazil, there lived a kind and curious little girl named Isabela. Isabela was known throughout the village for her boundless imagination and her love of animals. She would spend hours playing in the forest, making friends with all the creatures she met along the way.\n\nOne day, while exploring a particularly dense and magical part of the forest, Isabela stumbled upon a tiny, sparkling door hidden amongst the roots of an ancient tree. Intrigued, she carefully pushed the door open and stepped inside.\n\nTo her amazement, Isabela found herself in a magnificent garden, filled with the most beautiful and exotic flowers she had ever seen. As she wandered through the garden, she noticed that each flower was home to a tiny, fairy-like creature. They flitted about, their wings leaving trails of stardust in the air.\n\nIsabela approached one of the creatures, who introduced herself as Luzia. Luzia explained that she and her friends were the guardians of the Enchanted Forest, and that they were responsible for keeping it safe and ensuring that all the plants and animals were well cared for.\n\nOverjoyed to have made new friends, Isabela spent the rest of the day learning all about the Enchanted Forest and the magical creatures that lived there. She helped Luzia and her friends tend to the plants and care for the animals, and in return, they shared their secrets and stories with her.\n\nAs the sun began to set, Luzia told Isabela that it was time for her to return home. Isabela hugged her new friends goodbye, promising to visit them again soon.\n\nAnd so, Isabela returned to her village, her heart full of wonder and joy. From that day on, she made regular visits to the Enchanted Forest, always leaving with new stories and memories to treasure.\n\nAnd as she drifted off to sleep each night, Isabela would smile, knowing that somewhere in the forest, her magical friends were keeping a special place for her, where she could always return to and be reminded of the magic and beauty of the world around her.\n\nGoodnight, my dear daughter. May your dreams be filled with magic, wonder, and love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "imaginative": "mental",
+    "loves animals": "emotional",
+    "friendly": "emotional",
+    "helpful": "moral",
+    "joyful": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.40",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

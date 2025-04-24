@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-2-gc-1",
+  "story": "Once upon a time in a magical forest, there lived a curious young squirrel named Hazel. Hazel had fluffy gray fur and bright, inquisitive eyes that sparkled with wonder.\n\nEvery night before bed, Hazel would scamper through the forest, seeking out new adventures and discoveries. Along the way, she would meet all sorts of woodland creatures, from wise old owls to playful foxes.\n\nOne evening, as the sun began to set and the forest grew quiet, Hazel spotted a shimmering trail of stardust leading deep into the heart of the forest. Intrigued, she followed the trail, her tiny paws making no sound as she moved gracefully through the trees.\n\nThe stardust led Hazel to a clearing where a magnificent oak tree stood, its branches reaching up toward the twinkling night sky. Nestled within the branches was a cozy nest made of soft moss and twigs.\n\nAs Hazel approached the nest, she saw a family of tiny fireflies flitting about, casting a soft, warm glow around the oak tree. They welcomed Hazel with open arms, inviting her to join them for a bedtime story.\n\nThe fireflies told Hazel tales of distant lands and magical creatures, of heroes and heroines who braved great challenges and triumphed in the face of adversity. Hazel listened with rapt attention, her eyes wide with wonder and awe.\n\nAs the night deepened and the stars painted the sky with their brilliant light, Hazel felt a sense of peace wash over her. She knew that she was exactly where she was meant to be, surrounded by friends who cared for her and a world full of endless possibilities.\n\nAnd so, nestled among the fireflies in the gentle embrace of the oak tree, Hazel closed her eyes and drifted off to sleep, her dreams filled with the magic and wonder of the enchanted forest.\n\nThe end. Goodnight, sweet child. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "fluffy gray fur": "physical",
+    "bright": "mental",
+    "inquisitive eyes": "physical",
+    "tiny paws": "physical",
+    "graceful": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.47",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

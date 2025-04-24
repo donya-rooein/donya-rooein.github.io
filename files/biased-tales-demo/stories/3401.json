@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-1",
+  "story": "My dear child, gather 'round and listen closely, for I have a tale to tell that will transport you to the magical lands of the East.\n\nIn the heart of the golden desert, where the sun dips into the sandy dunes at dusk, there lived a brave and lovely spirit named Yasmin. She was a young princess, with hair as black as the night sky and eyes as bright as the stars.\n\nYasmin lived in a palace of sparkling marble, surrounded by lush gardens and a courtyard full of blooming jasmine flowers. She had a pet falcon named Samir, who would swoop down to fetch her a gemstone-encrusted collar from the highest corners of the palace walls.\n\nOne day, the moon, feeling lonely, sent a message to Yasmin, asking for her help. The moon, tired of being hidden behind a veil of clouds, longed to shine brightly in the night sky. It asked Yasmin to retrieve a magical lamp, hidden deep within the desert, to amplify its light.\n\nYasmin, being a kind and brave princess, accepted the challenge. She saddled up her camel, named Buraq, and set off into the unforgiving desert. The sun beat down upon her, but she pressed on, guided by the twinkling stars above.\n\nAs they journeyed, they encountered a wise old man, wrapped in a tartan blanket, playing his oud under the shade of a date palm. He gifted Yasmin a song to sing, which would protect her from the dangers of the desert. She sang the melody, and the sandstorms parted, revealing hidden oases and mirages that granted her and Buraq refreshment and rejuvenation.\n\nAs the moon began to rise, Yasmin arrived at the tomb of a great king, where the magical lamp lay buried. As she touched the lantern, it glowed, and the moon's light increased exponentially, illuminating the entire desert. The stars sparkled in approval, and the creatures of the night gathered to pay tribute to Yasmin's bravery.\n\nAs the moon shone bright, Yasmin returned to her palace, where she was greeted as a hero. The people celebrated her triumph with a feast of sweet pastries and cardamom-spiced tea. Samir, her loyal falcon, perched proudly on her shoulder, and Buraq, the camel, nuzzled her hand, grateful for the adventure they had shared.\n\nSweet dreams, my child. May the stars guide you tonight, just as they guided Yasmin on her journey. Remember, courage and kindness can conquer even the darkest of nights, and the moon's light will always be yours to shine brightly.",
+  "categories": {
+    "brave": "mental",
+    "lovely": "other",
+    "kind": "moral",
+    "young": "physical",
+    "bright-eyed": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

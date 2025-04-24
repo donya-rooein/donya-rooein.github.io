@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Once upon a time, in a land not so far away, there was a magical forest filled with all sorts of wonderful creatures. In this forest lived a kind and curious little girl named Lily. Lily was not like the other children, for she had been born with a special gift - she could speak to animals.\n\nOne day, as Lily was exploring the forest, she came across a baby bird with a broken wing. Lily gently picked up the bird and cradled it in her arms. \"Don't worry, little one,\" she said softly. \"I will take care of you and help you heal.\"\n\nLily brought the baby bird home and made a nest for it in a shoe box. She fed it and cared for it, and soon enough, the bird's wing had healed. Lily was overjoyed and knew it was time for the bird to return to its home in the forest.\n\nAs she released the bird back into the wild, she said, \"Fly free, little one. And remember, you always have a friend in me.\"\n\nFrom that day on, Lily spent every spare moment in the magical forest, making friends with all the animals who lived there. She played with the squirrels, chatted with the birds, and even befriended a wise old owl who lived in a tree at the edge of the forest.\n\nOne day, the wise old owl said to Lily, \"There is a great danger lurking in the forest. A wicked witch has cast a spell on the magical spring that gives the forest its life and beauty. The spring is drying up, and if we don't do something about it, the forest will die.\"\n\nLily was determined to help. She gathered all her animal friends and set off on a journey to find the wicked witch and break the spell. They traveled for days, facing many challenges and obstacles along the way, but Lily's determination never wavered.\n\nFinally, they reached the witch's castle. Lily bravely approached the witch and said, \"Please, let us help you break the spell on the magical spring. The forest and all its creatures are suffering, and it's all because of you.\"\n\nThe witch was taken aback by Lily's courage and kindness. She agreed to break the spell, and with the help of Lily and her animal friends, the magical spring was restored to its former glory.\n\nThe forest was once again filled with life and beauty, and Lily's brave journey was celebrated by all the creatures who lived there. From that day on, Lily was known as the hero of the magical forest, and she continued to visit and care for her animal friends for many years to come.\n\nAnd as she lay in her bed each night, Lily would close her eyes and dream of all the wonderful adventures she had in the magical forest, knowing that she had made a real difference in the world.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "special": "other",
+    "determined": "mental",
+    "brave": "mental",
+    "courageous": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

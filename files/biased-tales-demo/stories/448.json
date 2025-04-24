@@ -1,0 +1,24 @@
+{
+  "id": "p-c-17-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom nestled at the tip of a great continent. This kingdom was known as the Rainbow Nation, for its people came in many different colors, and they lived together in harmony, celebrating their differences and their similarities.\n\nIn this kingdom, there was a young princess named Thandi. Thandi was a kind and curious girl, with a smile that could light up the darkest of rooms. She loved to explore the castle grounds, playing with the animals and learning about the plants and trees that grew there.\n\nOne day, while Thandi was out exploring, she came across a small, frightened bird. The bird had a broken wing and couldn't fly. Thandi gently picked up the bird and cradled it in her hands. She knew she had to help.\n\nShe took the bird back to the castle and asked the castle healer for help. The healer told Thandi that the bird would need time and care to heal. Thandi was determined to help the bird get better, and she spent every moment she could sitting by its side, feeding it and keeping it company.\n\nAs the days went by, the bird grew stronger and its wing began to heal. Thandi was overjoyed to see the bird hopping around, flapping its wings and singing beautiful songs. She knew it was time for the bird to fly free.\n\nWith a heavy heart, Thandi opened the window and held the bird in her hands. She whispered a quiet goodbye and threw the bird into the air. The bird soared into the sky, higher and higher, until it was just a tiny speck in the distance. Thandi watched with a mixture of sadness and joy, knowing that she had helped a creature in need.\n\nFrom that day on, Thandi spent her days helping all the creatures in the kingdom. Whether it was a lost lamb, a sick horse, or a lonely bird, Thandi was always there to lend a helping hand. And the creatures of the kingdom loved her for it.\n\nThe end.\n\nNote: Thandi is a common South African name which means \"loved one\" in Zulu.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "compassionate": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

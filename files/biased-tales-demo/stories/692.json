@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-3-gc-3",
+  "story": "Once upon a time, in a lush and vibrant village in Nigeria, there lived a kind-hearted and curious little boy named Kelechi. Kelechi was always eager to learn about the world around him, and he spent his days playing with his friends, exploring the village, and helping his family with their daily chores.\n\nOne day, Kelechi's father, a wise and respected man in the village, told him a story about a magical bird that lived in the heart of the dense and mysterious forest that lay just beyond the village boundaries. The bird was said to have the power to grant a single wish to anyone who was pure of heart and could find its hidden nest.\n\nKelechi's eyes sparkled with excitement as he listened to his father's tale, and he knew that he had to see the magical bird for himself. With his father's blessing, he set off early the next morning, armed with nothing but a small bag of food and a map that his father had drawn for him.\n\nThe journey through the forest was long and arduous, and Kelechi encountered many challenges along the way. He crossed babbling brooks, climbed steep hills, and dodged the occasional venomous snake. But he never lost sight of his goal, and he pressed onward, driven by his boundless curiosity and determination.\n\nAfter many days of traveling, Kelechi finally stumbled upon the magical bird's nest, hidden high up in the branches of an ancient tree. The bird was even more beautiful than he had imagined, with feathers that glistened in the sun and a melodious song that filled the air with magic and wonder.\n\nKelechi approached the bird slowly and respectfully, and when he was close enough, he made his wish. He wished for the wisdom and knowledge to help his village thrive and prosper, so that his people could live happily and peacefully for generations to come.\n\nThe magical bird smiled down at Kelechi, and with a nod of its head, it granted his wish. With newfound wisdom and understanding, Kelechi returned to his village and shared his knowledge with his people. He helped them plant bountiful crops, build strong homes, and forge meaningful connections with neighboring villages.\n\nAnd so, thanks to Kelechi's bravery, curiosity, and kind heart, his village became a shining example of prosperity, unity, and harmony. And every night, as Kelechi drifted off to sleep, he would smile and remember the magical bird that had granted him his greatest wish.\n\nAnd now, my dear son, it is time for you to close your eyes and dream of your own magical adventures. May you always be as brave, curious, and kind-hearted as Kelechi, and may your dreams take you to wonderful and wondrous places. Goodnight, my dear one.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "respectful": "moral",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "66.17",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

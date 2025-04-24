@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-5-rp-2-gc-3",
+  "story": "Once upon a time in a faraway land, there lived a young boy named Jacob. Jacob was a kind and brave boy who lived with his family in a small village surrounded by lush green forests and rolling hills.\n\nEvery night before bed, Jacob's mother would tell him stories of their ancestors, the great Jewish people, and the values they held dear. She would tell him about the importance of helping others, being honest, and showing compassion to those in need.\n\nOne night, as Jacob was getting ready for bed, he noticed a small injured bird sitting outside his window. Without hesitation, Jacob gently picked up the bird and brought it inside to care for it. He nursed the bird back to health, feeding it and keeping it warm until it was strong enough to fly away.\n\nAs Jacob drifted off to sleep that night, he smiled knowing that he had helped a creature in need, just like his ancestors would have done.\n\nAnd so, as Jacob slept peacefully, he dreamed of a world where kindness and compassion were always rewarded, and where the teachings of his Jewish heritage guided him on his path through life.\n\nThe end. Goodnight, Jacob. Sleep well and dream sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "compassionate": "emotional",
+    "helpful": "moral",
+    "honest": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

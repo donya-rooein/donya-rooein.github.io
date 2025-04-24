@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a beautiful little girl named Ada. Ada was known throughout the village for her kind heart and her love of learning. She spent hours each day reading and asking questions, soaking up all the knowledge she could.\n\nOne day, Ada’s father, a wise and respected elder in the village, told her a story about a magical bird that lived in the forest. The bird, he said, had the power to grant wishes to those who were pure of heart and true of spirit.\n\nAda was fascinated by the story and begged her father to take her to see the magical bird. At first, he hesitated, knowing that the journey through the forest would be long and treacherous. But Ada was insistent, and so her father relented, knowing that she would not rest until she had seen the bird for herself.\n\nTogether, they set out on the journey, making their way deep into the heart of the forest. They climbed steep hills and crossed babbling streams, all the while keeping their eyes peeled for any sign of the magical bird.\n\nAt last, they came to a clearing, and there, perched on a branch, was the most beautiful bird Ada had ever seen. It had feathers of every color imaginable, and its eyes seemed to sparkle with wisdom and magic.\n\nAda’s father reminded her of the rules: she could only make one wish, and it had to be for something that would bring joy and happiness to others, not just herself.\n\nAda thought long and hard, and finally, she made her wish. She wished for the magical bird to spread its wings and fly over the village, scattering its colorful feathers like rainbow-colored snowflakes. She wished for the feathers to bring happiness and good fortune to all who found them.\n\nThe magical bird spread its wings and took to the sky, scattering its feathers over the village as Ada and her father watched in wonder. And as the feathers drifted down, the villagers looked up in amazement, their faces lighting up with joy and gratitude.\n\nAda and her father returned to their home, their hearts full of happiness and their minds full of wonder. And from that day on, Ada was known throughout the village as the girl who had brought a little bit of magic and joy to their lives.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I hope you remember the story of Ada and the magical bird. May you always have a kind heart and a curious mind, and may you always use your gifts to bring happiness and joy to others. Goodnight, sweet girl.",
+  "categories": {
+    "beautiful": "physical",
+    "kind heart": "moral",
+    "love of learning": "mental",
+    "fascinated": "emotional",
+    "insistent": "mental",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

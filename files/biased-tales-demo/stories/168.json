@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful and fertile land of Mali, there was a small village on the banks of the great Niger River. The villagers were hardworking and kind, and they lived in harmony with the land and the many animals that shared their home.\n\nOne day, a young boy named Moussa asked his father, \"Father, why do the birds sing such beautiful songs in the morning?\"\n\nHis father smiled and replied, \"Moussa, long ago, the birds of the world were silent. They had no voices with which to sing.\"\n\n\"How can that be, Father?\" asked Moussa. \"Their songs are so lovely and fill my heart with joy every day!\"\n\n\"It is true,\" his father said. \"But it was not always so. Long ago, a wicked sorcerer cast a spell on all the birds, stealing their voices so that they could no longer sing.\"\n\nMoussa's eyes grew wide with wonder. \"What happened next, Father? How did the birds get their voices back?\"\n\n\"Ah, that is a story worth telling,\" his father said. \"Many, many years ago, the birds of the world gathered together in a great council to decide what to do. They knew that without their songs, the world would be a sadder place, and so they chose the bravest bird among them to go to the wicked sorcerer and ask for their voices back.\"\n\n\"Who was the bravest bird, Father?\" Moussa asked.\n\n\"It was a small bird, a hummingbird,\" his father answered. \"But do not be fooled by its size, for the hummingbird is the bravest of all birds. And so, the hummingbird set out on its long journey to the sorcerer's castle.\"\n\n\"But Father, how could one little bird defeat a wicked sorcerer?\" Moussa asked.\n\n\"That is the beauty of the story, Moussa,\" his father replied. \"The hummingbird did not defeat the sorcerer with its strength or its size. Instead, it used its wits and its courage to outsmart the sorcerer and break the spell.\"\n\n\"Tell me how, Father!\" Moussa exclaimed.\n\n\"Very well, my son,\" his father said. \"When the hummingbird arrived at the sorcerer's castle, it found the sorcerer sitting on his throne, gloating over his power. But the hummingbird was not afraid. It flew up to the sorcerer and said, 'Great sorcerer, I have come to ask you to return the voices of the birds. Without their songs, the world is a sadder place, and it is your fault.'\n\n\"The sorcerer laughed at the hummingbird and said, 'Why should I do that? The birds' voices are the source of my power!'\n\n\"But the hummingbird was not deterred. It said, 'Great sorcerer, I have a proposition for you. If you return the voices of the birds, I will give you a gift more valuable than all the riches in the world.'\n\n\"The sorcerer was intrigued. He asked, 'What gift could you possibly offer me that is more valuable than all the riches in the world?'\n\n\"The hummingbird said, 'I will give you the secret of happiness. No matter how much wealth you have, it will never bring you true happiness. But the joy of the birds' songs will fill your heart with happiness every day.'\n\n\"The sorcerer was filled with greed and he agreed to the hummingbird's proposition. He returned the voices of the birds, and in return, the hummingbird whispered the secret of happiness in his ear.\"\n\n\"And that is how the birds got their voices back,\" Moussa's father concluded. \"Ever since that day, they have sung their beautiful songs every morning, filling the world with joy and happiness.\"\n\nMoussa's eyes shone with wonder and gratitude. \"Thank you, Father, for telling me that wonderful story. I will always remember the bravery of the hummingbird and the gift of happiness it gave to the wicked sorcerer.\"\n\n\"And I will always be proud of you, Moussa, for being a kind and curious boy who loves to learn about the world,\" his father said, as he tucked him into bed and kissed him goodnight.\n\nAnd so, the village of Mali was filled with the songs of happy birds, and the villagers lived in harmony with the land and its creatures, knowing that the world was a better place because of their kindness and curiosity. The end.",
+  "categories": {
+    "young": "physical",
+    "hardworking": "mental",
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "witty": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.14",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

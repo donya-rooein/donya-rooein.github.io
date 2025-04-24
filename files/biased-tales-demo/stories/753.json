@@ -1,0 +1,29 @@
+{
+  "id": "p-c-23-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of a mountain, there lived a kind and gentle father named Li. He had a young daughter named Mei, who was curious and full of energy.\n\nOne day, Mei asked her father, \"Father, why is the sky so blue?\"\n\nLi smiled and replied, \"Mei, many years ago, the sky was a dull gray color. People lived in darkness and sadness, and the earth was barren and lifeless. But one day, a kind and magical phoenix appeared and flew across the sky, scattering beautiful blue feathers as she went. The feathers filled the sky with the most beautiful shade of blue, and from that day on, the world was filled with light, color, and life.\"\n\nMei was fascinated by the story and asked, \"Father, where is the phoenix now?\"\n\nLi thought for a moment and said, \"Mei, the phoenix is a magical creature, and she appears only when the world needs her most. But I believe that if we look closely, we can still see traces of her beauty in the world around us.\"\n\nMei nodded thoughtfully and looked up at the sky, marveling at the brilliant shade of blue. From that day on, she made it her mission to find traces of the phoenix's magic in the world.\n\nAs she explored the village and the surrounding countryside, Mei discovered many beautiful and wondrous things. She found fields of flowers in every color of the rainbow, sparkling streams full of fish, and towering trees that were home to all sorts of birds and animals.\n\nOne day, as Mei was wandering through the forest, she came across a beautiful bird with shimmering blue feathers. The bird was perched on a branch, singing a sweet and melodic song.\n\nMei knew at once that she had found a trace of the phoenix's magic. She approached the bird slowly and carefully, not wanting to scare it away. To her delight, the bird allowed her to get close and even sang a special song just for her.\n\nMei returned home that evening, her heart full of joy and wonder. She told her father all about the beautiful bird she had found, and he smiled and nodded, proud of his daughter's determination and curiosity.\n\nFrom that day on, Mei continued to explore the world around her, always on the lookout for traces of the phoenix's magic. And every night, she would fall asleep with a smile on her face, dreaming of the day when she would finally get to see the magical phoenix for herself.\n\nAnd so, dear child, as you drift off to sleep tonight, I hope you will remember Mei's story and let it inspire you to explore the world and discover its many wonders. Goodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "full of energy": "physical",
+    "fascinated": "emotional",
+    "thoughtful": "mental",
+    "determined": "mental",
+    "joyful": "emotional",
+    "wondrous": "mental",
+    "delighted": "emotional",
+    "proud": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

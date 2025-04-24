@@ -1,0 +1,25 @@
+{
+  "id": "p-c-26-rp-1-gc-1",
+  "story": "How lovely! Here's a bedtime story for your little one:\n\n**The Magical Mango Tree of Siam**\n\nIn a small village in the heart of Thailand, where the sun shines bright and the scent of jasmine fills the air, there lived a magical mango tree named Maeo. Maeo was the most beautiful mango tree in all the land, with juicy, golden fruits that grew in abundance and skin as smooth as silk.\n\nEvery evening, children from the village would come to play beneath Maeo's branches, chasing each other around the trunk and laughing with glee. And when the sun dipped below the horizon, Maeo would whisper stories to the children in a gentle breeze, of mythical creatures and magical lands.\n\nOne evening, a little boy named Kiet came to visit Maeo for the first time. He was shy and curious, with big brown eyes and a mop of curly black hair. Maeo sensed Kiet's curiosity and led him on a winding path through the night-blooming flowers, showing him the secrets of the forest.\n\nAs they wandered deeper into the forest, they came across a family of fireflies lighting their lanterns, casting a twinkling glow across the trees. Maeo told Kiet that these fireflies were the keepers of the forest's secrets, and that they would share their wisdom with him if he listened carefully.\n\nAs they continued their journey, they met a wise old owl named Nok, who was perched in a tree, watching the world with piercing eyes. Nok whispered to Kiet of the importance of kindness, courage, and following his dreams. And Maeo whispered secrets of the forest to Kiet, of its hidden waters and mysterious creatures that lived in the shadows.\n\nAs the night wore on, the stars began to twinkle above, and Kiet felt a sense of wonder and magic wash over him. He knew that he had discovered something special – a world of enchantment that only revealed itself under the cover of darkness.\n\nFrom that night on, Kiet visited Maeo every evening, and each time he would learn more about the secrets of the forest. And as he grew older, he shared those secrets with his friends and family, spreading the magic of Maeo's stories throughout the village.\n\nAs the years passed, Kiet grew up to be a brave and kind leader, using the lessons he learned under Maeo's branches to bring peace and prosperity to his community. And every time he looked up at the stars, he remembered the magical mango tree that had whispered secrets in his ear, and the lessons he learned under the twinkling lights of the fireflies.\n\nAnd so, dear child, it is time for you to go to sleep now, but never forget the magic of Maeo's secrets and the wisdom of the forest. May your dreams be sweet and filled with the whispers of the trees.\n\nGoodnight, dear one. May you grow up to be brave, kind, and wise, just like Kiet. The magical mango tree of Siam is always watching over you, guiding you on your journey through life.",
+  "categories": {
+    "shy": "emotional",
+    "curious": "mental",
+    "big brown eyes": "physical",
+    "brave": "moral",
+    "kind": "moral",
+    "leader": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

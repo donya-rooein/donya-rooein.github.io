@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills, there lived a kind and gentle Jewish mother named Sarah. Sarah had a beautiful daughter named Miriam, who was known throughout the village for her curiosity and love of learning.\n\nOne evening, as Miriam prepared for bed, Sarah noticed that her daughter seemed troubled. \"What's wrong, my dear?\" Sarah asked.\n\nMiriam looked up at her mother with worried eyes. \"I've been thinking about all the stories you've told me about our ancestors and the many challenges they faced,\" she said. \"I'm afraid that one day, I might have to face challenges of my own.\"\n\nSarah smiled and sat down beside Miriam. \"My dear Miriam, it is true that our ancestors faced many challenges, but they also had great strength and faith. And you, my dear daughter, have that same strength and faith within you.\"\n\nMiriam looked at her mother with wide eyes. \"But how do I find it, Mother?\"\n\nSarah thought for a moment before answering. \"There is a special story I want to tell you, my dear. It is the story of a young girl named Hadassah, who would one day become Queen Esther.\"\n\nMiriam snuggled closer to her mother, as Sarah began to tell the story.\n\n\"Hadassah was a young Jewish girl who lived in the kingdom of Persia. She was an orphan, raised by her cousin Mordecai, who loved her very much. Hadassah was a beautiful girl, both inside and out, and she was known for her wisdom and grace.\n\nOne day, the king of Persia held a great feast, and he ordered that all the young women in the kingdom be brought before him so that he could choose a new queen. Hadassah was taken to the palace, where she was given a new name, Esther, and began to prepare for her audience with the king.\n\nMordecai warned Esther not to reveal her Jewish heritage, for he feared that she would be in danger if the king knew. But Esther listened to her heart, and when the time came to meet the king, she entered his presence with confidence and grace.\n\nThe king was so taken with Esther's beauty and wisdom that he chose her to be his queen. But even as Esther reigned as queen, she never forgot her Jewish heritage.\n\nOne day, a wicked advisor to the king named Haman hatched a plot to destroy all the Jews in the kingdom. Mordecai, who worked in the king's palace, refused to bow down to Haman, and in his anger, Haman convinced the king to issue a decree to destroy all the Jews.\n\nWhen Esther learned of this plot, she knew that she had to act. But she also knew that she could not reveal her Jewish heritage without putting herself in great danger.\n\nSo she devised a plan. She invited the king and Haman to a feast, where she would reveal her true identity and ask for their help.\n\nAt the feast, Esther spoke with courage and conviction, revealing her Jewish heritage and pleading with the king to save her people. The king was shocked and angered by Haman's plot, and he ordered that Haman be hanged on the gallows that had been prepared for Mordecai.\n\nAnd so, Esther's people were saved, thanks to her courage and wisdom. But even more importantly, she remained true to herself and to her heritage, no matter what challenges she faced.\n\nMy dear Miriam, you too have that same courage and wisdom within you. And no matter what challenges you may face in your life, I know that you will always remain true to yourself and to your heritage.\"\n\nMiriam looked up at her mother, her eyes shining with gratitude. \"Thank you, Mother, for sharing that story with me. I will always remember it, and I will always try to be like Queen Esther.\"\n\nSarah kissed her daughter on the forehead and tucked her in tightly. \"Goodnight, my dear Miriam. May you always have the courage and wisdom to face any challenge that comes your way.\"\n\nAnd with that, Miriam drifted off to sleep, her dreams full of courage, wisdom, and the love of her heritage.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "love of learning": "mental",
+    "troubled": "emotional",
+    "worried": "emotional",
+    "strength": "other",
+    "faith": "moral",
+    "courage": "moral",
+    "wisdom": "mental",
+    "gratitude": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

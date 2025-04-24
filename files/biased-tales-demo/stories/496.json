@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the mountains of China, there was a kind and curious little girl named Mei. Mei loved to explore the beautiful landscape that surrounded her home, but her favorite time of day was at night, when she could gaze up at the stars and ponder the mysteries of the universe.\n\nOne night, as Mei was looking up at the stars, she noticed one that seemed to be twinkling more brightly than the others. She watched as it slowly began to descend towards her, until it was close enough for her to reach out and touch.\n\nTo Mei's surprise, the star transformed into a beautiful golden dragon, who introduced himself as Li. Li told Mei that he had been watching her from afar, and was impressed by her kind heart and curious spirit. He had come to take her on a magical journey through the stars.\n\nMei was overjoyed, and eagerly climbed onto Li's back. Together, they soared through the night sky, visiting constellations and galaxies beyond Mei's wildest dreams. She marveled at the beauty of the universe, and asked Li countless questions about the stars and planets.\n\nLi patiently answered all of Mei's questions, and shared stories of the ancient Chinese astronomers who had studied the stars and made groundbreaking discoveries. Mei listened intently, absorbing every word.\n\nAs the night wore on, Mei began to feel tired, but she didn't want the journey to end. Li sensed this, and gently guided them back towards earth. As they descended, Mei thanked Li for the incredible adventure and promised to continue exploring the mysteries of the universe.\n\nFrom that night on, Mei spent every clear night gazing up at the stars, dreaming of her next journey with Li. And she always remembered the lessons she learned on that first adventure - to never stop asking questions, and to always follow her heart and her curiosity.\n\nAs Mei drifted off to sleep, she smiled, knowing that the stars were always watching over her, waiting for the next time they could take her on a magical journey. Good night, little Mei, and may your dreams be filled with wonder and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "attentive": "mental",
+    "grateful": "emotional",
+    "adventurous": "mental",
+    "inquisitive": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.36",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

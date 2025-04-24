@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-3-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and devout Hindu boy named Rohan. Rohan was known throughout the village for his love of animals and his devotion to Lord Ganesha, the elephant-headed god of wisdom and good fortune.\n\nOne day, while Rohan was playing near the river, he spotted a small, shivering elephant calf caught in a trap. The calf was scared and in pain, and Rohan knew he had to help. He carefully approached the calf and gently freed it from the trap.\n\nAs soon as the calf was free, it ran straight to Rohan and hugged him tightly, as if thanking him for his kindness. Rohan was overjoyed and knew that this was no ordinary calf. He took it home and cared for it, feeding it and keeping it safe.\n\nWord of Rohan's kindness spread throughout the village, and soon, people from far and wide came to see the special bond between the boy and the calf. They were amazed when they learned that the calf was none other than Gajavadana, the son of Lord Ganesha himself!\n\nLord Ganesha, pleased with Rohan's devotion and compassion, appeared before the village and blessed Rohan with wisdom and good fortune. From that day on, Rohan was known as the wisest and luckiest boy in the village, and he used his newfound wisdom to help those in need.\n\nAnd so, dear son, always remember to be kind and compassionate, just like Rohan. For, as Lord Ganesha himself has shown us, kindness and devotion are the true paths to wisdom and good fortune.\n\nMay you have a good night's sleep and may all your dreams come true. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "devout": "moral",
+    "love of animals": "emotional",
+    "compassionate": "emotional",
+    "wise": "mental",
+    "lucky": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.04",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

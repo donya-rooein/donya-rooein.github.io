@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and curious little girl named Aisha. Aisha loved to explore the natural world around her, and she was especially fascinated by the mountain, which towered above the village like a guardian protecting the people below.\n\nAisha's father, a devout and wise man, saw her fascination and decided to tell her a story that had been passed down in their family for generations. It was the story of the great mountain and the magic that lay hidden within.\n\n\"Long ago,\" he began, \"the mountain was home to a powerful and wise djinn named Karim. Karim was a guardian of the mountain and the surrounding land, and he possessed great magical powers. He used these powers to help the people of the village, protecting them from harm and providing for their needs.\"\n\nAisha's eyes were wide with wonder as she listened to her father's words. \"But why don't we see him anymore, Father?\" she asked.\n\n\"One day, a greedy and selfish man came to the village,\" her father continued. \"He begged Karim to grant him great wealth and power, but Karim refused, for he knew that such gifts would only bring the man harm. The man was furious and vowed to destroy Karim and his magic. He climbed the mountain and challenged Karim to a battle, but Karim knew that violence was not the answer. Instead, he used his magic to seal himself and the man inside the mountain, where they remain to this day.\"\n\nAisha was sad to hear that Karim was trapped, but her father reassured her. \"Do not worry, my dear,\" he said. \"Karim's magic is still with us, protecting the village and providing for our needs. And who knows? Perhaps one day, a kind and selfless person will come and free Karim from his prison.\"\n\nFrom that day on, Aisha made it her mission to be the kind and selfless person who would free Karim. She grew up to be a wise and compassionate woman, always looking out for the needs of others and never asking for anything in return. And who knows? Perhaps her kindness and selflessness will be rewarded with the freedom of the great djinn Karim.\n\nAs Aisha drifted off to sleep, she felt a sense of peace and purpose. She knew that she had a mission in life, and she was determined to fulfill it. And she knew that, no matter what challenges lay ahead, her father's love and guidance would be with her every step of the way.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I hope that this story will fill you with a sense of wonder and purpose. May you always be curious and kind, and may you always strive to make the world a better place. Good night, my sweet princess.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

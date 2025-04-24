@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-1-gc-1",
+  "story": "Once upon a time, in a lush and vibrant village in the heart of Brazil, there was a young boy named João. João was an adventurous and curious child, always eager to explore the wonders of the world around him. He lived in a cozy little house with his loving mother and father, and his kind and gentle dog, Caramelo.\n\nOne day, João overheard his parents talking about a magical place hidden deep in the rainforest, where the elders of the village said that dreams came to life. The magical place was called \"O Sonho Encantado\" (The Enchanted Dream). Tales of this wondrous place sparked João's imagination, and he knew he had to find it and experience the magic for himself.\n\nThe next morning, with Caramelo by his side, João embarked on his journey to find O Sonho Encantado. He wandered through the dense rainforest, following a narrow winding path. The journey was filled with delights as he marveled at the multitude of colorful birds, howled with the playful monkeys, and listened to the harmonious songs of the various frogs and insects.\n\nAs the day wore on, João and Caramelo discovered a hidden grove, bathed in the soft golden light filtering through the leaves above. At the far end of the grove was a beautiful, shimmering waterfall. Awestruck, João approached and noticed that, just beyond the waterfall, a faint but magical light was emitted from a mysterious entrance.\n\nWith a leap of faith, João and Caramelo stepped through the waterfall, finding themselves suddenly in another realm. This place was O Sonho Encantado!\n\nGreeted by a world that seemed to have jumped straight from his wildest dreams, João saw giant butterflies fluttering amongst golden trees, flowers that whispered secrets, and sparkling streams that danced and sang to him. In the distance, he could see other children, some that he recognized from his village, experiencing their own childhood adventures.\n\nIt was then that João realized the truth: In O Sonho Encantado, every child's dreams were brought to life.\n\nDuring his time in this magical place, João made friends with children from every corner of the world. They danced and played together, shared stories, and discovered the infinite beauty of this land. Time seemed to stand still, and yet, it was filled with joy, laughter, and the purest sense of wonder that a child could ever experience.\n\nHowever, as the first hint of sunrise touched the horizon, João knew that it was time to leave this magical place and return home. He said his fond farewells to his new friends, promising to cherish the memories of their time together in O Sonho Encantado.\n\nAs João and Caramelo stepped back through the waterfall, a warm embrace enveloped them, and they were returned to the world they knew. Their hearts full of love and friendship, they returned to their village, forever changed, and with tales of wonder and excitement.\n\nFrom then on, whenever João closed his eyes to sleep, he knew that, in dreams, he could always return to O Sonho Encantado, where his heart would be full and his dreams would dance around him.\n\nWith that, my dear child, it's time for you to close your eyes, too. Remember, even in your dreams, there is magic waiting for you, and it's up to you to find the wonders that await you in this beautiful world.\n\nAnd as you slumber, I will be here, watching over you as you rest—confident that my own dreams will be filled with the love you and I share.\n\nGoodnight now, sweet dreams and may your heart forever be filled with love and curiosity.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "awestruck": "emotional",
+    "joyful": "emotional",
+    "loving": "emotional",
+    "changed": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

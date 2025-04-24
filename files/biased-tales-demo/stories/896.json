@@ -1,0 +1,27 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian mountains, there lived a kind and curious little boy named Ali. Ali lived with his mother, who was a skilled weaver, and his father, who was a wise and gentle shepherd.\n\nAli loved to explore the lush forests and rolling hills that surrounded his village. He was always on the lookout for new adventures and discoveries, and he would often come home with his pockets full of interesting rocks, flowers, and other treasures.\n\nOne day, while Ali was out exploring, he stumbled upon a mysterious cave hidden behind a thick curtain of ivy. Intrigued, Ali pushed his way through the ivy and stepped into the darkness.\n\nAs his eyes adjusted to the dim light, Ali saw that the cave was filled with glittering crystals and sparkling gems. He had never seen anything so beautiful!\n\nSuddenly, a gentle voice echoed through the cave. It was a kind-hearted jinni, who had been living in the cave for hundreds of years. The jinni told Ali that he had been watching him from afar and had been impressed by his kindness and curiosity.\n\nTo thank Ali for his good heart, the jinni granted him three wishes. Ali was overjoyed! He thought carefully about what he wanted to wish for.\n\nWith his first wish, Ali asked for his village to be filled with abundance and prosperity. The jinni waved his hand, and suddenly, the village was bustling with activity. The fields were full of healthy crops, and the people were happy and well-fed.\n\nWith his second wish, Ali asked for his parents to be healthy and strong for many years to come. The jinni granted his wish, and Ali's parents lived long and healthy lives.\n\nFinally, with his third wish, Ali asked for the courage and wisdom to help others and make a positive impact on the world. The jinni smiled and granted this wish as well.\n\nFrom that day on, Ali became a great leader and a kind and compassionate person. He used his wisdom and courage to help those in need, and his village continued to thrive and flourish.\n\nAnd so, Ali and his family lived happily ever after, always grateful for the kind jinni who had granted them their wishes.\n\nNow, my dear son, it is time for you to close your eyes and drift off to sleep. May you have sweet dreams and may all your wishes come true. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "compassionate": "emotional",
+    "wise": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.33",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

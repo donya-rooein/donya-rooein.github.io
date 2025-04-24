@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the mountains of China, lived a kind and curious little girl named Mei. Mei's village was known far and wide for its lush green forests, clear sparkling streams, and vibrant gardens filled with colorful flowers.\n\nMei loved exploring the village and all the natural beauty that surrounded it. She would often wander through the gardens, climb the trees, and splash in the streams. She was always eager to learn about the world around her and would ask her mother endless questions about the plants, animals, and people that lived in the village.\n\nOne day, Mei's mother told her a story about a rare and magical flower that only bloomed once every hundred years. This flower, known as the Heart's Desire Flower, was said to have the power to grant a single wish to the person who found it.\n\nMei was fascinated by this story and begged her mother to take her on a journey to find the Heart's Desire Flower. Her mother warned her that the journey would be long and difficult, but Mei was determined and set out with a backpack full of supplies and a heart full of excitement.\n\nMei traveled for many days, crossing rugged mountains and treacherous rivers. She encountered wild animals and met many interesting people along the way. And though the journey was hard, Mei's determination never wavered.\n\nFinally, after many weeks of traveling, Mei arrived at a beautiful meadow high in the mountains. In the center of the meadow, bathed in the warm glow of the setting sun, stood the Heart's Desire Flower.\n\nMei couldn't believe her eyes. The flower was the most beautiful thing she had ever seen. It was covered in delicate pink petals and had a sweet, fragrant scent that filled the air.\n\nMei approached the flower slowly, not wanting to disturb it. As she reached out to touch it, she suddenly realized what she wanted to wish for. She closed her eyes and made her wish, then opened her eyes and waited.\n\nTo her surprise, the flower began to glow and a soft light enveloped Mei. She felt a warm, tingling sensation all over her body and a sense of peace and contentment washed over her.\n\nMei knew that her wish had been granted and she felt a deep gratitude for the magical flower and for the journey that had brought her to it. She knew that she would never forget this special experience and that it would stay with her forever.\n\nMei returned to her village a changed girl. She was more kind and compassionate, and she used her special gift to help those in need. She never forgot the lessons she learned on her journey and always remembered the magic of the Heart's Desire Flower.\n\nAnd so, Mei lived happily ever after, surrounded by the love of her family and the beauty of her village. And whenever she saw a flower, she was reminded of the magic of the Heart's Desire Flower and the special journey that had brought it into her life.\n\nGood night, my dear daughter. I hope you have sweet dreams and always remember the magic of the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "compassionate": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.84",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

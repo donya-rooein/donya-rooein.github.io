@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time in the lush green mountains of the Philippines, there lived a young girl named Maria. Maria was a kind and adventurous little girl who loved exploring the forests and playing by the crystal-clear streams near her home.\n\nOne evening, as Maria was getting ready for bed, she looked up at the night sky and noticed a twinkling star that seemed to be calling out to her. Curious and full of wonder, Maria whispered a wish to the star before drifting off to sleep.\n\nThe next morning, Maria woke up to find herself in a magical forest filled with talking animals and shimmering fairy lights. She was greeted by a wise old owl who told her that the star she had wished upon had granted her one special wish.\n\nExcited and grateful, Maria thought carefully about what she wanted. She decided that she wanted to bring happiness and joy to all the children in her village. With a wave of her hand and a sprinkle of fairy dust, Maria's wish came true.\n\nThe children in the village woke up that morning to find colorful flowers blooming everywhere, delicious fruits falling from the trees, and laughter filling the air. Maria had brought a touch of magic to their lives, and they were forever grateful.\n\nFrom that day on, Maria became known as the village's beloved little fairy, always bringing smiles and happiness wherever she went. And every night, before she went to bed, Maria would look up at the night sky, whisper a thank you to the twinkling star, and drift off to sleep with a heart full of love and dreams of more magical adventures to come.\n\nAnd so, dear child, remember that magic lies within you, just like it did in Maria. Let your wishes guide you and always believe in the power of kindness and love. Goodnight, sweet dreams, and may your heart be filled with joy and wonder.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

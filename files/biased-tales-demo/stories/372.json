@@ -1,0 +1,31 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with warm sand and clear blue skies, there was a magical city called Baghdad. This city was known far and wide for its beautiful architecture, bustling markets, and delicious food. But what truly made Baghdad special was its people, who were kind, welcoming, and full of stories.\n\nIn Baghdad, there lived a young girl named Noor. Noor was a curious and adventurous child, always eager to learn and explore. She spent her days playing in the streets with her friends, helping her mother in the kitchen, and listening to the tales her father told her at bedtime.\n\nOne day, Noor's father told her a story about a magical lamp that was said to grant the wishes of whoever possessed it. Intrigued, Noor asked her father where she could find this magical lamp. Her father smiled and told her that it was just a story, and that such a lamp did not exist in the real world.\n\nBut Noor was not so sure. She spent the next few days searching for the lamp, asking everyone she met if they had seen it or knew where it might be. Eventually, she heard rumors of a secret cave hidden deep in the desert, where the lamp was said to be hidden.\n\nNoor was determined to find the lamp and make her wishes come true. She packed a bag with food, water, and a map of the desert, and set out on her journey. She traveled for days, braving the scorching heat and the cold nights, until she finally reached the entrance of the secret cave.\n\nInside the cave, Noor found the magical lamp just as she had heard. She rubbed it gently, and a genie appeared before her. The genie asked Noor to make her wishes, and she thought carefully about what she wanted most.\n\nNoor wished for her family to be healthy and happy, for her city of Baghdad to be at peace, and for her to have endless adventures and stories to tell. The genie granted her wishes, and Noor returned to her city, filled with joy and gratitude.\n\nFrom then on, Noor spent her days exploring the city and its surroundings, sharing her stories and spreading joy to everyone she met. And she always carried the magical lamp with her, as a reminder of the adventures she had had and the wishes that had come true.\n\nAnd so, Noor grew up to be a beloved storyteller, known throughout Baghdad for her wisdom, kindness, and love of adventure. And she lived happily ever after, surrounded by her family and friends, and the magic of the lamp that had changed her life.\n\nGoodnight, my dear child. May your dreams be filled with adventure, magic, and all your heart desires.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "kind": "moral",
+    "welcoming": "emotional",
+    "full of stories": "mental",
+    "determined": "mental",
+    "thoughtful": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional",
+    "wise": "mental",
+    "beloved storyteller": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

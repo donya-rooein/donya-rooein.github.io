@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-4-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom nestled in the heart of a vast forest. The kingdom was ruled by a kind and just king and queen, who had a young son named Prince Liam.\n\nPrince Liam was a curious and adventurous boy, always eager to explore the world around him. He spent his days playing in the forest, making friends with the animals who lived there, and learning all about the plants and trees that grew in the kingdom.\n\nOne day, while Prince Liam was out exploring, he came across a small, injured bird. The bird had a broken wing, and couldn't fly. Prince Liam knew that he had to help the bird, so he gently picked it up and carried it back to the castle.\n\nThe castle healer examined the bird and told Prince Liam that it would take some time for the wing to heal. In the meantime, Prince Liam decided to take care of the bird himself. He made a cozy nest for it in a basket, and fed it seeds and berries that he collected from the forest.\n\nAs the days passed, the bird's wing began to heal, and Prince Liam was overjoyed to see it flying around his room. But the bird seemed sad and restless, as if it missed its home in the forest.\n\nSo, Prince Liam decided to take the bird back to the forest, to release it and let it fly free. When they reached the forest, Prince Liam opened the basket and the bird flew out, soaring through the air with ease.\n\nPrince Liam watched as the bird flew higher and higher, until it disappeared into the clouds. He felt a mix of sadness and joy, knowing that he had helped the bird and that it was now free to live its life in the forest.\n\nFrom that day on, Prince Liam spent even more time in the forest, making friends with all the animals and learning all about the natural world. And he always remembered the lesson he had learned from the injured bird: that even the smallest act of kindness can make a big difference in the world.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to sleep, knowing that you too, can make a big difference in the world with your kindness and compassion. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "eager to explore": "mental",
+    "caring": "emotional",
+    "helpful": "moral",
+    "joyful": "emotional",
+    "friendly": "emotional",
+    "observant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "83.70",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

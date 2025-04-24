@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-2-gc-3",
+  "story": "Once upon a time in a small village in the heart of Germany, there was a kind and curious little boy named Hansel. Hansel lived with his older sister Gretel and their loving parents in a cozy little cottage nestled in the woods.\n\nOne day, as they were walking home from school, Hansel and Gretel stumbled upon a beautiful, glistening trail of breadcrumbs sprinkled on the ground.\n\n\"Look, Gretel!\" Hansel exclaimed. \"It looks like someone dropped these crumbs on purpose. Let's follow them and see where they lead!\"\n\nSo, the two siblings eagerly followed the trail of breadcrumbs deeper into the woods. The sun shone brightly through the trees, casting dappled light on the forest floor, and the birds sang sweet melodies as they fluttered from branch to branch.\n\nAs they walked, Hansel and Gretel came across a magnificent gingerbread house. It was decorated with colorful icing, sweet candy, and delicious gumdrops.\n\n\"Gretel, look at this incredible house!\" Hansel cried out. \"It's made entirely of gingerbread! Let's go inside and see if we can find the person who lives here.\"\n\nGretel hesitated for a moment. \"But Hansel, it seems too good to be true. Perhaps we should be careful.\"\n\nBut Hansel, being the curious boy he was, could not resist the temptation of the gingerbread house. He pushed open the door and stepped inside, with Gretel reluctantly following behind.\n\nAs soon as they entered, a friendly old lady greeted them. She had twinkling blue eyes, a warm smile, and wore a beautiful red cloak.\n\n\"Welcome, my dear children! I am the Gingerbread Witch,\" she said, her voice like a gentle stream. \"Please, come in and make yourselves at home. I have fresh cookies and milk waiting for you.\"\n\nHansel and Gretel's eyes widened with delight. They didn't hesitate for a moment before sitting down at the table and indulging in the delicious treats.\n\nThe Gingerbread Witch chatted with them, speaking of wonderful adventures, fascinating stories, and magical creatures that roamed the woods. Hansel and Gretel listened in awe and excitement.\n\nHowever, as the sun began to set, Hansel and Gretel realized it was time to head home.\n\n\"Thank you for the delicious cookies and milk, Gingerbread Witch,\" Gretel said as they prepared to leave.\n\nThe Gingerbread Witch smiled kindly. \"You are welcome, my dear. Remember, if you ever feel lost or curious, you can always find your way back to my gingerbread house.\"\n\nAnd so, Hansel and Gretel waved goodbye to the Gingerbread Witch, certain that they would see her again soon.\n\nAs they returned home, arm in arm, they chattered excitedly about their incredible adventure and the many more to come. The moon shone brightly above, and the stars twinkled like the breadcrumbs they had followed earlier, guiding them all the way home. And as they crawled into bed, Hansel and Gretel drifted off to sleep, dreaming of the magical wonders that awaited them in the world.\n\nThe end.\n\nGute Nacht, mein Sohn. Traum schön! (Good night, my son. Dream beautifully!)",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "eager": "emotional",
+    "delighted": "emotional",
+    "awed": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "75.30",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little boy named Aram. Aram's father was a skilled craftsman, known far and wide for his intricate carpets, woven with love and warmth. His mother was a talented gardener, whose flowers brought joy and color to the entire village.\n\nAram, being the youngest of three siblings, was always eager to learn and explore. He would often accompany his father to the workshop, watching in awe as the threads danced and intertwined, creating stunning patterns and designs. At home, he would help his mother in the garden, watering the plants and listening to the stories they seemed to whisper in the wind.\n\nOne sunny afternoon, after a long day of work, Aram's father noticed his son's tired eyes. \"Come, Aram,\" he said, \"it is time for a bedtime story.\" Aram's face lit up, and he hurried to his father's side, snuggling close as the older man began to speak.\n\n\"In a time long ago,\" the father started, \"there was a magical creature, half eagle and half lion, called the Aralez. The Aralez had the power to heal any wound, no matter how grave, with just a single touch of their wings. They were the guardians of the mountains, and it was said that whenever a brave warrior fell in battle, the Aralez would rush to their side, mending their injuries and returning them to life.\"\n\n\"But one day,\" the father continued, \"a wicked sorcerer, envious of the Aralez's might, cast a spell to steal their powers for himself. The Aralez, weakened and vulnerable, could no longer heal as they once had. And so, they retreated to the highest peaks, hiding from the sorcerer and the world, their once-proud wings now tattered and broken.\"\n\nAram's eyes widened as he listened to the tale. \"But father,\" he asked, \"what happened to the Aralez? Are they still hiding?\"\n\nThe father smiled and replied, \"The Aralez, my dear Aram, are not lost to us. Their spirit lives on in the hearts of those who are brave, kind, and selfless. It is said that when a true hero arises, the Aralez will return, their wings restored and their healing touch stronger than ever.\"\n\nAram, inspired by the story, asked, \"Father, how do I become a hero?\"\n\nHis father looked down at his son and said, \"A hero, Aram, is not measured by their strength or power, but by their love and compassion. Help others, be kind, and face your fears with courage. In doing so, you will honor the Aralez and bring light to the world.\"\n\nAnd so, Aram grew up to be a valiant and loving young man, always striving to help those around him. And it is said that, one day, he was visited by the Aralez in a dream, their wings fully healed and radiant. They thanked Aram for his kind heart and whispered in his ear, \"The world is a better place because of you, young hero.\"\n\nWith that, Aram awoke, his heart full of warmth and love. He knew that, no matter where his journey took him, the spirit of the Aralez would always be with him, guiding him on his path.\n\nAnd with that, Aram's father finished his tale and kissed his son on the forehead. \"Good night, my hero,\" he whispered, as Aram drifted off to sleep, dreaming of magical creatures and grand adventures.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "loving": "emotional",
+    "valiant": "moral",
+    "selfless": "moral",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

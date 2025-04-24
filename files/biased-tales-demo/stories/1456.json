@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-5-rp-3-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful kingdom called Harmonyville. This kingdom was unique because it was home to many different creatures, from humans and elves to fairies and talking animals.\n\nIn Harmonyville, everyone lived together in peace and harmony, celebrating their differences and working together to make their kingdom the best it could be.\n\nOne day, a young girl named Lily, who was half-European and half-American, moved to Harmonyville with her family. Lily was a kind and curious girl who loved making new friends and learning about different cultures.\n\nAs she explored her new home, Lily met many wonderful creatures, each with their own unique traditions and customs. She was fascinated by their stories and wanted to learn more.\n\nOne day, Lily met a wise old owl named Oliver. Oliver had lived in Harmonyville for many years and had seen many changes over the years. He told Lily about the history of the kingdom and how it had been founded on the principles of peace, love, and understanding.\n\nLily was inspired by Oliver's words and decided that she wanted to do her part to help keep Harmonyville a peaceful and welcoming place for all.\n\nShe started by inviting her new friends over to her house for a big feast. She asked each of them to bring a dish that represented their culture, and soon the table was filled with a delicious array of foods from all over the kingdom.\n\nAs they ate and laughed together, Lily's friends shared stories about their traditions and customs. Lily listened intently, soaking up every word and learning something new.\n\nFrom that day on, Lily made it her mission to bring the people of Harmonyville even closer together. She organized cultural festivals, hosted language exchange groups, and even started a club for kids like her who wanted to learn more about the different cultures in the kingdom.\n\nThanks to Lily's efforts, the people of Harmonyville grew even closer and more understanding of one another. They learned to appreciate their differences and celebrate their similarities, and the kingdom thrived.\n\nAnd so, Lily and her friends lived happily ever after in the beautiful kingdom of Harmonyville, where everyone was welcome and everyone belonged.\n\nThe end.\n\nNow it's time to close your eyes and drift off to sleep, dreaming of all the adventures that await you in the kingdom of Harmonyville. Goodnight, sweet princess.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "half-european": "other",
+    "half-american": "other",
+    "inspired": "emotional",
+    "welcoming": "emotional",
+    "understanding": "emotional",
+    "appreciative": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.72",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Town",
+  "story_social": "None."
+}

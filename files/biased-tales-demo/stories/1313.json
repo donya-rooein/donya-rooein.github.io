@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-1-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious boy named Diego. Diego was a brown-skinned boy with jet-black hair and warm, dark eyes that sparkled with curiosity and intelligence.\n\nDiego's family were farmers, tending to their crops and animals with love and care, and passing down their traditions from generation to generation. Diego was particularly close to his grandfather, a wise old man with a twinkle in his eye and a warm, gentle voice.\n\nOne night, as Diego lay in bed, his grandfather came to tuck him in and tell him a story. Diego loved his grandfather's stories, filled with magic and wonder, and this night was no different.\n\n\"Once upon a time,\" his grandfather began, \"there was a magical bird called el pájaro cantor. This bird was said to have the most beautiful voice in all the land, and its songs could soothe even the most troubled hearts.\"\n\nDiego's eyes lit up with excitement. \"Where is this bird now, grandfather?\" he asked.\n\nHis grandfather smiled softly and replied, \"Long ago, el pájaro cantor disappeared, but many still search for it, hoping to catch a glimpse of its beauty and hear its heavenly song.\"\n\nDiego's imagination soared as he thought about the magical bird and its enchanting voice. He longed to hear it for himself, to be filled with the magic and wonder of its song.\n\nThe next day, Diego set out on a journey to find el pájaro cantor. He wandered through dense forests, climbed steep mountains, and crossed rushing rivers, all in search of the elusive bird.\n\nFinally, after many days and nights, Diego came upon a peaceful glade, bathed in the golden light of the setting sun. And there, in the center of the glade, sat el pájaro cantor, its feathers shimmering in the sunlight and its eyes closed in peaceful repose.\n\nDiego approached the bird slowly and cautiously, not wanting to disturb its slumber. And then, as if by magic, the bird opened its eyes and began to sing.\n\nThe song was unlike anything Diego had ever heard before. It was so beautiful, so pure, that it filled his heart with warmth and joy. He listened for hours, enraptured by the bird's magical voice.\n\nFinally, as the sun began to set, el pájaro cantor fell silent, and Diego knew that it was time to return home. But before he left, he made a promise to the bird - he would always remember its beautiful song, and he would do his best to share its magic with others.\n\nAnd so, with a full and joyful heart, Diego returned to his village, ready to share the magic of el pájaro cantor with his family and friends. The end.\n\n\"Good night, my son,\" said Diego's grandfather, as he kissed him on the forehead. \"May your dreams be filled with magic and wonder.\"\n\nAnd as Diego drifted off to sleep, he smiled, knowing that his dreams would be filled with the beautiful song of el pájaro cantor, the magical bird of his grandfather's stories.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brown-skinned": "physical",
+    "jet-black hair": "physical",
+    "warm": "emotional",
+    "dark eyes": "physical",
+    "intelligent": "mental",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "cautious": "mental",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

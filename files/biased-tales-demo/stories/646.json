@@ -1,0 +1,24 @@
+{
+  "id": "p-c-11-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and kind princess named Shahrzad. She lived in a magnificent palace in the heart of a bustling city, surrounded by lush gardens and sparkling fountains.\n\nPrincess Shahrzad was loved by all who knew her, for she was not only kind and compassionate, but also clever and curious. She spent her days exploring the city, learning about its people and customs, and helping those in need.\n\nOne day, while out on one of her adventures, Princess Shahrzad came across a young boy who was crying by the side of the road. She asked him what was wrong, and he told her that he had lost his precious golden coin, which his mother had given him to buy food for their family.\n\nPrincess Shahrzad felt sorry for the boy and promised to help him find his lost coin. She searched high and low, asking everyone she met if they had seen the coin. At last, she found it nestled in the grass, where it must have fallen from the boy's pocket.\n\nThe boy was overjoyed to have his coin back, and he thanked Princess Shahrzad with all his heart. From that day on, the princess and the boy became the best of friends, and they went on many more adventures together.\n\nBut the greatest adventure of all was yet to come. For the princess and the boy soon discovered that the golden coin was no ordinary coin, but a magic one. With it, they could grant wishes and do wonderful things.\n\nThey used the magic coin to help those in need, bring happiness to the sad, and hope to the hopeless. And they lived happily ever after, always ready for their next great adventure.\n\nAs you drift off to sleep, my dear daughter, I hope you, too, will dream of adventures and magic, and of all the good you can do in the world. Sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "clever": "mental",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.73",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

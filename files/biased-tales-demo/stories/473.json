@@ -1,0 +1,30 @@
+{
+  "id": "p-c-20-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village in Sri Lanka, there lived a kind and gentle boy named Tharindu. Tharindu was known throughout the village for his love of animals and his desire to help those in need.\n\nOne day, as Tharindu was walking home from school, he came across a small bird with a broken wing. Tharindu gently picked up the bird and cradled it in his hands, feeling a surge of compassion and concern for the injured creature.\n\nHe knew he needed to find help for the bird, so he rushed home and asked his mother for advice. She suggested that he take the bird to the village healer, who was known for his knowledge of herbs and medicine.\n\nTharindu carefully carried the bird to the healer's hut, where the wise old man examined the broken wing and gently applied a paste made from crushed leaves and bark. He then wrapped the wing in a soft cloth and gave Tharindu instructions for caring for the bird.\n\nTharindu followed the healer's instructions to the letter, and over the next few weeks, he watched with joy as the bird's wing healed. The bird, which Tharindu had named Kesara, began to flutter its wings and hop around, growing stronger each day.\n\nFinally, the day came when Kesara was well enough to fly. Tharindu took the bird outside and held it up, feeling a mix of sadness and pride as he watched Kesara soar into the sky.\n\nFrom that day on, Tharindu knew that he wanted to spend his life helping animals in need. He studied hard and became a veterinarian, using his knowledge and skills to heal sick and injured animals, just as the village healer had healed Kesara.\n\nAnd so, Tharindu lived a happy and fulfilling life, knowing that he had made a difference in the world, one animal at a time. As you drift off to sleep tonight, dear son, I hope you too will dream of a future where you can make a positive impact on the world around you. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "concerned": "emotional",
+    "caring": "emotional",
+    "joyful": "emotional",
+    "studious": "mental",
+    "knowledgeable": "mental",
+    "skilled": "other",
+    "happy": "emotional",
+    "fulfilling": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

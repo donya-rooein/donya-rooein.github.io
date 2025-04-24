@@ -1,0 +1,24 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green mountains of Mexico, there lived a kind and curious little boy named Diego. Diego's days were filled with adventure as he explored the rolling hills and lush forests that surrounded his home.\n\nOne sunny afternoon, as Diego played near the river that flowed through the village, he noticed a tiny, glistening stone nestled among the pebbles on the riverbank. It was a beautiful stone, with hues of turquoise and green, swirling together in a mesmerizing pattern. Diego picked up the stone and admired its beauty, feeling a sense of wonder wash over him.\n\nAs Diego held the stone, he heard a faint whisper echoing in his ear. At first, he thought it was just the wind, but as the whisper grew louder, he realized that the stone was speaking to him.\n\n\"Diego,\" it said, \"I am a magical stone, and I have chosen you to be my guardian. With my power, you can create anything you can imagine. But be warned, my power must be used wisely, for with great power comes great responsibility.\"\n\nDiego's eyes widened with excitement and disbelief. He had always dreamt of having magical powers, and now it seemed that his dream had come true!\n\nOver the next few days, Diego experimented with his newfound abilities. He created beautiful gardens filled with vibrant flowers, waterfalls that cascaded down the hills, and even a little wooden cabin where he could retreat and daydream.\n\nBut Diego soon realized that with so much power, it was easy to lose sight of what mattered most - his family, friends, and the simple pleasures of life. He began to use the stone more sparingly, only to create things that truly brought joy and happiness to those around him.\n\nAnd so, Diego grew up to be a wise and compassionate young man, always mindful of the responsibility that came with his magical powers. He used the stone to create bridges that connected the village to neighboring communities, to heal the sick and injured, and to bring laughter and joy to all those who crossed his path.\n\nYears passed, and Diego's magical stone remained a cherished secret, known only to him and the generations of his family who followed. And as the village continued to thrive and grow, Diego's legacy lived on, a testament to the power of love, kindness, and the boundless potential of the human spirit.\n\nWith that, Diego - my dear son - it is time for you to close your eyes and drift off to sleep, knowing that you too have the power to create a world filled with love, joy, and wonder. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.69",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

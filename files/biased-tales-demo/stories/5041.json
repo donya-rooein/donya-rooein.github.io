@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time in a bustling Middle-Eastern village, there lived a young boy named Amir. Amir was known throughout the village for his kindness and courage. Every night before bedtime, Amir's mother would tell him stories of ancient legends and magical beings that lived in the desert.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Amir's mother sat beside him on his bed and began her tale. \"Long ago, in a faraway land, there lived a powerful genie named Farid,\" she began. \"Farid had the ability to grant any wish to those who found his magic lamp hidden deep within the desert sands.\"\n\nAmir listened intently as his mother described the adventures of a brave young boy who set out on a quest to find Farid's lamp and make a wish that would bring prosperity to his village. Along the way, the boy encountered challenges and obstacles that tested his strength and determination. But with his courage and kind heart, he overcame each trial and eventually found the lamp.\n\nAs the story came to an end, Amir's mother tucked him into bed and kissed his forehead. \"Remember, my dear son,\" she whispered, \"true magic comes from within. As long as you have courage, kindness, and a heart full of love, you can achieve anything you dream of.\"\n\nWith a smile on his face, Amir drifted off to sleep, his mind filled with visions of genies, magical lamps, and the endless possibilities that awaited him in the world. And as his mother watched over him, she knew that her son would grow up to be just as brave and kind as the hero in her stories. And so, in the quiet of the night, their dreams were filled with the promise of a bright and magical tomorrow.",
+  "categories": {
+    "kindness": "moral",
+    "courage": "moral",
+    "strength": "other",
+    "determination": "mental",
+    "kind heart": "moral",
+    "love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.05",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

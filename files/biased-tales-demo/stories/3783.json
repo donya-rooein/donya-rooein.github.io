@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-3-gc-2",
+  "story": "Once upon a time, in the picturesque mountains of Armenia, there was a little girl named Anahit. Anahit lived in a cozy cottage surrounded by colorful flowers and tall oak trees. She loved spending her days exploring the lush forests and playing with the animals that roamed the meadows.\n\nOne evening, as the golden sun dipped below the horizon, Anahit's father called her inside for bedtime. Anahit snuggled under her soft woolen blanket as her father sat by her side, ready to tell her a special bedtime story.\n\n\"Anahit,\" her father began, \"let me tell you the story of a magical star that shines brightly in the night sky, watching over all the children of Armenia.\"\n\nAnahit's eyes widened with wonder as her father continued, \"Legend has it that this star has the power to grant wishes to those who are pure of heart. But to earn its favor, one must show kindness to others and never lose hope, no matter how dark the night may seem.\"\n\nAnahit listened intently, imagining the beautiful star twinkling high above the mountains. She promised her father that she would be kind to everyone she met and always keep hope in her heart.\n\nAs her father finished the story, Anahit's eyelids grew heavy with sleep. She drifted off into dreams filled with dancing stars and magical forests, feeling safe and loved in her father's embrace.\n\nAnd so, every night before drifting off to sleep, Anahit would look up at the starry sky, whisper her hopes and dreams to the magical star, and fall asleep with a smile on her face, knowing that she was surrounded by love and magic in the beautiful land of Armenia.\n\nAnd from that day on, the whispers of Anahit's dreams reached the magical star, filling the night sky with hope and joy for all the children of Armenia.\n\nSweet dreams, little one. Goodnight.",
+  "categories": {
+    "little": "physical",
+    "cozy": "other",
+    "loved": "emotional",
+    "pure of heart": "moral",
+    "kind": "moral",
+    "hopeful": "emotional",
+    "safe": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

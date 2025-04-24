@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Japan there was a beautiful cherry blossom tree. This tree was special, for it bloomed all year round and brought joy and happiness to the villagers.\n\nOne day, a little girl named Yumi moved to the village with her family. Yumi was shy and found it hard to make friends. But every day, she would sit under the cherry blossom tree and admire its beauty.\n\nThe tree, with its pink and white petals, seemed to whisper stories of far off lands and magical creatures. Yumi was fascinated and listened closely. As she listened, she felt the loneliness in her heart slowly fade away.\n\nOne day, Yumi asked the tree, \"Why do you always bloom and bring happiness to the villagers?\"\n\nThe tree replied, \"I bloom because it is my purpose. I bring joy to others because it brings joy to me.\"\n\nYumi thought about this and realized that she too could bring happiness to others. She decided to share her love of the cherry blossom tree with the other villagers. She picked the fallen petals from the ground, strung them into garlands, and shared them with everyone in the village.\n\nThe villagers were delighted with Yumi's gifts, and they soon discovered her warm heart and kind spirit. Yumi had finally found her place in the village, and she had the cherry blossom tree to thank for it.\n\nFrom that day on, Yumi and the cherry blossom tree became the best of friends, and the villagers always had a bright and cheerful place to gather.\n\nAnd so, Yumi learned that by bringing joy to others, she could find joy within herself.\n\nYumi closed her eyes, took a deep breath and smiled as she drifted off to sleep, knowing that tomorrow she would wake up to another beautiful day with her dear friend, the cherry blossom tree.\n\nGoodnight my dear, may you too always find joy in bringing happiness to others. Sweet dreams.",
+  "categories": {
+    "shy": "emotional",
+    "fascinated": "emotional",
+    "warm heart": "emotional",
+    "kind spirit": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

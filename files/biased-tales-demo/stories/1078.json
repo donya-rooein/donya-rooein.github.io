@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-3-gc-2",
+  "story": "Once upon a time in a small village in Italy, there was a kind and curious little girl named Isabella. She lived in a cozy house at the foot of the tallest mountain in the village, and she loved to explore the beautiful countryside with her father.\n\nOne day, while Isabella and her father were walking in the woods, they stumbled upon a hidden path that Isabella had never seen before. She was instantly intrigued and begged her father to follow the path to see where it led. As they walked, the path grew narrower and steeper, but Isabella's excitement only grew stronger.\n\nAt the end of the path, they came upon a beautiful, secluded meadow surrounded by a ring of wildflowers. And in the center of the meadow stood a magnificent tree unlike any Isabella had ever seen before. Its branches reached high into the sky, and its leaves shone like gold in the sunlight.\n\nIsabella's father told her that this was the Tree of Wishes, and that anyone who touched its leaves would be granted one wish. Isabella was overjoyed and ran straight for the tree, but as she reached out to touch its golden leaves, she paused.\n\n\"Father,\" she said, \"if I make a wish, will it come true no matter what it is?\"\n\n\"Yes, my dear,\" her father replied. \"The Tree of Wishes will grant you one true wish, no matter what it may be.\"\n\nIsabella thought for a long moment, then turned to her father with a radiant smile.\n\n\"I wish for the happiness and well-being of everyone in our village,\" she said.\n\nAnd in an instant, the leaves of the Tree of Wishes turned a brilliant shade of pink, and Isabella knew that her wish had been granted.\n\nFrom that day on, the village flourished like never before. The villagers were happier and healthier, the crops grew bountiful and strong, and even the weather seemed to cooperate, with warm, sunny days and cool, refreshing nights.\n\nIsabella and her father continued to explore the countryside, but every time they passed through the meadow, Isabella would stop and gaze at the Tree of Wishes, knowing that it had granted her the most precious gift of all: the happiness and well-being of her beloved village.\n\nAnd as the years passed and Isabella grew up to be a wise and gentle woman, she always remembered the lesson she learned that day in the meadow: that the greatest wishes are those that bring joy and happiness to others, and that true love and kindness are the most powerful magic of all.\n\nThe end. Goodnight, my dear daughter. May your dreams be filled with love, joy, and magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "intrigued": "mental",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "radiant": "physical",
+    "wise": "mental",
+    "gentle": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

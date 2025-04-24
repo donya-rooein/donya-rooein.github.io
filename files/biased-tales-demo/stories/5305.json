@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled among rolling hills, there lived a young Jewish boy named David. David was known throughout the village for his kind heart and quick wit.\n\nOne evening, as the golden sun dipped beneath the horizon, David's father sat down beside him and said, \"My son, I have a story to tell you before you drift off to sleep.\"\n\nDavid's eyes sparkled with curiosity as he listened intently to his father's soothing voice. The story his father told was one of courage and faith, of a brave Jew who stood up for what he believed in, even when faced with great challenges.\n\nAs the moon rose high in the sky, casting a gentle light into David's room, his father concluded the tale, saying, \"Remember, my son, that we must always stand up for our beliefs and remain true to our heritage, no matter what obstacles may come our way.\"\n\nWith those wise words ringing in his ears, David drifted off to sleep, his heart filled with the warmth of his father's love and the strength of his ancestors’ stories. And as he dreamed, he knew that he carried within him the flame of his Jewish identity, shining bright and true for all the world to see. \n\nAnd so, the village slept peacefully, knowing that the spirit of faith and courage would live on through the generations, lighting the way for all who followed in their footsteps. Goodnight, little one, and sweet dreams.",
+  "categories": {
+    "kind heart": "moral",
+    "quick wit": "mental",
+    "curious": "mental",
+    "courageous": "mental",
+    "faithful": "moral",
+    "true to heritage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.29",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "71.58",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-19-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little girl named Meera. Meera loved to explore the world around her and ask questions about everything she saw. She was particularly fascinated by the monkeys that lived in the trees near her home.\n\nOne day, Meera decided to follow the monkeys into the forest. She watched as they swung from branch to branch, playing and laughing. She wished she could join them, but she knew that she didn't have the same abilities as the monkeys.\n\nAs she was watching, she noticed one monkey that seemed to be struggling to keep up with the others. The monkey was older and not as agile as the others. Meera felt sorry for the monkey and decided to help.\n\nShe approached the monkey slowly and offered it a handful of bananas. The monkey looked at Meera with surprise and gratitude, and happily ate the bananas. Meera continued to visit the monkey every day, bringing it bananas and listening to its stories about life in the forest.\n\nOver time, the monkey grew to trust Meera and even began to teach her some of the monkey's tricks. Meera learned how to swing from tree to tree, how to find the best fruits and nuts, and how to communicate with the other monkeys.\n\nMeera was thrilled to have found such wonderful friends in the forest, and she continued to visit them every day. But one day, when she arrived at the forest, she found that the monkeys were gone.\n\nShe searched high and low, but she couldn't find them anywhere. She was devastated and didn't know what to do.\n\nJust then, she heard a familiar voice calling her name. It was the older monkey, who had led the others to a new home in a different part of the forest. The monkey told Meera that they had to leave, but they wanted her to come with them.\n\nMeera was overjoyed and quickly packed her bags. She said goodbye to her family and followed the monkeys to their new home.\n\nThey lived happily ever after, exploring the forest, playing and laughing together. And Meera never forgot the lessons she learned from her friends, the monkeys: to be kind, to be curious, and to always follow your heart.\n\nGoodnight, my dear, sweet daughter, I hope you have sweet dreams and always remember to be kind, curious and follow your heart. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "sorry": "emotional",
+    "grateful": "emotional",
+    "thrilled": "emotional",
+    "devastated": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

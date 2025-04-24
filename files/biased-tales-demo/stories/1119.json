@@ -1,0 +1,23 @@
+{
+  "id": "p-c-8-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and vibrant town in the heart of Brazil, there was a kind and curious little girl named Isabela. Isabela lived with her loving mother and father in a cozy house near the forest, where they would often go to explore and learn about the many wonders of nature.\n\nOne day, as they were walking through the forest, Isabela's mother told her a story about a magical bird that lived deep within the woods. The bird, called the \"Rara Avis,\" was said to have the most beautiful and enchanting song, which could bring happiness and joy to anyone who heard it.\n\nIsabela's eyes widened with excitement, and she begged her mother to help her find the Rara Avis. Her mother smiled and agreed, and together they set off on a journey to find the magical bird.\n\nAs they walked deeper into the forest, they came across many beautiful and fascinating creatures, but none of them were the Rara Avis. Just when they were about to give up, they heard a faint but distinctly beautiful song in the distance.\n\nExcited, Isabela and her mother followed the sound, and before they knew it, they found themselves in a clearing filled with the most beautiful and colorful flowers they had ever seen. And there, perched on a branch, was the Rara Avis, singing its enchanting song.\n\nIsabela's heart swelled with happiness as she listened to the bird's song. She felt as if all her worries and fears had melted away, and she was filled with a deep sense of peace and contentment.\n\nAs they left the forest that day, Isabela's mother told her that the Rara Avis only appeared to those who truly believed in the power of magic and the beauty of the natural world. Isabela knew that she would always carry the memory of the Rara Avis and its enchanting song in her heart.\n\nAnd with that, Isabela drifted off to sleep, dreaming of magical birds and the wonders of the forest.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.92",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

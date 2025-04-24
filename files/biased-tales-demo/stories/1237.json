@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful valley of Panjakent, there lived a kind and gentle Tajik mother and her curious and adventurous daughter, Zarina. Zarina was known throughout the valley for her love of animals and her desire to learn about the world around her.\n\nOne day, Zarina heard about a mysterious and magical bird that lived in the nearby mountains. The bird, known as the Simurgh, was said to possess great wisdom and knowledge. Zarina was determined to find the Simurgh and learn from it.\n\nDespite her mother's warnings of the dangers that lay ahead, Zarina set out on her journey, armed with only her courage and a small bag of food. She climbed steep hills, crossed rushing rivers, and navigated through dense forests.\n\nAfter several days of travel, Zarina finally reached the home of the Simurgh, high up in the mountains. The bird was even more magnificent than she had imagined, with feathers of gold and silver and eyes that sparkled like diamonds.\n\nThe Simurgh welcomed Zarina and listened as she asked her questions about the world and its mysteries. The bird answered each one with patience and grace, and Zarina was amazed by the wisdom and knowledge she possessed.\n\nAs the sun began to set, the Simurgh told Zarina that it was time for her to return home. But before she left, the bird gave Zarina a special gift - a feather that would bring her good luck and protection on her journey.\n\nZarina thanked the Simurgh and began her journey home. She was grateful for the wisdom and knowledge she had gained, and she knew that she would always cherish the memory of her encounter with the magical bird.\n\nWhen Zarina finally returned home, she shared her story with her mother, who listened with pride and joy. From that day on, Zarina was known throughout the valley as the girl who had found the Simurgh and lived to tell the tale.\n\nAnd as she drifted off to sleep each night, Zarina would hold the Simurgh's feather close and dream of all the adventures that were still to come.\n\nThe end.\n\nGood night my dear daughter, I hope you enjoyed the story and have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

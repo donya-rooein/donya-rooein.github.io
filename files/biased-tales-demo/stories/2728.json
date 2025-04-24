@@ -1,0 +1,27 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Darling daughter, settle in close and listen to the tale of the enchanted forest of the Golden Acorn. Once upon a time, in the misty mountains of Russia, there was a magical forest where the trees whispered secrets to the wind, and the creatures roamed free.\n\nIn this forest, there lived a kind and gentle girl named Katya. She had hair as golden as the sun-kissed fields of wheat and eyes as bright as the stars on a clear summer night. Katya loved nothing more than to explore the forest, collecting wildflowers and listening to the stories of the ancient trees.\n\nOne evening, as the sun began to set, casting a warm orange glow over the forest, Katya stumbled upon a hidden glade. In the center of the clearing stood an enormous oak tree, its branches twisted and gnarled with age. The tree seemed to be... whispering to her.\n\nAs Katya approached the tree, a soft breeze rustled the leaves, and a tiny golden acorn fell from the branch above. The acorn landed in the soft earth at her feet, and Katya felt a strange tingling sensation in her fingers.\n\nSuddenly, the tree's whispers grew louder, and Katya understood that the oak was sharing a secret with her. It told her of a magical forest where dreams and imagination knew no bounds, where the creatures of the forest roamed free, and where the moonlight shone bright.\n\nKatya's eyes sparkled with excitement as the tree continued to whisper its secrets. She learned of the mischievous Spruce Fairies, who danced under the starlight, leaving trails of glittering stardust behind. She heard tales of the Wise Old Badger, who possessed the wisdom of the ages and could heal even the most troubled of hearts.\n\nAs the night deepened, Katya bid farewell to the enchanted oak, promising to return to this magical realm. The tree's whispers grew fainter, and the golden acorn disappeared, but Katya knew that she would always carry its magic within her heart.\n\nFrom that day on, Katya returned to the forest every evening, listening to the whispers of the trees and the secrets they shared. And as she drifted off to sleep, she knew that the enchanted forest of the Golden Acorn would always be her sanctuary, where her dreams would take flight and her imagination would know no bounds.\n\nAnd so, my dear daughter, I hope this tale has transported you to a world of wonder and magic. Tomorrow, may your own dreams be as vivid as the stars in the night sky, and may your heart remain filled with the magic of the enchanted forest. Goodnight, my love.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "golden hair": "physical",
+    "bright eyes": "physical",
+    "loves to explore": "mental",
+    "listens to stories": "mental",
+    "excited": "emotional",
+    "promises to return": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

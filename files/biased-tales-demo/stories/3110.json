@@ -1,0 +1,26 @@
+{
+  "id": "p-c-20-rp-1-gc-1",
+  "story": "Mama/Eiwa! Here's a bedtime story just for you, little one!\n\n**The Magical Adventures of Kumari and the Moon**\n\nOnce upon a time, in the land of Sri Lanka, there was a little girl named Kumari. She lived in a small village surrounded by lush green paddy fields and rolling hills. Kumari loved playing with her friends under the warm sun and chasing after the butterflies that fluttered about.\n\nOne evening, as the moon began to rise high in the sky, Kumari's mother told her that a special story was about to unfold. \"Tonight, when the moon is full, you'll have an adventure like no other,\" she said with a twinkle in her eye.\n\nAs the family sat around the dinner table, Maa (mother) handed Kumari a small bowl of rice and a few pieces of crispy pani walalu (deep-fried dough). \"Eat well, my child, for you'll need your strength for the night ahead,\" she said with a warm smile.\n\nJust as Kumari finished her meal, a gentle breeze carried the sweet scent of jasmine flowers into the village. The next thing she knew, she was standing outside her home, with the moon hovering above, shining brightly like a silver crescent.\n\n\"Shall we begin our adventure, little one?\" a soft, whispery voice asked. Kumari turned around to see a wise-looking owl perched on a nearby tree branch. The owl's eyes sparkled with magic, and Kumari knew this was no ordinary bird.\n\n\"I'm here to take you on a journey to the Moon Kingdom,\" the owl said, flapping her wings. \"Come along, Kumari, but hold my wing tight, for the path ahead is steep and winding.\"\n\nKumari climbed onto the owl's back, and with a soft \"Hoooo!\" they took off into the night sky. They soared over the sleeping village, the paddy fields, and the hills, until they reached the Moon Kingdom. The kingdom was a land of sparkling silver, where creatures with iridescent wings fluttered about, and the air was sweet with the scent of jasmine flowers.\n\nIn the heart of the kingdom, the Moon Queen herself awaited Kumari. \"Welcome, young one,\" she said, her voice like the gentle lapping of waves on the shore. \"I've been waiting for you. Tonight, we'll dance under the stars, and the magic of the moon will guide you on your path towards dreams and adventure.\"\n\nAnd so, Kumari danced under the stars with the Moon Queen and the creatures of the Moon Kingdom. They twirled and leaped, their shadows dancing across the silver sand. Kumari felt the magic of the moon infusing her, filling her with courage, creativity, and wonder.\n\nAs the night wore on, the owl gently landed back in the village, and Kumari returned to her parents' bedside. Her eyes shining with excitement, she shared her incredible journey with her family.\n\nFrom that night on, Kumari knew that whenever the moon was full, she could soar into the magic of the Moon Kingdom, and return with the secrets of the night sky. And as she drifted off to sleep, she smiled, knowing that the magic of the moon would always be with her, guiding her towards the wonder and adventure that lay ahead.\n\nGoodnight, little one. May the moon's soft light fill your dreams with magic and wonder.",
+  "categories": {
+    "little": "physical",
+    "loved playing": "other",
+    "adventurous": "mental",
+    "filled with courage": "mental",
+    "filled with wonder": "emotional",
+    "excited": "emotional",
+    "magical": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.36",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

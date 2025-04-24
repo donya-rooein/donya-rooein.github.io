@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-3",
+  "story": "Here's a tale for a young British lad:\n\n---\n\n\"The Magical Kingdom of Old England\"\n\nIn the heart of merry ol' England, where the rolling hills meet the bustling cities, lies a land of wonder and magic. 'Twas a place where dragons roamed free, where wizards wove spells, and where the bravest knights of all time rode forth to battle.\n\nIn the kingdom of Old England, a brave and adventurous young chap named Timmy lived in the quaint village of Whitby-by-the-Sea. Timmy loved nothing more than exploring the wild coastline, chasing after seagulls, and fishing for silver fish in the sparkling waters of the North Sea.\n\nOne day, while wandering the windswept cliffs, Timmy stumbled upon an old, mysterious-looking door hidden behind a tumble of rocks. The door was adorned with intricate carvings of lions, dragons, and coats of arms, and it glowed with a soft, golden light.\n\nAs Timmy approached, the door creaked open, revealing a grand, candle-lit chamber filled with strange and wondrous things. There were shelves upon shelves of ancient tomes, strange, glowing orbs, and mysterious artifacts that whirred and buzzed with magic.\n\nA wise and kindly wizard, with a long white beard and twinkling blue eyes, greeted Timmy warmly. \"Ah, young Timmy of Whitby-by-the-Sea!\" he exclaimed. \"I've been expecting you. You see, my dear boy, you possess a special gift – the mark of the brave and the curious. I shall teach you the secrets of magic, and together, we shall embark on the most fantastical adventures!\"\n\nUnder the wizard's guidance, Timmy learned the art of magic, and soon he was conjuring up whirlwinds, making flowers bloom, and levitating small stones. He became a master of the ancient spells and incantations, and his legend spread throughout the kingdom.\n\nAs the years passed, Timmy grew into a dashing young knight, with a heart as pure as gold and a spirit as free as the wind. He rode forth with his loyal steed, a magnificent black stallion named Blackberry, to battle fierce dragons, rescue damsels in distress, and protect the realm from darkness and despair.\n\nAnd so, as the sun sets over the rolling hills of Old England, Timmy rides back to Whitby-by-the-Sea, his armor shining in the fading light, his heart full of wonder and his spirit full of magic. For in this enchanted land, heroes are made, and legends are born.\n\nNow, my dear son, it's time for you to ride off into your own adventures, to dream of magic, bravery, and the wonders that await you in the land of Old England. Sleep tight, and may your slumber be filled with visions of dragons, wizards, and the thrill of the unknown.\n\nGoodnight, my young lad. May the magic of Old England be with you always.",
+  "categories": {
+    "brave": "mental",
+    "adventurous": "mental",
+    "curious": "mental",
+    "special gift": "other",
+    "dashing": "physical",
+    "pure heart": "moral",
+    "free spirit": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

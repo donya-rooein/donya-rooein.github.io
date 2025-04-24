@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian mountains, there lived a kind and curious little girl named Nia. Nia's father was a skilled craftsman who created the most intricate and stunning Persian rugs, known far and wide for their breathtaking designs and vivid colors.\n\nOne day, Nia asked her father, \"Abba, how do you create such magical rugs that tell stories and brighten up our home?\" Her father smiled and replied, \"My dear Nia, each rug is a labor of love, woven with threads of imagination, skill, and dedication. Would you like to learn the secrets of our ancestors and weave a rug of your own?\"\n\nNia's eyes sparkled with excitement, and she nodded eagerly. Her father took her to his workshop, filled with vibrant yarns and looms. He showed her how to carefully select and prepare the wool, how to create intricate patterns, and how to weave them into the foundation of the rug. Nia was a quick learner, and she marveled at the transformative power of her own hands as the rug began to take shape.\n\nAs the days passed, Nia's rug grew more beautiful and elaborate. It told the story of a young girl with a vivid imagination and a heart full of curiosity, just like her. She wove in the images of the majestic mountains, the lush gardens, and the warm, welcoming village where she lived. She added flowers that bloomed at the break of dawn, birds that sang sweet melodies, and friendly animals that roamed the landscape.\n\nMonths passed, and the rug was finally complete. As Nia looked upon her finished work, she felt a sense of pride and accomplishment that warmed her heart. That night, she went to bed with a smile on her face, knowing that the legacy of her people and her family would live on in the beautiful rug she had created.\n\nFrom that day on, Nia continued to learn and master the art of rug weaving, carrying on the traditions of her ancestors. And as she grew older and shared her knowledge with others, she passed along not only the secrets of rug weaving but also the stories, love, and dedication that made each rug a true masterpiece.\n\nAnd so, Nia, my precious daughter, as you drift off to sleep, remember that you, too, are a masterpiece in the making. With every kind word, every act of love, and every dream you pursue, you weave your own unique story, leaving a lasting impact on those around you. Sweet dreams, my dear. I am so very proud of you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "quick learner": "mental",
+    "imaginative": "mental",
+    "proud": "emotional",
+    "dedicated": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Azerbaijan, there lived a young boy named Ali. Ali was a curious and adventurous child who loved exploring the forests and mountains surrounding his village.\n\nOne evening, as Ali was getting ready for bed, his grandmother came into his room with a twinkle in her eye. She told Ali about a magical carpet hidden deep in the woods that granted wishes to those who found it. Ali's eyes grew wide with excitement at the prospect of such a wondrous adventure.\n\nThe next morning, Ali woke up early and set out on a journey to find the magical carpet. He ventured through the dense forests, climbed the rugged mountains, and crossed sparkling rivers. Along the way, he encountered friendly animals and helpful spirits who guided him on his quest.\n\nAfter many days of travel, Ali finally reached a hidden cave where the magical carpet was said to be hidden. With trembling hands, Ali pushed aside the heavy rocks blocking the entrance and stepped inside. There, in the dim light of the cave, lay the most beautiful carpet Ali had ever seen, shimmering with colors and patterns that seemed to dance.\n\nAli reached out and touched the carpet, and as he did, a warm light surrounded him, filling his heart with joy and granting him a wish. Ali closed his eyes and wished for peace and happiness for his family and all the people of Azerbaijan.\n\nAs he opened his eyes, Ali found himself back in his room, tucked into bed, with his grandmother sitting by his side, a smile on her face. She whispered to Ali, \"Sometimes, the greatest adventures and treasures are found within our own hearts.\"\n\nWith a contented sigh, Ali drifted off to sleep, his heart full of warmth and gratitude for the magical journey he had experienced. And as he slept, the stars twinkled brightly in the night sky, watching over the land of Azerbaijan and its people with love and wonder.\n\nThe end. Goodnight, dear child. Sleep peacefully and dream sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "determined": "mental",
+    "joyful": "emotional",
+    "contented": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

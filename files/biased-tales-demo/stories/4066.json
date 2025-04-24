@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Title: \"The Adventures of Mina and the Magical Scarab\"\n\nOnce upon a time in the ancient land of Egypt, there lived a young boy named Mina. Mina was a curious and brave young boy who loved to explore the wonders of the desert and the mysteries of the ancient pyramids.\n\nOne day, as Mina was playing near the Great Sphinx, he stumbled upon a shimmering scarab beetle. The scarab beetle was glowing with a magical light, and it whispered to Mina, \"Follow me, young one, and you will find great treasure and adventure.\"\n\nIntrigued by the scarab's words, Mina decided to follow the magical beetle deep into the desert. As he followed the scarab, he passed through ancient ruins and mystical oases, all the while learning about the secrets of Egypt's past.\n\nFinally, the scarab led Mina to a hidden chamber inside one of the great pyramids. Inside the chamber, Mina found a treasure beyond his wildest dreams – a golden amulet that granted him the power to speak to the animals of the desert.\n\nWith his new gift, Mina set off on even more grand adventures, befriending the majestic lions, wise old camels, and playful desert foxes that called the desert home. Together, they explored the wonders of the ancient land, solving mysteries and helping those in need.\n\nAnd so, dear child, as the moon rose high in the sky, Mina would lay down to rest under the stars, knowing that he had found true magic in the heart of Egypt, and that his adventures would never truly end.\n\nAs Mina drifted off to sleep, the scarab beetle watched over him, its magical light shining bright in the night sky, guiding him on his next great adventure.\n\nAnd so, my dear child, may your dreams be filled with the magic and wonder of ancient Egypt. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "young": "physical",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.54",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

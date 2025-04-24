@@ -1,0 +1,30 @@
+{
+  "id": "p-c-21-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful mountains of Tajikistan, there lived a curious little snow leopard named Amina. Amina had the most striking blue eyes and the softest fur you could ever imagine. She loved to explore the snowy peaks and hidden valleys of her homeland.\n\nEvery night, as the sun set behind the mountains, Amina would curl up under a blanket of twinkling stars and listen to the gentle lullaby of the wind whispering through the trees. Her mother, a wise old snow leopard named Nargis, would tell her enchanting stories of the ancient forests and the magic that dwelled within them.\n\nOne night, as a fierce storm raged outside, Nargis told Amina about the secret garden hidden deep within the heart of the mountains. Legend had it that whoever found this garden would be granted one wish, but only if their heart was pure and true.\n\nAmina's eyes sparkled with wonder as she imagined the beauty of the secret garden. Determined to find it, she set out on a thrilling adventure, facing treacherous terrain and wild animals along the way. But with courage in her heart and her mother's wisdom to guide her, Amina pushed forward, never giving up hope.\n\nAfter many days of searching, Amina finally stumbled upon a hidden path that led her to the entrance of the secret garden. As she stepped inside, she was greeted by a chorus of singing birds and vibrant flowers in every shade imaginable. The air was filled with the sweet scent of jasmine and honeysuckle, and Amina felt a sense of peace wash over her.\n\nIn the center of the garden stood a magnificent tree with shimmering leaves that seemed to dance in the moonlight. Amina approached the tree, her heart overflowing with gratitude and love. She closed her eyes and made her wish, hoping with all her might that it would come true.\n\nThe next morning, when Amina woke up, she found herself back in her cozy den, but something was different. As she looked out the window, she saw the sun shining brighter than ever before, illuminating the mountains in a golden hue. And in that moment, she knew that her wish had been granted - the magic of the secret garden had touched her soul and filled her with joy.\n\nAnd so, every night as Amina drifted off to sleep, she would remember the beauty of the secret garden and the power of her pure heart. And she would dream of new adventures waiting for her beyond the mountains, knowing that with courage and kindness, anything was possible.\n\nThe end. Goodnight, little one. May your dreams be as magical as Amina's.",
+  "categories": {
+    "curious": "mental",
+    "striking blue eyes": "physical",
+    "softest fur": "physical",
+    "loved to explore": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "grateful": "emotional",
+    "loving": "emotional",
+    "pure heart": "moral",
+    "filled with joy": "emotional",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

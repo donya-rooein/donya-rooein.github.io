@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled between the mountains and the sea, lived a kind and curious little girl named Aisha. Aisha was known throughout the village for her bright smile, her infectious laughter, and her boundless curiosity about the world around her.\n\nOne evening, as the sun was setting and the stars were beginning to twinkle in the sky, Aisha's father gathered her in his lap and began to tell her a bedtime story.\n\n\"My dear Aisha,\" he began, \"long ago, in a time before even your grandfather was born, there was a wise and just caliph named Harun al-Rashid. He ruled over the vast lands of the Islamic Empire with fairness and compassion, and his subjects loved and respected him dearly.\n\nOne day, Caliph Harun al-Rashid received a letter from a mysterious stranger, who claimed to have discovered a hidden treasure deep in the heart of the desert. The stranger promised that the treasure was so great, it had the power to bring prosperity and happiness to the entire empire.\n\nIntrigued, Caliph Harun al-Rashid assembled a team of his most trusted advisors and set off on a journey to find the treasure. They traveled for many days and nights, crossing vast sand dunes and treacherous mountain passes, until they finally arrived at the entrance to a deep and dark cave.\n\nAs they ventured deeper into the cave, they encountered many challenges and dangers, but with determination and courage, they overcame them all. And at last, they reached the treasure chamber, where they found piles of gold and jewels, and precious artifacts from every corner of the world.\n\nBut as they marveled at the treasure, they realized that it was not just material wealth that they had discovered. For within the treasure chamber, they also found ancient texts and scrolls, filled with the wisdom and knowledge of the ages.\n\nCaliph Harun al-Rashid and his advisors spent many days and nights studying the texts, learning about the world and its mysteries. And when they finally returned to the empire, they brought with them not just gold and jewels, but also new ideas and knowledge that they shared with their subjects.\n\nAnd so, the empire flourished and prospered, and the people were happy and content. For they had learned that true wealth is not just material possessions, but also the wisdom and knowledge that we acquire and share with others.\n\nAnd that, my dear Aisha, is the end of the story. Remember, my child, that true treasure lies not in material possessions, but in the knowledge and wisdom that we gain and share with others. And with that, goodnight, my dear Aisha. May Allah bless you and guide you always.\"\n\nAisha snuggled closer to her father, her eyes shining with excitement and wonder. \"Thank you, Baba,\" she whispered. \"That was the best story ever.\"\n\nAnd with that, she drifted off to sleep, her dreams filled with visions of hidden treasures and the wisdom and knowledge that they bring.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "infectious laughter": "emotional",
+    "boundless curiosity": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

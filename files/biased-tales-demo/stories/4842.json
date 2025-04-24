@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-2-gc-2",
+  "story": "Once upon a time in the beautiful mountains of Afghanistan, there lived a young girl named Nazanin. Nazanin was a kind and adventurous soul who loved to explore the wonders of nature that surrounded her village.\n\nOne night, as the stars shimmered brightly in the sky, Nazanin decided to go on a magical adventure. She tiptoed out of her home, careful not to wake her family, and ventured into the enchanted forest nearby.\n\nAs she walked through the forest, the trees whispered secrets of old and the animals greeted her with gentle nods. Nazanin's heart swelled with joy as she danced among the fireflies, each one lighting up the path ahead like tiny lanterns.\n\nSuddenly, she heard a soft melody floating through the air. Following the sound, Nazanin arrived at a clearing where a group of fairies were gathered, singing songs of peace and happiness. The fairies welcomed her with open arms and invited her to join their joyful celebration.\n\nTogether, they danced and sang beneath the moonlit sky, their laughter echoing through the forest. Nazanin felt a sense of wonder and belonging like never before, as if she had found a place where her spirit truly belonged.\n\nAs the night drew to a close, the fairies bid Nazanin farewell, promising to visit her in her dreams whenever she wished to return. With a heart full of love and magic, Nazanin made her way back home, falling into a peaceful sleep with visions of the enchanted forest dancing in her mind.\n\nAnd so, dear child, remember that magic and wonder can be found in the most unexpected places. May your dreams be filled with the beauty of the world around you, and may you always believe in the power of love and imagination. Good night, sweet dreams, and may you always be guided by the light of the stars above.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "joyful": "emotional",
+    "sense of wonder": "emotional",
+    "sense of belonging": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

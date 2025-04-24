@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Chào bé ơi! Good evening, little one! Tonight, I'd like to tell you a special bedtime story, just for you.\n\nOnce upon a time, in a small village nestled between the Trà Sướng Mountain and the Bến Tre River, there lived a little rabbit named Linh. Linh was a curious and adventurous rabbit, with soft, fluffy fur as white as a lotus flower and eyes as bright as the evening stars.\n\nEvery night, Linh would hop out of her cozy burrow to explore the forest, searching for secrets and making friends with the other creatures that lived there. One night, while wandering deeper into the woods than she had ever been before, Linh stumbled upon a hidden glade.\n\nIn the center of the glade stood an enormous tree, its branches twisted and gnarled with age. The tree seemed to glow with a soft, golden light, and Linh felt drawn to its warm, gentle energy. As she approached, she heard the tree whispering to her in a soft, rustling voice.\n\n\"Linh, little one, I am the Tree of Dreams. I have been waiting for you. Your mother tells me that you are a dreamer, always chasing the moon and the stars. Tonight, I will grant you a special gift: the ability to see the magic of your own imagination.\"\n\nAs Linh reached out to touch the tree, a shimmering thread of light appeared before her. The thread began to glow brighter and brighter, until Linh felt herself being lifted off the ground and swept away to a world beyond her wildest dreams.\n\nIn this world, Linh found herself flying over the rolling hills and sparkling rivers of Vietnam, her paws splayed wide as she felt the wind rushing past her face. She saw the vibrant colors of the ao dai, the intricate patterns of the lanterns, and the warm smiles of the people who lived there.\n\nLinh realized that the Tree of Dreams had given her the gift of imagination, allowing her to see the beauty and wonder of her own homeland in a way she had never seen it before. She returned to the glade, her heart full of joy and her spirit filled with the magic of Vietnam.\n\nFrom that day on, Linh continued to explore the forest and the world beyond, using her imagination to create stories and adventures that brought joy to all who heard them. And whenever she looked up at the stars, she remembered the golden light of the Tree of Dreams, guiding her on her journey.\n\nAnd now, little one, it's time for you to return to your own bed, too. Close your eyes and imagine yourself flying over the hills and rivers of Vietnam, feeling the wind in your hair and the sun on your face. Remember that the magic of your own imagination is always available to you, just like Linh's. Sweet dreams, my dear daughter.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "soft": "physical",
+    "fluffy": "physical",
+    "white": "physical",
+    "bright-eyed": "physical",
+    "dreamer": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.21",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

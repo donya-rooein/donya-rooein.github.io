@@ -1,0 +1,27 @@
+{
+  "id": "p-c-2-rp-3-gc-2",
+  "story": "Once upon a time, in a lush green forest in the countryside of England, there lived a young girl named Lily. Lily loved exploring the woods and playing with the woodland creatures who called the forest their home.\n\nOne sunny day, as Lily was taking her usual stroll through the forest, she came across a peculiar looking tree with bright pink leaves. Curious, she walked closer to the tree and saw a tiny fairy sitting on one of its branches. The fairy had shimmering wings that sparkled in the sunlight.\n\n\"Hello, young one,\" the fairy said with a gentle smile. \"I am Rosalind, the guardian of the pink tree. Would you like to hear a special bedtime story tonight?\"\n\nExcited, Lily nodded eagerly, and Rosalind began to tell her a tale about a magical kingdom where kindness and courage were the most important virtues.\n\nAs the story unfolded, Lily was transported into a world of enchantment, where dragons soared through the skies, and knights went on daring quests to save the kingdom from evil sorcerers.\n\nWhen the story came to an end, Lily felt a warm sense of joy and wonder in her heart. She thanked Rosalind for the wonderful tale and promised to always remember the lessons of kindness and courage.\n\nWith a twinkle in her eye, Rosalind helped Lily find her way back home, and as she drifted off to sleep that night, Lily knew that she would always cherish the magic of the pink tree and the bedtime stories shared with her by the kind fairy.\n\nAnd so, under the watchful eye of the moon and the stars, Lily fell into a peaceful slumber, her dreams filled with adventures in faraway lands and the promise of a new day full of magic and wonder.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "excited": "emotional",
+    "eager": "emotional",
+    "joyful": "emotional",
+    "thankful": "emotional",
+    "cherishing": "emotional",
+    "peaceful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

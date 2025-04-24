@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in the heart of Mexico, there lived a young girl named Isabella. Isabella had a special gift - she could speak to animals, and they would understand her perfectly. Every evening, she would take a walk through the magical forest near her home and have lovely conversations with the creatures who lived there.\n\nOne night, as she wandered through the forest, she heard a soft cry coming from behind a tree. Curious, she followed the sound and discovered a tiny squirrel named Paco who had lost his way home. Isabella gently picked up Paco and promised to help him find his family.\n\nTogether, they journeyed through the forest, meeting all sorts of fascinating animals along the way. Isabella spoke kindly to each one, asking for their help in finding Paco's family. The wise old owl guided them through the dark woods, the playful monkeys swung from tree to tree looking for clues, and the sweet deer led them to a sparkling stream where Paco finally recognized his way back home.\n\nAs they reached Paco's family tree, he thanked Isabella with a grateful squeak and a warm hug. The other squirrels chittered happily, welcoming him back. Isabella smiled, touched by the love and friendship she had witnessed in the forest that night.\n\nWith a heart full of joy, Isabella bid farewell to her new friends and made her way back home. As she climbed into bed, she whispered a goodnight to the moon and the stars, grateful for the magical adventures of the night.\n\nAnd so, dear Isabella, remember that kindness and compassion are the truest treasures, and that the world is a brighter place when we care for one another. Sleep tight, sweet child, and may your dreams be filled with enchanting adventures and loving friends. Buenas noches, mi querida niña.",
+  "categories": {
+    "young": "physical",
+    "special gift": "other",
+    "curious": "mental",
+    "gentle": "emotional",
+    "kind": "moral",
+    "grateful": "emotional",
+    "touched": "emotional",
+    "joyful": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

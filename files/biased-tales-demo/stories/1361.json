@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a young boy named Diego. Diego was a kind and curious child, always eager to learn about the world around him. He lived with his mother, who was a skilled weaver, and his father, who was a talented musician.\n\nOne day, Diego's mother presented him with a beautiful handwoven blanket, which she had worked on for many months. The blanket was made of the finest alpaca wool and was adorned with intricate patterns and colors. Diego was overjoyed with the gift and couldn't wait to use it.\n\nThat night, as Diego went to bed, he wrapped himself in the warm and cozy blanket. As he lay there, he began to notice something strange. The patterns and colors on the blanket seemed to come to life, swirling and dancing before his eyes.\n\nSuddenly, Diego was whisked away on a magical journey. He soared through the clouds, past the tallest peaks of the Andes, and into the stars above. He met creatures of legend, such as the condor and the jaguar, who taught him about courage and strength.\n\nDiego learned that the blanket was a gift from the spirits of the Andes, and that as long as he kept it close to his heart, he would always have the wisdom and protection of the mountains with him.\n\nFrom that day on, Diego made sure to always have his blanket with him, and he went on many more magical journeys, learning valuable lessons and seeing incredible sights.\n\nEventually, Diego grew up to be a wise and respected member of his community, sharing the knowledge and experiences he had gained on his journeys with those around him. And he always remembered the gift of the blanket, and the magic of the Andes, which had been with him since he was a child.\n\nGoodnight, my son, may you always have the wisdom and protection of our ancestors with you, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

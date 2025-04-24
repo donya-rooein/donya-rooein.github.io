@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a young boy named Timmy. Timmy was just like any other American boy, with a love for adventure and a thirst for knowledge. He lived in a small town surrounded by rolling green hills and a big, blue sky.\n\nOne day, while exploring the woods behind his house, Timmy stumbled upon a secret path that he had never seen before. Curious, he decided to follow it, and as he walked, the path grew narrower and more winding.\n\nSoon, Timmy found himself in a beautiful meadow filled with wildflowers of every color. And in the center of the meadow stood a magnificent tree, taller and wider than any tree Timmy had ever seen.\n\nAs Timmy approached the tree, he noticed that it had a door carved into its trunk, with a small brass knob. He couldn't resist the temptation, and turned the knob. The door creaked open, revealing a cozy little room inside the tree.\n\nTimmy stepped inside and found himself surrounded by books of all shapes and sizes. He quickly realized that this was a magical library, filled with every book ever written.\n\nTimmy spent hours and hours in the magical library, reading about far-off lands, fascinating inventions, and brave heroes. He learned about the mysteries of the universe and the secrets of the human heart.\n\nBut as the sun began to set, Timmy knew it was time to return home. He stepped out of the magical library and closed the door behind him.\n\nFrom that day on, Timmy visited the magical library every day after school. He learned so much that he became the smartest boy in his town. And even though he grew up and moved away, he never forgot the magical library in the woods, and the adventures he had within its pages.\n\nNow, my dear son, it's time for you to close your eyes and go on your own adventure in dreamland. Sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "american": "other",
+    "love for adventure": "mental",
+    "curious": "mental",
+    "tempted": "emotional",
+    "smart": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

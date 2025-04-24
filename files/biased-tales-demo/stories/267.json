@@ -1,0 +1,23 @@
+{
+  "id": "p-c-25-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted and hardworking father named Hai. He had a little girl named Mei, who was his pride and joy. Mei was a curious and adventurous little girl who loved to explore the world around her.\n\nOne day, Mei asked her father, \"Father, why is the moon so round and bright in the night sky?\"\n\nHai smiled at his daughter's curiosity and said, \"Long ago, there was a time when the moon was not round and bright. It was a new moon, dark and empty. There was a littlemouse named Minh who lived in a hole near the riverbank. Minh was a kind and helpful little mouse, who was loved by all the animals in the village.\"\n\n\"One day, the sky goddess, Thien Y A Na, came down to earth to visit her creatures. She was pleased to see the harmony and peace in the village, and she asked the animals to tell her about their lives. The animals praised Minh for his kindness and humility, and Thien Y A Na was touched by his story.\"\n\n\"She decided to reward Minh by granting him one wish. Minh thought for a moment and then said, 'Dear Thien Y A Na, I wish that the moon could shine brightly every night, so that no animal or human would ever have to be afraid of the dark.' Thien Y A Na was moved by Minh's selflessness and granted his wish.\"\n\n\"From that day on, the moon shone brightly every night, and the village was filled with light and joy. Minh's kindness had brought happiness to all, and he was remembered as a hero.\"\n\nMei listened to her father's story with wide eyes and a big smile on her face. She hugged her father tightly and said, \"Father, I will always remember Minh's kindness and try to be like him.\"\n\nHai smiled and kissed Mei on the forehead. \"That's my little girl,\" he said. \"Now, it's time for you to go to sleep and dream of your own adventures.\"\n\nAnd with that, Mei closed her eyes and drifted off to sleep, with visions of kind mice and bright moons dancing in her head.",
+  "categories": {
+    "kind-hearted": "moral",
+    "hardworking": "mental",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "88.16",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

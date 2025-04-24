@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always full of wonder and imagination. She lived in a cozy little cottage in the woods with her mother and father, and every night her father would tell her the most magical bedtime stories.\n\nOne night, as Lily lay in bed, her father began to tell her a story about a magical kingdom hidden deep in the heart of the woods. This kingdom was ruled by a wise and just queen, who had a beautiful garden filled with the most magnificent flowers in all the land.\n\nAs Lily listened to the story, she couldn't help but feel a sense of longing in her heart. She wanted to see this magical kingdom for herself, and she begged her father to take her there.\n\nAt first, her father was hesitant. He knew that the kingdom was guarded by fierce and magical creatures, and he didn't want his little girl to be in any danger. But Lily was insistent, and eventually her father relented.\n\nTogether, they set off into the woods, following a winding path that led deeper and deeper into the forest. As they walked, they encountered all sorts of wonderful and magical creatures, from talking animals to fairies and sprites.\n\nFinally, after many hours of walking, they reached the gates of the magical kingdom. But as they approached, they were stopped by a fierce dragon who guarded the entrance.\n\nThe dragon looked at Lily and her father with suspicion, but Lily wasn't afraid. She stepped forward and spoke to the dragon in a soft and gentle voice, telling him of her desire to see the magical garden and learn from the wise queen.\n\nThe dragon was moved by Lily's kind and gentle words, and he allowed them to enter the kingdom. As they walked through the gates, they were greeted by the queen herself, who welcomed them with open arms.\n\nLily spent the rest of the day exploring the magical kingdom and learning from the wise queen. And when it was time to leave, the queen gave Lily a special gift - a seed from her own magical garden.\n\nLily planted the seed in her own garden back home, and over time, it grew into the most magnificent flower she had ever seen. And every night, as she lay in bed, she would think of the magical kingdom and the wise queen, and she knew that she would always carry the magic of that place in her heart.\n\nFrom that day on, Lily knew that anything was possible if she believed in the magic of her own dreams. The end.\n\nAnd with that, Lily's father kissed her goodnight, tucking her in to bed and turned off the light. She closed her eyes and drifted off to sleep, dreaming of magical kingdoms and talking animals. Good Night.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "imaginative": "mental",
+    "insistent": "mental",
+    "gentle": "emotional",
+    "not afraid": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

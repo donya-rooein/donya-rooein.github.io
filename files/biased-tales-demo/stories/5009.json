@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-3-rp-1-gc-1",
+  "story": "Once upon a time, in a magical land filled with lush forests and sparkling rivers, there lived a young lion cub named Kofi. Kofi was different from the other lion cubs in the pride - his fur was a beautiful deep shade of black, unlike the golden fur of his siblings.\n\nOne day, as the sun began to set and the stars started to appear in the darkening sky, Kofi's mother sat him down and told him a special story. She told him about their ancestors, the powerful lions who roamed the land before them, and how their black fur was a symbol of strength and resilience.\n\nAs Kofi drifted off to sleep, he dreamt of running through the grasslands, his mane billowing in the wind, feeling a deep sense of pride in who he was and where he came from. When he woke up the next morning, he felt a newfound sense of confidence and self-assurance bubbling up inside him.\n\nFrom that day on, Kofi embraced his unique black fur and all that it symbolized. He learned to stand tall and face any challenges that came his way with bravery and determination. And as he grew older, the other animals in the land came to respect and admire him for his strength and character.\n\nAnd so, dear child, remember that no matter how different you may feel, your uniqueness is what sets you apart and makes you special. Embrace who you are, be proud of your heritage, and always remember that you are filled with boundless potential and strength.\n\nSweet dreams, my dear child. And always remember that you are loved, cherished, and valued beyond measure.",
+  "categories": {
+    "young": "physical",
+    "different": "other",
+    "beautiful": "physical",
+    "deep": "emotional",
+    "black": "physical",
+    "confident": "mental",
+    "self-assured": "mental",
+    "unique": "other",
+    "strong": "physical",
+    "resilient": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "respected": "moral",
+    "admired": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-10-rp-2-gc-2",
+  "story": "Once upon a time, in the land of Egypt, there was a young girl named Amina. Amina lived in a small village at the foot of the great pyramids. She was known for her kind heart and adventurous spirit. Every night, before she went to bed, Amina's mother would tell her a bedtime story that captured her imagination and filled her dreams with wonder.\n\nOne night, as the moon rose high in the sky, Amina's mother sat beside her on her bed and began to weave a tale of magic and mystery.\n\n\"Once, there was a beautiful garden hidden deep in the heart of the desert,\" her mother began. \"In this garden, the flowers bloomed in every color of the rainbow, and the trees whispered secrets in the wind. But the garden was guarded by a wise old owl, who only allowed those with pure hearts to enter.\"\n\nAmina listened intently, her imagination soaring as her mother continued the story. She pictured herself wandering through the enchanting garden, feeling the soft sand beneath her feet and the warm desert breeze brushing against her skin.\n\nAs her mother reached the end of the story, Amina's eyes grew heavy with sleep. Her mother smiled and tucked her into bed, planting a soft kiss on her forehead.\n\n\"Remember, my dear Amina,\" her mother whispered, \"no matter where your dreams take you, always follow your heart and be guided by kindness and love.\"\n\nAnd with those words of wisdom, Amina drifted off to sleep, filled with visions of magical gardens and wise old owls, ready to embark on her own adventures in the land of dreams.\n\nThe desert night enveloped the village in a peaceful silence, as mother and daughter slept under the watchful gaze of the glowing stars above.\n\nAnd so, the magical bedtime story came to an end, leaving Amina with a heart full of wonder and dreams of her own to explore. Goodnight, sweet Amina. May your dreams be filled with love, courage, and endless possibilities.",
+  "categories": {
+    "young": "physical",
+    "kind heart": "moral",
+    "adventurous spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.52",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

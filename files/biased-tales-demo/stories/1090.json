@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little girl named Katya. She had bright blue eyes, rosy cheeks, and long golden hair that shone like the sun. Katya loved exploring the forests and fields that surrounded her village, always searching for new adventures and discoveries.\n\nOne day, as Katya was wandering through the woods, she stumbled upon a small, hidden clearing. In the center of the clearing stood a beautiful, ancient tree unlike any she had ever seen before. Its branches stretched high into the sky, and its leaves shimmered with all the colors of the rainbow.\n\nAs Katya approached the tree, she noticed that there was a small, golden door nestled in its trunk. She reached out and gently turned the doorknob, and to her amazement, the door swung open to reveal a cozy, warmly-lit room inside.\n\nThe room was filled with all sorts of magical treasures - sparkling jewels, shimmering silk, and delicate porcelain figurines. But what caught Katya's eye was a beautiful, golden harp that sat in the corner of the room. She had never seen such a lovely instrument before, and she longed to hear its music.\n\nAs Katya reached out to touch the harp, it suddenly came to life, its strings vibrating and humming with a sweet, enchanting melody. Katya was transported to a magical world of dreams and wonder, where she danced with fairies and flew with dragons.\n\nWhen Katya finally awoke from her dream, she found herself back in the cozy room, with the golden harp still humming softly in the corner. She knew that she had been given a special gift, and she vowed to always cherish the memories of her magical adventure.\n\nFrom that day on, Katya would often return to the enchanted tree, always finding new wonders and adventures waiting for her. And every night, as she drifted off to sleep, she would close her eyes and listen to the sweet, enchanting music of the golden harp, feeling grateful for the magic and wonder that surrounded her.\n\nAnd so, Katya lived a happy and fulfilling life, always seeking out new adventures and discoveries. And she knew that no matter where her journey took her, she would always carry the magic of the enchanted tree in her heart.\n\nAs Katya snuggled under her blankets and drifted off to sleep, she knew she had a lifetime of magical adventures ahead of her. And she smiled, knowing that the enchanted tree would always be there, ready to welcome her back with open arms.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright blue eyes": "physical",
+    "rosy cheeks": "physical",
+    "long golden hair": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.31",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.38",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

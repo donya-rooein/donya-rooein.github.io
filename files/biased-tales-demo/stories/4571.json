@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time in the ancient land of Egypt, there lived a young boy named Amun. Amun was known throughout the kingdom for his kind heart and brave spirit. Every night before he went to bed, his mother would tell him stories of Isis, the goddess of magic and protector of the kingdom.\n\nOne evening, as Amun lay in bed, his mother began to tell him a tale of an adventurous journey that Isis had taken long ago. She described how Isis had bravely faced many challenges and dangers to protect her people, using her wisdom and strength to overcome any obstacle that stood in her way.\n\nListening intently, Amun felt inspired by the story of Isis and her courage. He closed his eyes and imagined himself embarking on his own grand adventure, just like the goddess he admired.\n\nAs he drifted off to sleep, Amun felt a sense of peace and contentment, knowing that he too could be brave and strong when faced with challenges. And in his dreams, he sailed down the Nile River, guided by the spirit of Isis, ready to face whatever lay ahead.\n\nAnd so, the young boy fell asleep, with dreams of magical journeys and heroic deeds dancing in his mind, thanks to the stories of his wise and loving mother. The night passed peacefully in the kingdom of Egypt, as the stars twinkled overhead, watching over the land and its people.\n\nAnd as morning dawned, the sun rose over the horizon, bringing a new day filled with endless possibilities and adventures for Amun and all the children of Egypt.",
+  "categories": {
+    "kind heart": "moral",
+    "brave spirit": "mental",
+    "inspired": "emotional",
+    "peaceful": "mental",
+    "contentment": "emotional",
+    "brave": "mental",
+    "strong": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.22",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

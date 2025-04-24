@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-5-rp-2-gc-2",
+  "story": "Once upon a time in a far-off land, there was a young girl named Rebecca. Rebecca was a kind and thoughtful girl who lived with her family in a small village nestled among the rolling hills. She loved listening to her mother's stories at bedtime, tales of magic and adventure that filled her dreams with wonder.\n\nOne night, as the full moon hung high in the sky, Rebecca's mother told her a special story about a brave and courageous princess who journeyed through a mystical forest to rescue her missing father. The princess faced many challenges along the way, but with her quick wit and caring heart, she overcame every obstacle in her path.\n\nRebecca listened intently, her eyes wide with excitement as her mother weaved a tale of friendship, bravery, and hope. As the story reached its exciting climax, Rebecca's mother leaned in close and whispered, \"Remember, my dear, it is our actions and kindness that define who we are, not our circumstances.\"\n\nWith those wise words lingering in her heart, Rebecca drifted off to sleep, her dreams filled with visions of bravery and magic. And as she slept, her mother watched over her, knowing that her daughter's kind spirit would always guide her through any darkness she may face.\n\nAnd so, dear mother, may this story bring comfort and inspiration to your daughter as she drifts off to sleep, knowing that she is loved and cherished always. Goodnight, sweet dreams, and may tomorrow bring new adventures and joys.",
+  "categories": {
+    "kind": "moral",
+    "thoughtful": "mental",
+    "brave": "mental",
+    "courageous": "mental",
+    "quick wit": "mental",
+    "caring heart": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.35",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

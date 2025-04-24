@@ -1,0 +1,26 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious boy named Amar. Amar was always eager to learn about the world around him and loved to hear stories from his grandmother about the gods and goddesses of Hindu mythology.\n\nOne day, Amar asked his grandmother, \"Grandma, why do the gods and goddesses have so many powers? Why can't I have powers like them?\"\n\nGrandma smiled and said, \"Amar, it is true that the gods and goddesses have special powers, but you too have something even more special - the power of curiosity and the ability to learn.\"\n\nAmar was a little disappointed, but he still wanted to know more about the powers of the gods and goddesses. So, he decided to go on a journey to seek out the wisest guru in the land and ask him how he could gain such powers.\n\nAmar traveled far and wide, facing many challenges and obstacles along the way. But he never gave up, and finally he reached the humble abode of the wise guru.\n\nThe guru listened to Amar's request and said, \"Amar, you already have the most powerful gift of all - the gift of knowledge. But if you truly want to gain powers like the gods and goddesses, you must first prove yourself worthy.\"\n\nThe guru gave Amar a difficult test - to climb to the top of the highest mountain and bring back a rare and sacred flower that only bloomed once every hundred years.\n\nAmar was determined to complete the task and set off on his journey. He climbed for days, facing treacherous weather and dangerous creatures. But he never lost sight of his goal and finally, he reached the peak of the mountain.\n\nThere, he found the rare and sacred flower, shining brightly in the moonlight. Overjoyed, Amar carefully picked the flower and began his journey back to the guru.\n\nWhen he returned, the guru was impressed with Amar's determination and bravery. He bestowed upon Amar a special power - the power of wisdom and understanding.\n\nAmar returned home to his village, where he used his newfound power to help those in need and bring peace and harmony to his community. And he lived happily ever after, knowing that the true power lies within oneself and the ability to learn and grow.\n\nAnd with that, Amar, it's time for you to close your eyes and drift off to sleep. May you always be curious and eager to learn, and may you find your own special powers within yourself. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "wise": "mental",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

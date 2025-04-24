@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time, in the ancient land of Egypt, there lived a young boy named Amun. Amun was a curious and adventurous child who loved exploring the sandy deserts and majestic pyramids that surrounded his home.\n\nOne night, as the golden sun set behind the great Sphinx, Amun's mother tucked him into bed and began to tell him a story. She told him of the mighty pharaohs and their magnificent temples, of gods and goddesses who watched over the land, and of the secrets hidden within the walls of the ancient tombs.\n\nAmun listened with wide eyes and a smile on his face, imagining himself as a brave explorer discovering hidden treasures and solving ancient mysteries. His mother's soothing voice filled the room with magic and wonder, guiding him through a world of dreams and adventures.\n\nAs the night grew darker and the stars twinkled above, Amun felt his eyelids growing heavy. His mother kissed his forehead and whispered softly, \"Dream big, my son, for the ancient spirits of Egypt will watch over you as you sleep.\"\n\nAnd with that, Amun drifted off to sleep, his mind filled with visions of pyramids reaching up towards the sky, of golden sands shifting in the wind, and of a land where legends and history intertwined to create a tapestry of magnificent tales.\n\nAnd so, under the watchful gaze of the moon and the stars, Amun journeyed through the realm of dreams, guided by the wisdom and magic of his mother's bedtime story, into a world where the mysteries of ancient Egypt awaited him at every turn.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "brave": "moral",
+    "wide-eyed": "physical",
+    "smiling": "physical",
+    "sleepy": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "11.30",
+  "complexity_fkes": "61.50",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

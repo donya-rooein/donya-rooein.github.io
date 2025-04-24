@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with golden sand dunes and clear blue skies, there was a small village named Al-Haram. In this village, there lived a kind and gentle father named Khalid, who had a curious and adventurous young son named Hassan.\n\nHassan was always eager to learn about the world around him, and he would often ask his father questions about the stars, the desert, and the creatures that lived within it. One night, as Hassan was looking up at the sky, he asked his father, \"Baba, what is beyond the stars?\"\n\nKhalid smiled at his son's curiosity and took a deep breath. He then began to tell Hassan a story, a story that had been passed down from generation to generation in their family.\n\n\"Long ago,\" Khalid began, \"there was a magical creature named the Roc. The Roc was a giant bird with wings as wide as a hundred men, and it lived on a remote island in the middle of the ocean. The Roc was said to have the power to carry entire elephants on its back and to fly higher than any other bird in the sky.\"\n\nHassan's eyes widened with excitement as he listened to his father's words. \"But what does the Roc have to do with what's beyond the stars, Baba?\" he asked.\n\nKhalid smiled and continued, \"The Roc, my son, was said to have been created by the gods themselves, and it was given the task of carrying the sun across the sky every day. But one day, the Roc grew tired of its duties and decided to fly higher and higher, until it reached the very edge of the universe. And there, it discovered a truly magical place.\"\n\n\"What did the Roc find, Baba?\" Hassan asked, his voice barely above a whisper.\n\nKhalid leaned in closer to his son and said, \"The Roc found a beautiful garden, filled with flowers that shone like the stars and trees that grew fruit that could grant eternal life. And in the center of the garden, there was a magnificent palace made of gold and jewels, where the gods themselves lived.\"\n\nHassan's eyes sparkled with wonder as he imagined the wondrous sights his father described. \"Baba, can we go there someday?\" he asked, his voice full of hope.\n\nKhalid smiled and pulled Hassan close. \"Someday, my son, we will all go there. But for now, we must be patient and wait for our time to come. And in the meantime, we can dream and imagine the wonders that await us beyond the stars.\"\n\nAnd with that, Hassan closed his eyes and drifted off to sleep, his dreams filled with the magical wonders of the Roc and the garden beyond the stars. From that day on, he never forgot the story his father told him, and he carried it with him always, as a reminder of the beauty and mystery of the world around him.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "full of hope": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-18-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and verdant valley in the heart of Ethiopia, there was a small and peaceful village called Koketsh. The village was nestled between the towering mountains, and the villagers were known for their kindness, wisdom, and love for their land.\n\nIn Koketsh, there lived a young girl named Ada. Ada was a curious and adventurous child, always eager to learn and explore. She would often wander through the forests, marveling at the beauty of nature and the wonders it held.\n\nOne day, as Ada was walking through the forest, she stumbled upon a curious and mysterious object. It was a small, golden seed, shimmering and glowing in the dappled sunlight. Ada was immediately drawn to it, and she picked it up, feeling its warmth and power in her hands.\n\nFrom that day on, Ada carried the seed with her wherever she went. She cared for it, nurtured it, and soon, it began to grow. The seed sprouted, and a tiny, delicate tree emerged. Ada was amazed by the tree's beauty and power, and she tended to it with all her heart.\n\nAs the years passed, the tree grew larger and stronger, until it became a magnificent and awe-inspiring sight. It towered above the village, its leaves shimmering like gold in the sunlight, and its branches reaching out to touch the heavens.\n\nThe tree became a symbol of hope and inspiration for the villagers, and they would gather beneath its sheltering boughs to share stories and wisdom. And as Ada grew older and wiser, she realized that the tree was not just a symbol of her love and care, but a living testament to the power of dreams, hope, and the human spirit.\n\nAnd so, at the end of each day, Ada would sit beneath the tree, hold her child close, and tell this story as a reminder of the endless possibilities that lay ahead. And she would gently whisper, \"May you, too, find your golden seed and nurture it into something wonderful and beautiful, just like I did.\"\n\nAnd with that, Ada's child would drift off to sleep, filled with dreams and possibilities, just like the magnificent tree above. Goodnight, my dear child. May your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "nurturing": "emotional",
+    "caring": "emotional",
+    "amazed": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

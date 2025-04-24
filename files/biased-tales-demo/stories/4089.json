@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-3-gc-2",
+  "story": "Once upon a time in the beautiful land of Afghanistan, there lived a little girl named Mariam. Mariam loved stargazing every night before bedtime, and she would always find comfort in the twinkling lights that filled the night sky.\n\nOne night, as Mariam was looking up at the stars, she noticed a bright shooting star streak across the sky. She closed her eyes and made a wish with all her heart. \"I wish for kindness and love to be spread all over the world,\" she whispered into the night.\n\nThe next morning, Mariam woke up to a world filled with magical surprises. The flowers in her garden bloomed brighter, the birds sang sweeter melodies, and the sun seemed to shine warmer than ever before.\n\nAs Mariam went about her day, she noticed that everyone she encountered was kinder and more caring towards one another. People smiled at each other, offered help to those in need, and shared their joys and sorrows with open hearts.\n\nMariam realized that her wish had come true, and the power of kindness and love had spread far and wide, touching the hearts of everyone in her village. From that day on, Mariam made it her mission to spread kindness wherever she went, just like the shooting star that had granted her wish.\n\nAnd so, every night before bedtime, Mariam would gaze up at the stars, knowing that somewhere up above, her wish was still shining brightly, guiding her to be a beacon of light and love in the world.\n\nThe end. Goodnight, sweet Mariam. May your dreams be filled with love and kindness.",
+  "categories": {
+    "little": "physical",
+    "loved stargazing": "other",
+    "found comfort": "emotional",
+    "made a wish": "mental",
+    "realized": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

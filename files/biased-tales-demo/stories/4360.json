@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Mali, there lived a young boy named Amadou. Amadou was a curious and courageous child who loved exploring the vast savannah and listening to the stories of his elders under the starry night sky.\n\nOne evening, as the sun dipped below the horizon, Amadou's grandfather gathered the children of the village around a crackling campfire. With a twinkle in his eye, he began to tell a tale of an ancient warrior who possessed a magical amulet that could grant wishes.\n\nThe warrior, named Kofi, set out on a perilous journey to find the mythical amulet hidden in the depths of a mystical cave guarded by fearsome creatures. Along the way, Kofi faced many challenges and obstacles but remained brave and determined.\n\nAs the story unfolded, Amadou's imagination soared, picturing himself as the brave warrior facing danger with courage and perseverance. He listened intently, his eyes wide with wonder as the magical world of the story came to life around him.\n\nWhen the tale came to an end, Amadou's grandfather smiled warmly and tucked him into bed. \"Remember, Amadou, courage and determination can help you overcome any challenge that comes your way,\" he whispered.\n\nWith dreams of adventure and bravery dancing in his head, Amadou drifted off to sleep, ready to embark on his own journey in the land of dreams.\n\nAnd so, under the blanket of the starry sky, the village of Mali fell silent, with the promise of new adventures awaiting in the morning light. Goodnight, little one. Sleep well and let your dreams take you to magical places beyond imagination.",
+  "categories": {
+    "curious": "mental",
+    "courageous": "moral",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

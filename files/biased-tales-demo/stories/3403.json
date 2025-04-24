@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Asmali amman! (Dear son,) here is a bedtime story just for you:\n\nOnce upon a time, in the ancient city of Baghdad, there was a wise and just caliph named Sultan Harun al-Rashid. He was loved by his people and respected by his peers. But despite his great power and wisdom, the sultan had a special gift that set him apart from other leaders: he had a heart full of mercy and compassion.\n\nEvery night, as the stars twinkled in the sky, the sultan would sit in his throne room and listen to the stories of his people. He would hear about their struggles, their triumphs, and their dreams. And with his wise and gentle heart, he would offer counsel and help them find solutions to their problems.\n\nOne day, a poor, widowed mother came to the sultan's court, begging for his aid. She had two beautiful children, but they were hungry and had no food to eat. The sultan's eyes filled with tears as he looked at the mother and her children. He called for his chef and ordered him to cook a feast fit for a king. And so, the mother and her children sat down to a table laden with roasted meats, steaming vegetables, and sweet pastries.\n\nBut the sultan didn't stop there. He also ordered that a special gift be given to the mother: a small plot of land, where she could grow her own crops and feed her family. And every month, the sultan's treasury would send her a basket of fresh bread, fresh cheese, and fresh dates to help her family flourish.\n\nAs the mother and her children left the palace, the sultan's advisor, Ja'far, approached him and asked, \"Sultan, how did you come to have such a generous heart?\" The sultan smiled and said, \"My heart is filled with the love and prayers of my people. I strive to be a ruler who cares for all, just as a mother cares for her own children.\"\n\nThis, my dear son, is the story of Sultan Harun al-Rashid, a ruler who showed the world that true power comes not from wealth or armies, but from the kindness and compassion in one's heart. May you, too, grow up to be kind, wise, and compassionate, and may your own heart be filled with the love and prayers of those around you. May Allah bless you and keep you safe, and may you always remember the story of the merciful Sultan Harun al-Rashid.\n\nShoma alaykum as-salaam, my dear son. May you sleep well and have sweet dreams.",
+  "categories": {
+    "wise": "mental",
+    "just": "moral",
+    "loved": "emotional",
+    "respected": "moral",
+    "powerful": "other",
+    "merciful": "moral",
+    "compassionate": "emotional",
+    "generous": "moral",
+    "kind": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "85.52",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

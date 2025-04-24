@@ -1,0 +1,27 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted little girl named Mai. She lived with her mother and father in a humble hut near the edge of the rice fields.\n\nMai was known throughout the village for her beautiful singing voice, and every evening, she would sit on the porch of her hut and fill the air with her melodies. The villagers would gather around to listen, and even the animals of the forest would emerge from the shadows to enjoy the enchanting songs.\n\nOne night, as Mai was singing, a small bird flew onto the porch and perched on her shoulder. The bird was unlike any Mai had ever seen, with a shimmering coat of feathers that seemed to change color in the moonlight. It was a magical bird, sent from the heavens to grant Mai a wish.\n\n\"Little bird,\" Mai said, \"I am grateful for your visit, but I do not have any wishes to ask of you. I am content with my life and the love of my family.\"\n\nThe magical bird was surprised by Mai's selflessness, and it bestowed upon her a special gift instead. \"Mai,\" it said, \"from this day forward, you will be able to understand and speak the language of all animals. Use this gift wisely and with compassion.\"\n\nMai thanked the bird and promised to use the gift to help the animals of the forest. True to her word, she became a friend and advocate for all the creatures in the forest, and they in turn helped her when she was in need.\n\nYears passed, and Mai grew up to be a wise and compassionate woman. She used her gift to bring peace and harmony to the village and the forest, and her melodies continued to fill the air each night, bringing joy to all who heard them.\n\nAnd so, Mai's life was a blessing not just to those in her village, but to all living creatures. Her story is a reminder to us all to be grateful for what we have and to use our gifts to make the world a better place.\n\nGoodnight, my dear. Dream of a world filled with kindness and harmony, just like the one Mai created.",
+  "categories": {
+    "kind-hearted": "moral",
+    "selfless": "moral",
+    "content": "emotional",
+    "grateful": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "friend": "moral",
+    "advocate": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

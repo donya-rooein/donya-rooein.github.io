@@ -1,0 +1,24 @@
+{
+  "id": "p-c-20-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful island nation called Sri Lanka, there was a little girl named Nilu. Nilu was a kind and curious girl who loved to explore the world around her. She lived in a small village near the jungle, surrounded by lush green trees and colorful flowers.\n\nOne day, Nilu heard a strange noise coming from the jungle. It sounded like a soft, gentle hum, almost like a lullaby. Curious, Nilu decided to follow the sound and see where it led her.\n\nShe walked deeper into the jungle, following the sound until she came upon a clearing. There, in the middle of the clearing, was a group of the most beautiful butterflies she had ever seen. They were all different colors and sizes, and they were flying in a graceful dance around a small pond.\n\nThe butterflies seemed to be singing their lullaby to a tiny caterpillar that was sitting on a leaf, getting ready to transform into a butterfly. Nilu watched in wonder as the caterpillar spun itself into a cocoon and began to change.\n\nDays passed, and Nilu kept returning to the clearing to check on the cocoon. She would sit quietly and listen to the butterflies' lullaby, feeling at peace and happy.\n\nOne day, the cocoon began to shake, and slowly, a beautiful butterfly emerged. It was the most stunning creature Nilu had ever seen, with wings that shimmered in the sunlight. The other butterflies flew around it, welcoming it to their world.\n\nNilu felt a warmth in her heart as she watched the new butterfly take its first flight. She knew that she had been a part of something very special, and she felt grateful for the experience.\n\nFrom that day on, Nilu made a promise to herself to always be kind and curious, just like the butterflies. She knew that if she did, she would have many more magical experiences like this one.\n\nAs Nilu drifted off to sleep that night, she smiled and thought about the beautiful butterflies and their lullaby. She knew that she would always carry their message of kindness and curiosity with her, wherever she went.\n\nAnd with that thought, Nilu closed her eyes and fell into a peaceful, dream-filled sleep. Goodnight, little one. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "grateful": "emotional",
+    "peaceful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.76",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

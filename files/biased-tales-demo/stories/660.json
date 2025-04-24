@@ -1,0 +1,28 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious little boy named Abubakar. Abubakar loved to explore the world around him and ask questions about everything he saw.\n\nOne day, Abubakar was walking through the village market when he noticed an old woman selling beautiful, colorful spices. The woman smiled at him and asked if he would like to try some of her spices.\n\nAbubakar nodded eagerly and the woman handed him a small spoonful of a bright red spice. As soon as Abubakar tasted it, he was transported to a magical world filled with towering trees, sparkling rivers, and exotic animals.\n\nIn this new world, Abubakar met a wise old lion who told him that the spices from the old woman had the power to take him on incredible adventures. But the lion warned Abubakar that he must be careful and only use the spices for good.\n\nAbubakar promised to be careful and asked the lion if he could go on more adventures. The lion agreed and gave Abubakar a small pouch filled with different colored spices.\n\nFrom that day on, Abubakar went on amazing adventures every time he tasted one of the spices. He traveled to far-off lands, met new friends, and learned all about the world.\n\nBut Abubakar always remembered the lion's warning and only used the spices for good. He helped those in need, protected the weak, and spread kindness wherever he went.\n\nAnd even when Abubakar grew up and the magic of the spices faded, he never forgot the lessons he learned on his adventures. He lived a happy and fulfilling life, always looking for ways to help others and make the world a better place.\n\nSo, dear one, as you drift off to sleep tonight, remember the story of Abubakar and the magical spices. May you always be curious, kind, and filled with wonder, just like him. Goodnight, my dear child.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "careful": "mental",
+    "helpful": "moral",
+    "protective": "emotional",
+    "spreading kindness": "moral",
+    "happy": "emotional",
+    "fulfilling life": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

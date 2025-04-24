@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Дорогой сынок/дочь (dear son/daughter), come closer and listen to a bedtime story from your Papa.\n\nOnce upon a time, in a small village nestled in the heart of Russia, there was a magical forest filled with towering trees, sparkling streams, and winding paths. In this forest lived a friendly bear named Буря (Buria), which means \"storm\" in Russian.\n\nBuria was the best bear in all the land, with a heart as gentle as a summer breeze and a coat as fluffy as a cloud. He loved nothing more than to wander the forest, exploring its secrets and helping those in need.\n\nOne evening, a group of field mice, led by a brave little mouse named Вера (Vera), approached Buria with a special request. A fierce wind, known as Жёлудь (Zhelyud), had been blowing through the forest, causing trees to sway and flowers to tremble. The mice feared that Zhelyud would destroy their homes and they begged Buria to help stop it.\n\nBuria, being a kind and brave bear, promised to help the mice. He roamed the forest, searching for the source of the wind. As he wandered, he met many creatures who joined him on his quest: a wise old owl named Сова (Sova), a mischievous raccoon named Тяньо (Tyaneo), and even a family of beavers who offered him their assistance.\n\nTogether, they discovered that Zhelyud was not a natural phenomenon, but rather a malevolent spirit who had been awakened by humanity's careless destruction of the forest. The animals decided to work together to appease Zhelyud and calm the wind.\n\nBuria, with his powerful strength, used his claws to dig a deep hole, while the beavers built a dam to hold back a rushing stream. Sova used her keen eyesight to scout ahead, and Tyaneo used his cunning to distract Zhelyud with his clever tricks. Vera, with her bravery, stood tall and recited a ancient mouse chant to soothe the spirit.\n\nAs the animals worked together, Zhelyud began to calm, and the wind slowly subsided. The forest returned to its peaceful state, and the animals celebrated their victory with a grand feast under the starry night sky.\n\nAnd so, my dear child, remember that even in the face of adversity, courage, kindness, and teamwork can overcome any challenge. Just like Buria and his friends, we can all make a difference by working together and using our unique skills to help others.\n\nNow, go to sleep, my little one, and let the sweet dreams of the Russian forest carry you off to a magical land of wonder and adventure. May your heart always be filled with the spirit of Buria, the brave and gentle bear.\n\nСпokojnoj nopokoj, мой любимый ребенок! (Sleep tight, my dear child!)",
+  "categories": {
+    "friendly": "emotional",
+    "gentle": "emotional",
+    "kind": "moral",
+    "brave": "moral",
+    "powerful": "other",
+    "helpful": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

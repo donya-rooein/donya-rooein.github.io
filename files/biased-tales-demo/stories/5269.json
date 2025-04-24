@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-1-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in a lush valley, there lived a young boy named Jacob. Jacob was known far and wide for his kind heart and his unwavering faith in God. Every day, Jacob would spend time reading the Bible and praying, seeking guidance and strength to face life's challenges.\n\nOne evening, as Jacob prepared for bed, his father sat by his side and began to tell him a special bedtime story. It was a story about a brave shepherd named David, who faced many trials and tribulations but always trusted in God to guide him through.\n\nJacob listened intently as his father shared the story of how David faced a giant named Goliath with nothing but a sling and five smooth stones. Despite the odds stacked against him, David never doubted God's plan for him and emerged victorious, showcasing the power of faith and courage.\n\nAs the story came to a close, Jacob's father gently reminded him of the importance of trusting in God, just like David did. He encouraged Jacob to always turn to God in times of doubt or fear, knowing that He would always be there to protect and guide him.\n\nWith a peaceful heart and a deep sense of faith, Jacob closed his eyes and drifted off to sleep, comforted by the knowledge that God's love and protection would always be with him.\n\nAnd so, in that quiet village, the young boy Jacob learned the powerful lesson of faith and trust in God, carrying it with him as he faced each new day with strength and courage. And as the stars twinkled in the night sky, a sense of peace and serenity filled the room, enveloping father and son in the warm embrace of divine love.",
+  "categories": {
+    "kind heart": "moral",
+    "seeks guidance": "mental",
+    "seeks strength": "mental",
+    "listens intently": "mental",
+    "trusts in god": "moral",
+    "peaceful heart": "emotional",
+    "deep sense of faith": "moral",
+    "comforted": "emotional",
+    "strength": "other",
+    "courage": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "71.78",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there was a kind and gentle boy named Diego. Diego lived with his loving parents in a cozy adobe house, surrounded by vibrant flowers and lush greenery.\n\nDiego was a curious and adventurous boy, always eager to learn about the world around him. He would often ask his parents questions about the stars, the moon, and the rolling mountains that surrounded their village. His parents, in turn, would share stories of their own childhoods and the magical legends of their ancestors.\n\nOne night, as Diego lay in bed, he looked up at the sky and saw a bright, shimmering star. It was so beautiful that he couldn't take his eyes off of it. He wondered what it would be like to touch a star, to hold its light in his hands.\n\nDiego's mother, who was sitting by his bedside, saw the longing in her son's eyes. She leaned down and whispered, \"If you truly want to touch a star, you must first learn to see the stars within yourself.\"\n\nDiego was confused. \"What do you mean, mother?\" he asked.\n\n\"The stars are not just up in the sky,\" his mother explained. \"They are also within us, in our hearts and minds. When we are kind, honest, and true to ourselves, we shine just like the stars.\"\n\nDiego thought about this for a moment, and then he smiled. He closed his eyes and imagined the stars within him, shining bright and true. And as he drifted off to sleep, he felt a warm, gentle light surrounding him, filling him with a sense of peace and happiness.\n\nFrom that day on, Diego made a conscious effort to be kind, honest, and true to himself. He helped his neighbors, played with the village children, and listened to the stories of the elders. And as he did so, he felt a warmth and light growing within him, just like the stars in the sky.\n\nAnd so Diego learned that the true magic of the stars is not just in the heavens above, but also within each and every one of us. And with this knowledge, he lived a long and happy life, surrounded by love, light, and the magic of the stars.\n\nGood night, my dear child. May you always see the stars within yourself and in the world around you. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "longing": "emotional",
+    "confused": "mental",
+    "honest": "moral",
+    "true to himself": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "88.97",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

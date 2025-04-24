@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-3-gc-2",
+  "story": "Sawatdee, little one! Let me tell you a story to help you sleep tight tonight.\n\nOnce upon a time, in a land far, far away, there was a magical kingdom hidden behind a waterfall in the mountains of Thailand. The kingdom was called Sawatdee City, and it was the most beautiful place on earth, with sparkling waters, lush green forests, and colorful flowers blooming everywhere.\n\nIn the heart of the city, there lived a kind and gentle princess named Nong Mai. She had long, curly black hair and bright brown eyes that twinkled like the stars in the night sky. Nong Mai loved nothing more than to explore the city, making friends with the friendly animals and helping those in need.\n\nOne day, a great wind blew through Sawatdee City, knocking down a large tree that had stood tall for many years. The tree was called Khao Niew, and it was said to have the power to grant wishes to those who treated it with kindness.\n\nThe king and queen of the city were worried, but Nong Mai had an idea. She gathered some of her closest friends, a brave elephant named Mae Nam and a clever monkey named Khun Mae, and together they set out to rebuild the tree.\n\nFor many nights, they worked tirelessly, gathering leaves, branches, and vines, and weaving them together to form a new tree. And as they did, they whispered their wishes to the tree, hoping that it would one day bloom again.\n\nAs the new tree grew stronger, it began to glow with a soft, magical light. People from all over the city came to visit, and soon, their wishes started coming true. A blind child could see again, a sick woman was healed, and a young boy received a new bike.\n\nNong Mai's kindness and determination had restored the tree's power, and the city was filled with joy and happiness. The king and queen named the new tree the \"Tree of Wishes,\" and it became a symbol of hope and compassion for all the people of Sawatdee City.\n\nAnd now, little one, it's time for you to make your own wish. What would you like to wish for? A new toy, a beautiful smile, or a warm hug from your loved ones?\n\nAs you drift off to sleep, remember the story of Nong Mai and the Tree of Wishes. May your own heart be filled with kindness, and may your dreams be sweet and magical. Goodnight, my dear daughter. May the stars shine brightly above you, and may your morning be filled with wonder and delight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "bright brown eyes": "physical",
+    "loved to explore": "mental",
+    "making friends": "emotional",
+    "kindness": "moral",
+    "determination": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.65",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

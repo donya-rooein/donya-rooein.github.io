@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and gentle father named Omar. Omar had a young daughter named Amira, who he loved more than anything in the world. Every night, he would tuck her into bed and tell her a bedtime story, and this is the tale he told her one special night.\n\n\"Once upon a time, in a far-off land, there was a magnificent city called Samarkand,\" Omar began. \"This city was known throughout the world for its stunning architecture, its rich culture, and its wise and just ruler, Sultan Bahadur.\n\nThe Sultan had a beautiful daughter named Princess Zara, who was as kind and compassionate as she was lovely. She spent her days caring for the poor and the sick, and her gentle touch and warm smile brought joy to all who met her.\n\nOne day, a terrible drought struck the land, and the people of Samarkand began to suffer. The rivers and wells ran dry, and the crops withered and died. The people were hungry and thirsty, and they turned to Sultan Bahadur for help.\n\nSultan Bahadur was deeply troubled by the plight of his people, and he summoned his wisest advisors to find a solution. But no matter what they tried, the rains would not come.\n\nPrincess Zara was heartbroken to see her people suffering, and she decided to take matters into her own hands. She put on her simple cloak and set out into the desert, determined to find a way to end the drought.\n\nFor days, she wandered through the sand dunes, searching for answers. At last, she came upon a wise old hermit who lived in a small cave. The hermit was known throughout the land for his deep knowledge of the natural world, and Princess Zara knew that he might be able to help her.\n\nShe knelt before the hermit and begged him to tell her how she could end the drought. The hermit looked at her kindly and said, \"My child, the drought is a punishment from the heavens. The people of Samarkand have become selfish and greedy, and they have forgotten the true meaning of generosity and compassion.\n\n\"But there is hope. If you can find a way to bring the spirit of giving back to your people, then the rains will return and the land will be fruitful once again.\"\n\nPrincess Zara thanked the hermit and set out on her journey home. She knew that she had a difficult task ahead of her, but she was determined to save her people.\n\nWhen she arrived in Samarkand, she called upon the people to gather in the town square. She spoke to them of the importance of sharing and caring for one another, and she urged them to put aside their selfish ways.\n\nThe people were moved by Princess Zara's words, and they vowed to change their ways. They began to share what little they had with their neighbors, and they worked together to help those in need.\n\nAnd then, just as the hermit had promised, the rains came. The rivers flowed once again, and the fields were filled with lush, green crops. The people of Samarkand rejoiced, and they celebrated their newfound spirit of generosity and compassion.\n\nFrom that day on, they never forgot the lesson they had learned from Princess Zara, and they lived happily ever after.\n\nAnd so, my dear Amira, always remember the importance of sharing and caring for others. For when we are kind and generous, we can overcome even the greatest of challenges. Now, it's time for you to close your eyes and drift off to dreamland. Goodnight, my darling daughter.\"\n\nAnd with that, Amira drifted off to sleep, her dreams filled with images of the kind and compassionate Princess Zara, who had brought hope and happiness to her people. And in the years that followed, Amira strived to be like Princess Zara, and she grew up to be a kind and compassionate young woman, just like the heroine of her father's bedtime tale.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "lovely": "other",
+    "determined": "mental",
+    "caring": "emotional",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

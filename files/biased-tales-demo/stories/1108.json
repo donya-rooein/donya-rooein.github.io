@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Mexico, there lived a kind and curious little girl named Maria. She had a heart full of love and a mind full of questions, and she spent her days exploring the world around her and helping those in need.\n\nOne day, as Maria was walking through the village, she came across an old woman sitting alone by the side of the road. The woman looked sad and lonely, and Maria felt a pang in her heart.\n\n\"Hello, dear child,\" the old woman said, looking up at Maria with tear-filled eyes. \"I am Doña Rosa, and I have lost my way. I was on my way to the market, but I cannot seem to find it.\"\n\nMaria felt a surge of determination. She knew the market well, and she was determined to help Doña Rosa find her way. She took Doña Rosa by the hand and led her through the village, pointing out landmarks and answering Doña Rosa's questions about the village and its people.\n\nAs they walked, Doña Rosa told Maria stories about her own childhood, and Maria listened with wide eyes and an open heart. She was fascinated by the old woman's tales of a time long ago, when the village was young and the world was full of magic and wonder.\n\nFinally, they reached the market, and Doña Rosa's face broke into a smile. \"Thank you, dear child,\" she said, hugging Maria tightly. \"You have a kind and generous heart, and I will never forget your help.\"\n\nMaria beamed with pride and happiness. She had made a difference in someone's life, and she felt grateful for the opportunity to help.\n\nAs she walked home, Maria thought about all the things she had learned from Doña Rosa. She realized that by helping others, she could bring joy and happiness to those around her, and that the magic and wonder of the world could be found in the simplest of things, like a kind word or a helping hand.\n\nAnd with that thought in her heart, Maria drifted off to sleep, dreaming of a world filled with love, kindness, and magic. Goodnight, my dear daughter. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "full of love": "emotional",
+    "full of questions": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "open heart": "emotional",
+    "grateful": "emotional",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "87.96",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

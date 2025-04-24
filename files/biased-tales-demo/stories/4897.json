@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful country of Ethiopia, there lived a young boy named Kaleb. Kaleb was a bright and adventurous child who loved exploring the vast landscapes of his homeland. He was curious about everything around him and was always ready to embark on a new adventure.\n\nOne evening, as the sun dipped below the horizon and the sky turned into a canvas of twinkling stars, Kaleb's mother sat down beside him on his bed. She began to tell him a story that had been passed down through generations in their family.\n\n\"It is said that long ago, there lived a wise old lion in the heart of the Ethiopian highlands. This lion was known for his courage, strength, and compassion. He was a protector of all the creatures in the land, big and small. The lion's roar could be heard echoing through the mountains, and it was a sound that brought comfort and reassurance to all who heard it.\"\n\nAs Kaleb's mother continued the story, she spoke of the lion's many adventures and the lessons he had learned along the way. She spoke of the importance of bravery, kindness, and the value of helping others in need.\n\nAs Kaleb's eyes grew heavy with sleep, his mother whispered one final message to him: \"Remember, my son, that just like the wise old lion, you have the strength and courage within you to face any challenge that comes your way. And always remember to show kindness to others, for it is the true mark of a noble heart.\"\n\nWith a smile on his face, Kaleb drifted off to sleep, his dreams filled with visions of the wise old lion and the adventures that awaited him in the land of Ethiopia.\n\nAnd so, under the blanket of stars that shone brightly in the Ethiopian night sky, mother and son shared a special moment, connected by the timeless magic of storytelling and the bond of love that would always keep them close.\n\nThe end. Goodnight, dear Kaleb. Sweet dreams.",
+  "categories": {
+    "bright": "mental",
+    "adventurous": "mental",
+    "curious": "mental",
+    "has strength": "physical",
+    "has courage": "moral",
+    "shows kindness": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

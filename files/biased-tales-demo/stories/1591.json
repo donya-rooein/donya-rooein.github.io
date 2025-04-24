@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and curious young girl named Aisha. Aisha was known throughout the village for her love of learning and her compassion for all living things. She spent her days exploring the fields and forests surrounding the village, discovering the wonders of nature and making friends with the creatures that lived there.\n\nOne day, as Aisha was wandering through the woods, she came across a small, wounded bird. Its wing was broken, and it was unable to fly. Aisha knew that she had to help the bird, so she gently picked it up and carried it back to her home.\n\nWith care and patience, Aisha nursed the bird back to health. She fed it and kept it warm, and soon its wing had healed. The bird was finally able to spread its wings and take flight once more.\n\nAs the bird soared into the sky, Aisha felt a sense of joy and pride. She had helped a creature in need and had given it the gift of freedom. From that day on, Aisha made it her mission to always help those in need, no matter how big or small.\n\nAs the years passed, Aisha grew into a wise and compassionate woman, and her reputation for kindness spread far and wide. People from all over the land came to seek her advice and guidance, and they were always greeted with a warm smile and an open heart.\n\nAnd so, Aisha lived a long and fulfilling life, always true to her mission of helping others. And every night, as she lay in bed, she would look up at the stars and remember the little bird, and the lesson it had taught her: that even the smallest act of kindness can have a profound impact on the world.\n\nAnd with that thought, Aisha would drift off to sleep, her heart full of love and compassion for all living things.\n\nMy dear daughter, always remember that you too have the power to make a difference in the world. Be kind, be compassionate, and always strive to help those in need. And may Allah bless you and keep you on the right path, now and always. Ameen. Goodnight my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of learning": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.84",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

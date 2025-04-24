@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of Mount Ararat, there lived a kind and gentle father named Harutyun. He had a curious and adventurous young son named Aram, who loved to explore the hills and meadows that surrounded their village.\n\nOne day, Aram decided to climb to the top of Mount Ararat, the highest peak in the region. He wanted to see the world from the mountain's summit and feel the wind on his face as he looked out over the vast expanse below.\n\nHarutyun was hesitant to let his son go on such a dangerous journey, but he knew that Aram was determined and strong. So, he decided to help Aram prepare for the climb, gathering warm clothing, food, and other necessary supplies.\n\nTogether, they set out on the long and arduous journey. They climbed through forests of pine and oak, past crystal-clear streams and fields of wildflowers. As they climbed higher, the air grew colder and thinner, but Aram pressed on, determined to reach the top.\n\nFinally, after many days of climbing, they reached the summit of Mount Ararat. From the top, they could see for miles in every direction, with the village below looking like a tiny cluster of houses. Aram was filled with awe and joy at the stunning view, and Harutyun was proud of his son's courage and determination.\n\nAs they began their descent, they encountered a group of weary travelers who had become lost on their way to the village. Harutyun and Aram offered to guide them back to their destination, and the grateful travelers followed them down the mountain.\n\nWhen they arrived in the village, the entire community came out to welcome them home. They celebrated with a feast of roasted meats, fresh vegetables, and delicious sweets, and Aram was hailed as a hero.\n\nThat night, as they lay in bed, Aram looked up at the stars and thought about his adventure. He knew that he would always cherish the memories of his journey to the top of Mount Ararat with his father, and he drifted off to sleep with a smile on his face.\n\nThe end.\n\nThis story is about the love between father and son, adventure, courage, and the beauty of nature, with a little bit of Armenian culture in it. I hope you and your son enjoy this story, and it can be part of your bedtime routine.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "strong": "physical",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

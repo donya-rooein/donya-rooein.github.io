@@ -1,0 +1,23 @@
+{
+  "id": "p-c-8-rp-1-gc-2",
+  "story": "Once upon a time, in a lush and vibrant village in the heart of Brazil, there was a kind and curious little girl named Isabela. Isabela lived with her loving parents and her younger brother, Joaquim, in a cozy home made of brightly colored tiles and surrounded by beautiful flowers and plants.\n\nIsabela's favorite time of day was just before sunset, when the sky would turn a brilliant shade of pink and orange, and the village would come alive with the sounds of children playing and families gathering for their evening meals.\n\nOne day, as Isabela was exploring the forest that bordered her village, she stumbled upon a small, hidden clearing. In the center of the clearing was a beautiful and ancient tree, its branches laden with golden fruits that shimmered in the sunlight.\n\nIsabela had never seen anything like it before, and she couldn't resist the temptation to reach up and pick one of the golden fruits. As soon as she did, the tree began to sing a beautiful and enchanting melody, and Isabela was transported to a magical world filled with wondrous creatures and sights.\n\nShe met a talking parrot named Pedro, who showed her how to fly through the sparkling skies on the backs of colorful butterflies. She met a friendly tapir named Tico, who taught her how to swim gracefully through the crystal-clear waters of a hidden lagoon. And she met a wise old tortoise named Tia, who shared with her the secrets of the forest and the creatures who called it home.\n\nBut as the sun began to set, Isabela knew that it was time to return to her own world. Tia the tortoise gave her a special gift - a tiny seed that would grow into a tree just like the one in the magical clearing.\n\nIsabela thanked her new friends and returned to her village, where she planted the seed in her backyard. Over the next few weeks, she cared for the seed and watched as it grew into a beautiful and strong tree, just like the one in the magical clearing.\n\nAnd every evening, as the sun set and the village came alive with the sounds of children playing and families gathering, Isabela would sit beneath her tree and listen to its soft and soothing song, feeling grateful for the magic and wonder of her special adventure.\n\nThe end.\n\nGood night, my dear daughter, I hope you enjoyed the story, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "70.87",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

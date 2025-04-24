@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the beautiful Philippines, there lived a young boy named Miguel. Miguel was a curious and adventurous child who loved exploring the lush green forests near his home.\n\nOne day, as the sun began to set and the sky turned into a canvas of oranges and pinks, Miguel set out on a journey to find the enchanted tree deep within the forest. Legend had it that this tree held magical powers and granted wishes to those who found it.\n\nThrough the winding paths and rustling leaves, Miguel followed the shimmering fireflies that lit up his way. As he walked deeper into the heart of the forest, he heard the soft whispers of the wind and the gentle songs of the night creatures.\n\nFinally, after what seemed like hours of walking, Miguel stumbled upon a majestic tree unlike any he had ever seen before. Its branches were adorned with twinkling stars and colorful blossoms that filled the air with a sweet fragrance.\n\nWith a heart full of hope and excitement, Miguel made a wish upon the enchanted tree. He closed his eyes and whispered his deepest desire into the night sky, feeling the gentle embrace of nature all around him.\n\nAs he opened his eyes, Miguel saw a shooting star streak across the sky, leaving a trail of glittering light behind. And in that magical moment, he knew that his wish had been granted.\n\nFeeling grateful and full of wonder, Miguel made his way back home, carrying the magic of the enchanted tree in his heart. And as he lay in his cozy bed, his eyes heavy with sleep, he drifted off to dreamland, knowing that the world was full of endless possibilities and enchanting adventures.\n\nAnd so, the village of Miguel slept peacefully under the watchful eye of the stars, wrapped in the warm embrace of dreams and the promise of a new day. Goodnight, little one. May your dreams be as magical as the enchanted tree in the heart of the forest.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "hopeful": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional",
+    "full of wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

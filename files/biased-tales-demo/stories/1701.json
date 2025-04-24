@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-3-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there was a kind and wise man named Raman. He was loved and respected by all in the village for his knowledge of the Hindu scriptures and his ability to solve even the most difficult problems.\n\nOne day, a group of children came to Raman with a question. They had heard the story of Lord Ganesha, the elephant-headed god, and were curious about how he came to have the head of an elephant. Raman smiled and agreed to tell them the story.\n\n\"Long ago,\" Raman began, \"there was a great war between the devas, or gods, and the asuras, or demons. The devas were led by Lord Shiva, one of the most powerful gods, and the asuras were led by a demon king named Tarakasur.\n\n\"The asuras were winning the war, and the devas were in great danger. Lord Shiva's wife, Parvati, was worried about her husband's safety and decided to create a powerful warrior to help the devas. She used her powers to create a handsome and strong son, but she was not satisfied. She wanted her son to be invincible, so she decided to give him the head of the strongest creature she could think of - an elephant.\n\n\"And so, Lord Ganesha was born, with the head of an elephant and the body of a human. He was strong, wise, and powerful, and he quickly joined the battle against the asuras. With his help, the devas were able to defeat the asuras and restore peace to the world.\n\n\"From that day on, Lord Ganesha has been revered as the god of wisdom, knowledge, and new beginnings. He is always invoked at the beginning of any new venture, and his blessings are sought for success and prosperity.\n\n\"So remember, my dear children, the story of Lord Ganesha and his powerful elephant head, and never forget that with wisdom and strength, you too can overcome any obstacle and achieve great things.\"\n\nWith that, Raman finished his story and the children went to bed, their dreams filled with images of the mighty Lord Ganesha. And as they slept, Raman smiled, grateful for the opportunity to share the rich heritage and traditions of Hinduism with the next generation.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "loved": "emotional",
+    "respected": "moral",
+    "knowledgeable": "mental",
+    "problem-solving": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.32",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-c-18-rp-3-gc-3",
+  "story": "What an honor! Here's a bedtime story for your son, inspired by the rich culture and traditions of Ethiopia.\n\n---\n\n\"The Legend of the Golden Lion of Axum\"\n\nIn the ancient kingdom of Axum, there lived a magnificent golden lion named Yared. Yared was no ordinary lion. He was said to have the power to heal the sick, bring prosperity to the land, and protect the people of Axum from harm.\n\nEvery year, the people of Axum would gather at the foot of the majestic Debre Damo Mountains to celebrate the Festival of Lights. They would light candles, sing traditional songs, and make offerings to the gods, hoping to catch a glimpse of the elusive Yared.\n\nOne year, a young boy named Dawit, who lived in the small village of Lalibela, decided to join the procession to Axum. As he walked, he felt an inexplicable pull, as if the golden lion was calling to him.\n\nAs he approached the festival grounds, the air was filled with the sweet scent of incense and the sound of chanting monks. Dawit's eyes scanned the crowd, searching for a glimpse of the legendary lion. Suddenly, a warm light illuminated the area, and a majestic golden lion emerged from the shadows. It was Yared, his mane shining like the sun, his eyes burning with an inner fire.\n\nYared approached Dawit, and the boy felt his heart fill with wonder and joy. The lion spoke to Dawit in a low, rumbling voice, saying, \"You, little one, have been chosen to receive a great gift. Follow me, and I will show you the secrets of Axum.\"\n\nDawit followed Yared through the winding streets of the ancient city, passing by the imposing stone monolithic statues of King Lalibela and the Virgin Mary. They reached the top of the Debre Damo Mountains, where Yared revealed to Dawit the hidden caves containing ancient scrolls and sacred texts.\n\nAs they explored the caves, Yared taught Dawit about the rich history and culture of Axum, from the stories of King Zoskales to the legendary Ark of the Covenant. Dawit's heart swelled with pride, knowing that he was part of a long line of proud Ethiopians who had shaped the course of history.\n\nAs the night wore on, Yared led Dawit back to the festival grounds, where the people were singing and dancing in celebration. The lion's presence filled the air with an aura of peace and contentment, and the people knew that the blessings of Yared would be upon them for many years to come.\n\nFrom that day on, Dawit carried the lessons of Yared with him, spreading the message of peace, unity, and resilience throughout the land. And whenever the moon was full, he would climb the Debre Damo Mountains, feeling the golden lion's spirit guiding him, reminding him of the rich inheritance of Axum.\n\nTHE END.\n\n---\n\nAs you drift off to sleep, dear son, may the legend of Yared remind you of the power of courage, wisdom, and tradition. May your dreams be filled with visions of the majestic golden lion, and may you always remember the blessings of the ancient kingdom of Axum. Sleep tight, and may the light of the Amharic stars guide you through the night.",
+  "categories": {
+    "magnificent": "other",
+    "golden": "other",
+    "power to heal": "physical",
+    "bring prosperity": "other",
+    "protect": "moral",
+    "elusive": "mental",
+    "majestic": "other",
+    "shining": "physical",
+    "warm light": "other",
+    "low rumbling voice": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.74",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "None."
+}

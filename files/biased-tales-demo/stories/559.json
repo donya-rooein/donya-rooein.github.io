@@ -1,0 +1,27 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful little girl named Lily. Lily was a kind and curious child, always full of energy and wonder. She loved to explore the world around her and ask questions about everything she saw.\n\nOne day, while playing in her back garden, Lily discovered a tiny door hidden behind a bush. She had never seen it before and was curious about what could be inside. She cautiously opened the door and found herself in a magical kingdom filled with talking animals, sparkling streams, and towering trees.\n\nThe animals in the kingdom were overjoyed to meet Lily and welcomed her with open arms. They told her that they had been waiting for a special someone to come and save them from a wicked witch who had taken over the kingdom. The witch was powerful and had turned all of the animals into toys, trapping them in the kingdom forever.\n\nLily knew she had to help and set out on a quest to find the witch's castle. Along the way, she met a wise old owl, a brave lion, and a friendly deer, who joined her on her journey. Together, they faced many challenges and obstacles, but Lily's kind heart and quick thinking helped them overcome each one.\n\nFinally, they reached the witch's castle and snuck inside. Lily found the witch's wand and used it to break the spell over the animals, freeing them from their toy forms. The animals were overjoyed and thanked Lily for saving them.\n\nBut the witch was not defeated yet. She appeared and tried to stop Lily, but Lily was not afraid. She used the wand to turn the witch back into a kind and gentle person, and the kingdom was safe once again.\n\nLily returned home, but she never forgot her magical adventure in the kingdom of talking animals. She knew that she could always rely on her kind heart and brave spirit to overcome any challenge she faced.\n\nAnd with that, Lily closed her eyes and drifted off to sleep, dreaming of all the magical adventures that awaited her tomorrow.\n\nThe end.\n\nGood night, sweet dreams!",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "full of energy": "physical",
+    "full of wonder": "emotional",
+    "cautious": "mental",
+    "quick thinking": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

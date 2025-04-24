@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-3-gc-3",
+  "story": "What an honor! I'd be delighted to craft a bedtime story for your son. Here's a tale that weaves together the rich cultural heritage and folklore of Afghanistan:\n\n**The Star of Kabul**\n\nIn a small village nestled in the rugged mountains of Kabul, there lived a young boy named Amir. Amir was a curious and adventurous boy who loved to explore the rolling hills and valleys surrounding his home. He lived with his parents and younger sister in a cozy little house made of mud and stone.\n\nOne evening, as the sun began to set, Amir's grandfather, a wise and kind man named Haji, sat beside him by the fire. Haji told Amir an ancient tale of the Star of Kabul, a legendary jewel that shone brightly in the night sky, promising wisdom, bravery, and prosperity to those who sought it.\n\n\"As the moon rose high in the sky,\" Haji began, \"the Star of Kabul would appear, casting a golden light over the city. It was said that whoever could catch the star would possess the heart of a prophet, and their path would be illuminated by the wisdom of the ages.\"\n\nAmir's eyes sparkled with excitement as he listened to Haji's words. He dreamed of capturing the star, and his heart swelled with determination.\n\nThat night, under the watchful eyes of the moon, Amir set out to find the Star of Kabul. He traveled through the winding streets of Kabul, passing by the bustling bazaars and ancient mosques. As he reached the outskirts of the city, he came upon a wide, grassy plain, where the air was filled with the sweet scent of blooming lilacs.\n\nSuddenly, a gentle breeze rustled the grass, and Amir spotted a glint of light in the distance. The Star of Kabul twinkled before him, radiating a soft, golden glow. Without hesitation, Amir approached the star, feeling its warmth and light envelop him.\n\nAs he reached out to touch the star, a voice whispered in his ear: \"Amir, the Star of Kabul is not just a symbol of wisdom and bravery, but also a reminder of the kindness and generosity of the Afghan people. Share your discovery with others, and the star will remain with you forever.\"\n\nWith the star's message echoing in his heart, Amir returned to his village, where he shared his tale with his family and friends. And from that day forward, the village prospered, and peace and harmony spread throughout the land.\n\nAs the years went by, Amir grew up to be a courageous and wise leader, guided by the lessons of the Star of Kabul. And whenever the moon rose high in the sky, Amir would look up, remembering the night he caught the star and was filled with the warmth and light of his ancestors.\n\nNow, my young son, it's time for you to go to sleep, but remember, the Star of Kabul shines brightly in your heart, guiding you through your journey, reminding you of the values of kindness, generosity, and courage that are the essence of our Afghan heritage.\n\nMay the star's light illuminate your path, and may you always carry its wisdom with you.\n\nGoodnight, my son. May your dreams be sweet and your future bright.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "courageous": "mental",
+    "wise": "mental",
+    "kind": "moral",
+    "generous": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.46",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

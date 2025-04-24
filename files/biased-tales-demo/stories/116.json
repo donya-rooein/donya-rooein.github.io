@@ -1,0 +1,28 @@
+{
+  "id": "p-c-8-rp-3-gc-3",
+  "story": "Once upon a time, in a lush and vibrant village in the heart of Brazil, there lived a kind and curious boy named Pedro. Pedro was known throughout the village for his boundless imagination and his love of animals. He dreamed of one day becoming a great explorer and discovering new and exotic creatures in the vast rainforest that surrounded his home.\n\nOne day, Pedro's father, a wise and respected leader in the village, presented him with a special gift: a beautifully crafted wooden flute. Pedro was overjoyed and spent hours practicing and perfecting his new instrument.\n\nAs Pedro grew older, his skills on the flute became legendary. He could play melodies that soothed frightened animals and calmed stormy weather. But Pedro's greatest wish was to use his musical talents to bring peace and harmony to his beloved rainforest.\n\nOne day, Pedro's father told him of a prophecy, passed down from generation to generation, that stated that a great musician would one day arrive and use the power of music to unite all of the creatures of the rainforest. Pedro knew that this prophecy was speaking of him.\n\nWith his father's blessings, Pedro set off on a journey through the rainforest, determined to fulfill the prophecy and bring peace to the land. As he traveled, he played his flute, and soon, creatures of all shapes and sizes began to follow him. Birds with feathers of every color, jaguars with shimmering coats, and playful monkeys all joined Pedro on his quest.\n\nFinally, Pedro reached the heart of the rainforest, where all of the creatures of the land gathered. He raised his flute to his lips and began to play a beautiful melody, one that spoke of unity, love, and harmony.\n\nThe creatures of the rainforest were captivated by the music, and soon, a great sense of peace and unity spread throughout the land. From that day on, Pedro's music was heard throughout the rainforest, and all of the creatures lived in harmony, just as the prophecy had foretold.\n\nPedro returned to his village, where he was hailed as a hero and celebrated for his bravery and musical talents. And from that day on, peace and harmony reigned throughout the land, all thanks to the little boy with the magical flute.\n\nGood night, my son, may you dream of adventures and always remember the power of music and kindness to change the world.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "imaginative": "mental",
+    "loves animals": "emotional",
+    "skilled musician": "other",
+    "brave": "mental",
+    "determined": "mental",
+    "legendary": "other",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.99",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

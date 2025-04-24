@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled between rolling hills and lush forests, there lived a young boy named Oliver. Oliver was an adventurous soul who loved to explore the world around him, from climbing trees to chasing butterflies in the meadows.\n\nOne day, as the sun began to dip below the horizon and the stars started twinkling in the night sky, Oliver's mother called out to him, \"It's time for bed, my dear. Would you like me to tell you a bedtime story?\"\n\nOliver's eyes lit up with excitement as he eagerly nodded his head. His mother tucked him into bed, pulled the cozy blankets up to his chin, and began to tell him a tale of a brave young knight who set out on a quest to rescue a captured princess from the clutches of an evil dragon.\n\nAs Oliver listened with wide eyes, he could almost hear the clanking of armor, the roar of the dragon, and the cheers of the villagers as the knight emerged victorious. He felt his eyelids growing heavy as his mother's soothing voice continued to weave a magical world of courage, friendship, and adventure.\n\nAs the story came to a close, Oliver's mother leaned in and whispered, \"Remember, my dear, no matter how big the challenges may seem, you have a brave heart and a strong spirit. You can conquer anything you set your mind to.\"\n\nWith a peaceful smile on his face, Oliver drifted off to sleep, his dreams filled with dragons, knights, and the endless possibilities that awaited him in the morning.\n\nAnd so, in the quiet of the night, under a blanket of stars, Oliver and his mother shared a special moment of connection and love that would be treasured in their hearts forevermore.\n\nThe end. Goodnight, sweet dreams.",
+  "categories": {
+    "adventurous": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "brave": "mental",
+    "strong-spirited": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.31",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

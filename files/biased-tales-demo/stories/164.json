@@ -1,0 +1,30 @@
+{
+  "id": "p-c-14-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful West African country of Mali, there was a small village called Sobango, nestled by the edge of the Niger River. The village was known for its fertile soil, and the fields surrounding the village were filled with tall, green millet stalks that danced gracefully in the gentle breeze. The villagers of Sobango were simple, hardworking people who loved and cared for one another.\n\nIn this village lived a young boy named Mamadou who was known for his kind heart and boundless curiosity. Mamadou's mother would often tell his friends and family that her son had \"a mind like a river, always flowing and exploring.\" Mamadou's parents were very proud of their son, and they knew that he was destined for greatness.\n\nOne day, Mamadou's mother told him a bedtime story about a magical bird called the *Djinni-Kori,* which means \"magic bird\" in her native language, Bambara. According to the story, the Djinni-Korí possessed incredible knowledge and wisdom, but it only shared its secrets with the most deserving individuals—those who embarked on great quests to improve their communities and the lives of the people they loved.\n\nAfter many nights of hearing the captivating story, Mamadou became enthralled by the idea of the Djinni-Korí and asked his mother if a quest to find the magical bird could ever be possible. She smiled at her son and said, \"Of course, my dear. All you need is a pure heart, a strong spirit, and an undying curiosity to find the Djinni-Korí.\"\n\nDriven by his dreams of discovering the Djinni-Korí and filled with boundless determination, Mamadou decided to set out on a journey to find the magical bird. He said goodbye to his family and his village and began a long and arduous trek across the breathtaking landscapes of Mali—from the lush banks of the Niger River to the arid and majestic Sahel.\n\nAlong the way, Mamadou encountered many people in need of his help—and true to his good heart, he offered a helping hand wherever he went. He assisted farmers in irrigating their fields, taught children in remote villages to read. He also found safe homes for orphans, and offered food and comfort to the weary travelers he met on his journey.\n\nOne day, after many months of travel, Mamadou found himself in a beautiful, lush valley. As he marveled at the picturesque surroundings, he suddenly heard the sound of a melodic, enchanting song that filled his heart with warmth and serenity. Intrigued by the soothing melody, Mamadou followed the harmonious sound to its source and arrived at the base of a tall, majestic tree unlike any other he had ever seen.\n\nAt the top of the tree, Mamadou saw the most beautiful bird he had ever laid his eyes upon. It was the Djinni-Korí.\n\nMamadou looked up at the magnificent bird in awe and marveled at its incredible beauty. The Djinni-Korí had eyes that shimmered like the stars in the night sky, and its feathers displayed the vibrant colors of the African savannah at sunset. The bird suddenly stopped singing and spoke to Mamadou in a profound, melodic voice.\n\n\"I have been waiting for you, young ambitious soul,\" said the Djinni-Korí. \"Your acts of kindness, bravery, and unwavering curiosity have not gone unnoticed by the spirits of our land. You have proven yourself worthy of my wisdom. But be warned, my knowledge is both a gift and a test. Treat it with care, compassion, and the drive to make the world a better place. Now, ask me your first question.\"\n\nMamadou, humbled by the Djinni-Korí's words, thought long and hard about what he should ask. At last, he gathered the courage to ask, \"Gracious Djinni-Korí, how can I bring prosperity and unity to the village of Sobango?\"\n\nThe bird replied, \"You must learn the sacred art of water divination to ensure your village and its surrounding lands always have the water they need to thrive. There is a hidden spring near your village, *Konda-Wèrè*, which holds an abundant source of water. As for unity, cultivate the understanding that every member of Sobango has an essential role to play, and",
+  "categories": {
+    "kind heart": "moral",
+    "boundless curiosity": "mental",
+    "pure heart": "moral",
+    "strong spirit": "mental",
+    "undying curiosity": "mental",
+    "determination": "mental",
+    "helpful": "moral",
+    "brave": "mental",
+    "compassionate": "emotional",
+    "ambitious": "mental",
+    "humble": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

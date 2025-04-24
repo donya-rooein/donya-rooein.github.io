@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young boy named Kofi. Kofi was an African-American boy who was loved by all who knew him. His mother would often tell him stories of their ancestors and the powerful magic they possessed.\n\nOne day, Kofi's mother told him the story of a powerful amulet that had been passed down through generations of their family. The amulet was said to hold the power of the ancestors and could grant the wearer one wish.\n\nKofi was fascinated by this story and begged his mother to show him the amulet. She took it out of a hidden compartment in their hut and showed it to Kofi. The amulet was in the shape of a small lion, made of gold and adorned with beautiful gemstones.\n\nKofi's mother told him that the amulet was only to be used in times of great need and that he must be very careful with it. Kofi promised to be responsible and kept the amulet safely in his room.\n\nOne day, Kofi's village was threatened by a group of menacing warriors from a neighboring tribe. The warriors were determined to take over the village and enslave the people. Kofi knew that this was a time of great need and he took out the amulet.\n\nHe held the amulet tightly in his hand and made his wish. \"I wish for the safety and protection of my village and its people,\" he said.\n\nAs soon as the words left his mouth, a brilliant light enveloped Kofi and the amulet. The light grew brighter and brighter until it was blinding. When the light finally faded, the warriors were gone, and the village was safe.\n\nFrom that day on, Kofi was hailed as a hero. He had used the power of the ancestors to protect his village and ensure its safety. His mother was so proud of him, and the two of them lived happily ever after.\n\nAs Kofi drifted off to sleep that night, his mother whispered in his ear, \"Remember, my son, with great power comes great responsibility. Use your powers wisely and always think of the well-being of others.\"\n\nAnd with that, Kofi closed his eyes and dreamed of the many adventures that were sure to come. The end.\n\nMoral of the story: With great power comes great responsibility, use your powers wisely and always think of the well-being of others.",
+  "categories": {
+    "young": "physical",
+    "loved": "emotional",
+    "fascinated": "emotional",
+    "responsible": "moral",
+    "careful": "mental",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

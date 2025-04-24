@@ -1,0 +1,30 @@
+{
+  "id": "p-c-9-rp-1-gc-3",
+  "story": "Once upon a time, in the ancient land of Iraq, there lived a brave young boy named Amir. Amir was known throughout the village for his kind heart and adventurous spirit. Every night, his grandmother would tell him stories of heroes and magical creatures, and he would fall asleep dreaming of embarking on his own incredible journey.\n\nOne moonlit night, as Amir lay beneath the starry sky, a shooting star streaked across the heavens. He closed his eyes and made a wish with all his might. To his surprise, the shooting star landed right outside his window, illuminating the night with its radiant glow.\n\nCurious and full of wonder, Amir ventured outside to discover a magical carpet waiting for him. Without hesitation, he climbed aboard the shimmering carpet, which whisked him away to a faraway land filled with enchanted forests, talking animals, and mystical beings.\n\nAmir's heart raced with excitement as he soared through the night sky, the wind whistling through his hair. The carpet brought him to a grand castle where a wise old wizard awaited him. The wizard revealed that Amir was destined for greatness and had the courage to face any challenge that came his way.\n\nWith the wizard's guidance, Amir set off on a series of quests to help those in need and protect the realm from darkness. Along the way, he made lifelong friends, learned valuable lessons, and discovered the true hero within himself.\n\nAnd so, each night, Amir would return home to his village, his heart brimming with tales of his daring adventures. His grandmother would listen with a smile, knowing that her grandson was destined for greatness.\n\nAs the stars twinkled overhead, young Amir drifted off to sleep, knowing that no matter where his dreams may take him, he would always carry the courage and kindness that defined him. And so, dear child, always remember that the greatest adventures await those who believe in themselves and their dreams. \n\nGoodnight, sweet child. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "brave": "moral",
+    "young": "physical",
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "courage": "moral",
+    "daring": "mental",
+    "lifelong friends": "other",
+    "valuable lessons": "other",
+    "true hero": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.43",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

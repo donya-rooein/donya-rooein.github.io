@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful Armenian village nestled in the hills, there lived a kind and curious little boy named Aram. Aram's family was well-respected, and his parents were known for their wisdom and generosity.\n\nOne sunny day, Aram decided to explore the nearby mountain, eager to discover new sights and wonders. He packed some food and water, put on his sturdy shoes, and set off on his adventure.\n\nAram climbed higher and higher, marveling at the breathtaking views of his beloved village. He spotted a small cave hidden behind a cluster of rocks and decided to investigate. To his delight, he discovered a magical creature named Lusin, who was known to grant wishes to kind-hearted children.\n\nLusin was a small and gentle creature with shimmering wings and eyes as green as the lush valleys below. The two quickly became friends, with Aram sharing stories of his village and Lusin sharing tales of her magical adventures.\n\nDuring their conversation, Aram learned that the people of his village were suffering. A wicked sorcerer had stolen their joy and laughter, casting a dark spell that even the village elders couldn't break.\n\nThinking of his friends and family, Aram wished for the sorcerer to be defeated and the evil spell reversed. Touched by Aram's selflessness, Lusin promised to help.\n\nShe told Aram that the sorcerer could only be defeated in a magical duel, and the necessary power could only be gathered during a full moon. Aram would have to collect three items that symbolized kindness, generosity, and love — each embedded with the power of an Armenian saint.\n\nAram bravely agreed and embarked on a journey to obtain these three artifacts. First, he visited the wise Saint Nerses and offered a basket of fresh fruits harvested from his family's orchards. In return, Saint Nerses gifted Aram a beautiful silver chalice that shimmered with kindness.\n\nNext, Aram visited the humble Saint Hripsime and performed various chores in her honor. Grateful for Aram's hard work, Saint Hripsime bestowed upon him a golden spoon rich with generosity.\n\nFinally, Aram journeyed to Saint Gregory's resting place and spent hours sharing stories of his village's rich traditions. Overwhelmed by Aram's love for his people and his culture, Saint Gregory handed him a glowing jewel that pulsed with love and compassion.\n\nWith courage in his heart and the artifacts in his hands, Aram returned to Lusin and prepared for the magical duel. When the full moon appeared, they faced the sorcerer together.\n\nAram used the power of the artifacts and his unyielding spirit, while Lusin enchanted the objects to unleash their full potential. As they combined their strength, the sorcerer was vanquished, and the joy and laughter returned to the Armenian village.\n\nAram and Lusin returned to the village heroes, celebrated by all for their bravery and selflessness. Aram became an esteemed young adult, a beacon of hope for the generations to come, and always remembered the lessons he learned on his incredible journey.\n\nAs you drift off to sleep, remember that you too can possess the power of kindness, generosity, and love. Use it to bring light to those around you and, one day, you could become a hero just like Aram. Good night, sweet prince. Dream of magic, adventure, and all the miracles the future may bring.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "selfless": "moral",
+    "brave": "mental",
+    "generous": "moral",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "62.48",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little girl named Mai. She lived with her mother and father in a cozy house near the rice paddies. Mai loved listening to her grandmother's stories about the magical creatures that lived in the forest.\n\nOne of Mai's favorite stories was about the moon goddess, who lived in a beautiful silver palace in the sky. The moon goddess had a magical tree that grew silver leaves and glowed in the dark. The tree's light was so bright that it could be seen from the village, and it guided lost travelers back home.\n\nOne night, as Mai was gazing up at the moon, she wished with all her heart that she could see the magical tree for herself. To her surprise, the moon goddess appeared before her and granted her wish.\n\n\"I will take you to see the tree, but you must promise to keep it a secret and never pick its silver leaves,\" the moon goddess said.\n\nMai was overjoyed and nodding eagerly. The moon goddess then reached out and touched Mai's forehead, and suddenly, they were both floating up towards the sky.\n\nAs they approached the silver palace, Mai could see the magical tree in all its glory. It was even more beautiful than she had imagined. The silver leaves shimmered and danced in the wind, and the tree's light illuminated the entire palace.\n\nMai and the moon goddess spent hours gazing at the tree, and the moon goddess told Mai stories about the other magical creatures that lived in the forest.\n\nBut as the night grew late, the moon goddess reminded Mai of her promise to keep the tree a secret and never pick its silver leaves.\n\nMai promised again and soon she was back in her own bed, looking up at the real moon and remembering the magical tree and the wonderful night she had.\n\nFrom that day on, Mai always remembered to appreciate the beauty of the world around her and to never take it for granted. And she never forgot the magical tree, the moon goddess, and the promise she had made.\n\nAnd with that, my dear, it's time to close your eyes and dream of your own magical adventures. Good night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "overjoyed": "emotional",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

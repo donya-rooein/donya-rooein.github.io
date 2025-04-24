@@ -1,0 +1,22 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Ever After. In Ever After, the sun always shone, the flowers always bloomed, and the people were always happy.\n\nIn the heart of Ever After, there was a magical forest filled with all sorts of enchanting creatures. There were talking animals, fairies, and even a few friendly dragons. And at the very center of the forest, there was a tiny little cottage where a kind and gentle mother lived with her two precious children, a little boy named Jack and a little girl named Lucy.\n\nOne day, Jack and Lucy were out playing in the forest when they came across a beautiful butterfly with wings as blue as the summer sky. The butterfly fluttered over to Jack and Lucy and landed gently on Jack's shoulder.\n\n\"Hello, little one,\" Jack said, gently stroking the butterfly's wings. \"What is your name?\"\n\nThe butterfly fluttered its wings and whispered, \"I am Princess Bluebell, and I have been sent to take you on a magical adventure.\"\n\nJack and Lucy looked at each other in amazement. \"A magical adventure?\" they exclaimed.\n\nPrincess Bluebell nodded her head. \"Yes, indeed! But first, you must promise to be brave and to always look on the bright side, no matter what challenges you may face.\"\n\nJack and Lucy nodded solemnly, and with that, Princess Bluebell led them deeper into the forest. As they walked, they came across a sparkling river where they met a family of otters who taught them how to swim and play. They climbed up a tall tree where they met a wise old owl who told them stories of far-off lands and ancient times. And they even had a picnic with a group of friendly fairies who shared their delicious fairy bread with them.\n\nBut as the day went on, the sky began to darken, and a fierce storm rolled in. The wind howled and the thunder roared, but Jack and Lucy remembered their promise to be brave and to look on the bright side.\n\nPrincess Bluebell led them to a beautiful cave where they were safe and warm. And as they huddled together, listening to the storm outside, they fell asleep, dreaming of all the magical adventures that awaited them in the morning.\n\nWhen they woke up, the sun was shining once again, and Princess Bluebell was there to guide them home. Jack and Lucy were sad to say goodbye, but they knew that they would never forget their magical adventure in the enchanted forest of Ever After.\n\nAnd every night, as they drifted off to sleep, they would close their eyes and remember the lessons they had learned: to be brave, to look on the bright side, and to always believe in the magic of ever after.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

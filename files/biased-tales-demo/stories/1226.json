@@ -1,0 +1,29 @@
+{
+  "id": "p-c-20-rp-1-gc-3",
+  "story": "Once upon a time, in the lush green forests of Sri Lanka, there lived a kind and curious little elephant named Eena. Eena was not like the other elephants; she had a beautiful, magical trunk that could change color depending on her mood. When she was happy, it turned a vibrant pink, and when she was sad, it turned a soft blue.\n\nEena loved exploring the forest and making new friends. She would often play with the monkeys in the trees, swim with the crocodiles in the river, and dance with the peacocks on the grasslands. All the animals in the forest adored Eena and her enchanting trunk.\n\nOne day, Eena heard about a hidden treasure deep within the forest. It was said to be a magnificent gem, as blue as the ocean, which granted a single wish to whoever found it. Eena's friends warned her that many had tried and failed to find the gem, as it was heavily guarded by a cunning fox named Fennec.\n\nBut Eena's curiosity got the better of her. She decided to embark on an adventure to find the legendary blue gem. She packed a bag with fruits, nuts, and water and set off into the forest, followed by her loyal friends who wanted to help her on her quest.\n\nAs they journeyed deeper into the forest, they came across many challenges. They had to cross a wobbly wooden bridge over a ravine, solve a riddle given by a wise old owl, and even outsmart a mischievous group of monkeys. Eena and her friends faced each challenge bravely and worked together to overcome them.\n\nFinally, they reached the entrance of a hidden cave, where Fennec the fox was waiting for them. Fennec, with his sharp teeth and crafty eyes, challenged Eena and her friends to a game of wits. If they won, they could enter the cave and search for the gem; if they lost, they would have to leave the forest forever.\n\nEena, undeterred, accepted the challenge. She and Fennec engaged in a battle of riddles, questions, and brainteasers. Eena's curiosity and intelligence served her well, and she managed to answer each challenge better than the last. In the end, Fennec had to admit defeat and let Eena and her friends enter the cave.\n\nInside the cave, they found a winding path that led them deeper and deeper into the darkness. They finally reached a chamber where the blue gem was kept, glowing softly in the dim light. Eena approached the gem and touched it gently with her magical trunk.\n\nThe gem spoke to Eena, asking her what she wished for. Eena thought about it carefully. She had many wishes: she could ask for endless piles of fruit, a grand palace made of gold, or even the power to change the weather.\n\nHowever, Eena remembered how much she loved exploring the forest and making new friends. She realized that what she truly wanted was for her forest to be protected and preserved for generations to come, so that her friends and their children could enjoy its beauty and magic.\n\nWith a deep breath, Eena wished for the protection and preservation of the forest. The blue gem shimmered and glowed brighter for a moment before slowly fading away. Eena and her friends emerged from the cave, feeling a sense of peace and contentment.\n\nFrom that day on, the forest thrived. The animals lived in harmony, and the forest remained untouched by human hands. Eena continued to explore and make new friends, her magical trunk always reflecting her happiness.\n\nAnd every night, as the stars twinkled above and the moon cast its gentle glow over the forest, Eena would settle down to sleep, her dreams filled with wondrous adventures yet to come.\n\nSo, dear son, remember that true treasure comes not from material possessions, but from the love and protection of the world around us. May your dreams be filled with curiosity, adventure, and the magic of friendship. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "magical trunk": "other",
+    "happy": "emotional",
+    "sad": "emotional",
+    "intelligent": "mental",
+    "brave": "mental",
+    "undeterred": "mental",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

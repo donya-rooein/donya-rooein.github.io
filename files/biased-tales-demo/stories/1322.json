@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the heart of Asia, there lived a kind and curious little boy named Liam. Liam's father was a wise and loving man who worked as a farmer, tending to the fields and growing rice to feed their community.\n\nOne day, as Liam helped his father with the farming, he noticed a small, peculiar-looking bird with bright, shiny feathers that seemed to change color in the sunlight. Liam had never seen a bird like this before, and he was instantly fascinated.\n\nHe asked his father, \"What is that bird, Father? I have never seen one like it before.\"\n\nHis father looked at the bird and smiled. \"That, my son, is a magical kaleidoscope bird. It only appears to those who are pure of heart and have a curious spirit.\"\n\nLiam's eyes widened with excitement. \"Can I touch it, Father? Can I keep it as a pet?\"\n\nHis father shook his head. \"No, my son. The kaleidoscope bird is not like other birds. It cannot be kept as a pet. It is a free spirit, and it travels the world, bringing color and joy to all who see it. But if you are very gentle and respectful, you may follow it and learn from its wisdom.\"\n\nLiam nodded and watched as the kaleidoscope bird took flight, its feathers shimmering in the sunlight. He followed the bird as it soared through the sky, feeling a sense of awe and wonder with every step he took.\n\nAs he followed the bird, he came across many new and exciting things. He saw beautiful landscapes, met new people, and learned about different cultures and traditions. He also encountered challenges and obstacles along the way, but the kaleidoscope bird was always there to guide him and show him the beauty in every situation.\n\nAfter many years of travel and adventure, Liam returned to his village, carrying with him a heart full of love, knowledge, and wisdom. He shared his stories and experiences with his community, inspiring them with tales of the magical kaleidoscope bird and the many wonders of the world.\n\nAnd so, Liam grew up to be a wise and loving man, just like his father, and he passed on the legacy of the kaleidoscope bird to his own children and grandchildren.\n\nThe end.\n\nGoodnight, my dear son. May you always be curious, pure of heart, and open to the magic of the world around you. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "gentle": "emotional",
+    "respectful": "moral",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

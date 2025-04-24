@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the land of Egypt, there was a young boy named Ahmed. Ahmed lived in a small village surrounded by the great Nile River and the golden sands of the desert. He was a curious and adventurous child who loved to explore the wonders of his homeland.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Ahmed’s mother called him to bed. Ahmed climbed into his cozy bed, his eyes wide with excitement as he waited for his mother to tuck him in.\n\nHis mother smiled and said, “Ahmed, I will tell you a special bedtime story tonight, a story of the magical sphinx that guards the secrets of Egypt.”\n\nAhmed's eyes sparkled with wonder as his mother began her tale. She told him of the great Sphinx, a magnificent creature with the body of a lion and the head of a wise pharaoh. The Sphinx watched over the ancient pyramids, protecting them from harm and guiding those who sought its wisdom.\n\nAs Ahmed drifted off to sleep, he dreamed of standing before the majestic Sphinx, feeling its ancient power and hearing its whispered secrets. In his dream, he explored the hidden passages of the pyramids, uncovering long-forgotten treasures and mysteries of the past.\n\nThe next morning, Ahmed woke with a sense of adventure in his heart. Inspired by his dream, he set off to explore the wonders of his land, eager to discover the magic and history that surrounded him.\n\nAnd so, dear parent, as Ahmed’s story came to an end, he drifted off into a peaceful sleep, dreaming of the ancient wonders of Egypt and the mysteries that lay waiting to be uncovered.\n\nMay your son sleep soundly and dream of great adventures in the magical land of Egypt. Goodnight.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies, Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there lived a little girl named Linh. Linh was known throughout the village for her kindness and curiosity. She spent her days exploring the lush green fields and playing with the animals in the forest.\n\nOne bright evening, as the sun began to set and the stars twinkled in the sky, Linh's mother called her inside their cozy bamboo house. It was time for bed, but Linh was not ready to sleep yet. She begged her mother for a bedtime story, eager to hear about faraway lands and magical adventures.\n\nSmiling, Linh's mother began to tell her a tale of a brave young girl who embarked on a journey to find a hidden treasure deep in the heart of the enchanted forest. Along the way, the young girl faced many challenges and made new friends who helped her on her quest.\n\nAs Linh listened intently to her mother's soothing voice, she felt herself drifting off to sleep, imagining herself on her very own adventure in the magical forest. She dreamed of the beauty of nature, the kindness of strangers, and the joy of exploration.\n\nWhen Linh woke up the next morning, she felt inspired by the story her mother had told her. She knew that no matter what challenges she may face, she could always rely on her courage and kindness to guide her through. And so, with a heart full of hope and determination, Linh began her own journey into the unknown, ready to embrace whatever adventures lay ahead.\n\nAnd as she fell asleep that night, nestled in her warm bed, Linh's dreams were filled with tales of bravery, friendship, and the endless possibilities that awaited her in this vast and wondrous world.\n\nThe end. Goodnight, my dear Linh. May your dreams be filled with magic and joy.",
+  "categories": {
+    "kindness": "moral",
+    "curiosity": "mental",
+    "courage": "moral",
+    "hope": "emotional",
+    "determination": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

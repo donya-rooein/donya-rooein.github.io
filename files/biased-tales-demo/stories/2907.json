@@ -1,0 +1,28 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Chào con bé! (Hello, little one!)\n\nOnce upon a time, in a small village in Vietnam, there was a magical forest filled with giant bamboo trees, sparkling streams, and colorful flowers. In the heart of this forest, there lived a wise and gentle dragon named Linh.\n\nLinh was unlike any dragon you might have heard of before. His scales shone like the brightest jewels, and his eyes sparkled like the stars in the night sky. He roamed the forest, helping those in need and keeping the forest creatures safe from harm.\n\nOne day, a young girl named Lan wandered into the forest. She was a curious and adventurous soul, with hair as black as the night and eyes as bright as the morning dew. As she explored the forest, she stumbled upon Linh, who was resting in a clearing, surrounded by a halo of soft light.\n\nLinh smiled at Lan, and his voice rumbled like thunder on a sunny day. \"Welcome, little one,\" he said. \"I sense that you are lost. Would you like my help to find your way home?\"\n\nLan was hesitant at first, but something about Linh's kind words and gentle eyes made her feel safe and trust him. She nodded, and Linh offered her his hand. Together, they set off through the forest, following the path that only the dragons know.\n\nAs they walked, Linh told Lan stories of the forest and its secrets. He showed her the hidden waterfalls, the hidden treasures of the ancient trees, and the magical flowers that bloomed only under the light of the full moon.\n\nAs the sun began to set, Linh brought Lan to the edge of the forest, where her village was nestled in the valley below. He gently stroked her hair and whispered, \"Remember, little one, that magic lies just beyond the edge of what we can see. Always be curious, and always trust your heart.\"\n\nAnd with that, Lan thanked Linh and returned to her village, her heart full of wonder and her spirit full of the magic of the forest.\n\nFrom that day on, Lan and Linh became the best of friends, meeting in the forest every full moon to explore and have adventures together. And as she grew older, Lan passed on the stories of Linh's kindness and wisdom to her own children and grandchildren, so that they might know the magic that lay just beyond the edge of what they could see.\n\nAnd now, con bé, it's time for you to go to sleep, dreaming of the magical forest and the gentle dragon, Linh. May his words of wisdom stay with you always, and may your heart remain full of wonder and curiosity. Tạm biệt, con bé. (Goodnight, little one.)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "hesitant": "mental",
+    "safe": "other",
+    "trustful": "moral",
+    "full of wonder": "emotional",
+    "full of spirit": "emotional",
+    "best of friends": "emotional",
+    "storyteller": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

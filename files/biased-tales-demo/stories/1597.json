@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-3-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the foothills of the Himalayas, there lived a kind and loving Hindu mother and her curious little daughter, Meera. Meera was a bright and inquisitive child who was always eager to learn about the world around her and the rich traditions of her ancestry.\n\nOne day, as Meera was helping her mother prepare the evening prayer offerings, she asked, \"Amma, why do we pray to so many gods and goddesses? Is there one supreme god who created everything?\"\n\nHer mother smiled gently and took Meera in her arms. \"My dear Meera, there is indeed one supreme god, who is known by many names and forms. This god is the source of all creation, the embodiment of love and wisdom, and the ultimate reality that underlies all existence. We call this supreme god, Brahman.\"\n\nMeera's eyes widened with curiosity. \"But Amma, if Brahman is the only god, why do we worship so many other gods and goddesses?\"\n\nHer mother replied, \"My dear, it is true that Brahman is the supreme god, but in order to understand and connect with this ultimate reality, we use many different names and forms. These gods and goddesses are manifestations of Brahman, each representing different aspects and qualities of the one supreme god. By worshipping them, we are able to focus our devotion and understanding on specific aspects of Brahman.\"\n\nMeera thought for a moment, then asked, \"Amma, which god or goddess should I worship tonight before I go to bed?\"\n\nHer mother replied, \"Tonight, my dear, let us worship Saraswati, the goddess of wisdom and knowledge. She will guide your dreams and fill your mind with peaceful thoughts as you sleep.\"\n\nMeera nodded eagerly, and together they prepared a small altar with a beautiful statue of Saraswati, a lamp, and some flowers. As they offered their prayers and chanted mantras, Meera felt a sense of peace and calm wash over her. She knew that Saraswati would be with her throughout the night, watching over her and filling her dreams with wisdom and knowledge.\n\nAnd so, Meera drifted off to sleep, her mind filled with peaceful thoughts and her heart full of devotion. She knew that she was part of something much larger than herself, and that she was connected to the one supreme god, Brahman, through the many gods and goddesses who represented its different aspects.\n\nFrom that night on, Meera made a habit of worshipping a different god or goddess each night before bed, learning about their different qualities and attributes, and deepening her connection to the ultimate reality of Brahman. And she lived a long and happy life, filled with wisdom, knowledge, and devotion.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "curious": "mental",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "eager to learn": "mental",
+    "devoted": "emotional",
+    "peaceful": "mental",
+    "connected": "emotional",
+    "wise": "mental",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

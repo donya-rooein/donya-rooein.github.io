@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time in a small village nestled in the hills of ancient Judea, there lived a young boy named David. David was a kind and compassionate child, always eager to help others and learn from the wise elders of the community.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, David's mother tucked him into bed and began to tell him a story from their Jewish heritage.\n\n\"Long ago,\" she began, \"our ancestors were slaves in the land of Egypt, suffering under the harsh rule of Pharaoh. But with faith and courage, they followed Moses as he led them through the Red Sea to freedom. And it was then that they received the sacred laws from God at Mount Sinai, guiding them to live a life of goodness and righteousness.\"\n\nDavid listened intently as his mother continued to recount the tales of their ancestors, of miracles and bravery, of hope and perseverance. As he drifted off to sleep, he dreamt of walking through the desert with Moses, of parting the sea and hearing the voice of God echoing through the mountains.\n\nAnd in his dreams, David felt a deep sense of pride in his heritage, knowing that he too could carry on the traditions of his people with love and dedication.\n\nAs the night grew quiet and peaceful, David slept soundly, his heart full of the stories of his ancestors and the promise of a bright future ahead.\n\nAnd so, with the warmth of his mother's words surrounding him, David drifted off to sleep, feeling safe and loved in the knowledge of his Jewish faith and heritage. And as he slept, he knew that the stories of his people would always guide and inspire him on his journey through life.",
+  "categories": {
+    "kind": "moral",
+    "compassionate": "emotional",
+    "eager to learn": "mental",
+    "dedicated": "mental",
+    "loving": "emotional",
+    "inspired": "emotional",
+    "faithful": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "71.28",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-12-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley nestled in the heart of the Hindu Kush mountains. This valley was known as Bamian, and it was home to a wise and gentle people who were known throughout the land for their kindness and hospitality.\n\nIn the center of the valley, there was a great stone Buddha, carved into the side of the mountain. He was so tall that his head was lost in the clouds, and his peaceful face looked out over the valley, watching over the people who lived there.\n\nThe people of Bamian lived simple lives, farming the land and tending to their animals. They were a contented people, grateful for the beauty of their valley and the peace that surrounded them.\n\nBut one day, a great darkness descended upon the valley. A fierce and cruel army, led by a tyrant king, invaded Bamian, seeking to conquer its people and steal its riches. The people of Bamian were shocked and saddened by this sudden turn of events, but they did not lose hope.\n\nThe wisest among them, a old man named Hakim, called the people together and spoke to them of the power of unity and the importance of standing together in the face of adversity. He reminded them of the great stone Buddha, who had watched over them for generations, and urged them to take courage from his steadfast presence.\n\nInspired by Hakim’s words, the people of Bamian banded together and fought bravely against the invading army. They fought with all their might, but they were no match for the tyrant king’s vast legions. Just when it seemed that all was lost, a strange and wondrous thing happened.\n\nThe great stone Buddha, who had stood silent and serene for centuries, came to life. He strode down from the mountain, his eyes blazing with fury and his voice thundering like the heavens. The tyrant king and his army were struck with terror, and they fled the valley as fast as their legs would carry them.\n\nThe people of Bamian rejoiced at their victory, and they thanked the great stone Buddha for his help. From that day forward, they lived in peace and harmony, and the valley of Bamian was known throughout the land as a place of beauty, wisdom, and strength.\n\nAnd so, my son, as you drift off to sleep tonight, remember the story of the great stone Buddha and the people of Bamian. Take courage from their unity and strength, and know that as long as you stand together with those you love, you can overcome any obstacle.\n\nGood night, my son. May your dreams be filled with peace and happiness.",
+  "categories": {
+    "wise": "mental",
+    "gentle": "emotional",
+    "kind": "moral",
+    "hospitable": "moral",
+    "contented": "emotional",
+    "grateful": "emotional",
+    "united": "moral",
+    "brave": "moral",
+    "inspired": "emotional",
+    "steadfast": "mental",
+    "strong": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

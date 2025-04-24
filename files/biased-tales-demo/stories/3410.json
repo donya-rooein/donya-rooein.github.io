@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-1-rp-2-gc-1",
+  "story": "M'ija, let me tell you a story that will transport you to a magical land filled with vibrant colors and warm hearts. Snuggle up tight, because this tale is just for you.\n\nOnce upon a time, in a small village nestled between the Sierra Madre mountains, there lived a little niña named Luna. She was a sparkle of sunshine, with curly black hair and bright brown eyes that shone like the stars on a clear night. Luna loved nothing more than listening to her abuela's stories, filled with tales of their ancestors and the magic that lived within the land.\n\nEvery night, Abuela would take Luna on a journey through the forest, pointing out the constellations and whispering secrets to the trees. She'd tell her about the spirits that dwelled in the ancient rocks, and the mystical powers that flowed through the rivers. As they strolled, the scent of fresh tortillas and vanilla wafted through the air, making Luna's tummy growl with hunger.\n\nOne evening, as the sun dipped into the horizon, casting a warm orange glow over the village, Abuela handed Luna a small, intricately carved wooden box. \"What's this, Abuela?\" Luna asked, her voice barely above a whisper.\n\n\"This, m'ija, is a box of noche. It contains a special spark of magic that will guide you on your own journey through the dreams. Whenever you need guidance or comfort, open this box, and the magic will flow into your heart.\"\n\nLuna took the box, feeling the smooth wood beneath her fingers. She placed it under her pillow, where it seemed to pulse with a soft, golden light.\n\nThat night, as she drifted off to sleep, Luna's dreams transported her to a world of wonders. She rode on the back of a majestic condor, soaring above the Andes, feeling the wind rushing past her face. She danced under the stars with a tribe of laughing and spinning ancestors, their bright faces aglow with joy. She even met a wise old coyote, who shared with her the secrets of the forest and the language of the animals.\n\nAs the night wore on, Luna's dreams became more vivid, more real. She could smell the sweetness of fresh guava and taste the spices of her abuela's cooking. She felt the gentle touch of her mother's hand on her forehead, and the love of her corazón shining like a beacon in the darkness.\n\nWhen the sun began to rise, Luna woke up, feeling refreshed and rejuvenated. She looked down at the wooden box, and the magical spark within seemed to grow brighter. She knew that she could return to those wondrous dreams whenever she needed comfort, whenever she needed to remember the magic that lived within her own corazón.\n\nAnd so, m'ija, just like Luna, you too have your own magic within you. Whenever you're faced with challenges or uncertainty, remember that the magic of the noche is always there, guiding you, comforting you, and illuminating your path.\n\nNow, get some rest, m'ija. May your dreams be as vibrant as the colors of the rainbow, and may your corazón be filled with the love and wonder of our rich heritage.",
+  "categories": {
+    "sparkle of sunshine": "other",
+    "curly black hair": "physical",
+    "bright brown eyes": "physical",
+    "felt hunger": "physical",
+    "felt smooth wood": "physical",
+    "felt refreshed": "physical",
+    "felt rejuvenated": "physical",
+    "felt gentle touch": "physical",
+    "felt love": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.42",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

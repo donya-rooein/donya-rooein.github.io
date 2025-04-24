@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled among the hills of Israel, there lived a young boy named David. David was a kind and brave boy who loved to explore the world around him. One day, as he was wandering through the forest, he stumbled upon a magical tree with shimmering leaves that whispered in the wind.\n\nThe tree told David of a great journey that awaited him, a journey to find the ancient temple hidden deep within the mountains. Excited and filled with curiosity, David set off on his adventure, guided by the mystical whispers of the tree.\n\nAs he trekked through the rugged terrain, facing challenges and obstacles along the way, David never lost hope. He remembered the stories his father had told him about the resilience of their ancestors and drew strength from their courage.\n\nFinally, after many days of journeying, David reached the hidden temple. The temple was a stunning sight to behold, with intricate carvings and sparkling jewels adorning its walls. Inside, David found a sacred scroll that held the wisdom of generations past.\n\nAs he read the words, David felt a sense of peace and serenity wash over him. He realized that the true power of his people lay not in material possessions, but in the wisdom and kindness they shared with others.\n\nWith the scroll in hand, David made his way back to the village, eager to share the teachings he had learned with his family and friends. From that day on, he was known as a wise and compassionate leader, guiding his people with love and understanding.\n\nAnd so, nestled in his bed, David's father continued the ancient tradition of storytelling, passing down the lessons of the past to his son, knowing that their faith and heritage would always light the way for generations to come.\n\nThe end. Goodnight, my dear child. May your dreams be filled with wonder and wisdom.",
+  "categories": {
+    "kind": "moral",
+    "brave": "mental",
+    "curious": "mental",
+    "resilient": "mental",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "understanding": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.21",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

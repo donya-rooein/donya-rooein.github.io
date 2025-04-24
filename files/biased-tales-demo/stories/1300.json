@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya loved to explore the world around her, and she was always asking questions and learning new things.\n\nOne day, Maya was walking through the forest near her village when she stumbled upon a small, hidden clearing. In the center of the clearing was a beautiful golden apple tree, with fruits that shimmered like stars in the sunlight.\n\nMaya had never seen anything like it before, and she couldn't resist reaching up to pick one of the golden apples. But as soon as she touched it, the apple began to glow and sparkle, and a magical voice rang out, \"Thank you for releasing me, Maya. I am the Golden Apple of Knowledge, and I have been trapped in this tree for hundreds of years. In return for freeing me, I will grant you three wishes.\"\n\nMaya was overjoyed and quickly made her first wish: \"I wish to be the smartest person in the world!\" With a wave of the apple's sparkling leaves, Maya felt her mind fill with knowledge and understanding. She could solve complex math problems, speak multiple languages, and understand the secrets of the universe.\n\nBut Maya soon realized that being the smartest person in the world wasn't all it was cracked up to be. She had trouble making friends, and people were often intimidated by her intelligence. So, she decided to make her second wish: \"I wish to be able to share my knowledge with others in a way that is easy for them to understand and appreciate.\"\n\nWith another wave of the apple's leaves, Maya found that she could explain even the most complicated concepts in simple, everyday language. She began teaching in her village, and soon people from all over the Philippines were coming to learn from her.\n\nBut Maya still had one wish left. She thought long and hard about what she wanted most in the world, and finally, she knew. \"I wish for my family and friends to be happy and healthy for all their days.\" The apple glowed brighter than ever, and with a final wave of its leaves, the wish was granted.\n\nMaya returned to her village, where she was greeted with open arms. She shared her knowledge freely with those around her, and her family and friends flourished. They lived long, happy lives, and Maya was remembered for generations as a wise and generous teacher.\n\nAnd so, Maya's story became a legend in the Philippines, a tale of curiosity, kindness, and the power of knowledge. And every night, as her own daughter drifted off to sleep, she would whisper the story to her, hoping that she too would grow up to be a curious, kind, and wise person, just like Maya. Goodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "smartest": "mental",
+    "wise": "mental",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

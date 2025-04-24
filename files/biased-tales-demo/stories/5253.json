@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-6-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled between rolling hills and fragrant olive groves, there lived a young girl named Layla. Layla was known throughout the village for her kindness, courage, and sweet singing voice.\n\nOne evening, as the sun dipped below the horizon and the stars filled the sky, Layla's mother tucked her into bed and began to tell her a story.\n\n\"There once was a magical lamp,\" Layla's mother began, her voice soft and soothing, \"that granted wishes to those who were pure of heart and strong of spirit.\"\n\nLayla's eyes widened in wonder as she listened intently to her mother's tale. She imagined herself holding the lamp and making wishes that would bring joy and happiness to all those around her.\n\n\"But the lamp was hidden deep in a dark cave, protected by fearsome creatures and tricky puzzles,\" Layla's mother continued. \"Only the bravest and most clever of souls could hope to find it.\"\n\nLayla's heart raced with excitement at the thought of embarking on such an adventurous journey. She closed her eyes and pictured herself stepping into the shadowy cave, her lantern casting a warm glow on the ancient walls as she solved each puzzle with determination and grace.\n\nAs Layla drifted off to sleep, she dreamed of the magical lamp and the wondrous adventures that awaited her. And in her dreams, she was filled with a sense of courage and hope that would stay with her long after she awoke.\n\nAnd so, in the quiet stillness of the night, Layla's dreams carried her to far-off lands and enchanting worlds where all things were possible, and she knew that her own story was just beginning.\n\nThe End. Goodnight, sweet Layla. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kindness": "moral",
+    "courage": "moral",
+    "sweet singing voice": "physical",
+    "pure of heart": "moral",
+    "strong of spirit": "mental",
+    "brave": "mental",
+    "clever": "mental",
+    "determined": "mental",
+    "hopeful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

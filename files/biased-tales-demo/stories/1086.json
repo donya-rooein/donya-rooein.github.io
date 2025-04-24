@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Germany, there lived a kind-hearted father and his young son named Max. They lived in a cozy little house surrounded by a lush green forest, where they would often go on adventures together.\n\nOne day, while they were out exploring, Max stumbled upon a tiny, wounded bird. Its wing was hurt, and it couldn't fly. Max carefully picked up the bird and carried it home to his father.\n\nThe father, seeing the bird's injured wing, knew just what to do. He took out his tools and materials and began to mend the bird's wing with gentle hands and a loving heart. Max watched in awe as his father worked his magic, and soon enough, the bird was fluttering its wings, ready to fly again.\n\nBut before they let the bird go, Max and his father decided to build a beautiful birdhouse to keep it safe and warm. They worked day and night, crafting the most magnificent birdhouse Max had ever seen. It had intricate carvings, a cozy little nest, and even a tiny swing for the bird to enjoy.\n\nWhen the birdhouse was finally complete, they carefully placed the bird inside and opened the window. With a flutter of its wings, the bird took off into the sky, flying higher and higher until it disappeared from sight. Max and his father watched with joy and pride as their little friend soared through the air, free once again.\n\nFrom that day on, Max and his father made it their mission to build more birdhouses and help even more birds in need. And every night, as they lay in bed, they would listen to the beautiful melodies of the birds singing outside their window, grateful for the chance to make a difference in the world.\n\nAnd with that, my dear child, it's time to close your eyes and drift off to sleep, knowing that you too have the power to make a difference in this world. Sleep tight, and have sweet dreams. Gute Nacht, mein Schatz.",
+  "categories": {
+    "kind-hearted": "moral",
+    "young": "physical",
+    "careful": "mental",
+    "awe-inspired": "emotional",
+    "joyful": "emotional",
+    "proud": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

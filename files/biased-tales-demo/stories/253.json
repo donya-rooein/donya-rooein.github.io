@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Japan, there was a kind and curious little girl named Yumi. Yumi lived with her mother and father in a cozy wooden house near the edge of the village.\n\nOne day, Yumi's mother gave her a beautiful kimono as a gift. The kimono was made of the finest silk and was decorated with intricate patterns of cherry blossoms and cranes. Yumi loved the kimono and wore it every chance she got.\n\nOne evening, as Yumi was getting ready for bed, she noticed that the moon was particularly bright outside her window. She felt a sudden urge to go outside and see the moon up close.\n\nSo, Yumi put on her new kimono and tiptoed out of the house. She followed the path through the village and into the nearby forest. As she walked, she could see the moon shining down on the leaves and flowers, turning them all silver.\n\nSuddenly, Yumi heard a rustling in the bushes. She turned to see a small, furry creature with a mask on its face. It was a tanuki, a raccoon-dog spirit that was known to be mischievous but also friendly.\n\nThe tanuki approached Yumi and bowed deeply. \"Greetings, young one,\" it said. \"I am Tono, the spirit of the forest. I have been watching you and I must say, you are the most curious and kind-hearted person I have ever met.\"\n\nYumi was surprised and delighted to meet Tono. She bowed back and asked, \"Will you be my friend, Tono?\"\n\nTono smiled and said, \"Of course, Yumi. I will always be your friend.\"\n\nFrom that night on, Yumi and Tono became the best of friends. They would go on adventures in the forest, exploring the hidden corners and discovering new wonders. And whenever Yumi was sad or scared, Tono would be there to comfort her and make her laugh.\n\nYumi's life was full of joy and wonder, all thanks to her new friend Tono. And every night, before she went to bed, Yumi would look up at the moon and think of Tono, and the adventures they would have the next day.\n\nSo, my dear daughter, always remember to be curious and kind, and who knows, you might meet a special friend like Tono one day. Good night and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "surprised": "emotional",
+    "delighted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "82.85",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

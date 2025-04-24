@@ -1,0 +1,28 @@
+{
+  "id": "p-c-8-rp-1-gc-2",
+  "story": "Once upon a time, in a lush and vibrant forest in the heart of Brazil, there was a young jaguar named Juma. Juma was not like the other jaguars; she had a beautiful, magical coat that shimmered and changed colors, reflecting the emotions she felt. When she was happy, her coat would sparkle with all the colors of the rainbow, and when she was sad, it would turn a deep, mournful blue.\n\nJuma's best friend was a small, curious bird named T tiny. T tiny was a tiny, vibrant hummingbird with a heart full of kindness and love for her friend Juma. Together, they explored the forest, discovering new and exciting secrets that lay hidden within its depths.\n\nOne day, as they were playing near the river, Juma noticed that something was wrong. The water was murky and dark, and it didn't reflect the bright, beautiful sky above. T tiny noticed Juma's sadness and asked her what was wrong. Juma explained that the river was sick, and it made her heart hurt to see it this way.\n\nT tiny, being the wise and resourceful little bird she was, had an idea. She knew of an ancient, wise tree deep within the forest, and she believed that it held the secret to healing the river. With Juma by her side, T tiny set off on a journey to find the tree and restore the river to its former glory.\n\nAs they ventured deeper into the forest, they faced many challenges and obstacles, but their friendship only grew stronger. They met new friends along the way, like a wise old tortoise and a playful monkey, who joined them on their quest.\n\nFinally, after many days of travel, they reached the ancient tree. It was even more magnificent than they had imagined, its branches reaching high into the sky, filled with leaves that shimmered like jewels. The tree spoke to them, teaching them about the importance of harmony between all living creatures and the earth.\n\nWith this newfound wisdom, Juma and her friends returned to the river. Juma used her magical coat to weave a beautiful tapestry of colors, capturing the healing energy of the forest. T tiny and their new friends helped to carry the tapestry to the river, where it was gently placed into the water.\n\nMiraculously, the murky waters began to clear, and life started to return to the river. The fish swam happily, and the plants grew vibrant and strong. Juma's heart was full of joy, knowing that she and her friends had made a real difference in their forest home.\n\nAs they settled down to rest, Juma looked at T tiny and knew that their friendship was the most magical and beautiful thing of all. They had faced many challenges together, but their love and determination had carried them through.\n\nFrom that day on, Juma and T tiny continued to explore the wonders of the forest, always looking out for one another and the world they called home. And as their friendship grew, so too did the magic of their world, filled with love, harmony, and the vibrant colors of life.\n\nAnd so, my dear daughter, as you drift off to sleep, remember the story of Juma and T tiny, and the power of friendship, love, and working together to make the world a better place. Sweet dreams, my little one.",
+  "categories": {
+    "young": "physical",
+    "beautiful": "physical",
+    "magical": "other",
+    "happy": "emotional",
+    "sad": "emotional",
+    "wise": "mental",
+    "resourceful": "mental",
+    "joyful": "emotional",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

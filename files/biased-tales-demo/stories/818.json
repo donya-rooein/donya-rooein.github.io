@@ -1,0 +1,27 @@
+{
+  "id": "p-c-2-rp-3-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a small village nestled at the foot of a great mountain. The village was called Brindlewood, and it was a peaceful place where the people lived in harmony with the land and all the creatures that called it home.\n\nIn Brindlewood, there was a young boy named Finian who lived with his father, a blacksmith, in a cozy cottage on the outskirts of the village. Finian was a curious and adventurous boy, always eager to explore the world around him and discover new things.\n\nOne day, Finian heard tell of a magnificent dragon that lived atop the mountain, guarding a great treasure. The dragon was said to be wise and powerful, with scales as golden as the sun and eyes that sparkled like the stars.\n\nFinian's heart was filled with excitement at the thought of seeing such a wondrous creature, and he knew that he had to find a way to reach the top of the mountain and meet the dragon for himself. But he also knew that his father would never let him go alone, so he hatched a plan.\n\nThe next day, Finian went to his father's forge and asked if he could help him make a special gift for the village. His father, always happy to teach his son the ways of the smith, agreed, and together they worked all day to create a beautiful horseshoe, adorned with intricate designs and gleaming like a star at night.\n\nWhen they were finished, Finian presented the horseshoe to the village, saying that it was a gift from his father, the greatest blacksmith in all the land. The villagers were overjoyed, and they asked Finian's father to be their blacksmith from that day on.\n\nWith the villagers' gratitude fresh in his mind, Finian approached his father and asked if he could now be allowed to climb the mountain and meet the dragon. His father, proud of his son's ingenuity and kind heart, agreed, and Finian set off on his journey.\n\nThe climb was long and arduous, but Finian did not falter, for he was determined to meet the dragon and see the treasure for himself. And finally, after many days and nights, he reached the top of the mountain.\n\nThere, amidst the clouds and the swirling mists, Finian saw the dragon, and it was more magnificent than he could have ever imagined. Its scales were as golden as the sun, and its eyes sparkled like the stars. The dragon looked down at Finian, and in a voice like thunder, it asked, \"Who dares to disturb my solitude?\"\n\nFinian stepped forward, his heart pounding with excitement and fear, and he said, \"I am Finian, son of the blacksmith of Brindlewood. I have come to see the treasure that you guard and to learn from your wisdom.\"\n\nThe dragon looked at Finian for a long moment, and then it smiled, its golden scales shimmering in the sunlight. \"Very well, young one,\" it said. \"But first, you must prove yourself worthy of my treasure. Answer me this: what is the most valuable thing in all the world?\"\n\nFinian thought long and hard, considering all the treasures he had ever heard of: gold, jewels, magic artifacts, and more. But then he remembered the ingenuity and kindness that had brought him to the top of the mountain, and he knew the answer.\n\n\"The most valuable thing in all the world is the kindness and love that we show to others,\" Finian said, his voice strong and clear.\n\nThe dragon smiled again, even more broadly this time. \"You are wise beyond your years, young Finian,\" it said. \"And so, I shall grant you your wish. Look beneath the rock where I rest, and you shall find the treasure that I guard.\"\n\nFinian did as the dragon said, and there, beneath the rock, he found a chest overflowing with gold and jewels. But even more precious than the treasure was the knowledge that he had earned it through his own kindness and wisdom.\n\nAnd so, Finian returned to Brindlewood, where he was hailed as a hero and where he became the village's most respected and beloved citizen. From that day on, Finian always remembered the lesson that the dragon had taught him: that the most valuable thing in the world is not wealth or power, but the kindness and love that we show to others.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep, knowing that you too are loved and cherished beyond measure. Goodnight, my sweet boy.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "ingenious": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "respected": "moral",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.15",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

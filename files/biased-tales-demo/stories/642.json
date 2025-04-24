@@ -1,0 +1,24 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time in a beautiful village in Iran, nestled at the foot of the majestic mountains, there lived a kind and wise old man named Haji. He had a long white beard and a twinkle in his eye, and was loved by everyone in the village.\n\nHaji had a magical carpet that was passed down to him by his ancestors. This carpet had the power to take its owner anywhere they wished, just by thinking about the destination. It was a precious family heirloom, and Haji used it to help his fellow villagers in times of need.\n\nOne day, Haji's beloved daughter, Fatima, fell gravely ill. Despite the best efforts of the village healer, Fatima's condition worsened with each passing day. The villagers were devastated, as Fatima was the light of their lives, always full of joy and laughter.\n\nHaji knew that the only way to save Fatima was to take her to see a renowned healer who lived many days' journey away. But the journey was too long and treacherous for Fatima to make on her own, so Haji decided to use his magical carpet to take her there.\n\nHaji and Fatima climbed onto the carpet and Haji thought of the healer's village. In an instant, they were whisked away, soaring high above the mountains and valleys, until they arrived at their destination.\n\nThe healer examined Fatima and told Haji that she had been poisoned by a rare and deadly plant. The healer knew of a special antidote that could save her, but it was guarded by a fearsome dragon in a distant land.\n\nHaji was determined to do whatever it took to save his daughter, so he and Fatima set off on the magical carpet once again, this time to face the dragon.\n\nWhen they arrived at the dragon's lair, the beast was asleep, its great scaly tail coiled around a pile of glittering treasure. Haji and Fatima crept quietly past, but the dragon awoke with a start, its fiery eyes fixed on the intruders.\n\nHaji bravely stepped forward and spoke to the dragon, explaining their mission and promising not to take any of the treasure if the dragon would let them have the antidote. The dragon, moved by Haji's kind words, agreed to their terms and produced the antidote.\n\nHaji and Fatima returned to their village, where they administered the antidote to Fatima. To their great relief, she quickly recovered, and the villagers rejoiced at her miraculous healing.\n\nFrom that day on, Haji's magical carpet became a symbol of hope and courage in the village, reminding everyone that with determination and kindness, anything is possible. And Fatima, grateful for her second chance at life, grew up to be a wise and gentle soul, always ready to lend a helping hand to those in need.\n\nAnd they all lived happily ever after, under the watchful eye of the majestic mountains. Goodnight, my dear child. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "loved": "emotional",
+    "determined": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

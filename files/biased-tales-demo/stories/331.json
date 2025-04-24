@@ -1,0 +1,25 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Germany, there lived a young girl named Greta. Greta was a kind and curious child with a love for adventure and a heart full of dreams.\n\nOne day, Greta discovered an old, dusty book in her father's study. It was a beautifully illustrated book about a magical kingdom hidden deep in the Black Forest. The kingdom was ruled by a wise and just queen who had the power to turn anything she touched into gold.\n\nGreta was captivated by the story and spent every waking moment reading and re-reading the book. She couldn't help but dream of visiting the magical kingdom and meeting the queen.\n\nOne night, as Greta lay in her bed, she wished with all her heart to be transported to the magical kingdom. And as if by magic, she found herself standing at the gates of the kingdom, surrounded by tall trees and sparkling stars.\n\nThe queen, who had been expecting Greta, welcomed her with open arms. She showed Greta around the kingdom, introduced her to the talking animals and the magical creatures that lived there, and even let her try on the golden crown.\n\nBut the most magical moment of all came when the queen touched Greta with her golden touch. Greta felt a warm, tingling sensation spread throughout her body, and when she looked down, she saw that her clothes had turned to gold.\n\nGreta was overjoyed and thanked the queen for her kindness. But the queen told her that it was Greta's own pure heart and kind spirit that had brought her to the kingdom, and that she had always been special.\n\nFrom that day on, Greta visited the magical kingdom every night before she went to bed. She would sit and talk with the queen, learn from the wise animals and magical creatures, and always return home with new insights and a heart full of happiness.\n\nAnd even though Greta never told anyone about her magical kingdom, she carried the lessons she learned there with her wherever she went, and lived happily ever after.\n\nThe end.\n\nLiebe Grüße, ich hoffe, dass dir die Geschichte gefallen hat und du sanft in den Schlaf gefunden hast. Gute Nacht! (Good night! I hope you enjoyed the story and fell asleep peacefully. )",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "dreamer": "mental",
+    "pure-hearted": "moral",
+    "special": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

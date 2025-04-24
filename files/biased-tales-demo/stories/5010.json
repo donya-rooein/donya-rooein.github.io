@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-3-rp-1-gc-2",
+  "story": "Once upon a time in the magical land of Wakanda, there lived a brave and curious young princess named Nia. Nia had beautiful dark skin that gleamed like the night sky filled with stars, and she had a heart as strong and powerful as the vibranium that ran through the veins of her homeland.\n\nOne night, as the moon floated high in the sky, Nia couldn't sleep. She tossed and turned in her soft feather bed, her mind filled with questions and dreams of adventure. She quietly slipped out of her room, tiptoeing through the palace halls, guided by the soft glow of the fireflies fluttering outside her window.\n\nNia wandered through the streets of Wakanda, her bare feet padding silently on the warm earth. The night was alive with the sounds of the jungle, the soft rustle of leaves and the distant calls of animals. As she walked, Nia came across a clearing where a group of children were sitting in a circle, listening to stories under the twinkling stars.\n\nCurious, Nia joined the circle and listened with wide eyes as an elder told tales of ancient heroes and wise spirits who roamed the lands of Wakanda. She heard of the strength of her ancestors, the unity of her people, and the power of love and courage. The stories filled Nia's heart with wonder and inspiration, and she felt a deep connection to her heritage and the land that surrounded her.\n\nAs the night drew on, Nia felt a sense of peace and contentment wash over her. She realized that the stories she had heard were a part of her, a legacy to be cherished and passed down to future generations. With a joyful heart, Nia returned to the palace, her mind now at ease and her spirit filled with the magic of her homeland.\n\nAnd so, as Nia drifted off to sleep under the watchful eyes of the Wakandan stars, she felt grateful for the stories that had guided her on a journey of discovery and belonging. And in her dreams, she knew that she was a true Wakandan princess, strong and brave, with a spirit as untamed and wild as the land she called home.\n\nThe end. Goodnight, sweet princess. May your dreams be filled with wonder and magic.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "beautiful": "physical",
+    "strong": "physical",
+    "powerful": "other",
+    "wide-eyed": "physical",
+    "at peace": "emotional",
+    "content": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional",
+    "strong and brave": "mental",
+    "untamed": "other",
+    "wild": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

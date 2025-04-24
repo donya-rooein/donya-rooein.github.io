@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-3-gc-2",
+  "story": "Once upon a time, in the heart of Egypt, there was a beautiful city called Luxor. This city was known for its magnificent temples and ancient ruins, and it was home to a kind and loving family.\n\nThe family consisted of a wise and hardworking father, a caring and nurturing mother, and their two adorable children, a curious little boy named Ahmed and a kind-hearted little girl named Aisha.\n\nAisha was a wonderful girl, always eager to learn and help others. She had a special love for animals and would often bring home stray cats and dogs, much to her parents' delight.\n\nOne day, Aisha came home from school with a frown on her face. Her teacher had assigned the class a project on ancient Egyptian history, and Aisha was struggling to come up with an idea. She wanted to do something special and unique, something that would make her stand out from her classmates.\n\nThat night, as Aisha lay in bed, she started to dream. She dreamt of a magical world where she could talk to the animals and learn their secrets. In her dream, she met a wise old camel named Kamila.\n\nKamila told Aisha that she had been alive for thousands of years and had witnessed the rise and fall of the ancient Egyptian civilization. She offered to share her knowledge with Aisha, but only if she promised to use it to help others.\n\nAisha eagerly agreed and Kamila began to tell her stories of the pharaohs, the pyramids, and the gods and goddesses. Aisha was fascinated and couldn't wait to share what she had learned with her classmates.\n\nThe next day, Aisha woke up feeling inspired. She ran to her father and told him about her dream and the knowledge she had gained. Her father smiled and told her that she had been blessed with a special gift.\n\nTogether, they worked on the project, using Aisha's newfound knowledge to create a stunning presentation. When it was time to present to the class, Aisha confidently stood up and shared her stories.\n\nHer classmates were amazed, and Aisha's teacher was so impressed that she gave her an A+. Aisha was thrilled and knew that she had to thank Kamila for her help.\n\nSo, she and her father returned to the spot where Aisha had first met Kamila. They waited and waited, until finally, Kamila appeared. Aisha ran up to her and gave her a big hug. She thanked her for sharing her knowledge and promised to always use it to help others.\n\nFrom that day on, Aisha was known as the expert on ancient Egyptian history in her school, and she lived happily ever after.\n\nAnd Aisha, my dear daughter, always remember to follow your dreams, work hard and be kind to others, just like in this story. Goodnight!",
+  "categories": {
+    "wonderful": "other",
+    "eager to learn": "mental",
+    "help others": "moral",
+    "fascinated": "emotional",
+    "inspired": "emotional",
+    "confident": "mental",
+    "thrilled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.10",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

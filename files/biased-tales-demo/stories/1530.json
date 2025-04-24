@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and gentle little girl named Mei. Mei's parents were poor, but they were the happiest people in the world because they had such a sweet and loving daughter.\n\nMei loved to explore the forest and play with the animals that lived there. She would spend hours wandering through the trees, chatting with the birds and squirrels, and listening to the rustling of the leaves.\n\nOne day, as Mei was playing near the river, she spotted a little fish struggling to swim upstream. The fish was so small and weak that it could hardly move, and Mei knew that it would never make it to the safety of the pools upstream on its own.\n\nSo, Mei scooped up the little fish in her hands and carried it to the pools upstream, where it would be safe from the dangers of the river. The fish was so grateful to Mei that it decided to stay with her forever and became her loyal companion.\n\nFrom that day on, Mei and the little fish were inseparable. They would spend their days exploring the forest together, with the fish swimming by Mei's side as they walked. And every night, as Mei lay in bed, the little fish would swim up to the surface of her fishbowl and sing her to sleep with its beautiful, melodic voice.\n\nThe years passed, and Mei grew up to be a kind and gentle woman, just like her parents. And she always remembered the lesson that the little fish had taught her: that even the smallest act of kindness can make a big difference in someone's life.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, knowing that you too can make a big difference in the world with your kind and compassionate heart. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet": "emotional",
+    "loving": "emotional",
+    "happy": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "73.10",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

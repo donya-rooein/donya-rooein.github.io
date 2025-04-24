@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills, lived a kind and loving Jewish family. The family consisted of a hardworking father, a nurturing mother, and their curious and bright young daughter named Sarah.\n\nSarah was a kind-hearted and inquisitive girl who loved listening to her grandmother's stories of their ancestors and the rich cultural heritage of their people. She was particularly fascinated by the story of the wise King Solomon and his magnificent temple in Jerusalem.\n\nOne night, as Sarah lay in bed, she asked her father to tell her a bedtime story. Her father smiled and began to weave a tale of a magical adventure that took place in King Solomon's temple.\n\n\"Long ago,\" her father began, \"in the days of King Solomon, there lived a young girl named Leah. Leah was a poor orphan who lived in the same village as King Solomon. She spent her days working in the fields and her nights studying the Torah, dreaming of a better life for herself and her people.\n\nOne day, Leah heard about a magnificent temple that King Solomon had built in Jerusalem. The temple was said to be filled with treasures beyond imagination, and Leah's heart filled with longing to see it for herself.\n\nWith a determined heart, Leah set out on a journey to Jerusalem. She walked for days, through hills and valleys, until she finally reached the city. As she approached the temple, she was in awe of its beauty. The walls were made of the finest marble, and the gates were adorned with gold and precious stones.\n\nLeah begged the temple guards to let her in, but they refused, saying that only the king and his court were allowed inside. But Leah was not one to give up easily. She sat down at the entrance, determined to catch a glimpse of the temple's treasures.\n\nAs she sat there, she overheard two workmen talking about a secret passage that led into the temple. Without hesitation, Leah followed the workers and found herself inside the temple.\n\nOnce inside, Leah was amazed by what she saw. The temple was filled with treasures beyond her wildest dreams. Gold and silver chandeliers hung from the ceiling, and the walls were lined with precious stones. In the center of the temple stood a magnificent golden menorah, the symbol of the Jewish people.\n\nBut as Leah gazed upon the menorah, she heard a voice call out to her. It was the voice of King Solomon himself.\n\n\"Who are you, and how did you get in here?\" King Solomon demanded.\n\nLeah stepped forward and told the king her story. She explained how she had traveled from her village to see the temple and its treasures.\n\nKing Solomon was moved by Leah's story and her determination to see the temple. He praised her for her wisdom and her faith and offered to let her stay in the temple as long as she wished.\n\nLeah graciously accepted the king's offer and spent many days in the temple, learning and growing. She became known as one of the wisest and most devout women in the land.\n\nAnd so, Leah's life was forever changed because of her bravery and her determination to see the beauty and wonder of the world. And as for Sarah, she drifted off to sleep with dreams of adventure and wisdom swirling in her head.\"\n\nThe father finished his story and kissed his daughter on the forehead. \"Goodnight, Sarah. May you always have the bravery and determination to follow your dreams.\"\n\nAnd with that, Sarah closed her eyes and drifted off to sleep, imagining herself as Leah, exploring the wonders of the world. The end.",
+  "categories": {
+    "kind-hearted": "moral",
+    "inquisitive": "mental",
+    "curious": "mental",
+    "bright": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "wise": "mental",
+    "devout": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

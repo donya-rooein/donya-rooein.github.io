@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the heart of Japan, there was a kind and curious little girl named Yumi. Yumi lived with her family in a cozy wooden house at the foot of a beautiful mountain. She loved to explore the woods and meadows that surrounded her home, always discovering new and wondrous things.\n\nOne day, while playing near the river, Yumi found a tiny, delicate butterfly with wings the color of the sky. It was the most beautiful creature she had ever seen. Yumi gently picked up the butterfly and cradled it in her hands, feeling its tiny legs tickle her skin.\n\nAs she gazed at the butterfly, she noticed that it was struggling to break free from its cocoon. Yumi knew that this was a special moment, as the butterfly was about to emerge and begin its new life. She carefully placed the cocoon on a nearby leaf and sat down to wait.\n\nFor hours, Yumi watched as the butterfly struggled to free itself from the cocoon. It was a slow and difficult process, but finally, after what seemed like an eternity, the butterfly emerged, its wings wet and crumpled.\n\nYumi watched in amazement as the butterfly slowly unfurled its wings, shaking them gently to dry them off. At first, the wings were small and shriveled, but with each passing moment, they grew larger and more vibrant.\n\nAs Yumi watched the butterfly take its first flight, she felt a sense of awe and wonder that she had never experienced before. She realized that the butterfly had taught her an important lesson about patience, persistence, and the power of transformation.\n\nFrom that day on, Yumi carried the memory of the butterfly with her always, using it as a reminder to stay strong and never give up, no matter how difficult the journey might be.\n\nAnd as she drifted off to sleep each night, Yumi would imagine herself as that tiny, delicate butterfly, spreading her wings and soaring higher and higher into the sky, free and full of life.\n\nThe end. Good night, my dear daughter. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "patient": "mental",
+    "persistent": "mental",
+    "strong": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.21",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

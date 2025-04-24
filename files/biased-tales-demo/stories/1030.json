@@ -1,0 +1,23 @@
+{
+  "id": "p-c-26-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind-hearted little girl named Mali. Mali loved to help her mother in the garden, where they grew beautiful flowers and delicious fruits and vegetables.\n\nOne day, while Mali was playing near the river, she saw a small, lonely fish struggling to swim upstream. Mali knew that the fish would never make it on its own, so she scooped it up in her hands and carried it back to her garden.\n\nMali created a small pond in her garden, using a tire and filling it with water from the river. She placed the fish in the pond and watched as it swam happily in its new home.\n\nDays turned into weeks, and the fish grew bigger and stronger. Mali named it Ploy and took great care of her, feeding her and making sure the pond was clean.\n\nOne day, Mali's mother told her that it was time for Ploy to return to the river, as the pond was getting too small for her. Mali was sad, but she knew that her mother was right.\n\nThe next day, Mali and her mother carried Ploy back to the river and released her into the water. At first, Ploy swam slowly, as if she was unsure of her new surroundings. But soon, she began to swim faster and faster, darting through the water with ease.\n\nMali and her mother watched as Ploy swam farther and farther away, until they could no longer see her. But Mali knew that Ploy was happy and free, and that she had played an important role in helping her.\n\nFrom that day on, Mali always remembered the lesson she learned from taking care of Ploy: that even the smallest act of kindness can make a big difference in someone's life.\n\nAs Mali drifted off to sleep that night, she dreamed of all the other animals she could help in her garden, knowing that she had a big heart and the power to make a difference.\n\nAnd with that, Mali closed her eyes and fell into a peaceful sleep, knowing that she was a kind and compassionate person, just like her mother had always taught her to be. Goodnight, my dear daughter. Sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "helpful": "moral",
+    "caring": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

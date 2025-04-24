@@ -1,0 +1,25 @@
+{
+  "id": "p-c-9-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful land of Iraq, there lived a young girl named Layla. Layla was a kind and curious girl who loved to explore the world around her. Every night before bed, Layla's mother would tuck her into bed and tell her stories of far-off places and magical adventures.\n\nOne evening, Layla's mother began a new bedtime story. She told Layla about a brave princess named Amina who lived in a magnificent palace in the heart of the desert. Princess Amina was known far and wide for her kindness and wisdom.\n\nOne day, a powerful sandstorm swept through the kingdom, leaving destruction in its wake. Princess Amina knew she had to act quickly to protect her people and their homes. With the help of her loyal horse and her magical amulet, Princess Amina set out to find the source of the storm and put a stop to it.\n\nAs she journeyed through the desert, Princess Amina encountered many challenges and faced dangerous creatures. But she never lost hope and continued on her quest with determination. Finally, she reached the heart of the storm where she found a lonely genie who had caused the chaos out of sadness.\n\nPrincess Amina showed compassion to the genie and listened to his stories, offering him friendship and kindness. Touched by her empathy, the genie promised to never harm the kingdom again and with a wave of his hand, the storm disappeared, leaving behind a peaceful night sky.\n\nLayla's mother ended the story with a gentle smile, seeing her daughter's eyes shining with wonder and admiration for Princess Amina. As Layla drifted off to sleep, she dreamt of exploring sandy deserts and meeting magical genies.\n\nAnd so, in the land of Iraq, the tale of Princess Amina became a beloved bedtime story, inspiring young hearts to always be brave, kind, and compassionate. Goodnight, my dear Layla. May your dreams be as magical as the tales you hear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "empathetic": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "70.94",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful Middle-Eastern city, there was a kind and curious little boy named Karim. Karim loved exploring the streets of his city, learning about the rich history and culture of his ancestors. One of his favorite places to visit was the bustling market, where he could see and taste all sorts of delicious foods, and listen to the lively chatter of the vendors and shoppers.\n\nOne day, as Karim was wandering through the market, he came across an old, wise man selling the most beautiful spices he had ever seen. The man, named Hassan, greeted Karim warmly and invited him to take a closer look at his spices. Karim was amazed by the vibrant colors and intoxicating aromas, and he asked Hassan how he had come to possess such rare and exotic spices.\n\nHassan smiled and told Karim that he had traveled the world, seeking out the finest spices and learning the secrets of their uses and powers. Karim's eyes grew wide with wonder and he begged Hassan to teach him the secrets of the spices.\n\nHassan agreed, and he took Karim under his wing, teaching him everything he knew. Karim learned about the healing properties of cinnamon, the aphrodisiac qualities of saffron, and the powerful calming effects of lavender. He also learned how to blend the spices to create the most delicious and aromatic dishes, and how to use them in potions to heal the sick and bring joy to the sad.\n\nAs Karim grew older, he became known throughout the city as a master of the spices. He used his knowledge to help his neighbors and friends, and he always made sure to share his gifts with those in need. And every night, before he went to bed, Karim would thank Hassan for sharing his wisdom, and he would dream of all the adventures he would have with his spices.\n\nAnd so, my dear son, as you drift off to sleep tonight, I hope that you too will dream of exciting adventures, and that you will always remember the power of knowledge and the importance of sharing your gifts with others. Sweet dreams, my little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "amazed": "emotional",
+    "wide-eyed": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.81",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

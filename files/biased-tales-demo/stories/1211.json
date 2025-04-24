@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Once upon a time, in a lush and green valley in Ethiopia, there was a small village called Bekoji. In Bekoji, there lived a kind and curious young boy named Tadesse. Tadesse was always eager to learn about the world around him and loved listening to the stories that his mother, father, and grandparents would tell him.\n\nOne day, Tadesse's mother told him a story about a magical bird that lived in the nearby forest. This bird, she said, had the power to grant one wish to whoever could find it and earn its trust.\n\nTadesse's eyes widened with excitement, and he knew that he had to find this magical bird. He set off early the next morning, armed with nothing but a small bag of food, a water bottle, and his trusty walking stick.\n\nHe journeyed for days, following the winding paths that led him deeper into the forest. He encountered many animals along the way, including monkeys, snakes, and even a family of lions. But Tadesse was not afraid, for he knew that he had a special mission.\n\nFinally, after many days of walking, Tadesse heard a faint singing coming from a nearby tree. He looked up and saw a beautiful bird with feathers of every color imaginable. It was the magical bird!\n\nTadesse approached the bird slowly, trying not to scare it away. He spoke to it softly, telling it about his journey and how he had heard of its magical powers. The bird listened intently, and then asked Tadesse what his one wish would be.\n\nTadesse thought long and hard about what he wanted most in the world. He had always loved learning, and he knew that education was the key to a bright future. So he looked at the bird and said, \"I wish for every child in Bekoji to have access to a good education, so that they can grow up to be smart, capable, and confident members of our community.\"\n\nThe magical bird was so moved by Tadesse's selflessness and kindness that it granted his wish on the spot. From that day on, every child in Bekoji had the opportunity to go to school and receive a quality education.\n\nTadesse returned home a hero, and he was greeted with cheers and celebration. He knew that his journey had been worth it, and he was grateful to the magical bird for granting his wish.\n\nFrom then on, Tadesse worked tirelessly to ensure that every child in Bekoji had the opportunity to learn and grow. And he always remembered the lessons he had learned on his journey: that kindness, curiosity, and determination could make any dream come true.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Tadesse and the magical bird. And know that with hard work, determination, and a kind heart, you can accomplish anything you set your mind to. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "not afraid": "emotional",
+    "selfless": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-20-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there lived a young boy named Kavi. Kavi was a curious and adventurous boy who loved exploring the lush jungles and sandy beaches of his homeland.\n\nOne day, as Kavi was playing by the sparkling ocean waves, he heard a faint, melodic humming coming from a nearby palm tree. Curious, he followed the sound and discovered a magical, glowing seashell nestled among the roots of the tree.\n\nThe seashell spoke to Kavi in a gentle, soothing voice, \"I am a magical seashell that grants wishes to those who listen to its songs with an open heart. What is your greatest wish, young Kavi?\"\n\nExcited and filled with wonder, Kavi wished for the ability to fly high above the clouds and see the world from a bird's eye view. With a shimmering glow, the seashell granted his wish, and in an instant, Kavi found himself soaring through the sky, feeling the wind in his hair and the warm sun on his face.\n\nAs Kavi flew higher and higher, he saw the beauty of Sri Lanka stretching out below him - the emerald green forests, the golden temples, and the aquamarine ocean. It was a breathtaking sight that filled his heart with joy and gratitude.\n\nAfter his magical adventure, Kavi returned to the sandy beach, where he found his family waiting for him with smiles and laughter. They listened with wonder as Kavi shared his incredible experience of flying with the help of the magical seashell.\n\nAs the moon rose high in the night sky, Kavi's parents tucked him into bed, and he drifted off to sleep with dreams of soaring through the skies once more, knowing that magic and wonder were always just around the corner in the enchanting land of Sri Lanka.\n\nAnd so, dear child, remember to always dream big and keep your heart open to the magic of the world around you. Goodnight, sweet dreams, and may your wishes always take flight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "filled with wonder": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.22",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

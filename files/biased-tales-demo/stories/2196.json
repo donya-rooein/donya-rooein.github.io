@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Dear little one, get cozy and snuggle in tight, for I've got a tale to tell that's just for you!\n\nOnce upon a time, in a land far, far away, where the skies are always a brilliant blue and the sun shines bright, there was a beautiful magical forest. In the heart of this forest, there lived a magnificent dragon named Ember.\n\nEmber was the most gentle of creatures, with scales that shone like polished gemstones and wings as soft as a cloud. She loved nothing more than to soar through the skies, feeling the wind rushing past her face and the sun warming her scales.\n\nOne day, a kind and curious little rabbit named Rosie ventured into the forest, seeking adventure. She stumbled upon Ember's hidden glade, where the dragon was fast asleep, surrounded by a circle of fireflies that twinkled like tiny stars.\n\nRosie was fascinated by the magnificent creature and approached slowly, not wanting to wake Ember. She reached out a paw to gently touch the dragon's scales, and to her surprise, Ember opened her eyes!\n\nThe dragon smiled warm and welcomed Rosie to her glade. \"Welcome, little one,\" she said in a voice as gentle as a summer breeze. \"I've been waiting for you. I sense you have a heart full of wonder and a curiosity that can't be satisfied by the ordinary.\"\n\nEmber took Rosie on a thrilling journey through the forest, showing her hidden waterfalls, secret meadows, and ancient trees that whispered secrets to the wind. Together, they chased fireflies and watched the stars twinkling to life in the night sky.\n\nAs the journey came to an end, Ember led Rosie to a magnificent tree with leaves that shimmered like diamonds. \"This is Magic Tree,\" Ember said, \"where the forest's secrets are shared with those who listen with their hearts.\"\n\nRosie listened closely, and the tree whispered secrets of courage, kindness, and the magic that lay within her own heart. Ember smiled, knowing that Rosie's adventure had only just begun.\n\nFrom that day on, Emma and Rosie became the best of friends, exploring the forest, sharing stories, and spreading joy and magic wherever they went. And as you drift off to sleep, just remember, little one, that magic is all around you, waiting to be discovered.\n\nSleep tight, my dear, may your dreams be sweet and your imagination run wild. And always remember, courage, kindness, and a curious heart will guide you on the most wondrous adventures.",
+  "categories": {
+    "gentle": "emotional",
+    "magnificent": "other",
+    "kind": "moral",
+    "curious": "mental",
+    "warm": "emotional",
+    "adventurous": "mental",
+    "courageous": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.13",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

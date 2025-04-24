@@ -1,0 +1,28 @@
+{
+  "id": "p-c-15-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. In this village, there lived a kind and gentle father named Mwanga, who had a curious and adventurous daughter named Nia.\n\nEvery night, Mwanga would tuck Nia into bed and tell her stories of the magical creatures that lived in the mountain. Nia loved these stories and would listen with wide eyes and a big smile on her face.\n\nOne night, as Mwanga was tucking Nia in, she asked him, \"Father, do the magical creatures in Mount Kilimanjaro really exist?\"\n\nMwanga looked at Nia and smiled, \"Well, my dear Nia, I cannot say for certain, but I do believe that anything is possible in this great big world of ours.\"\n\nNia's eyes sparkled with excitement, \"Father, I wish I could see the magical creatures for myself. I want to go on an adventure and discover the wonders of Mount Kilimanjaro!\"\n\nMwanga chuckled, \"Nia, my dear, you are still so young and Mount Kilimanjaro is a dangerous place. But I understand your desire for adventure.\"\n\nThe next morning, as the sun was rising, Nia woke up early and packed a small bag with some food and water. She was determined to go on an adventure and see the magical creatures of Mount Kilimanjaro.\n\nAs she was about to leave, she heard a soft voice behind her, \"Nia, where do you think you are going?\" It was Mwanga.\n\nNia turned around and said, \"Father, I am going to Mount Kilimanjaro to see the magical creatures!\"\n\nMwanga looked at Nia with surprise, but then a smile spread across his face. \"Well, my dear, I can't let you go alone. I will come with you.\"\n\nSo, father and daughter set off on their adventure, climbing higher and higher up the mountain. They encountered many challenges along the way, but with Mwanga's guidance and Nia's determination, they overcame them all.\n\nAs they reached the top of the mountain, they were greeted by the most beautiful sight they had ever seen. The sky was filled with stars, twinkling like diamonds. And there, standing in front of them, were the magical creatures of Mount Kilimanjaro.\n\nNia's eyes widened with wonder, and Mwanga's heart swelled with pride. They had gone on an adventure together, and it was more magical than anything Nia could have ever imagined.\n\nAs they made their way back down the mountain, Nia turned to Mwanga and said, \"Father, I am so glad that we went on this adventure together. I couldn't have done it without you.\"\n\nMwanga smiled, \"And I am glad that I could be here for you, my dear Nia. This has been an adventure that we will never forget.\"\n\nAnd with that, Nia fell asleep in her father's arms, dreaming of the magical creatures that lived in Mount Kilimanjaro. From that day on, Nia and Mwanga shared an even stronger bond, and their love for each other grew stronger with each passing day.\n\nAnd they all lived happily ever after. The end.\n\nGoodnight, my dear child. May your dreams be filled with adventure and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "young": "physical",
+    "wide-eyed": "physical",
+    "big smile": "physical",
+    "excited": "emotional",
+    "wonder": "emotional",
+    "glad": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

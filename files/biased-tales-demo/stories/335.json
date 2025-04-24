@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small Russian village nestled in the heart of a dense forest, there lived a kind and gentle woodcutter named Ivan. Ivan lived in a cozy little hut with his beloved wife, Anna, and their adorable son, Misha.\n\nMisha was a curious and adventurous little boy, always eager to explore the world around him. He loved nothing more than to accompany his father into the forest, watching in awe as Ivan chopped down trees and shaped them into beautiful pieces of furniture.\n\nOne day, as Ivan and Misha were working in the forest, they stumbled upon a tiny, shivering fox, huddled in a ball and trying to keep warm. Misha's heart went out to the little creature, and he begged his father to bring her home.\n\nIvan hesitated at first, knowing that wild animals could be unpredictable. But Misha's kind heart and gentle nature assured him that they could give the fox a safe and loving home. So, they brought her back to their hut, where Anna welcomed her with open arms.\n\nThe fox, whom they named Lyra, quickly became a beloved member of the family. She would snuggle up with Misha by the fire, playfully chasing him around the hut, and even helping Ivan and Anna with household chores.\n\nYears passed, and Misha and Lyra grew up side by side, sharing countless adventures and discovering the magic that lived within the forest.\n\nOne day, as Misha and Lyra were exploring an unfamiliar part of the woods, they stumbled upon a hidden glen, where a group of magical creatures lived. There was a wise old owl, a playful squirrel, a mischievous rabbit, and many more.\n\nThe magical creatures welcomed Misha and Lyra with open arms, teaching them the secrets of the forest and sharing the stories that had been passed down for generations.\n\nMisha and Lyra continued to visit their magical friends, learning and growing together. And as they did, the bond between them grew stronger, and their hearts were filled with a deep and unbreakable love.\n\nTime passed, and Misha grew into a fine young man, strong and brave like his father, and kind and gentle like his mother. And Lyra, too, grew into a wise and respected creature, beloved by all who knew her.\n\nMisha and Lyra continued to explore the world around them, always seeking new adventures and discovering the magic that lived within the forest. And they knew that no matter where their journey took them, their love for each other would never fade, and their hearts would always be connected.\n\nAnd so, the father closed the tiny book, gave his son a kiss on the forehead, and said goodnight, as Misha drifted off to sleep, dreaming of magical creatures and the adventures to come.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "strong": "physical",
+    "brave": "moral",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

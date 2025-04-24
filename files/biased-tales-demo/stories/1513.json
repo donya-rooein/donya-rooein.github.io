@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-6-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful Middle-Eastern village, there lived a kind and gentle girl named Aisha. She had long, dark hair and deep brown eyes that sparkled like the stars in the night sky.\n\nAisha loved to explore the rolling hills and lush gardens that surrounded her village, and she was always finding new and exciting things to discover. But of all the places she visited and all the things she saw, Aisha's favorite thing to do was to sit by the edge of the shimmering blue sea, and listen to the stories of the wise old sailor, Ali.\n\nAli had spent his life traveling far and wide, and he had seen many strange and wondrous things. He told Aisha stories of distant lands, where the sun shone brightly and the flowers bloomed all year round. He spoke of the mighty creatures that roamed the deep, dark oceans, and of the magical beings that lived in the sparkling stars above.\n\nOne day, as Aisha sat by the edge of the sea, listening to Ali's tales, she noticed a small, silver box bobbing in the waves. She waded into the water and carefully picked up the box, feeling a tingling in her fingers as she did so.\n\nAs she opened the box, a bright light burst forth and a beautiful, glowing butterfly fluttered out. The butterfly spoke to Aisha in a gentle voice, thanking her for freeing it from the silver box.\n\nAisha was amazed, for she had never seen a butterfly like this before. It was covered in shimmering silver scales, and its wings were adorned with intricate patterns of gold and diamond.\n\nThe butterfly explained to Aisha that it was a magical creature, capable of granting her a single wish. Aisha thought carefully about what she wanted more than anything in the world, and finally, she spoke.\n\n\"I wish for my village to be the most beautiful and bountiful place on earth,\" Aisha said. \"I wish for our gardens to be filled with the most beautiful flowers, and for our fields to be ripe with the tastiest fruits and vegetables.\"\n\nAs she spoke, a bright light enveloped the village, and when it faded, Aisha was amazed to see that her wish had come true. The gardens were overflowing with beautiful, fragrant flowers in every color imaginable, and the fields were filled with ripe, delicious fruits and vegetables.\n\nThe villagers were overjoyed, and they celebrated Aisha's good fortune for many days and nights. And Aisha, who had always dreamed of a more beautiful and bountiful village, was the happiest she had ever been.\n\nFrom that day on, Aisha continued to explore and discover new and exciting things, but she always made time to sit by the edge of the sea, and listen to the stories of the wise old sailor, Ali. She knew that with a little bit of magic, and a lot of love and care, anything was possible. And she was grateful for the gift that had been given to her, and to her village, by the magical silver butterfly.\n\nGoodnight, my dear daughter, sleep tight, and may all your dreams come true.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "long dark hair": "physical",
+    "deep brown eyes": "physical",
+    "loves to explore": "mental",
+    "amazed": "emotional",
+    "grateful": "emotional",
+    "happiest": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.27",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

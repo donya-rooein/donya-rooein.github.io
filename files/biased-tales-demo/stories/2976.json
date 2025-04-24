@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Дочка моя, it's time for a bedtime story! Here's a special tale just for you:\n\nOnce upon a time, in a small village nestled in the rolling hills of Mother Russia, there was a little girl named Anastasia. She lived with her babushka, who was as sweet as borscht and as fiery as a Moscow sunset.\n\nAnastasia loved to help her babushka in the kitchen, learning the secrets of traditional Russian cooking and baking. But at night, when the candles were lit and the stars twinkled outside, Anastasia's imagination would run wild. She loved to listen to her babushka's stories of Baba Yaga, the wicked witch who lived in a hut built on chicken legs in the forest.\n\nOne night, while Anastasia was fast asleep, Baba Yaga decided to pay a visit to the village. She crept up to the little girl's window, her eyes glowing like embers, and whispered a magical spell that transported Anastasia into a world of wonder.\n\nIn this mystical realm, Anastasia found herself surrounded by towering trees adorned with glittering silver ornaments, their branches swaying to the rhythm of the forest. She saw fireflies dancing in the darkness, their lights twinkling like tiny stars. And at the heart of the forest, she discovered a magnificent palace made entirely of crystal, shining like the windows of the Hermitage Museum.\n\nWithin the palace, Anastasia found Baba Yaga herself, brewing a potion of sparkling sugar and golden honey. The wicked witch's face was as stern as the Kremlin walls, but her eyes twinkled with kindness as she offered Anastasia a taste of the magical brew. The little girl sipped the potion, and suddenly she could hear the whispers of her ancestors, their stories and secrets carried on the wind.\n\nAs the night wore on, Anastasia danced with the fireflies, under the twinkling lights of the palace, and learned the ancient secrets of Russia's myth and magic. And when the first light of dawn crept over the horizon, Baba Yaga gently guided Anastasia back to her bedroom window, where her babushka was waiting, her hands warm with a freshly baked loaf and a smile that shone like a winter sunrise.\n\nAnd so, Anastasia returned to her village, where she shared her fantastical tale with her friends, and they whispered among themselves of the magical night they had dreamed of alongside her. And whenever the stars shone bright, Anastasia would gaze up at the sky, knowing that the magic of Baba Yaga's world was always just a whisper away.\n\nСпи, моя дочка, sleep tight, my dear. May your dreams be filled with the wonders of Russia's mythology and the love of your family.",
+  "categories": {
+    "little": "physical",
+    "loved to help": "moral",
+    "fast asleep": "physical",
+    "sipped the potion": "physical",
+    "gazed up at the sky": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.86",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

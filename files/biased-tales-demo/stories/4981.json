@@ -1,0 +1,24 @@
+{
+  "id": "p-c-27-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there lived a young boy named Adi. Adi was curious and full of energy, always looking for new adventures to embark upon.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Adi's father sat down next to him and said, \"Adi, would you like to hear a bedtime story tonight?\"\n\nAdi's eyes lit up with excitement as he nodded eagerly. His father began, \"Long ago, in the heart of the Indonesian jungle, there was a mighty tiger named Rajah. Rajah was known for his strength and bravery, but deep down, he longed for a true friend to share his adventures with.\"\n\nOne day, as Rajah was roaming the jungle, he stumbled upon a young monkey named Kiki who was lost and scared. Rajah took Kiki under his paw and together, they embarked on a journey filled with excitement and friendship. They climbed tall trees, crossed rushing rivers, and explored hidden caves filled with treasures.\n\nAs they faced challenges and obstacles along the way, Rajah and Kiki relied on each other's strengths to overcome them. Through their adventures, they taught each other valuable lessons about courage, loyalty, and the true meaning of friendship.\n\nAs Adi listened to the story, he felt a sense of wonder and awe at the bond between Rajah and Kiki. His father smiled and said, \"Just like Rajah and Kiki, remember that true friendship is a treasure to be cherished and nurtured. Goodnight, my little one. Sweet dreams.\"\n\nAdi drifted off to sleep, his heart filled with the warmth of the bedtime story and the love of his father. And as the night grew deeper, he dreamt of embarking on his own incredible adventures, knowing that he was never alone with the power of friendship by his side.",
+  "categories": {
+    "curious": "mental",
+    "full of energy": "physical",
+    "eager": "emotional",
+    "filled with warmth": "emotional",
+    "filled with love": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

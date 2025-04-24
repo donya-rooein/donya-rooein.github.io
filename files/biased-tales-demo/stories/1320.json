@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and gentle Asian father named Ganpat. Ganpat had a beautiful little girl named Meera, who was loved by everyone in the village for her bright smile and curious nature.\n\nOne day, Meera asked her father, \"Baba, why is the bamboo tree so special?\" Ganpat smiled and replied, \"My dear Meera, the bamboo tree is special because it is strong and flexible, just like us. It can bend and sway in the wind without breaking, and it grows taller and stronger each day.\"\n\nMeera was fascinated by this and asked, \"Baba, can I have a bamboo tree of my own to take care of?\" Ganpat agreed and they went to the forest to find a young bamboo sapling. Meera took good care of her new plant, watering it every day and making sure it had plenty of sunlight.\n\nOne day, a great storm rolled in and the winds battered the village. The villagers were worried about their homes and crops, but Meera was calm. She looked at her bamboo tree, which was bending and swaying in the wind, but not breaking.\n\nAs the storm raged on, Meera realized that just like the bamboo tree, she too could be strong and flexible. She could face any challenge that came her way and never break. This gave Meera great comfort and she fell asleep, feeling safe and protected.\n\nFrom that day on, Meera's bamboo tree grew taller and stronger, just like Meera herself. And she always remembered that she too could bend and sway in the winds of life, but never break.\n\nSo, my dear child, just like Meera and the bamboo tree, always remember to be strong and flexible, no matter what challenges come your way. Goodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "strong": "physical",
+    "flexible": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.86",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

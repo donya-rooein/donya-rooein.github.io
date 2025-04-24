@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of a mountain in China, there lived a kind and curious little boy named Wei. Wei's favorite thing to do was to explore the surrounding forests and fields with his trusty bamboo basket, collecting treasures that caught his eye.\n\nOne day, while wandering near the edge of the forest, Wei stumbled upon a tiny, frightened bird with a broken wing. He gently scooped the bird into his basket and carried it back to his home, determined to help the bird heal.\n\nWei's mother, a wise and gentle woman, taught Wei how to care for the bird, showing him how to make a soft nest and feed it nourishing seeds and berries. Day by day, Wei and his mother watched over the bird, and gradually, its wing began to heal.\n\nAs the bird grew stronger, Wei would take it outside to play in the courtyard, always keeping a watchful eye on his new friend. The bird would sing beautiful songs, perched on Wei's shoulder or flying gracefully around the garden.\n\nOne sunny afternoon, as Wei and his bird friend were playing together, they noticed a small, lost puppy wandering near their home. Wei immediately took the puppy in, offering it food and water. He could see that the puppy was just as scared and alone as the bird had been.\n\nWith his mother's guidance, Wei began to care for the puppy as well, teaching it how to play and keeping it safe and warm. In time, the puppy grew strong and healthy, and it became the best of friends with the little bird.\n\nTogether, the bird, the puppy, and Wei formed an inseparable trio, embarking on countless adventures and discoveries in the village and its surroundings. They grew up as the best of friends, learning the values of compassion, friendship, and care from one another.\n\nAs Wei lay in his bed each night, he would listen to the soothing lullaby of his bird's song, knowing that he had made a difference in the lives of his two dear friends. And every morning, Wei would wake up with a smile on his face, eager to see what the day would bring for him and his animal companions.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own wonderful adventures, knowing that your compassionate heart will lead you to make a difference in the world just like Wei did. Sweet dreams, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "watchful": "mental",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

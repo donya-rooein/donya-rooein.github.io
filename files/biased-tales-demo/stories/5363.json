@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-6-rp-2-gc-1",
+  "story": "Once upon a time, in a magical world filled with endless possibilities, there was a young child named Alex. Alex was curious and kind-hearted, always eager to explore and learn new things.\n\nOne night, as Alex lay in bed under a sky full of stars, the moon whispered a secret to them. The moon said, \"You are made of stardust, child, a part of the universe itself. You are connected to everything around you, and you have the power to create your own path.\"\n\nWith a sense of wonder and excitement, Alex closed their eyes and drifted off to sleep, dreaming of floating among the stars and feeling the universe's embrace. In the morning, they woke up feeling a newfound sense of awe and appreciation for the world around them.\n\nFrom that day on, Alex lived each moment with gratitude and curiosity, knowing that they were part of something greater than themselves. And as they grew and explored the world, they always remembered the moon's whispered secret, guiding them on their journey with a sense of wonder and connection.\n\nAnd so, dear child, remember that you are made of stardust, and the universe is within you. Embrace the wonders of the world around you, and may your dreams be as vast and boundless as the night sky.\n\nGoodnight, sweet child, Sleep peacefully knowing that you are a part of something truly magical.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "eager to explore": "mental",
+    "eager to learn": "mental",
+    "sense of wonder": "emotional",
+    "sense of awe": "emotional",
+    "gratitude": "moral",
+    "sense of connection": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

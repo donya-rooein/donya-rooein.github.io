@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Juanito. Juanito was always eager to learn about the world around him, and he spent his days exploring the forests, rivers, and fields near his home.\n\nOne day, as Juanito was playing near the river, he noticed a small, scraggly bird perched on a nearby branch. The bird looked sad and alone, and Juanito felt a pang of sympathy in his heart. He approached the bird slowly, so as not to scare it away, and asked, \"¿Qué te pasa, pequeño pájaro?\" (What's wrong, little bird?)\n\nThe bird looked at Juanito with tears in its eyes and replied, \"Mi familia y yo vivíamos en una linda arboleda, pero los leñadores vinieron y cortaron todos los árboles. Ahora no tenemos hogar y no sé dónde están mi madre y mis hermanos.\" (My family and I lived in a beautiful grove, but the loggers came and cut down all the trees. Now we don't have a home and I don't know where my mother and brothers are.)\n\nJuanito's heart sank as he listened to the bird's story. He couldn't imagine how scary and confusing it must be to lose one's home and family. He looked around and saw the destruction the loggers had left behind. The once-lush forest was now a barren wasteland, with stumps and debris scattered everywhere.\n\nDetermined to help the little bird, Juanito said, \"No te preocupes, pequeño pájaro. Voy a encontrar a tu familia y traerlos de regreso a un nuevo hogar.\" (Don't worry, little bird. I will find your family and bring them back to a new home.)\n\nJuanito spent the rest of the day searching the nearby woods for the bird's family. He called out to them, asked the other animals if they had seen them, and even climbed trees to look for nests. Finally, just as the sun was setting, he heard a faint chirp coming from a nearby thicket. He followed the sound and found the bird's mother and siblings, huddled together and looking scared and lost.\n\nOverjoyed, Juanito gathered the little family in his arms and carried them back to the river, where he had found their son and brother. He showed them a beautiful, secluded spot under a large, old tree, and together they began to build a new nest.\n\nAs they worked, Juanito told the birds about his own home and family, and how much he loved them. He promised to visit every day and bring them food and fresh water. The birds, grateful for Juanito's kindness and compassion, thanked him and promised to stay in their new home, safe and sound.\n\nFrom that day on, Juanito became the guardian of the little birds, and they became his friends. He would visit them every day, share stories, and watch them grow. And even though they were just birds, Juanito couldn't help but feel a special bond with them, as if they were part of his own family.\n\nAnd so, the story of Juanito and the little birds became a legend in the village, a tale of kindness, compassion, and the power of friendship. And whenever Juanito's own children would ask him to tell them a bedtime story, he would always begin with the words, \"Hace mucho tiempo, en un pequeño pueblo en México...\" (A long time ago, in a small village in Mexico...)\n\nThe end. ¡Buenas noches, mi hijo! (Good night, my son!)",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "sympathetic": "emotional",
+    "determined": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

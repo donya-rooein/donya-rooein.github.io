@@ -1,0 +1,28 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in the lush green countryside of England, there lived a mischievous little squirrel named Oliver. Oliver had a fluffy red tail and bright, curious eyes that sparkled in the sunlight.\n\nOne day, as the sun began to set and the sky turned a beautiful shade of pink, Oliver scampered through the forest, his tiny paws pattering against the soft earth. He loved to explore every nook and cranny, searching for hidden treasures and delicious acorns.\n\nAs Oliver ventured deeper into the forest, he heard a soft, melodic tune carrying on the breeze. Curious, he followed the sound until he came upon a clearing where a wise old owl perched on a branch, hooting a soothing lullaby.\n\nThe owl smiled kindly at Oliver and said, \"Hello, little one. I am Ollie the Owl, the guardian of the night. Would you like to hear a bedtime story before you go to sleep?\"\n\nOliver's eyes widened with excitement as he settled down beside Ollie the Owl, ready to listen to the enchanting tale. Ollie began to weave a magical story about a brave knight and a majestic dragon, full of daring adventures and heroic deeds.\n\nMesmerized by the story, Oliver's eyelids grew heavy, and soon he felt himself drifting off to sleep under the twinkling stars. Ollie the Owl watched over him, keeping him safe and warm throughout the night.\n\nAnd so, in the peaceful embrace of the forest, Oliver dreamed of embarking on his own grand adventures and discovering the wonders of the world around him.\n\nThe night passed by in gentle whispers, with the owl's soft lullaby echoing through the trees, until the first light of dawn painted the sky with hues of gold and pink, signaling the start of a brand new day filled with endless possibilities.\n\nAnd as the sun rose in the horizon, Oliver woke up, refreshed and ready to embark on his own adventures, his heart filled with the magic of the night and the wisdom of Ollie the Owl.\n\nAnd so, dear child, remember that even in the darkest of nights, there is always a guiding light to lead you home. Sleep tight, dream sweet dreams, and may your heart be filled with wonder and joy. Goodnight.",
+  "categories": {
+    "mischievous": "mental",
+    "fluffy red tail": "physical",
+    "bright": "mental",
+    "curious eyes": "physical",
+    "loves to explore": "mental",
+    "tiny paws": "physical",
+    "excited": "emotional",
+    "mesmerized": "emotional",
+    "refreshed": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

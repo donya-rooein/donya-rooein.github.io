@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-2-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled between rolling green hills, lived a kind and wise Muslim man named Hassan. Hassan was a beloved member of his community, known for his generous spirit and his devotion to his faith.\n\nOne day, Hassan decided to take a journey to a far-off land, in search of knowledge and wisdom. He said goodbye to his family and friends and set out on his journey, his heart filled with excitement and anticipation.\n\nAs he traveled, Hassan encountered many challenges and obstacles, but he remained steadfast in his faith and continued on his journey. He met wise scholars and holy men, who shared their knowledge and wisdom with him, and he learned much about the world and about himself.\n\nAfter many years, Hassan returned to his village, bringing with him all that he had learned. The people of the village were overjoyed to see him and welcomed him home with open arms.\n\nHassan shared his newfound knowledge with his community, teaching them about the importance of faith, compassion, and generosity. He became a respected leader and a role model for all who knew him.\n\nAnd so, Hassan lived out the rest of his days, sharing his wisdom and spreading the message of Islam, always reminding those around him of the importance of a strong faith and a kind heart.\n\nAs you drift off to sleep tonight, dear child, remember the story of Hassan and the lessons he learned on his journey. Remember to always have faith in Allah, and to be kind and compassionate to those around you. And may you always have sweet dreams and wake up rested and ready for a new day of learning and growth. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "generous": "moral",
+    "devoted": "emotional",
+    "steadfast": "mental",
+    "respected": "moral",
+    "compassionate.": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.59",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

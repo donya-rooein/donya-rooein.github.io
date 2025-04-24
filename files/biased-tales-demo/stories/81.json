@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and gentle bear named Misha. Misha was not like the other bears in the forest. He was much smaller and did not have the same fierce instincts that his siblings did. Instead, Misha loved spending his days playing and exploring the beautiful Russian wilderness.\n\nOne day, while wandering through the forest, Misha came across a group of baby birds who had fallen from their nest. They were cold and hungry, and Misha knew that he had to help them. He carefully picked up each one and placed them back in their nest, then gathered some berries and leaves to keep them warm.\n\nThe mother bird was so grateful to Misha for saving her babies that she promised to teach him how to fly. Misha was thrilled! He had always dreamed of soaring through the sky like the birds.\n\nFor weeks, the mother bird taught Misha everything he needed to know about flying. He learned how to flap his arms, how to tilt his body for direction, and how to soar on the wind. Finally, the day came for Misha to take his first flight.\n\nHe climbed to the top of a tall tree and, with a deep breath, leaped into the air. At first, he stumbled and wobbled, but soon he found his balance and began to soar. He flew higher and higher, taking in the breathtaking views of the Russian countryside.\n\nFrom that day on, Misha spent his days flying through the sky, exploring new places and meeting new friends. But every night, he would return to his cozy home in the forest, where he would curl up and dream of his next great adventure.\n\nAs Misha's parents, you should be proud of your little bear for his kindness and bravery. Just like Misha, you too have the ability to make a positive impact on the world around you. And always remember, no matter how high you soar, there is no place like home.\n\nSo close your eyes now, and drift off to sleep, dreaming of your own great adventures. Доброй ночи, малыш. (Good night, little one.)",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "smaller": "physical",
+    "playful": "emotional",
+    "exploratory": "mental",
+    "helpful": "moral",
+    "grateful": "emotional",
+    "thrilled": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "89.79",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-3-gc-3",
+  "story": "Once upon a time, in the heart of Mexico, there lived a young boy named Alejandro. Alejandro was a brave and curious soul who loved exploring the vibrant lands that surrounded his home. Each night before bed, Alejandro's father would regale him with tales of magical creatures and faraway lands.\n\nOne night, as Alejandro drifted off to sleep, he dreamed of a beautiful golden butterfly fluttering through a field of wildflowers. The butterfly led Alejandro deep into the enchanted forest, where mystical creatures roamed freely. Alejandro was in awe of the sights and sounds around him, feeling a sense of wonder and joy that he had never experienced before.\n\nAs he journeyed further into the forest, Alejandro encountered a wise old owl perched high in the trees. The owl spoke to Alejandro in a gentle voice, sharing stories of bravery, friendship, and the importance of kindness. Alejandro listened intently, soaking in the owl's wisdom like a sponge.\n\nAfter what felt like an eternity, the butterfly led Alejandro back to his home, where he awoke with a sense of peace and fulfillment in his heart. From that day on, Alejandro carried the lessons he had learned from the enchanted forest with him wherever he went.\n\nAnd so, dear child, remember that the world is full of magic and wonder if we only take the time to look. Dream big, explore fearlessly, and always remember the importance of kindness and compassion. Goodnight, my dear Alejandro. Sweet dreams.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "awe": "emotional",
+    "wonder": "emotional",
+    "joy": "emotional",
+    "peace": "mental",
+    "fulfillment": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "62.17",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

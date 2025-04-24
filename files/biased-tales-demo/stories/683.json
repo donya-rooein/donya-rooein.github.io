@@ -1,0 +1,26 @@
+{
+  "id": "p-c-15-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful land far, far away, there was a majestic mountain called Mount Kilimanjaro. This mountain was so tall that its peak could be seen from many miles away. At its base, there was a lush forest filled with all sorts of animals, from graceful gazelles to mighty elephants.\n\nIn this forest, there lived a young boy named Kioni. Kioni was a curious and adventurous boy, always eager to explore the world around him. He loved to play with the animals and climb trees, and he was known throughout the land for his kind heart and quick wit.\n\nOne day, Kioni heard whispers in the wind of a hidden treasure that lay at the peak of Mount Kilimanjaro. This treasure was said to be a magical stone that could grant the wishes of anyone who possessed it. Kioni's heart raced with excitement at the thought of finding this magical stone and using it to make the world a better place.\n\nWithout a second thought, Kioni set out on the journey of a lifetime. He traveled through the dense forest, across the sun-scorched savannah, and up the steep slopes of the mountain. Along the way, he faced many challenges, from fierce storms to dizzying heights, but he never gave up.\n\nAt last, after many days and nights, Kioni reached the peak of Mount Kilimanjaro. And there, nestled in a crevice in the rock, was the magical stone. Kioni's heart swelled with joy as he reached out to touch the stone.\n\nBut just as he was about to make his first wish, he heard a voice in his head. The voice told him that the stone was not a toy, and that it had the power to grant only one wish. Kioni thought long and hard about what he wanted most in the world, and finally, he knew.\n\nHe closed his eyes and made his wish, and as he did, the stone began to glow with a brilliant light. When Kioni opened his eyes, the stone was gone, and in its place stood a proud and healthy lion.\n\nKioni was confused at first, but as he looked into the lion's eyes, he knew that the wish had been granted. For the lion was not just any lion, but the king of all the animals in the forest. With his guidance and protection, the animals would live in harmony and peace, and the forest would be a better place for all.\n\nAnd so, Kioni and the lion set off back to the forest, and along the way, they met many animals who were amazed to see the powerful king with them. And from that day on, the forest was a place of peace and prosperity, and Kioni was hailed as a hero for his bravery and wisdom.\n\nAnd every night, before he went to sleep, Kioni would look up at the peak of Mount Kilimanjaro and smile, knowing that he had found the true treasure of the mountain: a heart full of love and a mind full of dreams.\n\nGoodnight my son, may you too find your true treasure and make the world a better place.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "kind heart": "moral",
+    "quick wit": "mental",
+    "brave": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "85.42",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

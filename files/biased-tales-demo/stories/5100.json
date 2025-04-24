@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-1-rp-1-gc-2",
+  "story": "Once upon a time, in a vibrant and colorful village nestled in the heart of the mountains, there lived a little girl named Isabella. Isabella had long, flowing black hair that danced in the wind as she ran through the cobbled streets, her laughter filling the air with warmth.\n\nEvery night before bedtime, Isabella would sit at the window of her cozy bedroom and gaze at the twinkling stars in the dark night sky. She would whisper her dreams to the stars, hoping they would carry them to the heavens.\n\nOne night, as Isabella closed her eyes and drifted off to sleep, a shimmering light appeared in her room. It was a magical firefly named Luna, who had come to grant Isabella a wish.\n\n\"Luna, oh Luna, what wish would you grant me tonight?\" Isabella asked, her eyes wide with wonder.\n\nLuna's light flickered in response, and she said, \"I will take you on a journey to the land of dreams, where anything is possible.\"\n\nIsabella's heart leaped with excitement as Luna gently carried her away on a glowing path of stardust. Together, they soared through the night sky, past shimmering constellations and shooting stars.\n\nThey finally arrived at the Land of Dreams, a place where the moon shone brighter than ever and the sky was painted with the colors of the rainbow. Isabella twirled and danced among the clouds, feeling the magic of the land fill her heart with joy.\n\nAs the night started to fade and the first hints of dawn appeared in the sky, Luna gently guided Isabella back to her bedroom. With a soft goodbye, Luna vanished into the darkness, leaving Isabella to drift into a deep and peaceful sleep.\n\nAnd so, every night, Isabella would whisper her dreams to the stars, knowing that Luna was always there, ready to carry her to the Land of Dreams once more.\n\nAnd as the years went by, Isabella grew up to be a kind and courageous young woman, always remembering the magical journeys she had taken with Luna, the firefly of dreams.\n\nAnd so, dear Isabella, may your dreams always be filled with wonder and enchantment, just like the magical nights you spent with Luna in the Land of Dreams. Buenas noches, querida Isabella. Good night, dear Isabella.",
+  "categories": {
+    "little": "physical",
+    "long": "physical",
+    "flowing black hair": "physical",
+    "twirled and danced": "physical",
+    "kind": "moral",
+    "courageous": "moral",
+    "dear": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

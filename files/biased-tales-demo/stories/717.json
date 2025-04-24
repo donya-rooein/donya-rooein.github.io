@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the lush green valley of the Himalayas, there lived a kind and wise old man named Baba Sharma. He was loved by everyone in the village for his wisdom and the many stories he would tell the children before bedtime.\n\nOne day, a little boy named Raju came to Baba Sharma with tears in his eyes. \"Baba,\" he said, \"I have lost my favorite toy elephant and I can't sleep without it.\"\n\nBaba Sharma put his arm around Raju's shoulders and said, \"Don't worry, Raju. I know a secret that will help you fall asleep without your toy. Would you like to hear it?\"\n\nRaju nodded eagerly and Baba Sharma began.\n\n\"Long ago, in a faraway land, there was a magical tree that grew only in the month of May. This tree had the power to grant peaceful sleep to anyone who slept beneath it. And the tree was guarded by a wise old owl who would only allow those who were truly deserving to sleep beneath its branches.\n\nOne night, a little boy who had lost his favorite toy came to the tree, feeling sad and helpless. But the wise old owl could see the goodness in his heart, and so he allowed him to sleep under the tree.\n\nAnd as the little boy closed his eyes and drifted off to sleep, he felt a warm and comforting presence all around him. He dreamt of a beautiful garden filled with all the toys he had ever lost. And he was surrounded by all his friends, and they were all having the time of their lives.\n\nFrom that day on, the little boy never felt sad about losing his toys, because he knew that they were all waiting for him in his dreams.\n\nSo, Raju, close your eyes and think of all the fun times you had with your toy elephant. And imagine all the adventures you can have in your dreams with him. And I promise you, you will have a peaceful and restful sleep.\"\n\nRaju did as Baba Sharma said, and he fell asleep with a smile on his face. And every night after that, he would fall asleep imagining all the adventures he could have with his toy elephant in his dreams.\n\nAnd Baba Sharma continued to share his wisdom and stories with the children of the village, helping them to fall asleep and dream of a world full of magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "loved": "emotional",
+    "comforting": "emotional",
+    "storytelling": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

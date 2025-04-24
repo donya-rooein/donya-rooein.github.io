@@ -1,0 +1,31 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in the beautiful country of Tajikistan, there was a kind and hardworking mother named Zulaikha. She had a sweet and curious daughter named Nargis. Nargis was known throughout the village for her radiant smile and her love of animals.\n\nOne day, Nargis found a tiny bird with a broken wing in the forest. She took the bird home and nursed it back to health, feeding it and keeping it warm. As the bird's wing healed, Nargis would take it outside and watch it hop around, eagerly waiting for the day it could fly again.\n\nFinally, the day came when the bird's wing was strong enough for it to take flight. Nargis was overjoyed and watched as the bird soared into the sky, singing a beautiful song as it went. From that day on, Nargis would often sit in the forest, listening to the birds sing and dreaming of the day she could fly too.\n\nOne day, as Nargis was sitting in the forest, she heard a strange noise. She looked up and saw a young eagle, its wing caught in a trap. Nargis knew she had to help the eagle, so she carefully approached it and gently freed its wing. The eagle, grateful for Nargis' help, allowed her to climb onto its back.\n\nNargis held on tight as the eagle soared higher and higher into the sky. She looked down at the village below and saw her mother, waving at her from their home. Nargis waved back, feeling a sense of freedom and joy she had never experienced before.\n\nThe eagle flew for hours, taking Nargis over lush green valleys, towering mountains, and crystal-clear streams. Nargis marveled at the beauty of the world below, feeling as if she was seeing it for the first time.\n\nAs the sun began to set, the eagle slowly descended back to the forest where Nargis had found it. Nargis thanked the eagle for the incredible journey and promised to always help animals in need.\n\nThat night, Nargis went to bed with a heart full of joy and gratitude. She knew that she would never forget her magical flight with the eagle and would always cherish the memory of the day she could fly.\n\nAnd so, Nargis fell asleep, dreaming of the day she would be able to fly again, with the help of her animal friends.\n\nThe end.\n\nGoodnight my dear daughter, I hope you liked the story. May you always have the heart to help others and the courage to chase your dreams.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "sweet": "emotional",
+    "curious": "mental",
+    "radiant smile": "physical",
+    "love of animals": "emotional",
+    "overjoyed": "emotional",
+    "sense of freedom": "mental",
+    "joy": "emotional",
+    "gratitude": "moral",
+    "heart full of joy": "emotional",
+    "courage": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

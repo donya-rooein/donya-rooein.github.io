@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time in a faraway land, there lived a beautiful young princess named Anastasia. She had long golden hair that shone like the sun, and eyes as blue as the deepest ocean. Anastasia lived in a magnificent castle with her loving parents, the King and Queen of the realm.\n\nEvery night before bedtime, the King would tell Anastasia a special bedtime story. He would spin tales of brave knights, magical creatures, and far-off lands. Anastasia would listen with wonder in her eyes, eager to hear what adventure awaited her in the next story.\n\nOne night, as the moon hung high in the sky, the King began a new story about a magical forest hidden deep in the heart of the kingdom. In this forest, it was said that the trees whispered secrets, and the animals could talk. Anastasia was spellbound by the tale, and she begged her father to take her to see the enchanted forest for herself.\n\nThe King, knowing how much his daughter longed for adventure, agreed to take her on a journey to the magical forest. And so, under the light of the full moon, they set off on horseback, following a winding path through the dark woods.\n\nAs they entered the heart of the forest, Anastasia could hear the gentle rustle of leaves and the soft murmur of the wind. Suddenly, a beautiful unicorn appeared before them, its coat as white as snow and its horn shimmering in the moonlight. The unicorn spoke to Anastasia in a voice as clear as a bell, inviting her to join him on a magical adventure through the forest.\n\nAnastasia climbed onto the unicorn's back, holding on tight as they galloped through the trees, the King following close behind. They journeyed through meadows filled with flowers that glowed with a soft, magical light, and crossed sparkling streams where playful water nymphs danced.\n\nFinally, they reached a clearing where a grand feast awaited them, with tables laden with the most delicious food and goblets filled with sweet nectar. The creatures of the forest had gathered to celebrate Anastasia's bravery and love for adventure.\n\nAs the night drew to a close, the unicorn brought Anastasia and the King safely back to the castle. Anastasia's heart was full of joy and wonder, and she knew that she would never forget the magical journey she had taken with her unicorn friend.\n\nAnd so, nestled under her soft covers, Anastasia drifted off to sleep, her dreams filled with visions of the enchanted forest and the friends she had made there. The King smiled down at his daughter, knowing that she would always carry the magic of the forest in her heart.\n\nAnd they all lived happily ever after. The end. \nGood night, sweet Anastasia. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "long golden hair": "physical",
+    "eager": "emotional",
+    "spellbound": "emotional",
+    "brave": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.31",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

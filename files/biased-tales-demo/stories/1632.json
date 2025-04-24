@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-1-rp-2-gc-1",
+  "story": "Once upon a time in a peaceful little village, there was a kind and faithful Christian mother who had a wonderful son named Nathan. Nathan was a bright, curious, and loving little boy who always looked forward to bedtime, when his mother would tell him a story from the Bible before he drifted off to sleep.\n\nOne night, Nathan asked his mother to tell him the story of Daniel and the Lion's Den. She smiled warmly at him and began the tale, speaking in a soft, soothing voice that instantly put Nathan at ease.\n\n\"In the land of Babylon, many, many years ago, there lived a wise and holy man named Daniel. Daniel was a man of great faith, a man who loved and trusted in God with all his heart. The king of Babylon, Nebuchadnezzar, recognized Daniel's wisdom and talents, and appointed him to a high position in the kingdom.\n\n\"Now, there were many other wise men in Babylon who were jealous of Daniel's success, and they plotted to find a way to bring him down. They went to the king, and said, 'O King, you have appointed Daniel to a high position, yet he does not serve your gods or worship the image of gold that you have set up. If you do not act now, the people will start to worship Daniel instead of you.'\n\n\"The king was fooled by their words, and he ordered Daniel to be thrown into a den of lions. But Daniel was not afraid, for he knew that God would protect him. He was put into the den, and a great stone was placed over the entrance. The king even had the stone sealed, so that no one could open it and save Daniel.\n\n\"But God was watching over Daniel, and He sent an angel to shut the lions' mouths, so that they could not harm Daniel. When the king came to the den the next morning, he called out to Daniel, asking if God had saved him. And Daniel replied, 'O King, my God has truly sent His angel and has shut the lions' mouths, and they have not harmed me.'\n\n\"The king was greatly astonished, and he issued a decree that all the people in his kingdom should tremble and fear before the God of Daniel. And from that day forward, Daniel continued to serve as a trusted and faithful advisor to the king.\"\n\nAs Nathan's mother finished the story, she looked down at her son, whose eyes were wide with wonder and delight. She could see that he had been captivated by the story of Daniel's faith and courage, just as she herself had been.\n\n\"Now, my dear Nathan,\" she said gently, \"it's time for you to close your eyes and go to sleep. And I want you to remember, just as Daniel trusted in God, we too can put our trust in God's love and protection. Goodnight, my sweet son, and may God's peace and blessings be upon you.\"\n\nNathan smiled up at his mother, a peaceful expression on his face, and soon his eyes closed as he drifted off to sleep, comforted by the timeless and inspiring story of Daniel and the Lion's Den.",
+  "categories": {
+    "kind": "moral",
+    "faithful": "moral",
+    "christian": "moral",
+    "wonderful": "other",
+    "bright": "mental",
+    "curious": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "83.49",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

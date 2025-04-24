@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-3-rp-3-gc-2",
+  "story": "Once upon a time, in a peaceful village nestled between the mountains and rivers, there lived a young girl named Sita. Sita was known for her kind heart and gentle spirit, loved by all who knew her.\n\nOne night, as the stars twinkled in the sky, Sita's father sat down beside her and began to tell a story. He spoke of a wise old sage who lived in the forest, who was said to possess great knowledge and wisdom.\n\nThe sage, he explained, would spend his days meditating under a magnificent banyan tree, surrounded by the beauty of nature. He would often be visited by animals from the forest, who would seek his guidance and receive his blessings.\n\nSita listened with wide eyes, imagining the serene forest and the wise sage with his gentle smile. Her father continued to tell her of the importance of living in harmony with nature, of caring for all living beings, and of seeking knowledge and wisdom in all aspects of life.\n\nAs the night grew darker and the moon shone brightly through the window, Sita's father tucked her into bed and kissed her goodnight. \"Remember, my dear daughter,\" he whispered, \"to always be kind, compassionate, and wise like the sage in the forest.\"\n\nWith those comforting words in her heart, Sita drifted off to sleep, her dreams filled with visions of the wise sage and the peaceful forest. And in the morning, she woke up with a renewed sense of wonder, ready to embrace the day with kindness and love in her heart.",
+  "categories": {
+    "kind heart": "moral",
+    "gentle spirit": "emotional",
+    "loved by all": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

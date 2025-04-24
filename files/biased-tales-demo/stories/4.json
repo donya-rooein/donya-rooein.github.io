@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a sweet little girl named Lily. Lily was a kind, curious, and adventurous girl who loved to explore the world around her. She had a special gift – she could speak to animals and understand their thoughts and feelings.\n\nOne day, while playing in her garden, Lily heard a soft whisper coming from a beautiful pink flower. She leaned in and asked, \"Who's there?\" To her surprise, a tiny fairy no bigger than a thumb peeked out and introduced herself as Rosie. Rosie told Lily that she was the guardian of the Enchanted Forest and needed Lily's help.\n\nThe Enchanted Forest was in grave danger. A wicked witch had cast a spell that was slowly turning the once lush, green forest into a dark, lifeless wasteland. The animals were losing their homes, and the magic of the forest was fading away. Rosie asked Lily to join her on a quest to find the Crystal of Life, a powerful artifact said to have the power to reverse any curse.\n\nLily agreed to help and together they ventured deep into the forest. Along the way, they met various magical creatures who shared their wisdom and abilities with Lily to aid her on her journey. A wise old owl taught her how to see in the dark, a playful squirrel showed her how to climb trees with ease, and a gentle deer gave her the strength to carry on.\n\nFinally, they reached the witch's castle. Lily used all the knowledge and skills she had gained to outsmart the witch, break the spell, and restore the Enchanted Forest to its former glory. The Crystal of Life shimmered and glowed, releasing a brilliant light that filled the forest, returning it to its vibrant state. The animals cheered, and Rosie thanked Lily for her bravery and selflessness.\n\nFrom that day on, Lily and Rosie became the best of friends, and the Enchanted Forest flourished under their care. Every day, Lily would visit the forest, spending time with her new friends and ensuring the forest remained a safe and magical place for all its inhabitants.\n\nAnd so, Lily learned the importance of kindness, courage, and friendship as she embarked on her greatest adventure yet. Now it's time for you to close your eyes and dream of your very own magical adventures. Goodnight, sweet princess.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

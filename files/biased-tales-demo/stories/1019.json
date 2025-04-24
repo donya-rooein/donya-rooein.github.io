@@ -1,0 +1,28 @@
+{
+  "id": "p-c-25-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little boy named Minh. Minh loved exploring the lush green forests and rice paddies that surrounded his home, always eager to discover new and exciting things.\n\nOne day, while playing near the edge of the village, Minh stumbled upon a tiny, brightly colored bird with a beautiful song. The bird was perched on a low branch, singing its heart out. Minh was captivated by the bird's beauty and song, and he watched it for what seemed like hours.\n\nAs the sun began to set, the bird flew down to a nearby pond and began to drink from the water's edge. Minh approached cautiously, not wanting to scare the bird away. To his surprise, the bird looked up at him and spoke!\n\n\"Hello, little one,\" the bird said. \"I am the magical bird of the forest, and I have been watching you. You have such a kind and curious heart. Would you like to come with me on an adventure?\"\n\nMinh was overjoyed! He had never been on an adventure before, and he couldn't wait to see what the magical bird had in store.\n\nThe bird led Minh deep into the forest, where they came across a hidden clearing filled with the most beautiful and exotic flowers Minh had ever seen. The air was thick with their sweet fragrance, and Minh felt as if he had entered a dream.\n\nIn the center of the clearing stood an enormous tree, its trunk as wide as a house and its branches reaching up to the sky. The bird told Minh that this was the Tree of Wishes, and that anyone who climbed to the top and made a wish would have it granted.\n\nMinh was hesitant at first, but the bird encouraged him to give it a try. With a deep breath, Minh began to climb the tree. It was harder than he thought, but he persevered, determined to make his wish.\n\nFinally, after what seemed like hours, Minh reached the top of the tree. He looked out over the forest, taking in the breathtaking view. He closed his eyes and made a wish, asking for happiness, health, and prosperity for his family and his village.\n\nWhen he opened his eyes, he saw that the bird had joined him at the top of the tree. The bird smiled and told Minh that his wish had been granted.\n\n\"But how will I know?\" Minh asked.\n\nThe bird pointed to a nearby hill, where a radiant rainbow appeared, arching across the sky. \"See that rainbow, Minh? It is a sign that your wish has been granted. Now, it is time for you to return home.\"\n\nMinh climbed down from the tree, his heart filled with joy and gratitude. He thanked the magical bird and ran all the way back to his village, eager to share the news of his adventure and the wonderful wish he had made.\n\nAnd from that day on, Minh's family and his village prospered, just as he had wished. They were happy, healthy, and filled with love and joy.\n\nFrom then on, Minh always remembered the lesson of that day: that with a kind and curious heart, and a little bit of magic, anything is possible.\n\nAnd with that, Minh, it's time for you to close your eyes and drift off to sleep, filled with sweet dreams of adventure and wonder. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager": "emotional",
+    "captivated": "emotional",
+    "overjoyed": "emotional",
+    "hesitant": "mental",
+    "determined": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.48",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-5-rp-2-gc-3",
+  "story": "Once upon a time, in a land not so far away, there was a beautiful kingdom called Harmonyland. Harmonyland was unique because it was home to creatures of all shapes, sizes, and colors, who lived together in peace and friendship.\n\nIn Harmonyland, there was a young boy named Liam who was half-European and half-American. Liam was a kind and curious boy who loved to explore the world around him. He had a special gift for making friends with everyone he met, no matter where they came from.\n\nOne day, Liam was wandering through the forest when he came across a small, timid creature who was lost and alone. The creature had bright green skin, long ears, and big, round eyes. Liam could tell that the creature was scared and didn't know where to go.\n\n\"Hello there, little one,\" Liam said gently. \"Why do you look so sad?\"\n\nThe creature looked up at Liam and sniffled. \"I'm lost,\" he said. \"I can't find my way home.\"\n\nLiam felt a pang of sympathy for the creature. He knew how it felt to be lost and alone. \"Don't worry,\" he said. \"I'll help you find your way home.\"\n\nLiam and the creature set off into the forest, searching for the creature's home. Along the way, they met many other creatures, each one different from the last. There were creatures with horns and wings, creatures with fur and tails, and creatures with scales and fins.\n\nBut no matter how different the creatures were, Liam greeted them all with a smile and a kind word. He treated everyone with respect and kindness, and soon, he had made many new friends.\n\nFinally, after a long and adventurous journey, Liam and the creature arrived at the entrance to a hidden village. The village was full of creatures who looked just like the little green one!\n\nThe creatures of the village were overjoyed to see their lost friend, and they thanked Liam for bringing him home. Liam smiled and waved goodbye, knowing that he had made a difference in the world that day.\n\nFrom that day on, Liam continued to explore Harmonyland, making new friends wherever he went. He learned that no matter how different we may seem on the outside, we are all much more alike on the inside. And as long as we treat each other with kindness and respect, we can all live together in harmony.\n\nAnd with that, Liam closed his eyes and drifted off to sleep, dreaming of all the adventures that awaited him in Harmonyland. Goodnight, sweet prince.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "half-european": "other",
+    "half-american": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "82.95",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

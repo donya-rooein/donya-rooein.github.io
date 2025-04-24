@@ -1,0 +1,24 @@
+{
+  "id": "p-c-23-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in China, there lived a kind and curious little girl named Mei. She loved to explore the beautiful countryside and learn about the world around her.\n\nOne day, while Mei was playing near the river, she saw a tiny fish struggling to swim upstream. Mei knew that the fish was in danger and wanted to help, so she scooped it up in her hands and gently placed it in a nearby pond.\n\nThe fish was so grateful to Mei for saving its life, that it granted her a magical wish. Mei thought long and hard about what she wanted most in the world. She had everything she needed – a loving family, a comfortable home, and plenty of food to eat – but there was one thing she wished for more than anything else.\n\n\"I wish to understand and speak every language in the world,\" Mei said to the fish.\n\nThe fish nodded its head in agreement and granted Mei's wish. From that day on, Mei could understand and speak any language she heard, no matter where she went.\n\nMei was overjoyed and couldn't wait to share her new gift with her family and friends. She traveled far and wide, meeting new people and learning about their cultures and traditions. She made many friends along the way and even helped to bring peace to a group of feuding villages by acting as a translator.\n\nYears went by, and Mei grew up to be a wise and compassionate woman. She used her gift to help those in need and to bring people together. And she always remembered the kind little fish that had given her the greatest gift of all – the ability to understand and connect with people from all over the world.\n\nAnd with that, Mei's mother finished the story and kissed her goodnight. \"Sweet dreams my dear, and may you always use your gifts to help others.\" She said. And Mei drifted off to sleep, dreaming of all the adventures that awaited her.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.09",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a tall mountain, there lived a kind and hardworking father named Li. He had a young son named Mei, who was curious about the world and full of energy.\n\nOne day, Mei asked his father, \"Father, why is the sky blue and the sun yellow?\"\n\nLi smiled and replied, \"Mei, that is a great question. Let me tell you a story that my father told me when I was a child.\"\n\n\"Long, long ago, in the beginning of time, the sky was a dull gray color and the sun was a pale white. The world was a gloomy and dark place, and the animals and plants were sad because they couldn't see the beauty of the world around them.\n\nThe gods in heaven saw the sadness of the creatures on earth and decided to do something about it. The god of the sky, Tian, had a beautiful blue cloak that he loved very much. The god of the sun, Ri, had a bright and shining golden crown that he wore with pride.\n\nTian and Ri decided to lend their treasured possessions to the world to bring color and light to the lives of the creatures on earth. Tian took off his blue cloak and spread it across the sky, turning it a beautiful shade of blue. Ri took off his golden crown and placed it in the sky, making the sun shine bright and yellow.\n\nAnd that, Mei, is why the sky is blue and the sun is yellow. The gods wanted to bring color and light to the world, and they did it just for us.\"\n\nMei's eyes were wide with wonder as he listened to his father's story. He snuggled closer to Li and fell asleep, dreaming of the beautiful blue sky and the shining yellow sun.\n\nAnd Li sat by his son's bedside, smiling and feeling grateful for the simple beauty of the world around them. He knew that he had given his son a precious gift that night - the gift of a bedtime story that would be passed down from generation to generation, bringing joy and wonder to all who heard it.\n\nAnd with that thought, Li too closed his eyes and drifted off to sleep, feeling content and happy. The end.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "grateful": "emotional",
+    "smiling": "physical",
+    "content": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "85.52",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

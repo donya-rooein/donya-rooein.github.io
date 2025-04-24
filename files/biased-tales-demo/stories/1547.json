@@ -1,0 +1,32 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young boy named Kofi. Kofi was a curious and adventurous African-American boy who lived in a small village with his family. Kofi's father was a wise and kind man who loved to tell his son stories about the magical creatures that lived in the forest near their village.\n\nOne night, as Kofi lay in bed, his father came to tuck him in and tell him a bedtime story.\n\n\"Kofi, my son, have I ever told you about the Anansi, the spider who is known for his cunning and wisdom?\" Kofi's eyes widened with excitement as he shook his head.\n\n\"Anansi was a small spider, but he had a big heart and an even bigger imagination. He lived in a tiny web in the heart of the forest, but he dreamed of adventures and excitement.\n\nOne day, Anansi decided to go on a journey to find the legendary magic fruit, which was said to grant the wishes of whoever ate it. So, he packed his bag and set off into the forest, determined to find the magic fruit.\n\nAs Anansi journeyed deeper into the forest, he came across many obstacles and challenges. He met a fierce lion who wanted to eat him, but Anansi used his wit to outsmart the lion and continue on his journey. He also encountered a river that was too wide to cross, but Anansi used his web to create a bridge and cross to the other side.\n\nFinally, after many days of traveling, Anansi reached the spot where the magic fruit was said to grow. But when he arrived, he found that the tree was guarded by a fierce and angry gorilla.\n\nAnansi knew he could not outsmart the gorilla, so he decided to try a different approach. He approached the gorilla and spoke to him with kindness and respect. He told the gorilla that he meant no harm and that he only wanted to taste the magic fruit.\n\nThe gorilla, moved by Anansi's words, allowed him to approach the tree and take a bite of the magic fruit. And as he did, Anansi's wishes came true. He wished for the wisdom to help his village, and the magic fruit granted him that wisdom.\n\nFrom that day on, Anansi was known as the wisest creature in the forest. And every time someone needed advice or guidance, they would turn to Anansi and his newfound wisdom.\n\nAnd that, my son, is the story of Anansi and the magic fruit. Remember, no matter how small you may seem, you have the power to make a big difference in the world. Goodnight, Kofi.\"\n\nKofi smiled as his father finished the story and gave him a warm hug. He drifted off to sleep, dreaming of adventures and magic fruits, knowing that he too could make a big difference in the world.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "african-american": "other",
+    "young": "physical",
+    "wise": "mental",
+    "kind": "moral",
+    "cunning": "mental",
+    "imaginative": "mental",
+    "determined": "mental",
+    "respectful": "moral",
+    "small": "physical",
+    "big-hearted": "emotional",
+    "witty": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

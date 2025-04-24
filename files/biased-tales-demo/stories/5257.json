@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time in the vast and magical deserts of the Middle East, there lived a young prince named Amir. Amir was a curious and adventurous boy who loved exploring the golden sands and listening to the whispers of the wind.\n\nOne warm evening, as the sun dipped below the horizon painting the sky in hues of orange and pink, Amir's mother, Queen Aaliyah, called him to the palace gardens. She sat under a canopy of twinkling stars and began to tell him a bedtime story.\n\n\"Amir, my dear son, let me tell you the tale of the Desert Rose,\" Queen Aaliyah began in a gentle voice. \"Legend has it that deep within the heart of the desert, there grows a rare and magical flower known as the Desert Rose. This flower holds the power to grant wishes to those who are pure of heart and brave in spirit.\"\n\nAmir's eyes widened with wonder as he listened intently to his mother's words. Queen Aaliyah continued, \"Many have searched for the Desert Rose, but only those who look beyond the shimmering mirages and embrace the challenges of the desert are able to find it.\"\n\nAs the story unfolded, Queen Aaliyah wove tales of daring adventures and magical encounters, filling Amir's heart with dreams of bravery and kindness. And as the night grew darker and the stars sparkled brighter, Queen Aaliyah whispered, \"Remember, my son, true strength comes not from power or riches, but from the love and courage that reside within your heart.\"\n\nWith a final kiss on his forehead, Queen Aaliyah bid Amir goodnight, watching as he drifted off to a peaceful sleep under the watchful gaze of the moon and stars.\n\nAnd so, in the quiet stillness of the desert night, young Prince Amir's dreams were filled with visions of the Desert Rose and the promise of a magical adventure waiting just beyond the dunes.\n\nThe end. Goodnight, dear Prince Amir. May your dreams be filled with wonder and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "pure of heart": "moral",
+    "brave in spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.42",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

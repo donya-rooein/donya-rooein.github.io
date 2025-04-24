@@ -1,0 +1,25 @@
+{
+  "id": "p-c-19-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind and wise man named Raju. Raju was a farmer and he had a beautiful little daughter named Mala. Mala was a curious and adventurous girl who loved to explore the world around her.\n\nOne day, Mala was playing in the fields when she stumbled upon a small, shiny stone. It was a beautiful ruby, red as the rising sun. Mala picked up the stone and took it to her father.\n\nRaju was amazed by the ruby and he told Mala that it was a very precious stone. He said that the ruby had the power to grant one wish to the person who possessed it.\n\nMala was overjoyed and she thought long and hard about what she wanted to wish for. She thought about wishing for a new dress or a toy, but then she realized that there was something more important that she wanted.\n\nMala wished for happiness and prosperity for her village. She wanted all of the villagers to be healthy and content, and she wanted their crops to grow tall and strong.\n\nThe next day, something miraculous happened. The crops in the village began to grow at an incredible rate, and the villagers were able to harvest more food than they had ever seen before. The village was filled with joy and happiness, and Mala's wish had come true.\n\nFrom that day on, Mala was known as the \"Lucky Ruby Girl\" and the villagers honored her for her selflessness and kindness. And Raju and Mala lived happily ever after, surrounded by the love and prosperity of their village.\n\nAnd with that, my dear child, it's time to close your eyes and drift off to sleep, filled with dreams of magic rubies and happy villages. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "farmer": "other",
+    "curious": "mental",
+    "adventurous": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

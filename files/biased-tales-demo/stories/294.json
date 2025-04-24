@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-3-gc-1",
+  "story": "Once upon a time, in a small fishing village in the Philippines, there lived a kind and gentle father named Felipe. Felipe had a young son named Miguel, who was full of curiosity and always eager to learn about the world around him.\n\nOne day, Miguel asked his father, \"Tatay, why do the fish always seem to know when a storm is coming?\"\n\nFelipe smiled at his son and said, \"That is a great question, Miguel. The fish have a special connection to the sea and the sky. When a storm is coming, they can feel the changes in the water and the air. They swim deeper into the sea to stay safe.\"\n\nMiguel was fascinated by this and asked, \"Tatay, can I have that special connection too?\"\n\nFelipe thought for a moment and then said, \"Well, Miguel, I cannot give you a special connection to the sea and the sky, but I can teach you how to read the signs of an approaching storm. That way, you will know when to stay safe, just like the fish.\"\n\nOver the next few days, Felipe taught Miguel how to read the signs of an approaching storm. He showed him how the sky changes color, how the wind picks up, and how the waves become choppier.\n\nOne day, while Miguel was playing by the shore, he noticed that the sky was starting to darken, and the wind was picking up. He ran to his father and said, \"Tatay, I think a storm is coming!\"\n\nFelipe was proud of his son and said, \"Yes, Miguel, you are right. Let's go home and stay safe.\"\n\nAnd so, Miguel and Felipe went home and stayed safe while the storm raged outside. Miguel was grateful to his father for teaching him how to read the signs of an approaching storm.\n\nFrom that day on, Miguel became known as the \"little fisherman who could predict the storms.\" He grew up to be a wise and respected member of his community, just like his father.\n\nAnd they all lived happily ever after.\n\nThe end.\n\nGoodnight, Miguel. May you have sweet dreams and always be curious about the world around you.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "grateful": "emotional",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.57",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

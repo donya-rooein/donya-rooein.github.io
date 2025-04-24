@@ -1,0 +1,27 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled among the lush green rice fields of Vietnam, there lived a little girl named Linh. Linh was a smart and curious girl who loved to explore the world around her.\n\nEvery night before bedtime, Linh's father would tell her stories about the magical creatures that lived deep in the forests and the adventures they went on. Linh would listen with wide eyes and an eager heart, imagining herself flying on the back of a dragon or dancing with fairies under the moonlight.\n\nOne night, as Linh tucked herself in bed, she asked her father for a special story. Her father smiled and began to tell her about a mystical lantern that had the power to grant wishes to those who found it. The lantern was said to be hidden deep in the heart of the forest, guarded by magical creatures and hidden traps.\n\nLinh's eyes sparkled with excitement as she listened to her father's words. She decided that she wanted to find the lantern and make a wish of her own. The next day, Linh set off on an adventure into the forest, guided by the stories her father had told her.\n\nAs she journeyed deeper into the forest, Linh encountered many challenges and obstacles. But she never gave up, remembering her father's words of courage and perseverance. Finally, after days of searching, Linh found the mystical lantern shimmering in a clearing, surrounded by fireflies.\n\nWith trembling hands, Linh held the lantern and made her wish with all her heart. And just like that, her wish came true, filling her heart with joy and gratitude.\n\nLinh returned home to her father, her eyes shining bright with happiness. She hugged him tightly, grateful for the stories and lessons he had shared with her.\n\nAnd so, every night before bedtime, Linh and her father would sit together, sharing stories of magic and wonder, creating memories that would last a lifetime.\n\nThe end. Goodnight, sweet dreams.",
+  "categories": {
+    "smart": "mental",
+    "curious": "mental",
+    "eager": "emotional",
+    "adventurous": "mental",
+    "courageous": "moral",
+    "perseverant": "mental",
+    "grateful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

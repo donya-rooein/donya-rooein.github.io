@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there was a young boy named Juan. Juan was a kind and curious boy who loved to explore the world around him. He would often wander into the forests and fields near his home, discovering new plants and animals and learning all about them.\n\nOne day, Juan stumbled upon a small, secret garden deep in the forest. The garden was filled with the most beautiful flowers he had ever seen, and in the center of the garden was a magnificent tree unlike any he had ever seen before. The tree had bright green leaves and shiny red fruit that looked too perfect to eat.\n\nJuan was fascinated by the tree and wanted to know more about it. He decided to climb the tree to get a closer look at the fruit. As he climbed higher and higher, he noticed that the branches of the tree became more and more delicate. He was careful not to break any of the branches as he made his way to the top of the tree.\n\nWhen he finally reached the top, he was greeted by an old woman with a kind face and a gentle smile. She introduced herself as the guardian of the tree and thanked Juan for his careful climbing. She explained to Juan that the tree was a magical tree, and that the fruit it bore had the power to grant wishes.\n\nJuan was amazed and asked if he could have a wish. The old woman smiled and told him that he could have one wish, but he had to be very careful about what he wished for. She told him that wishes had to be made with a pure heart, and that they could not be used to hurt anyone or to gain power over others.\n\nJuan thought for a moment and then wished for something very special. He wished that his parents could always be happy and healthy, and that they would always have enough food to eat and a roof over their heads. The old woman smiled and granted his wish, and Juan climbed down from the tree, feeling grateful and content.\n\nFrom that day on, Juan's parents were always happy and healthy, and they never wanted for anything. Juan continued to explore the world around him, always remembering the lessons he had learned from the magical tree in the secret garden.\n\nAnd every night, before he went to bed, Juan would look up at the stars and thank the magical tree for granting his wish and for filling his heart with joy and gratitude.\n\nThe end.\n\nGood night my son, I hope you have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "careful": "mental",
+    "grateful": "emotional",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "85.42",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

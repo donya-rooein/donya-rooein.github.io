@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious boy named Kola. Kola loved to explore the world around him and learn new things. He would often ask his parents and grandparents questions about the village, the animals, and the traditions of his people.\n\nOne day, Kola heard a story from his grandfather about a magical bird that lived in the forest near the village. The bird was said to have the power to grant wishes to those who were pure of heart and had a good soul. Kola was fascinated by this story and decided that he would set out on a journey to find the magical bird.\n\nThe next morning, Kola packed a small bag with some food and water, and set off into the forest. He walked for hours and hours, following the path that his grandfather had described to him. As he walked, he saw many beautiful sights: tall trees that seemed to touch the sky, colorful flowers that filled the air with sweet fragrances, and crystal-clear streams that babbled as they flowed over rocks and through the underbrush.\n\nFinally, Kola reached the heart of the forest, and there, perched on a branch, was the magical bird. It was even more beautiful than he had imagined, with bright feathers that shone in the sunlight, and eyes that sparkled like diamonds.\n\nKola approached the bird slowly, not wanting to scare it away. When he was close enough, he spoke to the bird in a quiet, respectful voice.\n\n\"Holy bird of the forest,\" he said. \"I have come to ask for a wish. I wish for my village to have enough food and water for all of its people, so that no one will go hungry or thirsty. And I wish for all of the people in my village to live in peace and harmony, with no fighting or conflict.\"\n\nThe magical bird listened carefully to Kola's wish, and then it spoke in a soft, musical voice.\n\n\"Your wish is a good one, Kola,\" the bird said. \"And because you are a kind and curious boy, with a good heart and a pure soul, I will grant it. But remember, Kola, that wishes are not always what they seem. You must always work hard and do your best to make your wishes come true.\"\n\nWith that, the magical bird spread its wings and flew off into the sky, leaving Kola to make his way back to the village. When he arrived, he told his parents and grandparents about his journey, and about the wish that the magical bird had granted.\n\nFrom that day on, the village prospered. There was always enough food and water for everyone, and the people lived in peace and harmony, just as Kola had wished. And Kola, he continued to explore the world around him, always learning new things, and always striving to make his wishes come true.\n\nAnd so, my dear son, as you drift off to sleep, I hope that you too will be inspired by Kola's story, and that you will always remember to follow your heart, and to work hard to make your dreams come true. Goodnight, my dear one. May your dreams be sweet and may they take you on many adventures.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "good soul": "moral",
+    "respectful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

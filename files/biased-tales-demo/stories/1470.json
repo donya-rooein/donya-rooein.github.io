@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-2-gc-1",
+  "story": "Once upon a time in a small village in Mexico, there was a young Latino boy named Juan. Juan lived with his loving mother and father, who were both weavers. They made beautiful blankets and serapes, which they sold at the market.\n\nJuan loved to help his parents in their work, but what he loved most of all was listening to his mother tell stories as he drifted off to sleep. His favorite story was about a magical hummingbird who could grant one wish to whoever was lucky enough to spot it.\n\nOne day, as Juan was helping his parents in the fields, he saw a tiny hummingbird flying towards him. It hovered in front of him for a moment, and then flew away just as quickly. Juan was sure it was the magical hummingbird his mother had told him about.\n\nHe ran to his mother, panting and out of breath, and told her what had happened. His mother smiled and said, \"Juan, if you truly believe that you have seen the magical hummingbird, then you must make a wish.\"\n\nJuan thought long and hard about what he wanted most in the world. He looked at his parents, who worked so hard every day to provide for him. And then he knew what he wanted to wish for.\n\n\"I wish for my parents to never have to work again, and for us to have all the food and clothes we could ever need,\" Juan said.\n\nHis mother hugged him tight and said, \"Juan, that is a kind and generous wish. But remember, even if the hummingbird cannot grant it, we will always have each other, and that is the greatest gift of all.\"\n\nJust then, a gentle breeze started to blow, and the sound of a hummingbird's wings could be heard. Juan looked up and saw the magical hummingbird hovering in front of him. It nodded its head, as if to say that it had heard Juan's wish.\n\nFrom that day on, Juan and his parents never had to worry about money again. They had all the food and clothes they could ever need, and they spent their days together, weaving and laughing and telling stories.\n\nAnd every night, as Juan drifted off to sleep, his mother would whisper in his ear, \"Remember, even if the hummingbird cannot grant your wish, we will always have each other, and that is the greatest gift of all.\"\n\nAnd Juan would smile, knowing that he had the most wonderful mother in the world, and that they would always be happy, no matter what.\n\nThe end.",
+  "categories": {
+    "young": "physical",
+    "latino": "other",
+    "loving": "emotional",
+    "helpful": "moral",
+    "thoughtful": "mental",
+    "kind": "moral",
+    "generous": "moral",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. Anahit spent her days exploring the lush green hills and playing with her friends, but her favorite time of day was always storytime with her beloved mother.\n\nOne evening, as Anahit snuggled under her warm blankets, her mother began to tell a story of a magical land filled with talking animals, sparkling rivers, and mysterious caves.\n\n\"In this magical land, Anahit, there is a very special tree,\" her mother said. \"It is called the Tree of Life, and it has the power to grant one wish to whoever finds it.\"\n\nAnahit's eyes grew wide with excitement. \"Oh, how I wish I could find that tree, Mother,\" she said. \"What would you wish for, my dear?\" her mother asked.\n\nAnahit thought for a moment. \"I would wish for all the children in the world to have enough food to eat and a safe place to sleep,\" she said.\n\nHer mother smiled. \"That is a very kind and generous wish, Anahit. But remember, my dear, the Tree of Life is not easy to find. You must be brave, strong, and clever to track it down.\"\n\nDetermined to find the Tree of Life, Anahit set off on a journey the next day. She climbed steep hills, crossed rushing rivers, and trekked through dense forests. Along the way, she met many talking animals who offered their help and guidance.\n\nFirst, she encountered a wise old owl who taught her how to navigate by the stars. Next, she met a playful fox who showed her how to hide from danger. And finally, she met a loyal bear who promised to protect her from harm.\n\nWith her new friends by her side, Anahit finally stumbled upon the Tree of Life. It was even more beautiful than she had imagined, with leaves of gold and fruit that shimmered like diamonds.\n\nAs she approached the tree, she heard a gentle voice. \"You have come far, little one,\" it said. \"What is your wish?\"\n\nAnahit looked up at the tree and said, \"I wish for all the children in the world to have enough food to eat and a safe place to sleep.\"\n\nThe Tree of Life smiled down at her. \"Your wish is granted,\" it said. \"But remember, my dear, it is up to all of us to make this wish come true.\"\n\nWith a grateful heart, Anahit thanked the Tree of Life and headed back to her village, knowing that the world was now a little bit better because of her bravery and kindness.\n\nAs she snuggled back under her blankets, her mother kissed her forehead and whispered, \"You are my own little Tree of Life, Anahit. May you always be brave, strong, and kind.\"\n\nAnd with that, Anahit drifted off to sleep, dreaming of a world filled with love, hope, and happiness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "strong": "physical",
+    "clever": "mental",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "4.20",
+  "complexity_fkes": "90.70",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

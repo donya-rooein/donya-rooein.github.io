@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-5-rp-2-gc-1",
+  "story": "Once upon a time, in a cozy village nestled between rolling hills, there lived a young fox named Finn. Finn was known throughout the village for his boundless curiosity and adventurous spirit.\n\nOne peaceful evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Finn set out on a quest to explore the enchanted forest that lay just beyond the village. With his trusty map in paw and a heart full of wonder, he ventured into the quiet darkness of the woods.\n\nAs he wandered deeper into the forest, Finn's keen ears picked up a melodious tune drifting through the trees. Following the music, he discovered a group of woodland creatures gathered around a crackling campfire, singing and dancing under the moonlit sky.\n\nFeeling a sense of belonging, Finn joined in the merry celebrations, twirling and leaping with his newfound friends. They shared stories of faraway lands, whispered secrets of the forest, and laughed until the fire flickered low.\n\nAs the night grew late and the embers glowed dim, Finn bid farewell to his new friends and made his way back to the village. Tired but happy, he curled up in his cozy den, feeling grateful for the magical evening he had experienced.\n\nAnd so, under a blanket of twinkling stars, Finn drifted off to sleep with a heart full of joy and the memory of a night filled with music, laughter, and friendship.\n\nAs you tuck yourself into bed, dear child, remember that the world is full of wonder and magic just waiting to be discovered. Close your eyes, dream sweet dreams, and know that you are loved. Goodnight, sweet child, goodnight.",
+  "categories": {
+    "curiosity": "mental",
+    "adventurous spirit": "mental",
+    "keen ears": "physical",
+    "sense of belonging": "emotional",
+    "grateful": "emotional",
+    "heart full of joy": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

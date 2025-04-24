@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in the vast and beautiful land of Mali, there lived a young lion cub named Kiki. Kiki was a curious and adventurous little lion who loved exploring the African savanna with her friends.\n\nOne day, as the sun started to set and the sky turned a soft shade of orange, Kiki's mother gathered all the cubs together near a tall baobab tree. She told them a special bedtime story about Anansi the Spider, the clever trickster who outsmarted the other animals in the forest. The cubs listened intently, their eyes wide with wonder as they imagined Anansi's daring feats and clever schemes.\n\nAfter the story, Kiki's mother tucked her in under a blanket woven from colorful grasses and whispered softly, \"Dream big, my little one. Just like Anansi, you are clever and brave. Let your imagination soar and remember that you are capable of great things.\"\n\nKiki closed her eyes, feeling safe and loved as she drifted off to sleep, surrounded by the gentle sounds of the African night. And in her dreams, she traveled to far-off lands, having grand adventures and making new friends.\n\nAs the stars twinkled above and the moon shone brightly, Kiki's mother watched over her sleeping cub, filled with love and pride. And in that moment, there was nothing more precious than the bond between a mother and her child.\n\nAnd so, in the land of Mali, under the watchful gaze of the baobab tree, Kiki and her friends drifted off to sleep, their hearts full of dreams and their minds filled with the magic of the African night. Goodnight, sweet child, may your dreams be as bright as the stars above.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "clever": "mental",
+    "brave": "mental",
+    "capable": "mental",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

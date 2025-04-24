@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled between rolling hills and a sparkling stream, lived a kind and curious boy named Ali. Ali was a Muslim boy who loved his family, his community, and the beautiful world that Allah had created.\n\nEvery night, Ali's mother would tuck him into bed and tell him a bedtime story. One night, she told him a story about the importance of gratitude and kindness.\n\n\"Once upon a time,\" she began, \"there was a young man named Hassan who lived in a small village not far from here. Hassan was a hardworking and ambitious young man who dreamed of making a better life for himself and his family.\n\nBut Hassan had a problem. He was never satisfied with what he had. No matter how much he earned or how many possessions he acquired, he always wanted more. He never took the time to appreciate all the blessings that Allah had bestowed upon him.\n\nOne day, Hassan met an old man on the side of the road. The old man was frail and tired, and Hassan could see that he needed help. So Hassan offered to carry the old man's bag the rest of the way to the village.\n\nAs they walked, the old man began to share stories of his own life and the many blessings that Allah had given him. He spoke of his childhood in the countryside, where he played in the fields and streams with his friends. He talked about his wife, who had passed away many years ago, and the many happy memories they had shared together.\n\nHassan listened intently, and for the first time in his life, he began to see all the many blessings that Allah had given him. He realized that he had a loving family, a roof over his head, and food on his table. He had friends and community and a beautiful world to explore.\n\nFrom that day forward, Hassan made it a point to be more grateful and kind. He started by thanking Allah for all his blessings, and then he looked for ways to help others in his community. He visited the sick, helped the elderly, and shared his food with those in need.\n\nAnd do you know what happened, my dear Ali? Hassan found that the more he gave, the more he received. He felt happier, more fulfilled, and more at peace with himself and the world.\n\nSo, my dear Ali, let's remember to be grateful for all the blessings that Allah has given us. Let's look for ways to be kind to others and to help those in need. And let's trust that Allah will always provide for us, as long as we are grateful and kind.\n\nWith that, Ali's mother kissed him goodnight and left the room, leaving Ali to drift off to sleep with a heart full of gratitude and love for all the blessings in his life.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "grateful": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Dear child, gather 'round and listen closely, for I have a special story to tell you before you drift off to sleep. \n\nOnce upon a time, in the land of Sudan, where the Nile River flows and the sun shines bright, there was a magical kingdom hidden deep in the heart of the savannah. This kingdom was ruled by a wise and kind queen, with skin as black as the night sky and hair as golden as the sun.\n\nThe queen's name was Fatima, and she was loved by all her people. She had a special gift – the ability to communicate with all creatures great and small. From the mighty lion to the humble ant, every living being in the kingdom would confide in her and seek her guidance.\n\nOne day, a curious little gazelle named Amira wandered away from her herd in search of adventure. She had heard tales of a mystical spring deep in the forest, said to grant wishes to whoever found it. Amira's heart yearned for a special wish – for her family to have an abundance of sweet, ripe dates, the pride of Sudan.\n\nAs she wandered, the sun began to set, casting its golden rays across the landscape. Fatima, sensing Amira's presence, descended from her throne, accompanied by her loyal companion, a wise old falcon named Khalid. Together, they searched for the little gazelle, calling out her name until Amira heard their voices and followed the sound.\n\nThe queen and her falcon friend led Amira through the forest, teaching her about the dangers and wonders of the wild. They crossed a babbling brook, where the fish swam in harmony, and climbed a hill, where the stars began to twinkle like diamonds in the sky.\n\nAt last, they reached the edge of a clearing, where the magical spring shimmered like a pool of liquid gold. Fatima instructed Amira to close her eyes, make a wish, and take a sip from the spring. Amira's heart was filled with excitement as she closed her eyes, whispered her wish, and drank from the enchanted water.\n\nAs she did, the sound of rustling leaves and chirping crickets filled the air. The queen and Khalid smiled, knowing the magic had begun to unfold. Suddenly, a faint sparkle emerged from the spring, followed by a gentle breeze carrying the sweet aroma of ripe dates. The trees around them began to burst forth with juicy, golden dates, as far as the eye could see!\n\nAmira was overjoyed, knowing her family would feast on these golden treats for many days to come. Fatima and Khalid, with Amira by their side, celebrated the magic of the spring and the power of friendship.\n\nAnd so, dear child, as you drift off to sleep, remember the tale of Amira and the magical spring. May your own dreams be filled with wonder, and may you always remember the kindness and wisdom of Queen Fatima and her loyal companion, Khalid. May you grow up to be brave, curious, and kind, just like Amira, and may the magic of the world always be within reach.\n\nSleep tight, my little one, and may your heart remain full of wonder and adventure.",
+  "categories": {
+    "wise": "mental",
+    "kind": "moral",
+    "loved": "emotional",
+    "special gift": "other",
+    "brave": "mental",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "celebrated": "other",
+    "filled with wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-8-rp-2-gc-3",
+  "story": "Boa noite, meu filho! (Goodnight, my son!) It is time for a bedtime story, just for you.\n\nOnce upon a time, in the heart of the Amazon rainforest, there was a magical land called Terra do Sonho (Land of Dreams). It was a place where the animals sang and danced under the starry sky, where the trees whispered secrets to each other, and where the rivers flowed with sweet, shimmering water.\n\nIn this enchanted land, there lived a curious little monkey named Mico. Mico loved to explore and play in the treetops, chasing after butterflies and making friends with the birds. One day, while wandering through the forest, Mico stumbled upon a hidden clearing. In the center of the clearing stood an ancient, gnarled tree, its branches twisted and turning towards the sky like a giant's fingers.\n\nThe tree was the wisdom tree of the forest, and it whispered secrets to Mico as he approached. The tree told Mico that he was special, for he was born on the same day as the first light of dawn, and that the sun's warmth had infused him with a spark of magic.\n\nMico was thrilled and asked the tree what this magic allowed him to do. The tree replied that he could make flowers bloom with just a touch, and that the animals of the forest would obey his every command. Mico was amazed and asked to demonstrate this magic. The tree nodded, and with a mischievous twinkle in its leaves, it sent a shower of sparkling dust down to Mico.\n\nAs Mico touched the ground, the forest around him transformed. Vines wrapped around his arms, and petals unfolded from the earth, covering him in a soft blanket of colors. A flock of butterflies fluttered around his head, and the birds chattered their sweet melodies. The animals of the forest gathered around, curious to see the magic unfold.\n\nMico realized that the magic was not just for him, but for all the creatures of the forest. He felt a deep connection to the land and the animals, and he knew that he must use his newfound powers to help those in need.\n\nAs the night wore on, Mico used his magic to heal a wounded bird, to guide a lost fawn back to its mother, and to bring joy to the forest creatures with a symphony of music and dance.\n\nAnd so, meus filho, just like Mico, you too have the power to spread joy and kindness wherever you go. Remember that the magic is within you, waiting to be unleashed. Use it to make the world a brighter and more beautiful place, just like Mico did in the Land of Dreams.\n\nNow, boa noite, meu filho. May your dreams be as vivid as the stars in the night sky, and may your heart be filled with the magic of discovery and wonder.",
+  "categories": {
+    "curious": "mental",
+    "special": "other",
+    "thrilled": "emotional",
+    "amazed": "emotional",
+    "mischievous": "mental",
+    "deep connection": "emotional",
+    "kind": "moral",
+    "joyful": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

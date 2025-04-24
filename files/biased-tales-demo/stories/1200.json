@@ -1,0 +1,28 @@
+{
+  "id": "p-c-17-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and vibrant land far, far away, there was a small village nestled at the foot of the majestic Mount Selinda. This village was known as Ubuntu, a place where the people were as warm and welcoming as the African sun that shone upon their faces.\n\nIn Ubuntu, there lived a kind and gentle mother named Naledi, who had a beautiful daughter called Thandi. Thandi was a curious and adventurous child, with eyes that sparkled like the stars in the night sky, and a heart full of love and kindness.\n\nOne day, Thandi asked her mother, \"Naledi, why is our village called Ubuntu?\"\n\nNaledi smiled and gathered Thandi in her arms. \"Ubuntu, my dear Thandi, is a special word that means 'I am because we are.' It is a reminder that we are all connected, and that our actions affect not only ourselves but also those around us.\"\n\nThandi pondered her mother's words as she drifted off to sleep, her dreams filled with images of people helping one another, their hearts beating as one.\n\nThe next day, Thandi decided to set out on a journey to explore the meaning of Ubuntu. She packed a small bag with a blanket, some fruit, and a bottle of water, and set off towards Mount Selinda.\n\nAs she climbed higher and higher, Thandi met many people along the way. She met Mfundo, a young boy who was tending to his family's goats, and offered to help him find a lost kid. She met Zodwa, a wise old woman who was gathering medicinal herbs, and listened intently as she shared her knowledge. She met Bheki, a young man who was building a bridge across a stream, and lent a hand in carrying stones.\n\nAnd as Thandi helped and learned from those she met, she began to understand the true meaning of Ubuntu. She realized that every person she encountered was a part of her, and that by helping them, she was also helping herself.\n\nAt the top of Mount Selinda, Thandi found a small cave, where she decided to rest for the night. As she lay down on her blanket, she looked up at the stars and smiled. She knew that she was not alone in the world, and that the spirit of Ubuntu would guide her and those she loved forever.\n\nFrom that day on, Thandi returned to her village a changed girl. She shared her experiences with her mother and the people of Ubuntu, and encouraged them to live by the spirit of Ubuntu. And the village of Ubuntu flourished, as its people lived in harmony, their hearts beating as one.\n\nAnd so, my dear child, as you drift off to sleep tonight, remember the story of Thandi and the spirit of Ubuntu. Know that you are never alone in this world, and that the love and kindness you share with others will always come back to you. Goodnight, my sweet child. May your dreams be filled with the warmth and light of Ubuntu.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "warm": "emotional",
+    "welcoming": "emotional",
+    "full of love": "emotional",
+    "full of kindness.": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

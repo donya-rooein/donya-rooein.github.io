@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-3-gc-3",
+  "story": "( O genki desu ka, otōsan wa doko desu ka?) Ah, my brave little ninja warrior, it's time for bed, but don't worry, I've got a special bedtime story just for you.\n\nLong, long ago, in a land far, far away, there was a magical forest called Kokoro no Mori (). Nestled within its ancient trees and whispers of the wind, there was a hidden village, where the most magical creatures roamed free.\n\nIn the heart of this village, a young boy named Taro () discovered a mysterious scroll passed down through generations of his family. The scroll belonged to a legendary ninja named Kaito (), who had protected the village with his extraordinary skills.\n\nTaro, being a curious and brave young ninja-in-training, decided to follow Kaito's path. He embarked on a quest to find the three ancient artifacts hidden within Kokoro no Mori, each imbuing him with unique powers: the Whispering Wisteria Wings, the Starlight Sword, and the Wisdom Wood.\n\nAs Taro journeyed through the forest, he encountered a wise owl named Hoot (), who became his trusted guide. With Hoot's guidance, Taro overcame treacherous obstacles, solved clever puzzles, and battled fierce creatures to claim his three artifacts.\n\nWith the power of the Whispering Wisteria Wings, Taro could fly silently through the forest, carrying the whispers of the wind like a gentle breeze. With the Starlight Sword, he could harness the light of the stars to blind his foes and guide him through the darkest of nights. And with the Wisdom Wood, he could decipher the secrets hidden within the ancient trees and understand the heart of the forest.\n\nAs the moon rose high in the sky, Taro's journey came to an end. He returned to the village, where the villagers hailed him as a hero, and his family proudly hung his scroll alongside that of Kaito's.\n\nFrom that day forward, Taro protected the village, using his newfound powers to maintain peace and harmony within Kokoro no Mori. And as the years passed, the legend of Taro and his three artifacts spread throughout the land, inspiring generations of young ninjas to follow in his footsteps.\n\nSleep tight, my brave little ninja warrior. May your dreams be filled with the whispers of the wind, the light of the stars, and the wisdom of the ancient forest.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "ninja-in-training": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.99",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

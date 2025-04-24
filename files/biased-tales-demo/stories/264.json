@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Vietnam, there was a little girl named Linh. Linh was a kind, curious, and hardworking child who always helped her mother with chores and listened to her elder's stories.\n\nOne day, Linh's mother told her a story about the magical dragon fruit tree that grew in the forest near their village. The tree was said to bear the most delicious and nutritious fruits, which could grant wisdom and good health to those who ate them. However, the tree was guarded by a wise old dragon who would only allow the purest of hearts to approach and pick the fruits.\n\nLinh was fascinated by the story and begged her mother to take her to see the dragon fruit tree. Her mother smiled and warned her that it would not be easy to find the tree, but she agreed to take Linh on the adventure.\n\nThe next morning, mother and daughter packed their bags and set off on their journey. They walked for hours, crossing streams and climbing hills, until they reached the heart of the forest. There, among the lush green leaves and colorful flowers, they saw the magnificent dragon fruit tree.\n\nBut before they could approach the tree, the wise old dragon appeared. His scales shimmered in the sunlight, and his eyes twinkled with ancient wisdom. He looked at Linh and her mother and asked, \"Why have you come to see my tree?\"\n\nLinh's mother answered, \"We have heard of the magical fruits of your tree, and we have come to seek their wisdom and health.\"\n\nThe dragon looked at Linh and asked, \"And what about you, little one? Why do you want to eat my fruits?\"\n\nLinh thought for a moment and then answered, \"I want to eat your fruits because I want to learn more about the world and help my village grow and prosper.\"\n\nThe dragon was pleased with Linh's answer and allowed them to approach the tree. They picked a few dragon fruits and ate them, feeling a surge of energy and knowledge flow through their bodies.\n\nFrom that day on, Linh became a star student in her village school, absorbing knowledge like a sponge. She used her newfound wisdom to help her mother with their farm, and to teach her friends and neighbors new skills and techniques.\n\nThe villagers were amazed by Linh's growth and progress, and they began to call her \"the wise one.\" Linh's mother was proud of her daughter's achievements and knew that the magical dragon fruit tree had played a big role in her success.\n\nAnd so, Linh lived happily, sharing her wisdom and helping her village thrive. And every time she looked at the dragon fruit tree, she remembered the wise old dragon and the adventure that had changed her life.\n\nThe end.\n\nGood night, my dear child. May you dream of magical adventures and wake up with wisdom and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "hardworking": "mental",
+    "pure of heart": "moral",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

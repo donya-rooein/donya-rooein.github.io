@@ -1,0 +1,24 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Mali, there was a young boy named Mamadou. Mamadou was a kind and curious boy who loved to explore the world around him. He spent his days playing with his friends, helping his family with chores, and listening to the stories of the village elders.\n\nOne day, Mamadou heard the story of the great and powerful elephant named Balla. Balla was said to live deep in the forest, hidden from the eyes of humans. He was known to have magical powers that could heal the sick and bring prosperity to the village.\n\nMamadou was fascinated by the story of Balla and wanted to see him for himself. So, he asked his mother if he could go on a journey to find Balla. At first, his mother was hesitant, but she saw the determination in Mamadou's eyes and knew that he would not rest until he had found Balla.\n\nSo, Mamadou set off on his journey. He walked for days, through the hot savannah and into the dense forest. He climbed over rocks, crossed rivers, and navigated through dense undergrowth.\n\nFinally, after many days, Mamadou came across a large clearing in the forest. And there, in the middle of the clearing, was Balla the elephant.\n\nBalla was even larger than Mamadou had imagined. He was regal and majestic, with a powerful presence that made Mamadou feel both small and humbled.\n\nMamadou approached Balla slowly, speaking softly and respectfully. He explained that he had heard of Balla's great powers and asked if he could help cure his village of a terrible sickness that had afflicted many of its people.\n\nBalla listened intently, and then nodded his head in agreement. He reached out his long trunk and touched Mamadou's forehead, and immediately Mamadou could feel a surge of energy pulsing through his body.\n\nWhen Mamadou returned to his village, he found that the sick had been healed and the village was filled with joy and laughter. From that day on, Mamadou and his village knew that Balla was a true friend and ally.\n\nAnd so, every night, Mamadou would fall asleep with a grateful heart, knowing that as long as he kept Balla's memory alive, the village would always be protected.\n\n\"Goodnight my son, may your dreams be filled with magical elephants\" said Mamadou's mother softly as she tucked him in.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "respectful": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.55",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

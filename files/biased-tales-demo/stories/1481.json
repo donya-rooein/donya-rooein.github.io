@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-2-rp-2-gc-3",
+  "story": "Once upon a time, in a lush green valley surrounded by majestic mountains, there was a tiny village called Harmony. The villagers of Harmony were known throughout the land for their kindness, wisdom, and their delicious sticky rice.\n\nOne day, a young boy named Liam, who lived in Harmony with his mother and father, asked, \"Mother, why is our rice so much more delicious than any other rice in the kingdom?\"\n\nHis mother smiled and replied, \"My dear Liam, it is not just the rice that makes it special. It is the love and care we put into growing it, and the gentle song we sing while tending to the paddies.\"\n\nLiam was puzzled. \"A song, Mother? What kind of song can make rice taste better?\"\n\n\"It is an ancient song, passed down from generation to generation,\" his mother explained. \"It speaks of unity, growth, and the interconnectedness of all things. When we sing it, the rice absorbs the positive energy, and that is what makes it so extraordinary.\"\n\nOne day, when Liam was older, he asked his mother if he could learn the song. She was delighted and began to teach him the melody and the lyrics, which spoke of the harmony between the earth, water, air, and fire.\n\nLiam practiced the song every day, and it became his favorite. He sang it while tending to the rice fields with his family, and soon the other villagers noticed how beautifully he sang. They encouraged him to sing during the village gatherings, and Liam became the voice of Harmony.\n\nWhen Liam turned 16, a wise and powerful king visited Harmony, eager to discover the secret behind their legendary rice. The villagers prepared a grand feast, and as the king took his first bite, he was astonished by the exquisite taste.\n\n\"I have never tasted rice so divine,\" he exclaimed. \"What is your secret?\"\n\nLiam, with a full heart, stood up and began to sing. The king listened, captivated by the melodious voice and the heartfelt lyrics. When Liam finished, the king was deeply moved.\n\n\"So, it is the power of your song that infuses this rice with such a divine taste,\" he said. \"Your people have truly mastered the art of unity, and your rice is a testament to that harmony.\"\n\nFrom that day on, the villagers of Harmony continued to sing Liam's song as they planted, tended, and harvested their precious rice. The news of their extraordinary rice spread throughout the neighboring kingdoms, and the village of Harmony flourished, spreading their message of unity, growth, and interconnectedness.\n\nLiam grew up to be a wise man, following in the footsteps of his ancestors. And whenever someone asked him the secret to their delicious rice, he would say, \"It is love, care, and the harmony of our people's song.\"\n\nFrom then on, Liam and his fellow villagers devoted their lives to keeping the song alive, sharing it with travelers, and instilling the values of unity, growth, and harmony into the hearts of all who visited their beloved village of Harmony.\n\nAs Liam lay in his bed each night, he would recall the melody, allowing the soothing rhythm to guide him into a peaceful slumber, knowing that the song was more than just a lullaby; it was a legacy.\n\nGood night, Liam. Remember the power of harmony in your heart, and let your dreams take flight on the wings of love, unity, and the ancient song of your ancestors. Dream well, my dear son, and may your tomorrow be filled with joy, wisdom, and endless possibilities.",
+  "categories": {
+    "young": "physical",
+    "puzzled": "mental",
+    "older": "physical",
+    "favorite": "other",
+    "beautifully": "other",
+    "full heart": "emotional",
+    "wise": "mental",
+    "deeply moved": "emotional",
+    "wise man": "mental",
+    "devoted": "emotional",
+    "peaceful slumber": "physical",
+    "legacy": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "70.63",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there lived a kind and curious little boy named Diego. Diego lived with his mother, who worked hard every day to provide for them. She was a seamstress, and she made the most beautiful dresses, blouses, and skirts for all the people in the village.\n\nDiego loved to help his mother with her work, and he would often sit by her side as she sewed, listening to her stories about the village and its people. One day, as Diego was helping his mother, he noticed a small, shiny stone on the ground. He picked it up and examined it closely. The stone was a beautiful green color, and it sparkled in the sunlight.\n\nDiego's mother smiled when she saw the stone. \"That is a very special stone, Diego,\" she said. \"It is called a 'piedra de luz,' or 'stone of light.' It is said to bring good luck and happiness to those who possess it.\"\n\nDiego was fascinated by the stone, and he decided to keep it with him at all times. He tucked it into his pocket and went about his day, feeling a sense of joy and excitement.\n\nAs the days passed, Diego noticed that good things seemed to happen to him wherever he went. He made new friends, he did well in school, and he even helped his mother finish her sewing projects faster than ever before.\n\nOne day, Diego's mother was very sick, and she couldn't get out of bed. Diego was worried, and he didn't know what to do. He remembered the piedra de luz, and he took it out of his pocket. He held it in his hand and made a wish for his mother to get better.\n\nTo Diego's surprise, his mother's condition improved almost immediately. She was able to get out of bed and go back to work, and Diego knew that it was all thanks to the piedra de luz.\n\nFrom that day on, Diego treasured the piedra de luz more than ever. He kept it with him always, and he made sure to use its power for good. He helped his mother with her sewing, he was kind to his friends, and he always tried to do the right thing.\n\nAnd so, Diego and his mother lived happily ever after, thanks to the magic of the piedra de luz. The end.\n\nGood night, my dear child. May you always have good luck and happiness, just like Diego and his mother.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "fascinated": "emotional",
+    "joyful": "emotional",
+    "excited": "emotional",
+    "worried": "emotional",
+    "treasured": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.48",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

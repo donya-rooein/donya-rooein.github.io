@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-2-gc-3",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, there lived a young boy named Hiroshi. Hiroshi was a kind and curious boy who loved to explore the natural world around him. He spent most of his days playing in the forest, climbing trees, and catching fish in the nearby river.\n\nOne day, while Hiroshi was playing by the river, he noticed a small, weak bird with a broken wing. Hiroshi gently picked up the bird and took it home to care for it. He made a small nest for the bird and fed it with seeds and water.\n\nDays turned into weeks, and the bird's wing began to heal. Hiroshi was overjoyed to see the bird getting stronger each day. But he knew that the bird would never be able to fly again unless it learned to spread its wings and take off from the ground.\n\nSo, Hiroshi took the bird to the top of a nearby hill and encouraged it to fly. But the bird was too scared and refused to leave the safety of Hiroshi's hand. Hiroshi didn't give up and tried again the next day, and the day after that.\n\nFinally, after many days of encouragement and patience, the bird took a deep breath and spread its wings wide open. With a little push from Hiroshi, the bird took off into the sky and soared high above the village.\n\nHiroshi was overjoyed to see the bird flying freely, and he knew that he had helped the bird regain its freedom. From that day on, Hiroshi spent less time exploring the forest and more time helping other animals in need.\n\nAnd so, Hiroshi grew up to be a kind and compassionate young man, always ready to lend a helping hand to those in need. And the villagers never forgot the story of the young boy who helped a bird fly again.\n\nAs Hiroshi's mother, I hope this story will inspire you to be kind and compassionate, just like Hiroshi. Now, it's time to close your eyes and dream of a world where everyone helps each other. Good night, my dear son.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "compassionate": "emotional",
+    "patient": "mental",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "87.96",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

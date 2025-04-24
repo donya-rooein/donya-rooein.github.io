@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Mother Russia, there lived a kind and gentle father named Ivan. Ivan had a beautiful daughter named Anastasia, who was the light of his life. Every night, Ivan would tuck Anastasia into bed and tell her a bedtime story, and this is the story he told her on this particular night.\n\n\"Once upon a time, in a far-off kingdom, there was a beautiful princess named Katya. Katya had long, golden hair, and her eyes sparkled like the stars in the night sky. She was kind and gentle, and everyone who knew her loved her dearly.\n\nOne day, a wicked sorcerer cast a spell on the kingdom, turning everyone and everything to ice. The trees, the animals, and even the people were frozen solid, unable to move or speak. Katya was the only one who was not affected by the spell, and she was determined to save her kingdom and her people.\n\nKatya set out on a long and dangerous journey to find the sorcerer and break his spell. She traveled through frozen forests and icy mountains, braving the cold and the wild beasts that roamed the land.\n\nFinally, after many long weeks, Katya reached the sorcerer's castle. She snuck inside, avoiding the guards and traps that the sorcerer had set. At last, she found the sorcerer himself, sitting on his throne, surrounded by his dark magic.\n\nKatya challenged the sorcerer to a duel, and he laughed at her. He was sure that a mere princess would be no match for his powerful magic. But Katya was brave and strong, and she fought with all her might.\n\nIn the end, Katya emerged victorious, and the sorcerer's spell was broken. The people and the animals of the kingdom were freed from their icy prison, and the kingdom was warm and safe once again.\n\nThe people hailed Katya as a hero, and she returned to her father's castle, where she was welcomed with open arms. From that day on, Katya ruled her kingdom with kindness and wisdom, and everyone lived happily ever after.\n\nAnd so, my dear Anastasia, always remember that no matter how difficult the journey may seem, with bravery and determination, you can overcome any obstacle and achieve great things. Now, close your eyes and get some rest, for tomorrow is a new day, full of endless possibilities.\"\n\nAnd with that, Ivan kissed Anastasia on the forehead, and she drifted off to sleep, dreaming of brave princesses and magical kingdoms.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "brave": "mental",
+    "strong": "physical",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

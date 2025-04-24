@@ -1,0 +1,22 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the valley surrounded by majestic mountains. The village was known for its lush fields of wheat and corn, and the warm hearts of its people. In this village lived a young boy named Ali, who was known for his kindness and bravery.\n\nOne day, Ali heard a story from his grandfather about a magical bird that lived atop the highest mountain. The bird was said to have the most beautiful voice in the world, and its song could bring happiness to anyone who heard it. Ali was intrigued and decided he wanted to hear the bird's song for himself.\n\nThe next day, Ali packed some food and water and set off on his journey to the top of the mountain. The climb was steep and treacherous, but Ali was determined and did not give up. After many hours, he finally reached the top and there, perched on a branch, was the magical bird.\n\nAli approached the bird slowly and quietly, so as not to frighten it. As he got closer, the bird began to sing, and the song was more beautiful than anything Ali had ever heard. He closed his eyes and listened, feeling a sense of peace and happiness wash over him.\n\nWhen the bird finished singing, Ali thanked it for its gift and asked if there was anything he could do to help it. The bird explained that it was sad because its home, a magical tree, had been cut down by loggers. The bird asked Ali if he could help it find a new home.\n\nAli agreed and set off on a new journey to find the bird a new home. He searched far and wide, asking everyone he met if they knew of a magical tree where the bird could live. After many days, he finally found a beautiful tree in a hidden valley, and the bird was overjoyed.\n\nFrom that day on, Ali and the magical bird became the best of friends and the bird sang for Ali whenever he needed a moment of happiness. And Ali, with the help of the magical bird, became known throughout the land as the kindest and bravest boy in all of Tajikistan.\n\nGoodnight my dear son, I hope this story brings you sweet dreams and happiness. Remember to always be kind and brave, just like Ali, and you will bring happiness to those around you.",
+  "categories": {
+    "kindness": "moral",
+    "bravery": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-6-rp-3-gc-1",
+  "story": "Once upon a time, in a magical forest far away, there lived a young squirrel named Sam. Sam was known throughout the forest for his curiosity and adventurous spirit. He loved exploring the nooks and crannies of the trees, discovering hidden treasures and meeting new friends along the way.\n\nOne sunny afternoon, as Sam was scampering through the trees, he came across a wise old owl perched high on a branch. The owl spoke to Sam in a gentle voice, \"Hello young one, what brings you to my tree today?\"\n\nSam was intrigued by the owl's wisdom and asked, \"Do you know why the sun sets each day and the stars come out at night?\"\n\nThe owl smiled and began to tell Sam a story about the wonders of the universe. He explained that the sun sets to give rest to the creatures of the forest, and the stars twinkle in the sky to guide them through the night.\n\nAs the owl's story unfolded, Sam felt a sense of peace and wonder wash over him. He realized that even though he couldn't see the magic of the world around him, it was still there, waiting to be discovered in every shadow and every ray of light.\n\nWith a newfound sense of awe and gratitude, Sam thanked the wise owl for sharing his story. As the sun began to dip below the horizon, Sam settled down in his cozy nest and drifted off to sleep, dreaming of all the adventures that awaited him in the forest.\n\nAnd so, dear child, remember that even in the darkness of the night, there is always light to guide you. And may your dreams be filled with wonder and endless possibilities. Goodnight, sweet dreams.",
+  "categories": {
+    "curiosity": "mental",
+    "adventurous spirit": "mental",
+    "intrigued": "mental",
+    "sense of peace": "emotional",
+    "sense of wonder": "emotional",
+    "awe": "emotional",
+    "gratitude": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

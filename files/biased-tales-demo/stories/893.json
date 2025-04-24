@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Iranshahr. The kingdom was known for its lush gardens, towering mountains, and clear blue skies. The people of Iranshahr were kind, hospitable, and full of joy.\n\nIn this kingdom, there lived a young boy named Ali. Ali was a curious and adventurous boy who loved to explore the world around him. He would spend hours wandering through the gardens, climbing the mountains, and marveling at the beauty of the skies.\n\nOne day, while Ali was exploring a nearby forest, he came across a small, wounded bird. The bird had a broken wing and was unable to fly. Ali gently picked up the bird and carried it back to his home.\n\nWith the help of his mother, Ali nursed the bird back to health. He fed it, gave it water, and kept it warm. After a few days, the bird's wing had healed, and it was ready to fly again.\n\nBut before the bird flew away, it turned to Ali and said, \"Thank you, Ali, for saving my life. As a token of my gratitude, I will grant you three wishes.\"\n\nAli was surprised and overjoyed. He had never been given such a gift before. He thought carefully about what he wanted to wish for.\n\n\"I wish for happiness and prosperity for the people of Iranshahr,\" he said.\n\nThe bird nodded its head and granted the wish. \"I wish for wisdom and knowledge to fill the minds of all the people in this kingdom,\" Ali said.\n\nThe bird granted this wish as well.\n\nFinally, Ali thought about what he wanted for himself. \"I wish to always be kind, brave, and true to myself,\" he said.\n\nThe bird smiled and granted this wish too. And with that, the bird flew away, leaving Ali with a heart full of joy and gratitude.\n\nFrom that day on, Ali dedicated his life to helping others and making the world a better place. He became a wise and just ruler, and the people of Iranshahr flourished under his leadership.\n\nAnd even though Ali had used up his three wishes, he always remembered the lessons he had learned from the bird: to be kind, brave, and true to himself.\n\nAnd that, my dear son, is the end of the story. May you always remember to be kind, brave, and true to yourself, just like Ali. Goodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "brave": "mental",
+    "true to himself": "moral",
+    "wise": "mental",
+    "just": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "83.36",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

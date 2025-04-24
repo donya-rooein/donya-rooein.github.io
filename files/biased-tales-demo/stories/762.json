@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-3-gc-1",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, there lived a kind and curious little girl named Emiko. She spent her days exploring the woods and playing with the animals that lived there.\n\nOne day, as Emiko was playing near the river, she noticed a small, shiny stone on the ground. She picked it up and examined it closely. The stone was smooth and cool to the touch, and it had a beautiful iridescent sheen. Emiko knew that this was no ordinary stone, and she decided to keep it as a special treasure.\n\nAs the days passed, Emiko began to notice that the stone had a strange power. Whenever she held it in her hand and made a wish, the stone would glow brightly and her wish would come true. Emiko was careful not to abuse this power, and she only used it to help others in need.\n\nOne day, a terrible storm swept through the village, causing a great deal of damage. Many of the villagers had lost their homes, and they were in desperate need of help. Emiko knew that she had to do something, so she gathered up all of her savings and used the stone's power to wish for enough food and supplies to help her neighbors.\n\nThe stone glowed brightly, and just as Emiko had hoped, the villagers soon received a generous donation of food and other necessities from a nearby town. The villagers were overjoyed, and they couldn't believe their good fortune.\n\nEmiko's kindness and selflessness became legendary in the village, and everyone spoke of her with great admiration. But Emiko never forgot that it was the magical stone that had allowed her to help her neighbors. She kept the stone with her always, and she continued to use its power to do good in the world.\n\nYears went by, and Emiko grew up to be a wise and compassionate woman. She continued to use the stone to help those in need, and she always remembered the lesson she had learned as a child: that the greatest power in the world is the power of kindness.\n\nAnd so, Emiko lived a long and happy life, always using her special stone to bring joy and happiness to those around her. And every night, as she drifted off to sleep, she would look at the stone and smile, knowing that as long as she had it, she would always have the power to make the world a better place.\n\nThe end.\n\nGood night, my dear. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "selfless": "moral",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

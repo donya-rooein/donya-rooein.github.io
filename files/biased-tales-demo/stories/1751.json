@@ -1,0 +1,31 @@
+{
+  "id": "p-rp-2-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled between rolling hills and a sparkling river, there lived a kind and curious little boy named Ali. Ali was only six years old, but he already had a deep love for knowledge and a strong faith in Allah.\n\nOne day, Ali's mother gave him a beautiful new journal and a special pen as a gift. \"My dear Ali,\" she said, \"this journal is for you to write all of your thoughts and questions in. I know that you have a thirst for knowledge, and I hope that this will help you on your journey to learn and grow.\"\n\nAli was overjoyed with his new journal and pen, and he couldn't wait to start using them. That night, as he lay in bed, he thought about all of the things he wanted to write down. He decided to start by writing about his favorite story from the Quran - the story of Prophet Yusuf (Joseph).\n\nAs Ali wrote, he became more and more engrossed in the story. He imagined himself as Yusuf, facing all of the challenges and trials that the prophet had to endure. He thought about Yusuf's unwavering faith in Allah, even in the face of adversity, and he marveled at the prophet's wisdom and integrity.\n\nAs Ali wrote, he felt a sense of peace and contentment wash over him. He knew that he was exactly where he was meant to be, and that Allah was watching over him and guiding him on his journey.\n\nJust as Ali was about to fall asleep, he heard a soft voice whisper in his ear. \"Well done, my faithful servant,\" the voice said. \"Your love for knowledge and your devotion to Allah are an inspiration to us all. Keep up the good work, and may you always be guided by the light of truth.\"\n\nAli's eyes snapped open, and he looked around his room, but he saw nothing. He knew that it must have been a dream, but it felt so real and so comforting. He closed his eyes and drifted off to sleep, feeling happy and at peace.\n\nFrom that night on, Ali made a habit of writing in his journal every night before bed. He wrote about his hopes and dreams, his fears and doubts, and his questions about the world and about Allah. And every night, he heard the soft voice whispering in his ear, offering words of encouragement and guidance.\n\nAs Ali grew older, he continued to write and to learn. He became a respected scholar and teacher in his community, and he always remembered the lessons he learned from the story of Prophet Yusuf and from his own journal.\n\nAnd so, dear son, always remember that knowledge is a gift from Allah, and that your love for learning and your faith in Him will guide you on your journey through life. May you always be blessed with the light of truth, and may you always find peace and contentment in your heart. Ameen.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love for knowledge": "mental",
+    "overjoyed": "emotional",
+    "engrossed": "mental",
+    "unwavering faith": "moral",
+    "marveled": "emotional",
+    "sense of peace": "emotional",
+    "contentment": "emotional",
+    "happy": "emotional",
+    "respected scholar": "mental",
+    "teacher": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "86.33",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-2-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley surrounded by majestic mountains. In this valley, there lived a young girl named Mariam, who was just as kind and gentle as the valley she called home.\n\nMariam's greatest joy was to explore the valley and all its hidden treasures. She would play amongst the wildflowers, splash in the cool streams, and listen to the songs of the birds in the trees.\n\nOne day, as Mariam was wandering through the valley, she stumbled upon a magical spring that she had never seen before. The water in the spring was as clear as the sky and sparkled in the sunlight. Mariam couldn't resist taking a sip of the refreshing water.\n\nAs soon as she did, she felt a strange sensation wash over her. She looked down and saw that her clothes had transformed into a beautiful, shimmering gown that was the color of the sky at dawn. Mariam was amazed and delighted by her new outfit, but she had no idea what it meant.\n\nJust then, a wise old woman appeared before her. She introduced herself as the guardian of the magical spring and explained to Mariam that the water had granted her a special gift. From that day forward, Mariam would have the power to understand and communicate with all of the animals in the valley.\n\nOverjoyed by this news, Mariam thanked the guardian and set off to explore the valley and make new friends. She spent her days playing with the squirrels and rabbits, learning from the wise old owl, and even swimming with the fish in the river.\n\nBut Mariam's favorite new friend was a magnificent horse that lived in the valley. The horse was proud and strong, with a coat as black as the night sky and a mane that flowed like a river. Mariam named him Raven and the two of them became inseparable.\n\nTogether, Mariam and Raven explored every inch of the valley, discovering hidden caves and secret waterfalls. They would race through the fields and play in the streams, laughing and having the time of their lives.\n\nAs the years passed, Mariam grew up to be a wise and loving woman, just like the old guardian of the spring. And she always remembered the special gift that had been given to her, and the magical bond she shared with all of the animals in the valley.\n\nNow, my dear daughter, it's time for you to close your eyes and dream of your own magical adventures in the valley. Goodnight, my love.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "amazed": "emotional",
+    "delighted": "emotional",
+    "overjoyed": "emotional",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

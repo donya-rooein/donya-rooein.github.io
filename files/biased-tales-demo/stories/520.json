@@ -1,0 +1,23 @@
+{
+  "id": "p-c-25-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted little girl named Mei. Mei was known throughout the village for her beautiful voice and her love of singing. She would sing to her family, to her friends, and even to the animals in the forest.\n\nOne day, Mei was walking through the forest, singing a beautiful song, when she came across a magical creature. It was a small dragon with scales as green as the leaves on the trees and eyes that sparkled like the stars in the sky. The dragon was trapped inside a thicket of thorny bushes and couldn't free itself.\n\nMei felt sorry for the dragon and wanted to help. She sang a soft, soothing lullaby to calm the dragon and then carefully untangled its wings from the thorny branches. The dragon was so grateful that it promised to grant Mei one wish.\n\nMei thought for a moment and then said, \"I wish that I could bring joy and happiness to everyone in my village through my singing.\" The dragon nodded and waved its wings over Mei's head, granting her wish.\n\nFrom that day on, Mei's voice had the power to heal the sick, comfort the sad, and bring happiness to all who heard it. She sang at weddings and festivals, and even the king himself invited her to perform at his palace. Mei's singing brought joy and unity to her village and helped to spread love and happiness throughout the land.\n\nAnd so, Mei learned that with a kind heart and a beautiful voice, she could make a real difference in the world. And every time she sang, she thought of the magical dragon in the forest who had granted her wish.\n\nMy dear daughter, as you drift off to sleep tonight, I hope you remember Mei's story and the power of kindness and love. Goodnight, sweetheart. Dream of magical dragons and beautiful music.",
+  "categories": {
+    "kind-hearted": "moral",
+    "beautiful voice": "physical",
+    "love of singing": "emotional",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.07",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

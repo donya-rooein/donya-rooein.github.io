@@ -1,0 +1,28 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful country of Azerbaijan, there lived a young boy named Ali. Ali was a curious and adventurous child who loved to explore the mountains and forests that surrounded his village. \n\nOne day, as Ali was wandering through the woods, he stumbled upon a hidden cave. Curiosity getting the better of him, Ali bravely entered the cave, his heart pounding with excitement. Inside, he found a sparkling crystal that seemed to glow with a magical light. As Ali reached out to touch it, a soft voice spoke to him. \n\n\"Brave Ali, you have unlocked the magic of the crystal. With its power, you can bring light to the darkest corners of the world and spread joy and happiness wherever you go.\"\n\nFilled with wonder and determination, Ali decided to embark on a journey to share the light of the crystal with others. Along the way, he encountered many challenges and obstacles, but he never wavered in his mission to bring light and hope to those in need. \n\nThrough his kindness and selflessness, Ali inspired others to also be compassionate and caring towards one another. Together, they created a world filled with love, understanding, and harmony.\n\nAnd so, every night before he went to sleep, Ali would hold the crystal close to his heart, feeling its warmth and strength. As he drifted off to sleep, he knew that as long as he carried the light of the crystal within him, he would always be able to make a difference in the world.\n\nAnd so, dear child, remember the tale of brave Ali and the magical crystal, and may it inspire you to always be a beacon of light, love, and kindness in the world. Goodnight, and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "filled with wonder": "emotional",
+    "determined": "mental",
+    "kind": "moral",
+    "selfless": "moral",
+    "compassionate": "emotional",
+    "caring": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.82",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

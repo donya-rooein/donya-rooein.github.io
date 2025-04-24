@@ -1,0 +1,26 @@
+{
+  "id": "p-c-24-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled at the base of a great mountain in Japan, there lived a kind and gentle woman named Obasan. She was known throughout the village for her wisdom and her delicious mochi, a sticky rice cake that was a favorite treat among the villagers.\n\nOne day, a little sparrow flew into Obasan's home, seeking shelter from a fierce storm. Obasan welcomed the small bird, offering it a warm place to rest and a bowl of sweet mochi to eat. The sparrow was grateful for Obasan's kindness, and as the storm raged on outside, the two became fast friends.\n\nWhen the storm had passed and the sun was shining once again, the sparrow prepared to take its leave. But before it flew away, it thanked Obasan for her hospitality and presented her with a small gift: a single grain of rice, no larger than a pinhead.\n\nObasan was puzzled by the tiny gift, but she thanked the sparrow and promised to treasure it always. And as she held the tiny grain of rice in the palm of her hand, she felt a warm and comforting presence, as if the rice were infused with the spirit of the sparrow and all the gratitude it held in its tiny heart.\n\nFrom that day on, Obasan's mochi was more delicious than ever before, and the villagers flocked to her home to taste her famous treats. Obasan knew that it was the gift of the sparrow that had made her mochi so special, and she treasured the tiny grain of rice above all her other possessions.\n\nAs the years passed, Obasan grew old and frail, but her mochi remained as delicious as ever. And even on her deathbed, she clutched the tiny grain of rice in her hand, feeling the warmth and comfort of the sparrow's spirit as she drifted off to sleep.\n\nFrom that day on, the villagers remembered Obasan as a wise and kind woman, who had been blessed by the spirit of a grateful sparrow. And they continued to enjoy her delicious mochi, which was said to contain a little bit of magic in every bite.\n\nAnd as you drift off to sleep tonight, my dear daughter, I hope that you too will be blessed by the spirit of kindness and gratitude, and that you will always remember the story of Obasan and the grateful sparrow. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "welcoming": "emotional",
+    "grateful": "emotional",
+    "old": "physical",
+    "frail": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "81.06",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

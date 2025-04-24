@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-4-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and magical creatures, there was a sweet little White girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She had beautiful white hair that shone like the moon and sparkling blue eyes that twinkled like the stars.\n\nOne day, Lily was exploring the forest near her house when she stumbled upon a magical door hidden behind a waterfall. The door was covered in vines and flowers, and it seemed to glow with a soft, inviting light. Lily couldn't resist the temptation to open the door and see what was inside.\n\nAs she stepped through the doorway, she found herself in a beautiful garden filled with every color of the rainbow. Flowers bloomed all around her, and butterflies flitted from flower to flower. In the center of the garden was a magnificent tree, its branches laden with shimmering jewels and golden fruits.\n\nAt the base of the tree, a wise old owl sat on a branch, watching Lily with bright, curious eyes. \"Greetings, little one,\" the owl said in a deep, gentle voice. \"I have been waiting for you. You have been chosen to receive a special gift from the tree of knowledge.\"\n\nLily's eyes widened with excitement as the owl spoke. She had always loved learning new things and was eager to see what the tree had to offer. The owl gestured to the tree, and a ripe golden fruit tumbled down to land at Lily's feet.\n\nAs she picked up the fruit, it glowed with a warm, golden light. Suddenly, she felt a surge of knowledge and understanding flood her mind. She could suddenly speak every language in the world, and she knew the answers to all the questions she had ever had.\n\nLily was overjoyed at her newfound wisdom and thanked the wise old owl for the incredible gift. From that day on, she used her knowledge to help those around her, and she lived happily ever after, always seeking to learn more and share her wisdom with others.\n\nAnd so, dear daughter, as you drift off to sleep tonight, remember that knowledge is a precious gift, one that can bring joy and understanding to your life. Never stop learning and seeking to better yourself, and you too can live happily ever after. Goodnight, my dear. Sweet dreams.",
+  "categories": {
+    "sweet": "emotional",
+    "little": "physical",
+    "white": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "sparkling blue eyes": "physical",
+    "overjoyed": "emotional",
+    "thankful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

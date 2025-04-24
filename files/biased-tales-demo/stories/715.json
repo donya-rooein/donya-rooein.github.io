@@ -1,0 +1,27 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled at the foot of the majestic Himalayas, lived a kind and gentle girl named Meera. Meera was a curious and adventurous child who loved nothing more than exploring the beautiful natural surroundings of her village. Her favorite place to play was the lush forest that lay just beyond her backyard, where she would spend hours discovering new plants, animals and hidden treasures.\n\nOne day, while playing near a sparkling stream, Meera stumbled upon a tiny, shimmering stone. As soon as she picked it up, she felt a sudden warmth and energy in her hand. She looked around, but there was no one to be seen. She shrugged and placed the stone in her pocket, thinking it would make a nice addition to her collection of treasures.\n\nThat night, as Meera lay in bed, she felt the stone begin to glow and vibrate in her pocket. She took it out and held it in the palm of her hand, watching as it grew brighter and brighter. Suddenly, the stone began to speak!\n\n\"Hello, Meera,\" it said in a soft, gentle voice. \"I am the Stone of Wisdom, and I have been sent to you to help you discover your true potential.\"\n\nMeera was surprised but excited. She had always loved learning new things and was eager to discover what the stone had to teach her.\n\nOver the next few days, the Stone of Wisdom revealed many secrets to Meera. It taught her how to harness the power of the sun and the moon, how to communicate with the plants and animals, and how to use her thoughts and emotions to create magic in the world around her.\n\nMeera was amazed by all that she learned, and she began to use her newfound powers to help her village. She healed sick animals and plants, brought bountiful harvests to the villagers, and even helped to solve disputes between neighbors.\n\nAs Meera grew older, she continued to use her powers for good, always remembering the lessons she had learned from the Stone of Wisdom. And even though the stone was no longer with her, she knew that its wisdom and magic lived on within her.\n\nAnd with that, Meera closed her eyes and drifted off to sleep, dreaming of all the adventures that awaited her in the future. And her mother smiled as she turned off the light, knowing that her daughter would grow up to be a kind, wise and powerful woman.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to discover": "mental",
+    "amazed": "emotional",
+    "wise": "mental",
+    "powerful": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and gentle father named Ivan. Ivan had a young son named Misha, who was the light of his life. Every night, Ivan would tuck Misha into bed and tell him a bedtime story.\n\nOne night, Ivan told Misha the story of the magical Russian forest.\n\n\"Long ago, in a time forgotten by most, there was a vast and magical forest that stretched across all of Russia,\" Ivan began. \"This forest was home to all sorts of enchanted creatures – talking animals, wise old trees, and even mischievous fairies.\n\n\"In the very heart of this magical forest lived a wise and powerful old bear named Vasily. Vasily was kind and just, and he watched over the forest and all of its inhabitants.\n\n\"But one day, a terrible darkness fell over the forest. A wicked witch had cast a spell over the land, and all of the color and magic was draining away. The animals and trees were becoming weak and dull, and the fairies couldn't even fly anymore.\n\n\"Vasily knew that something had to be done, so he set out on a journey to find the witch and break her spell. He searched for many days and nights, until finally, he found the witch's castle deep in the heart of the forest.\n\n\"The witch was furious when she saw Vasily, and she cast a spell to turn him into a powerless cub. But Vasily was wise and cunning, and he managed to outsmart the witch and break her spell.\n\n\"With the witch's power gone, the magic and color returned to the forest. The animals and trees were strong and healthy once again, and the fairies could fly through the air, leaving trails of sparkling stardust behind them.\n\n\"And from that day on, the forest was known as the Magical Russian Forest, and Vasily was remembered as a hero who saved the day.\"\n\nMisha's eyes were wide with wonder as he listened to his father's story. \"Tell me more, Papa,\" he said.\n\n\"I will tell you more stories, my dear Misha, but for now, it is time to sleep,\" Ivan said, as he kissed Misha goodnight.\n\nAnd with that, Misha drifted off to sleep, dreaming of enchanted forests and powerful bears.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "powerful": "other",
+    "just": "moral",
+    "cunning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

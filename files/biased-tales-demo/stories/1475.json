@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-1-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious boy named Juanito. Juanito was the son of a humble weaver, and he spent his days helping his father tend to their sheep and learning the art of weaving.\n\nOne day, while Juanito was tending to the sheep in the pasture, he heard a faint tapping sound coming from a nearby cave. Curious, Juanito approached the cave and peered inside. To his surprise, he saw a tiny man with a tiny hammer, tap-tap-tapping on a tiny anvil.\n\n\"Hola, little man,\" Juanito said. \"What are you doing?\"\n\nThe little man looked up and smiled. \"I am creating a magical gift for the village,\" he said. \"But I need the help of a kind and curious boy to deliver it. Would you like to help me?\"\n\nJuanito's eyes sparkled with excitement. \"Of course, I will help you! But what is the gift?\"\n\nThe little man reached into his pocket and pulled out a tiny seed. \"This is a seed of hope,\" he said. \"When planted, it will grow into a tree that will provide food, shelter, and warmth for the entire village. But it must be planted on the night of the full moon.\"\n\nJuanito was overjoyed. He promised to plant the seed on the night of the full moon and to care for the tree as it grew. The little man thanked Juanito and disappeared into the cave.\n\nAs the night of the full moon approached, Juanito prepared the soil and planted the seed with great care. He watered it and tended to it every day, watching as a tiny sprout emerged from the ground. With each passing day, the sprout grew stronger and taller, until it was a beautiful, strong tree.\n\nThe tree provided food, shelter, and warmth for the entire village, just as the little man had promised. The villagers were amazed and grateful, and they thanked Juanito for his kindness and curiosity.\n\nFrom that day on, Juanito was known as the hero of the village, and he continued to help his father and tend to the tree. He learned that being kind and curious could lead to great things, and he lived happily ever after.\n\nGoodnight my son, may you always be kind and curious, just like Juanito.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "excited": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "83.15",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

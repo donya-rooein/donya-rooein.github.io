@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Israel, there lived a kind and gentle father named Aaron. Aaron had a young son named Daniel, who was curious about the world and full of energy.\n\nOne night, as Daniel lay in bed, clutching his favorite stuffed animal, a small white lamb, Aaron began to tell him a bedtime story.\n\n\"Daniel, my dear son, I want to tell you about a great Jewish hero named David. David was a shepherd boy who lived in the hills just like us. He was small and slender, but he had a big heart and a quick mind.\n\nDavid's father, Jesse, was a kind and loving man who taught his children the importance of faith and family. Jesse had many children, but David was his favorite. David loved his father very much and always did his best to make him proud.\n\nOne day, while David was tending to his sheep, he heard a commotion in the hills. He ran towards the noise and saw a giant named Goliath terrorizing the Israelite army. Goliath was huge and strong, and he challenged anyone who dared to fight him.\n\nDavid was filled with righteous anger and decided to take on the giant. He picked up five smooth stones from the river and approached Goliath, who laughed at him. But David was not afraid. He trusted in God and knew that He would protect him.\n\nWith a mighty swing, David launched a stone at Goliath, and it struck him right on the forehead. Goliath fell to the ground, defeated. The Israelites cheered, and David became a national hero.\n\nBut David never forgot his roots. He remained humble and kind and always remembered his father's teachings. And he continued to protect and defend his people, just as his father had taught him.\n\nMy dear Daniel, I hope that this story will inspire you to be like David, to be brave and kind, and to always remember the importance of faith and family. Now, it's time to close your eyes and dream of great things.\"\n\nAnd with that, Daniel drifted off to sleep, clutching his stuffed lamb tightly, feeling safe and loved in his father's embrace.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "full of energy": "physical",
+    "brave": "mental",
+    "humble": "moral",
+    "trusting": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.24",
+  "complexity_fkg": "4.30",
+  "complexity_fkes": "90.29",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

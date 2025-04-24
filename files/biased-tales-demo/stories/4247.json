@@ -1,0 +1,33 @@
+{
+  "id": "p-c-2-rp-2-gc-1",
+  "story": "Once upon a time, in the depths of a lush green forest in the heart of the British countryside, lived a curious little fox named Oliver. Oliver was a mischievous little fox with bright orange fur and a twinkle in his eye.\n\nEvery evening as the sun began to dip below the horizon, Oliver would venture out of his cozy den in search of adventure. He would scamper through the tall grass, playfully chasing butterflies and listening to the gentle rustle of the leaves in the trees.\n\nOne moonlit night, as Oliver was exploring a meadow filled with twinkling fireflies, he heard a soft voice calling out to him. He followed the sound and soon came upon a wise old owl perched high in a tree.\n\n\"Good evening, young fox,\" the owl hooted softly. \"I have a special message for you. Tonight, as you lay down to sleep, close your eyes and dream big dreams. For in your dreams, you will find the magic and courage to overcome any challenge that comes your way.\"\n\nOliver nodded, his eyes shining with wonder. He thanked the owl for his wise words and returned to his den, settling down on his soft bed of leaves. As he closed his eyes and drifted off to sleep, he found himself in a magical dream world where anything was possible.\n\nIn his dreams, Oliver soared through the starlit sky, dancing among the clouds and laughing with joy. He explored enchanted forests, made friends with woodland creatures, and discovered the true meaning of bravery and kindness.\n\nWhen he awoke the next morning, Oliver felt a sense of peace and contentment in his heart. He knew that no matter what challenges he may face, he could always find strength and courage in his dreams.\n\nAnd so, dear child, remember the wise words of the old owl and always dare to dream big dreams. For in your dreams, you will find the magic and courage to conquer the world.\n\nWith that, Oliver closed his eyes, tucked his nose under his tail, and drifted off to sleep, ready to embrace whatever adventures the next day may bring.\n\nGoodnight, sweet child, and may your dreams be filled with wonder and enchantment. Sleep tight, for tomorrow is a brand new day, full of endless possibilities. The end.",
+  "categories": {
+    "curious": "mental",
+    "mischievous": "mental",
+    "bright orange fur": "physical",
+    "twinkle in his eye": "physical",
+    "adventurous": "mental",
+    "playful": "emotional",
+    "thankful": "emotional",
+    "wonder": "emotional",
+    "sense of peace": "emotional",
+    "contentment": "emotional",
+    "strength": "other",
+    "courage": "moral",
+    "bravery": "moral",
+    "kindness": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

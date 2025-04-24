@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-4-rp-1-gc-2",
+  "story": "Once upon a time, in a peaceful village nestled among the rolling hills and lush forests, there lived a kind and wise little girl named Maya. Maya's parents were loving and caring, and they always made sure to teach her about the Buddha's teachings and the importance of compassion, mindfulness, and wisdom.\n\nOne night, as Maya climbed into bed, her mother sat down beside her and began to tell her a story.\n\n\"Long ago, in a time before even your great-great-grandparents were born, there was a young boy named Siddhartha who lived in a beautiful palace. Siddhartha had every toy and game he could ever want, and his parents made sure he was always comfortable and happy.\n\n\"But despite all of these comforts, Siddhartha couldn't shake the feeling that there must be more to life than just toys and games. He began to wander the palace grounds and asked himself deep questions about the meaning of life.\n\n\"Eventually, Siddhartha left the palace and embarked on a journey to find the answers to his questions. He met many wise teachers and learned many things, but he still couldn't find the answers he was looking for.\n\n\"One day, Siddhartha sat down under a fig tree and vowed not to move until he had found the ultimate truth. He sat in meditation for days, and finally, after much effort, he achieved enlightenment.\n\n\"From that day on, Siddhartha was known as the Buddha, which means 'the awakened one.' He spent the rest of his life teaching others about the path to enlightenment, and his teachings are still shared and studied to this day.\n\n\"Buddha taught that the key to finding happiness and peace is to let go of our attachments and cravings, and to cultivate compassion, mindfulness, and wisdom in our daily lives. And he taught that the ultimate goal is to awaken and see the true nature of reality, just as he did under that fig tree.\n\n\"Maya, my dear, as you drift off to sleep tonight, I hope that you will remember the story of the Buddha and the important lessons he taught. May you be filled with compassion and kindness, may you be mindful and aware, and may you awaken to the true nature of reality.\n\n\"Goodnight, my sweet angel. May you have sweet dreams and may you wake up refreshed and ready for another day of learning and growth.\"\n\nAnd with that, Maya drifted off to sleep, carrying the story of the Buddha and her mother's loving words with her into her dreams.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "loving": "emotional",
+    "caring": "emotional",
+    "compassionate": "emotional",
+    "mindful": "mental",
+    "aware": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

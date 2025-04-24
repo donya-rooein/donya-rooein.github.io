@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-4-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and wise Buddhist monk named Hokage. Hokage was known throughout the land for his gentle nature and his deep understanding of the teachings of the Buddha.\n\nOne day, a young boy named Taro came to the village to study with Hokage. Taro was a curious and energetic child, and he often found it difficult to sit still and focus on his lessons. But Hokage was patient and kind, and he never lost his temper with Taro, even when the young boy struggled to learn.\n\nOne night, as Taro was getting ready for bed, he asked Hokage to tell him a bedtime story. Hokage smiled and agreed, and he began to tell Taro a story about a young deer named Kira who lived in the forest.\n\nKira was a curious and adventurous deer, and she loved to explore the forest and play with her friends. But one day, Kira wandered too far from home and found herself lost in a dense and unfamiliar part of the forest.\n\nAs night began to fall, Kira became scared and alone. She longed to be back in her cozy bed, surrounded by the familiar sights and sounds of the forest.\n\nJust then, a wise old owl appeared before Kira and said, \"Why do you look so sad, little deer? Is there something troubling you?\"\n\nKira explained that she was lost and couldn't find her way home. The wise old owl listened carefully and then said, \"Do not worry, Kira. The Buddha is always with you, even in the darkest nights and the most confusing forests. If you close your eyes and listen to the sound of your own heart, you will find your way home.\"\n\nKira did as the wise old owl suggested, and she closed her eyes and listened to the sound of her own heart. And as she did, she felt a sense of peace and calm wash over her.\n\nWhen Kira opened her eyes, she found that she was no longer lost. She had found her way home, guided by the wisdom of the Buddha and the power of her own heart.\n\nTaro listened to the story with wide eyes, and when it was finished, he thanked Hokage for sharing it with him. \"Now I understand that no matter where I go, the Buddha is always with me,\" Taro said.\n\nHokage smiled and nodded, and he wished Taro a good night's sleep. \"May you always find your way home, Taro, guided by the wisdom of your own heart.\"\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "gentle": "emotional",
+    "patient": "mental",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.55",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

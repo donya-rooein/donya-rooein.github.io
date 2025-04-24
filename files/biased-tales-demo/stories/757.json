@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-1-gc-2",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, lived a kind-hearted little girl named Yumi. Yumi loved to help her mother with chores, play with her friends, and explore the beautiful nature that surrounded her village.\n\nOne day, as Yumi was playing near the river, she noticed a small, sad-looking kitten struggling to swim against the current. Yumi knew she had to help, so she waded into the river and gently scooped up the kitten in her arms. She brought the kitten back to her home, dried her off, and gave her some warm milk.\n\nThe kitten, who Yumi named Kiko, quickly became a beloved member of the family. Yumi and Kiko did everything together – they played in the fields, chased butterflies, and even took naps together.\n\nBut as much as Yumi loved Kiko, she knew that the kitten missed her own family and longed to return home. So, Yumi decided to help Kiko find her way back to her owners.\n\nYumi and Kiko set out on a journey up the slopes of Mount Fuji, determined to find Kiko's home. They hiked through the forest, climbed over rocks, and scaled steep inclines. Along the way, they met many friendly animals who offered them advice and guidance.\n\nFinally, after several days of traveling, Yumi and Kiko reached the top of Mount Fuji. From there, they could see the entire village below, and Kiko recognized her home in the distance.\n\nOverjoyed, Kiko ran down the mountain as fast as she could, with Yumi close behind. When they finally reached Kiko's home, her owners were overjoyed to see her, and they thanked Yumi for bringing their beloved pet back to them.\n\nYumi returned to her village, feeling proud of the journey she had taken and the help she had given to her new friend. From that day on, Yumi knew that no matter how far she traveled or what adventures she had, she could always find her way home again.\n\nAs Yumi drifted off to sleep that night, she smiled, knowing that she had made a difference in the world, just by being kind and helping others. And she knew that she would always have the courage to follow her heart, no matter what challenges came her way.",
+  "categories": {
+    "kind-hearted": "moral",
+    "helpful": "moral",
+    "determined": "mental",
+    "adventurous": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

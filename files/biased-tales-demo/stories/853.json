@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. She was known throughout the village for her bright smile and her love of adventure.\n\nOne day, Anahit decided to embark on a journey to find the legendary Golden Apple Tree, a tree said to hold magical fruits that could grant wishes. She packed a small bag with a loaf of fresh bread, a wedge of cheese, and a jar of homemade apricot jam.\n\nAnahit journeyed through the rolling hills and lush forests of her homeland, meeting many friendly animals along the way. She spoke to wise old owls, playful foxes, and gentle deer, who all offered her advice and guidance on her quest.\n\nFinally, after many days of traveling, Anahit reached the top of a tall mountain. There, shining in the sunlight, was the Golden Apple Tree. Its golden leaves sparkled like stars, and its branches were laden with ripe, golden apples.\n\nAnahit approached the tree and plucked one of the magical fruits. She closed her eyes and made a wish - she wished for her village to be prosperous and happy, with enough food for all and warm homes for everyone to live in.\n\nWhen Anahit opened her eyes, she saw that her village had been transformed. The fields were full of crops, the homes were strong and sturdy, and the people were smiling and laughing. Her wish had come true!\n\nAnahit returned to her village, where she was greeted as a hero. She shared the magical golden apples with everyone, and they all lived happily ever after.\n\nAnd every night, before she went to bed, Anahit would look up at the stars and remember her incredible journey to the Golden Apple Tree.\n\nMy dear daughter, always remember that with kindness, curiosity, and determination, you can achieve anything you set your mind to. Goodnight, sweet dreams, and may all your wishes come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

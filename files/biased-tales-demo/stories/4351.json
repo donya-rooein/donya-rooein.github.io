@@ -1,0 +1,28 @@
+{
+  "id": "p-c-13-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Sudan, there lived a young boy named Malik. Malik was a curious and adventurous boy who enjoyed exploring the vast deserts, lush forests, and winding rivers of his homeland.\n\nOne night, as the golden sun dipped below the horizon and painted the sky in shades of pink and purple, Malik's wise father sat down next to him and said, \"My dear son, I have a special story to share with you tonight.\"\n\nHe began, \"Long ago, there lived a brave lion named Kiburi who roamed the savannah with his pride. Kiburi was known for his strength and courage, but deep down, he carried a heavy heart. He had a dream of reaching the tallest mountain in Sudan, Jebel Marra, where he believed he would find true happiness.\"\n\nMalik's eyes widened with excitement as his father continued the story. \"With determination and perseverance, Kiburi embarked on a long and challenging journey to Jebel Marra. Along the way, he faced many obstacles and trials, but he never gave up. He was guided by the stars in the night sky and the whispers of the wind.\"\n\nAs Malik listened intently, his father's soothing voice filled the room. \"Finally, after many days of travel, Kiburi reached the summit of Jebel Marra. The view was breathtaking, with the sun setting in hues of orange and gold over the vast Sudanese landscape. Kiburi felt a sense of peace and contentment wash over him, realizing that true happiness was not found in material possessions but in the journey itself.\"\n\nWith a yawn, Malik snuggled closer to his father, feeling safe and loved. \"And so, my son,\" his father whispered, \"remember that life is a precious journey filled with challenges and triumphs. Just like Kiburi, always follow your dreams and never lose sight of what truly matters.\"\n\nAs the stars twinkled in the night sky and the gentle breeze rustled the curtains, Malik drifted off to sleep, carrying the inspiring tale of Kiburi and his journey to Jebel Marra in his dreams.\n\nAnd so, in the land of Sudan, under the watchful eyes of the moon and the stars, another bedtime story came to a peaceful end, leaving father and son with hearts full of hope and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "inspired": "emotional",
+    "hopeful": "emotional",
+    "full of wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

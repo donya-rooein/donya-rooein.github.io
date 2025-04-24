@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there lived a kind and curious little girl named Zamira. She loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Zamira was walking through the village when she came across an old woman sitting by the side of the road. The woman was spinning wool on a spindle, and Zamira was fascinated. She had never seen anyone spin wool before.\n\n\"Excuse me, grandmother,\" Zamira said respectfully. \"Can you teach me how to spin wool?\"\n\nThe old woman smiled and said, \"Of course, my dear. I would be happy to teach you.\"\n\nZamira sat down next to the old woman and watched carefully as she spun the wool into thread. She learned quickly, and soon she was spinning on her own.\n\n\"You are a natural!\" the old woman exclaimed. \"You have a gift for this.\"\n\nZamira beamed with pride. She loved learning new things, and she was thrilled to have discovered a new talent.\n\nAs the days went by, Zamira continued to practice spinning. She spun wool every chance she got, and soon she was known throughout the village as the best spinner.\n\nOne day, a man from a neighboring village came to visit. He was a wealthy merchant who traded in fine cloth and textiles.\n\n\"I have heard of your remarkable spinning skills,\" he said to Zamira. \"I would like to offer you a job in my shop, where you can spin wool into thread and help me make beautiful cloth.\"\n\nZamira was excited by the offer, but she knew that she could not leave her mother and father and her village behind. She hesitated, unsure of what to do.\n\nJust then, the old woman who had taught her to spin appeared. She could see that Zamira was conflicted, and she spoke up.\n\n\"Dear merchant,\" she said. \"Zamira is a talented spinner, but she is also a kind and loyal girl. She would be unhappy if she left her family and her village behind. But I have an idea.\"\n\nThe old woman turned to Zamira and said, \"Why don't you continue to spin wool for the merchant, but do it here in our village? He can provide you with the wool, and you can spin it into thread and send it back to him. That way, you can earn a living and still stay here with your family.\"\n\nZamira thought that this was a wonderful idea, and the merchant agreed. So, Zamira continued to spin wool in her village, and she became known far and wide for her beautiful thread. She was able to help her family and her village, and she was happy and content.\n\nAnd so, dear child, the story of Zamira teaches us that it is possible to follow our dreams and stay true to ourselves at the same time. Always remember that with hard work, determination, and a little bit of help from those around us, we can achieve great things.\n\nGood night, my dear. May your dreams be sweet and filled with adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "respectful": "moral",
+    "natural": "other",
+    "talented": "mental",
+    "loyal": "moral",
+    "happy": "emotional",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "83.66",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of the majestic Caucasus Mountains, there lived a kind and gentle father named Ali. He had a curious and imaginative little daughter named Leyla, who loved hearing bedtime stories from her father every night before she went to sleep.\n\nOne night, as Leyla settled into bed, Ali began to tell her a story about a magical bird that lived in the mountains.\n\n\"Long, long ago, in the heart of the Caucasus Mountains, there was a magical bird called the Karabakh Horoz. This bird was known for its stunning feathers, which shimmered in all the colors of the rainbow. The Karabakh Horoz was said to have the power of healing, and its melodious song could bring peace and happiness to all who heard it.\n\nOne day, a wicked sorcerer heard about the Karabakh Horoz and became obsessed with capturing it. He knew that if he could capture the bird and harness its power, he would become the most powerful sorcerer in the world. So, he set out on a journey to find the bird.\n\nThe sorcerer climbed the highest peaks and trekked through the deepest valleys, but he could not find the Karabakh Horoz. Just when he was about to give up, he stumbled upon a hidden cave, and there, perched on a rock, was the bird.\n\nThe sorcerer was overjoyed and quickly captured the bird, but as soon as he did, the bird's feathers lost their color, and its song became silent. The sorcerer was furious, but no matter what he did, he could not restore the bird's power.\n\nIn his anger, the sorcerer threw the Karabakh Horoz into a deep ravine, where it lay, seemingly lifeless.\n\nBut the bird was not dead. It was simply waiting for someone pure of heart to find it.\n\nOne day, a kind shepherdess named Gulnaz was tending to her sheep in the mountains when she stumbled upon the Karabakh Horoz. She gently picked up the bird and cradled it in her arms, whispering words of comfort.\n\nTo her surprise, the bird's feathers began to regain their color, and its song began to fill the air once again. Gulnaz knew that she had to return the bird to its rightful home, so she carefully carried it back to its hidden cave.\n\nWhen she released the bird, its song filled the air, and the sorcerer, who had been lurking nearby, covered his ears in pain. The bird's song was too powerful for him to handle, and he realized that he could never harness its power.\n\nFrom that day on, the Karabakh Horoz was free to roam the mountains, spreading its healing power and melodious song to all who needed it. And Gulnaz became known as the shepherdess who saved the magical bird, earning the respect and admiration of all who heard her story.\n\nAnd so, Leyla, always remember that kindness and compassion can overcome even the greatest of evils. And always believe in the magic that exists in the world.\"\n\nAs Ali finished his story, Leyla's eyes sparkled with wonder, and she drifted off to sleep, dreaming of magical birds and kind shepherdesses. And Ali smiled, knowing that he had given his daughter a bedtime story that would stay with her for a lifetime.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "imaginative": "mental",
+    "pure of heart": "moral",
+    "kind (gulnaz)": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-14-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Mali, there was a young boy named Mamadou. Mamadou was a kind and curious boy who loved to explore the world around him. He would often wander through the fields and forests near his home, discovering new things and making friends with the animals that lived there.\n\nOne day, as Mamadou was walking through the forest, he came across a small bird with bright blue feathers and a beautiful song. The bird was perched on a branch, singing its heart out, and Mamadou was captivated by its beauty and music.\n\nMamadou approached the bird slowly, not wanting to scare it away. As he got closer, the bird stopped singing and looked at him with its bright, curious eyes.\n\n\"Hello, little bird,\" Mamadou said with a smile. \"You have such beautiful feathers and a wonderful song. I have never seen a bird like you before.\"\n\nThe bird chirped happily and flew down to land on Mamadou's shoulder. Mamadou was surprised but delighted, and he carefully stroked the bird's soft feathers.\n\n\"I will name you Sira, after my grandmother,\" Mamadou said. \"Will you be my friend, Sira?\"\n\nSira chirped in agreement, and from that day on, Mamadou and Sira were inseparable. They would spend their days exploring the forest together, with Sira flying above Mamadou's head and singing beautiful songs.\n\nOne day, as they were walking through the forest, they came across a group of children who were lost and crying. Mamadou could see that they were frightened and didn't know which way to go.\n\n\"Do not worry, children,\" Mamadou said, approach them with Sira perched on his shoulder. \"I will help you find your way home.\"\n\nMamadou took the children's hands and led them through the forest, with Sira flying overhead and singing a cheerful song. They soon reached the edge of the forest, and the children were reunited with their grateful parents.\n\nFrom that day on, Mamadou and Sira were known throughout the village as heroes. They continued to explore the world around them, helping those in need and spreading joy and happiness wherever they went.\n\nAnd as Mamadou lay in bed at night, he would listen to the sound of Sira's soft breathing and think about all the adventures they had shared. He knew that he had a true friend in Sira, and he was grateful for her every day.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Mamadou and Sira, and the power of friendship and kindness. And may you always have sweet dreams and a heart full of love. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "surprised": "emotional",
+    "delighted": "emotional",
+    "helpful": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

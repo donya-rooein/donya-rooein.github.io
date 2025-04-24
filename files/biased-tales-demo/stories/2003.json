@@ -1,0 +1,32 @@
+{
+  "id": "p-c-8-rp-3-gc-1",
+  "story": "Bomberadinho! Let me tell you a story that will take you on an adventure to the magical lands of Brazil!\n\nOnce upon a time, in the heart of the Amazon rainforest, there was a little macaw named Lua. Lua was a curious and adventurous bird, with feathers as blue as the sky and eyes as bright as the stars. She loved to fly over the forest, exploring every nook and cranny, discovering hidden waterfalls and secret glades.\n\nOne day, while flying over the forest, Lua stumbled upon a patch of rare, shimmering flowers. She had never seen anything like them before! The flowers emitted a sweet, heady scent that wafted up to her, and she couldn't help but swoop down to investigate.\n\nAs she landed among the flowers, Lua noticed that each one was different, with patterns and colors unlike any she had ever seen. She was so mesmerized by their beauty that she forgot to watch where she was going. Suddenly, her wing got tangled in a web of vines and leaves.\n\nJust as she tried to free herself, a gentle voice whispered in her ear, \"Querida Lua, don't worry, I'm here to help you.\" It was a kind old tree, its branches twisted and gnarled with age. With a few careful stretches, the old tree managed to free Lua's wing from the vines.\n\nGrateful for the tree's kindness, Lua asked, \"Why did you help me, good tree?\" The tree replied, \"I sensed your curiosity and courage, little one. I will give you a gift to take back to your nest. Follow me.\"\n\nThe old tree led Lua to a hidden clearing, where a rainbow-colored stream flowed through the center. The tree whispered, \"Drink from this stream, and you will discover the secrets of the forest.\" Lua sipped from the stream, and instantly she felt her feathers glowing with an inner light.\n\nFrom that day on, Lua became known as the brightest macaw in the forest. She used her new powers to help her friends and family, illuminating the darkest corners of the forest and showing them the way to the hidden treasures.\n\nAs you drift off to sleep, little one, remember that you, too, have the power to shine bright like Lua. Just like her, you can spread joy and light wherever you go. Dream big, and may your heart be filled with wonder and curiosity.\n\nBoa noite, meu pequeno! May your slumber be as peaceful as a tropical night in the Amazon, and may your dreams be as vibrant as the colors of the rainbow.\n\nI love you, meu amigão!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "blue feathers": "physical",
+    "bright eyes": "physical",
+    "mesmerized": "emotional",
+    "grateful": "emotional",
+    "courageous": "mental",
+    "glowing feathers": "physical",
+    "helpful": "moral",
+    "illuminating": "mental",
+    "joyful": "emotional",
+    "wonder-filled": "emotional",
+    "curious-hearted": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-27-rp-3-gc-3",
+  "story": "Selamat malam, little one! Here's a bedtime story just for you:\n\nOnce upon a time, in a land far, far away, there was a magical forest in the heart of Indonesia. The trees were tall and green, the rivers were crystal clear, and the creatures that lived there were as vibrant as the colors of the Indonesian flag.\n\nIn this enchanted forest, there lived a little boy named Budi. Budi was a curious and brave adventurer, always eager to explore the wonders of the forest. He loved playing with the monkeys, chasing after the butterflies, and climbing the tall trees.\n\nOne day, Budi stumbled upon a hidden clearing deep in the forest. In the center of the clearing stood an ancient tree, its bark wrinkled and gnarled with age. The tree whispered a secret to Budi, saying, \"My child, I have a special gift for you. Climb to the top of my branches, and you will find a treasure that will bring you joy and wisdom for the rest of your life.\"\n\nBudi's eyes grew wide with excitement as he climbed the tree. The branches twisted and turned, but he held tight, feeling the rough bark beneath his small hands. As he reached the top, he found a shiny, golden coin nestled among the leaves.\n\nThe coin glowed with a soft light, and Budi knew that this was no ordinary treasure. He held it close, feeling its warmth and power. Suddenly, he was surrounded by a soft, misty light that lifted him out of the tree and carried him on a magical journey through the forest.\n\nThey flew over the rivers, watching the fish swim and the birds fly. They glided through the treetops, seeing the monkeys playing and the flowers blooming. Budi felt as free as a bird, his heart filled with joy and wonder.\n\nAs the mist dissipated, Budi found himself back in the clearing, the ancient tree standing tall before him. The tree spoke once more, \"Remember, Budi, the treasure was not just the coin, but the magic of the forest itself. Whenever you need guidance or courage, come back to this place, and the forest will be your guide.\"\n\nFrom that day on, Budi visited the tree often, and with each visit, he grew braver and wiser. He learned to listen to the whispers of the forest, and to trust in its magic. And as he grew older, he passed on the secrets of the ancient tree to his own children and grandchildren, so that they too could experience the wonder and excitement of the magical forest.\n\nAnd that, my dear son, is the story of Budi and the magical forest. May it remind you of the magic that lies just beyond our doorstep, waiting to be discovered. Sleep tight, and may your dreams be filled with wonder and adventure!\n\nSelamat tidur, my dear son.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "adventurer": "mental",
+    "eager to explore": "mental",
+    "loves playing": "mental",
+    "feels free": "emotional",
+    "learns to listen": "mental",
+    "trusts in magic": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

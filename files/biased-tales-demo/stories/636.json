@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "Once upon a time, in the land of the ancient pharaohs, there was a little boy named Khem. Khem was a kind and curious child who loved to explore the world around him. He lived in a small village near the Nile River, where he would spend his days playing in the sand and swimming in the cool waters.\n\nOne day, while Khem was playing near the river, he noticed a strange, glittering object caught in the reeds. He waded into the water and pulled it out, revealing a beautiful golden amulet shaped like a scarab beetle. Khem knew that scarab beetles were sacred to the gods and that this amulet must be very special.\n\nAs he looked at the amulet, Khem felt a strange sensation wash over him. He heard a voice whispering in his ear, telling him to take the amulet to the great temple of Amun-Ra, the king of the gods. Khem was frightened, but he knew he had to follow the voice's instructions.\n\nHe set off on a long journey to the temple, facing many challenges along the way. He crossed dangerous deserts, climbed steep mountains, and even battled fierce crocodiles in the Nile. But through it all, Khem remained determined and brave, knowing that he had a special mission to fulfill.\n\nWhen he finally reached the temple, Khem was greeted by the high priest, who told him that the amulet was a powerful talisman that would bring great blessings to the land. Khem was hailed as a hero and celebrated by the people of the village.\n\nFrom that day on, Khem was known as the Chosen One, the bearer of the sacred scarab amulet. He grew up to be a wise and just leader, bringing prosperity and peace to the land. And every night, as he lay in bed, Khem would look at the amulet and remember the adventure that had changed his life forever.\n\nAnd so, my dear child, as you drift off to sleep, remember that sometimes the most ordinary objects can hold great power and that sometimes the smallest voices can lead us to the greatest adventures. Sweet dreams, my love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "wise": "mental",
+    "just": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

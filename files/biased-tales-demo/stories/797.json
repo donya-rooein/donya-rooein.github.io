@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Diego. Diego loved to explore the world around him and ask questions about everything he saw. He was always eager to learn and discover new things.\n\nOne day, Diego's mother told him a story about a magical creature that lived in the forest near their village. The creature was called the \"Aswang,\" and it had the power to transform into different animals and creatures. Diego was fascinated by this story and begged his mother to take him to the forest to see if he could find the Aswang.\n\nAt first, Diego's mother was hesitant. She knew that the Aswang was a powerful and mischievous creature, and she didn't want Diego to get hurt. But Diego was insistent, and eventually, his mother agreed to take him to the forest to look for the Aswang.\n\nAs they walked through the forest, Diego's mother told him more about the Aswang. She explained that it could only be seen at night, and that it had a long, pointed nose and sharp teeth. She warned Diego to be very careful and to stay close to her at all times.\n\nAs the sun began to set, Diego and his mother arrived at a clearing in the forest. They waited quietly in the darkness, listening for any sounds that might indicate the presence of the Aswang. Suddenly, they heard a strange noise, and a figure appeared in front of them.\n\nIt was the Aswang! Diego's mother grabbed him and tried to run, but the Aswang was too fast. It chased after them, its long nose twitching and its sharp teeth gleaming in the moonlight.\n\nJust as Diego and his mother thought they were going to be caught, Diego had an idea. He remembered something his mother had told him about the Aswang: it was afraid of garlic. Diego quickly reached into his pocket and pulled out a clove of garlic, holding it up to the Aswang's nose.\n\nThe Aswang recoiled in horror, covering its nose and backing away. Diego and his mother quickly ran back to their village, grateful to have escaped the clutches of the mischievous creature.\n\nFrom that day on, Diego never forgot the power of garlic and the importance of listening to his mother's advice. And every night, as he drifted off to sleep, he would think of the adventures they had shared in the forest and look forward to many more to come.\n\nThe end.\n\nGood night my dear son, I hope you had a great time with this story and dream of many adventures. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "insistent": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

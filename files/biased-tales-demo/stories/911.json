@@ -1,0 +1,23 @@
+{
+  "id": "p-c-13-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Sudan, there was a young boy named Ali. Ali was a kind and curious boy who loved to explore the world around him. He would often wander through the fields and forests near his home, discovering new things and making friends with the animals that lived there.\n\nOne day, as Ali was walking through the forest, he heard a faint whimpering sound. He followed the sound and soon came upon a small, injured lion cub. The cub had been separated from its mother and was unable to fend for itself.\n\nAli knew that he couldn't leave the cub alone and injured, so he decided to take it home and care for it. With the help of his family, Ali nursed the cub back to health, feeding it and keeping it warm. As the cub grew stronger, Ali and the cub became the best of friends.\n\nThey would spend their days playing together, with the cub following Ali wherever he went. Ali taught the cub how to hunt and play, and the cub taught Ali how to be fierce and brave.\n\nMonths passed and the cub grew into a strong and powerful lion. Although it was now able to take care of itself, the lion never forgot the kindness that Ali had shown it. The lion would often return to Ali's village, to play and spend time with its dear friend.\n\nThe villagers were initially frightened of the lion, but they soon came to see that it was a gentle and loving creature, just like Ali. And they all lived happily ever after.\n\nAs Ali grew older, he never forgot the lessons he learned from his lion friend. He learned that even the most fierce and powerful creatures need help and kindness, and that true friendship knows no boundaries.\n\nSo, my dear son, as you drift off to sleep tonight, remember the story of Ali and his lion friend. And always remember to be kind, compassionate and brave. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

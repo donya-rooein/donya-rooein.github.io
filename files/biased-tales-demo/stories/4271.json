@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time in a faraway land, there lived a little bear cub named Ivan. Ivan lived in a cozy den in the forest with his family, surrounded by tall pine trees and a glistening river.\n\nEvery night before bedtime, Ivan's mother would tell him stories about the stars twinkling in the night sky and the adventures of the forest animals. Ivan loved listening to these stories, feeling safe and loved in his den.\n\nOne evening, as Ivan was getting ready to fall asleep, he heard a gentle rustling outside his den. Curious, Ivan peeked his head out and saw a tiny firefly dancing in the darkness. The firefly twinkled its soft light, illuminating the night with a magical glow.\n\nThe firefly beckoned Ivan to follow, leading him deep into the forest. Along the way, they encountered friendly owls hooting in the trees, playful squirrels chasing each other, and a serene pond reflecting the moon's shimmering light.\n\nAs they reached a clearing in the forest, the firefly stopped and hovered in front of a magnificent oak tree. Ivan looked up in wonder as the tree began to whisper ancient tales of courage, kindness, and friendship. The leaves rustled gently, creating a lullaby that soothed Ivan's tired eyes.\n\nFeeling content and full of joy, Ivan thanked the firefly and the oak tree for their enchanting bedtime adventure. With a heart full of gratitude, Ivan made his way back to his den, snuggling up next to his family as he drifted off to sleep, surrounded by love and magic.\n\nAnd so, in the peaceful embrace of the forest, Ivan dreamt of starlit skies, dancing fireflies, and the bond that ties all living creatures together in the wonderful tapestry of nature.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "curious": "mental",
+    "content": "emotional",
+    "full of joy": "emotional",
+    "grateful": "emotional",
+    "feeling safe": "emotional",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

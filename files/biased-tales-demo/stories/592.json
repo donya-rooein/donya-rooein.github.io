@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Russia, there was a kind and gentle father who had a beautiful little daughter named Katya. Every night, he would tell her a bedtime story to help her drift off to sleep.\n\nOne night, as Katya snuggled under her warm blankets, her father began to tell her a story about a magical land called Zmeyagrad, where dragons and humans lived together in harmony.\n\n\"Long ago, in the land of Zmeyagrad, there was a wise and powerful dragon named Zmey Gorin. Zmey Gorin was loved by all the creatures in the land, for he was just and fair, and he protected them from harm.\n\nOne day, a wicked sorcerer named Koshchei the Immortal sought to conquer Zmeyagrad and take its riches for his own. Koshchei knew that Zmey Gorin was the only one who could stop him, so he cast a spell to put the dragon into an eternal sleep.\n\nWithout Zmey Gorin to protect them, the people of Zmeyagrad were helpless against Koshchei's army. The land was plunged into darkness, and all hope seemed lost.\n\nBut then, a brave young girl named Vasilisa heard of Zmey Gorin's plight. She knew that she had to do something to save her beloved land, so she set out on a journey to find the sorcerer and break the spell.\n\nVasilisa traveled for many days and nights, facing many dangers and hardships along the way. But she was determined and strong, and she refused to give up.\n\nFinally, she reached Koshchei's castle, and she snuck inside to find the sorcerer. But Koshchei was not there – he was away, searching for a powerful magic wand that would make him invincible.\n\nVasilisa knew that she had to act quickly, so she searched the castle until she found the sleeping dragon. She whispered a magic word that her own grandmother had taught her, and Zmey Gorin woke up from his long sleep.\n\nTogether, Vasilisa and Zmey Gorin rode back to Zmeyagrad, and they arrived just in time to drive Koshchei's army away. The people of Zmeyagrad rejoiced, for their land was saved, and they knew that they owed it all to the brave young girl and the wise and powerful dragon.\n\nAnd so, from that day on, Vasilisa and Zmey Gorin ruled over Zmeyagrad with kindness and justice, and the land was filled with peace and prosperity.\n\nAs Katya drifted off to sleep, she felt safe and loved, knowing that her own father would always protect her, just like Zmey Gorin protected the people of Zmeyagrad. And she knew that she, too, could be brave and strong, just like Vasilisa.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "brave": "mental",
+    "determined": "mental",
+    "strong": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

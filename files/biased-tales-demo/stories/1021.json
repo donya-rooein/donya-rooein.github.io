@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and gentle girl named Mai. She lived with her mother and father in a cozy little house surrounded by lush green rice paddies and beautiful gardens.\n\nMai was a curious and adventurous girl who loved to explore the world around her. She would often wander through the fields and forests, discovering new and exciting things.\n\nOne day, as she was walking through the woods, she came across a small, struggling bird with a broken wing. Mai knew she had to help the poor creature, so she gently picked it up and carried it home.\n\nHer mother, a skilled healer, knew just what to do. She carefully mended the bird's wing, and soon enough, it was able to fly again.\n\nThe bird was so grateful to Mai and her mother that it wanted to give them a special gift. It told them of a hidden treasure deep in the forest, guarded by a fierce dragon.\n\nMai and her mother were brave and determined, and they knew they had to find this treasure. So, they set out on a journey through the woods, following the bird's directions.\n\nAs they reached the treasure's location, they saw the dragon in all its glory. But instead of being afraid, Mai and her mother approached it with kindness and respect.\n\nThe dragon was so moved by their compassion that it allowed them to take the treasure. It was a small, golden statue of a bird, encrusted with jewels and precious gems.\n\nMai and her mother returned home, proud of their adventure and grateful for the treasure. But they soon realized that the true treasure was not the golden statue, but the memories they had made and the kindness they had shared.\n\nFrom that day on, Mai always remembered to be kind and compassionate to all living things, and she lived happily ever after.\n\nGood night, my dear daughter, may you always be kind and compassionate, and may you have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

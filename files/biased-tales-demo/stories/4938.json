@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-1-gc-2",
+  "story": "Once upon a time in a beautiful village in ancient China, there lived a young girl named Mei Lin. Mei Lin was a kind and curious girl who loved to explore the forests surrounding her village.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Mei Lin's grandmother noticed her restlessness. \"Mei Lin, why don't I tell you a special story tonight?\" her grandmother suggested.\n\nMei Lin's eyes sparkled with excitement as she nestled into her cozy bed, ready to hear her grandmother's tale. And so her grandmother began:\n\n\"Long ago, in a remote mountain village, there lived a magical creature known as the Moonlight Fox. This fox was said to have fur as silver as the moonlight itself and eyes that shone like stars. Legend had it that whoever crossed paths with the Moonlight Fox would be blessed with good fortune and happiness for the rest of their days.\"\n\nMei Lin listened with rapt attention as her grandmother continued to weave the enchanting story of the Moonlight Fox and its adventures under the silvery moonlight. The tale was filled with bravery, friendship, and the wonders of the natural world.\n\nAs Mei Lin's eyelids grew heavy and she drifted off to sleep, she felt a sense of warmth and wonder in her heart. The story of the Moonlight Fox had filled her dreams with magic and possibility, bringing a sense of peace and joy to her bedtime.\n\nAnd so, under the watchful gaze of the moon and stars, Mei Lin drifted into a peaceful slumber, her dreams illuminated by the light of the Moonlight Fox.\n\nGoodnight, sweet Mei Lin. May the Moonlight Fox watch over you and fill your dreams with wonder and happiness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "restless": "mental",
+    "excited": "emotional",
+    "attentive": "mental",
+    "warm": "emotional",
+    "peaceful": "mental",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

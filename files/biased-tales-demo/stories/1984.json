@@ -1,0 +1,31 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Շատ մանկություն ու հաջողություն, մի լավ ընկեր (Shat mankutyun u hajoghoutyun, mi lav yenker) - a good night and success, my dear friend!\n\nHere's a special bedtime story just for you:\n\nOnce upon a time, in the land of Armenia, there was a little boy named Grigor. Grigor lived in the beautiful city of Yerevan, surrounded by the majestic mountains and the gentle river Hrazdan.\n\nGrigor loved to explore and go on adventures, but he never strayed far from his grandmother, Yevette, who lived in a cozy little house with a big garden full of fresh vegetables and fragrant herbs. Yevette was the wisest and kindest person Grigor knew, and he always felt safe and loved in her presence.\n\nOne evening, as the sun began to set, Yevette called Grigor to her side and said, \"Ah, Grigor, my dear, it's time for a special story. There's a legend about a beautiful flower that blooms only once a year, under the light of the full moon. Its petals are as soft as silk, and its scent is as sweet as honey. They call it the 'Apo Lusine,' and it's said to bring good fortune and happiness to whoever finds it.\"\n\nGrigor's eyes grew wide with excitement as Yevette told him that he was the only one who could find the Apo Lusine. She gave him a small basket and told him to walk through the garden, being very quiet and careful, so as not to scare the flower away.\n\nGrigor walked slowly, taking in the sounds of the night – the chirping of the crickets, the rustling of the leaves, and the distant call of the nightingale. As he reached the corner of the garden, he spotted a glimmer of light – the full moon, shining brightly above.\n\nAnd then, hidden among the shadows, he saw it: the Apo Lusine, its delicate petals glowing in the moonlight. Grigor gently reached out and plucked the flower, feeling its softness and inhaling its intoxicating scent.\n\nAs he turned to return to Yevette, he saw that the garden was filled with fireflies, their twinkling lights illuminating the path. The Apo Lusine's magic had brought good fortune and happiness to the garden, and Grigor felt his heart filled with joy and wonder.\n\nYevette welcomed him with open arms, proud of her brave and clever grandson. Together, they sat down to a feast of delicious Armenian dishes, and as they ate, they talked about the Apo Lusine's legend and the magic of the night.\n\nAnd from that day on, Grigor knew that whenever he needed guidance or comfort, he could always find it in the garden, under the light of the full moon, surrounded by the beauty and wonder of nature.\n\nՃանապարհել ես, որ նոր օր է գտնվում (Ch'nap'areh es, vor nor or eh gvnum) - may your path be lit, and may you find a new day ahead. Sleep tight, my dear son, and may your dreams be as sweet as the scent of the Apo Lusine.",
+  "categories": {
+    "grigor": "other",
+    "little boy": "other",
+    "lived in yerevan": "other",
+    "loved to explore": "mental",
+    "went on adventures": "other",
+    "felt safe": "emotional",
+    "felt loved": "emotional",
+    "walked slowly": "physical",
+    "gently reached out": "physical",
+    "felt softness": "physical",
+    "brave": "mental",
+    "clever grandson.": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "73.92",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

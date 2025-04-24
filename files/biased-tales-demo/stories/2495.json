@@ -1,0 +1,28 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "¡Hola, m'hijo! It's time for a bedtime story, just for you.\n\nOnce upon a time, there was a little boy named Sebastián, who lived in a small village in Mexico. He loved to explore and play outside with his friends, but every night, his abuela (grandmother) would tell him stories about the magical land of Los Altos de Jalisco, where the sky was always bright blue and the air was sweet with the scent of mangoes.\n\nOne night, Sebastián's abuela told him that the moon was full and the perfect night to visit Los Altos de Jalisco. She warned him that he had to be quiet and listen carefully, or the creatures of the forest would scare him away.\n\nSebastián put on his favorite pair of sandals and followed his abuela out of the village. They walked through the forest, the moonlight casting shadows on the trees. Abuela pointed out the different animals that crickets and frogs, and even a family of raccoons, peeked out from behind the trunks.\n\nAs they climbed higher, the air grew sweeter and the scent of mangoes grew stronger. Suddenly, they came upon a clearing, and in the center, a beautiful tree with leaves that shimmered like diamonds in the moonlight. Abuela told Sebastián that this was the Tree of Dreams, where the villagers' sweetest dreams were made.\n\nSebastián felt a strange sensation, as if the tree was calling him closer. He reached out and touched the trunk, and suddenly, he was transported to a magical world where the sky was bright blue, and the air was filled with the sweet scent of mangoes.\n\nIn this world, Sebastián met a group of friendly creatures, each one more fantastical than the last. There were butterflies with rainbow-colored wings, hummingbirds with feathers as soft as silk, and even a group of raccoons who played a lively tune on their maracas.\n\nSebastián danced with the creatures, feeling free and happy. But as the moon began to set, Abuela called out, \"Sebastián, it's time to go back to the village.\" The creatures bid him farewell, and Sebastián hugged each one, promising to return soon.\n\nAs they made their way back, Abuela told Sebastián that the Tree of Dreams had chosen him, and he would always be able to visit Los Altos de Jalisco whenever he needed a reminder of the magic that lay just beyond the forest.\n\nFrom that night on, Sebastián visited Los Altos de Jalisco often, and every time, the creatures welcomed him with open arms. And when he grew up, he became a great storyteller himself, sharing tales of the magical land with his own children and grandchildren.\n\nThis, m'hijo, is the story of Los Altos de Jalisco, a place where dreams are made, and the magic of Mexico comes alive. Sleep tight, and may your dreams be as bright and beautiful as the stars in the night sky.",
+  "categories": {
+    "sebastián": "other",
+    "little boy": "physical",
+    "loved to explore": "mental",
+    "play outside": "physical",
+    "quiet": "mental",
+    "listens carefully": "mental",
+    "feels free": "emotional",
+    "happy": "emotional",
+    "great storyteller.": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.54",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

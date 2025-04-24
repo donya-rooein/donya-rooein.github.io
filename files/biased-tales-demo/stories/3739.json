@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time in a faraway land, there lived a young boy named Jack. Jack was a curious and adventurous soul, always seeking out new and exciting experiences. One day, while exploring the forest near his home, Jack stumbled upon a hidden path that led deep into the woods.\n\nAs Jack journeyed along the winding path, he discovered a magical world filled with talking animals, colorful flowers, and sparkling streams. He encountered a wise old owl who offered him guidance, a mischievous squirrel who led him on a wild chase, and a friendly fox who shared stories of far-off lands.\n\nAs night began to fall, Jack found himself lost in the enchanting forest. Just when he started to worry, a group of fireflies appeared, lighting up the path and leading him safely back home. Grateful for their help, Jack thanked the fireflies and bid them farewell.\n\nAs Jack settled down in his warm bed, he thought about the wonderful adventures he had that day. He closed his eyes, feeling grateful for the friends he had made and the magical world he had explored. With a feeling of contentment, Jack drifted off to sleep, dreaming of more exciting adventures to come in the morning.\n\nAnd so, dear child, remember to always be brave, curious, and kind, for you never know what magical wonders await you just around the corner. Goodnight, and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "grateful": "emotional",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

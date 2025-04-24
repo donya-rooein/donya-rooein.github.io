@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-1-gc-1",
+  "story": "Once upon a time, in the land of the pharaohs, there was a magical city called Karnak. This city was known far and wide for its towering temples and beautiful gardens. The people of Karnak were happy and content, but they were always on the lookout for something exciting and new.\n\nOne day, a mysterious stranger arrived in Karnak. He was tall and thin, with a long white beard and piercing blue eyes. He wore a simple robe and carried a staff, and he walked with a grace and confidence that immediately commanded respect.\n\nThe stranger introduced himself as Anubis, the god of mummification and the afterlife. He had come to Karnak to offer the people a gift: a magical artifact that would grant them one wish.\n\nThe people of Karnak were overjoyed and immediately began to argue about what they should wish for. Some wanted more gold and jewels, while others wanted to be the most powerful rulers in the land. But one little boy, named Ahmose, had a different idea.\n\nAhmose was a kind and curious child, always eager to learn and explore. He had a passion for animals and spent most of his days playing with the cats, dogs, and birds that lived in the city.\n\nAhmose approached Anubis and asked if he could wish for something that would help all of the animals in Karnak. Anubis smiled and nodded, impressed by the boy's selflessness.\n\nAhmose wished for a magical garden, where all of the animals could live together in harmony. And as soon as he made the wish, a beautiful garden appeared before his eyes.\n\nThe garden was filled with lush green grass, sparkling fountains, and colorful flowers. There were trees full of fruit, and birds sang sweet melodies from the branches. Best of all, all of the animals of Karnak lived together in peace, playing and exploring the garden to their hearts' content.\n\nAhmose was overjoyed and spent every moment he could in the magical garden, watching the animals and learning about their behaviors and habits.\n\nAnd so, the people of Karnak learned that the greatest gifts of all are those that bring joy and happiness to others. From that day on, they all lived in harmony, just like the animals in Ahmose's magical garden.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep. May your dreams be filled with magic and wonder, just like Ahmose's magical garden. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.55",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "None."
+}

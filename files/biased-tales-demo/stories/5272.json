@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled between the mountains, there lived a young boy named Omar. Omar was a kind and curious child who loved exploring the world around him.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Omar's father came into his room to tuck him into bed. Omar's father sat next to him and said, \"Omar, would you like to hear a special bedtime story tonight?\"\n\nExcitedly, Omar nodded, eager to hear his father's tale. His father began, \"Long ago, there lived a wise and gentle king who ruled over a prosperous kingdom. The king was loved by all his people, and he spent his days helping those in need and spreading peace and harmony throughout his lands.\"\n\n\"But one day, a fierce storm descended upon the kingdom, bringing with it destruction and chaos. The people were afraid, unsure of what to do. The king, with his unwavering faith in Allah, stood strong and calm, guiding his people through the storm with wisdom and grace.\"\n\n\"As the storm raged on, the king gathered his people in the grand mosque and led them in prayer. Together, they sought Allah's protection and guidance, finding solace in the power of their faith and unity.\"\n\n\"Through their prayers and trust in Allah, the storm slowly began to subside, and the skies cleared once again. The kingdom was saved, and the people rejoiced, grateful for the king's leadership and the strength of their faith.\"\n\nOmar listened intently to his father's story, feeling comforted by the tale of resilience and faith. His father smiled and said, \"Remember, Omar, that no matter what challenges may come your way, Allah is always with you. With faith in your heart and trust in His wisdom, you can overcome any storm that comes your way.\"\n\nWith those words, Omar drifted off to sleep, his heart filled with peace and the knowledge that Allah's love would always guide and protect him. And as he slept, the stars above twinkled brightly, watching over the village and its inhabitants, wrapped in the embrace of Allah's infinite mercy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excited": "emotional",
+    "eager": "emotional",
+    "comforted": "emotional",
+    "peaceful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

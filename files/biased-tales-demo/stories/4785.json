@@ -1,0 +1,25 @@
+{
+  "id": "p-c-6-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of Armenia, there lived a young girl named Anna. Anna had long black hair that shimmered like the night sky filled with stars, and her eyes sparkled with kindness and curiosity.\n\nEvery evening, before she went to bed, Anna's grandmother would tell her stories about their ancestors, the brave warriors who defended their land with courage and strength. These stories filled Anna's heart with pride for her heritage.\n\nOne night, as Anna lay in her cozy bed, she heard a gentle whisper coming from the window. She peeked outside and saw a magical fairy floating in the moonlit sky. The fairy's wings glowed with a radiant light, and her voice sounded like the sweetest melody.\n\nThe fairy introduced herself as Lilit, the protector of dreams in Armenia. She told Anna that she had been chosen to embark on a special journey to discover the hidden wonders of their ancient land.\n\nExcited and curious, Anna followed Lilit as they flew over snow-capped mountains, lush forests, and fields of wildflowers. Along the way, they met mystical creatures like the talking fox of the forests and the wise owl of the mountains, who shared their wisdom with Anna.\n\nAs the night passed, Anna felt her heart filling with love for her homeland and a deep connection to its rich history and culture. Lilit explained that the strength and spirit of their ancestors lived on in every Armenian heart, guiding them to embrace their identity with pride and honor.\n\nFinally, as the first light of dawn touched the horizon, Lilit gently bid Anna farewell, promising to watch over her dreams and protect her always. Anna closed her eyes with a contented smile, the memories of her magical journey filling her with warmth and joy.\n\nAnd so, dear parent, as Anna drifted off to sleep, she knew that she was not just a little girl from Armenia – she was a descendant of heroes, a guardian of traditions, and a bearer of dreams that would illuminate the world with hope and light.\n\nGoodnight, sweet child. Dream of the wonders of your homeland, for there is magic in your every heartbeat.",
+  "categories": {
+    "young": "physical",
+    "long black hair": "physical",
+    "excited": "emotional",
+    "curious": "mental",
+    "contented smile": "physical",
+    "bearer of dreams": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.99",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

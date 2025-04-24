@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-3-gc-3",
+  "story": "Once upon a time, in a far-off kingdom, there lived a courageous young knight named Sir Oliver. Sir Oliver had a heart as brave as a lion and a spirit as gentle as a dove.\n\nOne sunny morning, Sir Oliver set off on a grand adventure through the enchanted forest. Along the way, he met a wise old owl who offered him valuable advice on his quest. The owl told Sir Oliver that the most important thing in life is to always be kind and help those in need.\n\nAs Sir Oliver journeyed further into the forest, he stumbled upon a magical meadow filled with colorful flowers and playful creatures. There, he met a mischievous squirrel who challenged him to a contest of skill and agility. With a twinkle in his eye, Sir Oliver accepted the challenge and showed the squirrel that success comes not from strength alone, but also from cleverness and perseverance.\n\nAs the day turned into night, Sir Oliver found himself at the edge of a dark and mysterious cave. Despite his fear, he summoned his courage and ventured inside, where he discovered a lost baby dragon crying for its mother. Without hesitation, Sir Oliver comforted the dragon and led it safely back to its family, earning the gratitude of the dragon clan and the admiration of all who knew of his bravery.\n\nAnd so, under the twinkling stars and the watchful eyes of the moon, Sir Oliver returned home, his heart full of wonder and his mind filled with the lessons he had learned. As he drifted off to sleep, he knew that no matter how big the challenges may be, he would always face them with kindness, courage, and a sense of adventure.\n\nAnd as your eyes grow heavy, my dear son, remember the tale of Sir Oliver, for it is a reminder that within each of us lies the potential for great deeds and noble acts. Dream sweet dreams, my child, and know that you are loved beyond measure. Goodnight.",
+  "categories": {
+    "courageous": "mental",
+    "brave": "mental",
+    "gentle": "emotional",
+    "kind": "moral",
+    "clever": "mental",
+    "perseverant": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "74.12",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the heart of Germany, there lived a kind and curious little girl named Emma. Emma loved to explore the world around her, and she was always eager to learn new things.\n\nOne day, Emma discovered a hidden path in the forest that she had never seen before. She followed the path, and it led her to a beautiful meadow filled with wildflowers. In the center of the meadow, she saw a tiny cottage that seemed to be inhabited by a group of friendly animals.\n\nThere was a rabbit named Rosa, a squirrel named Felix, and a bird named Lola. They welcomed Emma with open arms and invited her to join them for a picnic in the meadow. Emma was overjoyed and happily accepted their invitation.\n\nAs they ate and played together, Emma learned that the animals were in need of her help. You see, a wicked witch had cast a spell on the meadow, and it was slowly losing its magic and beauty. The animals were losing their homes and their friends, and they were running out of time to break the spell.\n\nEmma knew she had to do something to help, so she asked the animals what they needed her to do. Rosa, Felix, and Lola told her that they needed her to find the three magical stones that would break the witch's spell.\n\nEmma agreed to help, and the animals gave her a map and some provisions for her journey. Emma set off into the forest, determined to find the magical stones and save the meadow.\n\nShe encountered many dangers along the way, but she was brave and clever, and she never gave up. After many days of searching, she finally found the three magical stones.\n\nWith the stones in hand, Emma returned to the meadow and placed them in a special circle. As she did so, the witch appeared, furious that Emma had thwarted her plans. But the power of the magical stones was too strong, and the witch was defeated.\n\nThe meadow was restored to its former beauty, and the animals rejoiced. Emma was hailed as a hero, and she felt a great sense of pride and accomplishment.\n\nBut the greatest reward of all was the friendship she had formed with Rosa, Felix, and Lola. They would always be her friends, and she would always have a special place in the meadow where she could visit them whenever she wanted.\n\nAnd so, Emma went to bed that night, her heart full of joy and gratitude. She knew that she would always have the courage to face any challenge, as long as she had her friends by her side.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "determined": "mental",
+    "brave": "mental",
+    "clever": "mental",
+    "never gave up": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

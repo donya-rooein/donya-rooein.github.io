@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-1-gc-3",
+  "story": "Once upon a time in the ancient land of Iran, there lived a young boy named Kian. Kian was brave and kind, with a heart as big as the mountains that surrounded his village. Every night before he went to bed, Kian would sit under the twinkling stars and listen to the stories his grandfather told him.\n\nOne night, as the moon shone brightly in the sky, Kian's grandfather told him a tale about a magical bird called Simorgh. The Simorgh was said to be the most beautiful and powerful bird in all the land, with feathers as bright as the sun and a song that could heal all wounds.\n\nIntrigued by the story, Kian asked his grandfather how he could find the Simorgh. His grandfather smiled and said, \"To find the Simorgh, you must embark on a journey of self-discovery and courage. Along the way, you will face many challenges, but remember, the Simorgh only reveals itself to those who are pure of heart and strong of spirit.\"\n\nExcited by the prospect of such an adventure, Kian set out the very next day. He traveled through lush forests, crossed rushing rivers, and climbed towering mountains, never once losing sight of his goal to find the mighty Simorgh.\n\nAfter many days of travel, Kian reached a beautiful valley filled with fragrant flowers and gentle streams. In the distance, he saw a magnificent bird with shimmering feathers, soaring high in the sky. It was the Simorgh, and its beauty took Kian's breath away.\n\nAs Kian approached the Simorgh, he felt a sense of peace and wonder wash over him. The bird looked at him with wise eyes and sang a melody that filled Kian's heart with joy. In that moment, Kian realized that the Simorgh had been within him all along - a symbol of his own inner strength, courage, and love.\n\nWith a heart full of gratitude, Kian returned to his village, where he shared his incredible journey with his family. From that day on, Kian lived his life with a newfound sense of purpose and confidence, knowing that the power of the Simorgh would always guide him on his path.\n\nAnd as Kian drifted off to sleep, the stars above seemed to twinkle just a little bit brighter, as if to remind him that the magic of the Simorgh would always be with him, lighting his way through the darkest of nights.\n\nAnd so, dear child, remember the story of Kian and the Simorgh, and know that within you lies the strength and courage to face any challenge that comes your way. Goodnight, sweet dreams, and may you always soar as high as the mighty Simorgh.",
+  "categories": {
+    "brave": "mental",
+    "kind": "moral",
+    "pure of heart": "moral",
+    "strong of spirit": "mental",
+    "inner strength": "mental",
+    "courage": "moral",
+    "love": "emotional",
+    "sense of purpose": "mental",
+    "confidence": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "83.80",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

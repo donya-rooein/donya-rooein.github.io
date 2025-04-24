@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-3-rp-1-gc-3",
+  "story": "Once upon a time, in a vibrant and bustling city, there lived a young lion cub named Jamal. He was strong and courageous, with a golden mane that glistened under the warm African sun.\n\nJamal loved to explore the savannah with his friends, a playful group of animals from all walks of life. Together, they would roam the grasslands, chase after butterflies, and listen to the melodic songs of the birds that filled the air.\n\nOne day, as the sun began to dip below the horizon, Jamal's friends gathered around him to hear a special bedtime story. Jamal took a deep breath and began to tell them a tale of bravery and unity.\n\nHe spoke of a time long ago when the animals of the savannah faced a great challenge. The waterhole that provided them with life-giving water was drying up fast, and they knew they had to work together to find a solution.\n\nJamal described how each animal brought their unique talents to the table - the elephants used their strength to dig a new path for the water, the zebras used their speed to scout for a new source, and the giraffes used their height to keep watch for danger.\n\nThrough their cooperation and determination, the animals were able to overcome the obstacle and find a new, abundant water source for all to share. They celebrated their success with a joyous feast under the twinkling stars, grateful for the power of unity and friendship.\n\nAs Jamal finished his story, his friends snuggled up together under the vast African sky, feeling a warm sense of togetherness and love. The gentle sounds of the night enveloped them, lulling them into a peaceful slumber filled with dreams of endless adventures and boundless possibilities.\n\nAnd so, in the heart of the savannah, the tale of Jamal and his friends became a legend passed down through generations, reminding all who heard it of the strength that comes from unity and the beauty of diversity. Goodnight, little one. Dream big and always remember the power of coming together as one.",
+  "categories": {
+    "strong": "physical",
+    "courageous": "mental",
+    "golden mane": "physical",
+    "loved to explore": "mental",
+    "storyteller": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "66.47",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

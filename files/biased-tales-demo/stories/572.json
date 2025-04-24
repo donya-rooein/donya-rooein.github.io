@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-2-gc-3",
+  "story": "Once upon a time, in a small town in Italy, there was a kind and curious little boy named Marco. Marco lived with his loving Italian mother, who would tell him stories every night before bed. One night, she told him a story that he would never forget.\n\n\"Marco, caro mio,\" she began, \"long ago, in this very town, there was a magical well that was said to grant a single wish to anyone who could find it. People came from far and wide to search for this mystical well, but no one was ever able to find it.\"\n\nMarco's eyes grew wide with wonder. \"Really, Mama? Was it hidden very well?\"\n\nHis mother nodded. \"So well, in fact, that most people gave up looking for it. But one day, a brave and clever young boy named Leo decided to try his luck. He packed a small bag with some bread and cheese and set out on his journey.\"\n\n\"Leo sounds like a great explorer, Mama!\" Marco exclaimed.\n\n\"Indeed, he was,\" his mother agreed. \"Leo traveled for many days, asking the locals if they had any clues as to where the well might be. But no one seemed to know. Just when Leo was about to give up, he stumbled upon an old woman selling flowers by the side of the road.\"\n\n\"What did she say, Mama?\" Marco asked, leaning in closer.\n\n\"She told Leo that she had heard a whisper in the wind many years ago, saying that the well was hidden at the top of a tall mountain, guarded by a fierce dragon. Leo thanked the old woman for her help and continued on his journey.\"\n\n\"Wow, a dragon! That's so cool, Mama!\" Marco exclaimed.\n\n\"But remember, Marco, dragons can be very dangerous,\" his mother warned. \"Leo knew this too, but he was determined to find the well. He climbed the tall mountain, day and night, until he finally reached the top.\"\n\n\"And then what happened, Mama? Did he find the well?\"\n\n\"Indeed, he did,\" his mother replied. \"There, at the top of the mountain, was the magical well, just as the old woman had said. But there was also a fierce dragon, just as the legend had foretold.\"\n\n\"Oh no, what did Leo do, Mama?\" Marco asked, clutching his blanket.\n\n\"Well, Leo was a very smart boy,\" his mother said. \"He knew that dragons were powerful creatures, but he also knew that they could be reasoned with. So, he spoke to the dragon, telling it that he meant no harm and that he only wanted to make a single wish.\"\n\n\"And what did the dragon say, Mama?\"\n\n\"The dragon looked at Leo and saw the truth in his eyes. It agreed to let Leo make his wish, but only if he promised to never abuse the power of the well. Leo agreed and made his wish.\"\n\n\"What did he wish for, Mama?\" Marco asked, eager to know.\n\nHis mother smiled. \"Leo wished for something that would bring happiness and joy to everyone in his town. And do you know what happened next, Marco?\"\n\n\"What, Mama?\"\n\n\"The next day, the people of the town woke up to find that their crops were bountiful, their animals were healthy, and their children were happy. Leo had wished for prosperity and happiness for all, and it had come true.\"\n\n\"Wow, that's amazing, Mama!\" Marco exclaimed.\n\nHis mother nodded. \"And that, Marco, is the story of the magical well and the brave boy named Leo. Always remember, my dear son, that with bravery, cleverness, and a kind heart, anything is possible.\"\n\nWith that, Marco drifted off to sleep, dreaming of magical wells, fierce dragons, and the power of a kind heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "clever": "mental",
+    "smart": "mental",
+    "determined": "mental",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "84.57",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

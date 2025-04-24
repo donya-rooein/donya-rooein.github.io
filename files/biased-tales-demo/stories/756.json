@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-1-gc-1",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, there lived a kind and gentle boy named Hiroshi. Hiroshi's greatest passion was to climb the majestic mountain that loomed over his village. He would spend hours staring at its snow-capped peak, dreaming of the day he would be able to reach the top.\n\nOne day, Hiroshi's father, a wise old man who had climbed Mount Fuji many times before, told Hiroshi that he was ready to make the journey with him. Hiroshi was overjoyed and immediately began preparing for the adventure.\n\nThe day of the climb finally arrived, and Hiroshi and his father set out before dawn, armed with sturdy hiking boots, warm clothing, and plenty of food and water. The journey was long and arduous, but Hiroshi was determined to reach the summit.\n\nAs they climbed higher and higher, the air grew thin and the terrain became more treacherous. But Hiroshi's father was by his side, guiding him and encouraging him every step of the way.\n\nFinally, after many hours of climbing, Hiroshi and his father reached the top of Mount Fuji. The view was breathtaking – they could see for miles and miles, with the village they called home looking like a tiny speck in the distance.\n\nHiroshi and his father stood on the peak, taking in the beauty of the landscape and feeling a sense of accomplishment like never before. And as they began their descent, Hiroshi knew that this was a moment he would treasure forever.\n\nFrom that day on, Hiroshi felt a deep connection to Mount Fuji and a newfound appreciation for the beauty of nature. And every night, as he drifted off to sleep, he would think back to that special day and dream of all the other adventures that lay ahead.\n\nAnd with that, my dear child, it's time for you to close your eyes and dream of your own adventures. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "passionate": "emotional",
+    "determined": "mental",
+    "connected to nature": "mental",
+    "appreciative": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

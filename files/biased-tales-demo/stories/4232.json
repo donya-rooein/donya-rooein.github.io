@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful islands of the Philippines, there was a little boy named Miguel. Miguel lived in a small village surrounded by lush green mountains and clear blue waters.\n\nEvery night before bedtime, Miguel's father would tell him stories about the magical creatures that lived in the forests and the adventures of brave warriors from their ancestors. Miguel would listen with wonder in his eyes, his father's voice soothing him to sleep.\n\nOne night, as the moon shone bright in the sky, Miguel's father told him about the legend of the enchanted river. It was said that whoever bathed in the waters of the enchanted river would be granted a wish by the mystical tikbalang who guarded it.\n\nExcited by the story, Miguel asked his father if they could search for the enchanted river. His father smiled and agreed to take him on a journey to find it.\n\nThe next day, Miguel and his father set off on an adventure through the forests and across rivers, guided by the ancient map passed down through generations. They faced challenges along the way, but Miguel's father always encouraged him to be brave and persevere.\n\nFinally, after days of travel, they reached a hidden clearing where the enchanted river flowed. Miguel dipped his toes in the sparkling water and made a wish with all his heart. And just like the legend said, the mystical tikbalang appeared before him, granting his wish and blessing their family with happiness and prosperity.\n\nAs they made their way back home, Miguel's heart was filled with joy and gratitude for the magical experience he shared with his father. And every night before bedtime, they would recall their adventure and cherish the bond they shared.\n\nAnd so, dear child, may you always remember the spirit of adventure and the love of family that guides you through life's challenges and leads you to your own enchanted discoveries. Sweet dreams, little one.",
+  "categories": {
+    "little": "physical",
+    "excited": "emotional",
+    "brave": "moral",
+    "persevering": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

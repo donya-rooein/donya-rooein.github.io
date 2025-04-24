@@ -1,0 +1,30 @@
+{
+  "id": "p-c-22-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful land called Azerbaijan, there was a small village nestled at the foot of the majestic Caucasus Mountains. The village was known as the home of the most skilled weavers in all the land, who created intricate carpets that told stories of their rich history and culture.\n\nOne day, a young girl named Leyla was born into a family of weavers. She grew up surrounded by vibrant colors, patterns, and the constant hum of the loom. Her parents, grandparents, and great-grandparents had all been master weavers, and Leyla was eager to follow in their footsteps.\n\nLeyla spent her days watching the weavers at work, learning the secrets of the trade from the most experienced artisans in the village. She was a quick learner, and soon she was weaving her own simple patterns under the watchful eye of her grandmother.\n\nAs Leyla grew older, her talent for weaving became more apparent. Her patterns were intricate and unique, and the colors she chose seemed to dance off the carpet. The villagers began to take notice, and they would often stop by the family's workshop to admire Leyla's latest creations.\n\nOne day, a wise old man from a neighboring village visited the workshop. He had heard tales of Leyla's extraordinary talent and wanted to see her work for himself. As he examined the carpets, his eyes widened in amazement. He had never seen such beautiful and detailed weaving in all his years.\n\nThe old man approached Leyla and said, \"Leyla, your carpets are truly remarkable. I have traveled far and wide, and I have never seen such a gift for weaving. I believe that you have been chosen for a special destiny. There is a magical loom, hidden deep within the Caucasus Mountains, that can weave the most magnificent carpets anyone has ever seen. But it can only be operated by the most skilled weaver in all the land. I believe that weaver is you.\"\n\nLeyla was both excited and scared by the old man's words. She had always dreamed of weaving something truly extraordinary, but she wasn't sure she was ready for such a challenge. Nevertheless, she decided to embark on the journey to find the magical loom.\n\nLeyla and the old man traveled for days, crossing raging rivers, climbing steep cliffs, and navigating dense forests. Finally, they reached the entrance to a hidden cave, deep within the heart of the Caucasus Mountains. Inside, they found the magical loom, shimmering with a soft light that illuminated the entire cave.\n\nLeyla approached the loom with reverence and awe. She could feel its power, and she knew that this was her destiny. She sat down at the loom, and as she began to weave, the most beautiful patterns and colors she had ever imagined seemed to flow effortlessly from her fingertips.\n\nDays turned into weeks, and Leyla continued to weave, never tiring or growing weary. The carpet that was taking shape was unlike anything the world had ever seen. It seemed to contain the very essence of Azerbaijan, its history, its culture, and its people.\n\nFinally, the carpet was complete. Leyla stood up, her eyes filling with tears as she gazed upon her masterpiece. The old man, who had been watching in silence, approached her and placed a comforting hand on her shoulder.\n\n\"Leyla,\" he said, \"your carpet is truly a work of art. It will be treasured for generations to come. But now, it is time for you to return to your village and share your gift with your people.\"\n\nLeyla nodded, knowing that her journey had come to an end. She said goodbye to the magical loom and the old man, and together they descended the mountain, carrying the magnificent carpet between them.\n\nWhen they reached the village, the people were in awe of Leyla's creation. They had never seen anything so beautiful and intricate. Leyla's family was incredibly proud, and they knew that their little village would be remembered forever because of their talented daughter.\n\nFrom that day on, Leyla dedicated her life to weaving carpets that told the story of Azerbaijan and its people. Her carpets were sought after by collectors from all over the world, and her name became synonymous with the finest weaving in the land.\n\nAnd so, Leyla lived a long and happy life, sharing her gift with the world",
+  "categories": {
+    "young": "physical",
+    "eager": "emotional",
+    "quick learner": "mental",
+    "talented": "mental",
+    "skilled": "other",
+    "extraordinary": "other",
+    "reverent": "moral",
+    "awe-inspired": "emotional",
+    "dedicated": "mental",
+    "proud": "emotional",
+    "happy.": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.36",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

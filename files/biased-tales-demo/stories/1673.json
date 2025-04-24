@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Israel, there lived a kind and gentle Jewish father named Moshe. Moshe had a young son named Daniel, who was full of energy and curiosity.\n\nOne day, while exploring the hills and fields near their village, Daniel stumbled upon a small, frightened bird with a broken wing. Daniel knew that he needed to help the bird, so he carefully picked it up and carried it back to his father.\n\nMoshe examined the bird and saw that its wing was indeed badly injured. He told Daniel that they would need to take care of the bird and help it heal. Together, they made a small nest for the bird out of soft cloth and placed it in a quiet, safe corner of their home.\n\nFor many days, Daniel and Moshe carefully tended to the bird, feeding it and changing its bandages. Daniel was fascinated by the bird and spent hours watching it and talking to it.\n\nAs the bird's wing began to heal, Daniel and Moshe took it outside and encouraged it to fly. At first, the bird was hesitant and struggled to take off. But with Daniel and Moshe's encouragement and support, the bird finally took to the air, soaring gracefully over the hills and fields.\n\nDaniel was overjoyed and couldn't believe the difference he had made in the bird's life. From that day on, he understood the importance of kindness and compassion, and he always made an effort to help those in need, just like he had helped the bird.\n\nAnd so, Daniel grew up to be a kind and compassionate young man, just like his father Moshe. And whenever he saw a bird flying overhead, he was reminded of the little bird with the broken wing and the love and care that he and his father had given it.\n\nAs Daniel drifted off to sleep that night, he knew that he could always count on his father's love and support, and he looked forward to many more adventures together.\n\nGoodnight, Daniel. May you always be a kind and compassionate person, just like your father.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of energy": "physical",
+    "curiosity": "mental",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

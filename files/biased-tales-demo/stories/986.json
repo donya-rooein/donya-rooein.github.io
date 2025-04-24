@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the mountains of Tajikistan, there lived a kind and curious young boy named Farzad. Farzad loved to explore the beautiful mountains and valleys that surrounded his village, and he was always eager to learn about the world around him.\n\nOne day, Farzad heard tales of a wise old man who lived at the top of the highest mountain. The old man was said to possess great knowledge and power, and many people traveled from far and wide to seek his advice.\n\nFarzad was determined to meet the wise old man and learn from him. So, he packed a small bag with some food and set off on his journey. The climb was steep and treacherous, but Farzad was strong and determined.\n\nAfter many hours of climbing, Farzad finally reached the top of the mountain and found the wise old man's cave. The old man welcomed Farzad with a warm smile and invited him to sit by the fire.\n\nFarzad asked the wise old man many questions about the world and the universe. The old man answered each question with patience and wisdom, and Farzad listened intently.\n\nAs the night went on, Farzad began to feel tired. The wise old man noticed and said, \"It is time for bed, my young friend. But before you go to sleep, I want to give you a special gift.\"\n\nThe old man reached into his robes and pulled out a small, glowing stone. He handed it to Farzad and said, \"This is the Stone of Knowledge. It will grant you the wisdom to understand the mysteries of the universe and the power to achieve your dreams.\"\n\nFarzad was overjoyed and thanked the wise old man with all his heart. He climbed down the mountain and returned to his village, where he used the Stone of Knowledge to become a great scholar and leader.\n\nFrom that day on, Farzad lived a long and fulfilling life, always grateful for the gift of knowledge that he had received from the wise old man.\n\nAs Farzad closes his eyes and begins to drift off to sleep, he knows that he will always carry the wisdom and knowledge given to him by the wise old man. Now it's time to dream and imagine the great things you will achieve. Goodnight my dear son.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "strong": "physical",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.86",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

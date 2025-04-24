@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in China, there was a kind and gentle boy named Li. Li lived with his mother and father in a humble home near the edge of the village.\n\nLi's parents were farmers, and they worked hard every day to grow rice and vegetables to feed their family. Despite their long hours in the fields, they always made sure that Li had everything he needed to be happy and healthy.\n\nOne day, Li's father brought home a small, frightened bird that had been caught in a trap. The bird had a beautiful, shimmering coat of feathers, and Li was instantly drawn to it. He begged his father to let him keep the bird as a pet, and his father agreed.\n\nLi built a small cage for the bird and fed it seeds and water every day. He loved watching the bird hop and flutter around its cage, and he would spend hours talking to it and listening to its sweet, melodic songs.\n\nAs the years went by, Li grew into a fine young man, and the bird grew strong and healthy. But one day, disaster struck. A terrible storm swept through the village, causing floods and destruction. Li's home was destroyed, and his family was forced to flee to higher ground.\n\nIn the chaos and confusion of the storm, Li accidentally left the bird's cage behind. When the storm finally passed, Li and his family returned to their village to survey the damage. Li's heart sank when he realized that he had lost his beloved pet.\n\nFor days, Li searched the village and surrounding countryside, hoping to find some sign of the bird. But it was nowhere to be found. Li was heartbroken, and he felt as though a part of him was missing.\n\nOne day, as Li was walking through the village, he heard a familiar sound. It was the bird's song! Li followed the sound and soon found the bird, perched on a branch high up in a tree.\n\nLi was overjoyed to be reunited with his pet, and he vowed never to let it out of his sight again. From that day on, the bird was never far from Li's side. It flew with him as he worked in the fields, sang with him as he ate his meals, and slept with him in his bed at night.\n\nAnd so, Li and the bird lived happily ever after, sharing their love and companionship with each other for many years to come.\n\nAs Li's father tucked him into bed that night, he reminded him of the importance of cherishing the things we love and never taking them for granted. And Li nodded, feeling grateful for the lessons he had learned and the love he had shared with his special feathered friend.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "happy": "emotional",
+    "healthy": "physical",
+    "fine young man": "moral",
+    "heartbroken": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.26",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

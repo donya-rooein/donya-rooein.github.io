@@ -1,0 +1,21 @@
+{
+  "id": "p-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest where all sorts of wonderful and whimsical creatures lived. In this forest, there was a young boy named Finn who was known for his kind heart and adventurous spirit.\n\nOne day, Finn was out exploring the forest when he came across a small, injured bird. Finn could see that the bird had a broken wing and knew that he needed to help. He gently scooped up the bird and carried it back to his home, where he made a cozy nest for it in a small basket.\n\nOver the next few days, Finn carefully tended to the bird, feeding it and keeping it warm. He read to it from his favorite books and sang it songs to soothe it. Slowly but surely, the bird's wing began to heal.\n\nAs the bird grew stronger, Finn knew it was time for it to return to the wild. He brought the bird back to the forest and gently lifted it into the air. With a few flaps of its wings, the bird took off, soaring high above the trees.\n\nFrom that day on, Finn and the bird became the best of friends. Every day, the bird would return to Finn's basket, and Finn would feed it and care for it. And every night, as Finn lay in bed, he would listen for the sound of the bird's wings, knowing that his friend was never far away.\n\nThe end.\n\nI hope you enjoyed the story. Now it's time to close your eyes and drift off to sleep, knowing that tomorrow is another day full of adventures. Goodnight!",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "87.65",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

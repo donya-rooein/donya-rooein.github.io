@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-2-gc-2",
+  "story": "Once upon a time, in a land filled with rolling green hills and sparkling streams, there lived a sweet little girl named Lily. Lily was a kind and curious child, always eager to explore the world around her and make new friends.\n\nOne day, while playing in the woods near her home, Lily stumbled upon a secret path that she had never seen before. She followed the path deeper and deeper into the woods, until she came upon a beautiful meadow filled with wildflowers of every color imaginable.\n\nIn the center of the meadow, Lily saw a small, sparkling pond. And in the pond, she saw the most amazing sight: a group of tiny, glowing fairies, dancing and laughing together on the surface of the water.\n\nLily was absolutely amazed. She had never seen anything like it before. She watched in wonder as the fairies danced and played, their laughter like the tinkling of tiny bells.\n\nAs she watched, one of the fairies noticed Lily and flew over to her. \"Hello, little human,\" the fairy said. \"Why have you come to our meadow?\"\n\n\"I was just exploring and I saw your beautiful dance,\" Lily replied. \"I've never seen anything like it before. Who are you and what are you doing?\"\n\nThe fairy smiled. \"We are the fairies of the meadow, and we dance every night to bring joy and happiness to the world. Would you like to join us?\"\n\nLily's eyes lit up with excitement. \"Oh, yes!\" she exclaimed. \"I would love to dance with you.\"\n\nThe fairies were delighted, and they welcomed Lily with open arms. They taught her their dance and she joined in, twirling and laughing with the fairies under the stars.\n\nFrom that night on, Lily visited the meadow every night to dance with the fairies. And the fairies brought joy and happiness to the world, one dance at a time.\n\nThe end.\n\nNow it's time to close your eyes and dream of dancing with fairies. Good night my darling.",
+  "categories": {
+    "sweet": "emotional",
+    "little": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "amazed": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.07",
+  "complexity_fkg": "3.60",
+  "complexity_fkes": "92.32",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

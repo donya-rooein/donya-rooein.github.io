@@ -1,0 +1,32 @@
+{
+  "id": "p-c-9-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its grand palaces, bustling markets, and wise caliphs. But what made Baghdad truly special was its magical library, the House of Wisdom.\n\nThe House of Wisdom was home to countless books, filled with stories of adventure, tales of wonder, and lessons of wisdom. The caliph of Baghdad, a kind and just ruler, believed that knowledge was the key to a prosperous and peaceful kingdom. And so, he opened the doors of the House of Wisdom to all his people.\n\nOne day, a young boy named Hassan from a simple family in Baghdad discovered his love for books. He would spend hours in the House of Wisdom, devouring stories of far-off lands and magical creatures. Hassan was especially fascinated by the tales of the brave and cunning Sinbad the Sailor.\n\nHassan dreamed of becoming a sailor like Sinbad, exploring the seven seas and having grand adventures. But his parents, who worked hard every day to put food on the table, wanted Hassan to focus on his studies and become a scholar.\n\nOne night, as Hassan lay in bed, he wished upon a star for a chance to prove to his parents that he could be both a scholar and a sailor. To his surprise, a mysterious old man appeared in his room.\n\n\"I am the Spirit of the Sea,\" the old man said. \"I have heard your wish and I will grant it, but you must promise to use your knowledge and courage to help others, not just yourself.\"\n\nHassan eagerly agreed and the Spirit of the Sea waved his hand, and Hassan was transported to a magical ship, sailing the open seas. He faced fierce storms, battled monstrous sea creatures, and discovered hidden treasures.\n\nBut Hassan also used his newfound knowledge to help his fellow sailors, healing their wounds, predicting the weather, and navigating through treacherous waters. And when they came across a deserted island, Hassan used his wit and cunning to help them find food, water, and shelter.\n\nYears passed, and Hassan became the most famous sailor in all of Baghdad. People would come from far and wide to hear his tales of adventure and to seek his wisdom. And Hassan's parents, proud of their son's accomplishments, knew that he had truly become both a scholar and a sailor.\n\nFrom that day on, Hassan continued to sail the seas, using his knowledge and courage to help those in need. And every night, before he closed his eyes, he would look up at the stars and thank the Spirit of the Sea for granting him his greatest wish.\n\nAnd so, my dear child, always remember that with hard work, determination, and a kind heart, you too can make your dreams come true. Good night and sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "simple": "mental",
+    "fascinated": "emotional",
+    "dreaming": "mental",
+    "eager": "emotional",
+    "knowledgeable": "mental",
+    "courageous": "mental",
+    "witty": "mental",
+    "cunning": "mental",
+    "famous": "other",
+    "proud": "emotional",
+    "determined": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

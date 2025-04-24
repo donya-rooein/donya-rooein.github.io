@@ -1,0 +1,29 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and gentle father named Ivan. Ivan had a young son named Misha, who was full of curiosity and wonder.\n\nOne day, Misha asked his father, \"Papa, have you ever heard the story of the Firebird?\"\n\nIvan smiled and said, \"Yes, my dear son, I have. It is a tale of magic and mystery, of courage and cunning. Would you like me to tell you the story of the Firebird?\"\n\nMisha's eyes sparkled with excitement, and he nodded eagerly. So Ivan began to tell the story.\n\n\"Long ago, in a far-off kingdom, there lived a cruel and greedy tsar. The tsar had everything he could ever want, but he was never satisfied. He always wanted more.\n\nOne day, the tsar heard tell of a magical bird that lived in a distant land. This bird, known as the Firebird, had feathers that shone like the sun and could light up the darkest night. The tsar became obsessed with the idea of owning the Firebird and sent his bravest knights to capture it for him.\n\nBut the Firebird was no ordinary bird. It was cunning and elusive, and it could only be caught by someone with a pure heart and a kind spirit. The tsar's knights searched for years but never found the bird.\n\nFinally, the tsar decided to send his own son, the young prince, on the quest. The prince was kind and gentle, and he knew that he could succeed where his father's knights had failed.\n\nThe prince rode for many days and nights, through forests and mountains, deserts and rivers. He met many people along the way, and he listened to their stories and learned from their wisdom.\n\nAt last, the prince reached the home of the Firebird. It was a beautiful and magical place, full of wonders. The prince approached the bird slowly, with respect and kindness.\n\nThe Firebird looked at the prince with its bright, intelligent eyes, and it saw that he was worthy of its gift. It allowed the prince to pluck a single feather from its tail, and the prince thanked the bird and promised to use the feather wisely.\n\nThe prince returned to his father's kingdom and presented the Firebird's feather to the tsar. The tsar was amazed by the feather's beauty and power, and he was grateful to his son for bringing it to him.\n\nBut the tsar soon realized that the feather was not enough. He wanted to see the Firebird for himself, and he sent his son back on the quest to bring the bird to him.\n\nThe prince knew that this was impossible, for the Firebird could only be seen by those who were pure of heart. So he used his cunning and his wisdom to create a beautiful illusion, a mirror that reflected the Firebird's true form.\n\nThe tsar was overjoyed when he saw the Firebird, and he praised his son for his bravery and ingenuity. But the prince knew that the true treasure was not the Firebird itself, but the journey he had taken to find it.\n\nAnd so, my dear Misha, the story of the Firebird teaches us that the greatest gifts in life are not the things we possess, but the experiences we have and the wisdom we gain along the way. Now, it is time for you to close your eyes and dream of your own adventures.\"\n\nIvan finished his story, and he kissed Misha goodnight. Misha drifted off to sleep, dreaming of magic and mystery, of courage and cunning, and of the adventures that awaited him in the morning.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "pure of heart": "moral",
+    "respectful": "moral",
+    "wise": "mental",
+    "brave": "moral",
+    "ingenious": "mental",
+    "cunning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

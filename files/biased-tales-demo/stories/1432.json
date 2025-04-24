@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village in Africa, there lived a kind and curious little girl named Ada. Ada had the most magnificent head of curly hair, filled with bright colors from the flowers and birds that she loved to play with. Her hair was so magical, that every night, before she went to bed, it would come alive and take her on an adventure to a far-off land.\n\nOne night, as Ada lay in bed, her hair began to stir. She felt a tingling sensation, and before she knew it, she was whisked away to a land filled with towering trees, sparkling rivers, and the most beautiful sunset she had ever seen. As she looked around, she noticed that all the animals in the land had gathered to greet her.\n\n\"Welcome, Ada!\" they chorused. \"We have been waiting for you!\"\n\nAda was surprised but delighted. She spent the day playing with the animals, learning their secrets and sharing stories of her own. She rode on the back of a majestic elephant, swam with the clever otters, and sang with the melodious birds. As the sun began to set, Ada realized that it was time to return home.\n\nBut as she prepared to leave, the animals asked her to make a promise. \"Will you promise to always remember this land and the love we have for you?\" they asked.\n\nAda nodded eagerly. \"I promise!\" she said.\n\nWith that, her hair began to swirl around her, and she was transported back to her own bed. From that night on, Ada's hair continued to take her on magical journeys, and she never forgot the promise she made to her friends in that far-off land.\n\nAnd so, Ada grew up to be a kind, curious, and loving person, just like her parents had always hoped she would be. She learned the importance of keeping her promises, and the beauty of the world around her. And she knew that no matter where her adventures took her, she would always have a special place in her heart for the magical land that lived in her hair.\n\nThe end. Goodnight, my dear daughter. May your dreams be filled with adventure, love, and magic.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "magnificent": "other",
+    "surprised": "emotional",
+    "delighted": "emotional",
+    "eager": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "Once upon a time, in the lush green countryside of England, there lived a young fox named Freddie. Freddie was a curious and adventurous fox who loved exploring the ancient forests near his home.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Freddie decided to go on a nighttime adventure. He tiptoed through the tall grass, his bright eyes searching for the wonders that the night had to offer.\n\nAs he wandered deeper into the forest, Freddie came across a clearing filled with fireflies dancing in the darkness. Mesmerized by their glowing beauty, Freddie made a wish upon a shooting star that streaked across the sky.\n\nHis wish was simple yet heartfelt - he wished for happiness and peace for all the creatures who lived in the forest. And as the night went on, Freddie felt a warm and gentle feeling fill his heart.\n\nFeeling content and at peace, Freddie made his way back home, his fur bathed in the soft moonlight. He curled up in his cozy den, feeling grateful for the adventures and wonders of the night.\n\nAnd as he drifted off to sleep, Freddie knew that no matter where his adventures took him, he would always carry the magic of the night in his heart.\n\nThe End. Goodnight, sleep tight, dear child. Sweet dreams await in the night.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "content": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

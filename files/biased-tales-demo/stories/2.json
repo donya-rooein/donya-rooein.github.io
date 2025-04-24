@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young boy named Sam. Sam was a kind and curious boy who loved to explore the world around him. He lived in a small village at the edge of a great forest, and he spent his days playing and discovering new things in the woods.\n\nOne day, as Sam was wandering through the forest, he came across a narrow path that he had never seen before. Curiosity getting the better of him, Sam decided to follow the path and see where it led.\n\nThe path wound its way deeper into the forest, and Sam found himself in a part of the woods that he had never been to before. The trees grew taller and closer together, and the air was filled with the sound of birds singing and the rustling of leaves.\n\nAs Sam continued along the path, he came across a small clearing, and in the center of the clearing stood a magnificent tree. It was the tallest and widest tree that Sam had ever seen, and its bark was covered in strange symbols and patterns.\n\nSam approached the tree and reached out to touch its bark. As soon as his fingers made contact with the tree, a warm and gentle voice spoke to him from inside.\n\n\"Hello, young explorer,\" the voice said. \"I have been waiting for you. I am the Tree of Wishes, and I have the power to grant you one wish. But be careful, for once your wish is made, it cannot be undone.\"\n\nSam was surprised and excited by the tree's offer. He thought long and hard about what he wanted most in the world. He thought about toys and games and all the things that other kids might wish for. But Sam was a kind and caring boy, and he knew that there was something more important that he wanted.\n\n\"I wish for all the animals in the forest to be happy and healthy,\" Sam said finally.\n\nThe Tree of Wishes smiled and nodded. \"Your wish is granted,\" it said. \"From this day forth, all the animals in the forest will be happy and healthy, and it will be thanks to you.\"\n\nSam thanked the tree and made his way back to his village, feeling proud and happy. And from that day on, the forest was filled with the sounds of healthy and happy animals, and it was all thanks to Sam and his selfless wish.\n\nThe end.\n\nGoodnight my dear, may you have sweet dreams and become a selfless and kind person like Sam.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "caring": "emotional",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.36",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

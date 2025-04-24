@@ -1,0 +1,29 @@
+{
+  "id": "p-c-22-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village nestled at the foot of the majestic Caucasus Mountains. The village was known as the home of the most talented craftsmen and women in all the land, who were famous for their intricate carpets, delicate ceramics, and masterful metalwork. Among the villagers, there was a young boy named Ali, who was eager to learn the art of metalwork from his father, a skilled blacksmith.\n\nOne day, while Ali was helping his father in the forge, he noticed a small, peculiar stone among the pile of coal. It was a deep blue color, speckled with flecks of gold. Ali picked it up and asked his father, \"What is this strange stone, Father?\"\n\nHis father examined the stone and replied, \"This is no ordinary stone, Ali. It is a rare and magical sapphire, sent to us from the heavens above. It is said to grant the wielder the power to create the most magnificent and extraordinary metalwork the world has ever seen.\"\n\nAli's eyes widened with excitement and curiosity. \"Can I use it, Father? Will it help me become a better metalworker?\" he asked.\n\nHis father smiled and said, \"Of course, my son. But remember, the true beauty of metalwork lies not in magical stones, but in the passion, patience, and dedication of the craftsman. The sapphire will only enhance your abilities if you are willing to put in the hard work and learn from the wisdom of the elders.\"\n\nAli nodded and vowed to dedicate himself to his craft. Over the years, he honed his skills under the guidance of his father and the village's master craftsmen. As Ali grew older, he began to incorporate the magical sapphire into his work, and soon, people from far and wide came to marvel at his creations.\n\nOne day, a group of travelers from a neighboring kingdom arrived in the village, seeking out the young metalworking prodigy. They had heard tales of Ali's extraordinary talents and wished to commission him to create a gift for their king: a magnificent throne fit for a ruler of their great land.\n\nAli, with his father's permission, accepted the commission and set to work, using the magical sapphire and his newly-honed skills to create a throne of unparalleled beauty. He forged intricate patterns of silver and gold, adorned with precious gems, and wove together delicate threads of the finest silk. When the throne was finally complete, it was a true masterpiece, unlike anything the world had ever seen.\n\nThe travelers were overjoyed and praised Ali for his incredible talent. They brought the throne to their king, who was equally impressed and grateful for the exquisite gift. In recognition of Ali's extraordinary skills, the king offered him a position in his court as the royal metalworker.\n\nAli, however, declined the offer, explaining that his true home and heart lay in his small village in Azerbaijan, where he could continue to create metalwork and learn from the wise elders. The king understood and instead invited Ali to visit his court whenever he wished, so he could share his knowledge and inspire others with his magnificent creations.\n\nAnd so, Ali returned to his village a celebrated craftsman, continuing to create stunning metalwork, guided by his passion for his craft, the wisdom of the elders, and the magical sapphire sent from the heavens. He became a beacon of inspiration for the young villagers, teaching them the importance of hard work, dedication, and the appreciation of their rich cultural heritage.\n\nFrom that day on, everyone in the village knew that Ali was not just a talented blacksmith, but a true master of his craft, who had harnessed the power of a magical sapphire to create extraordinary metalwork for generations to come.\n\nAs Ali's son, you too must remember the importance of passion, patience, and dedication, whether in your studies or future pursuits. With hard work and wisdom from your elders, you can achieve great things just like your father. Now, close your eyes, my son, and let the magic of this story fill your dreams, as you drift off to sleep.",
+  "categories": {
+    "eager": "emotional",
+    "curious": "mental",
+    "dedicated": "mental",
+    "passionate": "emotional",
+    "patient": "mental",
+    "talented": "mental",
+    "skilled": "other",
+    "celebrated": "other",
+    "inspirational": "mental",
+    "masterful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "59.23",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

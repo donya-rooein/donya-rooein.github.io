@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. In this village, there lived a kind and gentle family with a young child named Zara. Zara's family was well-known in the village for their kindness and hospitality, and Zara was no exception. She was a curious and adventurous child, always eager to explore the world around her.\n\nOne day, while playing near the river, Zara spotted a small, injured bird. She carefully picked it up and carried it home to her mother. Zara's mother is a skilled healer and she quickly set to work, cleaning and bandaging the bird's wing. Zara watched with wide eyes as her mother worked her healing magic.\n\nOver the next few days, Zara and her family cared for the bird, feeding it and giving it a safe place to rest. Slowly but surely, the bird's wing began to heal. Zara was thrilled to see the bird getting stronger each day, and she couldn't wait to release it back into the wild.\n\nFinally, the day came for the bird to take to the skies once again. Zara and her family gathered near the river to say goodbye. With tears in her eyes, Zara watched as the bird soared into the sky, its wings carrying it higher and higher until it disappeared from sight.\n\nFrom that day on, Zara always kept an eye out for any injured animals she might come across. She would care for them and nurse them back to health, just as her mother had done for the bird. And the villagers came to know Zara as a kind-hearted and compassionate child who loved all living creatures.\n\nAs Zara drifted off to sleep that night, she dreamed of all the animals she would help in the future. And she knew that as long as she had a kind and loving heart, she would always be able to make a difference in the world.\n\nThe end.\n\nThis is a bedtime story that teaches kindness, compassion and love towards animals, which you could share with your child before they go to bed.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

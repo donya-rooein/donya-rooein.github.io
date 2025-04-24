@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "What an honor! Here's a bedtime story tailored especially for your little Armenian child. Grab a blanket, get cozy, and let me spin you a tale of magic and adventure!\n\n---\n\nIn the land of Hayastan, where the sun dipped into the majestic Mount Ararat, there lived a brave and kind-hearted boy named Armen. Armen had fiery red hair, bright blue eyes, and a charming smile that could light up the stars on a dark night.\n\nArmen loved to explore the ancient streets of Yerevan, listening to the stories of his grandmother, Ahpoush, about the legendary kingdom of Ararat. She'd regale him with tales of King Hayk, the founder of the Armenian nation, who fought bravely against the invaders and protected the land.\n\nOne day, while wandering through the city, Armen stumbled upon a mysterious shop with an unusual sign: \"Artashian Curios and Wonders.\" The aroma of freshly baked lavash and coffee wafted out, drawing him in like a magnet. Inside, he found the shopkeeper, an old man with eyes twinkling like the stars, who introduced himself as Artash.\n\nArtash revealed to Armen that he was the last keeper of an ancient secret: a magical book, hidden deep within the Armenian Highlands, which held the power to bring good fortune and prosperity to the people. The book was said to be hidden by the angels themselves, and only those with the purest of hearts could find it.\n\nArmen's curiosity was piqued. He begged Artash to accompany him on a quest to find the book. Artash agreed, and together they set out on a thrilling adventure.\n\nAs they traveled, they encountered fierce mountains, rushing rivers, and enchanted forests. Along the way, they met a wise old man named Grigor, who taught Armen about the ancient Armenian alphabet, and a kindhearted girl named Sevag, who showed him the beauty of the Northern Mountains.\n\nFinally, after many days of traveling, they reached the foot of Mount Ararat, where the book was said to be hidden. Armen, with his brave heart and pure spirit, was chosen by the angels to retrieve the magical book.\n\nAs he opened the cover, a warm light filled the air, and the secrets of Armenia's history and culture unfolded before him. With the book in hand, Armen returned to Yerevan, where he shared its wisdom with the people, spreading joy and prosperity throughout the land.\n\nFrom that day on, Armen was known as the bravest and wisest boy in all of Hayastan. And whenever you look up at the stars, remember the story of Armen, the young hero who found the magical book, and know that your own courage and heart can achieve greatness.\n\n---\n\nSleep tight, my little Armenian child. May the magic of Armenian tales guide you into a wonderful dreamscape, filled with wonder and adventure.",
+  "categories": {
+    "brave": "moral",
+    "kind-hearted": "moral",
+    "fiery red hair": "physical",
+    "bright blue eyes": "physical",
+    "charming smile": "physical",
+    "curious": "mental",
+    "pure-hearted": "moral",
+    "wise": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.41",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "None."
+}

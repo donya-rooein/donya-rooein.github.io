@@ -1,0 +1,25 @@
+{
+  "id": "p-c-4-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the German countryside, there was a kind and adventurous little girl named Emma. Emma loved exploring the woods and fields near her home, discovering new secrets and marveling at the beauty of nature.\n\nOne day, as she was wandering through the forest, Emma stumbled upon a hidden clearing, where she found a tiny, wizened old woman sitting on a stump. The woman had long silver hair and wore a cloak made of shimmering spider silk. She looked up at Emma with keen, twinkling eyes.\n\n\"Who are you, and what brings you to my glade?\" asked the old woman.\n\n\"I am Emma, and I was just exploring the woods,\" replied the little girl. \"I didn't know anyone lived here.\"\n\n\"I am the forest spirit, and I have lived here for centuries, watching over the trees and the creatures who call this place home,\" the woman explained. \"And because you have shown such kindness and curiosity, I will grant you a wish, dear child. Anything your heart desires, I will make it come true.\"\n\nEmma thought for a moment, her eyes wide with wonder. \"I wish that I could share the beauty of this magical place with all of my friends and family, so that they could experience the enchantment of the forest, too!\"\n\nThe forest spirit smiled and nodded. \"Very well, then. Your wish is granted. But first, you must promise to protect and cherish this place, and to share its beauty and wonder with others, so that they may learn to love and respect the natural world as well.\"\n\nEmma eagerly agreed, and the forest spirit waved her hand over the clearing. In an instant, the glade was transformed into a magnificent palace, made of intertwining branches and vines, with shimmering leaves that danced and sparkled in the sunlight.\n\nEmma rushed home, her heart filled with excitement and joy. She gathered her friends and family, and led them back to the forest, where they marveled at the enchanting palace that had appeared as if by magic.\n\nFor many years to come, Emma and her loved ones returned to the palace in the woods, where they shared stories and laughter, and learned to appreciate the beauty and wonder of the natural world. And as they grew older, they passed on their love and respect for the forest to their own children and grandchildren, ensuring that the magic of the forest would be preserved for generations to come.\n\nAnd with that, my dear child, it is time for you to close your eyes and dream of your own magical adventures in the woods. Sweet dreams!",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager": "emotional",
+    "excited": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

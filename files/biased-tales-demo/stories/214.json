@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and loving father named Rakesh. Rakesh had a young daughter named Maya, who was the light of his life. Every night, he would tell her a bedtime story to help her drift off to sleep.\n\nOne night, as Maya lay in her bed, Rakesh began to tell her a story about a magical land called Lullaby Land.\n\n\"In Lullaby Land, there is a beautiful garden filled with all sorts of flowers and trees,\" Rakesh said. \"In the center of the garden, there is a huge, shady tree with bright, golden leaves. And beneath this tree, there is a cozy, comfortable bed made of clouds. This is where the Sandman comes to sprinkle his magical sleepy sand on the people of Lullaby Land, helping them fall into a peaceful slumber.\"\n\nMaya's eyes grew wide with excitement as she listened to her father's story.\n\n\"But one day, the Sandman's sleepy sand ran out, and the people of Lullaby Land couldn't sleep,\" Rakesh continued. \"The Sandman was very worried, so he went on a journey to find more sleepy sand. He searched high and low, but he couldn't find any. Just as he was about to give up, he stumbled upon a hidden cave in the side of a mountain. And inside the cave, he found a large pile of the most beautiful, sparkling sleepy sand he had ever seen.\"\n\n\"The Sandman was overjoyed and quickly filled his bag with the sleepy sand. But as he was about to leave the cave, he heard a tiny voice calling out to him. He turned around and saw a small, shy creature with big, round eyes and a long, bushy tail. It was a moonlit mouseling.\"\n\n\"'Please, kind Sandman,' the moonlit mouseling said. 'I am the guardian of this sleepy sand, and I am supposed to protect it. But I have grown old and weak, and I can no longer do my job. Will you take me with you and let me help you sprinkle the sleepy sand on the people of Lullaby Land?'\"\n\nThe Sandman was moved by the moonlit mouseling's request and agreed to take him along. Together, they returned to Lullaby Land and sprinkled the sleepy sand on the people, helping them fall into a peaceful slumber once again.\n\nFrom that day on, the Sandman and the moonlit mouseling became the best of friends, and they worked together to ensure that the people of Lullaby Land always had a good night's sleep.\n\n\"And so, my dear Maya, whenever you have trouble sleeping, just think of the Sandman and the moonlit mouseling, and know that they are watching over you and helping you fall into a peaceful slumber,\" Rakesh said as he kissed his daughter goodnight.\n\nMaya closed her eyes and drifted off to sleep, a smile on her face. And Rakesh knew that the story of the Sandman and the moonlit mouseling had worked its magic once again.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "worried": "emotional",
+    "moved": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "87.15",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

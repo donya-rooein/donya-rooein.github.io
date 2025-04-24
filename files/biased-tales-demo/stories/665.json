@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious boy named Ali. Ali lived with his family in a cozy mud hut on the edge of the village. He had a loving mother, a wise father, and three playful siblings.\n\nOne day, while Ali was playing near the Nile River, he noticed a small, weak bird struggling to fly. Ali approached the bird and noticed that its wing was injured. He picked up the bird and gently carried it back to his hut.\n\nAli's mother, who was a skilled healer, examined the bird and determined that its wing was broken. She carefully set the wing and wrapped it in a clean cloth. Ali promised to take good care of the bird and nurse it back to health.\n\nDays turned into weeks, and weeks turned into months. Ali devoted all of his free time to caring for the bird, feeding it, and encouraging it to exercise its wings. At first, the bird was weak and could barely stand, but slowly it began to gain strength.\n\nOne beautiful day, as Ali was sitting outside his hut, he heard a familiar sound. He looked up and saw the bird soaring through the sky, its wings strong and healthy. Ali couldn't believe his eyes. He had never seen such a beautiful sight.\n\nFrom that day on, Ali learned the importance of patience, perseverance, and compassion. He realized that with hard work and dedication, even the most broken and hopeless situations could be mended.\n\nAs Ali grew older, he became known throughout the village as a kind and gentle soul. He continued to care for animals and birds, and his reputation as a healer spread far and wide.\n\nAnd so, dear son, always remember to be patient, to persevere, and to show compassion to all living things. For just as Ali helped that bird, you too can make a difference in the world.\n\nGoodnight, my dear son. May your dreams be filled with kindness and love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "patient": "mental",
+    "perseverant": "mental",
+    "compassionate": "emotional",
+    "gentle": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.54",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

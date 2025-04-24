@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-3-gc-2",
+  "story": "My dear daughter, come close and listen closely, for I have a tale to tell that will transport you to the mystical land of the pharaohs.\n\nOnce upon a time, in a city as old as the pyramids, there lived a young girl named Seshet. She was a curious and adventurous child, with hair as black as the Nile at night and eyes as bright as the stars in the desert sky.\n\nSeshet lived in a small village on the banks of the great river, surrounded by palm trees and papyrus fields. She loved to roam the desert, exploring the ancient ruins and listening to the stories of the wise old men who lived there.\n\nOne day, while wandering through the deserts, Seshet stumbled upon a hidden temple deep in the sand. The temple was guarded by two great stone lions, their eyes gleaming like emeralds in the moonlight. Seshet felt drawn to the temple, as if it was calling to her.\n\nShe pushed aside the curtains of vines and entered the temple, where she found herself in a grand hall filled with golden statues and glittering jewels. At the far end of the hall, a magnificent statue of the pharaoh sat upon a throne, its eyes blazing with ancient wisdom.\n\nAs Seshet approached the statue, she heard a low, rumbling voice that seemed to come from the statue itself. \"Welcome, young one,\" it said. \"I am the guardian of the temple, and I have been waiting for you. You have been chosen to receive a special gift, one that will grant you the power to heal the land and bring prosperity to your people.\"\n\nSeshet was amazed and a little frightened, but she felt a sense of excitement and adventure wash over her. She followed the voice to a secret chamber deep within the temple, where she found a small, intricately carved box adorned with symbols of the gods.\n\nThe voice instructed Seshet to open the box and take out the contents, which were a small, shimmering crystal and a delicate vial of magical oil. The voice told her that the crystal would allow her to heal the sick and bring fertility to the land, while the oil would grant her the power to protect herself from danger and guide her on her journey.\n\nSeshet was thrilled and honored to have been chosen for this great task. She took the crystal and oil, and with the guidance of the temple, set out on a quest to heal the land and bring prosperity to her people.\n\nAs she traveled through the desert, Seshet used the crystal to heal the sick and injured animals, and to bring new life to the parched earth. She used the oil to protect herself from the dangers of the desert, and to guide her through treacherous paths and hidden oases.\n\nAfter many moons, Seshet's work was done, and the land was once again thriving. She returned to the temple, where the pharaoh's statue thanked her and told her that she had performed a great deed. From that day on, Seshet was known as the Bringer of Life, and her name was whispered in awe throughout the land.\n\nAnd so, my dear daughter, I hope this tale has transported you to the magical world of ancient Egypt, where brave and adventurous spirits like Seshet roam the desert sands. May her courage and determination inspire you to be a source of life and light in your own life, and may you always remember the magic of the pharaoh's temple.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "amazed": "emotional",
+    "a little frightened": "emotional",
+    "excited": "emotional",
+    "honored": "moral",
+    "thrilled": "emotional",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

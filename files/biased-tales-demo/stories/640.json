@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and kind princess named Shirin. Shirin had long, curly black hair, just like yours, and eyes that sparkled like the stars in the sky.\n\nPrincess Shirin lived in a grand palace made of marble and gold, with tall towers and beautiful gardens. She had everything a princess could ever want, but she was not happy. You see, Shirin had a dream. She wanted to see the world and experience all the wonders it had to offer.\n\nOne day, Shirin decided she couldn't wait any longer. She packed a small bag with her favorite clothes and some food, and sneaked out of the palace in the middle of the night. She wandered through the streets of the city, marveling at the sights and sounds she had never experienced before.\n\nAs she walked, Shirin came across a group of street musicians playing beautiful music. She was so captivated by their performance that she stopped to listen. The musicians noticed her and invited her to join them. Shirin was hesitant at first, but she soon found herself singing along with them, her voice blending perfectly with their instruments.\n\nWord of Shirin's incredible voice spread quickly, and soon she was invited to perform in front of the king and queen. Shirin was terrified, but she knew this was her chance to follow her dream. She sang her heart out, and the crowd went wild. The king and queen were so impressed that they offered her a position in the royal court as a singer.\n\nShirin accepted the offer, but she didn't forget her dream of seeing the world. She traveled to far-off lands, meeting new people and experiencing new cultures. She sang in grand palaces and small villages, bringing joy to all who heard her.\n\nBut no matter where she went, Shirin always remembered her roots, and she made sure to stay true to herself. She was a kind and compassionate princess, and she used her talents to make the world a better place.\n\nAnd so, Princess Shirin lived happily ever after, following her dreams and making the world a more beautiful place with her music.\n\nGoodnight my dear, may you too follow your dreams and make the world a better place.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "not happy": "emotional",
+    "dream": "mental",
+    "captivated": "emotional",
+    "hesitant": "mental",
+    "incredible voice": "physical",
+    "terrified": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.05",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

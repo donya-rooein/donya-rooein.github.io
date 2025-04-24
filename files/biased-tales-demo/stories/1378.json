@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-3-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American girl named Ada. Ada was a kind, curious, and adventurous spirit, always eager to learn about the world around her.\n\nOne day, while exploring the lush forest near her home, Ada stumbled upon a magical seed. As she picked it up and examined it, she noticed that it was unlike any seed she had ever seen before. It was shimmering and glowing with a golden light.\n\nAda took the seed home and planted it in a pot. She watered it and gave it plenty of sunlight. To her amazement, the seed began to grow at an astonishing rate. Within a matter of days, it had grown into a beautiful tree, with thick, strong branches and vibrant green leaves.\n\nBut this was no ordinary tree. At the top, there was a magnificent golden apple. Ada knew that this must be a very special apple, so she climbed the tree to get it.\n\nAs she reached for the apple, a soft voice whispered to her. \"Ada, this apple holds the key to your wildest dreams. But beware, for one bite will grant you your heart's desire, while the other will keep you grounded in reality.\"\n\nAda hesitated for a moment, unsure of what to do. She thought about all the things she wanted in life. A loving family, a successful career, and the opportunity to travel the world.\n\nBut Ada was also a wise and thoughtful girl. She knew that reality was important, and that it was the foundation for all her dreams. So she decided to take a bite of the apple that kept her grounded in reality.\n\nAs soon as she took a bite, a warm and comforting feeling washed over Ada. She felt a sense of peace and contentment, knowing that she had made the right decision.\n\nAda's life was filled with joy and happiness. She went on to become a successful businesswoman, traveling the world and helping others along the way. She always remembered the lesson of the golden apple, and the importance of staying grounded in reality, even while chasing after her dreams.\n\nFrom then on, every night, Ada would look up at the tree, with its golden apple still shining brightly, and smile. She knew that as long as she had the tree, and the lessons it taught her, she would always have a reminder of what was truly important in life.\n\nAnd with that, Ada closed her eyes and drifted off to sleep, ready for another day of adventure and discovery. Goodnight, my dear daughter, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "wise": "mental",
+    "thoughtful": "mental",
+    "successful": "other",
+    "joyful": "emotional",
+    "happy": "emotional",
+    "content": "emotional",
+    "grounded": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

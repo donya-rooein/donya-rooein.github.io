@@ -1,0 +1,26 @@
+{
+  "id": "p-c-23-rp-3-gc-3",
+  "story": "Once upon a time in ancient China, there was a young boy named Liang who lived in a small village at the foot of a beautiful mountain. Liang was always curious and full of adventurous spirit. Every day, he would explore the lush forests, chase butterflies, and play with the animals that called the mountain their home.\n\nOne evening, as the sun began to set and the stars twinkled in the dark sky, Liang's father sat with him under the old oak tree in their backyard. \"My son,\" he said softly, \"I have a special story to tell you tonight.\"\n\nLiang's eyes widened with excitement as he settled in to listen. His father began, \"Long ago, there lived a wise old turtle who dwelled in a crystal-clear pond at the top of the mountain. It was said that the turtle possessed great knowledge and wisdom, and many from far and wide came seeking its guidance.\"\n\nLiang was captivated by the story and urged his father to continue. \"One day,\" his father went on, \"a terrible drought struck the village, causing crops to wither and rivers to dry up. The villagers were despairing, unsure of what to do.\"\n\nDetermined to help his village, Liang bravely set out on a journey to seek the wise old turtle at the top of the mountain. Along the way, he faced many challenges, but his determination never wavered.\n\nAfter a long and arduous climb, Liang finally reached the crystal-clear pond where the wise old turtle resided. With a humble heart, Liang asked for the turtle's guidance in bringing rain to the parched land below.\n\nThe wise old turtle looked at Liang with kind eyes and whispered ancient words that seemed to carry the promise of hope. And as Liang descended the mountain, dark clouds gathered overhead, and gentle rain began to fall, nourishing the thirsty earth.\n\nFrom that day on, Liang was hailed as a hero in the village, admired for his courage and wisdom. And the memory of his journey to seek the wise old turtle's guidance became a bedtime story that fathers would tell their children for generations to come.\n\nAs Liang's father finished the tale, he smiled at his son, whose eyes shone with wonder. \"Remember, my son,\" he said, \"true courage and wisdom come from within, just like the brave young boy in the story. Sleep now, and dream of your own adventures waiting to unfold.\"\n\nAnd with a heart filled with inspiration and dreams of his own, Liang drifted off to sleep under the watchful gaze of the moon and stars, feeling loved, safe, and ready to face whatever adventures tomorrow might bring.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "humble": "moral",
+    "courageous": "mental",
+    "wise": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

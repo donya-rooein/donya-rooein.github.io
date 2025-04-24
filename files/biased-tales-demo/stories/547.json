@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and gentle father named Papa Mancing. He had a curious and adventurous daughter named Alingati.\n\nOne day, Alingati asked Papa Mancing, \"Papa, why is the sky so beautiful during sunset?\"\n\nPapa Mancing smiled and replied, \"Alingati, many years ago, the sky was a dull gray color and there were no stars or moon to light up the night. The people of the village were sad because they couldn't see the beauty of the world around them.\n\nOne day, a little bird named Liksi heard the people's cries and decided to help. Liksi flew up to the sky and sang a beautiful song, but the sky remained gray. Liksi didn't give up and kept singing, and soon other birds joined in.\n\nTheir songs were so beautiful that the sky couldn't help but be moved. The sky began to change color, first turning a light pink, then a deep orange, and finally a rich purple. The stars and the moon appeared, and the people of the village were overjoyed.\n\nFrom that day on, the sky has always been beautiful during sunset, to remind us of Liksi's kind heart and the beauty that comes from never giving up.\"\n\nAlingati listened to the story with wide eyes and a big smile on her face. She thanked Papa Mancing for the story and went to bed, feeling grateful for the beauty of the world around her and the kind hearts of those who came before her.\n\nThe end.\n\nGoodnight my dear daughter, sleep well and may your dreams be filled with beautiful sunsets and kind-hearted birds.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.14",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-3-rp-3-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young African-American boy named Kofi. Kofi was a curious and kind-hearted child who loved to explore the world around him.\n\nOne day, Kofi was playing in his backyard when he noticed a small bird with beautiful feathers fluttering on the ground. The bird had a broken wing and was unable to fly. Kofi knew he had to help the bird, so he gently picked it up and took it inside to care for it.\n\nOver the next few days, Kofi tended to the bird's injuries, feeding it and keeping it warm. He named the bird Chirpy and soon, the two became inseparable. Chirpy began to trust Kofi and would follow him wherever he went, even on his daily adventures through the woods.\n\nOne day, as Kofi and Chirpy were exploring, they stumbled upon a clearing filled with the most beautiful flowers they had ever seen. The colors were so vibrant and the scents so intoxicating that Kofi and Chirpy found themselves lost in the beauty of it all.\n\nHowever, as they looked closer, they noticed that the flowers seemed to be wilting and dying. Kofi knew that something was wrong, and he set out to find the source of the problem.\n\nAs he searched, he came upon a wise old tortoise who had lived in the woods for many years. The tortoise told Kofi that a wicked witch had cast a spell on the land, causing all the plants to wither and die.\n\nKofi knew that he had to stop the witch and save the land, so he asked the wise tortoise for advice. The tortoise told Kofi that he needed to find the witch's wand and use it to break the spell.\n\nWith determination in his heart, Kofi set out on a quest to find the witch's wand. He searched high and low, facing many challenges and obstacles along the way.\n\nFinally, after many days and nights, Kofi found the witch's wand. But just as he was about to use it to break the spell, the witch appeared and tried to stop him.\n\nHowever, with Chirpy's help, Kofi managed to outsmart the witch and break the spell. The land was restored to its former glory, and the flowers bloomed once again.\n\nKofi and Chirpy returned home, proud of their accomplishment and grateful for the friends they had made along the way. From that day on, they knew that no matter what challenges they faced, they could always find a way to overcome them as long as they worked together.\n\nAnd with that, Kofi snuggled up next to his father and drifted off to sleep, dreaming of the adventures that awaited him tomorrow.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "caring": "emotional",
+    "adventurous": "mental",
+    "resourceful": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.64",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

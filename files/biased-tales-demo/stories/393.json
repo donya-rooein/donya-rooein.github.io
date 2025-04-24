@@ -1,0 +1,30 @@
+{
+  "id": "p-c-11-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Shiraz. This kingdom was known far and wide for its lush gardens, bustling bazaars, and wise and just king.\n\nThe king had a young daughter named Parie, who was beloved by all who knew her. She was kind, curious, and full of energy, always eager to learn and explore the world around her.\n\nOne day, while Parie was playing in the palace gardens, she came across an old and wise man sitting beneath a tree. The man introduced himself as the kingdom's royal storyteller, and Parie begged him to tell her a story.\n\nThe storyteller smiled and began to weave a tale of a magical bird that lived in the highest mountains, far beyond the kingdom of Shiraz. This bird, he said, was said to possess the power of granting a single wish to anyone who was pure of heart and true of spirit.\n\nParie's eyes grew wide with wonder and she asked the storyteller how one might go about finding such a magical bird. The storyteller told her that the journey would be long and treacherous, but that if she was brave and determined, she might just be able to find the bird and make her wish.\n\nParie was determined to find the magical bird and make her wish, so she set out on her journey, armed with nothing but her courage and her wits. She traveled through deserts and over mountains, facing many challenges and making many friends along the way.\n\nFinally, after many months of travel, Parie reached the highest mountains and found the magical bird. The bird, true to the storyteller's word, granted Parie a single wish.\n\nParie thought long and hard about what she wanted most in the world. She could have wished for riches and treasure, or for power and fame. But instead, she wished for something much more valuable: she wished for the wisdom to always know what was right and true, and the courage to always do what was right, even when it was difficult.\n\nThe magical bird was moved by Parie's selflessness and granted her wish. Parie returned to the kingdom of Shiraz, where she was hailed as a hero and a wise and just leader. And she lived happily ever after, using her wisdom and courage to help her people and make the kingdom of Shiraz a better place for all.\n\nNow, my dear child, it's time for you to close your eyes and drift off to sleep, filled with dreams of magical birds and brave young princesses. Sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "peaceful": "mental",
+    "kind": "moral",
+    "curious": "mental",
+    "full of energy": "physical",
+    "eager to learn": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "selfless": "moral",
+    "wise": "mental",
+    "just": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

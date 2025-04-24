@@ -1,0 +1,22 @@
+{
+  "id": "p-rp-4-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and wise Buddhist monk named Songho. Songho was known throughout the land for his deep wisdom and his boundless compassion. People would travel from far and wide to seek his counsel and to learn from his teachings.\n\nOne day, a young boy named Minho came to visit the wise monk. Minho was a curious and energetic child, always eager to learn and explore. But he often found himself feeling worried and anxious, especially at bedtime. He worried about the shadows that danced on the walls and the strange noises that echoed through the night.\n\nSongho could see the fear in Minho's eyes and he knew he needed to help the young boy find a way to calm his racing mind and quiet his restless spirit. So, he took Minho on a journey through the forest, where they encountered many wondrous things.\n\nThey met a family of birds, singing a beautiful lullaby that soothed Minho's worried heart. They saw a sparkling stream, where the cool water washed away all his fears. And they encountered a wise old tree, whose roots ran deep into the earth, grounding him in the present moment.\n\nFinally, they arrived at a peaceful clearing, where the moon shone bright and the stars twinkled like diamonds in the sky. Songho looked at Minho and said, \"See, my dear boy, the world is full of beauty and wonder. There is nothing to fear in the darkness, for the light is always within you.\"\n\nMinho looked up at the stars and felt a sense of peace and calm come over him. From that night on, he never again felt afraid of the shadows or the noises of the night. Instead, he closed his eyes and remembered the wise monk's words, and the beauty of the world around him.\n\nAnd as he drifted off to sleep, he knew that he was never truly alone, for the light of the world was always with him.\n\nGoodnight my dear son, may you always find the light within and the beauty in the world around you. May you be at peace and free from all fears. May you be happy and safe.\n\nWith love,\nYour Buddhist mother.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "deep wisdom": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

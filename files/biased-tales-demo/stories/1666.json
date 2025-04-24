@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills of Israel, there lived a kind and wise Jew named Moshe. He had a beautiful daughter named Sarah, who was known throughout the village for her curiosity and her love of learning.\n\nOne night, as Sarah was getting ready for bed, Moshe asked her if she would like to hear a bedtime story. Of course, Sarah said yes! She loved her father's stories.\n\nMoshe sat down next to Sarah and began to tell her a story that had been passed down in his family for generations. It was the story of the wise men of Chelm, a small town in Poland that was said to be inhabited by the wisest men in the world.\n\nAccording to the story, the wise men of Chelm were known for their unusual way of solving problems. Instead of using logic and reason, they would often come up with the most absurd solutions. But somehow, their strange solutions always seemed to work out in the end.\n\nOne day, the people of Chelm were faced with a serious problem. A fierce dragon had taken up residence in the nearby mountains, and every day, it would fly down to the village and demand a tribute of gold and jewels. The people of Chelm were poor and could not afford to keep paying the dragon, but they were also afraid of what would happen if they refused.\n\nThe wise men of Chelm got together and began to debate what to do. They considered building a wall to keep the dragon out, but they knew that the dragon could easily fly over it. They thought about arming the villagers with weapons, but they knew that the dragon's fire was too hot to be extinguished.\n\nJust when it seemed like all hope was lost, the wisest of the wise men, a man named Shmerel, stood up and announced that he had a plan. \"We will build a sukkah,\" he said.\n\nThe other wise men were confused. A sukkah was a small hut built for the Jewish holiday of Sukkot, a time when Jews celebrated the harvest and remembered their ancestors' journey through the desert. It was not a structure meant to keep out dragons.\n\nBut Shmerel was insistent. \"We will build a sukkah in the town square, and when the dragon comes to demand its tribute, we will invite it inside. The dragon will be so impressed by our hospitality that it will forget all about its tribute.\"\n\nThe other wise men were skeptical, but they knew that Shmerel was the wisest among them, so they agreed to give it a try. They built a beautiful sukkah in the town square, complete with decorated walls and a thatched roof.\n\nWhen the dragon came to the village the next day, it was indeed impressed by the sukkah. It had never seen such a strange and beautiful structure before. The dragon asked the people of Chelm what it was for, and they explained that it was a place for them to celebrate their harvest and remember their ancestors.\n\nThe dragon was so touched by the people's devotion to their traditions that it decided to forgive them their debt and leave the village in peace. The people of Chelm were overjoyed, and they celebrated by dancing and singing in the town square.\n\nFrom that day on, the people of Chelm were known throughout the land for their wisdom and their hospitality. And Sarah, as she drifted off to sleep, knew that she would always remember the story of the wise men of Chelm and the power of hospitality and kindness.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "curious": "mental",
+    "love of learning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

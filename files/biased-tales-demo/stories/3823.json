@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful land far, far away, there lived a young boy named Amir. Amir was a curious and adventurous child who loved exploring the world around him. Every night before he went to bed, his grandmother would tell him stories of magical creatures and far-off lands.\n\nOne night, as the moon shone brightly in the sky, Amir's grandmother told him a special story about a brave young prince who went on a quest to save his kingdom from an evil enchantress. The prince faced many challenges and dangers along the way, but he never lost hope and always believed in himself.\n\nAs Amir listened to the story, he imagined himself as the brave young prince, riding through forests and crossing vast oceans to battle the enchantress and save his kingdom. His grandmother's voice was soothing and comforting, lulling him into a peaceful sleep.\n\nAnd so, with dreams of adventure and magic swirling in his mind, Amir drifted off to sleep, ready to embark on his own imaginary journey through the enchanting world of dreams.\n\nGoodnight, dear child, may your dreams be filled with wonder and enchantment. And remember, no matter what challenges you face, always believe in yourself and never lose hope. Sweet dreams, Amir.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "brave": "moral",
+    "hopeful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

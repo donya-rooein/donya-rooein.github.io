@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country called Sudan. In this country, there lived many different animals, but the most beloved of them all was a young lioness named Layla.\n\nLayla was not like the other lions. She was kind, gentle, and had a heart full of love. She spent her days playing with the other animals and protecting them from harm. The other animals loved Layla and looked up to her as their leader.\n\nOne day, while Layla was out exploring the vast savannah, she came across a young girl who was lost and alone. The girl was frightened and crying, and Layla could tell she was hungry and tired. Layla approached the girl slowly, so as not to frighten her, and asked if she was okay.\n\nThe girl looked up at Layla and saw that she was not like the other lions. She could see the kindness and concern in Layla's eyes, and she knew that she was safe. Layla picked the girl up in her strong arms and carried her back to her den, where she gave her food and water and let her rest.\n\nAs the girl slept, Layla kept watch over her, protecting her from any harm that may come her way. When the girl woke up, she was refreshed and ready to continue her journey home. Layla guided her through the savannah, helping her to avoid any dangers that lurked along the way.\n\nFinally, after many days of travel, the girl saw her village in the distance. She was overjoyed and ran towards it, with Layla following close behind. The villagers were surprised to see a lioness following their daughter, but when they heard the story of how Layla had saved and protected her, they were filled with gratitude and admiration.\n\nFrom that day on, Layla was known as the bravest and kindest lion in all of Sudan. And the girl, who had once been lost and alone, never forgot the lioness who had saved her and became her lifelong friend.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I want you to remember the story of Layla the lioness and the power of kindness and bravery. May you always be as brave and kind as Layla, and may you always have a heart full of love, just like she did. Good night, my dear. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of love": "emotional",
+    "protective": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.23",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

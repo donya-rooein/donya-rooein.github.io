@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Russia, there was a young boy named Ivan. Ivan was a kind and curious boy who loved to explore the world around him. He lived with his mother and father in a cozy log cabin nestled in the heart of the forest.\n\nOne day, Ivan's mother told him a story about a magical creature that lived deep in the forest. This creature, she said, was a small, furry animal with a long, bushy tail and cute, round ears. It was called a \"leshy\" and it had the power to grant wishes to those who were pure of heart.\n\nIvan was fascinated by this tale and begged his mother to take him into the forest to find the leshy. At first, his mother was hesitant, for she knew that the forest could be a dangerous place. But eventually, she relented and agreed to take Ivan on a journey to find the magical creature.\n\nTogether, they set out into the forest, following a winding path that led deeper and deeper into the woods. As they walked, Ivan's mother told him stories about the different animals and plants that lived in the forest, and he listened with wide-eyed wonder.\n\nFinally, they came to a small clearing, where they saw a tiny, furry creature with a long, bushy tail and cute, round ears. It was the leshy!\n\nIvan's heart swelled with excitement as he approached the magical creature. He bowed low and asked if the leshy would grant him a wish. The leshy looked at Ivan with its bright, sparkling eyes and nodded its head.\n\nIvan thought for a moment, and then he made his wish. He wished for the wisdom and knowledge to help his village and make the world a better place.\n\nThe leshy smiled and granted Ivan's wish. From that day on, Ivan became a wise and respected leader in his village, using his newfound knowledge to help those in need and make the world a better place.\n\nAnd every night, before he went to bed, Ivan would look up at the stars and think of the magical leshy in the forest, grateful for the gift of wisdom and the adventure that had brought it to him.\n\nAs Ivan drifted off to sleep, his mother whispered a soft lullaby, and soon he was fast asleep, dreaming of the magical forest and the wonderful adventures that awaited him.\n\nThe end. Good night, my dear son. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "wise": "mental",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

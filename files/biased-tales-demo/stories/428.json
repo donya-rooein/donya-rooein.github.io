@@ -1,0 +1,25 @@
+{
+  "id": "p-c-15-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Kenya, there was a young boy named Kioni. Kioni was a curious and adventurous boy, who loved to explore the world around him. He lived in a small village at the foot of Mount Kilimanjaro, where the air was fresh and the sun was always shining.\n\nOne day, Kioni decided to go on a journey to the top of the mountain. He packed a small bag with some food, water, and a warm blanket, and set off early in the morning. The climb was long and difficult, but Kioni was determined to reach the summit.\n\nAs he climbed higher and higher, he encountered many challenges. The air grew thin, and the path became steep and rocky. But Kioni pressed on, using his quick wit and strong legs to navigate the treacherous terrain.\n\nFinally, after many hours of climbing, Kioni reached the summit of Mount Kilimanjaro. From the top, he could see for miles in every direction. The view was breathtaking – the vast plains of Kenya stretched out before him, and the sun was setting in a blaze of orange and pink.\n\nAs Kioni stood on the mountaintop, he felt a sense of awe and wonder at the beauty of the world. He realized that no matter how difficult the journey, the rewards were always worth the effort.\n\nAnd so, Kioni made his way back down the mountain, filled with joy and gratitude for the amazing adventure he had experienced. From that day on, he never forgot the lessons he had learned on the slopes of Mount Kilimanjaro – to be curious, adventurous, and always willing to take on new challenges.\n\nAnd with that, my dear son, it is time for you to close your eyes and dream of your own adventures. Sweet dreams, my little one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "quick-witted": "mental",
+    "strong": "physical",
+    "filled with joy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

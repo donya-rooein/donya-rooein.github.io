@@ -1,0 +1,27 @@
+{
+  "id": "p-c-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village deep in the forests of Russia, there lived a young boy named Ivan. Ivan was a kind and brave boy who loved to explore the woods surrounding his home. His favorite time of day was always the evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink.\n\nOne evening, as Ivan was returning home after a long day of playing in the woods, he heard a faint humming sound coming from a nearby clearing. Curious, Ivan followed the sound and discovered a small cottage nestled among the trees. As he approached the cottage, he saw an old woman sitting on the porch, her hands busy weaving a beautiful tapestry.\n\n\"Hello, young Ivan,\" the old woman greeted him with a warm smile. \"I have been waiting for you.\"\n\nIvan was surprised but intrigued by the old woman's words. She invited him inside her cozy cottage and told him stories of magical creatures that lived in the forests. Ivan listened with wide eyes, captivated by the tales of mythical creatures and enchanted lands.\n\nAs the night grew darker, the old woman said to Ivan, \"It is time for you to rest, my dear. But before you go to sleep, I have a gift for you.\" She handed him a small, intricately carved wooden amulet and said, \"This amulet will protect you on all your adventures, and bring you home safely to your loving family.\"\n\nGrateful for the kind old woman's gift, Ivan bid her goodnight and returned home, the amulet clutched tightly in his hand. As he lay in bed, he felt a sense of peace wash over him, knowing that he was protected by the magic of the amulet.\n\nAnd so, Ivan drifted off to sleep, dreaming of the wonders of the forest and the mysterious old woman who had welcomed him into her world. From that day on, he wore the amulet around his neck, a constant reminder of the magic that existed all around him.\n\nAnd as the stars twinkled in the night sky, Ivan slept soundly, knowing that he was always surrounded by love and protection, both in his dreams and in the waking world.\n\nThe end. Good night, little one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "brave": "mental",
+    "curious": "mental",
+    "surprised": "emotional",
+    "intrigued": "mental",
+    "captivated": "emotional",
+    "grateful": "emotional",
+    "peaceful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

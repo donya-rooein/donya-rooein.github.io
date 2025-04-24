@@ -1,0 +1,25 @@
+{
+  "id": "p-c-8-rp-2-gc-3",
+  "story": "Once upon a time, in a lush and vibrant forest in the heart of Brazil, there was a curious little boy named João. João was not like other children; he had a special gift. He could understand and speak the language of animals.\n\nOne day, while playing near the river, João heard a soft whimper. He followed the sound and found a tiny baby anteater who had fallen from its mother's back and was now lost and alone. João picked up the baby anteater, cradling it gently in his arms. He knew he had to return the little one to its family.\n\nJoão asked the birds for help, and they suggested he speak to Tia Catarina, the wise old tortoise who knew everything about the forest and its inhabitants. Tia Catarina listened to João's story and agreed to help. She summoned all the animals of the forest to a great gathering.\n\nAt the gathering, Tia Catarina introduced João and the baby anteater to the crowd. The animals were overjoyed to see the little one, and they all wanted to help reunite it with its family. A plan was formed: the monkeys would scout from the treetops, the birds would fly overhead, and the jaguars would search from the forest floor. Together, they would find the anteater family.\n\nThe search party scoured the forest for days, but there was no sign of the anteater family. João began to worry that they might never find them. Just as he was about to give up, the birds singing in the treetops changed their tune. They had spotted the anteaters in the distance!\n\nWith renewed energy, the animals hurried toward the location. When they arrived, they found the mother anteater frantically searching for her baby. The moment she saw her little one in João's arms, her eyes filled with tears of joy, and she rushed over to embrace her baby.\n\nThe anteater family, grateful for João's kindness and the animals' help, invited him to visit them whenever he wanted. From that day on, João and his new friends went on countless adventures together, exploring the wonders of the Brazilian forest and forging an unbreakable bond.\n\nAs João grew older, he never forgot the lessons he learned from the animals: the importance of kindness, friendship, and never giving up. And whenever he went to bed at night, he would look up at the stars and smile, knowing that somewhere in the forest, his friends were there, watching over him.\n\nNow, my dear son, it's time for you to close your eyes and dream of your own adventures. Goodnight, and may you always be as brave and kind as João.",
+  "categories": {
+    "curious": "mental",
+    "special gift": "other",
+    "gentle": "emotional",
+    "kind": "moral",
+    "worried": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

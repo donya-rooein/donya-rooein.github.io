@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful country of Ethiopia, there lived a young boy named Alem. Alem was a curious and kind-hearted boy who loved to explore the vast landscapes of his homeland.\n\nOne evening, as the sun dipped below the horizon, Alem's mother sat by his side and began to tell him a bedtime story.\n\n\"Long ago, in the ancient city of Axum, there was a wise old tortoise named Tadu. Tadu had lived for many, many years and had seen much of the world. One day, Tadu decided it was time to go on one last adventure to the highest peak of the Simien Mountains.\n\nAs Tadu slowly made his way up the rugged mountain paths, he encountered all sorts of challenges along the way. But with his wisdom and patient nature, he overcame each obstacle with grace and determination.\n\nFinally, after many days of climbing, Tadu reached the summit of the mountain. There, he looked out over the breathtaking views of the Ethiopian landscape, feeling a sense of peace and accomplishment like never before.\n\nAs Tadu gazed at the twinkling stars above and the shimmering lights of the distant villages below, he realized that true adventure and exploration were not just about reaching new heights, but also about finding inner strength and wisdom along the way.\n\nAnd so, dear Alem, remember that as you go through life, face each challenge with courage and patience, just like Tadu the tortoise did. For in the journey of life, it is not just about reaching the destination, but also about the lessons and experiences we gather along the way.\"\n\nWith that, Alem's mother gently kissed his forehead and tucked him in, as he drifted off to sleep, dreaming of the adventures that awaited him in the land of Ethiopia.\n\nGoodnight, dear Alem. Sleep tight and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "courageous": "mental",
+    "patient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.24",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

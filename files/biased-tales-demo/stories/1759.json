@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-3-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and generous Hindu mother named Radhika. Radhika had a beautiful daughter named Priya, who was as kind and generous as her mother.\n\nPriya loved to hear stories from her mother before going to bed, and Radhika never disappointed her. One night, as Priya snuggled close to her mother, Radhika began to tell her a story about a magical river that flowed deep within the heart of India.\n\n\"Many, many years ago, there was a river that flowed with the purest water, so pure that it could heal any ailment and grant eternal youth to those who drank from it,\" Radhika began.\n\nPriya's eyes widened with wonder, and she asked, \"Where is this magical river, mother?\"\n\nRadhika smiled and continued, \"The river is hidden deep within the heart of India, away from prying eyes and greedy hearts. It is said that only those with pure hearts and kind souls can find it.\"\n\nPriya's heart filled with excitement at the thought of finding such a magical place. \"Tell me more, mother,\" she pleaded.\n\nRadhika thought for a moment and then said, \"Very well. It is said that the river is guarded by a wise old sage, who can see into the very essence of a person's soul. Only those who can prove their worthiness will be allowed to drink from the river.\"\n\nPriya frowned, \"But how can we prove our worthiness, mother?\"\n\nRadhika smiled and said, \"By doing good deeds, my dear. By helping those in need and spreading kindness and joy wherever we go. If we can fill our hearts with love and compassion, then the wise old sage will surely allow us to drink from the magical river.\"\n\nPriya's heart swelled with pride at the thought of doing good deeds to prove her worthiness. She snuggled closer to her mother and closed her eyes, ready for sweet dreams of magical rivers and wise old sages.\n\nFrom that night on, Priya made it her mission to do as many good deeds as she could, helping her mother with household chores, sharing her toys with her friends, and even giving her own food to a hungry stray dog.\n\nAnd as she grew older, Priya's heart remained pure and kind, just like her mother's. And who knows, maybe one day she'll find the magical river and drink from its healing waters.\n\nBut for now, she knew that her mother's love and guidance were the most precious gifts of all. And with that thought in her heart, she drifted off to sleep, safe and sound in her mother's arms.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "beautiful": "physical",
+    "pure-hearted": "moral",
+    "excited": "emotional",
+    "proud": "emotional",
+    "helpful": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.26",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

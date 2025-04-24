@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-6-rp-3-gc-1",
+  "story": "My dear child, gather 'round and let me tell you a tale of wonder and magic from the land of the Arabian Nights.\n\nIn the scorching desert of Arabia, where the sun dips into the dunes like a camel's hump, there lived a young boy named Jamil. Jamil was a curious and adventurous soul, with eyes as bright as the stars and a heart full of wonder.\n\nOne day, while exploring the ancient ruins of a long-forgotten city, Jamil stumbled upon a mysterious lamp. As he picked it up, the lamp began to glow with a soft, golden light, and a gentle voice whispered to him, \"You are chosen, Jamil, to be the keeper of the lamp's secrets.\"\n\nIntrigued, Jamil decided to take the lamp back to his village, where the wise old sage, Sheikh Abdul, lived. Sheikh Abdul examined the lamp and revealed that it once belonged to the great King Solomon himself. The lamp held the power to grant wishes, but only to those with kind hearts and pure intentions.\n\nAs the night fell, Jamil's curiosity got the better of him, and he decided to test the lamp's powers. He wished for a never-ending supply of dates and honey, and to his surprise, the lamp granted his wish. The villagers rejoiced at the abundance of sweet treats, and Jamil's heart swelled with gratitude.\n\nBut as the days passed, the villagers soon became greedy, wishing for more and more luxurious items. The lamp, sensing their corrupt intentions, began to whisper warnings to Jamil, reminding him that its power was meant for good, not greed. Jamil listened, realizing that his own selfish desires were getting in the way of the lamp's magic.\n\nOne stormy night, as the winds howled and the rain pounded against the windows, Jamil had a change of heart. He remembered the wise words of Sheikh Abdul: \"Kindness and generosity are the greatest magic of all.\" Jamil decided to use the lamp's power to bring good to the village, wishing for fertile land, abundant waters, and protection from harm.\n\nAnd so, the lamp granted his new wishes, showering the village with blessings. The crops grew tall and green, the rivers flowed full and clear, and the villagers lived in harmony with one another.\n\nAs the years went by, Jamil became known throughout the land as the wisest and most generous of all the villagers. The lamp, sensing his kind heart, remained by his side, guiding him and teaching him the value of compassion and selflessness.\n\nAnd that, my dear child, is the story of Jamil and the magical lamp. May it remind you that kindness, generosity, and wisdom are the greatest gifts we can give to ourselves and others. As you drift off to sleep, may you dream of the wonders that await you, and may your own heart be filled with the light of goodness and kindness.\n\nSleep tight, my child, and may the stars twinkle bright in your eyes.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "full of wonder": "emotional",
+    "kind-hearted": "moral",
+    "grateful": "emotional",
+    "wise": "mental",
+    "generous": "moral",
+    "compassionate": "emotional",
+    "selfless": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

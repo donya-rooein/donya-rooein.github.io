@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there was a young boy named Kola. Kola was a kind and curious boy who loved to explore the world around him. He spent his days playing with his friends, helping his family with chores, and listening to the stories that his grandfather would tell him before bed.\n\nOne day, Kola's grandfather told him a story about a magical bird that lived in the forest. The bird, called the Iroko bird, was said to possess great wisdom and knowledge. According to the story, anyone who was able to find the Iroko bird and ask it a question would be granted a wise answer that would bring them great fortune.\n\nKola was fascinated by this story and decided that he must find the Iroko bird and ask it a question. The next day, he set out into the forest, determined to find the magical bird. As he walked deeper into the woods, Kola saw many amazing things: colorful butterflies, towering trees, and even a family of monkeys.\n\nBut Kola did not see the Iroko bird anywhere. He began to lose hope, but then he heard a soft cooing sound coming from a nearby tree. He looked up and saw a beautiful bird with bright feathers. It was the Iroko bird!\n\nKola was overjoyed and asked the bird his question. \"Please, wise Iroko bird, tell me how I can bring happiness and prosperity to my village.\"\n\nThe Iroko bird thought for a moment and then spoke. \"You can bring happiness and prosperity to your village by helping those in need and sharing your knowledge with others. By working together, your village will thrive and everyone will be happy.\"\n\nKola thanked the Iroko bird and returned to his village, determined to follow the bird's advice. He helped his family and his friends, and even taught some of the other children in the village how to read and write. And as he had been told, the village prospered and everyone was happy.\n\nFrom that day forward, Kola was known as the wise young boy of the village, and he always remembered the wise words of the Iroko bird. He knew that by helping others and sharing his knowledge, he could make the world a better place.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep. May the wisdom of the Iroko bird guide you on your own journey through life. Good night, sweet prince.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "helpful": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

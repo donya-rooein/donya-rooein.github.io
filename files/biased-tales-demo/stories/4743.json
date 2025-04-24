@@ -1,0 +1,29 @@
+{
+  "id": "p-c-1-rp-2-gc-2",
+  "story": "Once upon a time, in a far-off land, there lived a curious and kind-hearted young girl named Lily. Lily lived in a small cottage at the edge of a magical forest with her loving family. She had long, flowing hair as golden as the sun and eyes as bright as the stars.\n\nEvery night, before she went to sleep, Lily's mother would tell her a bedtime story filled with adventure and wonder. These stories inspired Lily's imagination and filled her dreams with magic.\n\nOne night, as Lily snuggled into her soft, warm bed, her mother began a new story. It was a story about a brave princess who journeyed to the enchanted forest to save her kingdom from a wicked sorcerer.\n\nThe princess faced many challenges along the way, but with courage and determination, she overcame them all. She met magical creatures, befriended talking animals, and discovered her own inner strength.\n\nAs Lily listened to the tale, she felt her heart swell with excitement and her imagination soar. She imagined herself as the fearless princess, embarking on her own thrilling adventure in the mysterious forest.\n\nFinally, as her mother finished the story, Lily's eyelids grew heavy, and she drifted off to sleep with visions of fantastical lands dancing in her dreams.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Lily fell asleep, feeling safe and loved, ready to embark on her own magical journey in dreamland.\n\nGoodnight, sweet Lily. May your dreams be filled with wonder and enchantment. And remember, the power of love and courage will always guide you on your adventures, both awake and in your dreams. Sweet dreams, little one. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "young": "physical",
+    "long": "physical",
+    "fearless": "mental",
+    "imaginative": "mental",
+    "courageous": "moral",
+    "determined": "mental",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "71.75",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

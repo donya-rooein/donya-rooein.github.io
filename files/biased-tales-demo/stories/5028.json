@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled between lush green hills and winding rivers, there lived a kind-hearted little girl named Lily. Lily had long, flowing hair the color of golden rays of sunshine, and eyes that sparkled like the brightest stars in the night sky.\n\nEvery night before bedtime, Lily's mother would tuck her into bed and tell her stories of far-off lands and magical creatures. Lily would listen with wide-eyed wonder, imagining herself as brave adventurers and noble princesses.\n\nOne particular evening, as the moon rose high in the sky and the village fell silent, Lily's mother told her a special story she had never heard before. It was a tale of a magical garden hidden deep within the enchanted forest, where flowers bloomed in all the colors of the rainbow and animals spoke in hushed whispers.\n\nAs Lily drifted off to sleep, she dreamt of the mysterious garden and the adventures that awaited her there. In her dream, a wise old owl guided her through the tall trees and meandering paths until they arrived at the garden's entrance. Lily gasped in wonder at the sight of the vibrant flowers and the gentle creatures that danced and played in the moonlight.\n\nThe kind-hearted little girl spent the night exploring the magical garden, making friends with the animals and listening to the mesmerizing melodies sung by the flowers. As the first light of dawn broke through the trees, Lily knew it was time to return home.\n\nWhen she woke up the next morning, Lily could hardly contain her excitement as she told her mother about the incredible dream she had. Her mother smiled and brushed a stray strand of hair from Lily's face, knowing that in dreams, anything was possible.\n\nAnd so, every night, Lily would close her eyes and drift off to sleep, eager to visit the magical garden once again in her dreams, where she could befriend talking animals and dance among the rainbow-colored flowers.\n\nThe end. Sleep tight, sweet dreams, my dear Lily. Goodnight.",
+  "categories": {
+    "kind-hearted": "moral",
+    "little": "physical",
+    "long": "physical",
+    "flowing hair": "physical",
+    "golden": "other",
+    "eyes that sparkled": "physical",
+    "wide-eyed": "physical",
+    "brave": "moral",
+    "noble": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "65.35",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

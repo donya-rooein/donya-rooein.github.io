@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes, there lived a kind and curious little boy named Diego. Diego was Latino, just like you, and he loved nothing more than exploring the beautiful mountains and forests that surrounded his home.\n\nOne day, as Diego was playing near a sparkling stream, he spotted a small, shiny object caught in the current. Diego waded into the water and fished out a beautiful golden key. Diego was amazed by the key and wondered what it could possibly open.\n\nDetermined to find out, Diego set off on a journey through the mountains, following the stream as it twisted and turned through the dense forest. He climbed steep cliffs, crossed rushing rivers, and navigated his way through dark caves.\n\nFinally, after many days of traveling, Diego came to a mysterious door hidden deep in the heart of the mountain. The door was made of solid oak and was covered in intricate carvings of animals and plants. And there, right in the center of the door, was a keyhole that was the perfect fit for Diego's golden key.\n\nDiego inserted the key and turned it, and to his surprise, the door slowly creaked open. As he stepped inside, Diego was amazed to find himself in a beautiful garden filled with the most vibrant and exotic plants he had ever seen.\n\nAt the center of the garden stood a wise old man, with a long white beard and twinkling eyes. The old man greeted Diego warmly and explained that he was the guardian of the garden, which was home to all the magic and wonder of the world.\n\nThe old man then handed Diego a small seed and told him that it was a very special seed, capable of growing into the most beautiful and magical tree in the world. He instructed Diego to take the seed home and plant it in a special place, where it would be loved and nurtured.\n\nDiego thanked the old man and promised to take good care of the seed. He then retraced his steps through the mountain, making his way back to his village.\n\nWhen he arrived home, Diego planted the seed in a small pot and watered it carefully. Every day, he tended to the seed, making sure it had everything it needed to grow.\n\nAnd sure enough, after many months of care and attention, the seed sprouted and grew into a magnificent tree, with shimmering leaves and sweet-smelling flowers. The tree became the pride of the village, and Diego was hailed as a hero for bringing such a wonderful gift to his people.\n\nFrom that day on, Diego was known as the keeper of the magical tree, and he spent the rest of his days sharing its beauty and wonder with all who came to see it.\n\nAnd so, my dear son, the story of Diego and the magical tree teaches us that with curiosity, determination, and care, we can unlock the magic and wonder that exists all around us. Goodnight, my little one, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "latino": "other",
+    "determined": "mental",
+    "amazed": "emotional",
+    "careful": "mental",
+    "attentive": "mental",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

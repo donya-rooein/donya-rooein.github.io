@@ -1,0 +1,23 @@
+{
+  "id": "p-c-25-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind-hearted little girl named Linh. Linh lived with her mother, who was a skilled weaver, and her father, who was a wise farmer.\n\nEvery day, Linh would help her mother weave beautiful silk scarves and blouses while her father took care of the rice fields. The villagers loved Linh's family for their kindness and hard work.\n\nOne day, a hungry tiger came down from the mountains and started attacking the villagers' livestock. The villagers were terrified and did not know what to do.\n\nLinh, being the brave girl she was, decided to talk to the tiger and see if she could help. She packed some food and went up to the mountains where the tiger lived.\n\nWhen she found the tiger, she approached him slowly and spoke in a soft voice, \"Hello, Mr. Tiger. I heard that you are hungry and that is why you have been attacking our livestock. I brought you some food to eat. Please do not hurt our animals anymore.\"\n\nThe tiger was surprised by Linh's kindness and accepted the food. From that day on, the tiger stopped attacking the villagers' livestock and instead became their protector. He would chase away any wild animals that came near the village.\n\nThe villagers were grateful to Linh and the tiger for their protection. They would often invite Linh and her family over for dinner, and the tiger would join them, sitting quietly at a distance.\n\nLinh and the tiger became the best of friends, and the villagers lived in peace and harmony. They all learned that kindness and understanding could bring about the most unexpected friendships.\n\nAnd so, every night, Linh would go to bed with a smile on her face, knowing that she had made a difference in her village.\n\nGoodnight, my dear daughter. May you always be as kind-hearted and brave as Linh.",
+  "categories": {
+    "kind-hearted": "moral",
+    "brave": "moral",
+    "helpful": "moral",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.10",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.14",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time in the vast deserts of Sudan, there lived a little antelope named Zara. Zara was known for her adventurous spirit and kind heart. She loved exploring the golden sands and playing with the other animals of the desert.\n\nOne day, as the sun began to set and the stars started to appear in the darkening sky, Zara found herself lost in the desert. She wandered further and further away from her home, feeling scared and alone.\n\nJust when Zara thought she would never find her way back, she heard a soft voice calling out to her. It was Sanaa, a wise old tortoise who glided towards her with gentle, reassuring words. Sanaa told Zara that she knew the desert like the back of her shell, and promised to guide her back home safely.\n\nTogether, Zara and Sanaa journeyed through the silent dunes, with the moon lighting their way. Along the path, they encountered friendly camels, playful meerkats, and a family of graceful gazelles who joined them on their journey.\n\nAs they traveled, Sanaa shared stories of the desert and its wonders, teaching Zara about the beauty and magic that surrounded them. Zara listened intently, feeling grateful for the companionship and wisdom of her new friend.\n\nFinally, as the first light of dawn began to break over the horizon, Zara and her new friends arrived back at her home. Zara's family greeted her with open arms, relieved to see her safe and sound. They thanked Sanaa for her kindness and guidance, inviting her to stay for a rest before continuing her own journey through the desert.\n\nAnd so, under the glowing sunrise, Zara snuggled into her cozy nest, feeling full of gratitude and love for the friends who had helped her find her way back home. As she drifted off to sleep, she knew that no matter where her adventures took her, she would always have the memories of this magical night in the desert to keep her company.\n\nAnd with that comforting thought, Zara and her friends closed their eyes, the desert enveloping them in its peaceful embrace as they dreamed of new adventures yet to come. Goodnight, little one. Sleep well, and may your dreams be as endless as the desert sands.",
+  "categories": {
+    "adventurous spirit": "mental",
+    "kind heart": "moral",
+    "scared": "emotional",
+    "alone": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

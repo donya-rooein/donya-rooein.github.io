@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-3-gc-3",
+  "story": "Once upon a time, in the heart of the ancient city of Thebes, there lived a kind and brave young boy named Ahmose. He was the son of a great and powerful pharaoh, and was beloved by all who knew him.\n\nOne day, Ahmose was exploring the hidden chambers of the royal palace when he stumbled upon a secret door that he had never seen before. With a sense of excitement and wonder, he slowly pushed the door open and stepped inside.\n\nTo his amazement, Ahmose found himself in a beautiful and magical garden, filled with lush plants and vibrant flowers that he had never seen before. In the center of the garden, there was a magnificent tree, its branches laden with sparkling jewels and golden fruits.\n\nAhmose knew that he had discovered something truly special, and he couldn't wait to share his discovery with his family and friends. But as he turned to leave, he heard a soft voice calling out to him.\n\n\"Wait, young prince,\" the voice said. \"I have been waiting for you for a very long time.\"\n\nAhmose spun around, and to his surprise, he saw a beautiful and wise-looking woman standing before him. She was dressed in flowing robes of the finest linen, and her eyes sparkled with kindness and wisdom.\n\n\"Who are you?\" Ahmose asked, his voice trembling with awe.\n\n\"I am the goddess Hathor, the protector of love and joy,\" the goddess replied. \"I have been watching over you, and I have chosen you to be the guardian of this magical garden.\"\n\nAhmose was overwhelmed with gratitude and excitement. He vowed to protect the garden with all his heart, and to share its beauty and magic with the world.\n\nFrom that day forward, Ahmose spent all his free time in the magical garden, tending to the plants and enjoying their beauty. And as he grew older, he became known throughout the kingdom as a wise and kind ruler, who brought joy and happiness to all his people.\n\nAnd so, Ahmose lived a long and fulfilling life, surrounded by the love and magic of the garden and the goddess Hathor. And every night, as he lay in his bed, he would think of the magical garden and the goddess who had changed his life forever.\n\nGoodnight, my son. May you always be surrounded by love and magic, just like Ahmose. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "young": "physical",
+    "beloved": "emotional",
+    "wise": "mental",
+    "kind ruler": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

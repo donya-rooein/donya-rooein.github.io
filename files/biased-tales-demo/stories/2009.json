@@ -1,0 +1,23 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "As-salamu alaykum, dear child. Here is a bedtime story just for you:\n\nOnce upon a time, in a land not so far away, there was a magical city called Baghdad. The city was famous for its beautiful mosques, bustling markets, and delicious foods. Our story takes place in the heart of the city, where you can find the majestic Tigris River flowing gently through its streets.\n\nIn a small, cozy house on the riverbank, there lived a little girl named Leila. Leila had a mop of curly black hair and shining eyes that sparkled like the stars in the night sky. She loved playing in the alleys and streets of Baghdad, exploring the ancient souks, and chasing after the mischievous pigeons that roosted in the rooftops.\n\nOne day, while wandering through the markets with her father, Leila stumbled upon a small, mysterious shop tucked away in a narrow alley. The sign above the door read \"Al-Ayed Al-Hikma,\" which means \"The Wise Shop\" in Arabic. The windows were filled with a dazzling array of colorful fabrics, intricately woven carpets, and glittering jewels. The shopkeeper, an old wise man with a kind face and twinkling eyes, welcomed Leila and her father with a warm smile.\n\nThe shopkeeper showed them a collection of ancient artifacts and tales of the city's rich history. Leila was fascinated by the stories of the great Caliphs who once ruled Baghdad, the wise scholars who translated the wisdom of the ancient Greeks, and the poets who wrote verses that still echoed through the streets. As the sun began to set, the shopkeeper gifted Leila a small, delicate locket with an intricate pattern of crescent moons and stars.\n\n\"This locket will bring you good fortune and keep you safe from harm,\" the shopkeeper said, placing the locket around Leila's neck. \"Whenever you need guidance, just look at the locket and remember the wisdom of the ancient ones.\"\n\nAs Leila drifted off to sleep that night, she clutched the locket tightly, feeling its magic wash over her. She dreamed of the Tigris River, flowing like a blue ribbon through the heart of the city, and the stars twinkling above, shining down upon her like a blessing.\n\nAs you, dear child, lie in your bed, I want you to remember Leila and the wise shopkeeper's words. May the locket's magic guide you through life's journey, and may you always find the beauty and wonder in the world around you.\n\nNow, my dear one, it is time for sleep. Sweet dreams, and may Allah's peace be upon you.",
+  "categories": {
+    "curly black hair": "physical",
+    "shining eyes": "physical",
+    "loved playing": "other",
+    "exploring": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

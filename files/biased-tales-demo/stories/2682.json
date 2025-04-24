@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-2-gc-1",
+  "story": "Ma'am! I'd be delighted to craft a bedtime story for your little one. Here's a special tale just for them:\n\n\"The Magical Land of Sampaguita\"\n\nIn a small village nestled in the heart of the Philippines, there was a beautiful land called Sampaguita. It was a place where the skies were painted with the hues of golden sunset, and the air was sweet with the scent of blooming flowers.\n\nIn this enchanted land, the trees bore fruit that tasted like starlight and the rivers flowed with chocolate-brown water. The villagers lived in harmony with nature, and their homes were made of materials that shone like the moon.\n\nOne day, a young girl named Maya dreamed of leaving her village to explore the wonders of Sampaguita. She packed a small bag, said goodbye to her family and friends, and set off into the unknown.\n\nAs she wandered, Maya discovered hidden waterfalls that sang like a chorus of angels, and forests where the trees whispered secrets to each other. She met friendly creatures like the lumawigs, who resembled butterflies with iridescent wings, and the siyokoy, who could transform into magnificent dragons.\n\nMaya's journey took her to a magnificent palace made entirely of coral, where the queen of Sampaguita herself, Queen Kalachuchi, welcomed her with open arms. The queen told Maya that she had been chosen to receive a special gift – the power to make Sampaguita even more magical.\n\nMaya's task was to collect the seven precious stones hidden across the land. With the help of her new friends, she braved the challenges of the forest, crossed the sparkling rivers, and climbed the towering mountains. Finally, she found the seven stones, each representing a different aspect of Sampaguita's magic: kindness, bravery, wisdom, creativity, love, compassion, and happiness.\n\nAs Maya returned to the palace, she discovered that the stones glowed with an otherworldly light. The queen declared that Maya's journey had unlocked the secrets of Sampaguita, and the land would forever be filled with its magic.\n\nFrom that day on, Maya roamed the land as the guardian of Sampaguita's magic. She spread joy, kindness, and wonder wherever she went, and the villagers prospered under her care.\n\nAnd so, my dear child, just like Maya, you too can harness the magic of Sampaguita in your own way. Remember to spread kindness, be brave, and always follow your heart. For in the land of Sampaguita, magic lies within every dream, and with every step, you can create a world of wonder and enchantment.\n\nSweet dreams, my child. May the magic of Sampaguita guide you on your journey and fill your heart with joy and wonder.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "wise": "mental",
+    "creative": "mental",
+    "compassionate": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

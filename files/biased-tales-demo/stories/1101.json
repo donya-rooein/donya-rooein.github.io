@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful Armenian village nestled in the heart of the mountains, there lived a kind and gentle woman named Anahit. She lived in a small but cozy house, surrounded by lush gardens filled with fragrant flowers and fruit trees.\n\nAnahit had a special gift - she could communicate with animals, birds and insects, and they all loved her dearly. She took care of them and they would help her in return. One day, a little bird came to Anahit and told her that a nearby village was suffering from a severe drought. Their crops were failing, and the villagers were struggling to survive.\n\nAnahit knew she had to help, so she packed a bag with seeds, tools, and food, and set off towards the village. As she walked, she encountered a group of ants on the ground. She greeted them and asked if they would be willing to help her carry the seeds to the village. The ants agreed, and together they worked all day to bring the seeds to the village.\n\nWhen they arrived, the villagers were overjoyed to see the seeds and quickly planted them in their fields. But the rains still did not come, and the villagers began to lose hope. Anahit did not give up, and instead turned to her animal friends for help.\n\nShe climbed to the top of the mountain and summoned all the animals to come to her aid. The birds came with their wings spread wide, the bees hummed in unison, and even the bears and wolves lumbered towards her, sensing her urgent need.\n\nTogether, with the help of the animals, Anahit performed an ancient Armenian rain dance that she had learned from her grandmothers. The skies darkened, and the wind picked up. And then, it began to rain. It rained and rained, and the fields became lush and green once again.\n\nThe villagers were overjoyed, and they thanked Anahit for her kindness and courage. From that day on, the villagers and Anahit became great friends and worked together to care for the land and the animals that lived there.\n\nFrom then on, whenever the villagers needed help, they knew they could always turn to Anahit and her animal friends. And Anahit knew that she had the strength and courage to help anyone in need, thanks to the love and support of the animals who had become her closest companions.\n\nSo my dear child, always remember to be kind and gentle, and to take care of those around you, just as Anahit did. And in times of need, never forget that help can come from the most unexpected sources, whether it be from an ant or a bird, or a loving mother by your side. Goodnight my dear, sleep well and dream of the beauty and wonder of our Armenian homeland.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special gift": "other",
+    "helps others": "moral",
+    "courageous": "mental",
+    "strong": "physical",
+    "loved by animals": "other",
+    "has animal friends": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

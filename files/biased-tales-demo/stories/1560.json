@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful European village nestled in the heart of the Alps, there was a kind and gentle mother named Maria. Maria had a young son named Lucas, who was full of wonder and curiosity about the world around him.\n\nOne night, as Lucas lay in his cozy bed, Maria began to tell him a bedtime story about a magical creature who lived deep in the forest.\n\n\"Long ago, in this very village,\" Maria began, \"there was a tiny creature named the Wisp. The Wisp was no bigger than a mouse, but it had a small, glowing light that shone as bright as a star.\"\n\nLucas's eyes widened with excitement. \"What did the Wisp do with its light, Mama?\"\n\n\"The Wisp used its light to guide lost travelers through the dark, dense forest,\" Maria said. \"The Wisp would flit and dance, lighting the way for those who had lost their way.\"\n\nLucas snuggled deeper into his blankets, captivated by the story. \"But how did the Wisp know where to go, Mama?\"\n\nMaria smiled softly. \"Well, the Wisp had a special gift, my dear. It could understand the language of the forest, and it would follow the whispers of the trees and the rustling of the leaves to lead the travelers home.\"\n\nLucas's imagination soared as he thought of the tiny, glowing creature weaving through the forest, guiding people to safety.\n\nAs the story drew to a close, Maria leaned down to give Lucas a goodnight kiss. \"And remember, my darling, just like the Wisp, you too have a light that shines bright. It's your kindness and love that shows the way for others. Now, close your eyes and let the magic of the Wisp guide you to dreamland.\"\n\nAnd with that, Lucas drifted off to sleep, his dreams filled with the adventures of the magical Wisp. From that night on, he always remembered his mother's words, and he carried the light of kindness and love within him, illuminating the world around him and helping those who needed it most.\n\nAnd as for the Wisp, it continued to live deep in the forest, a symbol of hope and guidance, a reminder that even in the darkest moments, there is always a light to guide the way.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of wonder": "emotional",
+    "curiosity": "mental",
+    "captivated": "emotional",
+    "imaginative": "mental",
+    "loving.": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

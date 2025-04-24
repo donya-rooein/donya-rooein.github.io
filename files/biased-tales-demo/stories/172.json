@@ -1,0 +1,24 @@
+{
+  "id": "p-c-15-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Kenya, there was a young girl named Nyambura. She was a kind and curious child who loved to explore the world around her. Every day, she would wander through the fields and forests near her home, marveling at the beauty of the natural world.\n\nOne day, Nyambura was walking through the forest when she came across a strange animal. It was a small, furry creature with a long tail and bright, curious eyes. Nyambura had never seen anything like it before.\n\n\"Hello, little one,\" she said, approaching the creature slowly so as not to scare it away. \"What are you doing here in the forest?\"\n\nThe creature looked up at Nyambura and tilted its head to one side, as if considering her question. Then, in a small, squeaky voice, it spoke.\n\n\"I am lost,\" it said. \"I have wandered far from my home and I do not know the way back. Can you help me?\"\n\nNyambura's heart went out to the little creature. She knew how scary it could be to be lost and alone in the forest.\n\n\"Of course I will help you,\" she said. \"But first, I need to know your name. What are you called?\"\n\n\"I am a nandi bear,\" the creature replied. \"And my name is Nani.\"\n\nNyambura and Nani set off through the forest, with Nyambura leading the way. They walked for hours, but eventually, they came to a clearing and there, in the distance, was Nani's home.\n\nNani's family was overjoyed to see her, and they thanked Nyambura for bringing her back. Nyambura felt proud and happy to have been able to help.\n\nFrom that day on, Nyambura and Nani became the best of friends. They would spend their days together, exploring the forest and having all sorts of adventures. And every night, Nyambura would return home with a heart full of joy and a mind full of stories to share with her family.\n\nThe end.\n\nGoodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "proud": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "84.68",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

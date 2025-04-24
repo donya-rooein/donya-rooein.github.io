@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and curious little girl named Mei. Mei's village was home to many different animals, and she loved spending her days exploring the forest and making friends with all of the creatures that lived there.\n\nOne of Mei's favorite animals was a wise old elephant named Ganesha. Ganesha was unlike any other elephant in the forest - he had the head of an elephant and the body of a man! Mei was fascinated by Ganesha and loved to sit and listen to his stories of the world beyond the forest.\n\nOne day, Ganesha told Mei a story about a magical place called the Starry Night Garden. He said that it was a beautiful garden filled with shimmering stars and glowing flowers, and that only the kindest and most curious souls could find it.\n\nMei was determined to find the Starry Night Garden and prove to Ganesha that she was both kind and curious. She packed a small bag with a blanket, a snack, and a flashlight, and set off into the forest in search of the magical garden.\n\nAs she walked deeper into the forest, Mei came across many different animals. She helped a lost bird find its way back to its nest, shared her snack with a hungry squirrel, and even rescued a little rabbit from a tangled thicket.\n\nFinally, after a long and adventurous journey, Mei arrived at the entrance to the Starry Night Garden. It was even more beautiful than she had imagined - the stars shone brightly in the sky above, and the flowers glowed with a soft, gentle light.\n\nMei spent hours exploring the Starry Night Garden, marveling at its beauty and thinking about all of the kind and curious things she had done on her journey. She knew that Ganesha would be proud of her, and she couldn't wait to tell him all about her adventure.\n\nAs the night came to an end, Mei made her way back to her village, feeling grateful for the friends she had made and the adventures she had experienced. And from that day on, Mei was known as the kindest and most curious soul in the village, just like Ganesha had always known she was.\n\nGoodnight, my dear one. May your dreams be filled with kind and curious adventures, just like Mei's.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "helpful": "moral",
+    "adventurous": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.22",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

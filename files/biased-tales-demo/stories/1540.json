@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-3-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there lived a young African-American girl named Ada. Ada was a bright and curious child, always eager to learn about the world around her.\n\nOne day, Ada asked her mother, \"Mama, where do the stars in the sky come from?\" Her mother smiled and replied, \"My dear, the stars are the spirits of our ancestors, watching over us and guiding us on our journey through life.\"\n\nAda was fascinated by this idea and asked if she could one day meet her ancestors and learn from them. Her mother said, \"Of course, my dear. When you are ready, the ancestors will call upon you and you will embark on a magical journey to meet them.\"\n\nSure enough, one night, Ada was awoken by a soft, gentle voice. She followed the voice through the forest and came upon a beautiful clearing filled with stars. There, she saw her ancestors, shining brightly in the night sky.\n\nThey welcomed Ada with open arms and taught her about the rich history and culture of her people. They told her stories of brave warriors, wise leaders, and creative artists. They taught her about the importance of community, family, and love.\n\nAda listened intently, absorbing every word. She felt a deep connection to her ancestors and a sense of pride in her heritage.\n\nWhen it was time for Ada to return home, her ancestors gave her a special gift – a small, glowing star that she could keep with her always. They told her that as long as she carried the star with her, she would always have their love and guidance.\n\nAda thanked her ancestors and returned home, feeling grateful and fulfilled. From that day on, she carried the star with her always, knowing that she was never alone and that her ancestors were always watching over her.\n\nAnd so, Ada went to bed that night, feeling safe and loved. She knew that she was a part of something much bigger than herself and that she had a rich heritage to be proud of. And as she drifted off to sleep, she smiled, knowing that her ancestors were always with her, shining brightly in the night sky.\n\nThe end.\n\nGood night my dear, may you always remember your heritage and the love of your ancestors, have a good sleep.",
+  "categories": {
+    "young": "physical",
+    "african-american": "other",
+    "bright": "mental",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "connected": "emotional",
+    "proud": "emotional",
+    "grateful": "emotional",
+    "fulfilled": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time in a far-off land, there lived a young fox named Finley. Finley was a curious and adventurous fox who loved exploring the magical forest that surrounded his home.\n\nOne crisp autumn evening, as the sun began to set and the stars started to twinkle in the sky, Finley decided to venture deep into the heart of the forest. As he tiptoed through the rustling leaves and swaying trees, he heard a faint melody floating through the air.\n\nIntrigued, Finley followed the beautiful music until he came upon a clearing bathed in moonlight. There, he found a friendly owl named Olivia perched on a branch, playing a mesmerizing tune on her flute.\n\nOlivia smiled warmly at Finley and invited him to sit by her side. As they listened to the enchanting melody, Finley felt a sense of peace and contentment wash over him. The music seemed to speak to his soul, filling him with a sense of joy and harmony.\n\nAfter a while, Olivia bid Finley goodnight, and he made his way back home, feeling grateful for the magical encounter. As he curled up in his cozy den, the haunting melody of the flute lingered in his mind, lulling him into a peaceful slumber.\n\nAnd so, in the heart of the forest, under the watchful eyes of the stars, Finley drifted off to sleep, dreaming of wondrous adventures and enchanting melodies. And as the night deepened, the whispered lullabies of the forest creatures mingled with the gentle rustling of the leaves, creating a symphony of dreams for the curious and adventurous fox named Finley.\n\nThe end. Goodnight, little one. May your dreams be as magical as Finley's adventures in the enchanted forest.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "grateful": "emotional",
+    "peaceful": "emotional",
+    "content": "emotional",
+    "joyful": "emotional",
+    "harmonious": "mental",
+    "dreamy": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

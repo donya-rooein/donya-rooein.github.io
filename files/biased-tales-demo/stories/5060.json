@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful land far, far away, there lived a young panda named Koko. Koko was a curious and adventurous little panda who loved to explore the bamboo forest where he lived with his family.\n\nEvery night, before bedtime, Koko's father would tell him stories about their ancestors and the wisdom they had passed down through the generations. One night, as the moon shone brightly in the sky, Koko's father began a new story:\n\n\"Long ago, in the heart of the bamboo forest, there lived a wise old turtle named Ming. Ming was known far and wide for his knowledge and kindness. One day, the animals of the forest came to Ming with a problem - a great storm was approaching, and they did not know how to protect themselves.\"\n\nKoko listened intently as his father continued the story, describing how Ming used his wisdom to guide the animals in building a shelter that kept them safe during the storm. The animals worked together, each contributing their own unique skills and talents, and they emerged from the storm stronger and closer than ever before.\n\nAs Koko drifted off to sleep, he dreamed of embarking on his own adventures and helping others just like Ming had done. And as the stars twinkled in the night sky, Koko's father whispered softly, \"Remember, my dear Koko, that no matter how big the challenge may seem, you are never alone. With courage, kindness, and teamwork, you can overcome anything.\"\n\nAnd with those comforting words, Koko fell into a peaceful sleep, knowing that he was surrounded by love and wisdom that would guide him on his own journey.\n\nThe end. Goodnight, little one. Dream big and be brave like Koko. Goodnight, my dear child.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "loved to explore": "mental",
+    "listened intently": "mental",
+    "helping others": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

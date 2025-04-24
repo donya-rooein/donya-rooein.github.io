@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and ask questions about everything she saw. She was especially fascinated by the animals that lived in the forest near her home.\n\nOne day, while Ada was playing near the forest, she saw a small, frightened monkey hiding in a tree. Ada approached the monkey slowly and spoke to it softly, trying to comfort it. To her surprise, the monkey began to talk to her!\n\n\"I am the monkey king,\" the monkey said. \"I have been cursed and turned into a monkey. Only a kind and pure-hearted child can break the curse and turn me back into a human.\"\n\nAda was determined to help the monkey king. She asked him what she needed to do.\n\n\"You must go to the top of the tallest mountain in the land and find the Magic Fruit Tree,\" the monkey king told her. \"Pick one Magic Fruit from the tree and bring it back to me. Then, I will be transformed back into a human.\"\n\nAda set off on her journey, traveling far and wide, facing many challenges along the way. She crossed rickety bridges, climbed steep hills, and even outsmarted a cunning fox. At last, she reached the top of the mountain and found the Magic Fruit Tree.\n\nShe picked one Magic Fruit and began her journey back to the village. When she returned to the forest, she gave the Magic Fruit to the monkey king. As soon as he took a bite, he was transformed back into a handsome young man.\n\nThe villagers were overjoyed to see the monkey king back to his human form, and Ada was hailed as a hero. From that day on, Ada was known throughout the land for her bravery and kind heart.\n\nAs she lay in her bed that night, Ada knew that she would always remember this adventure and the lessons she had learned. She knew that with bravery, determination, and a kind heart, she could accomplish anything. And she drifted off to sleep with a smile on her face.\n\nGoodnight my dear, may you too, grow up to be brave, determined and always kind.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.14",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

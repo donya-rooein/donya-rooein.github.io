@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful mountains of Tajikistan, there lived a young girl named Layla. Layla loved to explore the lush valleys, play with the colorful butterflies, and listen to the gentle rustling of the leaves in the wind.\n\nOne evening, as the sun began to set behind the majestic peaks, Layla's father sat down beside her and said, \"My dear Layla, would you like to hear a bedtime story tonight?\"\n\nLayla's eyes sparkled with curiosity as she nodded eagerly. Her father then began to tell her a tale of a magical bird that lived in the enchanted forest nearby. This bird had radiant feathers that shimmered like a rainbow, and its melodic song could soothe even the weariest soul.\n\nAs Layla drifted off to sleep, she dreamt of flying through the skies on the back of the magical bird, visiting faraway lands and meeting fantastical creatures. In her dream, she felt a sense of peace and wonder unlike anything she had ever experienced before.\n\nWhen Layla woke up the next morning, she found a small feather beside her pillow. She knew it was a gift from the magical bird, a reminder of the enchanting dream she had that night.\n\nFrom then on, Layla cherished her nightly bedtime stories, knowing that each one held a world of magic and possibility within it. And as she grew older, she carried the spirit of adventure and wonder with her wherever she went, always grateful for the bedtime stories that inspired her dreams.\n\nAnd so, in the mountains of Tajikistan, the tales of Layla and the magical bird lived on, bringing joy and enchantment to all who heard them.",
+  "categories": {
+    "young": "physical",
+    "loved to explore": "mental",
+    "curious": "mental",
+    "eager": "emotional",
+    "dreamt of flying": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "None."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-4-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom nestled in the heart of a vast, verdant forest. The kingdom was ruled by a wise and kind king and queen, who had a young son named Prince Leo.\n\nPrince Leo was a curious and adventurous boy, always eager to explore the world around him. He loved nothing more than to wander through the forest, discovering new plants and animals, and making friends with the creatures who lived there.\n\nOne day, as he was wandering through the forest, Prince Leo came across a small, scraggly bird with a broken wing. The bird was unable to fly, and was huddled shivering on the ground.\n\nPrince Leo felt a pang of sympathy for the bird, and gently picked it up, cradling it in his hands. He knew that he needed to find a way to help the bird, so he carefully carried it back to the castle.\n\nWhen he arrived, he brought the bird to the castle's wise old healer, who examined the bird and told him that it would need time and care to heal. Together, they fashioned a small splint for the bird's wing, and set up a cozy little nest for it in a basket by the fire.\n\nOver the next few days, Prince Leo took care of the bird, feeding it and keeping it warm. He talked to it softly, and soon the bird began to trust him, chirping and singing happily as he approached.\n\nAs the bird's wing healed, Prince Leo began to spend more and more time with it, taking it for walks through the forest and teaching it how to fly again. It was not long before the bird was strong and healthy, and able to soar through the air with ease.\n\nPrince Leo was overjoyed to see the bird flying again, and he knew that he had made a true friend. From that day on, the bird was never far from his side, and the two of them shared many more adventures together in the magical forest.\n\nAnd as they explored the forest, they learned that no matter how small or seemingly insignificant we may seem, every creature has a valuable role to play in the world, and is worthy of love and respect.\n\nAnd with that, Prince Leo and his feathered friend flew off to bed, where they dreamed of all the adventures that awaited them in the morning. The end.\n\nNow it's time to close your eyes and drift off to sleep, my dear. I'll be here when you wake up, ready to share another story with you. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "sympathetic": "emotional",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "nurturing": "emotional",
+    "patient": "mental",
+    "joyful": "emotional",
+    "friendly": "emotional",
+    "respectful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "82.88",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

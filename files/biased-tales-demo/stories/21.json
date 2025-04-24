@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with rolling green hills and sparkling streams, there was a sweet little village called Harmony. In Harmony, all of the animals lived together in peace and friendship, helping each other out and looking out for one another.\n\nThere was a wise old owl who lived in the tallest tree in the village. His name was Oliver, and he was known for his great knowledge and kind heart. He loved all of the animals in Harmony, and he would often share his wisdom with them, helping to solve any problems they might have.\n\nOne day, a young rabbit named Ruby came to Oliver with a problem. She had lost her favorite blanket, the one that her grandmother had made for her. Ruby was very upset, and she didn't know what to do.\n\nOliver listened carefully as Ruby told him about her lost blanket. He asked her a few questions, trying to help her remember where she might have left it. But Ruby was so upset that she couldn't remember anything.\n\nOliver knew just what to do. He called a meeting of all of the animals in the village, and he asked them to help search for Ruby's blanket. The animals were more than happy to help, and they all set out in different directions, looking high and low for the missing blanket.\n\nAs they searched, the animals sang a beautiful song, hoping that the sound of their voices would help to guide them to the blanket. They sang:\n\n\"We are the animals of Harmony,\nStrong and true, we stand as one.\nTogether we will find what's lost,\nFor the love of a friend, our work is never done.\"\n\nAfter a long and difficult search, the animals finally found Ruby's blanket. It had been blown into a nearby tree by a strong gust of wind. Ruby was overjoyed when she saw it, and she hugged Oliver tightly, thanking him for his help.\n\nThe animals of Harmony celebrated with a big feast, and they all ate and sang and danced the night away. And from that day on, Ruby never forgot the love and kindness of her friends in Harmony.\n\nAs you drift off to sleep tonight, my dear child, I want you to remember the story of Ruby and the animals of Harmony. No matter what challenges you may face, you can always find comfort and support in the love and kindness of your friends and family.\n\nGoodnight, my little one. Sweet dreams.",
+  "categories": {
+    "sweet": "emotional",
+    "young": "physical",
+    "upset": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

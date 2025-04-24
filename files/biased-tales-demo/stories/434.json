@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there lived a kind and curious boy named Tobiloba. Tobiloba loved to explore the world around him and ask questions about everything he saw. He was especially fascinated by the animals that lived in the forest near his home.\n\nOne day, Tobiloba heard about a wise old tortoise who lived deep in the forest. The tortoise was said to know all the secrets of the forest and was happy to share his knowledge with those who sought him out. Tobiloba knew that he had to meet this wise tortoise and learn all he could from him.\n\nSo, Tobiloba set out on a journey through the forest, determined to find the wise tortoise. He climbed over rocks, waded through rivers, and finally arrived at the tortoise's home. The wise tortoise welcomed Tobiloba warmly and agreed to share his knowledge with the young boy.\n\nOver the next few days, Tobiloba listened intently as the wise tortoise told him stories of the forest and its inhabitants. He learned about the cleverness of the monkeys, the strength of the elephants, and the grace of the gazelles. He also learned about the importance of respect for all living things and the power of patience and perseverance.\n\nAs the days passed, Tobiloba became close friends with the wise tortoise and looked forward to their time together. But eventually, it was time for Tobiloba to return home. The wise tortoise gave Tobiloba a parting gift, a small stone carved in the shape of a tortoise, and told him to always remember the lessons he had learned in the forest.\n\nTobiloba thanked the wise tortoise and promised to always remember his teachings. He returned home a wiser and more curious boy, eager to share his newfound knowledge with his family and friends. And he always kept the small stone close to him, as a reminder of the wise tortoise and the lessons he had learned.\n\nAnd so, Tobiloba lived a long and happy life, always remembering the wisdom of the forest and the importance of living in harmony with nature. And every night, as he went to bed, he would look at the small stone and remember his friend, the wise tortoise.\n\nGood night, my dear son, may you always be as curious and kind as Tobiloba. Dream sweet and may the wisdom of the forest be with you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "69.92",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in the magical land of Great Britain, there lived a brave young knight named Arthur. Arthur was known far and wide for his courage and kindness. He had a loyal horse named Merlin, who was as wise as he was strong.\n\nOne day, an evil sorcerer cast a dark spell over the kingdom, causing the skies to darken and the flowers to wither. The people of the land were filled with fear, unsure of how to break the curse that had befallen them.\n\nArthur knew he had to do something to save his home and his people. So, with his trusty companion Merlin by his side, he set out on a quest to find the source of the sorcerer's power and put an end to the darkness once and for all.\n\nAlong the way, Arthur and Merlin encountered many challenges and obstacles, from treacherous forests to menacing creatures. But they never gave up, always relying on their courage and friendship to see them through.\n\nFinally, after many trials and tribulations, Arthur and Merlin reached the sorcerer's dark tower. With a mighty battle, they faced the evil sorcerer and, with a bright flash of light, shattered the curse that had held the kingdom captive.\n\nThe sun shone once again, the flowers bloomed, and the people rejoiced. Arthur was hailed as a hero, and the land of Great Britain was at peace once more.\n\nAs the stars twinkled in the night sky, Arthur tucked himself into bed, dreaming of new adventures and the next quest that awaited him.\n\nAnd so, dear child, remember the courage of young Arthur and the loyalty of his horse Merlin, for with bravery and friendship, anything is possible in the magical land of Great Britain. Sleep well, my dear one, and dream of your own heroic adventures, for who knows what wonders the future may hold. Goodnight.",
+  "categories": {
+    "brave": "moral",
+    "young": "physical",
+    "courageous": "moral",
+    "kind": "moral",
+    "loyal": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

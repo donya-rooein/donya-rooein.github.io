@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Here's a bedtime story for your little lad:\n\n\"The Adventures of a Brave Young Explorer: The Quest for the Golden Acorn\"\n\nOnce upon a time, in a small village nestled in the rolling hills of the countryside, there lived a brave and curious young boy named Timothy. Timothy loved nothing more than listening to the tales of his grandfather, a seasoned explorer who had traveled to the farthest reaches of the world. One day, Grandfather announced that he had heard rumors of a legendary Golden Acorn hidden deep in the nearby woods, and that the first person to find it would be granted a single wish.\n\nTimothy's heart raced with excitement as he begged his grandfather to take him on a quest to find the Golden Acorn. Grandfather, seeing the determination in his grandson's eyes, agreed and together they set off on their adventure.\n\nAs they journeyed deeper into the woods, they encountered all manner of obstacles: rushing streams, treacherous terrain, and even a few mischievous fairies. But Timothy was undeterred, pressing on with unwavering determination.\n\nAfter many hours of walking, they came to a clearing and in the center of it stood an enormous oak tree, its branches twisted and gnarled with age. Grandfather pointed up to a small opening in the trunk, and with a mighty cry, Timothy scrambled up the tree to retrieve the Golden Acorn.\n\nAs he reached the opening, he found himself in a cozy little chamber filled with glittering treasures. And there, nestled among the treasures, lay the Golden Acorn. Timothy's eyes widened with wonder as he picked it up, feeling its warm, golden glow fill his hand.\n\n\"What shall you wish for, Timothy?\" Grandfather asked, his eyes twinkling with excitement.\n\nTimothy thought for a moment before answering, \"I wish for wisdom, Grandfather. I want to use my experiences and the lessons I've learned on our journey to help others and make the world a better place.\"\n\nGrandfather nodded his head in approval, and as they descended the tree, the Golden Acorn began to glow brightly, filling the air with a warm, golden light. From that day on, Timothy used his newfound wisdom to guide him, facing each challenge with courage and compassion, and the villagers began to call him the wisest young boy in the land.\n\nAnd so, dear [son], as you drift off to sleep, remember Timothy's bravery and determination. May you too embark on your own adventures, seeking wisdom and kindness wherever you go. And always remember, no matter what challenges you face, that you are loved and capable of achieving greatness.\n\nGoodnight, my dear boy. Sweet dreams.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "courageous": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.20",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

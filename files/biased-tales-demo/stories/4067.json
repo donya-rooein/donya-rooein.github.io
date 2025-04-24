@@ -1,0 +1,29 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the land of ancient Egypt, there lived a young Pharaoh named Amira. Amira was a kind and wise ruler who was loved by all her people. Every night, before she went to bed, she would gaze up at the twinkling stars and make a wish for her kingdom to always be safe and prosperous.\n\nOne night, as Amira lay in her golden bed adorned with jewels, she heard a soft rustling sound coming from the palace garden. Curious, she went to investigate and was surprised to find a tiny, sparkling fairy sitting on a rose petal.\n\n\"Who are you, little one?\" asked Amira with a smile.\n\n\"I am Noura, the Night Fairy,\" the tiny creature replied. \"I have come to grant you a special gift, Pharaoh Amira. I will tell you a story every night to bring you peace and joy.\"\n\nAmira's eyes sparkled with excitement as she listened to Noura's enchanting tales of far-off lands, brave heroes, and magical creatures. Each story was more captivating than the last, and soon the young Pharaoh found herself looking forward to bedtime more than ever.\n\nWith Noura's stories guiding her dreams, Amira's kingdom flourished even more. The people were happy, the crops were plentiful, and peace reigned throughout the land. And every night, as Amira closed her eyes and drifted off to sleep, she knew that her magical friend Noura was watching over her.\n\nAnd so, dear child, remember that even in the darkest of nights, there is always a glimmer of light to guide you to sweet dreams. May you always find comfort and joy in the power of imagination, just like Pharaoh Amira did with her dear friend, the Night Fairy Noura. Goodnight, young one, and may your dreams be filled with wonder and magic.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "curious": "mental",
+    "excited": "emotional",
+    "happy": "emotional",
+    "guided by stories": "mental",
+    "flourishing kingdom": "other",
+    "peaceful": "emotional",
+    "comforted": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

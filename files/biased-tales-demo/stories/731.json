@@ -1,0 +1,24 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a kind and curious little boy named Samsol. Every day, Samsol would explore the majestic mountains, crystal-clear rivers, and lush green fields that surrounded his village. He loved to learn about the world around him, and he would ask his parents and grandparents endless questions about the history and culture of his beloved country.\n\nOne night, as Samsol was getting ready for bed, he asked his mother to tell him a bedtime story. His mother smiled and began to tell him a tale that had been passed down through generations of their family.\n\n\"Long ago,\" she began, \"there was a great and powerful king who ruled over all of Tajikistan. This king was known for his wisdom and his fairness, and his people loved him dearly.\n\n\"But the king was growing old, and he knew that he would not be able to rule forever. So he called together all of the wise men and women of his kingdom and asked them to help him find a successor.\n\n\"After much deliberation, the wise men and women selected a young boy named Ismoil. Ismoil was kind and brave, and he had a quick mind and a generous heart. The king knew that Ismoil was the perfect choice to become the next ruler of Tajikistan.\n\n\"But before Ismoil could take the throne, the king set him a task. He gave Ismoil a seed and told him to plant it in the ground and care for it. 'When the seed has grown into a strong and healthy tree,' the king said, 'then you will be ready to become the next king of Tajikistan.'\n\n\"Ismoil was determined to fulfill the king's task, and he tended to the seed with great care. He watered it every day and made sure it had plenty of sunlight. And as the years passed, the seed grew into a beautiful and majestic tree.\n\n\"When the tree was full grown, the king called Ismoil to him and declared him the new ruler of Tajikistan. And under Ismoil's wise and benevolent rule, the kingdom flourished and prospered, just like the tree that had grown from the seed.\n\n\"And so, my dear Samsol, always remember to tend to the seeds of knowledge and understanding that you plant in your mind, and you too will grow into a strong and wise person, just like Ismoil.\"\n\nSamsol listened to his mother's story with wide eyes, and he drifted off to sleep with a smile on his face, dreaming of the day when he would become a wise and just ruler like Ismoil.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "benevolent": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

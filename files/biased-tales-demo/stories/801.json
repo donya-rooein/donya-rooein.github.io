@@ -1,0 +1,28 @@
+{
+  "id": "p-c-1-rp-1-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a magical forest filled with all sorts of fascinating creatures. In this forest lived a kind and curious little creature named Flicker. Flicker was a small, furry creature with big, bright eyes and a bushy tail. She had wings, but they were too small for her to fly. Instead, she loved to run and skip through the forest, discovering new and exciting things every day.\n\nOne day, as Flicker was exploring the forest, she stumbled upon a beautiful, sparkling stream. She had never seen anything like it before, and she was immediately drawn to the shimmering water. As she approached the stream, she noticed something peculiar. There was a tiny, glowing stone at the bottom of the stream, and every time Flicker moved, the stone would light up in a different color.\n\nFlicker was captivated by the stone and wanted to know more about it. She tried to pick it up, but it was too heavy for her little paws. She tried to move it with her wings, but it didn't budge. She was about to give up when she heard a soft voice behind her.\n\n\"Hello, little one. I see you've found my stone,\" the voice said. Flicker turned around and saw a majestic, white unicorn standing behind her. The unicorn had a long, flowing mane and a beautiful, golden horn.\n\n\"Your stone? Who are you?\" Flicker asked the unicorn.\n\n\"I am Stardust, the guardian of this forest. That stone is the Heart of the Forest, and it holds all the magic and wonder of this place,\" Stardust explained.\n\nFlicker was amazed. She had never heard of such a thing before. \"Can I touch it?\" she asked.\n\n\"Of course, you can,\" Stardust replied. \"But be careful, the Heart of the Forest is very powerful. It can grant you one wish, but only if you use it wisely.\"\n\nFlicker thought for a moment and then made her wish. \"I wish that I could fly,\" she said.\n\nStardust smiled and touched the Heart of the Forest with her horn. Suddenly, Flicker felt a warm, tingling feeling in her wings. She looked at her wings and gasped. They were bigger and stronger than before. She spread her wings wide and took off into the sky.\n\nFlicker soared high above the forest, feeling free and happy. She thanked Stardust and the Heart of the Forest for granting her wish. From that day on, Flicker would fly through the forest every day, spreading joy and magic wherever she went.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with magic and wonder, just like Flicker's. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "small": "physical",
+    "furry": "physical",
+    "big bright eyes": "physical",
+    "bushy tail": "physical",
+    "has wings": "physical",
+    "amazed": "emotional",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "84.88",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

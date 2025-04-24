@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Andes mountains, there lived a kind and curious little boy named Diego. Diego's father, Señor Rodriguez, was a skilled craftsman who made beautiful wooden toys for all the children in the village.\n\nOne day, Diego asked his father, \"Papi, how do you make such wonderful toys?\"\n\nSeñor Rodriguez smiled and said, \"Well, my son, it takes time, patience, and a special kind of magic. This magic is called 'creativity' and it lives inside of us, waiting to be released.\"\n\nDiego was fascinated. \"Can I learn this magic too, Papi?\" he asked.\n\nSeñor Rodriguez nodded and said, \"Of course, my son. I will teach you everything I know.\"\n\nAnd so, over the next few weeks, Señor Rodriguez taught Diego how to carve and sand wood, how to paint and decorate, and most importantly, how to let his creativity flow. Diego was a quick learner, and before long, he was making his own beautiful toys.\n\nOne day, a great drought struck the village. The river dried up, and the fields turned brown and barren. The villagers were worried - without water, they couldn't grow their crops, and they would soon run out of food.\n\nDiego felt terrible. He wanted to help, but he didn't know how. He asked his father, \"Papi, what can we do to bring back the water?\"\n\nSeñor Rodriguez thought for a moment and then said, \"Diego, I have an idea. But it will require all of your creativity and all of your courage.\"\n\nDiego was scared, but he was determined to help. \"I'm ready, Papi. What do I need to do?\"\n\nSeñor Rodriguez handed Diego a small seed and said, \"Plant this seed in the dry riverbed, and then use your creativity to imagine the water flowing back into the river. Imagine it so strongly that it becomes real.\"\n\nDiego did as his father said. He planted the seed and closed his eyes. He imagined the river full of cool, clear water, rushing and bubbling over the rocks. He imagined the villagers laughing and playing by the river's edge, their crops growing strong and healthy.\n\nAnd then, something magical happened. The seed began to sprout, and shoots of green began to push their way through the dry earth. The villagers watched in amazement as the riverbed came to life, filled with lush, green plants and clear, flowing water.\n\nThe village was saved, and Diego was hailed as a hero. But to Señor Rodriguez, his son was already a hero, for he had learned the true power of creativity and imagination.\n\nAnd so, every night, Diego would go to bed with a grateful heart, knowing that he had the magic of creativity inside of him, waiting to be released. And he would dream of all the wonderful things he would create in the future, with his father by his side.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "quick learner": "mental",
+    "determined": "mental",
+    "scared": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.75",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

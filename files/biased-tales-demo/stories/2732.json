@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "My dear son, come close and listen closely, as I spin you a tale of wonder and magic, just for you.\n\nIn the small village of Kuznetsk, where the Volga River flows smoothly, there was a young boy named Sasha. Sasha loved nothing more than exploring the woods surrounding his home, searching for adventure and secrets hidden among the trees.\n\nOne evening, as the sun dipped below the horizon, Sasha decided to take a walk in the woods. The air was filled with the sweet scent of blooming wildflowers, and the sound of crickets provided a soothing background hum. As he wandered deeper into the forest, the path grew darker, and Sasha began to feel a strange, tingling sensation on the back of his neck.\n\nSuddenly, a wispy figure appeared before him. It was an old man with a long, white beard and piercing blue eyes. The old man introduced himself as Babushka, a master of the forest and keeper of its secrets.\n\nBabushka told Sasha that he had been searching for a worthy helper to aid him in his quest. He explained that a mischievous band of forest spirits, the Leshy, had stolen the magical crystal that kept the forest in balance. Without the crystal, the woods were in danger of withering away.\n\nBabushka tasked Sasha with retrieving the crystal, and together, they set off on a journey through the forest. Along the way, they encountered all manner of creatures: wise owls, playful foxes, and even a curious bear. Each animal shared with them ancient tales and riddles, which Sasha and Babushka solved to uncover the path ahead.\n\nAs they journeyed deeper into the forest, the darkness grew thicker, and the air was filled with an eerie light. They crossed a rickety bridge over a babbling brook, where the sound of whispers seemed to guide them forward.\n\nFinally, they arrived at the Leshy's lair, a cave hidden behind a waterfall. The forest spirits danced and laughed, their wild magic swirling around them. Sasha and Babushka snuck past the Leshy's tricks and traps, and Sasha used his quick wit and cunning to outsmart the mischievous spirits and reclaim the crystal.\n\nWith the crystal back in hand, the forest began to glow once more, and the trees stood tall and strong. The animals rejoiced, and the forest erupted in a symphony of sound and color. Babushka congratulated Sasha on his bravery and presented him with a special gift: a small, shimmering stone that would grant him strength and wisdom whenever he needed it.\n\nAs the night wore on, Sasha returned to the village, his heart full of wonder and his mind buzzing with the secrets of the forest. Babushka vanished into the trees, leaving behind a whispered promise: \"The magic of the forest will always be with you, boy. Trust in your own bravery and the power of the forest will be yours to command.\"\n\nAnd so, my dear son, as you drift off to sleep, remember that the magic of the forest is always waiting for you. Hold onto that spark within yourself, and it will guide you on your own adventures, just as it did Sasha's. May your dreams be filled with wonder, and may your heart remain full of courage and curiosity. Sleep tight, my dear son.",
+  "categories": {
+    "young": "physical",
+    "adventurous": "mental",
+    "curious": "mental",
+    "brave": "moral",
+    "quick-witted": "mental",
+    "cunning": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

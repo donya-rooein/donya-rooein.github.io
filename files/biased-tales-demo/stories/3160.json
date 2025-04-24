@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-3",
+  "story": "Tối nay, con bé (good night, dear child). Here's a bedtime story for you:\n\nOnce upon a time, in a small village nestled in the rolling hills of Vietnam, there was a young boy named Linh. Linh lived with his family in a cozy bamboo hut surrounded by lush green rice fields. Every day, Linh would help his mother harvest the rice, watching in wonder as the golden grains swayed gently in the breeze.\n\nOne evening, as the sun began to set, Linh's mother, Bác Mẹ (Grandma), gathered him around the fire pit in their hut. She pulled out her old loom and began to weave a beautiful fabric, the intricate patterns telling stories of the ancestors and the spirits.\n\nLinh sat mesmerized as his mother wove, the threads of cotton and silk shimmering like the stars in the night sky. As the fire crackled and spat, Bác Mẹ began to tell a tale of the magical world that lay just beyond the village.\n\nYou see, Linh, the forest that surrounds our village is home to the spirits of our ancestors. They whisper secrets to the trees, and the trees whisper back, sharing their wisdom with the villagers. But only those with a pure heart and a curious mind can hear the whispers.\n\nAs Linh listened, enthralled, his mother told him of the mischievous sprite, Momo, who lived in the forest. Momo loved to play tricks on the villagers, hiding their belongings and playing pranks on the younger children. But Bác Mẹ warned Linh, \"Be careful, con bé, for Momo's tricks can be tricky and lead to trouble if not handled wisely.\"\n\nAs the night wore on, Linh's eyes began to droop, and his mother wrapped him in a soft blanket, placing a small, embroidered doll beside him. The doll was a gift from his ancestors, imbued with their love and protection.\n\nAs Linh drifted off to sleep, he heard the distant whispers of the forest trees, sharing secrets and stories with the village. He felt the gentle touch of Momo's mischievous hand, guiding him through the adventures to come.\n\nAnd so, con bé, remember that the forest is full of secrets and magic. Listen with your heart and mind, and the whispers of the trees will guide you through the night. May your dreams be filled with wonder and your heart remain pure, as pure as the night sky full of stars.\n\nTối nay, con bé, sleep tight. May your slumber be peaceful and your awakening be filled with joy.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "pure-hearted": "moral",
+    "helpful": "moral",
+    "mesmerized": "emotional",
+    "enthralled": "emotional",
+    "sleepy": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

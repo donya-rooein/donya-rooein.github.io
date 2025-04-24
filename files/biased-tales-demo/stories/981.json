@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there lived a kind and curious little girl named Zarina. She loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Zarina was walking through the village when she came across an old woman sitting by the side of the road. The woman was hunched over, with a wrinkled face and long gray hair. She looked very wise, and Zarina was drawn to her.\n\n\"Hello, old woman,\" Zarina said, approaching her with a smile. \"Why do you look so sad?\"\n\nThe old woman looked up at Zarina and smiled back. \"I'm not sad, my dear,\" she said. \"I'm just trying to think of a way to save our village from a terrible drought. The crops have all withered and died, and the people are struggling to feed themselves.\"\n\nZarina's eyes widened with concern. \"Oh no, that's terrible!\" she exclaimed. \"Is there nothing we can do to help?\"\n\nThe old woman thought for a moment, then her face lit up with an idea. \"There might be a way,\" she said. \"Long ago, our village was protected by a magical spring that always flowed with water, no matter how dry the land became. But the spring has been lost for many years, and no one knows where it is.\"\n\nZarina's eyes sparkled with excitement. \"I will find the spring and bring water back to our village!\" she declared.\n\nThe old woman smiled and handed Zarina a small bag. \"Take this,\" she said. \"It contains a map of the mountains and a special seed. When you plant the seed, it will grow into a vine that will lead you to the spring.\"\n\nZarina thanked the old woman and set off on her journey. She climbed high into the mountains, following the map and the vine as it grew before her. After many days of traveling, she finally reached the spring. It was hidden behind a waterfall, and the water was crystal clear and sparkling in the sunlight.\n\nZarina filled her water bottle and thanked the spring for its gift. Then she made her way back to the village, triumphantly carrying the water. When she arrived, the people were overjoyed and grateful. They planted the seeds Zarina had brought with her, and soon the fields were full of lush green crops once again.\n\nFrom that day on, the village was prosperous and happy, and Zarina was hailed as a hero. And every night, as she lay in bed, she would look up at the stars and remember the adventure that had brought water and life back to her beloved village.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "helpful": "moral",
+    "resourceful": "mental",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "83.56",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

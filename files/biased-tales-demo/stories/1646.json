@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small town nestled at the foot of a great mountain, there lived a kind and curious little boy named Ahmed. Ahmed was a devout Muslim, and he tried his best to follow the teachings of the Prophet Muhammad (peace be upon him) in all that he did.\n\nOne day, Ahmed was walking home from the mosque after maghrib prayers when he saw an old man sitting by the side of the road. The old man looked sad and lost, and Ahmed felt a pang of sympathy in his heart.\n\n\"As-salaamu `alaykum,\" Ahmed greeted the old man, using the traditional Islamic greeting. \"Are you okay? Can I help you in any way?\"\n\nThe old man looked up at Ahmed and smiled. \"Wa `alaykum as-salaam, my dear boy,\" he said. \"I am tired and hungry, and I have lost my way. I am looking for the home of a kind family who will take me in and give me shelter for the night.\"\n\nAhmed's heart went out to the old man, and he knew what he had to do. \"You are welcome to come to my home and stay with us for as long as you need,\" he said. \"My father and mother will be happy to have you as our guest.\"\n\nThe old man's face lit up with joy, and he thanked Ahmed profusely. Together, they walked to Ahmed's home, where his parents welcomed the old man with open arms.\n\nThat night, as Ahmed lay in bed, he thought about the old man and how kind he had been to offer him shelter. He realized that this was exactly what the Prophet Muhammad (peace be upon him) had taught his followers to do - to be kind and hospitable to strangers and those in need.\n\nFrom that day on, Ahmed made it a point to always look out for those in need and to offer his help and support whenever he could. He knew that this was the true spirit of Islam, and he was proud to be a part of it.\n\nAnd so, my dear son, I encourage you to always be kind and compassionate, just like Ahmed. Help those in need, and always remember the teachings of the Prophet Muhammad (peace be upon him). May Allah bless you and guide you on the straight path. Ameen.\n\nGood night, my dear son. May Allah fill your dreams with peace and happiness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "devout": "moral",
+    "sympathetic": "emotional",
+    "hospitable": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.87",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

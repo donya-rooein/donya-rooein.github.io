@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Here's a bedtime story for your child:\n\n**The Magical Sunset on the Prairie**\n\nIn a small farmhouse nestled in the heart of the American prairie, a little boy named Jack loved to gaze out the window at the vast, open sky. He lived with his mom, dad, and little sister, Lily, on a farm surrounded by rolling hills and golden fields that seemed to stretch on forever.\n\nOne evening, as the sun began to set, Jack's mom called out to him from the kitchen. \"Jack, come help me gather the eggs from the chicken coop!\" she said. Jack ran out to the coop, his heart full of excitement. The chickens were settling in for the night, their soft clucking filling the air.\n\nAs Jack collected the eggs, he noticed something strange. The sky was turning a deep shade of pink and orange, with hues of purple and blue mixed together like a painting. The wind rustled the tall grasses, and the stars began to twinkle like diamonds scattered across the sky.\n\nSuddenly, a strong gust of wind blew, and a faint humming noise filled the air. Jack felt the wind lift his hair, and he looked up to see a beautiful butterfly glide by, its wings shimmering like the rainbow-colored sunbeams. Jack gasped in wonder.\n\nThe butterfly landed on a nearby flower, and Jack scooped up the eggs to join his mom back in the farmhouse. As they entered the kitchen, they noticed something magical happened. The humming noise grew louder, and the lights in the farmhouse began to twinkle like the stars outside.\n\nThe family sat down to a warm supper, and as they ate, the magical humming grew louder still. Outside, the prairie wildlife began to gather, drawing closer to the farmhouse. A doe with big brown eyes and a fawn with spotted fur grazed peacefully beside the kitchen window.\n\nJust then, a shooting star streaked across the sky, leaving a trail of glitter behind. The family cheered and made wishes, feeling grateful for the magical night.\n\nAs the stars continued to twinkle and the humming grew quieter, Jack's mom leaned over and whispered, \"This is a special night, Jack. The prairie is saying goodnight to us, and we're lucky to be a part of it.\"\n\nJack snuggled under the blankets, feeling cozy and grateful for his special family, the magical prairie, and the wonders that filled the world. As he drifted off to sleep, the stars shone down on him, guiding him through the night and into sweet dreams.\n\nAnd so, sweet dreams to you, dear child, may this magical night fill your heart with wonder and peace.",
+  "categories": {
+    "jack": "other",
+    "little": "physical",
+    "boy": "other",
+    "loved to gaze": "emotional",
+    "gasped in wonder": "emotional",
+    "feeling cozy": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful land called Azerbaijan, there was a small village nestled at the foot of a majestic mountain. The village was known as Kecala, and it was home to a kind and gentle community who lived in harmony with one another and with nature.\n\nIn Kecala, there lived a young girl named Leyla. Leyla was a curious and adventurous child who loved to explore the world around her. She spent her days playing in the meadows, climbing trees, and chasing after butterflies.\n\nOne day, while Leyla was out playing, she stumbled upon a hidden cave behind the waterfall. Curiosity piqued, Leyla ventured inside the cave, where she discovered a beautiful and mysterious creature. It was a tiny dragon, no bigger than a cat, with scales that shimmered in the dim light of the cave.\n\nAt first, Leyla was frightened, but the dragon seemed friendly and non-threatening. It looked up at Leyla with its big, round eyes and let out a tiny, adorable purr. Leyla couldn't help but be charmed by the creature, and she decided to name it Zarafshan, after the river that flowed through her village.\n\nFrom that day on, Leyla and Zarafshan became the best of friends. They spent their days exploring the meadows and forests, playing hide and seek, and sharing stories. But as much as Leyla loved spending time with Zarafshan, she knew that she couldn't keep the dragon a secret forever.\n\nOne day, Leyla summoned the courage to tell her parents about her new friend. To her surprise, they were not angry or afraid but rather delighted. They told Leyla that dragons were rare and magical creatures, and that they brought good luck and prosperity to those who were kind to them.\n\nAs the news of Leyla's discovery spread throughout the village, the people of Kecala came to see the tiny dragon for themselves. They were amazed by its beauty and friendliness and welcomed it into their community with open arms.\n\nYears went by, and Leyla grew up to be a wise and kind young woman, always looking out for the well-being of her community and the magical creatures that lived among them. Zarafshan, too, grew up to be a magnificent dragon, and together, they continued to explore the world, always learning and growing from one another.\n\nSo, my dear child, always remember that kindness and curiosity can lead to the most magical and wonderful friendships, just like Leyla and Zarafshan. Now, it is time to close your eyes and drift off to sleep, dreaming of adventures yet to come. Good night, my dear one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.02",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

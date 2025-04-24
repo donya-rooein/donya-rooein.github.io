@@ -1,0 +1,28 @@
+{
+  "id": "p-c-18-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a small village nestled in the lush, green hills. This village was home to many animals, both big and small, who lived together in harmony.\n\nOne day, a young boy named Tadesse was playing near the river that ran through the village when he noticed something strange. A tiny bird, no bigger than his thumb, was fluttering helplessly in the water.\n\nTadesse quickly waded into the river and scooped up the little bird in his hands. He brought her back to the shore and gently dried her feathers with his shirt.\n\nThe bird, grateful for Tadesse's help, introduced herself as Eden, the smallest bird in the village. From that day on, Tadesse and Eden became the best of friends and spent their days exploring the hills and playing together.\n\nOne day, Eden told Tadesse about a magical tree that grew deep in the forest. It was said that anyone who ate its fruit would be granted one wish. Tadesse was skeptical, but Eden insisted that it was true.\n\nThe two friends set off on a journey to find the magical tree. They traveled for days, facing many challenges and obstacles along the way. But, with Eden's guidance and Tadesse's determination, they finally reached the tree.\n\nTadesse looked at the fruit that hung from the tree's branches. It was shiny and red, and looked delicious. He plucked one from the tree and took a bite.\n\nTadesse closed his eyes and made his wish. When he opened them, he saw that Eden had grown to be the size of a hawk. Tadesse was overjoyed. He hugged Eden tight and thanked her for bringing him to the magical tree.\n\nFrom that day on, Tadesse and Eden soared through the skies together, friends forever. And every night, before Tadesse went to bed, he would look up at the stars and make a wish on the magical tree.\n\nGood night, my dear child. May all your dreams come true.\n\nThe end.",
+  "categories": {
+    "young": "physical",
+    "playful": "emotional",
+    "observant": "mental",
+    "helpful": "moral",
+    "gentle": "emotional",
+    "skeptical": "mental",
+    "determined": "mental",
+    "grateful": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.26",
+  "complexity_fkg": "3.80",
+  "complexity_fkes": "91.61",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

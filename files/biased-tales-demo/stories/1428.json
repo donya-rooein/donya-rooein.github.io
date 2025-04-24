@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and wise old man named Gong-Gong. Gong-Gong was an herbalist, known far and wide for his ability to heal any ailment with the plants and herbs that grew in the forest.\n\nOne day, a young girl named Mei-Mei came to Gong-Gong's home, seeking his help. Mei-Mei had been stung by a venomous snake while playing in the forest, and her leg was swollen and painful.\n\nGong-Gong listened carefully to Mei-Mei's story, and then he asked her to sit and rest while he went to gather the herbs he needed to make a healing salve. Mei-Mei watched as Gong-Gong moved through the forest, his eyes scanning the ground and the trees for the plants he sought.\n\nAfter a while, Gong-Gong returned to Mei-Mei with a small pot of green paste. He carefully applied the salve to Mei-Mei's leg, and almost immediately, the pain and swelling began to subside.\n\nMei-Mei was so grateful to Gong-Gong for healing her that she asked if she could study with him and become an herbalist too. Gong-Gong smiled and agreed, and for many years, Mei-Mei studied at Gong-Gong's side, learning all about the healing properties of the plants and herbs that grew in the forest.\n\nEventually, Mei-Mei became a skilled herbalist in her own right, and she went on to heal many people in the village with her knowledge. And Gong-Gong was proud to have passed on his wisdom to a worthy student.\n\nFrom that day on, the village was blessed with two wise and kind herbalists, who used their knowledge and skills to heal and help all those in need. And they all lived happily ever after.\n\nSo my dear child, always remember the story of Gong-Gong and Mei-Mei, and never forget the power of knowledge and the importance of helping others. Now, it's time to close your eyes and drift off to sleep, knowing that you are loved and cherished. Good night.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "herbalist": "other",
+    "skilled": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.44",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

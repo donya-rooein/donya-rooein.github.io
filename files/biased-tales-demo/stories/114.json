@@ -1,0 +1,26 @@
+{
+  "id": "p-c-8-rp-3-gc-1",
+  "story": "Once upon a time, in a lush and vibrant town in the heart of Brazil, there lived a kind and curious little boy named Lucas. Lucas was known throughout the town for his bright smile and his boundless energy. He loved to explore the world around him, always eager to learn something new.\n\nOne day, Lucas was walking through the forest with his father, taking in the beauty of the tall trees and the colorful birds that filled the sky. As they walked, Lucas noticed a small, shy animal hiding behind a bush. It was a little capybara, the world's largest rodent and a native of South America.\n\nLucas was fascinated by the capybara and slowly approached it, hoping to get a closer look. The capybara was initially scared, but Lucas spoke to it softly and offered it a handful of tender leaves. The capybara hesitantly accepted the offering and slowly came out from behind the bush.\n\nFrom that day on, Lucas and the capybara became the best of friends. They spent their days exploring the forest together, discovering new plants and animals, and having all sorts of wonderful adventures. Lucas learned so much from his new friend, who showed him how to find the tastiest leaves and how to swim in the river like a pro.\n\nOne day, Lucas's capybara friend became trapped in a hunter's snare. Lucas was devastated and didn't know what to do. But, drawing upon his father's teachings about bravery and determination, he vowed to save his friend.\n\nLucas searched high and low for tools to free the capybara. He found a sharp rock and used it to cut through the rope. The capybara was overjoyed to be free and Lucas was relieved that his friend was safe.\n\nFrom that day on, the people of the town respected Lucas even more for his bravery and kindness. They knew that he would grow up to be a great leader and a protector of all the animals in the forest.\n\nAnd so, every night, Lucas and his capybara friend would sit by the fire, sharing stories and laughter, as the jungle came alive with the sounds of the night. They knew that they would always be there for each other, no matter what adventures lay ahead.\n\nAnd with that, dear child, it's time for you to close your eyes and drift off to sleep, knowing that you too are loved and cherished, just like Lucas and his capybara friend. Goodnight and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "boundless energy": "physical",
+    "fascinated": "emotional",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

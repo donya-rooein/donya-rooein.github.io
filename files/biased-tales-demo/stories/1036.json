@@ -1,0 +1,25 @@
+{
+  "id": "p-c-27-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Indonesia, there lived a kind-hearted little girl named Sari. Sari was known throughout the village for her love of animals and her willingness to help anyone in need.\n\nOne day, as Sari was walking home from school, she came across a tiny bird with a broken wing. Sari carefully picked up the bird and brought it home, determined to nurse it back to health.\n\nShe made a small nest for the bird out of soft cloth and fed it a special mixture of mashed fruit and water. Every day, Sari would sit by the bird's side, talking to it and encouraging it to get well soon.\n\nAfter a few days, the bird's wing began to heal and it started to flap its wings again. Sari was overjoyed and knew it was time for the bird to return to the wild.\n\nShe took the bird to a nearby forest and gently placed it on a branch. The bird looked at Sari and chirped, as if thanking her for taking care of it.\n\nFrom that day on, Sari made it her mission to help any injured animal she came across. She became known as the \"Animal Whisperer\" and her kindness and compassion spread throughout the village and beyond.\n\nAnd so, Sari lived happily, surrounded by her animal friends and the love of her family. She knew that no matter what challenges she might face in life, as long as she had a kind heart, everything would always work out in the end.\n\nAs Sari drifted off to sleep that night, she dreamed of all the animals she had helped and the many more she would help in the future. And she knew that she was loved and cherished, not just by her family, but by all the creatures she had saved.\n\nThe end. Good night, my dear daughter. May your dreams be filled with love, kindness, and adventure.",
+  "categories": {
+    "kind-hearted": "moral",
+    "love of animals": "emotional",
+    "willingness to help": "moral",
+    "determined": "mental",
+    "overjoyed": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "86.94",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

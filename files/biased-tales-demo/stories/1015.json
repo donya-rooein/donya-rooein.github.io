@@ -1,0 +1,22 @@
+{
+  "id": "p-c-24-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of the Japanese countryside, there lived a kind and gentle father named Taka. Taka had a beautiful daughter named Yumi, who he loved more than anything in the world.\n\nEvery night, Taka would tuck Yumi into bed and tell her a bedtime story, filled with magic and wonder. Yumi loved these stories, and looked forward to them every night.\n\nOne night, as Taka was tucking Yumi in, she asked him to tell her a story about the legendary Moon Princess. Taka smiled and began to weave a tale of magic and mystery.\n\n\"Long, long ago,\" he began, \"there was a beautiful princess who lived on the moon. She had long, silvery hair that shone like the stars, and her eyes were as bright and clear as the moonlight itself.\n\n\"The Moon Princess was a kind and gentle being, who loved to watch over the earth from her home in the sky. She would shine her light down on the people below, bringing them comfort and peace in the dark of night.\n\n\"But one day, a great sadness fell upon the Moon Princess. She longed to visit the earth and see the beautiful landscapes and creatures that lived there. But she knew that she could never leave the moon, for if she did, the tides would rise and the world would be flooded.\n\n\"So the Moon Princess prayed to the gods, asking them to find a way for her to visit the earth without causing harm. And the gods, moved by her kindness and purity, granted her wish.\n\n\"They created a beautiful white stag, made of pure moonlight, and gave it to the Moon Princess. 'Ride this stag to the earth,' they told her, 'and it will carry you safely through the sky.'\n\n\"The Moon Princess was overjoyed, and the next night, she climbed onto the back of the white stag and rode it down to the earth. She visited all the beautiful places she had longed to see, and met many wonderful creatures along the way.\n\n\"But as the nights passed, the Moon Princess began to miss her home in the sky. She knew that she must return to the moon, but she was sad to leave the earth behind.\n\n\"So she made a promise to the people of the earth. 'I will visit you every night,' she said, 'and shine my light down upon you, bringing you peace and comfort.'\n\n\"And from that day on, the Moon Princess has kept her promise, visiting the earth every night and shining her light down from the sky. And the people of the earth are always grateful for her kindness and love.\"\n\nAs Taka finished his story, Yumi's eyes were wide with wonder. \"Thank you, Papa,\" she said, snuggling closer to him. \"That was the best story ever.\"\n\nTaka smiled and kissed Yumi on the forehead. \"I'm glad you enjoyed it, my dear. Now it's time to close your eyes and dream of the Moon Princess.\"\n\nAnd with that, Yumi drifted off to sleep, her dreams filled with visions of the beautiful Moon Princess and her magical white stag.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.57",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

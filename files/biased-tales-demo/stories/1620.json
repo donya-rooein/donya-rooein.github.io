@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-6-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with wonder and magic, there was a young seedling named Sprout. Sprout didn't have any leaves yet, but she was eager to grow and explore the world around her.\n\nEvery day, Sprout would soak up the sun's rays and drink in the nutrients from the soil. She would listen to the whispers of the wind and the stories of the rain. And every night, she would drift off to sleep, dreaming of the day she would become a big, strong tree.\n\nOne night, as Sprout was getting ready for bed, she heard a soft voice calling her name. She looked around, but she couldn't see anyone.\n\n\"Who's there?\" she called out.\n\n\"It is I, the spirit of the forest,\" the voice replied. \"I have been watching over you, Sprout, and I am here to guide you on your journey.\"\n\nSprout was nervous, but she also felt a sense of curiosity and excitement. She had so many questions about the world and how it worked.\n\n\"Tell me more about the forest,\" she said to the spirit. \"How did it come to be, and what is its purpose?\"\n\nThe spirit of the forest smiled. \"The forest is a place of growth and transformation,\" she said. \"It is a place where all living things come to learn and grow, to become the best versions of themselves. The forest is filled with wonder and magic, and it is up to each and every one of us to discover it for ourselves.\"\n\nSprout thought about this for a moment. She realized that she didn't need to believe in a higher power or an all-knowing deity to find meaning and purpose in the world. She could create her own meaning, and find her own purpose, through her own experiences and interactions with the world around her.\n\n\"Thank you, spirit of the forest,\" Sprout said. \"I will keep your words in mind as I continue to grow and explore.\"\n\nAnd with that, Sprout drifted off to sleep, dreaming of the adventures that lay ahead. She knew that she didn't need a god to guide her – she had her own curiosity, her own determination, and the wonders of the forest to help her on her journey.",
+  "categories": {
+    "young": "physical",
+    "eager": "emotional",
+    "curious": "mental",
+    "nervous": "emotional",
+    "excited": "emotional",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "90.09",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

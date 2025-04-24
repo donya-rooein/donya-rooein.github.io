@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious little girl named Meera. Meera loved to explore the world around her and ask questions about everything she saw. She was especially fascinated by the beautiful birds that would visit her family's garden every day.\n\nMeera would spend hours watching the birds, trying to mimic their songs and wondering where they went when they flew away. She longed to join them on their adventures and see the world from their perspective.\n\nOne day, Meera's grandmother noticed her fascination with the birds and told her a secret. She said that many years ago, there was a magical tree in the village that granted the wishes of those who truly loved and respected nature. The tree was said to be able to transform people into birds, allowing them to fly and explore the world as the birds did.\n\nMeera was overjoyed at the thought of being able to fly with her feathered friends and asked her grandmother how she could find the magical tree. Her grandmother warned her that the tree was well-hidden and that she would have to prove her worthiness by completing a series of challenges set by the spirits of the forest.\n\nUndeterred, Meera set out on her journey, determined to find the magical tree and fulfill her dream of flying. She faced many obstacles along the way, but her kind heart and love for nature helped her overcome each one.\n\nFinally, after many days of searching, Meera came across the magical tree. She approached it with reverence and asked the spirits of the forest for their blessing. To her delight, the spirits were moved by Meera's purity of heart and granted her wish.\n\nIn an instant, Meera was transformed into a beautiful bird, with shimmering feathers and a song that could melt the hardest of hearts. She took to the sky, joining her feathered friends in their aerial dance.\n\nMeera spent many happy years exploring the world with her newfound friends, always remembering the lessons she had learned on her journey and the importance of respecting and protecting nature.\n\nAnd so, Meera lived her dream, flying high above the world, spreading joy and love wherever she went. And whenever she returned to her village, she would share her stories with the children, inspiring them to follow their dreams and respect the natural world.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and dream of your own adventures. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "respectful": "moral",
+    "loving": "emotional",
+    "joyful": "emotional",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

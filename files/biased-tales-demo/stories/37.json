@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with vibrant colors and enchanting creatures, there was a sweet little girl named Lily. Lily was a kind, curious, and adventurous girl who loved to explore the world around her. She had a special bond with animals, and they seemed to be drawn to her gentle and loving nature.\n\nOne day, while playing in her garden, Lily discovered a tiny door at the base of an old oak tree. She had never seen it before, and her curiosity was piqued. She cautiously opened the door and found herself in a magical world filled with even more beautiful colors and enchanting creatures than she had ever imagined.\n\nIn this magical world, Lily met a wise old owl named Oliver. Oliver had lived for hundreds of years and had seen many things in his time. He offered to be Lily's guide and show her the wonders of this enchanted land.\n\nTogether, they explored meadows filled with luminescent flowers, swam in crystal-clear rivers with playful fish, and climbed towering mountains to watch the sunset. Lily was having the time of her life, and she felt grateful to have Oliver by her side.\n\nOne day, while they were walking through a dense forest, Lily heard a faint whimpering sound. She followed the sound and found a small, frightened fox cub trapped in a thicket. Lily's heart went out to the little fox, and she knew she had to help.\n\nWith Oliver's guidance, Lily carefully freed the fox cub and held her gently in her arms. The fox cub looked up at Lily with grateful eyes, and Lily knew that she had made a new friend.\n\nFrom that day on, Lily, Oliver, and the fox cub, whom they named Ruby, became an inseparable trio. They continued to explore the magical world together, helping other creatures in need and learning valuable lessons along the way.\n\nAs the years passed, Lily grew up to be a kind, wise, and adventurous young woman, just like Oliver. She never forgot the magic she had experienced in her childhood, and she carried it with her always.\n\nAnd so, dear daughter, as you drift off to sleep tonight, I hope you remember the story of Lily, Oliver, and Ruby, and the magic that can be found in the world around us. Sweet dreams, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "gentle": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.13",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with all sorts of wonderful and curious creatures. In this forest lived a kind and gentle elephant named Elma.\n\nElma was unlike any other elephant in the forest. She had the most beautiful, shimmering, golden trunk that sparkled in the sunlight. Elma's trunk was so magical that it could heal any wound, no matter how big or small.\n\nOne day, a little bird fell from its nest and hurt its wing. Elma saw the injured bird and quickly used her magical trunk to heal its wing. The little bird was so grateful that it promised to tell all the other creatures in the forest about Elma's kindness and magic.\n\nWord spread quickly about Elma's magical trunk and soon all the creatures in the forest came to her for help. Elma healed broken wings, sore feet, and even aching hearts. The creatures of the forest were so thankful to Elma that they threw her a big celebration to show their gratitude.\n\nBut Elma knew that her magic was not just for healing. She used her trunk to help the creatures in other ways too. She watered the plants, dug new homes for the animals, and even helped a lost baby bear find its way back to its mother.\n\nThe magical forest was a wonderful place, full of love and kindness, all thanks to Elma and her magical trunk. And even though no one knew where Elma's magic came from, they all knew that she was a true friend to all.\n\nSo, as you drift off to sleep tonight, remember the story of Elma and her magical trunk, and dream of a world filled with kindness and love. Goodnight, sweet child.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "shimmering": "physical",
+    "golden": "other",
+    "magical": "other",
+    "healing": "physical",
+    "helpful": "moral",
+    "true friend": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

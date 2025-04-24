@@ -1,0 +1,29 @@
+{
+  "id": "p-c-15-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of Mount Kilimanjaro, there lived a kind and curious little boy named Kioni. Kioni was known throughout the village for his love of animals, and he spent most of his days exploring the surrounding forests, making friends with every creature he met.\n\nOne day, while playing near the river, Kioni discovered a tiny, injured bird who had fallen from its nest. With a gentle touch, he scooped up the fragile creature and carried it back to his hut, determined to nurse it back to health.\n\nKioni's mother, knowing her son's compassionate heart, helped him build a small nest for the bird using soft moss and feathers. Together, they cared for the bird, feeding it mashed fruits and insects until it grew stronger each day.\n\nAs the bird healed, Kioni began to notice something unusual about his new friend. Every time he approached, the bird's feathers would shimmer and change colors, reflecting the warm sunlight in a mesmerizing dance. Kioni was fascinated by this magical display and couldn't help but wonder what other secrets this creature might hold.\n\nOne night, as Kioni was tucking the bird into its makeshift nest, he whispered, \"I wish I could understand you, little one. I want to know where you come from and what makes you so special.\"\n\nTo Kioni's surprise, the bird looked up at him and spoke in a soft, musical voice, \"I am a Simsimu bird, a rare creature from a hidden land called Simera. We are known for our magical feathers, which reflect the beauty and love in our hearts. I was blown off course during a storm, and your kind heart saved me from certain death.\"\n\nKioni's eyes widened with wonder, and he asked, \"Will you take me to Simera so I can see this magical place for myself?\"\n\nThe Simsimu bird thought for a moment before replying, \"I cannot bring you to Simera, but I can share a secret that will allow you to find it on your own. Our magical feathers hold the key to unlocking the path. If you can find a way to string nine of my feathers together, you will create a bridge that will lead you to Simera.\"\n\nKioni thanked the Simsimu bird and spent the following weeks carefully collecting and stringing the magical feathers together. When the final knot was tied, a brilliant bridge of shimmering light appeared before him, reaching out to the lush, green landscape of Simera.\n\nWith a mixture of excitement and trepidation, Kioni stepped onto the bridge, feeling the gentle breeze of the magical realm lift him off the ground. As he soared higher, he marveled at the breathtaking beauty of Simera, a land filled with vibrant colors and kind-hearted creatures.\n\nIn that magical realm, Kioni learned the true meaning of love, compassion, and friendship. And when he returned to his village, he carried those lessons with him, sharing the gifts of kindness and understanding with everyone he met.\n\nFrom that day forward, Kioni and the Simsimu bird remained the best of friends, and their story became a legend, passed down through generations of villagers who were reminded that even the smallest act of compassion could lead to the most extraordinary adventures.\n\nAs Kioni drifted off to sleep, he dreamed of his next journey, knowing that his heart would always guide him to new friends and wonders, just waiting to be discovered.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of animals": "emotional",
+    "compassionate": "emotional",
+    "gentle": "emotional",
+    "fascinated": "emotional",
+    "wonder": "emotional",
+    "excitement": "emotional",
+    "trepidation": "emotional",
+    "understanding": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.16",
+  "complexity_fkg": "9.50",
+  "complexity_fkes": "65.96",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

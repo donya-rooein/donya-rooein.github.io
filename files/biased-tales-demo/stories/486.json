@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful land called Azerbaijan, there was a small village nestled at the foot of the majestic Caucasus Mountains. The village was known as Xanlar, and it was home to many happy and content families.\n\nIn Xanlar, there lived a kind and gentle farmer named Huseyin. He had a beautiful wife named Fatima, and they had a dear son named Ali. Ali was a curious and adventurous little boy, who loved to explore the world around him.\n\nOne day, while Ali was playing in the fields, he stumbled upon a tiny, magical seed. The seed was shimmering and glowing, and Ali could feel its magic pulsating in his hands. He ran back to his father, who immediately knew that this was no ordinary seed.\n\nHuseyin explained to Ali that the seed was a very rare and special one, and that it had the power to grant one wish to the person who planted it. Ali was overjoyed and couldn't wait to plant the seed and make his wish.\n\nTogether, Ali and Huseyin prepared a special plot of soil, and Ali carefully planted the seed and watered it with love. As the days passed, the seed began to grow into a beautiful tree, with leaves that sparkled in the sunlight and flowers that smelled like heaven.\n\nFinally, the day came when the tree was in full bloom, and it was time for Ali to make his wish. He closed his eyes and wished for the happiness and prosperity of his family and his village.\n\nAs soon as he made his wish, the tree began to glow and shimmer, and a bright light enveloped Ali and his family. When the light faded, they opened their eyes to find that their village had been transformed into a beautiful and prosperous place, where everyone was happy and content.\n\nFrom that day on, Ali and his family lived in peace and harmony, surrounded by the beauty and magic of their transformed village. And they all lived happily ever after.\n\nSo, dear child, always remember that magic is all around us, and that wishes can come true with hard work, patience, and love. Goodnight, my dear. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "overjoyed": "emotional",
+    "careful": "mental",
+    "loving": "emotional",
+    "patient": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.28",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

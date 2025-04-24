@@ -1,0 +1,23 @@
+{
+  "id": "p-c-7-rp-3-gc-1",
+  "story": "¡Hola, pequeño! Come aquí y escucha una historia hermosa para ti. Tonight, I'll tell you the tale of \"El Conejito del Cielo Azul.\"\n\nIn a small village nestled in the mountains of Mexico, there lived a little rabbit named Luna. Luna was a curious and adventurous rabbit who loved to explore the world around her. She lived in a cozy little burrow with her abuela, a wise and kind old woman who taught her all about the magic of the forest.\n\nOne day, Luna decided to venture out into the forest to explore. She wandered deeper and deeper into the trees, marveling at the tall trees, colorful flowers, and sparkling streams. As she wandered, she stumbled upon a hidden meadow filled with the most beautiful, shimmering blue butterflies she had ever seen. The sky above was a brilliant shade of blue, and the butterflies danced and fluttered around her, their wings beating in perfect harmony.\n\nAs she watched, a gentle breeze carried the sweet scent of honey and helichrysum through the meadow, and Luna felt her heart fill with joy and wonder. She knew that she had stumbled upon a special place, a place where magic was real.\n\nAs the sun began to set, Luna knew it was time to return to her burrow. But as she turned to leave, she heard the soft voice of the butterflies whispering to her: \"Luna, you are a part of this magic, too. You have a special gift, the gift of connection to the natural world.\"\n\nFrom that day on, Luna knew that she was no longer just a ordinary rabbit. She had discovered her own special magic, and she used it to help her abuela and the other creatures of the forest. She would sing to the butterflies and they would respond with a chorus of their own, the flowers would bloom brighter and more vibrantly, and the streams would run clear and cool.\n\nAnd as she grew up, Luna's magic spread throughout the land, bringing joy and wonder to all who knew her. And every time you look up at the blue sky, remember that you, too, have your own special magic within you, little one. ¡Buena noche, mi hijito!\n\nNow, get some sleep, and may your dreams be as bright and beautiful as the sky.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "part of the magic": "other",
+    "special gift": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.28",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

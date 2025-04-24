@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Here's a bedtime story for your son:\n\n\"Ang Lobo at ang Ibon: The Adventure of the Tiger and the Bird\"\n\nIn a lush, green forest in the mountains of the Philippines, there lived a majestic tiger named Tatay, which means \"Father\" in Filipino. Tatay was the protector of the forest and its creatures. He was strong, kind, and wise.\n\nOne day, Tatay saw a small bird named Anak, which means \"Child\" in Filipino, who got lost in the forest while searching for food. Anak was tired, hungry, and scared. Tatay approached him gently and said, \"Don't worry, anak. I will help you find your way home.\"\n\nTogether, the unlikely duo set off on an adventure through the forest. They crossed rivers, climbed hills, and met many colorful birds and animals along the way. Tatay taught Anak how to identify the different species, and Anak shared stories of the songs he sang to his forest friends.\n\nAs the sun began to set, Tatay and Anak reached the edge of the forest. Anak's eyes welled up with tears as he saw the outline of his nest, where his family was waiting for him. Tatay smiled and said, \"Anak, you are brave and strong, just like me. Remember, you can always find your way back home, no matter how far you wander.\"\n\nWith a newfound sense of confidence, Anak thanked Tatay and returned to his nest. From that day on, Anak would often visit Tatay in the forest, and they would explore together, sharing stories and laughter until the stars twinkled in the sky.\n\nBefore falling asleep, Anak would whisper to his friends in the forest, \"Pagdating ng gabi, wala kang makakapiling ng tatay niyo\" (\"When night falls, you have no one but your father to rely on\"). And they would all nod in agreement, knowing that Tatay's protection was always watching over them.\n\nAs you drift off to sleep, my anak, remember that you also have a Tatay, a guiding light who is always looking out for you. May you always find your way back to the love and safety of our family. Sweet dreams, anak.",
+  "categories": {
+    "majestic": "other",
+    "strong": "physical",
+    "kind": "moral",
+    "wise": "mental",
+    "gentle": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "None."
+}

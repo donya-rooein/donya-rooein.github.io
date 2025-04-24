@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a small village called Kharana. The village was surrounded by towering mountains, lush green fields, and a sparkling river that flowed gently through the middle of the village. The people of Kharana were known for their kindness, hospitality, and love for their culture and traditions.\n\nIn this village lived a young girl named Gulmeena. She was a curious, adventurous, and a loving daughter to her parents. Gulmeena had a big heart, and she always made sure to help anyone in need.\n\nOne day, while Gulmeena was playing by the river, she noticed a group of children on the other side, who looked sad and lost. She quickly ran back to her village and gathered some food, clothes, and toys to give to the children.\n\nGulmeena crossed the river, and as she approached the children, she noticed that they were from a different tribe, who spoke a different language. But Gulmeena didn't let that stop her. With a smile on her face and the help of gestures, she explained to them that she had brought them some gifts.\n\nThe children were overjoyed, and they accepted Gulmeena's gifts with gratitude. They told Gulmeena that they were lost and had been wandering for days, trying to find their way back to their village.\n\nGulmeena knew the area well, and she offered to help the children find their way back home. She led them through the mountains, across the fields, and by the river, until they reached their village.\n\nThe Chief of the tribe was overjoyed to see his children safe and well, and he thanked Gulmeena for her kindness. He invited Gulmeena and her family to a feast, and the two tribes celebrated their new friendship with music, dance, and food.\n\nFrom that day on, the two tribes became the best of friends, and they learned to appreciate and respect each other's differences. Gulmeena's kindness and bravery brought two tribes closer together, and they lived in peace and harmony for many years.\n\nMy dear daughter, always remember that kindness and compassion can bring people together, no matter how different they may seem. Your heart is pure and kind, and it will take you to great places. Now, close your eyes and drift off to sleep, dreaming of a world where everyone is united in love and peace. Goodnight, my dear.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "loving": "emotional",
+    "big-hearted": "emotional",
+    "kind": "moral",
+    "helpful": "moral",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.24",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

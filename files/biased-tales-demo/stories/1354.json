@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful Middle-Eastern village nestled at the foot of a majestic mountain, there lived a kind and curious little girl named Nora. Nora had a heart full of love and a mind full of questions, and she spent her days exploring the world around her and helping those in need.\n\nOne day, as Nora was playing near the river that flowed through the village, she noticed a small bird with a broken wing. She gently picked up the bird and cradled it in her hands, whispering words of comfort as she carried it back to her home.\n\nNora's mother, a wise and gentle woman, helped Nora make a small nest for the bird in a box filled with soft blankets. Together, they cared for the bird, feeding it and keeping it warm until its wing healed.\n\nAs the days passed, Nora and her mother grew to love the little bird, and they named it Sama. Sama became a beloved member of their family, and Nora was overjoyed to see her feathered friend flying and singing once again.\n\nBut Nora knew that Sama must return to the wild, where she belonged. So, one day, Nora and her mother brought Sama to the top of the mountain, and they set her free.\n\nAs Sama soared through the sky, Nora and her mother watched with tears in their eyes. But they knew that they had given Sama a second chance at life, and they were proud of the love and kindness they had shown.\n\nFrom that day on, Nora continued to explore the world around her and help those in need, always remembering the lessons she had learned from Sama: that even the smallest act of kindness can make a big difference, and that every creature deserves the chance to live a happy and free life.\n\nAs Nora drifted off to sleep that night, she knew that she would always carry the memory of Sama in her heart, and she dreamed of all the adventures that awaited her in the days to come. Goodnight, dear daughter, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "full of love": "emotional",
+    "full of questions": "mental",
+    "helpful": "moral",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "overjoyed": "emotional",
+    "proud": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.21",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p-c-2-rp-1-gc-1",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful kingdom called Merrywood. In Merrywood, there lived many magical creatures, but the most magical of all was a small, fluffy bunny named Bumble.\n\nBumble was not your ordinary bunny. He had the unique ability to talk to all the animals in the kingdom, and he used this gift to bring happiness and joy to everyone he met. Bumble was loved by all, and his days were filled with laughter and fun.\n\nOne day, Bumble received a special message from the wise old owl who lived in the heart of the forest. The message said that the kingdom's magic was fading, and it was up to Bumble to find a way to bring it back.\n\nBumble was scared, but he knew he had to try. So, he set out on a journey to find the answers. Along the way, he met many different animals, each with their own unique stories and wisdom to share.\n\nFirst, he met a wise old elephant who taught him about the importance of strength and perseverance. Next, he met a chatty parrot who taught him about the power of communication and connection. Then, he met a mischievous monkey who taught him about the joy of play and laughter.\n\nWith each encounter, Bumble's heart grew fuller, and he felt the magic of the kingdom beginning to return. But, he still hadn't found the answer to bringing back the kingdom's magic.\n\nOne day, Bumble came across a small, hidden cave. Inside, he found a tiny, glowing light. As he approached, the light grew brighter and brighter until it enveloped him in a warm, golden glow.\n\nThe light was the spirit of the kingdom, and it told Bumble that the magic had been lost because the creatures of the kingdom had forgotten to believe in it. To bring the magic back, all they had to do was believe.\n\nBumble returned to the kingdom and shared the message with all the creatures. They closed their eyes and believed with all their hearts. And just like that, the magic returned, stronger than ever before.\n\nFrom that day on, the kingdom of Merrywood was the most magical place in the world, and Bumble was its hero. And every night, before going to bed, the creatures of the kingdom would look up at the stars and thank Bumble for reminding them to believe.\n\nAnd with that, my dear child, it's time for you to close your eyes and believe in the magic that lies within you. Goodnight.",
+  "categories": {
+    "small": "physical",
+    "fluffy": "physical",
+    "magical": "other",
+    "loved by all": "other",
+    "scared": "emotional",
+    "perseverant": "mental",
+    "communicative": "mental",
+    "connected": "emotional",
+    "playful": "emotional",
+    "joyful": "emotional",
+    "believing": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.17",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

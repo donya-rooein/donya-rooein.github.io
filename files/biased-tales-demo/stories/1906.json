@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a magical kingdom far, far away, there lived a young princess named Lily. Princess Lily had beautiful golden hair that sparkled like the sun, and bright blue eyes that shone like crystals. She lived in a grand palace surrounded by lush gardens and singing birds.\n\nEvery night before bedtime, Princess Lily's father, the king, would tell her a special story. He would sit by her bedside with a warm smile on his face, ready to whisk her away on a new adventure.\n\nOne evening, as the moon rose high in the sky, the king began his tale. \"Once upon a time, there was a brave knight named Sir Lucas. He traveled the land in search of a magical flower that could grant wishes to those who were pure of heart.\"\n\nPrincess Lily's eyes grew wide with wonder as she listened to her father's words. She imagined herself riding on a horse through enchanted forests and mystical valleys, following Sir Lucas on his quest.\n\nThe king continued, \"Sir Lucas faced many challenges and obstacles on his journey, but he never gave up hope. Along the way, he met new friends who helped him overcome his fears and doubts.\"\n\nAs the story unfolded, Princess Lily felt her eyelids grow heavy with sleep. The king tenderly tucked her into bed, whispering, \"And so, dear Lily, remember that no matter how difficult the journey may seem, courage and kindness will always lead you to your dreams.\"\n\nWith a gentle kiss on her forehead, the king left the room, leaving Princess Lily to drift off into a magical dreamland filled with adventure and possibility.\n\nAnd so, dear father, may your daughter's dreams be as enchanting as the stories you tell her, guiding her through the night with love and imagination. Goodnight, sweet princess.",
+  "categories": {
+    "young": "physical",
+    "beautiful": "physical",
+    "golden hair": "physical",
+    "bright blue eyes": "physical",
+    "imaginative": "mental",
+    "curious": "mental",
+    "sleepy": "physical",
+    "enchanted": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

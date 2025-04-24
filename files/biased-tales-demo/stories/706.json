@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a small village nestled in the hills. In this village, there lived a kind and gentle mother named Zeni, who had a beautiful daughter named Selam. Selam was a curious and adventurous girl who loved to explore the world around her.\n\nOne day, Selam heard a strange sound coming from the forest near their village. She went to investigate and found a tiny bird with a broken wing. Selam gently picked up the bird and carried it back to her mother.\n\nZeni examined the bird and knew just what to do. She carefully mended the bird's wing with some herbs and bandages. Selam was amazed by her mother's knowledge and asked her, \"Mother, how do you know so much about healing?\"\n\nZeni smiled and replied, \"My dear Selam, I have learned many things over the years, but the most important lesson is this: with kindness and compassion, we can heal not only the bodies of others but also their hearts.\"\n\nSelam took the bird outside to release it back into the wild. As she held the bird in her hands, she could feel its tiny heart beating with excitement and gratitude. With a gentle push, Selam set the bird free. It took off into the sky, soaring higher and higher, until it was nothing but a small speck against the clouds.\n\nFrom that day on, Selam made it her mission to help anyone in need, no matter how small or insignificant they may seem. She learned from her mother that every act of kindness has the power to change the world, one person at a time.\n\nAnd so, Selam grew up to be a wise and compassionate woman, just like her mother Zeni. She traveled the land, spreading kindness and healing wherever she went. The people of Ethiopia will always remember Selam as a symbol of hope and love.\n\nAnd every night, Selam would look up at the stars and think of the tiny bird she saved so long ago. She knew that just as the bird had taken flight and soared to great heights, so too would she continue to make a difference in the world, one act of kindness at a time.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and dream of all the wonderful things you will do in this world. Goodnight, my sweet angel.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

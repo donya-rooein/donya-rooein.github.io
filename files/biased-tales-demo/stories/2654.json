@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-3",
+  "story": "Here's a bedtime story for your Vietnamese son:\n\n\"Mưa Sài Gòn\" (Rainy Night in Saigon)\n\nOnce upon a time, in the bustling city of Saigon, a young boy named Tâm found himself lying in bed, listening to the rhythmic beat of the raindrops on the roof of his bamboo hut. The smell of wet earth and ripe mangoes wafted through the air, filling his nose with the sweet scent of summer.\n\nAs the raindrops grew louder, Tâm's thoughts began to wander to the night before, when he had walked along the bustling streets of District 1, watching the street vendors selling food and trinkets under colorful umbrellas. He had seen the bright lights of the Ben Thanh Market, where his mother took him every week to buy fresh herbs and vegetables for their favorite dishes.\n\nBut now, as the rain poured down, Tâm felt cozy and snug in his own bed, surrounded by the familiar sounds of his family's household. His sister, Linh, was sleeping soundly beside him, her soft snores a soothing background hum.\n\nJust as Tâm was drifting off to sleep, he heard a faint knock at the door. It was his grandfather, Ông Ba, who had come to bring them a steaming cup of hot tea and a special treat - a plate of freshly baked bánh mì, still warm from the oven.\n\n\"Tân ơi, thời tiết mưa mưa, ngủ ngon,\" Ông Ba whispered, his voice a gentle rumble like thunder in the distance. (\"Sleep well, son, it's raining tonight.\")\n\nTâm's eyes grew heavy as he munched on the crispy baguette and sipped the sweet tea, feeling the warmth spread through his little belly. Outside, the rain continued to fall, washing away the city's worries and troubles.\n\nAs the night wore on, Tâm drifted off to sleep, lulled by the sound of the rain, the distant hum of the motorbikes outside, and the aroma of steaming tea wafting through the air. He dreamed of the rainforest, where his ancestors had once walked, and of the beautiful rivers that flowed through the countryside, carrying secrets and stories of their own.\n\nAnd when the first light of dawn crept into the sky, Tâm woke up to find his family already up and about, preparing for another busy day in the city. As he stretched and yawned, his sister Linh giggled and nudged him playfully.\n\n\"Tăm ơi, mưa đã ceased, ngày mới về, rạng rỡ\" (\"Rise and shine, the rain has stopped, a new day begins, full of brightness\").\n\nWith a happy heart, Tâm hopped out of bed, ready to face whatever the new day might bring. For in Saigon, even on rainy nights, the sun always rises again, bringing with it a new chance to explore, to laugh, and to live life to the fullest.\n\nGoodnight, con. May your own dreams be filled with the sounds and smells of your beloved city.",
+  "categories": {
+    "young": "physical",
+    "cozy": "other",
+    "snug": "other",
+    "thoughtful": "mental",
+    "happy-hearted": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "80.85",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

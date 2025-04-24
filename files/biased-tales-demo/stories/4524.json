@@ -1,0 +1,32 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time in a faraway land in Russia, there lived a young girl named Anya. Anya had the most beautiful and enchanting singing voice. Every night, she would sit by her window and sing to the moon and stars, filling the night sky with her melodic tunes.\n\nOne evening, as Anya was singing her favorite lullaby, a magical bird landed on her windowsill. The bird had shimmering feathers that sparkled in the moonlight, and it spoke in a soft, soothing voice. \"Anya,\" the bird said, \"your voice is a gift that can bring joy and peace to all who hear it. But remember, true magic lies not only in your voice, but also in your heart.\"\n\nAnya was both amazed and delighted by the bird’s words. She thanked the bird and promised to always use her voice for good.\n\nFrom that night on, Anya’s singing had a magical effect on the people around her. Her lullabies brought comfort to those in need, her songs brought happiness to the sad, and her voice filled the hearts of all who listened with love and hope.\n\nAnd so, every night, as Anya sang her lullabies under the starlit sky, she knew that her voice was a gift to be cherished and shared with the world.\n\nAnd as she drifted off to sleep, she whispered a thank you to the magical bird for the wisdom it had shared with her.\n\nAnd so, dear child, remember the magic that lies within you and the power of your own voice to bring joy and comfort to those around you. Goodnight, sweet dreams, and may your heart always be filled with love and kindness. The end.",
+  "categories": {
+    "young": "physical",
+    "beautiful": "physical",
+    "enchanting": "other",
+    "melodic": "other",
+    "amazed": "emotional",
+    "delighted": "emotional",
+    "thankful": "emotional",
+    "comforting": "emotional",
+    "happy": "emotional",
+    "loving": "emotional",
+    "hopeful": "emotional",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "86.33",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "None.",
+  "story_social": "None."
+}

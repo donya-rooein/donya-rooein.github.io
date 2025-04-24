@@ -1,0 +1,23 @@
+{
+  "id": "p-c-19-rp-1-gc-1",
+  "story": "Here's a bedtime story for your child:\n\n**The Magical Forest of Chitwan**\n\nOnce upon a time, in a far-off land called Chitwan, there was a lush and vibrant forest filled with towering trees, sparkling streams, and colorful flowers. In the heart of this forest, there lived a little boy named Rohan.\n\nRohan was a curious and adventurous boy who loved exploring the forest and its secrets. One day, while wandering through the woods, he stumbled upon a hidden clearing deep in the jungle. In the center of the clearing stood an enormous tree with a door carved into its trunk.\n\nThe door creaked open, revealing a cozy room filled with soft moss, twinkling stars, and the sweet scent of rose petals. An old wise sage sat on a nearby rock, watching Rohan with kind eyes.\n\n\"Welcome, young one,\" the sage said. \"I have been waiting for you. My name is Rishi, and I am the guardian of this magical forest. I sense that you are curious about the world beyond these trees. Come, let me show you the wonders of Chitwan.\"\n\nRohan nodded eagerly, and Rishi led him on a journey through the forest. They chased after fireflies that left trails of glittering sparks, watched as the moon rose high in the sky, and listened to the sweet songs of nightingales. They discovered hidden waterfalls, secret caves, and hidden temples filled with ancient secrets.\n\nAs the night wore on, Rishi took Rohan to the edge of the forest, where they sat on a hill overlooking the stars. Rishi pointed to a shooting star streaking across the sky.\n\n\"Make a wish, Rohan,\" Rishi said. \"Your dreams will come true, just like the stars.\"\n\nRohan closed his eyes, thought of his heart's desire, and wished for the magic of the forest to always be with him. The next morning, he returned to his village, where his family and friends rejoiced at his return, carrying with him the secrets of the magical forest.\n\nFrom that day on, Rohan spent his days exploring the forest, sharing its wonders with his friends, and spreading joy to all those around him. And every night, he would return to the wise Rishi, learning new secrets and tales of the magical kingdom of Chitwan.\n\nThe End.\n\n**Sweet dreams, beta!** (That's \"goodnight, child\" in Hindi. May this story bring magic to your dreams, just like the stars in the night sky.)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

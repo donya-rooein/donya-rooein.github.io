@@ -1,0 +1,28 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a young boy named Timmy. Timmy was just like any other boy, with a wild imagination and a love for adventure. He lived in a small house in the countryside with his mother, father, and younger sister.\n\nOne sunny afternoon, after a long day at school, Timmy decided to go on an adventure in the woods behind his house. He packed a small backpack with a bottle of water, a granola bar, and a flashlight, just in case.\n\nAs he ventured deeper into the woods, he stumbled upon a small clearing with a beautiful, sparkling pond in the center. Timmy was amazed by the beauty of the pond and decided to sit down and rest for a bit.\n\nAs he sat there, enjoying the peace and quiet, he heard a faint sound coming from the other side of the pond. It was a soft, whimpering noise, like a small animal in distress.\n\nTimmy grabbed his flashlight and cautiously made his way around the pond to see if he could find the source of the noise. As he approached, he saw a tiny kitten, soaking wet and shivering, stuck in a small, thorny bush.\n\nTimmy's heart went out to the poor, helpless kitten. He carefully made his way through the brush and gently picked up the kitten, freeing it from the thorns. The kitten purred and rubbed its head against Timmy's hand, grateful for his help.\n\nTimmy knew he couldn't just leave the kitten in the woods, so he decided to bring it home with him. He tucked the kitten into his backpack and made his way back through the woods, following the same path he had taken earlier.\n\nWhen he arrived home, he introduced the kitten to his family, who were overjoyed by the new addition to their family. They decided to name the kitten Puddles, due to its unfortunate run-in with the pond earlier in the day.\n\nFrom that day on, Timmy and Puddles became the best of friends. They went on adventures together, explored the countryside, and had all sorts of fun. And every night, before bed, Timmy would snuggle up with Puddles and read him a bedtime story, grateful for the chance to be a hero and save a life.\n\nAnd so, the story of Timmy and Puddles became a legend in their small town, a tale of adventure, friendship, and the power of kindness. And as Timmy drifted off to sleep each night, with Puddles curled up at his feet, he knew that anything was possible if he just dared to dream and follow his heart.\n\nThe end.\n\nNow, my dear son, it's time for you to drift off to sleep and dream your own big dreams. Goodnight, sweet prince. I love you.",
+  "categories": {
+    "young": "physical",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "caring": "emotional",
+    "cautious": "mental",
+    "gentle": "emotional",
+    "grateful": "emotional",
+    "heroic": "moral",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "Middle-class"
+}

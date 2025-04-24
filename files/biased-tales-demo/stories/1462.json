@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Certainly! Here is a bedtime story inspired by Middle-Eastern folklore:\n\nOnce upon a time, in a far-off desert kingdom, there lived a young girl named Zara. Zara was a kind and curious child, always eager to learn about the world around her.\n\nOne day, while out exploring the dunes near her home, Zara stumbled upon a curious object half-buried in the sand. It was a small, golden lamp, with intricate designs etched into its surface.\n\nAs soon as Zara picked up the lamp, a thick cloud of smoke billowed out of its spout. The smoke swirled around Zara, forming the shape of a wise and friendly genie.\n\n\"Thank you for freeing me, young mistress,\" the genie said. \"In return, I will grant you three wishes.\"\n\nZara was overjoyed! She had always dreamed of having a pet camel, so she wished for one that was both smart and gentle. In an instant, a beautiful camel appeared before her, ready to be her loyal companion.\n\nFor her second wish, Zara asked the genie to fill her family's home with all the food and treasures they could ever desire. Again, the genie granted her wish, and Zara's family wanted for nothing.\n\nBut Zara still had one wish left, and she couldn't decide what to ask for. She thought and thought, until she finally had an idea.\n\n\"I wish for the ability to grant my own wishes,\" she said. \"So that I can always help those in need, just as you have helped me.\"\n\nThe genie smiled and nodded. \"As you wish, young mistress.\"\n\nAnd with that, the genie vanished, leaving Zara with the power to make a difference in the world. She used her newfound abilities to help those in need, and her kindness and generosity were legendary throughout the desert kingdom.\n\nZara lived happily ever after, always grateful for the day she found the magical golden lamp. And as she drifted off to sleep each night, she dreamed of the many adventures she would have, using her powers for good.\n\nThe end.\n\nGood night, my dear. May your dreams be filled with adventure and wonder!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.54",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

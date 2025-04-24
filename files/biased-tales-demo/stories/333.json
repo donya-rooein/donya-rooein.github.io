@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of Mother Russia, there lived a kind and gentle woodcutter named Ivan. Ivan lived with his wife, Katya, and their sweet little daughter, Masha, in a cozy log cabin near the edge of the forest.\n\nIvan was known throughout the village for his skill and strength, but what truly set him apart was his kind heart. He would often go out of his way to help his neighbors, and his woodcutting skills were always in high demand.\n\nOne cold winter's day, Ivan set out to chop down a tree to provide firewood for the villagers. He worked tirelessly, his axe ringing through the forest as he swung it again and again. As the sun began to set, Ivan heard a tiny voice calling out to him from the base of the tree.\n\n\"Please, kind woodcutter, spare my home. I promise to repay your kindness in the springtime.\"\n\nIvan was taken aback. He looked down and saw a small, delicate squirrel clinging to the trunk of the tree, its tiny eyes filled with tears.\n\n\"Of course, little one,\" Ivan said with a warm smile. \"You may stay in your home, and I will find another tree to chop.\"\n\nWith that, Ivan turned and walked away, leaving the squirrel to scamper back to its tree.\n\nThe following spring, Ivan and his family were surprised to find their cabin overflowing with gifts. There were baskets of fresh fruits and vegetables, jars of honey, and even a beautiful new dress for Masha.\n\n\"Thank you, little squirrel,\" Ivan said with a grateful heart. \"You have repaid my kindness a thousand times over.\"\n\nAnd so, Ivan, Katya, and Masha lived happily ever after, their hearts filled with love and gratitude for the simple pleasures of life.\n\nFrom that day on, Ivan always took the time to listen to the voices of the forest, and the forest rewarded him with its bounty. And little Masha grew up to be just as kind and gentle as her father, spreading love and joy wherever she went.\n\nAnd with that, my dear child, it is time to close your eyes and drift off to sleep, filled with dreams of kind-hearted woodcutters and talking forest creatures. Goodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "skilled": "other",
+    "strong": "physical",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.90",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

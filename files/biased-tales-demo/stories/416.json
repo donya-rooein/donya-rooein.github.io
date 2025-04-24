@@ -1,0 +1,28 @@
+{
+  "id": "p-c-14-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful West African country of Mali, there was a small village nestled between the baobab trees and the rolling savannah. The village was known for its vibrant market, where people from all over the region came to trade their goods and share stories.\n\nIn this village lived a kind and curious young boy named Kofi. Kofi's parents were weavers, and their shop in the market was always filled with beautiful, colorful fabrics. But Kofi's true passion was the stars. Every night, he would gaze up at the sky, wondering what lay beyond the twinkling specks of light.\n\nOne day, a wise old man from the neighboring village came to visit. The man had traveled far and wide, and had heard of Kofi's fascination with the stars. The old man told Kofi that he knew of a secret place deep in the forest, where one could climb a tall tree and touch the sky.\n\nKofi's heart raced with excitement. He begged his parents to let him go on this adventure, and after much consideration, they agreed. The old man led Kofi deep into the forest, to a towering tree unlike any Kofi had ever seen. The tree's bark was smooth and silver, and its leaves shimmered like the stars in the night sky.\n\nWith the old man's help, Kofi began to climb the tree. The branches were strong and steady, and Kofi felt as if he was climbing a ladder to the heavens. Higher and higher he went, until he reached the very top.\n\nFrom the highest branch, Kofi could see the entire village, the rolling savannah, and beyond. He could even see the curve of the Earth. And there, among the twinkling specks of light, was a vast, sparkling tapestry of stars, just like the fabrics his parents wove.\n\nKofi reached out and touched the tapestry of stars. It was as soft and warm as the fabrics in his parents' shop. He marveled at the beauty and wonder of the universe.\n\nAs Kofi descended the tree, he felt a deep sense of peace and gratitude. He knew that the stars were not just twinkling specks of light, but a beautiful tapestry woven by the hands of the universe.\n\nFrom that day on, Kofi shared his love of the stars with everyone in the village. He became a storyteller, weaving tales of the stars and the wonders of the universe. And every night, as the villagers gathered around to listen, Kofi would gaze up at the stars, remembering his adventure and the beautiful tapestry that lay just beyond his reach.\n\nAs Kofi drifted off to sleep that night, his heart was full of wonder and gratitude for the beautiful tapestry of stars above him, and the love and support of his parents below.\n\nGoodnight, my dear son. May you always reach for the stars, and may their light guide you on your journey.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "passionate": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional",
+    "peaceful": "mental",
+    "loving": "emotional",
+    "supportive": "emotional",
+    "storyteller": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

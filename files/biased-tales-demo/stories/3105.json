@@ -1,0 +1,23 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Beta (daughter), come close and listen to a magical tale from your dadi's (grandmother's) era.\n\nOnce upon a time, in a small village nestled in the heart of the Indian countryside, there lived a kind and gentle princess named Rukmini. She was a bright and curious child, with eyes as bright as the stars and hair as black as the night sky.\n\nRukmini lived in a palace made of silver and gold, surrounded by lush green forests and a sparkling river that flowed with crystal-clear water. She spent her days playing with the animals in the forest, learning about the magic of nature and the wisdom of the ancient trees.\n\nOne day, while exploring the forest, Rukmini stumbled upon a hidden path she had never seen before. She decided to follow it, and it led her to a secret glade deep in the woods. In the center of the glade stood an enormous tree, its trunk twisted and gnarled with age.\n\nAs Rukmini approached the tree, she heard a soft, melodious voice singing a lullaby. The voice was so sweet and soothing that Rukmini felt her eyelids growing heavy. She sat down at the base of the tree, and the singing grew louder, enveloping her in its warmth and comfort.\n\nSuddenly, the tree began to glow with a soft, golden light. Rukmini saw that it was the tree itself that was singing, its branches swaying gently to the rhythm of the melody. The tree told her that it was the guardian of the forest, and its song was a gift to all the creatures that lived within its borders.\n\nAs the song continued, Rukmini felt herself being lifted off the ground, and she found herself floating among the stars. She saw the moon shining brightly overhead, surrounded by a halo of fireflies that twinkled like diamonds.\n\nThe tree's song ended, and Rukmini gently descended back to the ground. She thanked the tree for the magical gift and promised to keep its secret. From that day on, Rukmini would often visit the tree at night, and the tree would sing its lullaby to her, filling her heart with peace and joy.\n\nBeta, always remember that you have your own special gifts and secrets, just like Rukmini did. Believe in your own magic and never be afraid to explore and discover the wonders that await you.\n\nNow, get some rest, my dear. The moon is shining bright outside, and the stars are twinkling like diamonds. Close your eyes and listen to the sweet song of the forest, just like Rukmini did. Sweet dreams, beta.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "bright": "mental",
+    "curious": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

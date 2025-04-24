@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, there lived a kind and curious young boy named Ahmed. Ahmed was a devout Muslim, who loved to learn about the world around him and the teachings of his faith.\n\nOne day, Ahmed heard tell of a wise old man who lived atop the mountain, said to possess great knowledge and wisdom. Ahmed was filled with excitement at the thought of meeting this wise man and learning from him.\n\nSo, Ahmed packed a small bag with some food and water, and set off on the long journey up the mountain. The path was steep and treacherous, but Ahmed's determination never wavered. He climbed for days, stopping only to rest and pray.\n\nFinally, after what felt like an eternity, Ahmed reached the top of the mountain and found the wise old man's humble abode. The old man greeted Ahmed warmly and invited him inside.\n\nAhmed asked the wise old man many questions about the world and his faith, and the old man answered each one with kindness and grace. But the question Ahmed most wanted to ask was this: \"What is the most important thing aMuslim can do to live a good life and please Allah?\"\n\nThe wise old man looked at Ahmed with a gentle smile and said, \"My dear boy, the most important thing a Muslim can do is to be kind and compassionate to others. To treat everyone with respect and dignity, regardless of who they are or where they come from. To give generously of your time, your resources, and your heart. For in doing so, you are following in the footsteps of our beloved Prophet Muhammad (peace be upon him) and embodying the true spirit of Islam.\"\n\nAhmed was overjoyed to hear this, for it was something he could do every day, no matter where he was or what he was doing. He thanked the wise old man for his wisdom and set off back down the mountain, determined to live his life with kindness and compassion at the forefront.\n\nAnd so, my dear son, let this story serve as a reminder to always be kind and compassionate, for in doing so, you will not only please Allah but also bring joy and happiness to those around you. Good night, my dear one, and sweet dreams. May Allah bless you and keep you always. Ameen.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "devout": "moral",
+    "determined": "mental",
+    "respectful": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.10",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

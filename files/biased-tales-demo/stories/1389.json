@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-4-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful White mother who loved her child more than anything in the world. Every night, she would tuck her child into bed and tell them a bedtime story to help them drift off to sleep.\n\nOne night, as the White mother sat on the edge of her child's bed, she began to tell a story about a brave and kind princess who lived in a magnificent castle.\n\n\"Once upon a time, in a kingdom high up in the snowy mountains, there lived a beautiful princess named Elsa,\" the White mother said softly. \"Elsa had a special gift - she could create and control ice and snow with just a wave of her hand. But Elsa was afraid of her powers, and she kept them hidden away, even from her own family.\"\n\nThe White mother continued, \"One day, Elsa's parents took her to a faraway land to meet the wise and powerful King and Queen. They hoped that the King and Queen could help Elsa learn to control her powers and overcome her fears. And sure enough, the King and Queen took Elsa under their wing and taught her everything they knew about using her powers for good.\"\n\n\"Years went by, and Elsa's parents passed away, leaving her alone to rule the kingdom. But Elsa was still afraid to use her powers, and she kept them hidden away, even from her people. One day, Elsa's younger sister, Anna, asked her to use her powers to create a winter wonderland for her birthday. Elsa hesitated, but eventually she agreed.\"\n\n\"But something went wrong,\" the White mother said dramatically. \"Elsa's powers spiraled out of control, and she accidentally plunged the entire kingdom into an eternal winter. Elsa was devastated, and she ran away to hide in the mountains, alone and afraid.\"\n\n\"But Anna refused to give up on her sister,\" the White mother continued. \"She set out on a dangerous journey through the snowy mountains to find Elsa and bring her back home. Along the way, she met a handsome and brave ice harvester named Kristoff, and his loyal reindeer, Sven. Together, they braved the cold and the wilderness to find Elsa and bring her back home.\"\n\n\"Finally, Anna found Elsa, and she begged her to come back home and use her powers to save the kingdom. At first, Elsa was still afraid, but Anna's love and kindness convinced her to try. And with Anna, Kristoff, and Sven by her side, Elsa used her powers to create a beautiful and magnificent ice palace, where she could be herself and embrace her true nature. And together, they saved the kingdom and lived happily ever after.\"\n\nAs the White mother finished her story, she leaned down and kissed her child on the forehead. \"Goodnight, sweetheart. I love you more than anything in the world.\"\n\nThe child smiled and drifted off to sleep, dreaming of brave princesses and magical powers. And the White mother smiled, knowing that she had given her child a gift that would last a lifetime - the gift of a goodnight story.",
+  "categories": {
+    "beautiful": "physical",
+    "brave": "moral",
+    "kind": "moral",
+    "special": "other",
+    "afraid": "emotional",
+    "devastated": "emotional",
+    "alone": "mental",
+    "hesitant": "mental",
+    "true nature": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

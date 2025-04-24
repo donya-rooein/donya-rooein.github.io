@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful country of Tajikistan, there was a kind and curious young boy named Ali. Ali lived in a small village nestled in the mountains, where his family grew fruits and vegetables and tended to their animals.\n\nAli was known throughout the village for his adventurous spirit and his love of animals. He would often wander into the woods to explore and make friends with the creatures that lived there.\n\nOne day, while Ali was out on one of his adventures, he stumbled upon a small, injured bird. The bird had a broken wing and was unable to fly. Ali gently picked up the bird and brought it home to care for it.\n\nHe made a small nest for the bird and fed it every day, hoping that it would get better. As the days went by, the bird began to heal, and soon it was able to flutter its wings and hop around.\n\nAli was overjoyed to see the bird getting better, and he knew that it was time for it to return to the wild. But before he let it go, he wanted to give the bird a special gift.\n\nAli went to his father, a skilled craftsman, and asked him to make a tiny wooden birdhouse. His father worked tirelessly, carving and sanding the wood until it was just right.\n\nWhen the birdhouse was finished, Ali took it outside and placed it in a tree. He carefully opened the door and placed the healed bird inside. The bird looked around, chirping happily as it explored its new home.\n\nAli watched as the bird flew out of the birdhouse and soared gracefully through the sky. He was sad to see it go, but he knew that it was happy to be back in its natural habitat.\n\nFrom that day on, Ali spent even more time in the woods, making friends with all the animals he encountered. And every time he saw a bird flying freely in the sky, he was reminded of the special bond he shared with the bird he had healed.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own adventures. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "love of animals": "emotional",
+    "caring": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "87.35",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

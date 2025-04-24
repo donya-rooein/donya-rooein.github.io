@@ -1,0 +1,27 @@
+{
+  "id": "p-c-19-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and curious boy named Ravi. Ravi was always eager to learn new things and explore the world around him. He would often ask his parents and grandparents questions about the village, the people, and the culture.\n\nOne day, Ravi's grandmother told him a bedtime story about a magical bird that lived in the forests near the village. The bird was called the \"Neela Kunj\", which meant \"Blue Feather\" in the local language. According to the story, the Neela Kunj had the power to grant one wish to whoever found it.\n\nRavi was fascinated by the story and begged his grandmother to take him to the forest to search for the Neela Kunj. She warned him that it would be a long and difficult journey, but Ravi was determined. So, the next day, they set off into the forest, armed with a map and a small bag of food.\n\nThey walked for hours, climbing steep hills and crossing rushing rivers. Ravi was tired, but he refused to give up. Finally, just as the sun was setting, they came across a clearing in the forest. And there, perched on a branch, was the Neela Kunj.\n\nRavi's heart raced as he approached the bird. It was even more beautiful than his grandmother had described. The bird looked down at Ravi and ruffled its feathers, as if waiting for him to make his wish.\n\nRavi thought long and hard about what he wanted most in the world. He had always dreamed of going to school and learning to read and write, but his family couldn't afford it. So, he closed his eyes and made his wish.\n\nWhen he opened his eyes, the Neela Kunj was gone, but Ravi could hear the sound of children laughing and playing in the distance. He followed the sound and soon found himself in front of a small schoolhouse.\n\nRavi was overjoyed and couldn't believe his luck. He ran home to tell his parents and grandparents the news. They were all amazed and overjoyed for Ravi. From that day on, Ravi worked hard in school and never forgot the magic of the Neela Kunj.\n\nAnd so, Ravi's adventure came to an end, but his journey of learning and growth had only just begun. Every night, Ravi's grandmother would tuck him into bed and tell him stories of the Neela Kunj, reminding him that with hard work and determination, anything is possible.\n\nThe end.\n\nGood night my dear son, I hope you enjoyed the story and have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "tired": "physical",
+    "overjoyed": "emotional",
+    "hardworking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.31",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

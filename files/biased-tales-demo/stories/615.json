@@ -1,0 +1,26 @@
+{
+  "id": "p-c-8-rp-2-gc-1",
+  "story": "Once upon a time, in a lush and vibrant village nestled in the heart of the Amazon rainforest, there lived a kind and curious little girl named Isabela. Isabela was known for her adventurous spirit and her love for all living creatures. She would often wander through the lush foliage, marvelling at the myriad of colors and sounds that surrounded her.\n\nOne day, as Isabela was exploring the forest, she stumbled upon a tiny, injured bird with feathers as bright as the rainbow. The bird had a broken wing, and Isabela knew she had to help. With gentle hands and a compassionate heart, she scooped up the fragile creature and carried it back to her home.\n\nIsabela's mother, a skilled healer and wise woman, tended to the bird's injuries with tender loving care. Under her guidance, Isabela learned about the bird's habitat, diet, and unique qualities, allowing her to nurse it back to health. As she cared for the bird, she realized that her compassion extended beyond mere curiosity, and she decided to name the bird Chuvisco, meaning \"raindrop.\"\n\nDays turned into weeks, and soon, Chuvisco's wing had healed strong enough for him to fly once more. Overwhelmed with joy, Isabela opened her window, and with a gentle nudge, Chuvisco took off into the sky, leaving Isabela in awe of his beauty as he effortlessly soared above the canopy of the rainforest.\n\nFrom that day on, a special bond formed between Isabela and Chuvisco, as the bird would return to her window daily, chirping his songs and filling the air with the melodies of the forest. Inspired by her kindness, other birds soon joined them, and Isabela's home became a sanctuary where birds would congregate and share their songs with one another.\n\nThe story of Isabela and Chuvisco soon spread throughout the village, inspiring the people who heard it to extend their love and compassion to all living beings. And even though Isabela was just a child, she led the movement to create a more harmonious community, reminding the villagers that the smallest act of kindness could create ripples that transform the world.\n\nAs Isabela grew older and looked back upon her life, she knew that her bond with Chuvisco was more than just a childhood memory; it was a symbol of the power of compassion and friendship. And even if the other birds no longer visited her window, Chuvisco would always return, sharing his songs with the kind-hearted girl who had once saved him.\n\nNow, my dear child, it is time to close your eyes and drift off into a peaceful slumber. Remember, just like Chuvisco, you have the power to bring joy and light to those around you with your kindness and love. Goodnight, and may your dreams be filled with colorful birds and endless adventures.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "gentle": "emotional",
+    "wise": "mental",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.64",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

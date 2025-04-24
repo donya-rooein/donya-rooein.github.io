@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful country of Iran, there lived a young boy named Amir. Amir was a curious and adventurous child who loved exploring the hills and valleys near his home. Every evening, as the sun started to dip behind the mountains, Amir's mother would gather him in her arms and tell him a bedtime story.\n\nOne night, as the stars twinkled in the sky and the moon shone brightly, Amir's mother began to tell him a special story. It was the tale of a brave young prince who set out on a journey to find a magical flower that could bring happiness to all who encountered it. The prince faced many challenges and obstacles along the way, but with courage and determination, he overcame them all.\n\nAs Amir listened to his mother's soothing voice, he felt a sense of wonder and awe. He imagined himself as the brave prince, embarking on a grand adventure of his own. He dreamed of exploring far-off lands and discovering hidden treasures, just like the prince in the story.\n\nAs the story drew to a close, Amir's mother kissed him on the forehead and whispered, \"Dream big, my little prince. May your nights be filled with beautiful dreams and your days with endless possibilities.\"\n\nAnd with a contented sigh, Amir closed his eyes and drifted off to sleep, his heart full of hope and wonder. And in his dreams, he was a brave prince, setting out on an adventure that would change his life forever.\n\nGoodnight, sweet Amir. May your dreams be as bright as the stars above.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

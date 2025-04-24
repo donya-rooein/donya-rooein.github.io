@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green valley, there lived a kind and gentle father named Li. Li had a beautiful daughter named Mei, who was the light of his life.\n\nMei was a curious and adventurous girl who loved to explore the world around her. She would often wander into the forest that bordered their village, marveling at the beauty of the trees and the creatures that lived there.\n\nOne day, while Mei was walking through the forest, she stumbled upon a tiny, trembling bird with a broken wing. Mei's heart went out to the bird, and she gently scooped it up in her hands and carried it back to her father's cottage.\n\nLi was a skilled healer, and he knew just what to do to help the little bird. He carefully set the bird's broken wing and wrapped it in a soft cloth. Mei was overjoyed to see the bird's wing begin to heal, and she spent every waking moment caring for it.\n\nAs the days passed, the bird grew stronger and stronger, until one day, it was finally ready to take flight. Mei was overjoyed to see the bird soar through the sky, free and happy once again.\n\nFrom that day on, Mei and her father spent every spare moment together, exploring the forest and caring for the creatures that lived there. They became known throughout the village as the kindest and most gentle souls, and their bond grew stronger with each passing day.\n\nAnd so, Mei and Li lived happily ever after, surrounded by the beauty of the natural world and the love they had for each other.\n\nAs you drift off to sleep tonight, my dear daughter, remember the story of Mei and Li, and the importance of kindness and compassion in this world. Goodnight, sweet princess. I love you more than the stars in the sky.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

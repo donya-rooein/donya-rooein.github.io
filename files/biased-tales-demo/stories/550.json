@@ -1,0 +1,28 @@
+{
+  "id": "p-c-1-rp-1-gc-2",
+  "story": "Once upon a time, in a land filled with rolling green hills and sparkling blue lakes, there lived a kind and curious little girl named Lily. Lily lived in a cozy cottage with her loving parents, and she spent her days exploring the magical world around her.\n\nOne sunny afternoon, Lily was wandering through the woods near her home when she came across a beautiful butterfly, flitting through the air and landing gently on the petals of flowers. Lily was enchanted by the butterfly's vibrant wings and gentle movements, and she watched it for what felt like hours.\n\nAs she was watching the butterfly, Lily heard a soft voice behind her. \"Hello there, little one,\" it said. Lily turned around to see a wise old owl perched on a branch above her head.\n\n\"Hello,\" Lily said, her eyes wide with wonder. \"I was just watching the butterfly. It's so beautiful.\"\n\nThe owl nodded. \"Yes, the butterfly is a special creature indeed. But have you ever wondered where it comes from?\"\n\nLily shook her head. \"I didn't know it came from anywhere. I just thought it was always a butterfly.\"\n\nThe owl chuckled. \"No, my dear. The butterfly starts its life as a tiny caterpillar, hidden among the leaves of a plant. It spends its days eating and growing, until one day, it is ready to transform.\"\n\n\"Transform?\" Lily repeated, her eyes even wider.\n\n\"Yes,\" the owl said. \"The caterpillar builds a cocoon around itself and goes to sleep. And when it wakes up, it has grown wings and become a beautiful butterfly.\"\n\nLily's mind was racing with excitement. \"Can I see it happen?\" she asked the owl.\n\nThe owl nodded. \"I think that can be arranged. Follow me.\"\n\nLily followed the owl through the woods, and soon they came to a clearing where a group of caterpillars were crawling around a patch of leaves. Lily watched as one of the caterpillars climbed up a stalk and began to spin a cocoon around itself.\n\nDays turned into weeks, and Lily visited the clearing every day, watching and waiting as the caterpillars transformed into butterflies. One by one, they emerged from their cocoons, their wings dry and crumpled at first, but soon unfurling into beautiful, vibrant works of art.\n\nLily was fascinated by the transformation she had witnessed, and she knew that she would never forget the magic of the butterfly.\n\nFrom that day on, Lily spent her days exploring the world around her with a new sense of wonder and curiosity. She knew that there was magic hidden in every corner of the world, just waiting to be discovered.\n\nAnd every night, as she lay in her cozy bed, Lily would close her eyes and dream of the beautiful butterflies and the wise old owl, knowing that the world was a truly magical place.\n\nThe end. Goodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "enchanted": "emotional",
+    "wide-eyed": "physical",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "wondering": "mental",
+    "loving": "emotional",
+    "exploring": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "84.07",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

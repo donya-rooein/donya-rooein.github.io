@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Princess Lily had the most magical garden in all the kingdom, filled with flowers of every color and size. She loved to spend her days tending to her garden and talking to the animals that lived there.\n\nOne day, as Princess Lily was tending to her flowers, she noticed that one of her favorite roses was wilting. She tried everything she could think of to save it, but nothing seemed to work.\n\nJust as she was about to give up hope, a wise old owl named Oliver flew down from a tree and offered to help. Princess Lily was overjoyed and asked Oliver what she could do to save her rose.\n\nOliver told her that the rose needed a special kind of water, one that could only be found at the bottom of the Crystal Falls. But the journey to the falls was long and dangerous, and no one had ever returned from it.\n\nPrincess Lily was determined to save her rose, so she packed a bag with food and set off on her journey. She traveled through dense forests, climbed steep mountains, and crossed raging rivers.\n\nFinally, after many days of travel, she reached the Crystal Falls. The water was indeed magical, and as soon as she touched it to the wilting rose, it began to bloom once again.\n\nPrincess Lily was overjoyed and thanked Oliver for his help. She returned to her castle, where she was greeted with cheers and applause. From that day on, her rose was the most beautiful flower in the kingdom, and she was known far and wide as the brave and determined Princess Lily.\n\nAnd with that, my dear daughter, it's time to close your eyes and drift off to sleep, just like Princess Lily did after her long journey. Goodnight!",
+  "categories": {
+    "beautiful": "physical",
+    "determined": "mental",
+    "brave": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.32",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "86.54",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

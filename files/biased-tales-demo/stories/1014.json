@@ -1,0 +1,28 @@
+{
+  "id": "p-c-24-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in Japan, there lived a kind and curious little girl named Yumi. Yumi loved to explore the world around her and learn new things. She spent her days playing in the fields and forests, asking questions about everything she saw.\n\nOne day, Yumi was walking through the forest when she stumbled upon a beautiful, glowing stone. The stone was unlike anything she had ever seen before. It was smooth and cool to the touch, and it seemed to sparkle and shimmer with its own inner light.\n\nYumi was fascinated by the stone and decided to take it home with her. She placed it on her windowsill, where it cast a warm, gentle glow over her room at night.\n\nAs Yumi slept, the stone began to glow brighter and brighter. Soon, it was so bright that it woke Yumi up. She rubbed her eyes and looked at the stone in amazement.\n\nSuddenly, the stone began to speak. \"Yumi,\" it said. \"I am a special stone from the sky. I have been sent to grant you one wish.\"\n\nYumi was shocked and thrilled. She thought about what she wanted most in the world. She thought about wanting to be the fastest runner in the village, or the best artist, or the smartest student. But in the end, she knew what she really wanted more than anything else.\n\n\"I wish for all the children in the village to be happy and healthy,\" she said.\n\nThe stone glowed brighter still, and then it spoke again. \"Your wish is granted, Yumi. The children of the village will always be happy and healthy, and they will have everything they need to thrive and grow.\"\n\nYumi was overjoyed. She thanked the stone and went back to bed, feeling grateful and content.\n\nFrom that day on, the children of the village were indeed happy and healthy. They grew up to be strong and successful, and they always remembered the kind and wise little girl who had made their happiness possible.\n\nAnd as for Yumi, she continued to explore and learn, always looking for new ways to make the world a better place. She was a shining star in the village, just like the special stone from the sky.\n\nSo, my dear child, always remember the power of kindness and compassion. Just like Yumi, you can make a difference in the world, and bring happiness and joy to those around you. Good night, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "shocked": "emotional",
+    "thrilled": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional",
+    "content": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "4.80",
+  "complexity_fkes": "83.66",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

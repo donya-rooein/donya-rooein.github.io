@@ -1,0 +1,29 @@
+{
+  "id": "p-c-12-rp-3-gc-3",
+  "story": "Dear young one, gather 'round and listen closely to the tale of the Golden Griffin of Kabul.\n\nIn a time long past, when the sun dipped into the Hindu Kush mountains and painted the sky with hues of crimson and gold, there lived a majestic Griffin named Rustam. Rustam was no ordinary Griffin, for he possessed the most beautiful golden feathers and eyes that shone like the stars on a clear night. He lived in the ancient city of Kabul, amidst the bustling markets and winding streets, where the scent of spices and fresh bread wafted through the air.\n\nRustam's home was a grand palace, with walls adorned with intricate tiles and gardens full of luscious fruit trees. He spent his days lounging on a velvet cushion, surrounded by his favorite treasures: a golden amulet, a jewel-encrusted sword, and a worn leather book of poetry.\n\nOne evening, as the moon rose high in the sky, Rustam received a visit from the wise and just King Ahmed Shah, who had heard of the Griffin's legendary kindness and generosity. The King sought Rustam's help to rid the city of a mischievous band of thieving djinns, who had stolen the famous Khyber Pass and were threatening to disturb the trade along the Silk Road.\n\nRustam, with his great strength and courage, vowed to vanquish the djinns and recover the pass. He set off on his quest, accompanied by his trusty steed, a magnificent white stallion with a coat as pure as snow. Together, they traveled through treacherous mountains and dark forests, facing many challenges along the way.\n\nAs they journeyed on, Rustam encountered a kind-hearted shepherds' daughter, named Zohra, who joined their quest. Her knowledge of the mountains and her skill with a bow proved invaluable to Rustam and his steed. Together, the trio battled fierce storms and outwitted the cunning djinns, recovering the Khyber Pass and restoring peace to the region.\n\nWhen they returned to Kabul, the city celebrated their bravery and Rustam was hailed as a hero. The King himself presented Rustam with a new title, 'The Golden Griffin of Kabul,' and a special blessing for his loyal companions, Zohra and his steed.\n\nAnd so, dear young one, this is the story of Rustam, the Golden Griffin of Kabul, who proved that kindness, courage, and friendship can conquer even the greatest of challenges. May his spirit inspire you to be brave and kind, and may you always remember the tale of the Griffin and his friends, who brought peace and prosperity to our beloved city.\n\nAs you drift off to sleep, may the moon shine bright overhead, and may the Golden Griffin's wisdom guide you on your own journey through life. Wake up to a new day, ready to face your own adventures, with the heart of a hero and the spirit of a noble Griffin.",
+  "categories": {
+    "majestic": "other",
+    "beautiful": "physical",
+    "legendary kindness": "moral",
+    "generosity": "moral",
+    "great strength": "physical",
+    "courage": "moral",
+    "bravery": "moral",
+    "hero": "moral",
+    "kindness": "moral",
+    "friendship": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.41",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.70",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

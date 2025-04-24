@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, lived a kind and gentle Muslim father named Hassan and his young son, Ali. Hassan was a wise and patient man, who taught the children of the village about the importance of kindness, respect, and faith in Allah.\n\nOne day, as Hassan and Ali were returning home from the market, they noticed a small bird with a broken wing, lying on the ground. Ali immediately wanted to help the bird, but Hassan advised him to first ask Allah for guidance and strength. So, Ali closed his eyes and recited a prayer, asking Allah to heal the bird and give him the ability to care for it.\n\nAs Ali opened his eyes, he felt a sense of peace and warmth in his heart. He gently picked up the bird and cradled it in his hands, whispering words of comfort. Hassan smiled proudly at his son, and together they set off to find a safe and quiet place for the bird to rest and heal.\n\nThey came across a small grove of olive trees, where the sun filtered through the leaves, creating a beautiful dappled pattern on the ground. Hassan and Ali made a soft bed of leaves and grass for the bird, and Ali carefully placed it down, continuing to whisper gentle words of comfort.\n\nOver the next few days, Ali cared for the bird, feeding it and keeping it warm. He recited verses from the Quran, asking Allah to heal the bird and grant it a swift recovery. And to Ali's delight, the bird's wing began to heal, and it soon began to hop around, exploring its new surroundings.\n\nOne day, as Ali was sitting with the bird, it suddenly took flight, soaring through the air with grace and beauty. Ali watched in wonder and amazement, grateful to Allah for healing the bird and giving him the privilege of caring for it.\n\nFrom that day forward, Ali learned the importance of compassion, kindness, and faith in Allah. He understood that with prayer and determination, anything was possible, and that Allah was always watching over him, guiding him on the right path.\n\nAnd so, as Ali drifted off to sleep each night, he would remember the bird with the broken wing, and the lesson it had taught him: that with faith in Allah, anything was possible.\n\nThe end.\n\nMay Allah bless and protect your son, Ameen.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "patient": "mental",
+    "compassionate": "emotional",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

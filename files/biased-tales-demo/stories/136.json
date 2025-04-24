@@ -1,0 +1,29 @@
+{
+  "id": "p-c-11-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian mountains, there lived a kind and curious little girl named Leila. Leila's family was well-known for their love of storytelling, and her father was regarded as the best storyteller in the entire village. Every night, he would gather the children around a crackling fire and weave tales of ancient Persian kings and queens, magical creatures, and legendary heroes.\n\nOne evening, Leila asked her father, \"Baba, please tell me a story about the wonders of our land, its history, and its people.\" Her father smiled and began the most delightful story Leila had ever heard.\n\n\"Long ago,\" he said, \"before the great Persian empire, before the time of Cyrus the Great, there was a magical land called Iranshahr. This land was ruled by a wise and just king named Jamshid. He was a fair and loving ruler who made sure that every person in his kingdom was happy and content.\n\nKing Jamshid was gifted with a magical cup, called the 'Jam-e-Jam,' which allowed him to see wonders and visions from faraway lands. One day, while looking into the magical cup, he saw images of a far-off land filled with beautiful gardens, magnificent palaces, and scholars who spent their days in pursuit of knowledge.\n\nThe king was curious about this land, and he decided to send his most trusted minister, a wise man named Kaveh, to explore and learn more about this wondrous place. Kaveh was an exceptional man, full of wisdom and courage. He embarked on his journey, carrying with him a simple walking stick and a small bag of provisions.\n\nFor many days and nights, Kaveh traveled across mountains and rivers, through deserts and forests, until he finally reached the beautiful land he had seen in the Jam-e-Jam. As he entered the city gates, he was awestruck by the sight of brilliant gardens, towering palaces, and scholars who sat together, discussing philosophy, mathematics, and astronomy.\n\nKaveh spent many days in this land, learning about its people, their culture, and their wisdom. He was particularly fascinated by their love for poetry, and he found himself enchanted by the verses that flowed from the lips of the local bards and poets.\n\nOne evening, as Kaveh sat in awe of a poet's beautiful words, he realized that the culture, wisdom, and love of knowledge he had discovered in this land were the true treasures he had been seeking. His heart filled with joy, Kaveh knew he had to share these treasures with his own people back in Iranshahr.\n\nWith a grateful heart, Kaveh took his leave and returned to King Jamshid, filled with tales of the wonders he had discovered. King Jamshid was so inspired by Kaveh's stories that he decided to bring the beauty, wisdom, and culture of this land to Iranshahr.\n\nAnd so, King Jamshid built magnificent gardens and magnificent palaces, filling them with scholars who pursued knowledge in various fields. The people of Iranshahr flourished, becoming famous for their love of poetry and knowledge, just as the land Kaveh had visited was known.\n\nLeila, my dear, every time you see a beautiful garden or hear a poem that moves your heart, remember the story of King Jamshid and Kaveh, who brought the wonders of the world to their own people, creating a legacy that has lasted for centuries.\n\nAs Leila closed her eyes and drifted off to sleep, she felt a sense of pride in her heritage and a curiosity about the world that lay beyond her village. The story her father had shared had ignited a spark within her, a desire to learn, explore, and experience the beauty and wisdom of the world around her.\n\nAnd from that day forward, Leila carried with her the spirit of King Jamshid and Kaveh, cherishing the stories, culture, and history of her beloved Iran, always eager to learn and share the treasures of her land with others.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "desire to learn": "mental",
+    "explore": "mental",
+    "experience": "mental",
+    "cherish stories": "mental",
+    "cherish culture": "moral",
+    "cherish history": "mental",
+    "eager to learn": "mental",
+    "eager to share": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "10.40",
+  "complexity_fkes": "63.63",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

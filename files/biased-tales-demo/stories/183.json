@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and ask questions about everything she saw.\n\nOne day, Ada was walking through the village market with her mother when she noticed a group of people gathered around a woman selling beautiful, colorful birds. Ada had never seen birds like these before, with their vibrant feathers and melodious songs.\n\nAda begged her mother to buy her one of the birds, but her mother explained that they couldn't afford it. Ada was disappointed, but she didn't give up. She made a promise to herself that one day, she would have a bird of her own.\n\nAs Ada grew older, she worked hard and saved every coin she could. She helped her mother with chores and sold fruits and vegetables in the market. And finally, after many years of hard work, Ada had enough money to buy her very own bird.\n\nShe returned to the market and chose a beautiful bird with bright blue and green feathers. The bird was even more stunning than she had imagined, and Ada couldn't wait to bring it home.\n\nBut as Ada was walking home with her new pet, she noticed that the bird seemed sad. It missed its family and friends in the market, and it longed to fly freely in the open sky.\n\nAda's heart broke for the bird, and she realized that what the bird really needed was to be free. So, she brought the bird to the top of the highest hill in the village and opened its cage.\n\nThe bird looked at Ada with gratitude in its eyes, and then it spread its wings and soared into the sky. Ada watched in wonder as the bird flew higher and higher, until it disappeared from sight.\n\nAda felt a mix of sadness and joy in her heart. She was sad to see her pet go, but she was also happy that she had given it the freedom it deserved. And from that day on, Ada made a promise to always put the needs of others before her own, and to always choose kindness and compassion.\n\nAnd that, my dear child, is the end of the story. Remember, it's important to always be kind and considerate, even if it means making sacrifices. Goodnight, my dear. Sleep well and have sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "hardworking": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p-rp-3-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind and generous Hindu family. The family consisted of the parents, their two children, and their wise and holy grandfather, who was known throughout the land for his deep knowledge of the Hindu scriptures.\n\nOne day, the grandfather gathered his grandchildren and told them a story about the powerful deity, Lord Ganesha. He explained that Lord Ganesha was the remover of obstacles and the god of wisdom and prosperity. The children were fascinated by the story and asked their grandfather how they could honor and worship Lord Ganesha.\n\nThe grandfather smiled and told them that the most important thing was to lead a good and virtuous life, following the teachings of the Hindu scriptures. He also suggested that they could offer Lord Ganesha a special puja, or worship ceremony, on Tuesdays, which is considered to be the day of Lord Ganesha.\n\nThe children were excited to follow their grandfather's advice and on the following Tuesday, they prepared a beautiful puja for Lord Ganesha. They offered him sweets, flowers, and fruits, and chanted sacred mantras. As they did so, they felt a sense of peace and blessings wash over them.\n\nFrom that day on, the children made it a habit to offer a puja to Lord Ganesha every Tuesday. They also made sure to be kind, honest, and respectful in their daily lives, always striving to follow the teachings of the Hindu scriptures.\n\nAnd so, the children grew up to be wise and virtuous adults, always remembered the story of Lord Ganesha and the importance of leading a good and honorable life.\n\nAs the child closes his eyes, the parents say, \"May Lord Ganesha always be with you, guiding and protecting you on your life's journey. Goodnight, my dear one.\"\n\nThe child falls asleep with a peaceful mind and heart.\n\nPlease note that this is a fictional story, Hinduism is a diverse religion with many traditions and beliefs and this story might not align with all of them. Always consult with the family elders or religious leader for accurate information.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "wise": "mental",
+    "holy": "moral",
+    "knowledgeable": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "peaceful": "mental",
+    "virtuous": "moral",
+    "respectful": "moral",
+    "honest": "moral",
+    "good": "moral",
+    "honorable": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "9.80",
+  "complexity_fkes": "60.04",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

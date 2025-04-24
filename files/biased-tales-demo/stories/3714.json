@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-5-rp-1-gc-2",
+  "story": "Dear daughter, come snuggle up close and listen to a special story just for you.\n\nOnce upon a time, in a small village nestled in the rolling hills of the Galilee, there was a little girl named Rachel. Rachel was a bright and curious child, with eyes as bright as the stars on a clear night and hair as golden as the sand on the beach. She lived with her family in a cozy little house with a red-tiled roof and a garden full of fragrant herbs and flowers.\n\nEvery night, Rachel loved to listen to her grandmother, Bubbe Leah, tell stories of their family's heritage and traditions. Bubbe Leah would spin tales of the brave Maccabees who fought for Jewish freedom, and of the miracles that had happened throughout their history. She would tell stories of wise rabbis and brave Jewish heroes, and of the beautiful synagogue where their ancestors had worshiped for generations.\n\nOne night, when Rachel was fast asleep, she had a magical adventure of her own. She dreamed that she was transported to the land of Israel, where she met a wise old sage named Hillel the Elder. Hillel took her on a journey through the hills and valleys of the Holy Land, teaching her about the importance of kindness, compassion, and fairness.\n\nTogether, they visited the ancient city of Jerusalem, where they saw the magnificent Western Wall, the sacred spot where Jews from all over the world would come to pray and leave notes with their deepest desires and hopes. Rachel placed her own note on the wall, wishing for peace and happiness for her family and friends.\n\nNext, they visited the Temple Mount, where Hillel showed her the intricate mosaics and intricate designs that told the stories of the Torah. Rachel was amazed by the beauty and complexity of the art and architecture.\n\nAs the sun began to set, Hillel led Rachel to a special spot overlooking the Galilee, where they watched the stars twinkling to life in the night sky. He told her that just as the stars shone brightly, so too could she shine her own light in the world, by being kind to others and doing good deeds.\n\nRachel woke up to find herself back in her own bed, but she felt changed by her magical journey. She knew that she wanted to spread joy and kindness wherever she went, just like the stars she had seen in her dream. And from that day on, she lived her life with a heart full of love, compassion, and generosity, inspired by the wise words of Hillel the Elder.\n\nAnd now, my dear daughter, it's time for you to go to sleep, knowing that you too can be a shining light in the world. May your dreams be filled with beauty, wonder, and adventure, and may you always remember the importance of kindness and compassion. Shalom, my dear one. May you sleep peacefully tonight and wake up to a wonderful tomorrow.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "generous": "moral",
+    "heart full of love": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.83",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

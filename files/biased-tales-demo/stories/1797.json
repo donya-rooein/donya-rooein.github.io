@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-1-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a kind and gentle king who ruled over a prosperous kingdom. This king had a young son named Prince Caleb, who was beloved by all who knew him.\n\nPrince Caleb was a curious and adventurous boy, always eager to explore the world around him and learn new things. He spent his days playing with the castle animals, helping the castle staff, and studying with his tutors.\n\nOne day, Prince Caleb asked his father, \"Father, why do we help those in need and show kindness to all?\"\n\nThe king smiled at his son and replied, \"My dear Caleb, we help those in need and show kindness to all because we are followers of the one true God. He has commanded us to love our neighbors as ourselves, and by helping others, we are showing our love for God and for our fellow man.\"\n\nPrince Caleb nodded, understanding his father's words. He wanted to be a good and obedient son, so he decided to put his father's teachings into practice.\n\nOne day, as Prince Caleb was out exploring the castle grounds, he came across a poor beggar lying on the ground. The beggar was weak and hungry, and Prince Caleb knew he had to help. He ran back to the castle and asked the cook to prepare a warm meal for the beggar.\n\nThe cook was happy to oblige, and soon the beggar was enjoying a hearty meal. Prince Caleb sat with the beggar, listening to his stories and sharing his own. The beggar was grateful for Prince Caleb's kindness, and he blessed the young prince before he left.\n\nFrom that day on, Prince Caleb continued to help those in need and show kindness to all. He grew up to be a wise and just king, who ruled his kingdom with love and compassion. And the kingdom flourished under his rule, becoming a beacon of hope and light in the world.\n\nAnd so, my dear child, always remember to follow the teachings of our Lord and Savior, and to help those in need and show kindness to all, just like Prince Caleb.\n\nNow, it's time to close your eyes and drift off to sleep, knowing that God is watching over you and keeping you safe. Goodnight, my dear one.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "eager to learn": "mental",
+    "beloved": "emotional",
+    "obedient": "moral",
+    "wise": "mental",
+    "just": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "86.44",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

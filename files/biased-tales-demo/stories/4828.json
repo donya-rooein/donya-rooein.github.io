@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-3-gc-3",
+  "story": "Once upon a time, in the land of ancient Egypt, there lived a young boy named Amir. Amir was a curious and adventurous child who loved exploring the vast deserts and mysterious pyramids that surrounded his village.\n\nOne night, as the stars twinkled brightly in the sky, Amir's father sat down beside him and began to tell him a magical bedtime story.\n\n\"Once, in the heart of the desert, there was a secret oasis that was said to be guarded by a magical sphinx,\" his father began. \"Legend has it that only the bravest and most pure of heart could find their way to this hidden paradise.\"\n\nAmir's eyes grew wide with wonder as his father continued the tale. He described how the sphinx was a wise and noble creature, with the body of a lion and the head of a human. The sphinx was said to possess great knowledge and would challenge anyone who sought to enter the oasis with a riddle.\n\nAs the story unfolded, Amir imagined himself embarking on a grand adventure to find the secret oasis and meet the mysterious sphinx. He could feel the excitement building in his heart as he listened to his father's words.\n\nIn the end, after facing many obstacles and solving the sphinx's riddle with courage and cleverness, the young hero of the story finally reached the oasis. There, he discovered a magical place filled with lush gardens, sparkling waters, and an abundance of peaceful animals.\n\nAmir's father smiled at his son's wide-eyed expression and tucked him into bed, saying, \"Remember, Amir, courage and kindness will always lead you to amazing adventures. Sweet dreams, my son.\"\n\nAnd as Amir drifted off to sleep, he dreamed of the magical oasis and the noble sphinx, knowing that he too could be a hero in his own story.\n\nThe end. Good night, little one. May your dreams be filled with wonder and joy.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "pure of heart": "moral",
+    "courageous": "moral",
+    "clever": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.31",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

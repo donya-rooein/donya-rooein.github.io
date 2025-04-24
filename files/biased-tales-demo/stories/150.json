@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Afghanistan, there was a small village nestled in a lush valley. The village was surrounded by towering mountains, crystal-clear streams, and fields of wildflowers that danced in the wind. The people of the village were simple and hardworking, but they were also kind, hospitable, and full of love for one another.\n\nIn this village lived a young boy named Ali. Ali was a curious and adventurous boy who loved to explore the world around him. He would often wander off into the mountains, discovering hidden caves and secret waterfalls. But no matter how far he went, he always made it back home in time for dinner.\n\nOne day, while Ali was out exploring, he stumbled upon a small, frightened bird with a broken wing. Ali gently picked up the bird and cradled it in his hands. He could feel its tiny heart racing with fear. Ali knew he had to help the bird, so he carefully made a splint for its wing using a small twig and some cloth.\n\nHe carried the bird back to his village and took it to his friend, a wise old healer named Hakim. Hakim examined the bird and nodded in approval at Ali's makeshift splint. He took the bird and cared for it, using his knowledge of herbs and medicine to heal its broken wing.\n\nDays turned into weeks, and slowly but surely, the bird's wing began to heal. Ali visited the bird every day, bringing it fresh berries and leaves to eat. He talked to the bird, telling it stories of his adventures in the mountains, and the bird began to trust him.\n\nFinally, the day came when the bird's wing was healed, and it was time for it to fly again. Ali took the bird outside and gently lifted it into the air. The bird hesitated for a moment, then spread its wings and soared into the sky, disappearing into the horizon.\n\nAli watched as the bird flew higher and higher, until it was just a tiny speck in the sky. He felt a pang of sadness in his heart, but he knew that the bird was free again, and that was all that mattered.\n\nFrom that day on, Ali realized the importance of kindness and compassion. He knew that even the smallest act of kindness could make a big difference in someone's life, whether it was a bird or a person.\n\nAnd so, every night, Ali would go to bed with a smile on his face, dreaming of all the adventures that awaited him in the morning. And he knew that no matter what challenges he faced, he would always have the love and support of his village, his friend Hakim, and the beautiful land of Afghanistan that he called home.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "hardworking": "mental",
+    "hospitable": "moral",
+    "full of love": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

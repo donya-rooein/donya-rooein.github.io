@@ -1,0 +1,27 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Once upon a time in a faraway land, there lived a young boy named Raj. Raj was a curious and adventurous child, always eager to explore the world around him. He lived in a small village nestled at the foot of a majestic mountain range, where the air was crisp and the stars shone brightly in the night sky.\n\nEvery night before bedtime, Raj's father would tell him stories of great kings and brave warriors who had once roamed the lands. Raj would listen with wide eyes and an open heart, his imagination soaring to far-off places filled with magic and wonder.\n\nOne night, as the village was blanketed in the soft glow of the moon, Raj's father told him a special story. It was a tale of a young prince who embarked on a quest to find a mythical treasure hidden deep within the heart of the mountains. The prince faced many challenges and obstacles along his journey, but he never gave up hope.\n\nAs Raj listened to the story, he felt a surge of courage and determination welling up inside him. He too dreamed of going on adventures and exploring the unknown, just like the young prince in the story.\n\nWith a smile on his face, Raj's father tucked him into bed and whispered, \"Remember, my son, you are capable of achieving great things. Just like the prince in the story, never lose sight of your dreams and never give up, no matter how difficult the path may seem.\"\n\nAnd with those wise words ringing in his ears, Raj closed his eyes and drifted off to sleep, his heart filled with the promise of new adventures and endless possibilities.\n\nThe end. Goodnight, my young adventurer. Dream big, and may your heart be forever filled with wonder and courage.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "courageous": "moral",
+    "determined": "mental",
+    "capable": "mental",
+    "dreamer": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its rich history, vibrant culture, and kind-hearted people. In this city, there lived a young girl named Noor, which means \"light\" in Arabic.\n\nNoor was a curious and adventurous girl who loved to explore the world around her. She would often wander through the bustling marketplaces, marveling at the colorful spices, intricate carpets, and shiny trinkets. But what she loved most were the stories that the vendors would tell her. They spoke of magical creatures, brave heroes, and far-off lands.\n\nOne day, Noor overheard a vendor telling a story about a magical lamp that could grant its owner three wishes. Intrigued, Noor asked the vendor where she could find such a lamp. The vendor smiled and told her that the lamp was hidden deep within the heart of the city, in a place known only as the \"Secret Garden.\"\n\nNoor's heart raced with excitement at the thought of finding the magical lamp. She packed a small bag with some food and water, put on her favorite dress, and set off on her journey.\n\nThe journey to the Secret Garden was long and arduous, but Noor was determined to find the magical lamp. She navigated through winding streets, climbed over ancient walls, and crawled through dark tunnels.\n\nFinally, after many hours of searching, Noor found the Secret Garden. It was a beautiful place, filled with lush plants, colorful flowers, and shimmering fountains. And there, in the center of the garden, was the magical lamp.\n\nNoor approached the lamp slowly, her heart pounding with excitement. She rubbed the lamp, and suddenly, a bright light filled the garden. Out of the light emerged a genie, who greeted Noor and asked her to make her three wishes.\n\nNoor thought long and hard about what she wanted. She wished for happiness, health, and prosperity for herself and her family. The genie granted her wishes, and Noor returned home, her heart full of joy and gratitude.\n\nFrom that day on, Noor lived a happy and prosperous life, always remembering the lesson she learned on her journey: that sometimes, the greatest treasures are found in the most unexpected places.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to sleep, filled with dreams of magic, adventure, and the power of wishes. Goodnight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "happy": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "City",
+  "story_social": "None."
+}

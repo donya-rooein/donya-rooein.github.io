@@ -1,0 +1,23 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little boy named Juan. Juan lived with his mother, who was a seamstress, and his father, who was a farmer. They were a happy family, but Juan always felt like there was something missing in his life.\n\nOne day, while Juan was playing in the fields, he met an old woman who was sitting under a tree. The old woman was spinning wool and had a kind and gentle look in her eyes. Juan approached her and asked if he could help her spin the wool. The old woman smiled and said yes.\n\nAs they spent the day spinning wool together, the old woman told Juan stories about the magical creatures that lived in the mountains and the rivers. Juan was fascinated by these stories, and he asked the old woman if she could take him to meet these creatures. The old woman agreed, but she warned Juan that in order to see the magical creatures, he would have to be very brave and believe in the magic with all his heart.\n\nThe next day, Juan and the old woman set out on their journey to the mountains. As they climbed higher and higher, Juan could feel a strange and exciting energy in the air. Suddenly, they came across a group of tiny, glowing fairies, dancing around a small pond. Juan was in awe, and he couldn't believe his eyes.\n\nAs they continued their journey, they met more and more magical creatures: a family of friendly gnomes that lived in the forest, a majestic unicorn that drank from a crystal-clear river, and even a talking tree that gave them valuable life advice.\n\nJuan was having the time of his life, but he knew that soon they would have to return to the village. As they made their way back, the old woman told Juan that the magic he had seen was a gift, but it was up to him to keep it alive. She told him that he could see magic in everything, as long as he believed in it with all his heart.\n\nWhen Juan returned home, he was grateful for the amazing adventure he had, but he was also happy to be back with his family. From that day on, Juan saw magic everywhere he looked, and he never forgot the valuable lesson the old woman had taught him.\n\nAnd so, Juan grew up to be a kind and curious man, who always believed in the magic of life. He lived happily ever after, with his loving family and the memories of the magical creatures that he had met.\n\nGood night my son, may you always believe in magic and the beauty of life.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "4.93",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

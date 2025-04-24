@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-1-rp-1-gc-1",
+  "story": "Once upon a time, in a magical land filled with vibrant colors and enchanting music, there lived a brave little llama named Mateo. Mateo was known far and wide for his kind heart and adventurous spirit.\n\nOne evening, as the sun dipped below the horizon, Mateo set out on a journey to find a special treasure hidden deep in the heart of the Andes mountains. Along the way, he encountered all sorts of wondrous creatures like mischievous monkeys swinging from the trees and colorful parrots dancing in the sky.\n\nAs Mateo traveled further into the mountains, he came across a mysterious cave shimmering with a golden light. Curious and filled with determination, Mateo ventured inside and found the treasure he had been seeking all along - a magical flute that could fill the air with the most soothing melodies.\n\nWith the flute in hand, Mateo played a lullaby that glowed with the warmth of the sunset and the gentle embrace of the starlit night. The music echoed through the mountains, calming the spirits of all who heard it and bringing peace to the land.\n\nAnd so, with the treasure in his possession and a heart full of gratitude, Mateo returned home to his family, where they gathered together under the twinkling stars and listened to the sweet lullabies of the magical flute until they drift off into a peaceful slumber.\n\nAnd as the moon cast its gentle glow upon the land, Mateo and his family slept soundly, knowing that they were surrounded by love and the magic of the Andes mountains.\n\nSweet dreams, little one. May your heart be filled with the warmth of Mateo's adventure and the soothing melodies of the magical flute. Buenas noches.",
+  "categories": {
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "10.20",
+  "complexity_fkes": "64.24",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

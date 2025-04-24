@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. She had warm, brown eyes and a smile that could light up the darkest room. Anahit loved exploring the natural beauty that surrounded her village - the towering mountains, the crystal-clear rivers, and the lush green forests.\n\nOne day, while Anahit was playing near the river, she spotted a tiny, shivering bird with feathers as red as a pomegranate. Anahit knew that this was a very rare bird, called the \"Krouzervan,\" which was known to bring good fortune to those who cared for it. Anahit gently picked up the bird, cradled it in her hands, and whispered, \"Don't worry, little one. I will take care of you.\"\n\nAnahit took the Krouzervan home, and with her mother's help, they built a small, cozy nest for the bird in their courtyard. They fed it seeds and fruits, and soon the Krouzervan grew stronger and healthier. The villagers would come by to marvel at the beautiful bird, and Anahit would proudly share stories of how she had found and cared for the Krouzervan.\n\nOne day, as Anahit was sitting near the Krouzervan's nest, she overheard her parents talking in hushed tones. They spoke of a terrible drought that had befallen the village, causing the crops to wither and the villagers to go hungry.\n\nAnahit knew she had to do something to help her beloved village. She remembered an old Armenian legend her grandmother had once told her - a legend about the magical, healing waters that flowed from the Krouzervan's wings. She decided to take the Krouzervan on a journey to find these miraculous streams, so that the villagers could once again have an abundance of water and food.\n\nAnahit and the Krouzervan embarked on their journey, traveling far and wide, through valleys and over mountains. Along the way, they encountered various animals and people, who were initially wary of the little girl and the rare bird. But when Anahit shared her noble quest, and the Krouzervan demonstrated its magical healing powers by sprinkling water from its wings on the sick and dying, they were welcomed with open arms.\n\nAt long last, Anahit and the Krouzervan arrived at a hidden oasis - the legendary source of the healing waters. They drank the water and collected as much as they could in large containers to bring back to their village.\n\nAs Anahit and the Krouzervan returned to their village, they were greeted with the villagers' cheers and gratitude. Together, Anahit and the Krouzervan had performed a miracle, providing the villagers with clean, healing water and a renewed sense of hope and unity. From that day on, Anahit's village flourished, and she was revered as a heroine who, along with the help of the special Krouzervan, had brought the village back from the brink of disaster.\n\nAs Anahit tucked the Krouzervan into its nest each night, she would tell the bird stories of their incredible journey together. The Krouzervan would sing a beautiful lullaby, the melodies of which would soothe Anahit as she drifted off to sleep.\n\nAnahit knew that she and the Krouzervan would always share a bond - the bond of bravery, kindness, and the adventure that had changed their lives and their village forever.\n\nAs you close your eyes tonight, remember that you too are capable of great deeds and that the power of kindness can bring miracles to those around you. Goodnight, my dear Anahit. May your dreams be filled with wonder and adventure, just like the story of the Krouzervan and our beloved village.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "warm": "emotional",
+    "brave": "moral",
+    "noble": "moral",
+    "proud": "emotional",
+    "revered": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.74",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

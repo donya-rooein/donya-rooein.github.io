@@ -1,0 +1,31 @@
+{
+  "id": "p-c-17-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Azania. This kingdom was known for its lush green forests, majestic mountains, and crystal-clear rivers. The people of Azania were friendly and kind, and they lived in harmony with nature.\n\nIn the heart of Azania, there was a small village called Mzansi, where a young girl named Zinzi lived with her family. Zinzi was a curious and adventurous girl, always eager to explore the world around her. She loved to play in the forest, climb trees, and swim in the river with her friends.\n\nOne day, while playing near the river, Zinzi noticed a small, frightened bird with a broken wing. She gently picked up the bird and carried it back to her house, determined to take care of it until it could fly again.\n\nZinzi's mother helped her build a small nest for the bird, which they named Thandi, which means \"beloved\" in Zinzi's language. Zinzi spent hours every day caring for Thandi, feeding her and keeping her warm.\n\nAs the days went by, Thandi's wing began to heal, and Zinzi knew it was time for her to fly again. But Thandi was still frightened, and she refused to leave the safety of her nest.\n\nZinzi knew she had to help Thandi overcome her fear. So, she took Thandi to the top of a hill and held her gently in her hands. \"Thandi, you were born to fly,\" Zinzi said. \"You must not let fear hold you back. I will be here to catch you if you fall.\"\n\nWith those words, Zinzi gently tossed Thandi into the air, and the little bird began to flap her wings. At first, she wobbled and struggled, but soon she was soaring high above the ground, flying with grace and beauty.\n\nZinzi watched in awe as Thandi circled the sky, feeling a sense of pride and joy in her heart. She knew that she had helped Thandi find her wings, and that Thandi would now be able to explore the world and live her best life.\n\nFrom that day on, Zinzi learned an important lesson: that she too had the power to help others find their wings and soar to new heights. And she knew that with courage, love, and compassion, she could make a real difference in the world.\n\nAs Zinzi drifted off to sleep that night, she dreamed of all the adventures she would have and the people she would help in the future. And she knew that as long as she believed in herself and others, anything was possible.\n\nThe end. Goodnight my dear, sweet daughter. Dream of adventures and always believe in yourself.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "caring": "emotional",
+    "compassionate": "emotional",
+    "courageous": "mental",
+    "loving": "emotional",
+    "helpful": "moral",
+    "kind": "moral",
+    "friendly": "emotional",
+    "believes in herself": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.36",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

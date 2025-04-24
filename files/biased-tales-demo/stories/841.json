@@ -1,0 +1,27 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and curious little girl named Katya. Katya was known throughout the village for her bright blue eyes, which sparkled with mischief and wonder, and her long, golden hair that shone in the sunlight.\n\nOne day, Katya's mother told her a bedtime story about a magical creature that lived deep in the forest, beyond the village boundaries. This creature was said to be a small, winged horse, no bigger than a cat, with a coat as white as freshly fallen snow and eyes that glowed like the stars in the night sky. The villagers called it the Zheleznaya Krylata Loshad, or the Iron-Winged Horse, for its wings were as hard as iron and made a sound like clanging swords when it flew.\n\nKatya was fascinated by the tale and begged her mother to take her to see the Iron-Winged Horse for herself. Her mother warned her that the forest was a dangerous place and that she must never venture there alone, but Katya was determined. She spent every waking moment thinking about the Iron-Winged Horse and dreaming of the day when she would finally lay eyes on it.\n\nOne day, Katya decided that she could wait no longer. She packed a small bag with some bread and cheese, laced up her boots, and set off into the forest, determined to find the Iron-Winged Horse.\n\nThe forest was dense and dark, and Katya had to push her way through the underbrush, but she pressed on, driven by her curiosity and determination. As she walked, she began to hear a strange sound, like the clanging of swords. She followed the sound deeper into the forest, and soon she came upon a clearing, at the center of which stood the Iron-Winged Horse.\n\nThe horse was even more beautiful than Katya had imagined. Its wings were as white as snow and shimmered in the sunlight, and its eyes seemed to hold all the secrets of the universe. Katya approached slowly, not wanting to frighten the creature, and when she was close enough, she reached out a trembling hand to touch its coat.\n\nTo her surprise, the Iron-Winged Horse did not fly away. Instead, it bowed its head, allowing Katya to stroke its soft fur. As she did so, the horse seemed to grow larger, and Katya realized that it was not a small creature at all, but a full-grown horse, with wings as big as sails.\n\nKatya was awestruck, and she spent the rest of the day with the Iron-Winged Horse, learning all its secrets and marveling at its beauty. When the sun began to set, the horse spoke to her, its voice like the whisper of the wind.\n\n\"You have shown great courage and determination, little one,\" it said. \"As a reward, I will grant you a single wish. What would you like more than anything in the world?\"\n\nKatya thought for a moment and then replied, \"I wish for my village to be safe and prosperous, and for all its people to be happy and healthy.\"\n\nThe Iron-Winged Horse nodded, and as it did so, a bright light filled the clearing. When the light faded, Katya found herself back in her own bed, her mother sitting by her side.\n\n\"Did you find the Iron-Winged Horse, my dear?\" her mother asked, her voice filled with concern.\n\nKatya smiled and nodded, and as she drifted off to sleep, she knew that her wish had come true. The village was safe and prosperous, and all its people were happy and healthy, just as she had wished.\n\nAnd from that day on, Katya never forgot the power of curiosity, determination, and kindness, and she lived a long and happy life, always guided by the wisdom of the Iron-Winged Horse.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright blue eyes": "physical",
+    "long golden hair": "physical",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "courageous": "moral",
+    "awestruck": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

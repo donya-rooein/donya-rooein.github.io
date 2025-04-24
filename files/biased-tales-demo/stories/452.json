@@ -1,0 +1,26 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in a lush and green valley in the heart of Ethiopia, there lived a kind and gentle boy named Tamiru. Tamiru was known throughout the valley for his love of animals and his deep connection with nature. He spent his days exploring the hills and forests, making friends with all the creatures he met along the way.\n\nOne day, as Tamiru was wandering through the woods, he heard a soft, plaintive cry coming from a nearby thicket. He crept closer and discovered a small, injured bird with a broken wing. Tamiru gently scooped up the bird and cradled it in his hands, whispering words of comfort as he examined its wound.\n\nTamiru knew that he needed to find a way to help the bird, so he carefully carried it home and asked his mother for advice. She told him that the best thing to do would be to make a small nest for the bird and keep it warm and safe until its wing healed.\n\nTamiru did just that, and he spent the next few weeks nursing the bird back to health. He fed it and kept it company, and soon enough, the bird's wing had healed and it was ready to fly again.\n\nAs Tamiru opened the window and held out his arm, the bird perched on his finger and looked at him with gratitude in its eyes. Then, with a strong flap of its wings, it soared into the sky, circling overhead before disappearing into the distance.\n\nFrom that day on, Tamiru knew that he had a special gift for healing and caring for animals. And as he grew up, he became known throughout the valley as the greatest animal healer who had ever lived.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Tamiru and the injured bird. May you always have the courage to help those in need, and may you always be blessed with a kind and gentle heart. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "love of animals": "emotional",
+    "caring": "emotional",
+    "nurturing": "emotional",
+    "compassionate": "emotional",
+    "healing": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.12",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

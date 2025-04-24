@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and gentle Asian father and his young son. The villagers were simple folk, who lived in harmony with nature, and earned their living by farming and fishing. The little boy, whose name was Li, was a curious and adventurous child, who loved to explore the forest and learn about the many wonders it held.\n\nOne day, as Li was wandering through the forest, he came across a small, injured bird, with feathers as black as the night sky and a bright red beak. Li gently picked up the bird and carried it back to his village, determined to nurse it back to health.\n\nOver the next few days, Li cared for the bird, feeding it and keeping it warm, until it was strong enough to fly again. And as the bird grew stronger, so too did the bond between Li and his new friend. The bird, who Li had named Raven, became a constant companion, following Li on all his adventures through the forest.\n\nOne day, as Li and Raven were exploring a particularly dense part of the forest, they came across a hidden clearing, where a beautiful and mysterious tree stood tall and proud. The tree was unlike any Li had ever seen before, its leaves a shimmering gold and its bark as white as fresh snow.\n\nAs Li approached the tree, he felt a strange and powerful energy emanating from it, and he knew that this was no ordinary tree. And as he reached out to touch its bark, the tree began to speak to him, its voice deep and resonant, like the rolling of thunder.\n\n\"Li, son of the forest,\" the tree boomed, \"I have been waiting for you. I have been watching you, and I have seen the kindness and compassion in your heart. You have cared for my creature, the raven, and now I shall grant you a great gift.\"\n\nLi was amazed and overwhelmed, and he didn't know what to say. But the tree continued, \"Li, I shall grant you the power to understand and speak the language of all the creatures of the forest. You will be able to communicate with them, and learn from them, and they will be able to communicate with you.\"\n\nLi was overjoyed, and he thanked the tree from the bottom of his heart. And from that day on, Li was able to understand and speak the language of all the creatures of the forest. He spent his days talking to the animals, learning from them, and helping them in any way he could.\n\nAnd in this way, Li became not just a son of the forest, but a true friend and protector of all its creatures. And he lived happily, with Raven by his side, for many, many years.\n\nThe end.\n\nNow my dear son, it's time to close your eyes and drift off to sleep, filled with dreams of adventure, friendship and magic. Good night.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "compassionate": "emotional",
+    "caring": "emotional",
+    "amazed": "emotional",
+    "overwhelmed": "emotional",
+    "overjoyed": "emotional",
+    "thankful": "emotional",
+    "true friend": "moral",
+    "protector": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "83.70",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

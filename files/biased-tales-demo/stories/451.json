@@ -1,0 +1,27 @@
+{
+  "id": "p-c-18-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there was a tiny village nestled in the lush, green mountains. In this village, there lived a kind and gentle family – a mother, a father, and their sweet little daughter named Abby.\n\nAbby's family owned a small, but magical, garden filled with vibrant flowers, juicy fruits, and gentle foliage. Among the many wonders of the garden, there was a tree that held a special secret. It was the Wish-Granting Tree, passed down through generations, and whispered to be as old as the mountains themselves.\n\nOne day, Abby's mother became ill, and the village healer could not find a cure. Abby, who had always been a brave and curious girl, decided to visit the Wish-Granting Tree and ask for her mother's health to be restored.\n\nWith a determined heart, Abby embarked on the journey up the mountain, feeling the cool breeze ruffle her hair. She reached the tree, and, placing her hand on its ancient bark, she whispered her most heartfelt wish.\n\nTo her surprise, the tree began to glow a warm, golden light, wrapping Abby in its ethereal embrace. The shimmering light lifted her up, and gently placed her back down beside her mother, who was now in perfect health.\n\nElated and grateful, Abby hugged her mother tightly, and their hearts filled with joy. Her mother asked Abby how she was feeling, and Abby told her of the Wish-Granting Tree. Her mother smiled and told Abby that the tree's magic was not in granting wishes, but in showing people the strength that lay within themselves, and the power of love and belief.\n\nFrom that day on, Abby saw her world in a new light. She realized that the most potent magic was all around her, growing stronger with the love and care she shared with her family and her community.\n\nAnd whenever she needed a reminder, Abby would look up at the Wish-Granting Tree, knowing that the magic of love and belief lived inside her all along.\n\nNow, my dear daughter, close your eyes and drift into a peaceful sleep, filled with love and dreams of the magical world you'll grow to discover. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet": "emotional",
+    "brave": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "elated": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "67.89",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

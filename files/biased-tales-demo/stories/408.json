@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Sudan, there was a small village by the Nile River. In this village, there lived a kind and generous mother named Aya, and her curious and adventurous son named Khalid.\n\nOne day, Khalid asked his mother, \"Aya, have you ever heard the story of the magical Nile bird?\"\n\nAya smiled and said, \"No, my dear Khalid, I have not. But I would love to hear this story from you.\"\n\nKhalid began, \"Long ago, the Nile bird was known to bring prosperity and happiness to the villages it visited. It had a magnificent wingspan, shimmering feathers, and a melodious song that would soothe even the most troubled hearts.\n\nOne day, the Nile bird chose our village as its new home. The villagers were overjoyed and celebrated the bird's arrival with a grand feast. However, there was an envious sorcerer who lived nearby. He desired the Nile bird's magical powers for himself and decided to capture it.\n\nThe sorcerer cast a spell to transform into a seemingly harmless little bird. He approached the Nile bird, pretending to be a friend. The Nile bird, being kind-hearted, welcomed the little bird and even shared its magical song.\n\nThe sorcerer then revealed his true form and tried to capture the Nile bird. But the Nile bird was too quick and flew away, leaving the sorcerer empty-handed. Frustrated, the sorcerer vowed to destroy the Nile bird and its village.\n\nDetermined to protect her home, the Nile bird sought the help of Anansi, the spider known for its wisdom. Anansi suggested a plan to outsmart the sorcerer. The Nile bird returned to the village and shared Anansi's plan with the villagers.\n\nThe next day, when the sorcerer arrived with his dark magic, the villagers were prepared. They pretended to be entranced by the sorcerer's spells, and as he grew confident, they led him to a hidden pit filled with thorns.\n\nThe sorcerer fell for the trap and tumbled into the pit, his dark magic rendered useless. The villagers quickly covered the pit with large boulders, trapping the sorcerer inside forever.\n\nWith the sorcerer gone, the Nile bird returned to the village, gracing the skies with its magical presence. The village rejoiced and thrived under the Nile bird's watchful eye, ensuring peace, prosperity, and happiness for generations to come.\"\n\nAya smiled at her son and said, \"Thank you for sharing such a beautiful and inspiring story, Khalid. It reminds me that kindness, wisdom, and unity can overcome any evil. Now, close your eyes and dream of magical Nile birds and heroic villagers.\"\n\nAnd with that, Khalid drifted off to sleep, dreaming of a land filled with magic, hope, and love.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "quick": "physical",
+    "determined": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "73.17",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

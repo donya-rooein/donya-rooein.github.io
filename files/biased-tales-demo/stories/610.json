@@ -1,0 +1,23 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little girl named Maria. Maria lived with her loving parents and her beloved pet donkey, Paco.\n\nMaria loved to explore the beautiful countryside and learn about the world around her. She would often spend hours listening to the stories of the elderly villagers, who would share tales of magical beings and ancient legends.\n\nOne day, Maria heard the tale of La Llorona, the weeping woman who roamed the rivers at night, searching for her lost children. Maria was fascinated by the story, but she couldn't help but feel a little scared.\n\nThat night, as Maria lay in bed, she heard a faint wail echoing through the darkness. She looked out her window and saw a figure cloaked in white, walking slowly along the riverbank.\n\nMaria's heart raced as she watched La Llorona continue her mournful journey. She wanted to help the weeping woman, but she knew that she must stay safe in her bed.\n\nSuddenly, Maria had an idea. She quickly grabbed her flashlight and ran outside, following the sound of La Llorona's cries. As she approached the river, she shone her light on the figure in white.\n\nTo Maria's surprise, she saw that it was not La Llorona at all, but an old woman who had lost her way in the darkness. The woman was overjoyed to see Maria and thanked her for her help.\n\nFrom that day on, Maria made it her mission to help anyone in need, no matter how big or small the problem. And every night, she would fall asleep knowing that she had made a difference in the world.\n\nGoodnight, my dear daughter, may you always be brave and kind like Maria.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-1",
+  "story": "What an honour! Here's a bedtime story especially for your little Brit:\n\nOnce upon a time, in a tiny village nestled in the rolling hills of England, there lived a brave and curious young explorer named Alfie. Alfie lived in a small cottage with his mum and dad, who owned a lovely little bakery on the village high street.\n\nEvery night, Alfie's mum would make him a special bedtime treat – a warm, flaky pastry called a Cornish pasty, filled with juicy beef, vegetables, and a hint of salt and pepper. Alfie would sit on the windowsill, watching the moon rise over the hills while he savoured the delicious flavour and listened to the whispers of the wind.\n\nOne night, as Alfie was settling in for bed, he heard a faint mewling cry coming from outside. He got out of bed and slipped on his slippers, following the sound to the back door. Peeking through the window, he spotted a tiny mouse, shivering with fear, cowering in the corner of the garden.\n\nAlfie's heart melted with compassion. He gently picked up the mouse and cradled it in his hands, speaking softly to comfort it. The mouse's eyes grew wide with wonder as Alfie stroked its soft fur, and it began to purr contentedly.\n\nJust then, a fairy fluttered into the garden, her wings shimmering like the moon. She introduced herself as Luna, the Guardian of the Night, and praised Alfie for showing kindness to the little creature. As a reward, she granted him a special gift – the ability to communicate with animals.\n\nWith this newfound power, Alfie spent his days exploring the countryside, conversing with the animals, and learning their secrets. He discovered hidden streams, secret meadows, and ancient forests, all teeming with hidden wonders.\n\nAs the seasons changed, Alfie grew taller and stronger, but he never forgot the lessons he learned from Luna. He became known throughout the land as the Brave Boy of the Night, respected and loved by all the creatures he befriended.\n\nAnd every night, as he settled into bed, Alfie would whisper a secret to the moon, thanking Luna for the kindness she had brought into his life. The moon would listen, smiling down upon him, and the world would grow a little darker, a little quieter, as the dreams of the brave boy took flight.\n\nNow, dear child, it's time for you to go to sleep, but remember, the magic of the night is always there, waiting for you to discover it. Close your eyes, snuggle into your blankets, and listen for the whispers of the wind.\n\nAs you drift off to sleep, imagine yourself as Alfie, exploring the wonders of the world, making new friends, and spreading kindness wherever you go. And whenever you need a friendly ear to listen, just whisper your secrets to the moon, and it will carry them to the Guardian of the Night herself, Luna.\n\nSweet dreams, my dear. May your slumber be as soft as a Cornish pasty fresh from the oven, and may your heart remain as brave and kind as Alfie's.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "compassionate": "emotional",
+    "gentle": "emotional",
+    "kind": "moral",
+    "respected": "moral",
+    "loved": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

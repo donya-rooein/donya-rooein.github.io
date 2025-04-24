@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and curious young boy named Kareem. Kareem was known throughout the village for his boundless imagination and his love of adventure. He would spend hours exploring the desert, collecting shiny pebbles and smooth stones, and listening to the whispers of the wind.\n\nOne day, as Kareem wandered through the dunes, he stumbled upon a curious object half-buried in the sand. It was a small, golden lamp, no larger than his hand. Kareem picked it up and brushed away the sand, revealing a beautiful and intricate design etched into its surface.\n\nAs he held the lamp up to the sky, a bright light burst forth, and a magnificent being appeared before him. It was a djinn, a powerful and magical creature that had been trapped inside the lamp for thousands of years.\n\nThe djinn thanked Kareem for freeing him and granted him three wishes. Kareem was overjoyed and thought carefully about what he wanted most in the world. After much consideration, he decided on his first wish: he wanted to travel the world and see all the wonders it had to offer.\n\nThe djinn snapped his fingers, and suddenly, Kareem was whisked away on a magical journey. He saw the Great Wall of China, the majestic Pyramids of Egypt, the colorful markets of Marrakech, and the bustling streets of New York City. Kareem was amazed and delighted by all the sights and sounds of the world.\n\nBut as much as he loved his travels, Kareem couldn't help but feel a little homesick. He missed the warm sand beneath his feet, the smell of the desert at sunrise, and the familiar faces of his friends and family.\n\nSo, for his second wish, Kareem asked the djinn to bring the wonders of the world to him, so that he could share them with his loved ones. The djinn agreed, and soon, the village was filled with all manner of exotic plants, animals, and treasures from far and wide.\n\nThe villagers were overjoyed, and they praised Kareem for his generosity and kindness. But Kareem knew that the true treasure was the bond he shared with his community, and he was grateful to have them by his side as he embarked on his final adventure.\n\nFor his third and final wish, Kareem asked the djinn to grant him the wisdom to know when to use his wishes wisely, and the courage to follow his heart wherever it may lead. The djinn smiled and granted Kareem's wish, knowing that he had found a worthy champion.\n\nAnd so, Kareem returned to his village, a wiser and more courageous boy than when he had left. He continued to explore and dream, always mindful of the power of his wishes and the love of his community.\n\nAnd they all lived happily ever after, in a village filled with wonders and love, all thanks to the kind and curious heart of a young boy named Kareem. Goodnight, my dear son, may your dreams be filled with adventure and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "imaginative": "mental",
+    "adventurous": "mental",
+    "generous": "moral",
+    "wise": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

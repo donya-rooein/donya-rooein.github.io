@@ -1,0 +1,29 @@
+{
+  "id": "p-c-17-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful and diverse land of South Africa, there was a young boy named Thabo. Thabo lived in a small village at the foot of the majestic Drakensberg mountains. He was a curious and adventurous boy, always eager to explore the world around him.\n\nOne day, Thabo's father, a wise and kind man, told him a story about a hidden treasure that was said to be buried deep within the Drakensberg mountains. The treasure was guarded by a fearsome dragon, who would only allow the worthy to claim it.\n\nThabo's heart raced with excitement at the thought of such a great adventure. He begged his father to take him to the mountains to search for the treasure. After much convincing, Thabo's father agreed, but warned him that the journey would be long and difficult, and that the dragon was not to be underestimated.\n\nThe next morning, Thabo and his father set off on their journey. They hiked for days, through dense forests and over rocky terrain, until they finally reached the mouth of a cave nestled deep within the mountains.\n\nThabo's father turned to him and said, \"This is where the dragon lives. You must go in alone and face the dragon. But remember, Thabo, the true treasure is not the gold and jewels that the dragon guards, but the wisdom and courage that you will gain on this journey.\"\n\nThabo took a deep breath and ventured into the dark cave. He could feel the heat of the dragon's breath and hear its fierce roar as he approached its lair. But Thabo did not falter. He knew that he had to be brave and face the dragon if he wanted to find the treasure.\n\nWhen Thabo finally came face to face with the dragon, he looked it in the eye and spoke with confidence. He told the dragon that he was not there to fight, but to learn. The dragon, impressed by Thabo's bravery and wisdom, agreed to share its knowledge with him.\n\nFor days, Thabo learned from the dragon, absorbing its wisdom and gaining a newfound appreciation for the world around him. And when he finally emerged from the cave, he realized that the true treasure had been the journey itself, and the lessons he had learned along the way.\n\nThabo returned to his village a wiser and more confident boy, and his father was proud of the man he had become. From that day on, Thabo lived a life filled with adventure, wisdom, and courage, always remembering the lessons he had learned from the dragon in the Drakensberg mountains.\n\nAnd with that, Thabo, it's time for you to close your eyes and drift off to sleep, filled with dreams of adventure and wonder. Good night, my dear son.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "excited": "emotional",
+    "brave": "moral",
+    "confident": "mental",
+    "wise": "mental",
+    "appreciative": "emotional",
+    "wiser": "mental",
+    "more confident": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

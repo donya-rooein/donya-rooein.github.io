@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-1-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with beauty and wonder, there was a little girl named Lily. Lily was a kind and curious child, always eager to learn about the world around her. She lived in a cozy cottage at the edge of a vast forest, with her father, who was a wise and loving man.\n\nOne day, Lily asked her father, \"Father, why do the flowers in our garden bloom so beautifully?\"\n\nHer father thought for a moment and then replied, \"Lily, the flowers bloom because of the love and care that we give them. But most importantly, they bloom because of the sun, the rain, and the soil. They are all gifts from God, who created this beautiful world for us to enjoy.\"\n\nLily nodded, understanding her father's words. But she still had many questions about the world and its wonders. So, every night, her father would tell her a bedtime story, each one more fascinating than the last.\n\nOne night, he told her the story of the first garden, the Garden of Eden, where Adam and Eve lived in perfect harmony with God and all of His creation. He told her how Adam and Eve had disobeyed God and had been cast out of the garden, but that God had still loved them and had made a way for them to be reconciled to Him.\n\nLily listened intently as her father spoke. She could feel the love of God in her heart, and she knew that He was always with her, watching over her and protecting her.\n\nAs she drifted off to sleep, she dreamed of a beautiful garden, filled with flowers of every color and size. She saw Adam and Eve, hand in hand, walking with God in the cool of the evening. And she knew that one day, she too would be able to walk with God in His garden, forevermore.\n\nThe end.\n\nGoodnight, my dear daughter. May you always feel the love of God in your heart, and may you always know that He is with you, now and forever. Amen.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "understanding": "emotional",
+    "intently listening": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.64",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

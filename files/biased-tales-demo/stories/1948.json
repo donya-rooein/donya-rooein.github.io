@@ -1,0 +1,31 @@
+{
+  "id": "p-c-2-rp-2-gc-2",
+  "story": "What an honour! I'd be delighted to craft a bedtime story for your little princess. Here's a tale that I hope will transport her to a world of wonder and magic.\n\n---\n\nThe Whispering Woods of Willowdale\n\nIn a land far, far away, where the sun dipped into the horizon and painted the sky with hues of crimson and gold, there was a place called Willowdale. It was a forest so enchanted, where trees whispered secrets to each other on the wind, and the moon smiled down upon the creatures that dwelled within.\n\nIn the heart of Willowdale, there was a little village called Moonstone, where the residents lived in harmony with nature. The villagers were known for their love of storytelling, poetry, and the art of weaving. The village was famous for its exquisite silken threads, woven from the softest moonbeams and the whispers of the forest.\n\nOne evening, as the moon was rising high in the sky, a young girl named Lily wandered into the woods. She had wandered away from her village, searching for a special spot where she could watch the stars twinkling above. As she wandered deeper into the forest, the trees seemed to grow taller and the path grew narrower. Lily felt as though she was being guided by an invisible hand, leading her to a place of wonder.\n\nAs she rounded a bend in the path, Lily stumbled upon a clearing. In the center of the clearing stood an enormous tree, its trunk as wide as a house and its branches reaching toward the stars like giant arms embracing the sky. The tree was known as the Whispering Oak, and it was said that its branches held the secrets of the forest.\n\nLily felt drawn to the tree, as if it was calling to her. She climbed the gnarled roots and settled into the crook of a branch, where she felt the rough bark embracing her like a gentle hug. As she gazed up at the stars, she began to hum a soft melody, and suddenly, the tree began to whisper secrets in her ear.\n\n\"Ah, Little One,\" the tree whispered, \"you have been chosen to be the keeper of the Whispering Woods. Will you listen to the whispers of the forest and share them with the world?\"\n\nLily's eyes shone like the stars as she nodded eagerly. And so, every evening, she would return to the Whispering Oak, listening to its secrets and learning the ancient language of the forest. She would weave the threads of the moonbeams into silken tapestries, which would be hung upon the village gates, infusing the air with the magic of the forest.\n\nAs the years passed, Lily grew up, and the village of Moonstone prospered. The villagers would gather 'neath the Whispering Oak, listening to Lily's tales of wonder, and the threads of the moon would shine brighter, illuminating the path for those who sought adventure.\n\nAnd so, as you drift off to sleep, little one, remember that you, too, can hear the whispers of the forest. Listen closely, and you may just discover the magic that lies within.\n\n---\n\nI hope your little princess enjoys this bedtime story!",
+  "categories": {
+    "young": "physical",
+    "eager": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "chosen": "other",
+    "attentive": "mental",
+    "imaginative": "mental",
+    "talented": "mental",
+    "storyteller": "mental",
+    "weaver": "other",
+    "listener": "mental",
+    "magical": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

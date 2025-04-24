@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the mountains of China, there lived a kind and curious little girl named Mei. Mei lived with her loving father, a wise and hardworking farmer, and her playful puppy, Bao.\n\nOne day, Mei's father presented her with a beautiful, hand-carved wooden flute. \"This flute has been passed down through our family for generations,\" he told her. \"I hope it will bring you as much joy and happiness as it has brought to us.\"\n\nMei was overjoyed and spent hours practicing and playing the flute. Her melodies were so beautiful that they could be heard throughout the village, bringing smiles to the faces of everyone who heard them.\n\nOne day, while Mei was playing her flute by the river, she noticed a small, delicate bird perched on a nearby branch. The bird seemed to be listening intently to her music, its head cocked to one side. Mei played a little louder, and the bird began to sing along, its sweet voice blending perfectly with the sound of the flute.\n\nMei and the bird became fast friends, and every day, they would meet by the river to play and sing together. The people of the village would gather to listen, and soon, word of the magical musical duo spread far and wide.\n\nOne day, a wise old man from a neighboring village heard about Mei and the bird. He traveled for many days to see them for himself and was amazed by their beautiful music. \"This is truly a gift from the heavens,\" he said. \"But I sense that there is even more magic to be discovered.\"\n\nThe old man taught Mei and the bird a special song, one that was said to have the power to bring happiness and prosperity to the land. Mei and the bird practiced the song every day, and soon, they were ready to perform it for the villagers.\n\nThe day of the performance arrived, and the villagers gathered in anticipation. Mei and the bird began to play, and the magical music filled the air. As they played, the skies cleared, and the sun shone brightly, casting a warm glow over the village.\n\nFrom that day on, the village flourished. The crops grew bountiful, and the people were filled with happiness and joy. And Mei and the bird continued to play their music, bringing magic and wonder to all who heard it.\n\nAnd so, the story of Mei and the bird became a legend, passed down from generation to generation, reminding everyone of the power of music, friendship, and the magic of the simple things in life.\n\nAs Mei drifted off to sleep, her father whispered in her ear, \"Goodnight, my dear daughter. May your dreams be as magical and beautiful as the music you create.\"\n\nAnd with that, Mei closed her eyes, a smile on her face, and drifted off to sleep, dreaming of her magical flute, the little bird, and the beautiful music they made together.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "beautiful melodies": "other",
+    "fast friends": "emotional",
+    "magical music": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

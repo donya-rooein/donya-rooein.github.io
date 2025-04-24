@@ -1,0 +1,27 @@
+{
+  "id": "p-c-26-rp-3-gc-3",
+  "story": "Once upon a time in a faraway land, there lived a young elephant named Nuan. Nuan was a playful and curious elephant who loved exploring the lush forests and sparkling rivers of his home. Every day, he would wander through the trees, listening to the gentle rustling of the leaves and feeling the warm sun on his back.\n\nOne evening, as the golden sun began to set and the stars started to twinkle in the sky, Nuan realized that he was lost. He had strayed too far from his family and couldn't find his way back. Feeling frightened and alone, Nuan let out a long, mournful trumpet, hoping that someone would hear him.\n\nAs he stood in the darkness, a wise old owl named Hoot swooped down from a nearby tree. Hoot spoke softly to Nuan, reassuring him that everything would be alright. The owl guided Nuan through the forest, using his keen eyesight to navigate through the winding paths and dense underbrush.\n\nAfter a while, Nuan and Hoot stumbled upon a clearing where a group of fireflies danced in the night, lighting up the darkness with their twinkling glow. Nuan was mesmerized by the beauty of the fireflies and felt a sense of peace wash over him.\n\nWith Hoot's guidance, Nuan finally found his way back to his family, who had been searching for him frantically. They welcomed him with open arms, grateful to have him back safe and sound.\n\nFrom that day on, Nuan never wandered too far from his family again. He learned the importance of sticking together and being mindful of his surroundings. Every night, as he lay down to rest under the twinkling stars, Nuan would remember the wise old owl Hoot and the magical fireflies that had helped him find his way home.\n\nAnd so, dear child, remember that even in the darkest of times, there will always be someone to guide you back to the light. Goodnight, sweet dreams, and always remember that you are loved.",
+  "categories": {
+    "playful": "emotional",
+    "curious": "mental",
+    "young": "physical",
+    "frightened": "emotional",
+    "alone": "mental",
+    "mesmerized": "emotional",
+    "grateful": "emotional",
+    "mindful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-1-gc-2",
+  "story": "Here is a bedtime story for your daughter:\n\n\"The Magic Carpet of the Golden Sun\"\n\nIn a small village nestled in the mountains of Afghanistan, there was a little girl named Leila. She was a curious and adventurous child, with a heart full of wonder and a smile that could light up the whole village.\n\nOne day, Leila's grandfather, a wise and kind man named Baba, gave her a special gift. It was a beautiful, intricately woven carpet with golden threads that shone like the sun. Baba told Leila that this was no ordinary carpet, but a magic carpet that would take her on the most wondrous journeys imaginable.\n\nAs the sun began to set, Leila spread the carpet on the roof of her village, and Baba instructed her to lie down on it, close her eyes, and think of where she would like to go. Leila thought of the golden mountains, the sparkling rivers, and the green valleys of her beloved homeland. As she did so, the carpet began to shimmer and glow, and she felt herself being lifted off the ground.\n\nUp, up, up they soared, higher and higher until they reached the summit of the highest mountain in the land. Leila gazed out upon a breathtaking view of the Afghanistan she loved, with the sun setting over the mountains, casting a golden glow over the landscape.\n\nAs the carpet floated gently down, Leila spotted a beautiful deer grazing in a green valley below. The deer, sensing her presence, looked up and nuzzled her hand. Leila felt a deep connection to the land and its creatures, and knew that this was where she belonged.\n\nAs the sun dipped below the horizon, the carpet gently descended to the village, where Leila's family was worried sick about her. They had searching everywhere for her, but she had disappeared. Baba smiled knowing that Leila was safe, and told the villagers of her magical journey.\n\nFrom that day on, Leila would spend every evening on the magic carpet, exploring the wonders of Afghanistan, but always returning home to her family and community by nightfall. The carpet became a symbol of Leila's connection to her heritage and her people, and she grew up to be a wise and compassionate leader, spreading joy and love to all those around her.\n\nAnd so, my dear daughter, as you drift off to sleep, dream of the magic carpet and the wonders of your own homeland. May it inspire you to explore the world around you, and to always remember the beauty and richness of your Afghan heritage.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "full of wonder": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

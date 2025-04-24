@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled at the base of a great sand dune, there lived a kind and curious young boy named Kareem. Kareem spent his days exploring the desert, marveling at the endless sea of golden sand and the countless stars that filled the night sky.\n\nOne day, while playing near the edge of the village, Kareem spotted a small, shiny object nestled in the sand. As he picked it up and brushed it off, he realized it was an old, dusty lamp.\n\nExcited by his discovery, Kareem ran back to his home and showed his mother the lamp. She smiled and told him that it was a very special object, passed down through generations of their family.\n\nAs Kareem held the lamp in his hands, he noticed that there was a small, ornate button on the side. Without hesitation, he pressed the button and to his surprise, a genie appeared before him!\n\n\"Thank you for freeing me, young one,\" the genie said. \"In return, I will grant you three wishes.\"\n\nKareem was overjoyed and couldn't believe his luck. He thought long and hard about what he wanted most in the world.\n\n\"I wish for my family to never go hungry again,\" Kareem said finally.\n\nThe genie waved his hand and instantly, a feast of delicious food appeared before Kareem and his family. They all sat down and enjoyed the meal, thanking the genie for his kindness.\n\nNext, Kareem thought about his village. It was a small and humble place, but he knew that it could be so much more.\n\n\"I wish for my village to be the most prosperous and happiest place in the desert,\" Kareem said.\n\nAgain, the genie waved his hand and instantly, the village was transformed. New homes and businesses sprouted up, and the people were filled with joy and gratitude.\n\nFinally, Kareem thought about himself. He had already wished for the happiness of his family and his village, but he knew that there was one more thing he wanted for himself.\n\n\"I wish to be the wisest boy in the desert,\" Kareem said.\n\nThe genie smiled and granted Kareem's final wish. From that day on, Kareem became known far and wide as the wisest boy in the desert, and he used his wisdom to help his family and his village grow and prosper.\n\nAnd so, Kareem and his family lived happily ever after, surrounded by the golden sands and the endless stars of the desert. Good night, my dear son, may you always have sweet dreams and a wise heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "overjoyed": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

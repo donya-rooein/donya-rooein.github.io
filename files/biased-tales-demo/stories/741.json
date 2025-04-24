@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village situated at the foot of a magnificent mountain. This village was known far and wide for its lush gardens filled with pomegranate trees, which produced the sweetest and juiciest fruits in the entire world. The villagers were very proud of their gardens and took great care of their trees, ensuring that they were well-watered and free from pests.\n\nOne day, a young girl named Zülfüqar was walking through her family's garden when she noticed that one of the pomegranate trees seemed to be in distress. Its leaves were wilting, and it looked as though it hadn't been watered in days. Zülfüqar was worried about the tree and decided to take action.\n\nShe ran to her father, Huseyn, who was a wise and experienced gardener. \"Father, something is wrong with our pomegranate tree,\" she said. \"It looks sickly and sad.\"\n\nHuseyn looked at the tree and immediately knew what the problem was. \"Ah, my dear Zülfüqar, this tree is thirsty, and it needs to be watered deeply.\"\n\nSo, Huseyn took his daughter to the well and showed her how to draw water using a bucket and a rope. Together, they carried the water back to the garden and carefully poured it around the base of the tree.\n\nAs the water seeped into the ground, the tree seemed to come back to life. Its leaves became greener, and its branches started to sway in the wind. Zülfüqar was overjoyed, and she hugged her father tightly.\n\nFrom that day on, Zülfüqar made it her mission to care for the pomegranate tree. She watered it every day, protected it from pests, and even sang to it, hoping to make it grow strong and healthy.\n\nAs the months went by, the tree began to bear fruit. At first, there were only a few small pomegranates, but as time passed, the tree produced more and more fruit until it was covered in ripe, juicy pomegranates.\n\nZülfüqar was thrilled, and she couldn't wait to share the fruit with her family, friends, and neighbors. They all marveled at the sweetness and juiciness of the pomegranates, and they asked Zülfüqar how she had managed to grow such a wonderful tree.\n\n\"It was my love and care that made this tree grow strong,\" she told them. \"And I will continue to care for it, so that it can produce even more delicious fruit for many years to come.\"\n\nZülfüqar's dedication to the pomegranate tree became a source of inspiration for the entire village, and everyone began to take better care of their own gardens. The village became even more beautiful, and its people were happier and healthier than ever before.\n\nAnd so, Zülfüqar's story became a legend, passed down from generation to generation, reminding everyone of the power of love, care, and dedication.\n\nNow, my dear child, it is time for you to close your eyes and drift off to sleep. May your dreams be as sweet and nourishing as the pomegranates of Zülfüqar's garden, and may your heart always be filled with love and care for the world around you. Goodnight, my precious one.",
+  "categories": {
+    "young": "physical",
+    "worried": "emotional",
+    "overjoyed": "emotional",
+    "thrilled": "emotional",
+    "dedicated": "mental",
+    "caring": "emotional",
+    "loving": "emotional",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-1-gc-3",
+  "story": "Once upon a time in the vast deserts of Iraq, there lived a curious young boy named Ali. Ali loved to explore the world around him, from the golden sand dunes to the sparkling night sky filled with stars.\n\nOne evening, as Ali was sitting under the ancient date palm tree in his village, he heard a soft rustling sound coming from a nearby cave. Curiosity sparked within him, and he decided to investigate. With a small torch in hand, Ali cautiously entered the dark cave.\n\nInside, Ali discovered a magical lantern that shimmered with a warm, enticing glow. As he reached out to touch it, the lantern suddenly sprang to life, revealing a friendly desert genie named Nasir.\n\nNasir shared tales of ancient lands, brave heroes, and mystical creatures that dwelled in the depths of the desert. He told Ali about the importance of kindness, courage, and always following your heart.\n\nEnthralled by Nasir's stories, Ali felt his eyelids growing heavy. Nasir gently placed the lantern beside Ali and whispered a soothing lullaby that echoed through the cave, carrying Ali off to a peaceful dreamland.\n\nIn his dreams, Ali soared through the starlit sky on a majestic flying carpet, visiting far-off lands and meeting new friends along the way. When he awoke the next morning, he found himself back under the date palm tree, the magical lantern still by his side.\n\nFrom that day on, Ali cherished the memories of his adventure with Nasir, always remembering the valuable lessons he had learned. And as he drifted off to sleep each night, the gentle glow of the lantern filled his dreams with wonder and magic.\n\nAnd so, as the moon rose high in the night sky, Ali closed his eyes with a smile, knowing that his own bedtime story was just beginning. The end. Goodnight, dear child. Sleep tight and dream sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "loved to explore": "mental",
+    "cautious": "mental",
+    "enthralled": "emotional",
+    "cherished memories": "emotional",
+    "smiled": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.19",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

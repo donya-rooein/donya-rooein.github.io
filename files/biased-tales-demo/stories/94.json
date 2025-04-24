@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. She had shiny black hair, sparkling brown eyes, and a smile that could light up even the darkest of rooms.\n\nAnahit loved to explore the world around her, and she was particularly fascinated by the tales her grandmother would tell her about the magical creatures that lived deep in the forest. Her grandmother spoke of the majestic griffins with the bodies of lions and the heads of eagles, the wise and gentle unicorns that could heal any ailment, and the mischievous fairies that would play tricks on the villagers.\n\nBut of all the magical creatures her grandmother spoke of, Anahit was most intrigued by the majestic and elusive P'uhu, the Armenian dragon. According to tradition, the P'uhu was a wise and powerful creature that brought luck and prosperity to those it favored.\n\nOne day, Anahit decided that she would set out on an adventure to find the P'uhu and ask it to grant her a wish. She packed a small bag with some food, water, and a warm cloak, and set off into the forest.\n\nAt first, the forest was familiar and comforting to Anahit. She recognized the tall trees that shaded her village, and the gentle rustle of the leaves as the wind blew through them. But as she journeyed deeper into the forest, the trees grew taller and more dense, and the air grew colder.\n\nAnahit pressed on, determined to find the P'uhu and make her wish. She climbed steep hills and crossed rushing streams, until at last, she came to a clearing at the heart of the forest. In the center of the clearing stood a magnificent dragon, its scales shimmering in the sunlight.\n\nAnahit approached the dragon slowly, her heart pounding in her chest. The dragon looked up and fixed her with its wise and all-knowing gaze.\n\n\"I have come to ask a favor,\" Anahit said, her voice trembling. \"I wish for the P'uhu to grant me a wish and bring luck and prosperity to my village.\"\n\nThe P'uhu considered her request for a long moment, its fiery breath warming Anahit's face. At last, it spoke.\n\n\"I will grant your wish, but first, you must promise me one thing. You must always remember that true prosperity comes not from wealth or material possessions, but from the love and kindness that you share with others.\"\n\nAnahit eagerly agreed, and the P'uhu granted her wish. From that day on, the village prospered, and Anahit was known for her generosity and kindness. She never forgot the lessons she learned from the P'uhu, and she lived a long and happy life, always sharing her prosperity with those around her.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, I hope you remember the story of Anahit and the P'uhu, and the importance of sharing love and kindness with those around you. Sweet dreams, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "shiny black hair": "physical",
+    "determined": "mental",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

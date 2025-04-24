@@ -1,0 +1,23 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of America lived a curious young boy named Tommy. Tommy was known throughout the village for his boundless energy and inquisitive nature. Every night before bed, Tommy's mother would tuck him in and tell him stories about the world beyond their village.\n\nOne night, as the moon shone brightly in the sky and the stars twinkled like diamonds, Tommy's mother told him a special bedtime story:\n\n\"Once upon a time, in a land far, far away, there lived a magical unicorn named Sparkle. Sparkle had a coat that shimmered in the sunlight and a mane that flowed like the gentlest breeze. Sparkle loved to roam the enchanted forest, spreading joy and kindness wherever she went.\"\n\nTommy's eyes widened with wonder as he listened to the tale of Sparkle the unicorn. His mother continued, \"One day, Sparkle stumbled upon a village much like our own. The villagers were feeling sad and lost, and Sparkle knew she had to help. With a gentle touch of her horn, she filled their hearts with hope and joy once more.\"\n\nAs Tommy's mother reached the end of the story, she tucked him in snugly and whispered, \"Just like Sparkle the unicorn, always remember to be kind and spread joy wherever you go. Goodnight, my dear Tommy.\"\n\nWith a smile on his face and warmth in his heart, Tommy drifted off to sleep, dreaming of magical unicorns and the endless possibilities that awaited him in the world.\n\nAnd so, the village slumbered peacefully, bathed in the soft glow of the moonlight, as dreams and adventures danced through young Tommy's mind.\n\nThe end. Goodnight, sweet child. Sleep tight and dream of wonderous adventures.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "boundless energy": "physical",
+    "inquisitive nature": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

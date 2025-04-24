@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Sudan, there was a kind and curious boy named Ahmed. Ahmed loved to explore the world around him and learn new things. He would often ask his mother questions about the stars, the plants, and the animals.\n\nOne day, Ahmed's mother told him a story about a magical creature called the Jinni. The Jinni, she said, were powerful beings that could grant wishes to those who were pure of heart.\n\nAhmed was fascinated by this story and begged his mother to tell him more. She warned him that the Jinni were not to be summoned lightly, but Ahmed was determined to meet one.\n\nHe spent days and nights studying ancient texts and performing rituals, until one day, he felt a powerful presence in his room. He opened his eyes and saw a magnificent Jinni standing before him.\n\nThe Jinni introduced himself as Khalid and asked Ahmed why he had summoned him. Ahmed asked Khalid to grant him three wishes.\n\nKhalid agreed, but warned Ahmed that with great power comes great responsibility. Ahmed promised to use his wishes wisely.\n\nFor his first wish, Ahmed asked for endless wisdom and knowledge. Khalid granted his wish, and Ahmed spent the next few years studying and learning everything he could.\n\nFor his second wish, Ahmed asked for the power to heal any illness. Khalid granted his wish, and Ahmed became a great healer, traveling from village to village, curing the sick and helping those in need.\n\nFor his third and final wish, Ahmed asked for the ability to bring happiness to others. Khalid granted his wish, and Ahmed spent the rest of his days spreading joy and laughter wherever he went.\n\nAhmed's mother was proud of her son and his kind heart. She knew that he would use his gifts to make the world a better place. And Ahmed, with the help of the Jinni, lived a long and fulfilling life, helping others and exploring the wonders of the world.\n\nAnd so, my dear son, as you drift off to sleep, remember the story of Ahmed and the Jinni. May you always be curious, kind, and wise, and may you use your gifts to make the world a better place.\n\nGoodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "healer": "other",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-1-gc-2",
+  "story": "Once upon a time in the beautiful land of Armenia, there was a small village called Akhtala. In this village, there lived a kind and gentle father named Avo and his beautiful daughter, Anoush. Anoush was a curious and adventurous little girl who loved to explore the beautiful landscapes of her homeland, from the towering mountains to the rolling hills, and the flowing rivers.\n\nOne day, as Anoush and Avo were walking through the village, they stumbled upon an old and wise man named Harout. Harout was known throughout the land for his knowledge of the ancient Armenian legends and folktales. Anoush was instantly drawn to the old man and begged her father to let her hear one of Harout's stories.\n\nAvo, being the loving father that he was, agreed, and the three of them sat down under the shade of a tree. Harout began to tell the story of a magical bird that lived in the highest mountains of Armenia. This bird, called the Hmayak, had the most beautiful and enchanting song that could put anyone who heard it to sleep.\n\nAnoush was fascinated by the story and begged her father to take her to the mountains to search for the Hmayak. Avo, knowing how much his daughter loved adventures, agreed, and they set off early the next morning.\n\nThe journey was long and arduous, but Anoush was determined to find the magical bird. They climbed higher and higher into the mountains, and as they reached the top, they finally heard the enchanting song of the Hmayak.\n\nAnoush was overjoyed and ran towards the bird, but as she got closer, the Hmayak suddenly stopped singing and flew away. Anoush was devastated, but Avo reminded her that the Hmayak only sang for those who approached it with kindness and gentle hearts.\n\nAnoush took her father's words to heart and sat down quietly, waiting for the Hmayak to return. After a while, the bird finally came back and began to sing again. As Anoush listened to the beautiful song, she felt a sense of peace and tranquility that she had never felt before.\n\nFrom that day on, Anoush and Avo would return to the mountains every year to listen to the enchanting song of the Hmayak. And every time they left, the Hmayak would sing them a lullaby to help them sleep soundly, knowing that they would return again soon.\n\nAs Anoush drifted off to sleep, she felt grateful for her father's love and the beauty of their homeland. She knew that as long as she had her father by her side, she could conquer any adventure that came her way.\n\nWith that, my dear daughter, it's time for you to close your eyes and dream of your own adventures in the magical land of Armenia. Good night, Anoush, and may the Hmayak sing you a sweet lullaby.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "beautiful": "physical",
+    "determined": "mental",
+    "kind": "moral",
+    "gentle-hearted": "emotional",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-5-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful European village nestled at the foot of the Alps, there lived a kind-hearted little girl named Sofia. She had warm brown eyes, a contagious laugh, and the most radiant smile that could light up even the darkest of rooms.\n\nSofia's world was filled with the vibrant colors of the changing seasons, the enchanting melodies of her mother's violin, and the mesmerizing stories told by her father, a wise and well-traveled man. Together, they created a loving home infused with tradition, laughter, and an unquenchable thirst for knowledge.\n\nOne chilly autumn evening, as the sun dipped below the horizon, casting a warm golden glow over the village, Sofia's parents noticed that their beloved daughter seemed troubled. Her usual twinkling eyes were dimmed by a veil of sadness, and her cheerful spirit was weighed down by a frown.\n\nCurious, they asked her what was troubling her heart. Sniffling and wiping away a tear, Sofia confessed that she felt lonely, wishing she had a sister or a brother to share in her adventures and daily discoveries.\n\nTouched by her honesty and heartache, her parents embraced her, and her father shared a story that he hoped would bring comfort to her tender heart.\n\n\"Long ago,\" he began, \"there was a magical forest hidden deep within the heart of the Alps. This forest was known as the 'Enchanted Dreamwood,' and it was believed that within its ancient, tangled roots, extraordinary secrets lay hidden, waiting to be discovered by those who dared to enter.\n\n\"Many brave souls had ventured into the Dreamwood, seeking wisdom, fortune, or simply a chance to escape the mundane and enter a realm of the fantastical. Yet, none had ever returned, leaving the villagers to wonder what mysteries the forest held and what fate had befallen those who had dared to enter.\"\n\nSofia's eyes widened as she listened intently to her father's tale, hanging on to every word.\n\n\"One day,\" he continued, \"a wise, old woman who lived on the outskirts of the village decided that it was time to uncover the secrets of the Enchanted Dreamwood. She packed a small bag, filled with nourishing provisions and warm garments, and set off on her journey.\n\n\"Days turned into weeks, and weeks into months, but the old woman never wavered in her determination. Finally, after a long and arduous journey, she found herself standing at the edge of the Dreamwood. As she gazed into its depths, she noticed something peculiar: a tiny, shimmering door, hidden amongst the foliage, leading into the heart of the forest.\n\n\"With a deep breath and a silent prayer, she knocked on the door. To her surprise, it slowly creaked open, revealing a narrow, winding staircase that led deep into the earth. Carefully, she descended the staircase and found herself in a vast, subterranean cavern, teeming with life and radiant with a soft, magical light.\n\n\"In the center of the cavern, there was a magnificent tree, its gnarled roots weaving an intricate tapestry through the cavern's floor, and its lush, emerald canopy stretching upwards towards a distant, shimmering sky. The old woman approached the tree with reverence, her heart swelling with gratitude and awe.\n\n\"A gentle whisper seemed to emanate from within the tree's ancient trunk, and the old woman leaned in closer to listen. To her astonishment, she discovered that the voice belonged to the spirit of the tree, who shared with her a sacred secret.\n\n\"'For countless ages,' the spirit whispered, 'I have held the power to grant the most earnest and heartfelt wishes of those who dare to enter the Dreamwood, but alas, the Enchanted Dreamwood has been all but forgotten by your people. To honor your courage and wisdom, I shall grant you one wish, but with a condition. You must share this secret with someone worthy, who will carry on the legacy of the Enchanted Dreamwood.'\"\n\nThe old woman thought long and hard about what she wanted most in the world. Finally, she spoke.\n\n\"I wish for a child, one who will be a beacon of hope, kindness, and wisdom to all who know her. She will be a bridge between the ordinary and the extraordinary, and through her, the spirit of the Enchanted Dreamwood will live on",
+  "categories": {
+    "kind-hearted": "moral",
+    "warm brown eyes": "physical",
+    "contagious laugh": "physical",
+    "radiant smile": "physical",
+    "troubled": "emotional",
+    "lonely": "emotional",
+    "honest": "moral",
+    "heartache": "emotional",
+    "tender heart": "emotional",
+    "curious": "mental",
+    "determined": "mental",
+    "reverent": "moral",
+    "grateful": "emotional",
+    "awe": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.57",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

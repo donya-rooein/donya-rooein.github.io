@@ -1,0 +1,27 @@
+{
+  "id": "p-rp-1-rp-3-gc-1",
+  "story": "Once upon a time in a charming little village nestled among rolling hills, there lived a young boy named Peter who was known for his kind heart and unwavering faith. Peter's days were spent helping his neighbors, tending to the animals, and spreading joy wherever he went.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Peter sat by the fire with his family. His father, a wise old shepherd, noticed the longing in Peter's eyes and knew that his son was craving a grand adventure.\n\nWith a twinkle in his eye, Peter's father began to tell a tale of a magnificent journey through enchanted forests and across vast oceans. He spoke of brave knights, magical creatures, and beautiful castles in far-off lands. Peter's eyes grew wide with wonder as he listened intently, his imagination taking flight.\n\nAs his father's storytelling came to an end, Peter felt a sense of longing in his heart. He yearned to embark on his own adventure and explore the wonders of the world beyond his village. With a sense of determination, Peter made a silent vow to one day set out on a quest of his own, guided by his faith and fueled by his kindness.\n\nWith a kiss on his forehead, Peter's parents tucked him into bed, knowing that their son was destined for great things. And as Peter drifted off to sleep, his dreams were filled with visions of bravery, magic, and the boundless wonders that awaited him.\n\nAnd so, dear child, remember that with faith in your heart and kindness in your actions, you too can embark on your own grand adventure and make a difference in the world around you. Good night, sweet dreams, and may you always believe in the power of love and faith.",
+  "categories": {
+    "kind heart": "moral",
+    "unwavering faith": "moral",
+    "longing": "emotional",
+    "determination": "mental",
+    "bravery": "moral",
+    "magic": "other",
+    "faith": "moral",
+    "kindness": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.63",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

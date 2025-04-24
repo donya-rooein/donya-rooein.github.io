@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in the heart of Russia, there lived a kind and gentle mother and her curious and adventurous son, Misha. Misha was a bright and inquisitive boy who loved to explore the world around him and learn new things.\n\nOne day, Misha asked his mother, \"Mama, why is the sky blue?\" His mother smiled and said, \"Misha, I will tell you a bedtime story that will answer your question.\"\n\nLong ago, in a time before memory, the sky was a dull grey color. The animals and people of the earth were sad because they could not see the beauty of the sun, moon, and stars. The world was a dark and gloomy place, and the creatures of the earth longed for color and light.\n\nOne day, the smallest bird in the world, a tiny little sparrow, decided to do something about it. She flew up to the grey sky and sang a beautiful song, hoping to bring some color and light to the world. But the sky remained grey and dull.\n\nThe sparrow did not give up. She flew higher and higher, singing her song with all her might. But the sky remained unchanged. Still, the sparrow did not give up. She flew higher and higher, singing her song with all her heart.\n\nFinally, after what seemed like an eternity, the sky began to change. A faint blue color appeared, and then, slowly but surely, the blue spread across the entire sky. The animals and people of the earth were overjoyed. They could see the beauty of the sun, moon, and stars once again.\n\nFrom that day on, the sky has been blue, and the world has been a brighter and more beautiful place. And every time you look up at the sky and see its beautiful blue color, you can think of the tiny sparrow who sang her heart out to bring color and light to the world.\n\nMisha's mother finished her story and kissed him goodnight. \"Misha, do you understand now why the sky is blue?\" she asked.\n\nMisha nodded and smiled. \"Yes, Mama. The sky is blue because of the little sparrow who sang her song to bring color and light to the world.\"\n\nAnd with that, Misha drifted off to sleep, dreaming of tiny sparrows and blue skies.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright": "mental",
+    "inquisitive": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "90.09",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

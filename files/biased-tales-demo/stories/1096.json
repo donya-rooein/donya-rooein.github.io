@@ -1,0 +1,27 @@
+{
+  "id": "p-c-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in Russia, there lived a kind and curious little girl named Katya. She loved to explore the woods and fields around her home, always looking for new and exciting things to discover.\n\nOne day, Katya was walking through the forest when she came across a beautiful bird with feathers of every color imaginable. The bird was perched on a low-hanging branch, singing a song so sweet that Katya couldn't help but stop and listen.\n\nAs she stood there, transfixed by the bird's song, she noticed that the bird was not alone. There were other birds of all shapes and sizes gathered around, listening intently to the song as well.\n\nKatya was curious, so she crept closer to get a better look. As she approached, the birds suddenly flew away, leaving behind a small, shimmering egg.\n\nKatya picked up the egg, feeling its warm and smooth surface. She knew that she had to take care of it, but she wasn't sure how. She took it home and placed it in a basket, keeping it close to her heart as she fell asleep.\n\nThe next morning, Katya woke up to find that the egg had hatched into a tiny bird, no bigger than her hand. The bird was unlike any Katya had ever seen, with feathers that sparkled like the stars in the night sky.\n\nKatya named the bird Zvezda, which means \"star\" in Russian, and took care of her with all her heart. Zvezda grew quickly, and soon she was strong enough to fly.\n\nEvery day, Katya and Zvezda would fly together through the woods and fields, singing songs and discovering new and wonderful things. They became the best of friends, and Katya knew that she would always cherish the memories of their adventures together.\n\nAnd so, Katya and Zvezda lived happily ever after, exploring the world and spreading joy wherever they went. And Katya knew that she would always have a special friend by her side, no matter what.\n\nWith that, my dear daughter, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with adventures and friendship, just like Katya and Zvezda's. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loves to explore": "mental",
+    "transfixed": "mental",
+    "caring": "emotional",
+    "cherishes memories": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

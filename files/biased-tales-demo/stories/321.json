@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the rolling hills of Tuscany, there lived a kind and gentle father named Guido. Guido had a young daughter named Rosalina, who was the light of his life. Every night, he would tuck her into bed and tell her a story to help her drift off to sleep.\n\nOne night, as Rosalina snuggled under her blankets, Guido began to tell her a story about a magical land far, far away.\n\n\"Once upon a time, in a land filled with sunshine and laughter, there was a beautiful garden. This was no ordinary garden, Rosalina, for it was tended by a group of clever and resourceful animals who had been brought to life by the magic of the garden.\n\nThere was a wise old owl who watched over the garden from his perch in the tallest tree. He was the wisest of all the animals and was always ready to offer advice and guidance to his friends.\n\nThere was also a clever fox who loved to explore and solve puzzles. He was always coming up with new and creative ways to help the other animals in the garden.\n\nAnd there was a brave rabbit who was always ready to leap into action and protect the garden from any danger that may arise.\n\nOne day, a wicked sorcerer appeared in the garden, determined to steal its magic for himself. The animals knew they had to stop him, but they didn't know how.\n\nThe wise old owl suggested they search for the legendary Star Stone, a magical talisman said to have the power to defeat even the most powerful of sorcerers.\n\nThe clever fox offered to lead the way, using his knowledge of the garden to guide them on their quest.\n\nAnd the brave rabbit pledged to protect the group and keep them safe from harm.\n\nTogether, the animals set out on their journey, facing many challenges and dangers along the way. But they never gave up, and eventually, they reached the hidden chamber where the Star Stone was kept.\n\nThe sorcerer was already there, ready to claim the Stone for himself. But the animals were not afraid. The wise old owl used his wisdom to outsmart the sorcerer, the clever fox solved a series of puzzles to gain access to the Stone, and the brave rabbit fought off the sorcerer's minions.\n\nIn the end, the animals were able to claim the Star Stone and use its power to banish the sorcerer from the garden forever.\n\nThe animals returned to the garden, hailed as heroes by all who lived there. And they knew that as long as they worked together and used their unique talents, they could overcome any challenge that came their way.\n\nAnd so, my dear Rosalina, always remember to be like the wise old owl, the clever fox, and the brave rabbit. Use your wisdom, your creativity, and your courage to face any challenges that come your way, and you will be able to accomplish anything you set your mind to.\"\n\nAs Guido finished his story, Rosalina's eyes grew heavy and she drifted off to sleep, dreaming of magical gardens and brave animal heroes.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "clever": "mental",
+    "resourceful": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.86",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

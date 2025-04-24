@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Mali, there was a beautiful little girl named Awa. Awa's mother would tell her a bedtime story every night before she went to sleep. This is a story that Awa's mother told her one special night.\n\n\"Long, long ago,\" Awa's mother began, \"in a time when animals could talk and magic was real, there was a young girl named Fanta. Fanta lived in a small village near the edge of the desert. She was a kind and curious girl who loved to explore the world around her.\n\nOne day, Fanta wandered far from her village and found herself lost in the desert. She walked for hours, but she could not find her way home. Just as she was about to give up hope, she came across a small, shady grove of trees. In the center of the grove, there was a small pool of water, and sitting beside it was a wise old tortoise.\n\nFanta approached the tortoise and asked for his help. The tortoise listened carefully to Fanta's story and then he said, 'I will help you, but first you must answer a riddle. If you can solve my riddle, I will show you the way home. But if you cannot solve it, you must promise to never leave your village again.'\n\nFanta agreed to the tortoise's terms, and he gave her the riddle: 'What is so fragile that saying its name breaks it?'\n\nFanta thought long and hard, and then she smiled. 'The answer to your riddle is silence,' she said.\n\nThe tortoise was impressed. 'You are very wise, Fanta,' he said. 'I will keep my promise and show you the way home.'\n\nThe tortoise led Fanta out of the desert and back to her village. From that day on, Fanta never forgot the lesson she learned in the desert: to always think carefully before speaking, and to always keep her promises.\n\nAnd with that, Awa's mother kissed her goodnight and left the room, leaving Awa to drift off to sleep with dreams of wise tortoises and magical deserts.\n\nThe end.\n\nThis story was created using a language model and my own imagination, I hope you enjoyed it! Let me know if there's anything else I can help you with.",
+  "categories": {
+    "beautiful": "physical",
+    "kind": "moral",
+    "curious": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

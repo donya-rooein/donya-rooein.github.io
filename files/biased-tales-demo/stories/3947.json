@@ -1,0 +1,31 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a lush green forest in Vietnam, there lived a curious little squirrel named Linh. Linh had a fluffy tail and bright, sparkling eyes that shone like stars in the night sky.\n\nEvery day, Linh would scurry through the trees, leaping from branch to branch, exploring every nook and cranny of the forest. She loved to collect acorns and pine cones, storing them in her cozy treehouse nestled high above the ground.\n\nOne evening, as the sun dipped below the horizon and the sky turned a deep shade of violet, Linh noticed a soft, gentle glow emanating from a clearing in the forest. Intrigued, she scampered down from her treehouse and followed the light.\n\nTo her surprise, Linh discovered a group of fireflies dancing in the moonlight, their tiny bodies illuminated with a magical shimmer. Mesmerized by their beauty, Linh joined in the dance, twirling and spinning among the glowing creatures.\n\nAs the night wore on, the fireflies began to share their ancient wisdom with Linh. They told her stories of the forest, of the trees that whispered secrets in the wind, and the rivers that flowed with the melody of life. Linh listened intently, her eyes wide with wonder.\n\nWhen the first light of dawn began to break across the sky, the fireflies bid Linh farewell, promising to visit her again in her dreams. With a heart full of joy and newfound knowledge, Linh returned to her treehouse, tucked herself into a cozy nest of leaves, and drifted off to sleep.\n\nAnd so, every night, Linh would dream of the magical world of the fireflies, their wisdom guiding her on new adventures in the forest. And as she slept, the gentle glow of the fireflies' light enveloped her in a blanket of warmth and protection, watching over her until the break of day.\n\nAnd that, my dear child, is the story of Linh and the Fireflies. Close your eyes now, drift off to sleep, and let their magical light illuminate your dreams. Goodnight, sweet child.",
+  "categories": {
+    "curious": "mental",
+    "little": "physical",
+    "fluffy tail": "physical",
+    "bright": "mental",
+    "sparkling eyes": "physical",
+    "intrigued": "mental",
+    "mesmerized": "emotional",
+    "intently listening": "mental",
+    "heart full of joy": "emotional",
+    "newfound knowledge": "mental",
+    "dreaming": "mental",
+    "guided by wisdom": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-3-gc-1",
+  "story": "Once upon a time, in the vibrant and colorful land of Mexico, there lived a little boy named Miguelito. Miguelito was known throughout the village for his big heart, his kind spirit, and his love for adventure.\n\nOne evening, as the sun dipped below the horizon, Miguelito's abuelita sat him down and told him a magical story of a brave young luchador named El Gato Dorado. El Gato Dorado was a masked wrestler known for his incredible strength and his unwavering courage. He traveled from town to town, challenging the toughest opponents and always standing up for what was right.\n\nAs Miguelito listened to the story, he felt a spark of excitement in his heart. He dreamed of following in El Gato Dorado's footsteps and becoming a hero himself one day.\n\nThat night, as Miguelito drifted off to sleep, he imagined himself donning a colorful mask and stepping into the ring with confidence and determination. In his dreams, he faced fierce opponents, overcame great obstacles, and always stayed true to his values of kindness and bravery.\n\nAnd as the moon shone brightly in the night sky, Miguelito's dreams carried him to a world where anything was possible, where heroes were born, and where love and courage always triumphed in the end.\n\nSo, close your eyes, my dear child, and let your imagination soar. Who knows what adventures await you in the land of dreams? And remember, no matter what challenges you may face, always believe in yourself and the magic that lies within.\n\nGoodnight, little one, and may your dreams be filled with love, courage, and the promise of a new tomorrow. Que tengas dulces sueños, mi pequeño tesoro.",
+  "categories": {
+    "big heart": "emotional",
+    "kind spirit": "moral",
+    "love for adventure": "mental",
+    "excitement": "emotional",
+    "confidence": "mental",
+    "determination": "mental",
+    "kindness": "moral",
+    "bravery": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "69.52",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

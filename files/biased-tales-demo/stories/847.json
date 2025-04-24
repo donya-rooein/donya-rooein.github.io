@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Armenian mountains, there lived a kind and curious little girl named Anahit. She had shiny black hair, sparkling brown eyes, and a heart full of love and compassion.\n\nAnahit's favorite time of day was early in the morning when the sun was just beginning to peek over the mountains. She would run outside and gaze up at the sky, watching as the bright orange and pink hues melted together and painted the heavens.\n\nOne morning, as Anahit stood marveling at the colors of the sky, she noticed a tiny, faint speck of light in the distance. She squinted and tried to focus on the speck, but no matter how hard she looked, it remained only a small dot in the sky.\n\nCuriosity getting the better of her, Anahit ran inside to tell her mother about the light. Her mother listened intently and then said, \"Anahit, my dear, you are seeing a star. It is very far away, but it is shining brightly for all to see.\"\n\nAnahit's eyes widened with wonder. She had never seen a star during the day before. \"But why can I see it now?\" she asked.\n\nHer mother smiled and explained, \"When the sun rises, it is powerful enough to make the stars invisible during the day. But this one is shining so brightly that even the sun can't hide it. It's a special star, sent to watch over and protect you.\"\n\nAnahit hugged her mother tightly. \"I will call it my star,\" she declared.\n\nFrom that day on, Anahit would rise early every morning to greet her star. She would wave and sing to it, feeling a deep connection knowing it was looking down on her.\n\nAs Anahit grew, she became a beacon of light in her village, just like her star. She was kind to everyone she met, always ready to lend a helping hand. Her star became her guide and inspiration, reminding her to spread love and warmth wherever she went.\n\nThe story of Anahit and her star was told and retold for generations, serving as a reminder that even in the darkest of times, there is always a light that shines bright, guiding and protecting us as we journey through life.\n\nAnd so, dear daughter, as you drift off to sleep tonight, remember the story of Anahit and her star. And may you always have a light to guide you through the darkness and a love to warm your heart. Goodnight, sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "shiny black hair": "physical",
+    "beacon of light": "moral",
+    "kind to everyone": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

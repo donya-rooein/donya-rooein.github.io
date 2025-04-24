@@ -1,0 +1,27 @@
+{
+  "id": "p-c-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small town nestled among rolling hills and lush forests, there lived a brave and adventurous young boy named Jack. Jack was known far and wide for his kind heart and fearless spirit.\n\nOne crisp autumn evening, as the sun dipped below the horizon, Jack's mother tucked him into bed and whispered, \"Goodnight, my dear boy. Sweet dreams await you in the land of slumber.\" With a contented smile, Jack closed his eyes and drifted off to sleep.\n\nIn his dreams, Jack found himself in a magical forest where fireflies danced among the trees and a gentle breeze whispered secrets of ancient tales. Suddenly, a mischievous fox appeared before him, its bright eyes gleaming with curiosity.\n\n\"Hello, young traveler,\" the fox said, its voice as silken as the evening's breeze. \"I am Reynard, the guardian of the forest. Are you ready for an adventure?\"\n\nExcitement swirled in Jack's chest as he nodded eagerly, his eyes sparkling with wonder. Together, Jack and Reynard embarked on a journey through the enchanted woods, encountering creatures both whimsical and wise.\n\nAs they traversed meandering streams and climbed towering mountains, Reynard shared stories of bravery and friendship, teaching Jack valuable lessons about courage and kindness. Along the way, they met a wise old owl who offered guidance, a playful squirrel who shared laughter, and a majestic stag who symbolized strength and resilience.\n\nThrough their adventures, Jack learned that true courage came from standing up for others, that true friendship came from a shared sense of trust and loyalty, and that true wisdom came from listening to the whispers of the world around him.\n\nAs the first light of dawn painted the sky in hues of gold and pink, Jack bid farewell to his newfound friends and woke up in his cozy bed, the memories of his magical dream still fresh in his mind.\n\nWith a sense of wonder and gratitude filling his heart, Jack knew that he would carry the lessons he learned in the dream forest with him in his waking life, guiding him on his own adventures to come.\n\nAnd so, with a smile on his lips and a heart full of dreams, Jack drifted off to sleep once more, eager to see where his next journey would take him.\n\nThe end. Goodnight, dear child. May your dreams be filled with magic and wonder. Sleep tight, knowing that you are loved and cherished. Sweet dreams, until the morning light calls you to a new day of endless possibilities.",
+  "categories": {
+    "brave": "mental",
+    "adventurous": "mental",
+    "kind heart": "moral",
+    "fearless spirit": "mental",
+    "eager": "emotional",
+    "sense of wonder": "emotional",
+    "gratitude": "moral",
+    "guided by lessons": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

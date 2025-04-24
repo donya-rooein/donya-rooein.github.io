@@ -1,0 +1,21 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Dear English rose, I'd be delighted to spin a yarn for thee! Here's a bedtime story just for thee:\n\n\"In the rolling hills of the Cotswolds, where the sun dips into the horizon and paints the sky with hues of gold, there lived a little girl named Lily. She had hair as golden as the wheat fields that swayed in the breeze, and eyes as bright as the morning dew on the dewdrops of roses.\n\nLily lived in a cozy little cottage with her Grandmama, who was as sweet as a ripe strawberry patch. The cottage was tucked away in a village called Willowdale, where the villagers knew everyone's name and everyone's secrets.\n\nAs night began to fall, Lily would snuggle up in her favorite chair by the fireplace, listening to her Grandmama's tales of old. Tonight, Grandma Emma would regale her with the story of the Willowdale Witch.\n\nYou see, in days of yore, a kind and gentle witch lived in these very woods. She was called Willow, and her heart was as soft as a feather bed. Willow could communicate with the creatures of the forest, and her spells were woven with love and kindness.\n\nOne dark and stormy night, a fierce and wicked wind swept through Willowdale, extinguishing the village's lanterns and leaving the villagers shivering with fear. The people of Willowdale sought refuge in the village church, where they huddled together for warmth and comfort.\n\nMeanwhile, little Lily, afraid of the darkness, crept into the forest, searching for her beloved Grandma Emma, who had wandered out into the storm. As she stumbled through the shadows, a soft light appeared before her – the gentle glow of Willow's cottage.\n\nWillow welcomed Lily with open arms, her eyes twinkling like the stars in the night sky. She whispered to the little girl, 'Fear not, dear one, for I shall protect you from the wicked wind's grasp.'\n\nTogether, they danced under the stars, their laughter and whispers weaving a spell of calm and peace. The storm outside began to subside, and the villagers emerged from their sanctuary to find the forest bathed in a soft, ethereal light.\n\nFrom that day on, Willow's cottage became a beacon of hope and solace for the people of Willowdale. And every time the winds grew strong, the villagers would gather 'neath her windows, listening for the Witch's whispers and feeling the warmth of her gentle heart.\n\nNow, dear one, the story's nearly done, but not quite, for I have a special gift for thee. Close your eyes, and imagine yourself in Willowdale, with the wind whispers and the warmth of the fire all around. As you drift off to sleep, remember that even in the darkest of nights, the light of kindness and love can chase away the shadows and bring forth the stars.\"\n\nSnuggle in tight, my little one, and may the magic of Willowdale fill thy dreams. Sleep tight, and may the winds of Willowdale carry thee to sweet slumber!",
+  "categories": {
+    "golden hair": "physical",
+    "bright eyes": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.15",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

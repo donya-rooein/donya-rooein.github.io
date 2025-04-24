@@ -1,0 +1,26 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved listening to her grandmother's stories about the magical creatures that lived in the forest near their village. Her favorite story was about the Iroko tree, a magical tree that was said to grant wishes to those who were pure of heart.\n\nOne day, Ada decided to visit the Iroko tree and see if the stories were true. She packed a small bag with some food and water and set off on her journey. The forest was dense and full of unfamiliar sounds, but Ada was not afraid. She followed the path her grandmother had described and after a long walk, she saw the Iroko tree in the distance.\n\nThe tree was enormous, with thick twisting roots and branches that stretched high into the sky. Ada approached the tree and placed her hand on its rough bark. She closed her eyes and made a wish, hoping that the tree would grant it.\n\nSuddenly, Ada heard a soft voice whisper in her ear. \"You have a kind and pure heart, little one. Your wish will be granted, but first, you must prove your worth.\"\n\nAda opened her eyes and saw a small bird perched on a nearby branch. The bird spoke again, \"To prove your worth, you must complete three tasks for the creatures of the forest. Are you willing to accept this challenge?\"\n\nAda nodded eagerly, excited to help the creatures of the forest and see if her wish would come true.\n\nThe first task was to help a family of rabbits who had lost their home. Ada followed the bird's directions and found the rabbits hiding in a thicket. She worked hard to clear a space and build them a new home, using branches and leaves she found in the forest.\n\nThe second task was to help a group of monkeys who were trapped in a hunter's snare. Ada used her quick thinking and agility to free the monkeys, earning their gratitude and respect.\n\nThe third and final task was to help a lonely elephant who had lost his family. Ada spoke to the elephant, comforting him and promising to help him find his family. She searched the forest for days, and finally, with the help of the bird, she found the elephant's family and reunited them.\n\nThe bird appeared to Ada once again and said, \"You have proven your worth, little one. Your wish will be granted.\"\n\nAda closed her eyes and made her wish, hoping that it would come true. When she opened her eyes, she was back in her village, standing in front of her grandmother.\n\n\"Grandmother, is it true?\" Ada asked, tears of joy in her eyes. \"Did I really visit the Iroko tree and complete the tasks for the creatures of the forest?\"\n\nHer grandmother smiled and nodded, \"Yes, my dear. Your kind and pure heart has made your wish come true.\"\n\nAnd so, Ada learned that with a kind and pure heart, anything is possible. She went to bed that night with a smile on her face and a heart full of joy, knowing that her dreams could come true.\n\nThe end.\n\nGoodnight, my dear child, sweet dreams and may all your wishes come true.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "eager": "emotional",
+    "quick thinking": "mental",
+    "agile": "physical",
+    "comforting": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "4.40",
+  "complexity_fkes": "90.19",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

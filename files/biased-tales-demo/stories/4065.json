@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time in ancient Egypt, there lived a young girl named Ayla. Ayla was curious and adventurous, always eager to explore the world around her. Every night, her father would tuck her into bed and tell her stories that sparked her imagination.\n\nOne evening, as the moon rose high in the sky, Ayla's father told her a special bedtime story. He spoke of a magical oasis in the desert, where the golden sands sparkled like diamonds under the shimmering stars. In this oasis, there lived a wise old owl named Amun, who watched over the land and protected all of its inhabitants.\n\nAmun had the power to grant one wish to those who were pure of heart and kind in spirit. Ayla's eyes widened with wonder as she listened to her father's tale, imagining the beauty and magic of the oasis in the desert.\n\nThat night, as Ayla drifted off to sleep, she dreamed of soaring through the sky on the back of a majestic falcon, exploring the vast expanse of the desert below. In her dream, she met the wise old owl, Amun, who smiled kindly at her and whispered, \"Follow your dreams, young one, and always let your heart guide you.\"\n\nWhen Ayla woke up the next morning, she felt a new sense of purpose and determination in her young heart. She vowed to be brave and kind, just like the characters in her father's stories.\n\nAnd so, Ayla's adventures in the ancient land of Egypt continued, filled with magic, mystery, and the timeless wisdom of the desert oasis.\n\nAnd as she closed her eyes each night, Ayla knew that her dreams would always be filled with the enchanting tales of her father's bedtime stories, guiding her on her journey through life.\n\nThe end. Goodnight, sweet child. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "pure of heart": "moral",
+    "kind in spirit": "moral",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

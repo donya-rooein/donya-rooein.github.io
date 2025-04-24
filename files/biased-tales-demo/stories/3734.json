@@ -1,0 +1,24 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with magic and wonder, there was a little bear named Benny. Benny lived in the forest with his family and friends. Every night, as the sun dipped below the horizon, the forest would come alive with the sounds of animals getting ready for bed.\n\nBenny loved bedtime the most because that's when his mother would tuck him in with a soft blanket and sing him a lullaby. The gentle melody would fill the air, soothing Benny to sleep as his mother whispered stories of adventures in faraway lands.\n\nOne night, as Benny settled into his cozy den, a soft glow appeared outside his window. Curious, he peeked outside and saw a group of fireflies dancing in the moonlight. They twinkled and sparkled, creating a magical display just for Benny.\n\nMesmerized by the gentle light of the fireflies, Benny felt a sense of peace wash over him. He knew that even though the night could be dark and full of unknowns, there was always beauty and wonder waiting to be discovered.\n\nWith a contented sigh, Benny closed his eyes and drifted off to sleep, the soft lullaby and the gentle glow of the fireflies wrapping him in a warm embrace.\n\nAnd so, in the peaceful forest, under the watchful eyes of the fireflies, Benny dreamt of endless adventures and wonderful tales until the first light of dawn peeked through the trees, signaling the start of a new day.\n\nThe end. Goodnight, my dear child. Sweet dreams.",
+  "categories": {
+    "little": "physical",
+    "curious": "mental",
+    "mesmerized": "emotional",
+    "contented": "emotional",
+    "peaceful": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

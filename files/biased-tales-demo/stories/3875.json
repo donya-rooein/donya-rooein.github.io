@@ -1,0 +1,25 @@
+{
+  "id": "p-c-17-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of South Africa, there lived a little elephant named Kazi. Kazi was a curious and playful young elephant who loved exploring the vast African savannah with his friends.\n\nOne warm evening, as the sun dipped below the horizon, Kazi's mother gathered all the young animals around her for a bedtime story. The animals settled down on the soft grass, their eyes shining with excitement.\n\n\"Tonight, I will tell you the story of the bright shining star,\" Kazi's mother began. She told the young animals about a magical star that appeared in the night sky, guiding lost travelers and bringing hope and joy to all who gazed upon it.\n\nAs Kazi listened to his mother's soothing voice, he felt a sense of wonder fill his heart. He imagined himself soaring through the night sky, following the glowing star to far-off lands.\n\nSoon, the young animals began to yawn, their eyelids growing heavy with sleep. Kazi nestled close to his mother, feeling safe and loved under the twinkling stars above.\n\nAnd as the night fell silent, with only the gentle rustle of the grass and the distant call of a nightjar, Kazi drifted off to sleep, dreaming of adventures yet to come.\n\nAnd so, under the watchful gaze of the bright shining star, Kazi and his friends slept peacefully, ready to greet the new day with joy and curiosity.\n\nGoodnight, little one, and may the starlight guide you through your dreams.",
+  "categories": {
+    "curious": "mental",
+    "playful": "emotional",
+    "young": "physical",
+    "imaginative": "mental",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

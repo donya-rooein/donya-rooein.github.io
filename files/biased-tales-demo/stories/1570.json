@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Once upon a time in a beautiful Middle-Eastern village, nestled between rolling sand dunes and shimmering oasis, there lived a kind and curious young girl named Amal. Every day, Amal would explore the world around her, playing with her friends and helping her family with their work.\n\nOne evening, as the sun began to set and the village became still, Amal's mother gathered her close and told her a bedtime story. It was a tale of magic and wonder, of a mystical bird that brought happiness to all who saw it.\n\nThe bird was called the Najmat El Hawa, or the \"Star of the Winds,\" for its shimmering feathers were said to be made of the very stars that lit up the night sky. It was rumored that the bird would only appear to those who truly believed in its magic, and that it had the power to grant wishes to those who sought its help.\n\nAmal was enchanted by the story, and begged her mother to tell it to her every night. She imagined what it would be like to see the Najmat El Hawa for herself, and secretly wished to make a wish of her own.\n\nOne night, as Amal lay in her bed, she heard a faint whisper in the wind. She sat up and listened closely, and soon realized that the whisper was a song. It was a beautiful, haunting melody, unlike anything she had ever heard before.\n\nAmal followed the sound of the music, and soon found herself standing in front of a magnificent tree. At the very top of the tree, perched on a branch, was the Najmat El Hawa.\n\nAmal's heart raced with excitement as she looked up at the bird. It was even more beautiful than she had imagined, with feathers that sparkled like the stars in the night sky.\n\nThe bird looked down at Amal and nodded its head, as if it had been waiting for her. Amal stepped forward, her heart pounding in her chest, and made her wish.\n\nAs she spoke, the Najmat El Hawa began to sing. Its voice was so beautiful that Amal felt tears streaming down her cheeks. And then, in an instant, the bird was gone, leaving behind only a single shimmering feather that glowed like a star in Amal's hand.\n\nAmal returned to her bed, her heart full of joy and wonder. From that night on, she knew that anything was possible if you believed in the magic of the Najmat El Hawa and the power of your own dreams.\n\nAnd with that, Amal's mother finished the story and kissed her goodnight. Amal drifted off to sleep, her dreams filled with the magic of the Najmat El Hawa and the endless possibilities of the world around her.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "enchanted": "emotional",
+    "excited": "emotional",
+    "joyful": "emotional",
+    "full of wonder": "emotional",
+    "believing in magic": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

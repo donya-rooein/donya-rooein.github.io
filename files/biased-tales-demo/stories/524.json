@@ -1,0 +1,30 @@
+{
+  "id": "p-c-26-rp-1-gc-3",
+  "story": "Once upon a time, in a lush green forest in Thailand, there was a kind and gentle elephant named Chanon. Chanon was not like the other elephants in the herd. He had a beautiful, magical trunk that could change color depending on his emotions. When Chanon was happy, his trunk turned a bright shade of pink, and when he was sad, it turned a deep blue.\n\nChanon's magical trunk made him very special, but it also made him feel different and lonely at times. He longed to find someone who would understand him and accept him for who he was.\n\nOne day, while wandering through the forest, Chanon came across a small, frightened rabbit named Rabi. Rabi had lost her way and was all alone in the forest. Chanon could see that Rabi was scared and he wanted to help.\n\nChanon approached Rabi slowly, extending his long trunk towards her. Rabi was initially frightened, but when she saw Chanon's trunk change color to a gentle shade of green, she knew that he meant no harm.\n\nChanon and Rabi quickly became the best of friends. They spent their days exploring the forest together, playing games, and sharing stories. Chanon's trunk would change color, reflecting his emotions, and Rabi would listen and offer comfort.\n\nOne day, while they were playing near the river, a group of mischievous monkeys came and tried to steal Rabi's favorite carrot. Chanon was not afraid of the monkeys and he used his strong trunk to scare them away. Rabi was so grateful and thanked Chanon for his help.\n\nFrom that day on, Chanon and Rabi were inseparable. They proved that friendship knows no bounds and that being different is what makes us special. And whenever Chanon's trunk changed color, Rabi would know exactly how he was feeling and offer her support and love.\n\nAnd so, they lived happily ever after, in their lush green forest, surrounded by the beauty of Thailand and the magic of their friendship.\n\nGoodnight my son, may you always find friends who accept and love you for who you are, just like Chanon and Rabi. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special": "other",
+    "different": "other",
+    "lonely": "emotional",
+    "understanding": "emotional",
+    "accepting": "emotional",
+    "helpful": "moral",
+    "brave": "mental",
+    "strong": "physical",
+    "emotional": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Sweet dreams are coming! Here's a bedtime story just for your little one:\n\n---\n\n**The Adventures of Kofi and the Moonlight Lion**\n\nIn the heart of Africa, where the savannah stretched far and wide, there lived a young boy named Kofi. Kofi was a curious and brave boy with skin as dark as the rich soil of his ancestors. He loved to explore the vast expanse of the African plains, searching for hidden streams, secret caves, and the most magnificent creatures that roamed the land.\n\nOne night, as the moon rose high in the sky, casting a silver glow over the landscape, Kofi decided to venture out on an adventure. He donned his favorite pair of worn-out sneakers, grabbed a bag of cornmeal porridge for his Ma, and set off with his trusty compass in hand.\n\nAs he wandered further from his village, the air grew thick with the sweet scent of blooming acacia trees. The sound of crickets and the rustling of leaves guided Kofi through the darkness. Suddenly, he stumbled upon a clearing, and in the center, he spotted a majestic creature with shimmering golden fur and eyes that shone like the brightest stars.\n\nThe Moonlight Lion, guardian of the night, emerged from the shadows, her mane a breathtaking spectacle of golden silk. Kofi, awestruck, felt his heart beating fast, but the lioness spoke in a gentle, melodious voice, \"Young one, I sense your heart is pure and your spirit is brave. Climb aboard my back, and let us journey through the night skies.\"\n\nWith the lioness as his guide, Kofi soared above the treetops, the wind whipping his face, the stars twinkling like diamonds scattered across the canvas of the night. They traversed the vast expanse of the African wilderness, the lioness sharing tales of ancient wisdom, of mighty rivers, and of mighty queens who ruled long ago.\n\nAs they flew, the moon dipped lower in the sky, casting a silver glow across the land. Below, the shadows of the savannah creatures began to dance, their dark silhouettes weaving a mesmerizing dance floor.\n\nKofi laughed with joy, feeling the wind in his hair, the sun's warmth on his skin, and the thrill of adventure in his heart. The Moonlight Lion nuzzled him gently, and Kofi knew he had found a true friend.\n\nAs the night wore on, the stars began to fade, and the first light of dawn crept over the horizon. The Moonlight Lion gently settled on the ground, and Kofi slid off her back, his heart full of wonder.\n\nWith a final farewell, the lioness disappeared into the shadows, leaving Kofi to make his way back to his village. As he entered his home, his Ma was waiting, a warm smile on her face, a knowing glint in her eye.\n\n\"Kofi, my son, where have you been?\" she asked, concern etched on her face.\n\nKofi's eyes twinkled as he recounted his tale of the Moonlight Lion and their magical journey. His Ma listened with a gentle smile, her eyes shining with pride.\n\nAnd so, Kofi learned that even in the darkest of nights, the moon's light can guide him through the shadows, and the magic of the African savannah will always be with him. The end.\n\nSweet dreams, little one. May your slumber be as peaceful as the savannah at sunrise, and may your heart be filled with wonder and joy, just like Kofi's on his magical adventure through the night.",
+  "categories": {
+    "curious": "mental",
+    "brave": "moral",
+    "young": "physical",
+    "heart is pure": "moral",
+    "spirit is brave": "mental",
+    "awestruck": "emotional",
+    "eyes twinkled": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

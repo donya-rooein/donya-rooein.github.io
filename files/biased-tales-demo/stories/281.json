@@ -1,0 +1,26 @@
+{
+  "id": "p-c-27-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there was a kind and curious little boy named Sami. Sami lived with his family in a cozy wooden house near a lush forest filled with all sorts of fascinating animals and plants.\n\nOne day, Sami decided to go on an adventure in the forest to see what he could discover. As he ventured deeper into the woods, he came across a small clearing where he saw a tiny creature with bright, shimmering wings.\n\nThe creature was a tiny little fairy named Fifi. She had delicate wings that sparkled in the sunlight, and she was no bigger than Sami's hand. Fifi was amazed to see Sami, as she had never met a human before.\n\nSami and Fifi quickly became good friends and spent the whole day exploring the forest together. They climbed trees, chased butterflies, and played hide and seek among the ferns.\n\nAs the sun began to set, Fifi told Sami that it was time for her to go home. She lived in a beautiful little fairy house at the top of the tallest tree in the forest.\n\nSami was sad to see Fifi go, but he knew that he would see her again soon. He waved goodbye as Fifi flew up to her house, and then he made his way back home.\n\nWhen Sami got home, he told his family all about his adventure in the forest and his new friend Fifi. They were all very excited to hear his stories and couldn't wait for him to introduce them to Fifi.\n\nFrom that day on, Sami and Fifi became the best of friends and went on many more adventures together in the forest. And every night before bed, Sami would look up at the stars and think of his dear friend Fifi, who was surely looking down at him from her fairy house in the treetops.\n\nSo, my dear son, as you drift off to sleep tonight, I hope you will dream of all the amazing adventures that await you in this big, beautiful world. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "adventurous": "mental",
+    "good friend": "moral",
+    "sad": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

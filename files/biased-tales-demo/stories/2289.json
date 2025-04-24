@@ -1,0 +1,27 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "My dear young one, gather 'round and listen closely, as I spin a tale of wonder and magic, told in the traditional style of the Afghan people.\n\nIn the land of the three rivers, where the sun dips into the Oxus, there lived a small village nestled among the ancient walnut trees. The villagers called it Khwaja Sabz, a place of great beauty and kind hearts.\n\nIn this village, there lived a young boy named Abdul, with eyes as bright as the morning dew and a heart full of curiosity. Abdul loved to explore the rolling hills and valleys, discovering secrets hidden beneath the crimson soil. He would often wander into the nearby forest, where the trees whispered ancient stories to the wind.\n\nOne day, while lost in the woods, Abdul stumbled upon a hidden spring, its crystal clear waters bubbling up from the earth. As he bent to take a drink, the sun burst through the leaves, casting a beam of light upon the water. And in that moment, Abdul felt a strange tingling sensation, as if the spring was imparting a secret to him alone.\n\nAs he walked back to the village, Abdul noticed that his boots were glowing with a soft, golden light. The villagers, who had grown to love and respect Abdul's adventurous spirit, saw the glow and whispered among themselves, \"Ah, Abdul has been blessed by the spirits of the land!\"\n\nFrom that day on, Abdul's feet led him on grand journeys across the land, taking him to hidden valleys, ancient ruins, and mystical mountains. Wherever he walked, the golden light would guide him, revealing hidden paths and hidden truths.\n\nAs night fell, Abdul would return to the village, sharing tales of his adventures with his friends and family. And though they would marvel at his stories, they would also remind him of his responsibility to use his gifts wisely, for the good of all the people.\n\nThis, my child, is the story of Abdul, the blessed one, whose heart remains filled with wonder and whose feet continue to carry him on wondrous journeys. May you, too, have a sense of wonder and adventure in your own life, and may your path be lit with the guidance of the sacred spring.\n\nNow, go to sleep, my young one, and may your dreams be filled with the whispers of the ancient trees and the secrets of the hidden spring. May your heart stay filled with the magic of the world, and may you always remember the story of Abdul, the blessed one.\n\nGoodnight, my child. May the blessings of the land be upon you.",
+  "categories": {
+    "young": "physical",
+    "bright-eyed": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "respected": "moral",
+    "blessed": "other",
+    "responsible": "moral",
+    "filled with wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

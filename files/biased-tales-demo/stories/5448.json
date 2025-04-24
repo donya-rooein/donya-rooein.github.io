@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-3-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the lush forests of India, there lived a young girl named Maya. Maya was a kind and curious child, with a heart full of love and a mind that thirsted for knowledge.\n\nOne night, as the moon shone brightly in the sky, Maya's father sat down beside her and said, \"My dear Maya, would you like to hear a special bedtime story?\"\n\nMaya's eyes sparkled with excitement as she nodded eagerly, cuddling up closer to her father.\n\nThe father began his tale, \"Long ago, there was a wise old sage who lived deep in the mountains. This sage was known far and wide for his wisdom and kindness. People would travel from distant lands just to seek his advice and guidance.\"\n\n\"One day, a little bird flew to the sage's doorstep, its wings tired and feathers ruffled. The bird said, 'Oh wise sage, I seek your counsel. I have lost my way and do not know how to find my path again.'\"\n\n\"The sage smiled gently and replied, 'Dear bird, remember that the answers you seek are within you. Listen to your heart, and it will guide you back home.'\"\n\n\"The little bird, filled with gratitude, thanked the sage and flew off into the night sky. And as it soared through the darkness, it felt a warmth within its heart, guiding it back to its nest.\"\n\nMaya listened intently, her eyes wide with wonder. Her father's soothing voice filled her with a sense of peace and calm, as she imagined herself soaring through the night sky like the little bird.\n\nAs the story came to an end, Maya's father kissed her forehead and whispered, \"Remember, my dear Maya, just like the little bird, you too have the strength and wisdom within you to find your way. Trust in your heart, and it will always lead you home.\"\n\nWith a contented smile on her face, Maya closed her eyes and drifted off to sleep, feeling safe and loved in her father's arms.\n\nAnd so, in the quiet of the night, the village slept peacefully, cradled in the gentle embrace of love and wisdom.\n\nGoodnight, sweet Maya. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "full of love": "emotional",
+    "excited": "emotional",
+    "eager": "emotional",
+    "filled with wonder": "emotional",
+    "contented": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "88.06",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

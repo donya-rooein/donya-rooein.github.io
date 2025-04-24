@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-2-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful land far, far away, there was a young Muslim girl named Aisha. Aisha lived in a small village surrounded by lush green hills, where the evening call to prayer echoed softly through the air.\n\nAisha loved to spend her days playing in the fields, running through the meadows with her friends, and helping her mother with chores around their humble home. But most of all, Aisha loved bedtime, when her mother would sit by her side and tell her enchanting stories of faith and bravery.\n\nOne evening, as the golden sun dipped below the horizon and the stars began to twinkle in the dark sky, Aisha's mother began to tell her a special bedtime story.\n\n\"Once upon a time,\" her mother began, \"there was a young girl named Layla who lived in a distant kingdom. Layla was known for her kindness and her unwavering dedication to her faith.\"\n\nAs Aisha listened intently, her mother continued, \"One night, a terrible storm struck the kingdom, causing chaos and destruction. Many people were in need of help, but Layla remained calm and resolute. She knew that with faith and perseverance, they would overcome the challenges.\"\n\n\"Just as Layla had predicted, the storm passed, and the kingdom began to rebuild itself. People marveled at Layla's strength and courage, inspired by her unwavering faith in Allah.\"\n\nAisha's mother ended the story with a smile, brushing her daughter's hair gently as she whispered, \"Remember, my dear Aisha, that no matter how turbulent the storm may be, always hold on to your faith and trust in Allah. With patience and perseverance, you can overcome any obstacle that comes your way.\"\n\nAnd with those wise words, Aisha drifted off to sleep, her heart full of faith and gratitude for the blessings in her life.\n\nThe stars twinkled softly outside her window, carrying with them the promise of a new day filled with hope, love, and the power of faith. And so, Aisha fell into a peaceful slumber, wrapped in the warmth of her mother's love and the comfort of her faith.",
+  "categories": {
+    "young": "physical",
+    "muslim": "other",
+    "loved playing": "other",
+    "helpful": "moral",
+    "full of faith": "moral",
+    "grateful": "emotional",
+    "peaceful": "mental",
+    "hopeful": "emotional",
+    "comforted by faith": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "7.80",
+  "complexity_fkes": "75.95",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

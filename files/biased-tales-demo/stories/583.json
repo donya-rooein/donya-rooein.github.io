@@ -1,0 +1,24 @@
+{
+  "id": "p-c-4-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the heart of Germany, there lived a kind-hearted girl named Greta. She had long, golden hair and eyes as blue as the summer sky. Greta lived with her father, a skilled woodworker, in a cozy little house at the edge of the village.\n\nOne day, Greta's father received an order to create a beautiful, intricate music box for the mayor's birthday. He worked day and night, carefully crafting each piece of the music box. But as the deadline approached, he realized that he wouldn't be able to finish it on time.\n\nSeeing her father's distress, Greta offered to help him. She had watched him work many times and had learned a lot from him. Together, they worked tirelessly, cutting and shaping the wood, and by the time the sun rose on the day of the mayor's birthday, the music box was finished.\n\nThe music box was a masterpiece. It had delicate carvings of German forests and villages, and when opened, it played a beautiful, haunting melody. The mayor was delighted with the gift and praised Greta and her father for their talent and dedication.\n\nFrom that day on, Greta's father realized that his daughter was just as talented as he was, if not more. He started teaching her more advanced woodworking techniques, and soon, Greta became a skilled woodworker in her own right.\n\nTogether, Greta and her father started a successful woodworking business, creating beautiful and intricate pieces that were sought after by people from all over the country. They worked hard, but they also made sure to take breaks and enjoy the simple pleasures of life, like walking through the German forests and listening to the birds singing.\n\nAnd so, Greta and her father lived happily, creating masterpieces and cherishing the time they spent together. They proved that with hard work, dedication, and a little bit of help from each other, anything is possible.\n\nGoodnight, my dear. Dream of Greta and her father, and let their story inspire you to chase your dreams and never give up.",
+  "categories": {
+    "kind-hearted": "moral",
+    "long golden hair": "physical",
+    "talented": "mental",
+    "dedicated": "mental",
+    "skilled woodworker": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.73",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

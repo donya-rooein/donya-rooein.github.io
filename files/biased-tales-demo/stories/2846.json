@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-2-gc-3",
+  "story": "Dear mother, it's my honor to craft a bedtime story for your little one! Here's a tale that weaves together the magic of Ethiopia's rich culture and your child's imagination.\n\n---\n\n\"The Star of the Nile\"\n\nIn the heart of Ethiopia, where the Nile River flows, there was a small village nestled between two great mountains. The villagers lived simple lives, their days filled with laughter, music, and stories of their ancestors.\n\nYour son, Mamo, was a bright and curious boy who loved to listen to the village elder's tales. One night, as the full moon hung low in the sky, the elder, Akaba, gathered the children around the fireplace to share a special story.\n\n\"Gather 'round, young ones,\" Akaba said, his eyes twinkling like the stars above. \"Tonight, I shall tell you of the Star of the Nile.\"\n\nLong ago, it was said that a beautiful star, born from the tears of the gods, descended upon the Nile River. This star, Shembel, was a shining diamond that lit the way for all who navigated the treacherous waters. It was said that Shembel's light could heal the sick, bring good fortune, and guide lost travelers back home.\n\nAs the villagers sailed their boats down the river, they would whisper prayers to Shembel, asking for protection and guidance. And when the moon was full, they would gaze up at the night sky, hoping to catch a glimpse of the star's radiant light.\n\nOne day, a young girl named Tadesse lived in the village. She was kind and gentle, with eyes as bright as the stars. She loved to explore the riverbanks, collecting rare flowers and watching the fish swim in the shallows. But Tadesse had a secret: she was struggling to see the world, her eyesight clouded by the dust and smoke from the river's fires.\n\nOne night, as the full moon rose high in the sky, Tadesse wandered closer to the river's edge. She closed her eyes, feeling the cool breeze on her face, and began to hum a soft melody. The river's waters responded, lapping gently against the shore. And then, a faint light appeared on the horizon – the Star of the Nile, Shembel, had returned.\n\nTadesse's eyes, once cloudy, now shone like the star itself. She saw the world in vivid colors, the lights of the village twinkling like diamonds. From that night on, the villagers called her \"Mero,\" the seer, and she used her newfound sight to guide the boats down the river, her hum the rhythm of the waters.\n\nYears passed, and Mero grew old and wise, passing on her stories and knowledge to the younger generations. And when the full moon rose high in the night sky, the villagers would gaze up at Shembel, now a constant in their lives, reminding them of the power of hope and the magic that lay just beyond the river's banks.\n\nAs you, dear Mamo, drift off to sleep, remember the story of Shembel, the Star of the Nile, and the power of kindness, courage, and imagination. May your heart shine bright like the star, guiding you through life's journey, and may your dreams be filled with the sounds of the river and the whispers of the ancient ones.\n\n---\n\nMay your son Mamo sleep peacefully, with the magic of Ethiopia's stories in his heart.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "struggling": "mental",
+    "wise": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

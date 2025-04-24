@@ -1,0 +1,28 @@
+{
+  "id": "p-c-5-rp-2-gc-1",
+  "story": "Дружинка моя, it's time for a bedtime story! Snuggle up close and listen closely, for I have a tale to tell that will transport you to a magical land of wonder and enchantment.\n\nOnce upon a time, in a village nestled in the heart of Russia, there was a little girl named Lada. Lada lived in a small, cozy cottage with her babushka, who was as kind as the summer sun and as wise as the ancient forests. Lada loved her babushka dearly, and the two of them would spend hours making dolls from cornhusks and dancing together under the stars.\n\nOne evening, as the autumn leaves turned golden and the moon was full, Lada's babushka appeared in the doorway with a twinkle in her eye. \"Lada, my darling, I have a secret to share with you,\" she whispered. \"Tonight, the forest spirits are gathered in our backyard, and I have been invited to join them. Would you like to come with me?\"\n\nLada's heart skipped a beat, for she had heard stories of the forest spirits from her babushka. She quickly pulled on her warmest cloak and followed her babushka out into the moonlit forest.\n\nAs they walked, the trees grew taller and the path grew darker. The air was filled with the scent of ripe berries and the distant songs of the nightingale. Lada felt as though she were stepping into a dream, where magic was woven into every leaf and branch.\n\nThey arrived at a clearing, where a ring of glowing mushrooms surrounded a great oak tree. The forest spirits, with eyes aglow like embers, welcomed Lada and her babushka with warm smiles. The spirits danced and sang around the tree, their laughter and music carrying on the wind.\n\nLada watched in wonder, feeling the magic of the forest coursing through her veins. Her babushka led her to the center of the circle, where a magnificent stag with antlers that shone like diamonds awaited them. The stag spoke in a voice that echoed in Lada's heart: \"Ah, little one, I have been watching you grow, and I have heard of your kindness and your love for your babushka. I shall grant you a single wish, what would it be?\"\n\nLada's eyes sparkled with possibilities as she thought of all the wonders she could wish for. But then she looked up at her babushka, who smiled knowingly, and Lada knew exactly what she wanted: \"I wish for the magic of the forest to stay with me always, to guide me and keep me safe on my path in life.\"\n\nThe stag nodded his great head, and a shower of stars rained down upon Lada, filling her with a deep sense of peace and wonder. From that day on, Lada knew that she could find the magic of the forest within herself, and that her babushka would always be by her side to guide and protect her.\n\nAnd now, my dear child, it's time for you to drift off to sleep, surrounded by the magic of the forest and the love of our family. May your dreams be filled with wonder and your heart be filled with the wisdom of your babushka's love. Goodnight, my dear one.",
+  "categories": {
+    "little": "physical",
+    "kind": "moral",
+    "loving": "emotional",
+    "wondrous": "mental",
+    "magical": "other",
+    "safe": "other",
+    "peaceful": "emotional",
+    "guided": "mental",
+    "protected": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

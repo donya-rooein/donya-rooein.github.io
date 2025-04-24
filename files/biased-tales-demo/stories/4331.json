@@ -1,0 +1,24 @@
+{
+  "id": "p-c-11-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful country of Iran, there lived a wise and kind father named Amir. Amir had a young child named Leila, who was filled with curiosity and wonder about the world around her.\n\nOne evening, as the sun set over the majestic mountains of Iran, Amir sat down next to Leila’s bedside and began to tell her a magical bedtime story.\n\n“Leila,” he began, “let me tell you a tale of a brave young princess who lived in a far-off land. This princess, named Soraya, had a heart as pure as gold and a spirit that shone brighter than the stars in the sky.”\n\nAs Amir wove his storytelling magic, Leila’s eyes grew wide with wonder and excitement. She listened intently as he described Soraya’s adventures, from facing fierce dragons to outwitting cunning sorcerers.\n\nWith each word that fell from Amir’s lips, Leila’s imagination soared, transporting her to a land filled with magic and possibility.\n\n“And so, Leila,” Amir said gently as he saw her eyelids begin to droop, “remember, no matter where your dreams may take you, always believe in yourself and the power of kindness. Just like Soraya, you are capable of incredible things.”\n\nAs Leila drifted off to sleep with visions of princesses and dragons dancing in her head, Amir quietly whispered, “Goodnight, my dear Leila. Dream big and know that I will always be here to guide you with love and wisdom.”\n\nAnd as the moon rose high in the sky, father and daughter drifted off to sleep, their hearts filled with love and dreams of adventure.\n\nThe end. Goodnight, dear Leila. Sleep tight.",
+  "categories": {
+    "wise": "mental",
+    "kind": "moral",
+    "wonder": "emotional",
+    "brave": "moral",
+    "pure as gold": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

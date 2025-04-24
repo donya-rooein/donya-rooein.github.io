@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-3-gc-1",
+  "story": "Once upon a time in the beautiful land of Ethiopia, there lived a young boy named Abebe. Abebe was known throughout the village for his kind heart and adventurous spirit. He loved to explore the lush green mountains and sparkling rivers that surrounded his home.\n\nOne day, as Abebe was walking through the forest, he heard a soft melody coming from a nearby tree. Curious, he followed the sound and discovered a family of birds singing together in perfect harmony. Enchanted by their sweet voices, Abebe sat down to listen, feeling at peace in the midst of nature's symphony.\n\nThe birds noticed Abebe listening and invited him to join them in their song. Although he was shy at first, Abebe soon found his voice and sang with the birds, filling the forest with joy and laughter. The sun began to set, casting a golden glow over the treetops as they sang together until the stars appeared in the night sky.\n\nAs the night grew darker, the birds told Abebe it was time to return home. They thanked him for sharing in their music and bestowed a special gift upon him - a feather from each of their wings, as a token of their friendship.\n\nAbebe treasured the feathers and returned home, feeling grateful for the magical evening he had shared with his feathered friends. As he drifted off to sleep, he thought about the beauty of nature and the wonder of friendship, knowing that wherever he went, he would always carry a piece of the forest with him.\n\nAnd so, under the watchful gaze of the moon and the twinkling stars, Abebe fell asleep, dreaming of the many adventures that awaited him in the land of Ethiopia.\n\nThe end. Goodnight, my dear child. May your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "curious": "mental",
+    "shy": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

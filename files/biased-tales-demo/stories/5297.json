@@ -1,0 +1,29 @@
+{
+  "id": "p-rp-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled among the rolling hills, there lived a young boy named Avi. Avi was a kind and curious child, always eager to learn and help others in any way he could. He was loved by all in the village for his gentle nature and warm smile.\n\nOne evening, as the sun set over the horizon and the stars began to twinkle in the sky, Avi's grandmother called him over to sit by the fireplace. She began to tell him a tale of a magical journey that took place long ago, a story that had been passed down through generations of their family.\n\n\"Avi,\" his grandmother began, \"this is the story of a brave and wise king who faced many trials and challenges, but through his faith and perseverance, he overcame them all. He always remembered to be kind and generous to others, even in the face of adversity.\"\n\nAs Avi listened intently, he felt a sense of wonder and awe wash over him. He imagined himself walking alongside the king, facing challenges and learning valuable lessons along the way. His grandmother's words filled him with courage and hope, and he knew that he too could be brave and kind like the king in the story.\n\nWith a heart filled with gratitude and love, Avi bid his grandmother goodnight and drifted off to sleep, dreaming of the magical journey and the lessons he had learned. And as he slept, he knew that he would always carry the wisdom of the story in his heart, guiding him on his own adventures in life.\n\nAnd so, dear child, remember to be kind, brave, and always have faith, just like Avi and the wise king in the story. Goodnight, sweet dreams, and may you always be guided by the light of your ancestors' stories. Sleep well, knowing that you are loved and cherished beyond measure. Goodnight, my dear child.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "gentle nature": "emotional",
+    "warm smile": "physical",
+    "brave": "mental",
+    "filled with courage": "mental",
+    "filled with hope": "emotional",
+    "grateful": "emotional",
+    "loving": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

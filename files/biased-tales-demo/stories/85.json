@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Russia, there was a kind and gentle girl named Katya. She lived with her mother and father in a cozy log cabin nestled in the woods.\n\nKatya loved to explore the forest and spend time with the animals that lived there. She would often come home with her pockets full of wildflowers and her cheeks flushed from the fresh air.\n\nOne day, as Katya was wandering through the woods, she came across a small, shivering fox. The fox was soaked from the rain and looked very cold and uncomfortable.\n\nKatya knew what she had to do. She carefully picked up the fox and brought it home with her. She dried the fox off with a warm towel and gave it some food to eat.\n\nThe fox, whose name was Ruslan, was very grateful to Katya for her kindness. He decided to stay with Katya and her family, and they all lived happily together in their cozy cabin in the woods.\n\nFrom that day on, Katya and Ruslan went on many adventures together. They explored the forest, played in the snow, and even went on a journey to find the legendary Northern Lights.\n\nAs Katya lay in bed each night, she would snuggle up with Ruslan and think about all the fun they had had that day. She knew that as long as she had Ruslan by her side, she could face anything that came her way.\n\nAnd with that, my dear daughter, it is time for you to close your eyes and drift off to sleep. May you have sweet dreams and always remember the importance of kindness and friendship. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "loves to explore": "mental",
+    "caring": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.57",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

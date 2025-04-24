@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled among rolling hills and lush forests, there lived a young girl named Lily. Lily was a curious and kind-hearted child who loved exploring the wonders of nature that surrounded her home.\n\nOne crisp autumn evening, as the sun painted the sky in shades of pink and gold, Lily’s mother tucked her into bed with a warm hug and a gentle smile. \"Would you like to hear a bedtime story tonight, my dear?\" her mother asked.\n\nLily's eyes sparkled with excitement as she nodded eagerly. \"Yes, please!\" she whispered.\n\nHer mother settled down next to her on the bed and began to tell a tale of a magical forest where fairies danced among the trees and animals spoke in hushed whispers at night. Lily listened with wonder as the story unfolded, her imagination taking flight as she pictured the enchanted world her mother described.\n\nAs the moon rose high in the sky and the stars twinkled like diamonds, Lily’s mother softly sang a lullaby, the soothing melody carrying her off to dreamland. In her dreams, she wandered through the mystical forest, meeting creatures of all shapes and sizes who greeted her with warmth and friendship.\n\nIn the morning, as the sun rose over the horizon, Lily woke with a smile, feeling as if the magic of the bedtime story lingered around her like a cozy blanket. She knew that no matter where her adventures took her, the love and wonder of her dreams would always be with her.\n\nAnd so, dear child, remember that the most enchanting stories are the ones that spark your imagination and warm your heart, guiding you to a world of endless possibilities and dreams come true. Goodnight, sweet Lily, and may your dreams be filled with magic and joy.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "young": "physical",
+    "eager": "emotional",
+    "imaginative": "mental",
+    "warm": "emotional",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

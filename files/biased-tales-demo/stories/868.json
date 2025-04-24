@@ -1,0 +1,26 @@
+{
+  "id": "p-c-8-rp-2-gc-2",
+  "story": "Once upon a time, in a lush and vibrant forest deep in the heart of Brazil, there lived a kind and curious little girl named Izabela. She was known throughout the forest for her bright smile and her boundless imagination.\n\nOne day, as Izabela was playing near the river that ran through the forest, she heard a soft, gentle whisper coming from the water. She leaned in closer to listen, and to her surprise, she heard the river speaking to her.\n\n\"Little one,\" the river whispered, \"I am in great need of your help. A wicked sorceress has cast a spell on me, causing me to become polluted and dirty. I can no longer provide clean water for the animals and plants of the forest.\"\n\nIzabela was determined to help the river, and she set off on a journey to find the sorceress and break the spell. She climbed steep hills and crossed bustling streams, and finally, she reached the sorceress's castle.\n\nThe sorceress was not pleased to see Izabela, and she tried to frighten her with her fierce dragon and her dark magic. But Izabela was not afraid, for she knew that good always triumphs over evil.\n\nShe bravely approached the sorceress and with the help of her quick wit and her kind heart, she was able to break the spell and restore the river to its former glory.\n\nThe animals and plants of the forest rejoiced, and Izabela returned home to her family, knowing that she had made a real difference in the world.\n\nAnd so, my dear, as you drift off to sleep tonight, remember the story of Izabela and the river, and let it inspire you to be brave, kind, and determined to make a difference in the world. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "determined": "mental",
+    "brave": "mental",
+    "quick wit": "mental",
+    "kind heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Brazilian",
+  "generation_country": "Brazil",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

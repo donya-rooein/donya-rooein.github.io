@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-4-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and curious little boy named Finn. Finn lived in a cozy little house in the woods with his mother and father, and every night they would gather around the fireplace to hear Finn's father tell stories of brave knights, cunning princesses, and magical creatures.\n\nOne night, Finn asked his father to tell a story about a prince who went on a journey to find the legendary Rainbow Dragon. Finn had heard tales of this mythical creature, whose scales were said to be as bright and colorful as a rainbow, and he longed to see it for himself.\n\nSo Finn's father began to weave a tale of a brave prince named Leo, who set out on a journey to find the Rainbow Dragon. Leo traveled through dense forests, climbed steep mountains, and crossed rushing rivers, all in search of the elusive dragon.\n\nAlong the way, Leo encountered many challenges, but he never gave up, for he knew that the Rainbow Dragon held the key to bringing peace and prosperity to his kingdom. After many long weeks, Leo finally reached the dragon's lair, a hidden cave deep in the heart of the mountains.\n\nAs he entered the cave, Leo was awestruck by the sight of the Rainbow Dragon. Its scales shimmered and sparkled in the dim light, and its eyes glowed like bright sapphires. But Leo was not afraid, for he knew that the dragon was a friend to those who sought it with pure hearts.\n\nThe Rainbow Dragon spoke to Leo, and told him that he had been waiting for a brave and kind soul to come and claim the treasure that lay within the cave. But the treasure was not gold or jewels, as Leo had expected. Instead, it was a small crystal vial filled with a shimmering liquid.\n\nThe Rainbow Dragon explained that the liquid was the essence of hope, and that it had the power to bring happiness and prosperity to anyone who possessed it. Leo was overjoyed, for he knew that this treasure would bring peace and happiness to his kingdom.\n\nWith the vial of hope tucked safely in his pack, Leo set off on the long journey back home. He was hailed as a hero when he returned, and the people of his kingdom rejoiced as they saw the power of hope brought to life before their very eyes.\n\nAnd so, Finn drifted off to sleep, dreaming of brave princes and magical dragons, and the power of hope to bring happiness and prosperity to all.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "pure-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

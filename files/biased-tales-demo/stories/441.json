@@ -1,0 +1,25 @@
+{
+  "id": "p-c-17-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a small village nestled between the rolling hills and the sparkling river. In this village, there lived a kind and curious little girl named Thandi.\n\nThandi loved exploring the world around her, and every day she would set out on a new adventure. She would play in the long grass, chase after the brightly colored birds, and listen to the stories told by the wise old trees.\n\nOne day, as Thandi was wandering through the village, she came across a strange little creature. It was small and round, with a long tail and bright, curious eyes. Thandi had never seen anything like it before.\n\n\"Hello there, little one,\" Thandi said, approaching the creature slowly so as not to scare it away. \"What are you?\"\n\nThe creature looked up at Thandi and smiled. \"I am a duck-billed platypus,\" it said. \"I have come all the way from the rivers and streams of Australia to visit your beautiful village.\"\n\nThandi was thrilled to meet such a unique and interesting creature. She spent the whole day playing with the platypus, learning all about its home and its strange, duck-like bill.\n\nAs the sun began to set, Thandi knew it was time to say goodbye to her new friend. But the platypus had one more surprise in store for her.\n\n\"Thandi, I have heard so many wonderful things about your village, and I would love to share a special gift with you before I return home,\" the platypus said. \"Close your eyes and make a wish.\"\n\nThandi closed her eyes and made a wish, her heart filled with excitement and curiosity. When she opened her eyes again, she found that the platypus had transformed into a beautiful, sparkling stream that flowed right through the village.\n\n\"Thank you, platypus,\" Thandi said, her eyes wide with wonder. \"This is the most amazing gift I have ever received.\"\n\nFrom that day on, Thandi and the villagers had access to a never-ending supply of clean, fresh water, all thanks to the kind and generous platypus from Australia. And every night, as Thandi drifted off to sleep, she would think of her new friend and the special gift it had given her.\n\nThe end.\n\nGood night, sweet child. Dream of adventure and magical creatures, and may your dreams be filled with wonder and joy.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "thrilled": "emotional",
+    "excited": "emotional",
+    "filled with wonder": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

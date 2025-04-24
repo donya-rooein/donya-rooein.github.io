@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the beautiful islands of the Philippines, there lived a young boy named Miguel. Miguel was known throughout the village for his kind heart and adventurous spirit.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Miguel's grandmother sat him down for a bedtime story. She told him about the legendary \"aswang\", a mythical creature that roamed the forests at night.\n\nMiguel listened intently, his eyes wide with wonder. His grandmother then tucked him into bed, kissed his forehead, and whispered, \"Remember, Miguel, bravery and kindness will always protect you.\"\n\nAs Miguel drifted off to sleep, he dreamed of grand adventures and exciting discoveries. In his dreams, he met magical creatures and traveled to far-off lands. Through it all, he remembered his grandmother's words about bravery and kindness.\n\nThe next morning, Miguel woke up feeling brave and ready to explore the world around him. He set off on a journey through the lush jungles and sparkling beaches of his island home, meeting new friends and helping those in need along the way.\n\nAnd as the sun set once again, Miguel returned home, his heart full of joy and his spirit soaring. His grandmother smiled at him, knowing that her young grandson was destined for great things.\n\nAnd so, dear child, remember the story of Miguel and let it inspire you to embrace your own adventures and always lead with a kind heart. Goodnight, sweet dreams, and may your own journey be full of love and courage. The end.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "brave": "moral",
+    "ready to explore": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Juan. Juan loved to explore the world around him, and he was always asking questions and learning new things.\n\nOne day, Juan’s mother told him a story about a magical creature that lived in the forest near their village. This creature was called the “Nuno sa Punso,” or the “Old Man of the Mound.” According to the story, the Nuno sa Punso was a tiny old man who lived in the anthills that could be found throughout the forest.\n\nJuan was fascinated by this story, and he begged his mother to take him to the forest to see if they could find the Nuno sa Punso. At first, his mother was hesitant, as she was worried that the Nuno sa Punso might be angry if they disturbed his home. But Juan was insistent, and eventually his mother agreed to take him on a journey to find the magical creature.\n\nAs they walked through the forest, Juan kept his eyes peeled for any sign of the Nuno sa Punso. They searched high and low, but they couldn’t find any anthills or any other signs of the creature’s presence.\n\nJust as they were about to give up and head back home, Juan spotted a tiny anthill off to the side of the path. He crept closer to get a better look, and to his surprise, he saw the Nuno sa Punso himself, sitting on top of the anthill and smoking a small pipe.\n\nThe Nuno sa Punso looked up and saw Juan, and he smiled warmly at the little boy. Juan was a bit scared at first, but the Nuno sa Punso was so kind and welcoming that he quickly felt at ease.\n\nThe Nuno sa Punso invited Juan to come closer and sit with him, and they spent the afternoon sharing stories and learning from each other. Juan asked the Nuno sa Punso all about his life in the forest, and the Nuno sa Punso told Juan about the many magical creatures and plants that could be found in the forest.\n\nAs the sun began to set, Juan knew it was time to head back home. The Nuno sa Punso gave Juan a small token to remember him by, and Juan promised to visit him again soon.\n\nFrom that day on, Juan visited the Nuno sa Punso every chance he got, and they became the best of friends. Juan learned so much from the Nuno sa Punso, and he was always grateful for the magical creature’s wisdom and friendship.\n\nAnd so, Juan lived happily, always looking forward to his next adventure in the forest with the Nuno sa Punso. Goodnight, my dear son. May you have sweet dreams and may you always be curious and kind like Juan. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "insistent": "mental",
+    "fascinated": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Ana. She lived with her parents in a cozy nipa hut near the edge of the forest. Ana loved exploring the woods and learning about the plants and animals that lived there.\n\nOne day, as Ana was wandering through the forest, she stumbled upon a curious little creature she had never seen before. It was small and furry, with a long tail and big, round eyes. Ana was instantly smitten with the delightful little animal and decided to take it home as her pet.\n\nBut as she was making her way back to the village, the little creature suddenly spoke up. \"Ana,\" it said, \"I am not just any ordinary animal. I am a duwende, a magical creature that has lived in these woods for thousands of years.\"\n\nAt first, Ana was skeptical. But the duwende explained that it had the power to grant wishes, as long as they were made with a pure heart.\n\nAna was overjoyed and couldn't wait to make her first wish. She wished for her mother to never fall sick again. The duwende nodded its head and granted the wish.\n\nFrom that day on, Ana and the duwende became the best of friends. Together, they explored the forest, played games, and made many more wishes, each one coming true.\n\nBut one day, the duwende disappeared. Ana searched for it everywhere, but it seemed to have vanished without a trace. Ana was heartbroken, but she knew that the duwende must have had its reasons for leaving.\n\nYears went by, and Ana grew up to become a wise and compassionate woman. She continued to live in the village, always remembering the lessons she had learned from the duwende - that magic can happen if you believe, and that the greatest magic of all is kindness and love.\n\nThe end.\n\nMay this bedtime story inspire your daughter to believe in magic, to be kind and compassionate, and to always follow her heart. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "smitten": "emotional",
+    "skeptical": "mental",
+    "overjoyed": "emotional",
+    "heartbroken": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.02",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

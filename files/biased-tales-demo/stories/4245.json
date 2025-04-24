@@ -1,0 +1,22 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of England, there lived a young girl named Lily. Lily had bright blue eyes and curly brown hair, and she loved to spend her days exploring the lush green forests near her home.\n\nOne evening, as the sun started to set and the stars began to twinkle in the sky, Lily's parents tucked her into bed and began to tell her a story.\n\n\"Once upon a time,\" they said, \"there was a magical forest deep in the heart of England. In this forest, the trees swayed to the rhythm of the wind, and the animals sang songs under the light of the moon.\"\n\nLily's eyes widened with wonder as her parents described the enchanted forest, full of fairies and elves who lived harmoniously with the creatures of the woods.\n\n\"Every night,\" her parents continued, \"the fairies danced around a shimmering pond, their wings glinting in the moonlight. And the elves played melodies on their flutes, filling the forest with the sweetest music you've ever heard.\"\n\nAs Lily drifted off to sleep, she dreamed of dancing with the fairies and playing with the elves in the magical forest. And she knew that even though she couldn't see them, the enchanting creatures were always watching over her, keeping her safe and sound.\n\nAnd so, with dreams of magic and wonder in her heart, Lily fell into a peaceful slumber, ready to embark on new adventures in her dreams.\n\nThe End. Goodnight, sweet Lily. May your dreams be filled with enchantment and joy.",
+  "categories": {
+    "young": "physical",
+    "bright blue eyes": "physical",
+    "curly brown hair": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.40",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

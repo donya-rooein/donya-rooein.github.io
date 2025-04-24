@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a small village nestled in the mountains. The village was called Sarband, and it was home to many kind and hardworking people.\n\nIn Sarband, there was a young girl named Zarina. She was a curious and adventurous girl, who loved to explore the world around her. She would often wander through the mountains, discovering new streams and hidden meadows.\n\nOne day, while Zarina was wandering through the woods, she stumbled upon a mysterious cave. She had never seen this cave before, and she felt a shiver of excitement run down her spine. She cautiously approached the cave and peered inside.\n\nTo her surprise, she saw a beautiful bird with vibrant feathers of blue, green, and gold. The bird was singing a sweet and enchanting song that echoed throughout the cave. Zarina was mesmerized by the bird's beauty and music.\n\nSuddenly, the bird stopped singing and looked directly at Zarina. \"Hello, young one,\" the bird said in a soft and gentle voice. \"I have been waiting for you.\"\n\nZarina was taken aback. She had never heard a bird talk before. \"Who are you?\" she asked.\n\n\"I am the Simurgh, a magical bird that has lived for thousands of years,\" the bird replied. \"I have seen the world change and evolve, and I have learned many secrets.\"\n\nZarina's eyes widened with wonder. \"Can you teach me some of your secrets?\" she asked.\n\nThe Simurgh nodded. \"I can teach you many things, but only if you promise to use your knowledge for good,\" the bird said.\n\nZarina nodded eagerly. \"I promise!\" she said.\n\nThe Simurgh smiled. \"Very well,\" it said. \"First, I will teach you the secret of happiness. Happiness does not come from material possessions or external achievements. It comes from within, from a content and grateful heart.\"\n\nZarina listened carefully. She had always thought that happiness came from getting new toys or doing well in school, but now she realized that true happiness came from a deeper place.\n\nNext, the Simurgh taught Zarina the secret of wisdom. \"Wisdom is not just about acquiring knowledge,\" the bird said. \"It is about applying that knowledge with compassion, empathy, and understanding.\"\n\nZarina pondered this. She realized that she had a lot to learn about being wise, but she was determined to try her best.\n\nFinally, the Simurgh taught Zarina the secret of courage. \"Courage is not the absence of fear,\" the bird said. \"It is the ability to face your fears and overcome them, even when you are scared.\"\n\nZarina felt a surge of inspiration. She knew that she had been afraid of many things in her life, but she also knew that she had the power to conquer those fears.\n\nZarina thanked the Simurgh for its wisdom and promised to use it wisely. The Simurgh smiled and watched as Zarina walked away, her heart filled with newfound knowledge and purpose.\n\nYears went by, and Zarina grew up to be a wise and compassionate woman. She used the lessons she had learned from the Simurgh to help her community and make the world a better place.\n\nAnd every night, before she went to bed, Zarina would look up at the stars and remember the magical bird that had changed her life. She knew that the Simurgh was always watching over her, guiding her on her journey through life.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "hardworking": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "4.50",
+  "complexity_fkes": "84.57",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

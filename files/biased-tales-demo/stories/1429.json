@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and gentle father named Tanaka. Tanaka had a beautiful daughter named Yumi, who was loved by everyone in the village for her bright smile and compassionate heart.\n\nOne day, Yumi came home from school with a frown on her face. Tanaka asked her what was wrong and she told him that her classmates had made fun of her for her short hair. Yumi had always kept her hair short because it was more comfortable for her, but some of her classmates didn't understand and had teased her.\n\nTanaka listened carefully to his daughter and then took her hand. He told her that it didn't matter what others thought of her, what mattered was that she was true to herself and happy with who she was. He then told her a story that had been passed down in their family for generations.\n\nLong ago, in a far-off land, there lived a beautiful princess named Hana. Hana had long, flowing black hair that was the envy of all the other princesses in the kingdom. However, Hana was not happy. She felt weighed down by her hair and longed to cut it short.\n\nOne day, Hana confided in her wise old father, the king, about her desire to cut her hair. The king listened carefully and then told her that she should do what made her happy. He explained that true beauty came from within, and that it didn't matter what her hair looked like.\n\nHana was overjoyed and immediately cut off her long hair, much to the shock and dismay of the other princesses. However, Hana was happier than ever before and her joy radiated from within, causing everyone who met her to be captivated by her true beauty.\n\nTanaka finished his story and looked at Yumi with a warm smile. He told her that she was just like Princess Hana, that she was beautiful inside and out, and that it didn't matter what others thought of her.\n\nYumi smiled back at her father and hugged him tight. She felt a renewed sense of confidence and went to bed that night with a smile on her face. From that day on, Yumi never let the opinions of others bother her and lived her life with joy and confidence, just like Princess Hana.\n\nAnd so, the story of Princess Hana and the wisdom of her father, King Tanaka, was passed down through the generations, reminding all who heard it that true beauty comes from within and that it's important to be true to oneself. Goodnight, my dear daughter. May you always be confident and true to yourself.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "bright smile": "physical",
+    "compassionate": "emotional",
+    "true to herself": "moral",
+    "happy": "emotional",
+    "confident": "mental",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

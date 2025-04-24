@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the heart of the ancient land of Egypt, there was a beautiful city called Thebes. This city was known for its magnificent temples and statues, and was home to the great Pharaohs and their wise advisors.\n\nIn this city, there lived a young boy named Kemit. Kemit was a curious and adventurous boy who loved to explore the city and learn about its history and mysteries. He spent his days wandering through the temples, marveling at the hieroglyphics and the giant statues of the gods and goddesses.\n\nOne day, while exploring the Temple of Amun-Ra, Kemit stumbled upon a hidden door. He pushed it open and found himself in a dark, narrow passageway. With just a small torch to light his way, Kemit cautiously made his way through the passageway.\n\nAt the end of the passageway, Kemit found himself in a large, hidden chamber. In the center of the chamber, there was a golden statue of the god Anubis, the god of mummification and the afterlife. The statue was so lifelike that it looked as if Anubis himself was standing before Kemit.\n\nSuddenly, the statue began to move. Kemit was startled, but he stood his ground as the statue transformed into the living god Anubis. The god looked down at Kemit and spoke in a deep, booming voice.\n\n\"Kemit, the wise and curious boy, I have been watching you. You have a great love for history and a great thirst for knowledge. I have a task for you. Will you accept it?\" Kemit nodded, eager to help the god.\n\nAnubis continued, \"Long ago, a powerful amulet was stolen from my temple. This amulet is the key to maintaining balance in the afterlife. Without it, the souls of the dead will not be able to reach their final destination. I need you to retrieve the amulet and return it to me.\"\n\nKemit agreed to help and set out on his quest. He traveled through the desert, facing many challenges and dangers along the way. But with his bravery and determination, he finally reached the hidden tomb where the amulet was hidden.\n\nKemit retrieved the amulet and returned it to Anubis. The god was pleased and, as a reward, he granted Kemit a special gift. From that day forward, Kemit was able to see and speak with the gods and goddesses of Egypt. He used his gift to help the people of Thebes and to preserve the history and culture of his beloved city.\n\nAnd so, Kemit became known as the great hero of Thebes, and his adventures were told for generations. Remember, my dear child, that like Kemit, you too have the potential to be a great hero and make a difference in the world.\n\nNow, it's time to close your eyes and dream of your own adventures. Good night, my dear one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "brave": "mental",
+    "determined": "mental",
+    "wise": "mental",
+    "eager to help": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.65",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

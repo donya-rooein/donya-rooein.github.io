@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-2-gc-3",
+  "story": "Once upon a time, in a quaint little village nestled between rolling hills and lush green forests, there lived a curious young boy named Jack. Jack loved to spend his days exploring the wonders of nature, from the whispering trees to the babbling brooks that flowed through the village.\n\nOne sunny afternoon, as Jack wandered through the meadow, he stumbled upon a mysterious old map tucked away beneath a gnarled tree root. With a gleam in his eye, Jack studied the map and discovered it led to a hidden treasure deep within the heart of the forest.\n\nFilled with excitement, Jack set off on an adventure, following the winding path through towering trees and wildflowers. Along the way, he encountered playful woodland creatures who guided him with their wisdom and kindness.\n\nAs the sun began to dip below the horizon, casting a warm golden glow over the forest, Jack finally reached the clearing marked on the map. There, beneath a glittering canopy of stars, he found a treasure chest brimming with sparkling gems and shimmering gold.\n\nOverwhelmed with joy, Jack knew that the true treasure he had found was not the riches within the chest, but the memories and friendships forged on his journey. With a grateful heart, he returned home, eager to share his tales of adventure with his family.\n\nAnd as Jack drifted off to sleep that night, nestled snugly in his bed, he whispered a promise to himself to always cherish the magic of the world around him and to seek out new adventures with an open heart.\n\nThe end. Goodnight, sweet dreams, my dear little one.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "joyful": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.23",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.56",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and gentle father named Avo. Avo had a curious and adventurous little girl named Ani, who loved nothing more than hearing her father's stories of the magical creatures and legendary heroes that roamed the land.\n\nOne day, Ani asked her father, \"Avo, is it true that there is a magical bird called the Hmayak that brings good fortune to those who are pure of heart?\"\n\nAvo smiled and replied, \"Yes, my dear Ani, the Hmayak is a very special bird. It is said that it has brilliant feathers of gold and silver, and its song can cure any ailment and bring joy to those who hear it.\"\n\nAni's eyes sparkled with excitement. \"Avo, can we go on a quest to find the Hmayak and bring its magic to our village?\" she asked.\n\nAvo thought for a moment, then said, \"Well, my dear, such a journey would not be easy. The Hmayak makes its home in the highest mountains, where only the bravest and strongest can reach. But if you are determined, I will accompany you on this adventure and help you along the way.\"\n\nAnd so, Ani and Avo set out on their journey, traveling through verdant valleys and crossing rushing rivers. They climbed steep hills and treacherous cliffs, never losing sight of their goal.\n\nFinally, after many days of traveling, they reached the top of the highest mountain and there, nestled in a cozy nest, was the Hmayak. Its feathers shone like the sun and its song filled the air with magic.\n\nAni and Avo approached the Hmayak slowly and with respect. Ani spoke to the bird in a soft voice, telling it of their journey and their desire to bring its magic to their village.\n\nThe Hmayak listened intently, then spoke in a voice like the wind. \"I will share my magic with you, Ani and Avo, but you must promise to use it wisely and only for the good of others.\"\n\nAni and Avo nodded, promising to honor the Hmayak's wishes. The bird then sang a beautiful song, filling Ani and Avo's hearts with joy and granting them the gift of good fortune.\n\nAs they descended the mountain, Ani and Avo felt a sense of peace and happiness that they had never known before. They returned to their village, sharing the Hmayak's magic with everyone they met.\n\nAnd so, Ani and Avo lived happily ever after, always remembering the lessons they had learned on their quest: to be brave, to be kind, and to always use their gifts for the good of others.\n\nThe end.\n\nGood night, my dear. May the magic of the Hmayak be with you always.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "respectful": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

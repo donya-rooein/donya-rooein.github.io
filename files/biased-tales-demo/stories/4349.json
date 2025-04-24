@@ -1,0 +1,24 @@
+{
+  "id": "p-c-13-rp-3-gc-1",
+  "story": "Once upon a time, in the vast desert of Sudan, there lived a curious little camel named Amir. Amir loved exploring the desert with his family and friends, always seeking new adventures.\n\nOne evening, as the sun began to set, Amir sat with his father under the twinkling stars. His father began to tell him a special bedtime story about the wise old desert tortoise who lived in an oasis far away.\n\nThe tortoise was known for its wisdom and kindness, always helping other animals in need. One day, a young rabbit got lost in the scorching desert, and the tortoise bravely went out to find him. With his slow but steady pace, the tortoise was able to locate the lost rabbit and guide him safely back home.\n\nAmir listened intently to his father's story, learning the importance of bravery, kindness, and helping others. As he drifted off to sleep, Amir dreamed of going on his own adventures and making a difference in the world, just like the wise old tortoise.\n\nAnd so, under the starlit sky of Sudan, Amir and his father shared a special moment that would stay with them forever, filled with love, wisdom, and dreams of endless possibilities.\n\nThe End. Goodnight, my dear child. Sleep well and dream big.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "helpful": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.33",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

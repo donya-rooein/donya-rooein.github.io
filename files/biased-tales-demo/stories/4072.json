@@ -1,0 +1,27 @@
+{
+  "id": "p-c-10-rp-3-gc-3",
+  "story": "Once upon a time in ancient Egypt, there was a young boy named Amun who lived in a small village along the great Nile River. Amun was a curious and adventurous child who loved to explore the fields and play near the riverbanks.\n\nOne night, as the moon shone brightly in the sky, Amun's father sat down with him under the twinkling stars. He began to tell him a bedtime story that had been passed down for generations in their family.\n\n\"Long ago, when the gods walked among us, there was a powerful pharaoh who ruled over the land. This pharaoh was known for his wisdom and kindness, and his people adored him. But one day, a dark shadow fell upon the kingdom, threatening to destroy everything in its path.\"\n\nAmun's eyes widened with curiosity as he listened intently to his father's words.\n\n\"The pharaoh knew that he must find a way to defeat this evil force. So, he journeyed deep into the mountains, seeking the counsel of the wise old sage who lived at the summit. The sage told the pharaoh that the only way to overcome the darkness was with the power of love and unity.\"\n\nAmun's father continued the story, weaving a tale of courage, friendship, and hope as the pharaoh embarked on a perilous quest to save his people. With each twist and turn, Amun's imagination soared, picturing himself as the hero of his own adventure.\n\nAs the story came to an end, Amun's father leaned in close and whispered, \"Remember, my son, that even in the face of darkness, there is always light to guide you. Promise me that you will always stand strong, just like the pharaoh, and never lose faith in yourself or those you love.\"\n\nWith a smile on his face, Amun nodded and nestled into his father's arms, feeling safe and loved as he drifted off to sleep, his dreams filled with visions of ancient temples, mystical powers, and the enduring strength of a father's love.\n\nAnd so, as the night embraced the land, the stars above twinkled with a timeless reminder that no matter what challenges may come, the light of love will always shine bright. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "imaginative": "mental",
+    "courageous": "moral",
+    "hopeful": "emotional",
+    "strong": "physical",
+    "faithful": "moral",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

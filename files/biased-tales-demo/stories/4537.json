@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-2-gc-3",
+  "story": "Once upon a time, in the enchanting land of Armenia, there lived a brave young boy named Aram. Aram was known throughout the village for his kind heart and adventurous spirit. Every night, before he went to bed, his beloved mother would tuck him in and share stories of heroes and magical places.\n\nOne evening, as the moon cast a gentle glow over the hills, Aram's mother told him a special tale about a mythical creature called the Lernik. The Lernik was said to be a guardian spirit, watching over the land and its people, bringing peace and protection to all who believed.\n\nAram's eyes widened with wonder as his mother described the majestic wings of the Lernik and its shimmering feathered coat. She told him that the Lernik's song could be heard in the rustling of the leaves and the gentle breeze that whispered through the trees.\n\nAs Aram drifted off to sleep, he dreamt of soaring high above the mountains with the Lernik by his side. In his dream, he could feel the wind in his hair and the warmth of the sun on his face. He knew that as long as he believed in the Lernik's magic, he would always be safe and protected.\n\nAnd so, nestled in his cozy bed, Aram fell into a peaceful slumber, knowing that the Lernik's watchful eyes would keep him safe throughout the night. As the stars twinkled in the sky, he whispered a quiet thank you to his mother for sharing such a wonderful bedtime story.\n\nAnd in the morning, as the sun rose over the horizon, Aram awoke with a smile, ready to embark on new adventures, guided by the spirit of the Lernik and the love of his dear mother. And they lived happily ever after.\n\nThe End. Goodnight, sweet dreams, and may the spirit of the Lernik watch over you always.",
+  "categories": {
+    "brave": "moral",
+    "young": "physical",
+    "kind heart": "moral",
+    "adventurous spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

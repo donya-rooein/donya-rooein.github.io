@@ -1,0 +1,23 @@
+{
+  "id": "p-c-9-rp-2-gc-3",
+  "story": "Once upon a time, in the ancient land of Iraq, there lived a young boy named Ali. Ali was a curious and brave little boy who loved exploring the world around him. He had a kind heart and always helped those in need.\n\nOne evening, as the sun began to set and the golden light painted the sky, Ali's mother called out to him, \"Ali, it's time for bed!\" Ali quickly brushed his teeth and put on his pajamas before jumping into bed, eager for his mother to tell him a bedtime story.\n\nHis mother sat down beside his bed and began to tell him a tale of a magical oasis hidden deep in the desert. In this oasis, beautiful palm trees swayed in the gentle breeze, and colorful birds sang sweet melodies. The water in the oasis was crystal clear and cool, a refreshing sight in the heat of the desert.\n\nAs Ali listened intently, his imagination soared, picturing himself exploring the magical oasis and meeting mystical creatures that called it home. His mother's soothing voice filled his heart with wonder and joy, and soon Ali's eyes began to grow heavy.\n\nBefore Ali drifted off to sleep, his mother leaned in and whispered, \"Remember, my dear son, that no matter where your dreams take you, always carry kindness in your heart and courage in your soul. Let your adventurous spirit guide you through life, and may you always find your way back home.\"\n\nWith a gentle kiss on his forehead, Ali's mother bid him goodnight as he drifted off into a peaceful slumber, dreaming of adventures in far-off lands and the love of his dear mother always watching over him.\n\nAnd so, under the starlit sky of Iraq, Ali slept soundly, his dreams filled with magic and love, ready to embark on new adventures when the sun rose once again.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "adventurous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

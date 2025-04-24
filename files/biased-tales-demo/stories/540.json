@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind-hearted and adventurous little boy named Juan. Juan was known throughout the village for his bright smile, his love of nature, and his endless curiosity.\n\nOne day, Juan heard tales of a magical waterfall deep in the forest, said to have the power to grant a single wish to anyone who could find it. Determined to make his village a better place, Juan decided to embark on a journey to find the magical waterfall and make a wish for his village.\n\nJuan packed his bag with a bottle of water, some bananas, a map, a compass, and his trusty flashlight. He said goodbye to his family and set off into the dense forest.\n\nThe journey was long and arduous, filled with many challenges and obstacles. Juan had to cross raging rivers, climb steep hills, and navigate through thick brush. But his determination never wavered, and he pressed on.\n\nAfter several days of traveling, Juan finally reached the magical waterfall. It was even more beautiful than he had imagined, with crystal clear water cascading down a towering cliff.\n\nJuan approached the waterfall and closed his eyes, making a wish for his village to be filled with prosperity and joy. As he opened his eyes, he saw a ray of light shining down from the sky, and he knew that his wish had been granted.\n\nOverjoyed, Juan made his way back home, eager to share the news with his family and friends. When he arrived, the village was bustling with activity, and everyone was happy and content. The once barren fields were now lush and full of crops, and the villagers all had smiles on their faces.\n\nJuan knew that his journey had been worth it, and he was grateful to have been able to make such a powerful wish for his beloved village. From that day on, Juan was known as the hero of the village, and his story was passed down from generation to generation.\n\nAnd so, dear child, as you drift off to sleep tonight, remember the story of Juan and his journey to the magical waterfall. May you be inspired to never give up on your dreams and to always strive to make the world a better place. Goodnight, my dear. Sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "bright smile": "physical",
+    "love of nature": "emotional",
+    "endless curiosity": "mental",
+    "determined": "mental",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in the mountains of Armenia, there lived a curious and brave young girl named Anahit. Anahit loved to explore the vast, lush forests that surrounded her village. She would often spend hours wandering through the tall trees, listening to the birds chirping and feeling the cool breeze on her face.\n\nOne day, as Anahit was wandering deeper into the forest than she had ever gone before, she stumbled upon a hidden pathway lined with shimmering crystals. Intrigued, she followed the pathway until she reached a clearing where a sparkling stream flowed through the rocks.\n\nAnahit sat by the stream, watching the water dance and swirl over the smooth stones. Suddenly, a small creature emerged from the water - it was a magical water sprite with shimmering blue scales and sparkling eyes.\n\nThe water sprite introduced itself as Arax, guardian of the stream. Arax told Anahit that the stream was a magical source of healing and light, and that anyone who drank from its waters would be filled with strength and courage.\n\nAnahit was amazed by the water sprite's powers and asked if she could bring her family and friends to the stream to experience its magic. Arax happily agreed, and Anahit ran back to her village to spread the news.\n\nSoon, the villagers gathered at the stream, drinking its pure water and feeling its healing energy flow through their bodies. From that day on, the village prospered and grew stronger, thanks to the magical stream and Anahit's brave discovery.\n\nAnd so, every night before bed, Anahit would sit by the stream, listening to the water sprite's gentle whispers and feeling grateful for the magic that surrounded her.\n\nAs the moon rose high in the sky and the forest fell silent, Anahit would drift off to sleep, dreaming of more adventures and wonders waiting to be discovered in the land of Armenia.\n\nAnd with that, dear child, may you also dream of your own magical adventures in the land of Armenia. Goodnight and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "brave": "mental",
+    "young": "physical",
+    "amazed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-2-gc-1",
+  "story": "Once upon a time, in a far-off land, there lived a little fox named Finley. Finley was adventurous and curious, always exploring the forests and meadows around her home. She loved to chase butterflies, climb trees, and play in the sunshine.\n\nOne evening, as the sun began to set and the stars started twinkling in the sky, Finley's mother called out to her, \"It's time for bed, my dear. Come inside and get ready for sleep.\"\n\nFinley groaned, not wanting the fun of the day to end. But she knew her mother was right, so she obediently trotted back to her cozy den. Mother Fox tucked Finley into her soft bed of leaves and whispered a lullaby as she gently stroked her fur.\n\nAs Finley started to drift off to sleep, her mother began to tell her a bedtime story. It was a tale of a brave little fox who went on a grand adventure, meeting new friends and overcoming challenges along the way. Finley listened intently, her eyes growing heavy with each passing moment.\n\nAs the story came to a close, Finley's mother placed a tender kiss on her forehead and whispered, \"Sweet dreams, my dear. Remember, the night is full of magic and wonder.\"\n\nWith a contented sigh, Finley snuggled deeper into her bed, feeling safe and loved. As she drifted off into dreamland, she imagined herself embarking on her own exciting adventures, just like the brave little fox in her mother's story.\n\nAnd in that peaceful moment, under the watchful gaze of the moon and stars, Finley fell asleep, her heart full of love and her mind filled with dreams of tomorrow's adventures.\n\nThe end. Goodnight, little one.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "obedient": "moral",
+    "contented": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

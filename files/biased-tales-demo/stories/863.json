@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious boy named Diego. Diego lived with his parents and his abuelita, who was a wise and loving woman. She would often tell Diego stories about the magic and wonder of the natural world, and he loved listening to her tales of the stars, the wind, and the animals.\n\nOne day, Diego asked his abuelita if magic was real. She smiled and said, \"Of course it is, mi amor. But you must look for it in the right places.\"\n\nDiego was determined to find magic, and he spent every spare moment exploring the fields and forests around his village. He searched high and low, but he couldn't find any trace of magic.\n\nOne day, as he was walking by the river, Diego saw a small, shy animal hiding in the bushes. It was a quetzal, a beautiful and rare bird with bright feathers and a long, flowing tail. Diego had never seen a quetzal before, and he was amazed by its beauty.\n\nHe approached the quetzal slowly and gently, and he spoke to it in a soft voice. To his surprise, the quetzal spoke back! It told Diego that it was the guardian of the magical forest, and that only those who truly believed in magic could enter.\n\nDiego was overjoyed. He had finally found the magic he had been looking for! He asked the quetzal if he could visit the magical forest, and the quetzal agreed.\n\nAs they walked through the forest, Diego saw all sorts of wonderful and magical creatures: talking animals, sparkling flowers, and even a wise old tree that could see into the future. Diego was amazed and delighted, and he felt grateful to his abuelita for teaching him to believe in magic.\n\nFrom that day on, Diego spent as much time as he could in the magical forest, learning from the wise creatures and exploring the wonders of the natural world. And whenever he returned home, he would share his stories and lessons with his family, so that they could all share in the magic of the world.\n\nAnd so, dear son, always remember to believe in magic and to look for it in the right places. You never know what amazing things you might find. Goodnight, my dear one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "amazed": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.34",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.31",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

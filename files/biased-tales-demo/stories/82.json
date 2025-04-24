@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Russian winter, there lived a kind and gentle father and his sweet little daughter named Masha. Masha was a curious and adventurous girl, always eager to learn about the world around her.\n\nOne cold and snowy evening, Masha's father tucked her into bed and whispered, \"Masha, my dear, I have a special bedtime story for you tonight. A story about a magical creature who brings warmth and joy to all who believe in its magic.\"\n\nMasha snuggled under her blankets and asked, \"What is this magical creature called, Father?\"\n\n\"It's called the Zimtserka,\" he replied, \"a small, fluffy creature that lives deep in the Siberian forests. It only comes out when the snow is at its deepest, and the cold is the most biting.\"\n\nMasha's eyes widened with excitement. \"What does the Zimtserka look like, Father?\"\n\n\"The Zimtserka is covered in soft white fur, like the purest snow, and it has big, sparkling blue eyes that twinkle like the stars in the night sky,\" her father said. \"Its wings are like delicate ice crystals, and when it flies, it leaves a trail of shimmering light behind it, illuminating the dark forest.\"\n\n\"Wow, that sounds so beautiful!\" Masha exclaimed. \"But how does it bring warmth and joy, Father?\"\n\n\"Well,\" her father continued, \"the Zimtserka has a very special gift. When it spreads its wings, a warm, golden light surrounds it, chasing away the cold and filling the air with a sense of wonder and joy. It's said that if you're ever lost in the forest during a snowstorm, all you need to do is believe in the Zimtserka, and it will appear to guide you home.\"\n\nMasha's heart filled with warmth and wonder. \"I wish I could see the Zimtserka, Father.\"\n\nHer father smiled softly. \"Someday, my dear Masha, you may just get your wish. But for now, let the Zimtserka's magic fill your dreams and keep you warm on this cold winter night.\" And with that, Masha drifted off to sleep, her heart full of the magic and wonder of the Zimtserka.\n\nFrom that night on, Masha always believed in the Zimtserka and carried its magic with her in her heart, knowing that a warm and golden light was always shining for her, no matter how cold the world outside might be. And as she grew up, she spread that same warmth and joy to all those around her, reminding them of the magic of the Zimtserka and the power of believing in something beautiful and wondrous.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "excited": "emotional",
+    "believing": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.02",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

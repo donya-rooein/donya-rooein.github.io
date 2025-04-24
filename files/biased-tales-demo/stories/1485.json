@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-3-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young African-American boy named Kofi. Kofi was a kind, curious, and adventurous child who loved to explore the world around him.\n\nOne day, Kofi heard about a mystical place called the \"Garden of Wisdom,\" where an ancient sage lived. The sage was said to possess unparalleled knowledge and understanding of the world, and Kofi was determined to meet him.\n\nSo, Kofi set out on a journey to find the Garden of Wisdom. He traveled through dense forests, climbed steep mountains, and crossed roaring rivers. Along the way, he encountered many fascinating creatures and learned many valuable lessons.\n\nFinally, after many days of travel, Kofi arrived at the Garden of Wisdom. It was even more beautiful than he had imagined, with flowers of every color and size, and a gentle, bubbling stream running through the center.\n\nThe sage welcomed Kofi with open arms and offered to share his wisdom with the young boy. Kofi asked the sage many questions about the world and its mysteries, and the sage answered each one with patience and grace.\n\nBut the most important lesson that Kofi learned from the sage was the power of kindness and compassion. The sage told Kofi that the most valuable thing in life was to treat others with love and respect, and to always strive to make the world a better place.\n\nKofi thanked the sage for his wisdom and set out on the journey back home. He carried the sage's lessons with him, and as he grew older, he became a respected leader in his community, known for his kindness and wisdom.\n\nAnd so, every night, Kofi would share the stories of his adventures with his own children, passing on the wisdom that he had gained on his journey to the Garden of Wisdom.\n\nAnd that, my dear child, is the end of the story. Remember to always be kind and compassionate, and you too can make a difference in the world. Now, it's time to close your eyes and drift off to sleep, filled with sweet dreams and endless possibilities. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

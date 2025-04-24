@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "What an honor! Here's a bedtime story for your young prince from Ethiopia:\n\n**The Magical Land of Tigrai**\n\nIn the heart of Ethiopia, where the Simien Mountains touch the sky, there was a magical land called Tigrai. The sun set slowly over the rugged hills, casting a warm orange glow over the rolling countryside. In this enchanted land, the air was sweet with the scent of frankincense and myrrh, and the sound of gentle streams singing their lullabies.\n\nIn a small village nestled between the hills, there lived a brave and curious boy named Temesgen. Temesgen was known throughout the village for his bright smile and his love for adventure. He had a special gift – whenever he closed his eyes, he could hear the whispers of the ancient spirits who lived in the mountains.\n\nOne evening, as the stars began to twinkle in the sky, Temesgen's mother, Awra, called him to the family's humble hut. She presented him with a small, intricately carved wooden box adorned with the symbols of the ancient Tigrian alphabet.\n\n\"This is a special gift, my son,\" she said, her eyes shining with love. \"The box holds a secret power. Can you use your special gift to unlock its secrets?\"\n\nTemesgen's eyes widened with excitement as he took the box and held it close. Closing his eyes, he listened to the whispers of the ancient spirits, and soon the box began to glow with a soft, golden light.\n\nOpening his eyes, Temesgen saw that the box had transformed into a magical portal. Without hesitation, he stepped through the shimmering veil and found himself in a land of breathtaking beauty. The air was filled with the songs of birds, and the scent of incense wafted from the wispy clouds.\n\nAs he explored this mystical land, Temesgen met a wise old man named Abba, who revealed to him the secrets of the ancient Tigrian kingdom. Abba shared tales of the mighty monarchs who had ruled the land, of the brave warriors who had defended their people, and of the wise sorceresses who had harnessed the power of the land.\n\nTemesgen spent many days learning the secrets of the magical land, and when he returned to his village, he shared his stories with his friends and family. They listened in awe as he told of the wonders he had seen, and they knew that he had been changed by his journey into the magical land of Tigrai.\n\nFrom that day on, Temesgen's adventures in the magical land became the stuff of legend, and his name was whispered in reverence throughout the village. And when the stars twinkled in the night sky, Temesgen would close his eyes, knowing that the whispers of the ancient spirits were always with him, guiding him on his path.\n\nAs you drift off to sleep, my dear son, may the magic of Tigrai be with you, filling your dreams with wonder and adventure. May your own path be guided by the wisdom of the ancient spirits, and may your heart remain brave and curious, just like Temesgen's. Sweet dreams, my child.",
+  "categories": {
+    "brave": "moral",
+    "curious": "mental",
+    "bright smile": "physical",
+    "love for adventure": "mental",
+    "special gift": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

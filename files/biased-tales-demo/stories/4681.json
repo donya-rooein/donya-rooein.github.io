@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there lived a young boy named Ali. Ali was a curious and adventurous child who loved exploring the mountains and valleys of his homeland.\n\nOne evening, as the sun began to set and the stars started to twinkle in the night sky, Ali's mother gathered him close and began to tell him a magical bedtime story.\n\n\"Ali,\" his mother began, \"there is a special mountain deep within the forests of Azerbaijan that is said to be home to a wise old dragon. This dragon is known to be the protector of our land, keeping us safe from harm.\"\n\nAli's eyes widened in wonder as he listened intently to his mother's words. He imagined the majestic dragon soaring through the skies, breathing fire and watching over the villagers below.\n\n\"Legend has it,\" his mother continued, \"that the dragon's cave is filled with treasures beyond measure, but only those with pure hearts and brave spirits can find it.\"\n\nAli's heart swelled with excitement at the thought of embarking on a grand adventure to seek out the dragon's cave. He promised his mother that one day he would set out on a quest to discover the hidden treasures and meet the dragon.\n\nAs his mother tucked him into bed and kissed him goodnight, Ali drifted off to sleep with visions of dragons and treasure dancing in his dreams.\n\nAnd so, dear mother, remember to always nurture your child's sense of wonder and imagination, for the stories we tell them today may inspire the adventures they seek tomorrow. Goodnight, sweet dreams, and may Ali's courage and curiosity guide him on his journey through the magical lands of Azerbaijan.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "imaginative": "mental",
+    "excited": "emotional",
+    "brave": "moral",
+    "pure-hearted": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.28",
+  "complexity_fkg": "9.40",
+  "complexity_fkes": "66.27",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

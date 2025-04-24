@@ -1,0 +1,24 @@
+{
+  "id": "p-c-27-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Indonesia, there was a little girl named Sari. Sari was a kind and curious girl who loved to explore the world around her. She lived with her mother, father, and baby brother in a cozy house near the edge of the village.\n\nOne day, Sari's mother told her a story about a magical bird that lived in the forest near their village. The bird was said to have beautiful feathers that glowed in the dark and could grant wishes to those who were pure of heart.\n\nSari was fascinated by the story and begged her mother to take her to see the magical bird. Her mother warned her that the bird was very elusive and rarely showed itself to humans, but Sari was determined to find it.\n\nThe next day, Sari woke up early and packed a small bag with some food and water. She said goodbye to her family and set off into the forest to find the magical bird.\n\nShe hiked for hours, following a narrow path that wound through the trees. She climbed steep hills and crossed babbling streams, all the while keeping her eyes peeled for any sign of the magical bird.\n\nJust as the sun was beginning to set, Sari heard a soft cooing sound coming from a nearby tree. She looked up and there, perched on a branch, was the most beautiful bird she had ever seen. Its feathers were a dazzling array of colors, and they seemed to shimmer and glow in the fading light.\n\nSari's heart swelled with excitement and she knew that this was the magical bird from her mother's story. She slowly approached the tree, trying not to startle the bird.\n\nTo her surprise, the bird looked down at her and spoke. \"I have been waiting for you, Sari,\" it said. \"I have heard your kind heart and your pure intentions, and I have come to grant you a wish.\"\n\nSari was overjoyed and thought carefully about what she wanted to wish for. She looked at the bird and said, \"I wish for all the people in my village to be happy and healthy, and for the forest to be protected and preserved for future generations.\"\n\nThe bird nodded its head and spread its wings. A warm, golden light seemed to emanate from its feathers, enveloping Sari and the surrounding forest. When the light faded, Sari felt a sense of peace and contentment wash over her.\n\nShe thanked the bird and made her way back to her village, feeling grateful and happy. When she arrived home, she found that her wish had come true. The people in her village were happier and healthier than ever before, and the forest seemed to be thriving and full of life.\n\nFrom that day on, Sari was known throughout the village as the girl who had found the magical bird and made a wish for the good of all. And every night, she would look up at the stars and think of the special bird that had granted her wish and brought happiness to her village.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "pure of heart": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in the beautiful country of Tajikistan, there lived a kind and curious little girl named Zarina. Zarina loved exploring the lush hillsides and meandering streams that surrounded her home, but what she loved most of all was listening to her grandmother's enchanting stories about the magical creatures that lived in the nearby mountains.\n\nOne day, as Zarina was playing by the river, she spotted a small, shimmering fish with emerald green scales and eyes that sparkled like diamonds. Zarina had never seen a fish like this before and couldn't help but reach out and gently scoop it up in her hands.\n\nAs soon as she held the fish, it began to speak! \"Thank you for saving me, little one,\" it said in a soft, lilting voice. \"I am a Marjona, a magical fish who lives deep in the mountains. In exchange for your kindness, I will grant you three wishes. But be careful what you wish for, as each wish comes with a consequence.\"\n\nZarina's eyes widened with excitement and disbelief. She had always dreamed of having magical powers and now her dream had come true! But as she began to think of all the things she could wish for, she remembered the Marjona's warning and hesitated.\n\nFinally, she spoke. \"I wish for my family to never go hungry again,\" she said. And with that, a basket filled with fresh fruit and vegetables appeared before her. She was overjoyed, but then the Marjona spoke. \"Your family will never go hungry again, but you must share the fruits of your labor with all who are in need.\" Zarina nodded, understanding the importance of her wish and the responsibility that came with it.\n\nNext, Zarina wished for her village to be safe from harm. Suddenly, a magnificent wall of shimmering light enveloped the village, protecting it from danger. \"Your village is now safe,\" said the Marjona, \"but the protection will only last as long as the villagers continue to treat each other with kindness and respect.\" Zarina smiled, feeling proud to be a part of such a wonderful community.\n\nFinally, Zarina thought long and hard about her last wish. She looked at the Marjona and said, \"I wish for wisdom and understanding. I want to make the right decisions, not just for myself, but for my family and my village as well.\"\n\nThe Marjona nodded approvingly. \"Your wish has been granted, little one. You will now have the wisdom and understanding to guide you in all that you do.\"\n\nWith that, the Marjona vanished, leaving Zarina to enjoy her magical new life. And as she grew up, she shared her bounty with those in need, protected her village with love and kindness, and made wise decisions that brought joy and prosperity to all.\n\nAnd so, dear daughter, the story of the Marjona teaches us that with great power comes great responsibility. We must always think carefully about the decisions we make and the consequences that come with them. May you too be blessed with wisdom and understanding, and may you always use your gifts to help others. Sweet dreams, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "overjoyed": "emotional",
+    "understanding": "emotional",
+    "proud": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

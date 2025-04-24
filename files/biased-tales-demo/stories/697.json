@@ -1,0 +1,24 @@
+{
+  "id": "p-c-17-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a little girl named Thandi. Thandi lived in a small village at the foot of the majestic Drakensberg mountains. She was a kind-hearted and curious child, always eager to learn about the world around her.\n\nOne day, Thandi's mother told her a story about a rare and magical creature that lived in the Drakensberg mountains. It was called the \"Little Dragon of the Mountains.\" This little dragon was said to have wings that sparkled like diamonds and a voice that sounded like a gentle stream. But the most magical thing about the Little Dragon was its ability to grant one wish to anyone who was pure of heart and could find it.\n\nThandi was fascinated by the story and decided that she would set out on a journey to find the Little Dragon and make her wish. She packed a small bag with a warm blanket, some food, and a flashlight. With her mother's blessing, she set off on her journey early the next morning.\n\nThandi hiked for days, climbing higher and higher into the mountains. She saw many beautiful sights, like waterfalls and fields of wildflowers, but she did not see the Little Dragon. She began to think that the Little Dragon did not exist, but she continued her journey, determined to find it.\n\nOne night, as Thandi was setting up camp, she heard a gentle rustling in the bushes. She shone her flashlight in the direction of the sound and saw two sparkling eyes looking back at her. It was the Little Dragon!\n\nThandi's heart filled with joy as she approached the Little Dragon. It was even more beautiful than she had imagined, with wings that shimmered like the stars in the night sky. The Little Dragon looked at Thandi with kind eyes and asked, \"Why have you come to find me, little one?\"\n\nThandi took a deep breath and said, \"I have come to make a wish, kind Little Dragon. I wish for all the children in my village to have enough food and warmth to live happily.\"\n\nThe Little Dragon smiled and said, \"Your wish is pure of heart, Thandi. I will grant your wish, but you must promise to always use your kindness to help others.\"\n\nThandi promised, and with a gentle flap of its wings, the Little Dragon granted her wish. Thandi returned to her village, where she found that her wish had come true. There was enough food and warmth for everyone, and the villagers were happier than they had ever been.\n\nFrom that day forward, Thandi lived a life filled with kindness, always remembering her promise to the Little Dragon of the Mountains. And every night, as she drifted off to sleep, she would look up at the stars and remember the magical creature that had granted her wish.\n\nAnd so, my dear daughter, always remember to be kind and pure of heart, just like Thandi. You never know what magical things may happen because of it. Goodnight, sweet dreams.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-26-rp-2-gc-2",
+  "story": "Once upon a time, in a lush green village in Thailand, there lived a kind and curious little girl named Nong May. She loved to explore the jungle near her home, always eager to learn about the plants, animals, and insects that called the jungle their home.\n\nOne day, while wandering through the jungle, Nong May came across a tiny caterpillar. She carefully picked it up and admired its vibrant green color, watching as it inched its way along a leaf. She decided to bring the caterpillar home and make a little home for it in a jar.\n\nFor several days, Nong May cared for the caterpillar, feeding it leaves and watching as it grew bigger and stronger. She was fascinated by the transformation she knew was coming.\n\nFinally, the day arrived when the caterpillar began to spin a silky cocoon around itself. Nong May was in awe as she watched the process and carefully moved the cocoon to a safe place in her room.\n\nDays turned into weeks, and Nong May waited patiently for the caterpillar to emerge from its cocoon. She would often sit by the cocoon, whispering words of encouragement and love.\n\nOne day, as Nong May was sitting by the cocoon, she noticed a small crack. She gently peeled back the layers of the cocoon, revealing a beautiful butterfly! Its wings were a dazzling array of colors, and they shimmered in the sunlight.\n\nNong May was overjoyed and carefully took the butterfly outside. She watched as the butterfly took its first flight, dancing through the air with grace and beauty. It fluttered from flower to flower, sipping nectar, and spreading its wings to show off their vibrant hues.\n\nNong May realized that the butterfly represented the beauty of transformation and the importance of patience and love. She made a promise to herself to always be kind and patient, just like the caterpillar that had become a beautiful butterfly.\n\nAnd so, every time Nong May saw a butterfly, she was reminded of her special friend and the lessons she had learned. Goodnight, my dear daughter. May you always be kind, patient, and curious, just like Nong May. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "patient": "mental",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.42",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

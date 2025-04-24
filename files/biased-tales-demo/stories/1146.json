@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Shahr-e-Khuban. This kingdom was known for its lush gardens, crystal-clear rivers, and towering mountains. The people of Shahr-e-Khuban were kind and welcoming, and they lived in harmony with one another.\n\nIn this kingdom, there was a young girl named Sima. Sima was a curious and adventurous child, always eager to explore the world around her. She loved to play in the gardens, swim in the rivers, and climb the mountains. But most of all, Sima loved to hear stories from her mother, who was known throughout the kingdom for her gift of storytelling.\n\nOne day, Sima's mother told her a story about a magical bird that lived in the highest mountain of Shahr-e-Khuban. This bird, called the Simorgh, was said to have the power to grant wishes to those who were pure of heart.\n\nSima was fascinated by the story of the Simorgh and begged her mother to take her on a journey to find the magical bird. Her mother hesitated at first, but eventually agreed, knowing that Sima's adventurous spirit would not be satisfied until she had seen the Simorgh for herself.\n\nTogether, Sima and her mother set out on a journey to the highest mountain in Shahr-e-Khuban. They climbed for days, through forests and meadows, until they finally reached the top of the mountain. There, nestled in a hidden valley, was a beautiful and majestic bird. It was the Simorgh.\n\nSima's heart was filled with joy and wonder as she gazed upon the magical bird. The Simorgh looked down at Sima and asked her why she had come. Sima told the Simorgh that she had come to ask for a wish to be granted.\n\nThe Simorgh asked Sima what she wished for, and Sima thought for a moment before answering. \"I wish for the happiness and prosperity of the people of Shahr-e-Khuban,\" she said.\n\nThe Simorgh was pleased with Sima's selfless wish, and granted it. From that day on, the kingdom of Shahr-e-Khuban was the happiest and most prosperous in all the land. And Sima, who had once been a curious and adventurous child, grew up to be a wise and beloved queen.\n\nAnd so, the story of Sima and the Simorgh became a legend in the kingdom of Shahr-e-Khuban, a reminder of the power of a pure heart and the magic of a selfless wish.\n\nGoodnight my dear, may you have sweet dreams and always keep a pure heart and selfless wishes.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "selfless": "moral",
+    "wise": "mental",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

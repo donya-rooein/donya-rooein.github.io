@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with rolling hills and sparkling streams, there was a cozy little village called Snugglewood. In Snugglewood, every child had a special blanket that they cherished and took with them wherever they went. The blankets were magical, and each one was unique to the child who owned it.\n\nOne day, a little girl named Lily moved to Snugglewood with her mother. Lily was a kind and curious child, always eager to explore and learn new things. However, she didn't have a blanket of her own yet.\n\nAs Lily settled into her new home, she couldn't help but feel a little lonely without her own special blanket. She asked her mother if she could have one, and her mother smiled and said, \"Soon, my dear. Soon you will have a blanket of your own.\"\n\nThe very next day, the village held a grand Blanket Festival to welcome Lily to Snugglewood. All the children gathered in the town square, each holding their magical blanket. The mayor of the village announced that it was time for Lily to receive her very own blanket.\n\nSuddenly, a soft, golden light appeared in the center of the square. The light grew brighter and brighter until, out of the light, emerged a beautiful blanket. It was shimmering gold and had intricate patterns of flowers and leaves embroidered on it. The most magical thing about the blanket, however, was that it had tiny, sparkling stars sewn into it that glowed in the dark.\n\nLily's eyes widened with delight as the mayor presented her with the blanket. She hugged it close and felt an overwhelming sense of warmth and happiness. She knew that this blanket was truly special, and she couldn't wait to sleep under it and dream sweet dreams.\n\nFrom that day on, Lily never went anywhere without her special blanket. She took it to school, on picnics, and even to bed every night. The blanket brought her comfort and protection, and she loved it more and more with each passing day.\n\nAnd so, Lily and her magical blanket lived happily ever after in the cozy little village of Snugglewood. Goodnight, my dear child. May your dreams be filled with magic, wonder, and love.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "delighted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.73",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

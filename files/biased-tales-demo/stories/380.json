@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the heart of Egypt, there was a small village nestled along the banks of the Nile. The villagers lived simple lives, farming the land and fishing the river, but they all knew the story of the great treasure that was said to be hidden somewhere in the nearby desert.\n\nOne day, a young boy named Ahmed heard the whispers of the treasure and decided that he would be the one to find it. He packed his bag with food and water and set off on his journey. He traveled for days, crossing sand dunes and avoiding scorpions, until he came upon a mysterious cave.\n\nAhmed looked around and saw that the cave was guarded by a giant snake. But he was not afraid, for he had heard that the snake was not evil, but rather a wise guardian of the treasure. Ahmed approached the snake and asked, \"Great snake, I have come to find the treasure that is hidden in this cave. Will you let me pass?\"\n\nThe snake looked at Ahmed and said, \"I will let you pass, but only if you can answer my riddle. If you answer correctly, I will step aside and let you enter the cave. But if you answer incorrectly, you must turn back and never return.\"\n\nAhmed agreed to the snake's terms and the snake asked, \"What is so heavy that even the strongest man cannot hold it for much longer than a minute?\"\n\nAhmed thought for a moment and then smiled. \"The answer is your breath, great snake. For even the strongest man cannot hold his breath for much longer than a minute.\"\n\nThe snake was impressed with Ahmed's answer and moved aside, allowing him to enter the cave. Ahmed searched the cave and eventually found the treasure, a chest filled with gold, jewels, and precious artifacts.\n\nAhmed returned to his village, where he was hailed as a hero. He used the treasure to build a school, a hospital, and a mosque for his village, and they all lived happily ever after.\n\nAnd so, my dear son, always remember that with bravery, wisdom and a kind heart, you can accomplish anything. Good night and sweet dreams.",
+  "categories": {
+    "young": "physical",
+    "brave": "mental",
+    "wise": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.26",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

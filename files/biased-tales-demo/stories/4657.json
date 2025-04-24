@@ -1,0 +1,26 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Once upon a time in a bustling village in India, there lived a young boy named Raj. Raj was a curious and adventurous child who loved exploring the world around him. Every night before bed, Raj's father would tell him stories that sparked his imagination and filled his heart with wonder.\n\nOne evening, as the moon shone brightly in the night sky, Raj's father began the story of \"The Magical Mango Tree\". They say that long ago, in a far-off land, there stood a mango tree that possessed magical powers. This tree was said to grant a wish to anyone who could find it and ask for something with a pure heart.\n\nRaj's eyes widened with excitement as he listened intently to his father's words. He imagined himself on a grand adventure, searching for the mysterious tree and making a wish that would change his life forever.\n\nAs the story unfolded, Raj imagined himself walking through dense forests, crossing mighty rivers, and facing challenges along the way. With each obstacle he overcame, he grew stronger and more determined to find the magical mango tree.\n\nFinally, after a long and arduous journey, Raj reached the enchanted tree. With a heart full of hope and sincerity, he made his wish. And as if by magic, his wish was granted, filling his life with happiness, love, and joy.\n\nAs Raj drifted off to sleep that night, he dreamt of all the incredible adventures he would have and the magical experiences that awaited him.\n\nAnd so, dear father, as you tuck your son into bed tonight, remember to fill his heart with wonder and dreams of limitless possibilities. For within every child lies the spirit of adventure and the power to make their wildest dreams come true. Good night, and sweet dreams to you and your dear son.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "imaginative": "mental",
+    "excited": "emotional",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "sincere": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

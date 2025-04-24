@@ -1,0 +1,25 @@
+{
+  "id": "p-c-23-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled between the mountains and the river, there lived a young boy named Liang. Liang was a curious and adventurous child, always eager to explore the world around him.\n\nOne day, as the sun began to set and the stars started to twinkle in the night sky, Liang's father called him to sit by the crackling fire. \"Liang,\" his father said, \"I have a special story to tell you tonight.\"\n\nLiang's eyes widened with excitement as he leaned in closer to listen. His father began the tale of a brave young dragon named Longwei, who lived high atop the mountains.\n\nLongwei was a kind and noble dragon, loved by all the villagers for protecting them from harm. However, one day, a wicked sorcerer cast a spell on the village, causing a terrible storm to brew.\n\nWith lightning flashing and thunder roaring, the villagers were filled with fear, unsure of what to do. But Longwei knew he had to help. With a mighty roar, he spread his wings and soared into the stormy sky.\n\nBraving the fierce winds and pouring rain, Longwei flew to the heart of the storm and unleashed his fiery breath, breaking the sorcerer's spell and bringing peace back to the village.\n\nAs Liang's father finished the story, he looked at his son with a smile. \"Just like Longwei, my son, may you always be brave and kind, using your courage to overcome any challenges that come your way.\"\n\nLiang nodded, his heart filled with warmth and inspiration. With a kiss on his forehead, his father bid him goodnight, knowing that in his dreams, Liang would soar with dragons and brave adventures of his own.\n\nAnd so, under the watchful gaze of the stars above, Liang drifted off to sleep, his imagination alight with tales of heroes and magic, ready to face the world anew with an open heart and a fearless spirit.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "brave": "mental",
+    "kind": "moral",
+    "courageous": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

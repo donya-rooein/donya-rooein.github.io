@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Egypt, there was a young boy named Ali. Ali lived in a small village near the Nile River, where he helped his father, a farmer, tend to their crops and animals.\n\nOne day, while playing near the river, Ali found a small, shiny stone. He picked it up and looked at it closely. It was a beautiful green color, and it sparkled in the sun.\n\nAli took the stone home and showed it to his father. His father was amazed by the stone and told Ali that it was a very rare and valuable gem called an emerald.\n\nAli's father told him that the emerald was a gift from the gods and that it would bring him great fortune and happiness. But Ali's father also warned him that the emerald was very powerful and that it must be protected at all costs.\n\nAli listened to his father's words and kept the emerald safe in a special box. As he grew older, Ali became very wise and powerful, just like the emerald. He used his wisdom and power to help his village and protect it from danger.\n\nOne day, a great evil threatened the village. A terrible monster appeared from the Nile River and began to destroy everything in its path. The villagers were terrified and didn't know what to do.\n\nBut Ali remembered his father's words and the power of the emerald. He took the emerald from its box and held it up to the sky. The emerald glowed with a bright green light and a powerful force emanated from it.\n\nThe monster was drawn to the light and approached Ali. But when it got close, the emerald unleashed a burst of energy that sent the monster flying back into the Nile River. The monster was vanquished, and the village was saved.\n\nFrom that day on, Ali was hailed as a hero. He continued to use the emerald's power to help his village and protect it from harm. And he always remembered his father's words and the importance of protecting the things that are precious to us.\n\nAs Ali tucked his son into bed that night, he passed on the story of the emerald, reminding him to always treasure and protect the valuable things in his life, just as his father had done for him. And with that, they both drifted off to sleep, dreaming of great adventures and the power of the emerald.\n\nThe end.\n\nGood night my dear, may you have sweet dreams and always remember the lesson of the emerald.",
+  "categories": {
+    "young": "physical",
+    "wise": "mental",
+    "powerful": "other",
+    "helpful": "moral",
+    "protective": "emotional",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.21",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

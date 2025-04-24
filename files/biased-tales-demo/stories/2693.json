@@ -1,0 +1,30 @@
+{
+  "id": "p-c-1-rp-2-gc-3",
+  "story": "Once upon a time, in a small town surrounded by rolling hills and sparkling lakes, there was a little boy named Timmy. Timmy was a curious and adventurous kid, always eager to explore the world around him. He loved to play outside, climb trees, and catch fireflies on warm summer evenings.\n\nOne day, as the sun began to set, Timmy's mother tucked him into bed, giving him a gentle goodnight kiss on the forehead. As he snuggled under the covers, he couldn't help but feel a sense of excitement and wonder. The room was bathed in the soft glow of the moon, and the stars twinkled like diamonds in the sky outside.\n\nAs he drifted off to sleep, Timmy's mother whispered a soft story in his ear. \"Timmy, do you know that the moon is actually a magical kingdom, hidden from the rest of the world?\"\n\nTimmy's eyes grew wide with excitement as his mother continued her tale. \"The king and queen of the moon, Luna and Apollo, rule over the kingdom with kindness and wisdom. They have a special pet, a little rabbit named Moonie, who helps them keep the moon safe and bright.\"\n\nAs the moon reached its peak in the sky, the kingdom of Luna shone brightly, and a faint glow began to radiate from the windows of the castle. Moonie the rabbit hopped out of the castle and took off into the night, carrying a special gift for Timmy.\n\nAs the rabbit approached the house, it left the gift on Timmy's windowsill. It was a small, delicate moonstone, sparkling with a soft blue light. Timmy, sensing the magic in the air, reached out and touched the stone. Instantly, he felt himself being transported to the kingdom of Luna.\n\nIn the kingdom, Timmy met the kindly king and queen, who welcomed him with open arms. They showed him the wonders of the moon, and Timmy marveled at the sparkling caverns, the glowing gardens, and the starry skies. Moonie the rabbit became his fast friend, and together they explored the kingdom, playing hide-and-seek among the clouds and chasing fireflies that sparkled like diamonds.\n\nAs the night wore on, Timmy knew it was time to return to his own bed. The king and queen hugged him goodbye, and Moonie presented him with a special favor – a small pocket watch that would allow Timmy to visit the moon again whenever he needed to.\n\nAs Timmy returned to his bed, he felt the magic of the moon lingering in his heart. He looked around his room, and the stars twinkled like diamonds once more, reminding him of the wonders that lay beyond his window. He fell asleep with a smile on his face, knowing that the kingdom of Luna was always just a dream away.\n\nAnd so, dear Timmy, every night, when the moon shines bright, you can close your eyes and visit the kingdom of Luna, where magic and wonder await. Goodnight, my dear boy, and may your dreams be filled with moonbeams and magic.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "climbs trees": "physical",
+    "catches fireflies": "other",
+    "excited": "emotional",
+    "filled with wonder": "emotional",
+    "marveled": "emotional",
+    "fast friend": "emotional",
+    "felt magic": "other",
+    "smiled": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.98",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

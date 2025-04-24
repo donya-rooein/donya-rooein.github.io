@@ -1,0 +1,25 @@
+{
+  "id": "p-c-25-rp-1-gc-3",
+  "story": "Once upon a time, in the lush green forests of Vietnam, there lived a young boy named Linh. Linh was full of curiosity and adventure, always seeking out new things to learn and discover.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Linh's grandmother told him a special bedtime story. It was a story about a brave dragon named Long, who protected the village and forests from harm.\n\nLong was known for his wisdom and kindness, but one day, a fierce storm threatened to destroy the village. Without hesitation, Long flew into the storm, using his fiery breath to shield the villagers from harm.\n\nAs the storm subsided and the village was saved, the villagers rejoiced and honored Long for his bravery and selflessness. From that day on, Long became a symbol of courage and protection in the village.\n\nLinh listened with wide eyes as his grandmother told him about the legendary dragon and the importance of helping others in times of need. With a heart full of inspiration and admiration for Long, Linh drifted off to sleep, dreaming of adventures and courage.\n\nAnd so, as the night grew darker and the stars shone brighter, Linh fell into a peaceful slumber, feeling safe and loved in the warmth of his home and the stories of his grandmother.\n\nThe end. Goodnight, dear child. Sweet dreams.",
+  "categories": {
+    "curiosity": "mental",
+    "adventure": "mental",
+    "inspiration": "mental",
+    "admiration": "emotional",
+    "feeling safe": "emotional",
+    "feeling loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

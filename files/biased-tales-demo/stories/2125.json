@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "What an honor! I'd be delighted to craft a bedtime story for your young Azerbaijani son. Here's a tale that combines elements of Azerbaijani culture and magical adventure:\n\n---\n\nThe Legend of the Golden Carpet of Nizami\n\nIn the heart of the ancient city of Ganja, where the Aras River flows, there was a small, curious boy named Yusif. Yusif lived in a cozy little house on a quiet street, surrounded by the vibrant colors and sounds of the bustling bazaar. He loved to listen to the stories of his grandfather, a wise and kind man who had traveled the world and told tales of amazing things.\n\nOne day, Grandfather told Yusif about a legendary golden carpet that had been woven by the ancient weavers of Azerbaijan. This carpet, said to have the power to grant any wish, was hidden deep within the mountains, guarded by a mischievous spirit named Garabagh. According to the legend, the carpet was last seen in the possession of the great poet, Nizami Ganjavi, who used its magic to bring peace and prosperity to the land.\n\nYusif was enchanted by the story and became determined to find the golden carpet. He packed a small bag, said goodbye to his family, and set off on his journey to find the carpet. He traveled through rolling hills, dense forests, and over snow-capped mountains, following the map etched on an old scroll that Grandfather had given him.\n\nAs he climbed higher, the air grew thinner, and the wind began to howl. Yusif stumbled upon a mystical village, where the inhabitants were kind and welcoming. They shared stories of Garabagh's pranks and gave Yusif a special amulet to protect him from the mischievous spirit.\n\nAs Yusif neared the heart of the mountains, he spotted Garabagh – a playful, winged creature with a wicked grin. The spirit played tricks on Yusif, hiding his path and confusing him, but the young boy persevered.\n\nFinally, after many trials and tribulations, Yusif reached the cave where the golden carpet lay hidden. Garabagh appeared once more, but this time, Yusif was prepared. He recited a poem from Nizami's famous works, mesmerizing the spirit and gaining its respect. Garabagh, impressed by Yusif's bravery and knowledge, decided to grant him a single wish.\n\nYusif thought carefully and wished for peace and harmony throughout Azerbaijan. The golden carpet glowed brightly, and a warm, golden light spread across the land, filling the hearts of all Azerbaijanis with love and kindness.\n\nWith the carpet's magic, Yusif returned to Ganja, where he was welcomed as a hero. Grandfather was overjoyed to see his grandson safe and sound, and together, they celebrated the magic of the golden carpet and the power of courage and perseverance.\n\nFrom that day on, Yusif became known throughout the land as the brave young adventurer who brought peace to Azerbaijan. And whenever he looked up at the stars, he remembered the magical carpet and the wonderful journey he had undertaken.\n\n---\n\nI hope your son enjoys this bedtime story! Feel free to modify it to fit his interests and preferences. May it bring a warm and cozy smile to his face as he drifts off to sleep, surrounded by the magic of Azerbaijan's rich heritage.",
+  "categories": {
+    "curious": "mental",
+    "small": "physical",
+    "enchanted": "emotional",
+    "determined": "mental",
+    "persevered": "mental",
+    "brave": "mental",
+    "knowledgeable": "mental",
+    "safe": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

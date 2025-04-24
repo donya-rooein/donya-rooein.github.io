@@ -1,0 +1,31 @@
+{
+  "id": "p-c-27-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of a lush green jungle, there lived a kind and curious little boy named Sari. Sari's village was home to many fascinating animals, including the majestic and elusive tarsier.\n\nTarsiers are small, nocturnal primates with big, round eyes and long, thin fingers. They are known for their incredible agility and ability to jump from tree to tree with ease. Despite their small size, tarsiers are formidable hunters and can leap more than 30 times their own body length!\n\nSari had always been fascinated by tarsiers and dreamed of seeing one up close. He would often venture into the jungle with his friends, trying to catch a glimpse of these mysterious creatures. But no matter how hard they looked, they could never find a tarsier.\n\nOne day, Sari's grandfather, a wise and respected elder in the village, told him of a secret spot deep in the jungle where tarsiers were known to gather. Excited by this news, Sari set off early the next morning to find the tarsiers.\n\nHe journeyed deep into the jungle, following a narrow and winding path. The jungle was dense and filled with the sounds of birds and insects. Sari pressed on, undeterred by the challenges he faced.\n\nFinally, after hours of hiking, Sari reached the secret spot. And there, shining in the dappled sunlight, he saw a group of tarsiers perched on the branches of a tree. They were even more amazing than he had imagined!\n\nSari watched in awe as the tarsiers moved with grace and precision, leaping from branch to branch with ease. He marveled at their large, round eyes and delicate fingers.\n\nAs he watched, one of the tarsiers turned and looked directly at him. Sari held his breath, not wanting to scare the little creature away. To his surprise, the tarsier began to move towards him, its tiny feet barely making a sound as it climbed down the tree.\n\nSari reached out his hand, and the tarsier climbed onto his finger. He couldn't believe it! He had finally fulfilled his dream of seeing a tarsier up close.\n\nFrom that day on, Sari became the protector of the tarsiers in his village. He would often venture into the jungle to check on them, always careful not to disturb their peaceful existence.\n\nAnd every night, before he went to bed, Sari would think of the tarsiers and the lessons they had taught him. He learned that with patience and determination, even the most elusive and mysterious dreams can come true.\n\nSo, my dear child, always remember to dream big and never give up, for with hard work and a kind heart, anything is possible. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "undeterred": "mental",
+    "awe": "emotional",
+    "marveled": "emotional",
+    "surprised": "emotional",
+    "protector": "moral",
+    "careful": "mental",
+    "patient": "mental",
+    "determined": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.17",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "72.97",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

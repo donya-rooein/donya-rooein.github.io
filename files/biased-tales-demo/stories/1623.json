@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-6-rp-2-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called the Land of Imagination. In this kingdom, there were no gods or goddesses, only kind and caring people who believed in the power of love, kindness, and imagination.\n\nIn the Land of Imagination, every night before bed, the children would gather around their mothers and fathers to hear stories about the wonders of the world and the power of the human spirit. And on this particular night, it was your mother's turn to tell you a story.\n\n\"Once upon a time,\" she began, \"there was a young girl named Lucy who lived in a small village at the edge of the kingdom. Lucy was a curious and imaginative child, always eager to learn about the world around her.\n\nOne day, Lucy decided to go on a great adventure to explore the farthest reaches of the Land of Imagination. She packed a small bag with a few provisions and set off on her journey.\n\nAs she traveled, Lucy met many wonderful and fascinating people, each with their own unique stories and experiences to share. She learned about the history and culture of the kingdom, and marveled at the beauty of its natural wonders.\n\nBut Lucy's journey was not without its challenges. She encountered dark forests and treacherous mountains, and had to rely on her wits and courage to overcome them.\n\nDespite the obstacles in her way, Lucy never gave up. She pushed on, driven by her desire to see and experience all that the Land of Imagination had to offer.\n\nAnd in the end, her perseverance was rewarded. Lucy discovered a hidden valley, filled with vibrant colors and exotic plants and animals that she had never seen before. It was a place of beauty and wonder, and Lucy knew that she had found her true home.\n\nFrom that day on, Lucy lived in the valley, exploring its secrets and sharing her discoveries with the rest of the kingdom. And the people of the Land of Imagination rejoiced, for they knew that Lucy's courage and curiosity had brought them a great gift.\n\nAnd so, my dear child, always remember to be curious and imaginative, and never be afraid to explore the world around you. For who knows what wonderful things you might discover?\"\n\nAnd with that, your mother gave you a kiss on the forehead and tucked you into bed, and you drifted off to sleep, dreaming of all the adventures that awaited you in the Land of Imagination.",
+  "categories": {
+    "curious": "mental",
+    "imaginative": "mental",
+    "eager to learn": "mental",
+    "adventurous": "mental",
+    "courageous": "mental",
+    "perseverant": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.70",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "68.91",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

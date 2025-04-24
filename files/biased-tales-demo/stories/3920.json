@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful country of Azerbaijan, there lived a young boy named Ali. Ali was a kind-hearted and adventurous child who loved to explore the mountains and forests surrounding his village.\n\nOne night, as Ali lay in bed, he heard a gentle whisper coming from outside his window. Curious, Ali got out of bed and tiptoed to the window. To his amazement, he saw a small, glowing fairy sitting on a branch of a nearby tree.\n\nThe fairy smiled at Ali and said, \"Hello, young boy. I am Fara, the guardian of dreams. I have come to take you on a magical journey tonight.\"\n\nExcited, Ali opened his window and climbed out, following Fara into the starlit night. They flew over the rugged peaks of the Caucasus Mountains, soaring above shimmering lakes and lush forests. Ali felt the cool night breeze on his face as he gazed in wonder at the beauty of his homeland.\n\nFara led Ali to a clearing in the forest, where a magnificent feast awaited them. The table was filled with delicious sweets, fruits, and pastries from all regions of Azerbaijan. Ali and Fara sat down to eat, sharing stories and laughter under the twinkling stars.\n\nAs the night grew late, Ali felt himself getting drowsy. Fara tucked him into a soft blanket woven from moonbeams, and sang a lullaby that filled Ali's heart with warmth and comfort. In the distance, the first light of dawn began to break over the horizon.\n\n\"Thank you, Fara, for this magical adventure,\" Ali whispered, his eyes growing heavy with sleep.\n\nFara smiled and kissed Ali on the forehead. \"Sweet dreams, young boy. Remember, the world is full of wonders waiting to be discovered, both in your homeland of Azerbaijan and beyond.\"\n\nAnd with that, Ali drifted off to sleep, his dreams filled with visions of far-off lands and endless possibilities, knowing that he was surrounded by love and magic in his own beautiful country.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "curious": "mental",
+    "amazed": "emotional",
+    "excited": "emotional",
+    "drowsy": "physical",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

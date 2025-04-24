@@ -1,0 +1,30 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful mountain village in Armenia, there lived a kind and hardworking mother and her curious little daughter named Anahit. The village was surrounded by lush green forests, sparkling rivers, and majestic mountains. It was a place where people lived simply and in harmony with nature.\n\nOne warm summer day, Anahit's mother decided to take her on a special adventure through the forest. She wanted Anahit to learn about the plants, animals, and legends that made their village so unique.\n\nAs they walked, Anahit's mother pointed out different types of trees and flowers, sharing stories about their healing properties and the ancient myths that surrounded them. Anahit listened carefully, her eyes wide with wonder.\n\nSoon, they came upon a clearing where a group of children were gathered around a wise old woman. She was dressed in a colorful Armenian shawl and had a warm smile that radiated kindness.\n\n\"Who is that lady?\" asked Anahit in a hushed voice.\n\n\"That's Tanta Nune, the village herbalist,\" replied her mother. \"She has a special gift for understanding the secrets of nature and healing the sick with herbs and potions.\"\n\nAnahit was fascinated. As they approached, Tanta Nune turned her attention to the mother and daughter, inviting them to join their little circle.\n\nThe old woman began to tell a story of the mystical Aralez, the eternal dogs that lived in the mountains. Legend has it that the Aralez could heal any wound, even those of fallen warriors, with just one lick.\n\nAnahit listened, enchanted. Her imagination took flight, and she could almost see the magnificent dogs with their shimmering white coats, soaring through the sky and spreading their healing magic.\n\nAfter the story, Anahit approached Tanta Nune, her eyes full of curiosity. \"Tanta, is it true that the Aralez can heal anyone?\" she asked.\n\n\"The Aralez are creatures of legend, my dear,\" answered Tanta Nune. \"But while they may not exist in the physical world, their spirit of healing lives on in the hearts and hands of those who care for others. When we use herbs and plants to heal, we become like the Aralez, channeling the power of nature and love.\"\n\nAnahit smiled, understanding the deeper meaning of the tale. She looked up at Tanta Nune and asked, \"Will you teach me how to be like the Aralez and heal others with herbs?\"\n\n\"Of course, my dear!\" Tanta Nune replied. \"You have already taken the first step by opening your heart to the wisdom of nature. Now let us walk together and learn the secrets of the green world.\"\n\nAnd so, mother and daughter spent the rest of the summer exploring the forests and meadows with Tanta Nune, learning the secrets of healing herbs and potions. In the years that followed, Anahit's fame as a caring and skilled herbalist spread, and she became a source of hope, love, and healing for her entire village.\n\nAs Anahit closed her eyes that night, her mother whispered in her ear, \"And always remember, my dear Anahit, that in your heart lies the spirit of the Aralez, ready to heal and comfort those in need.\"\n\nAnd with that thought, Anahit drifted to sleep, dreaming of white-coated dogs soaring through the sky, tendrils of misty healing magic swirling around them. She knew that the lessons of that day would stay with her forever, like the gentle whispers of her beloved Armenian mountains. Goodnight, my dear Anahit. May you always find the wisdom and healing power of nature.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "enchanted": "emotional",
+    "imaginative": "mental",
+    "understanding": "emotional",
+    "caring": "emotional",
+    "skilled": "other",
+    "hopeful": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.36",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

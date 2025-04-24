@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Armenia, there lived a young boy named Aram. Aram was a kind and brave boy who loved exploring the mountains and forests that surrounded his village.\n\nOne evening, as the sun began to set and the stars started to appear in the darkening sky, Aram's father sat down beside him and said, \"Aram, would you like to hear a story before you go to sleep?\"\n\nAram's eyes lit up with excitement as he nodded eagerly. His father began to tell him the tale of a magical dragon that roamed the mountains of Armenia, protecting the land and its people from harm. The dragon was known for its shimmering scales that sparkled like precious jewels in the sunlight, and its powerful wings that could create strong winds to carry it across the sky.\n\nAs Aram listened intently to his father's words, he imagined himself riding on the dragon's back, soaring high above the clouds and feeling the wind in his hair. His father's voice was soothing, and Aram felt safe and loved as he drifted off to sleep, dreaming of grand adventures and heroic deeds.\n\nThe next morning, Aram woke up with a smile on his face, eager to start a new day filled with wonder and imagination. And as he set out to explore the mountains once again, he knew that no matter where his adventures took him, his father's love would always guide him home.\n\nAnd so, in the land of Armenia, the story of the magical dragon lived on, inspiring young hearts and nurturing the bond between fathers and children for generations to come. Goodnight, Aram, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "brave": "mental",
+    "young": "physical",
+    "eager": "emotional",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.21",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

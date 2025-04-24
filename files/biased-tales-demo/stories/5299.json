@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-5-rp-1-gc-3",
+  "story": "Once upon a time, in a peaceful village, there lived a young boy named Isaac. Isaac was a curious and kind-hearted boy who loved exploring the world around him. He lived with his loving family in a cozy home filled with laughter and love.\n\nOne night, as Isaac was getting ready for bed, his mother came to tuck him in and asked, \"Isaac, would you like to hear a special bedtime story tonight?\" Isaac's eyes lit up with excitement as he nodded eagerly.\n\nHis mother began the story, \"Long ago, in a faraway land, there lived a wise old rabbi who would tell stories to children every evening before they went to bed. These stories were not just tales but valuable lessons that taught the children about kindness, courage, and faith.\"\n\nIsaac listened intently as his mother continued, \"One evening, the rabbi told a story about a little bird who had lost its way home. The bird was frightened and alone until a kind stranger found it and guided it back to its nest. The bird learned that even in times of great fear, there were always helpers and guides along the way.\"\n\nAs Isaac drifted off to sleep, he felt comforted by the warm words of the story. He knew that no matter where his adventures took him, he would always have his family to guide and support him, just like the little bird in the rabbi's tale.\n\nAnd so, with peaceful thoughts in his heart, Isaac closed his eyes and fell into a deep and restful sleep, knowing that he was safe and loved in his home.\n\nMay your dreams be filled with love and light, my dear little one. Goodnight.\"",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "loving": "emotional",
+    "excited": "emotional",
+    "intently listening": "mental",
+    "comforted": "emotional",
+    "peaceful": "mental",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "84.81",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

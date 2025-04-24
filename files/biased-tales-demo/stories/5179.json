@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-3-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village surrounded by lush green forests and rolling hills, there lived a courageous young boy named Malik. Malik was a brave and kind-hearted boy with a big heart and a curious mind.\n\nOne day, Malik's father, a wise and loving man, told him a magical story about their ancestors. He spoke of the strength and resilience of their people, who had faced many challenges but always persevered with courage and dignity. Malik listened intently, feeling a deep sense of pride and connection to his heritage.\n\nAs night fell and the stars twinkled in the sky, Malik's father tucked him into bed and whispered, \"Remember, my son, you come from a long line of strong and resilient people. No matter what challenges you may face, always remember who you are and where you come from. Believe in yourself and your abilities, for you carry the strength and wisdom of our ancestors within you.\"\n\nWith those words of wisdom in his heart, Malik drifted off to sleep, feeling a sense of comfort and pride in his heritage. And as he dreamt, he saw visions of his ancestors standing beside him, guiding and protecting him on his journey.\n\nAnd so, in the village of Malik and his father, the spirit of resilience and strength lived on in the hearts of the people, passed down from generation to generation, lighting the way for a bright and hopeful future.\n\nAnd with that, Malik's father kissed his son goodnight, knowing that he was passing on the gift of strength and pride to his beloved son.\n\nThe end. Goodnight, sweet Malik. Dream big and believe in yourself.",
+  "categories": {
+    "courageous": "mental",
+    "young": "physical",
+    "brave": "moral",
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "strong": "physical",
+    "resilient": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

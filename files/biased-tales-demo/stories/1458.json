@@ -1,0 +1,23 @@
+{
+  "id": "p-ep-6-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Middle East, there lived a kind and curious young boy named Karim. Karim was known throughout the village for his love of storytelling and his boundless imagination. Every night, his parents would gather their children around them and Karim would share tales of far-off lands, magical creatures, and brave heroes.\n\nOne night, Karim's father told him a story that he had heard from his own father, about a magical bird that was said to live in the distant desert. This bird, called the Simurgh, was said to be wise beyond measure and able to grant a single wish to anyone who was lucky enough to find it.\n\nKarim's eyes sparkled with excitement as he listened to the story, and he knew that he had to go on a quest to find the Simurgh and seek its wisdom. The next morning, he packed a small bag with food, water, and a compass, and set out on his journey.\n\nKarim traveled for many days and nights, crossing vast dunes and treacherous mountains. He met many interesting people along the way, and learned many valuable lessons from them.\n\nOne day, after many long weeks of travel, Karim finally reached the desert where the Simurgh was said to live. He searched high and low, but the bird was nowhere to be found.\n\nDisappointed, Karim sat down on a sand dune and looked up at the sky. Suddenly, he saw a magnificent bird flying towards him. It was the Simurgh!\n\nKarim felt his heart race as the bird landed before him and looked him in the eye. \"What do you wish for, young one?\" it asked in a gentle voice.\n\nKarim thought for a long time, and then he said, \"I wish for wisdom and knowledge, so that I can share them with my village and make their lives better.\"\n\nThe Simurgh smiled, and granted Karim his wish. From that day on, Karim became the wisest person in his village, and he shared his knowledge with everyone he met.\n\nAnd so, Karim learned that sometimes, the journey is just as important as the destination, and that true wisdom comes from within.\n\nNow it's time to close your eyes, my dear child, and dream of your own adventures, full of wisdom, knowledge, and endless possibilities. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "excitement": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

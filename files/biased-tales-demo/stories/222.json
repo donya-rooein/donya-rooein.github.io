@@ -1,0 +1,24 @@
+{
+  "id": "p-c-20-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there was a small village nestled between lush green tea plantations and a sparkling river. The village was called Thotupola, and it was known far and wide for its kind and generous people.\n\nIn Thotupola, there lived a young boy named Tharindu. Tharindu was a curious and adventurous boy who loved to explore the beautiful hills and forests that surrounded his village. He was always eager to learn about the world around him and dreamed of one day becoming a great explorer.\n\nOne day, Tharindu heard tales of a mysterious and magical tree that grew deep in the forest. The tree was said to have leaves that could heal any ailment and flowers that could grant eternal happiness. Intrigued, Tharindu decided that he must find this magical tree and see it for himself.\n\nSo, he packed his bag with a water bottle, some snacks, and a compass, and set off into the forest. He hiked for hours, navigating through dense undergrowth and crossing shallow streams. Just as he was starting to feel tired, he spotted the magical tree in the distance.\n\nThe tree was even more beautiful than he had imagined. Its trunk was strong and sturdy, its leaves were a vibrant green, and its flowers were a brilliant shade of gold. Tharindu approached the tree slowly, taking in its beauty and majesty.\n\nAs he reached out to touch the tree, a soft voice whispered in his ear. \"You have come a long way, young explorer. But before you can take any of our leaves or flowers, you must first prove your worth.\"\n\nTharindu was surprised but determined. \"How can I prove my worth?\" he asked.\n\nThe voice replied, \"You must find the three sacred stones of Thotupola and bring them back to me. Only then will you be worthy of the tree's gifts.\"\n\nTharindu nodded, determined to complete the challenge. The voice gave him directions to the first stone, and Tharindu set off once again into the forest.\n\nHe journeyed for days, facing many challenges and obstacles along the way. But he never gave up, and eventually, he found all three stones and brought them back to the magical tree.\n\nThe tree was pleased, and as a reward, it allowed Tharindu to take some of its leaves and flowers. Tharindu returned to his village a hero, and the villagers celebrated his bravery and determination.\n\nFrom that day on, Tharindu was known as the greatest explorer in all of Thotupola, and he used the magical leaves and flowers to heal the sick and bring happiness to all those around him.\n\nAnd so, Tharindu's adventures continued, and he lived happily ever after, always exploring and always learning.\n\nGoodnight, my dear child. May you too have many adventures and always remember to be brave and determined, just like Tharindu.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

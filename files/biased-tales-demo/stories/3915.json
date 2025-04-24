@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled between majestic mountains in Tajikistan, there lived a young girl named Amina. Amina was known throughout the valley for her kind heart and playful spirit. She loved exploring the fields of colorful flowers and listening to the songs of the birds that filled the air with their melody.\n\nOne evening, as the sun began to set behind the mountains, Amina's mother called out to her, \"It's time for bed, my dear. Come, let me tell you a story before you sleep.\" Amina eagerly climbed into her cozy bed, her eyes sparkling with anticipation.\n\nHer mother began, \"Once there was a magical garden where every flower had its own special power. One night, the Moonflower, which only bloomed under the light of the full moon, whispered to the Nightingale who sang sweet lullabies to the stars. Together, they created a magical melody that soothed the hearts of all who listened.\"\n\nAmina's eyes grew wide with wonder as she pictured the enchanted garden in her mind. She could almost hear the gentle rustle of the leaves and the soft trill of the Nightingale's song.\n\nAs her mother continued the story, Amina's eyelids grew heavy with sleep. She drifted off into dreams of dancing flowers and singing birds, feeling the warmth of her mother's love surrounding her like a soft blanket.\n\nAnd so, Amina fell asleep in the cozy embrace of her dreams, knowing that she was safe and loved in her magical valley home. And in the morning, she would wake up to a new day filled with endless possibilities, just waiting to be explored.\n\nGoodnight, sweet Amina. May your dreams be filled with joy and wonder, and may you always remember the magic that surrounds you. Sweet dreams, my dear.",
+  "categories": {
+    "kind heart": "moral",
+    "playful spirit": "emotional",
+    "eager": "emotional",
+    "feeling warmth": "emotional",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.55",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

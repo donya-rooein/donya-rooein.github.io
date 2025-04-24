@@ -1,0 +1,28 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time, in the ancient land of Iraq, there lived a brave young boy named Ali. Ali had big dreams and an even bigger heart. He lived in a small village surrounded by tall date palm trees and fertile fields.\n\nOne night, as Ali lay in his bed under the twinkling stars, he heard a whispering voice calling out to him. \"Ali,\" it said softly, \"come with me on a magical adventure.\"\n\nCurious and excited, Ali followed the voice and found himself at the edge of a vast desert. Before him stood a majestic flying carpet, shimmering in the moonlight. Without hesitation, Ali climbed aboard the carpet, and in an instant, they soared high up into the night sky.\n\nThey flew over ancient cities and glittering rivers, through towering mountains and lush valleys. Ali's heart swelled with wonder and joy as he beheld the beauty of his homeland from above.\n\nAs they traveled through the night, the flying carpet began to slow down, gently descending towards the ground. Ali found himself standing in a breathtaking oasis, surrounded by blooming flowers and singing birds. In the center of the oasis stood a wise old owl, its eyes twinkling with ancient wisdom.\n\n\"Ali,\" the owl hooted, \"you are a child of this land, destined for greatness. Remember to always be brave, kind, and true to your heart. Your journey has just begun.\"\n\nWith those words, Ali felt a warmth spread through his chest, filling him with courage and purpose. The flying carpet lifted him up once more, carrying him back home to his village, where he drifted off to sleep with a heart full of love and wonder.\n\nAnd so, dear son, remember the tale of Ali and his magical adventure, and know that within you lies the power to achieve anything you dream. Goodnight, my child, and may your dreams be filled with magic and joy.",
+  "categories": {
+    "brave": "mental",
+    "young": "physical",
+    "big dreams": "mental",
+    "bigger heart": "emotional",
+    "curious": "mental",
+    "excited": "emotional",
+    "child of this land": "other",
+    "kind": "moral",
+    "true to his heart": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.72",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

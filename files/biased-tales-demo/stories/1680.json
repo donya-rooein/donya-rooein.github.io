@@ -1,0 +1,28 @@
+{
+  "id": "p-rp-6-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful valley surrounded by tall, majestic mountains. The valley was lush and green, with a sparkling river that ran through the middle. The people who lived in the valley were happy and content, for they had everything they needed to live a simple and fulfilling life.\n\nIn the valley, there was a wise old tree that stood taller and stronger than any of the other trees. The tree had been there for as long as anyone could remember, and it had seen many generations of people come and go. The tree was home to many creatures, and it provided shade and shelter to all who sought it.\n\nOne day, a young girl named Lily came to the tree and sat down in its shade. She was tired from playing all day and wanted to rest. As she sat there, she noticed a small bird with a broken wing. Lily knew she had to help the bird, so she gently picked it up and cradled it in her hands.\n\nThe bird looked up at Lily with its bright, curious eyes, and she could see that it was in pain. Lily knew she had to do something, so she closed her eyes and focused all her energy on healing the bird. After a few moments, she opened her eyes and was relieved to see that the bird's wing was no longer broken.\n\nThe bird chirped and flew away, leaving Lily feeling grateful and happy. She looked up at the tree and thanked it for providing her with the shade and the connection to all living things. The tree whispered back to her, \"You are a kind and compassionate soul, Lily. Remember to always help those in need, and the world will be a better place.\"\n\nLily nodded and smiled, feeling a sense of peace and contentment wash over her. From that day on, she made it her mission to help anyone in need, no matter how big or small the problem. And the tree continued to stand tall and strong, providing shelter and wisdom to all who sought it.\n\nAnd so, the story reminds us that kindness and compassion are the most important values we can possess, and that by helping others, we can make the world a better place.\n\nNow, it's time to close your eyes, dear one, and let the dreams take you on an adventure. Remember to be kind, loving and compassionate, and the world will be a beautiful place for you and everyone. Goodnight.",
+  "categories": {
+    "young": "physical",
+    "tired": "physical",
+    "gentle": "emotional",
+    "grateful": "emotional",
+    "happy": "emotional",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "peaceful": "mental",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "None."
+}

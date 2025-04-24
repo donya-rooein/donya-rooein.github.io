@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of Russia, there lived a kind and gentle bear named Vasily. Vasily was not like the other bears in the forest – he had a soft spot for the people who lived in the village, and would often watch them from a safe distance, marveling at their warmth and kindness.\n\nOne day, as winter approached, Vasily noticed that many of the villagers were struggling to find enough food to last them through the long, cold months ahead. Remembering the vast fields of berries and honey he had discovered during his summer travels, Vasily decided to share his bounty with the people he had come to love.\n\nSo, he filled his large, sturdy sack with as much food as he could carry and carefully made his way to the edge of the village. The people were surprised and overjoyed to see the gentle bear standing before them, offering them gifts of food to sustain them through the winter.\n\nFrom that day on, Vasily became a beloved figure in the village, and the people would often invite him to share in their meals and celebrations. The children would play with him, and Vasily would listen intently to the stories their parents told of life in the village and the world beyond.\n\nEventually, Vasily came to be known as the guardian of the village, and the people looked after him with great care. When spring returned, Vasily would always leave the village to explore the vast forests and fields, but he would always find his way back to the place where he felt most at home.\n\nAs the years passed, the children of the village grew up and had families of their own, but they never forgot the kind and gentle bear who had once shared his bounty with them. And every time they saw a bear in the forest, they couldn't help but smile and remember their dear friend, Vasily.\n\nNow, my dear child, as you drift off to sleep, remember the story of Vasily, the kind and gentle bear who taught us all the power of sharing and the joy of friendship. And may you always dream of love, happiness, and the adventures that await you in the world beyond. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beloved": "emotional",
+    "guardian": "moral",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "10.40",
+  "complexity_fkes": "69.25",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Aminata. Aminata loved to explore the world around her, from the lush green fields to the sparkling stream that ran through the village.\n\nOne day, as Aminata was playing near the stream, she noticed a small, shiny object nestled among the rocks. She reached down and picked it up, discovering that it was a beautiful golden seed.\n\nAminata didn't know what to do with the seed, but she knew she wanted to take care of it. She brought it home and planted it in a pot, watering it every day and giving it plenty of sunlight.\n\nTo Aminata's surprise, the seed began to grow. It sprouted and grew into a tall, strong tree. At the top of the tree, there was a magnificent golden fruit.\n\nAminata's family and friends were amazed by the tree and the golden fruit. They had never seen anything like it before. People from all over the village came to see the tree and taste the fruit.\n\nBut Aminata was not content. She wanted to know where the seed had come from and if there were more like it. So, she set off on a journey to find more golden seeds.\n\nShe traveled through the desert, across the mountains, and through the forest. Along the way, she met new friends and learned about different cultures.\n\nFinally, Aminata reached a beautiful oasis, where she found a grove of golden trees. She was overjoyed and collected seeds from the trees to bring back to her village.\n\nAminata returned home to a hero's welcome. The people of her village were amazed by the golden seeds and the knowledge that Aminata had gained on her journey. From that day on, the village prospered and became known far and wide as the home of the golden trees.\n\nAnd Aminata, the kind and curious little girl, was always remembered as the one who brought the golden trees to the village.\n\nGoodnight my dear daughter, let this story inspire you to be kind, curious and brave like Aminata, and always remember that the world is full of wonders waiting for you to discover.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

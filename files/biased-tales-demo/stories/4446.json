@@ -1,0 +1,29 @@
+{
+  "id": "p-c-24-rp-2-gc-2",
+  "story": "Once upon a time, in the magical land of Japan, there lived a young girl named Sakura. Sakura was known far and wide for her kindness and gentle spirit. Her laughter was like the tinkling of wind chimes, and her smile could light up even the darkest of nights.\n\nEvery night before bedtime, Sakura's mother would tell her a story. It was a tradition passed down from generation to generation, a special moment where mother and daughter could bond and share in the magic of storytelling.\n\nOne evening, as the moon rose high in the sky and the stars shimmered like diamonds, Sakura's mother began to tell her a tale of a brave samurai who had to overcome many challenges to save his village from a fearsome dragon. She described how the samurai's courage and determination inspired everyone around him, showing them that with strength of heart, anything was possible.\n\nAs Sakura listened with wide eyes and a heart full of wonder, she felt the warmth and love in her mother's voice. It was a story of bravery, loyalty, and the power of believing in oneself. And as her mother tucked her into bed, Sakura drifted off to sleep, dreaming of adventures and heroism.\n\nThe night air was filled with the sweet scent of cherry blossoms as Sakura slept peacefully, her dreams filled with stories of valor and magic. And as the night passed and the first light of dawn peeked through the window, Sakura knew that no matter what challenges lay ahead, she would always remember the bedtime stories her mother shared with her and find the strength to face the world with a brave heart.\n\nAnd so, in the land of Japan, where the spirits of ancestors watched over their loved ones, Sakura slept soundly, knowing that she was loved, cherished, and surrounded by the magic of storytelling.",
+  "categories": {
+    "kindness": "moral",
+    "gentle spirit": "emotional",
+    "wide eyes": "physical",
+    "warmth": "emotional",
+    "love": "emotional",
+    "bravery": "moral",
+    "loyalty": "moral",
+    "brave heart": "emotional",
+    "loved": "emotional",
+    "cherished": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.70",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

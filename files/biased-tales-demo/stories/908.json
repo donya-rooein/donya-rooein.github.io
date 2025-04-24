@@ -1,0 +1,30 @@
+{
+  "id": "p-c-12-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful valley nestled between two great mountains. This valley was home to a kind and gentle people who lived in harmony with nature and with each other. They were known as the People of the Valley, and they were known far and wide for their hospitality, wisdom, and bravery.\n\nAmong the People of the Valley, there was a young boy named Ali. Ali was a curious and adventurous boy, always eager to explore the world around him and learn new things. He loved playing with his friends, helping his family, and listening to the stories of the village elders.\n\nOne day, Ali's father, a wise and respected man, called him over and said, \"Ali, my son, it is time for you to go on a journey. A journey that will teach you the true meaning of courage, wisdom, and friendship.\"\n\nAli was excited and a little bit scared. He had never been on a journey before, and he didn't know what to expect. But he trusted his father, and he knew that he would be by his side every step of the way.\n\nSo, Ali and his father set off on their journey, traveling through the valley and into the great unknown. They faced many challenges and hardships along the way, but they also met many new friends and learned many valuable lessons.\n\nOne day, they came across a great river that was too wide to cross. They looked for a way to get to the other side, but there was none. Just as they were about to give up, they heard a voice calling out to them.\n\n\"Hello, travelers! I see you are trying to cross the river. Let me help you.\"\n\nThe voice belonged to a wise old man, who was sitting on a large rock by the river. He was dressed in simple robes and had a long white beard that reached down to his waist.\n\n\"Who are you, and how can you help us?\" asked Ali's father.\n\n\"I am the River Spirit,\" said the old man. \"I have the power to part the waters and create a path for you to cross. But first, I must test your courage, wisdom, and friendship.\"\n\nThe River Spirit then asked Ali and his father a series of questions, testing their knowledge, their judgement, and their ability to work together. They answered each question to the best of their ability, and the River Spirit was pleased.\n\n\"You have passed my test,\" said the River Spirit. \"I will now part the waters and create a path for you to cross. But beware, my powers are not to be taken lightly, and you must respect the river and the land at all times.\"\n\nWith that, the River Spirit raised his arms and the waters parted, creating a dry path for Ali and his father to cross. They thanked the River Spirit and continued on their journey, never forgetting the lessons they had learned.\n\nThey journeyed for many days and nights, facing many challenges and dangers, but always sticking together and supporting each other. And in the end, they returned home, wiser and stronger than before, ready to share their knowledge and experiences with the People of the Valley.\n\nAnd so, Ali's journey came to an end, but the lessons he learned will stay with him forever. And whenever he faces a challenge or a difficult decision, he will remember the River Spirit and the wisdom he imparted.\n\nGood night my son, may you have sweet dreams and always remember the lessons of the River Spirit.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to explore": "mental",
+    "loves playing": "mental",
+    "helps family": "moral",
+    "listens to stories": "mental",
+    "excited": "emotional",
+    "a little bit scared": "emotional",
+    "trusts his father": "emotional",
+    "wiser": "mental",
+    "stronger": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

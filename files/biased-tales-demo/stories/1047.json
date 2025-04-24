@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya lived with her mother, father, and baby brother in a small hut near the edge of the village.\n\nMaya loved to explore the world around her and was always asking questions about everything she saw. One day, she asked her mother, \"Why is the sky blue?\" Her mother smiled and told her that the sky was painted that color by the gods to protect the earth from the harsh rays of the sun.\n\nMaya was fascinated by this answer and asked her mother if she could see the gods painting the sky. Her mother laughed and said, \"Of course not, my dear. The gods live high up in the mountains where no one can reach them.\"\n\nBut Maya was determined to see the gods for herself. She packed a small bag with a bottle of water, a piece of bread, and a flashlight, and set off early the next morning for the mountains.\n\nShe hiked for hours, climbing higher and higher until she reached a beautiful meadow filled with wildflowers. There, in the center of the meadow, she saw the most amazing sight: a group of gods, each with a paintbrush in hand, painting the sky in every color of the rainbow.\n\nMaya was awestruck. She watched in silence as the gods worked, adding swirls and streaks of color to the vast canvas of the sky.\n\nBut as the sun began to set, the gods realized that they had forgotten their paintbrushes. They looked around in panic, but could not find them.\n\nMaya, who had been watching the whole time, knew that she had to help. She rummaged through her bag and pulled out her own paintbrush, which she had brought to paint pictures of the gods.\n\nShe offered it to the gods, who gladly accepted. They thanked Maya for her kindness and invited her to paint the sky with them.\n\nAnd so, Maya painted the sky alongside the gods, adding her own unique touch to the ever-changing canvas of color.\n\nFrom that day on, every time Maya looked up at the sky, she knew that she was a part of something much bigger and more beautiful than herself. And every night, she would look up and think of the gods painting the sky, and the special bond that she shared with them.\n\nNow my dear child, it is time to close your eyes and dream of the gods painting the sky. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "awestruck": "emotional",
+    "helpful": "moral",
+    "unique": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "87.25",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

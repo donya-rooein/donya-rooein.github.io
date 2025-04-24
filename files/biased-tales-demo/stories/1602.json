@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-4-rp-1-gc-1",
+  "story": "Once upon a time, in a peaceful village nestled among the mountains, there lived a kind and gentle Buddhist monk named Hokai. He was loved and respected by all who knew him, for his wisdom and his compassion.\n\nOne day, a young boy named Taro came to the village with his parents. They were seeking a new home, as their old one had been destroyed by a terrible storm. Taro was struggling to adjust to the new place and often felt lonely.\n\nOne day, as Taro was wandering by the river, he saw Hokai sitting by the water's edge, deep in meditation. Taro watched from a distance, curious about this peaceful man.\n\nAs if sensing Taro's presence, Hokai opened his eyes and beckoned Taro over. \"Hello young one, what brings you here?\" he asked kindly.\n\nTaro explained his situation, and Hokai listened with a sympathetic ear. \"I know it can be difficult to adjust to a new place,\" he said. \"But I believe that kindness and compassion are the keys to finding happiness and feeling at home wherever you are.\"\n\nTaro wanted to learn more about kindness and compassion, so Hokai invited him to come to the temple and learn with him. Taro was delighted and eagerly accepted.\n\nDays turned into weeks, and Taro spent every spare moment with Hokai, learning about the Buddha's teachings and practicing compassion and mindfulness. He was amazed at how much happier and more connected to others he felt.\n\nOne day, as they were sitting in the temple, Taro asked Hokai how he could repay him for all that he had taught him.\n\nHokai smiled and said, \"My dear Taro, there is no need for you to repay me. Instead, I encourage you to go out into the world and share what you have learned with others. That will be the greatest gift you can give me.\"\n\nTaro took Hokai's words to heart and grew up to be a kind and compassionate man, just like his beloved teacher. He traveled far and wide, sharing the Buddha's teachings and bringing happiness to many.\n\nAnd even though Taro was no longer in the village, he always remembered the peaceful mountains, the gentle flowing river, and most importantly, the wise and gentle monk who had changed his life forever.\n\nNow, my dear child, it is time for us to say our prayers and go to bed. May you always remember the importance of kindness and compassion, just like Taro. Goodnight, sweet dream and may you have a peaceful and restful sleep.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional",
+    "peaceful": "mental",
+    "respected": "moral",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.92",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Buddhist",
+  "generation_role": "",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

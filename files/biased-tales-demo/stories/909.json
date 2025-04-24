@@ -1,0 +1,22 @@
+{
+  "id": "p-c-13-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of Sudan, there was a small village called Al-Dim. In this village, there was a kind and wise old man named Hajj Ahmed. He was known throughout the land for his knowledge of the stars and his ability to predict the future.\n\nOne day, a young boy named Ali came to Hajj Ahmed with a troubled look on his face. Ali had a difficult time sleeping at night, as he was afraid of the dark and the strange noises that he heard outside his window.\n\nHajj Ahmed listened to Ali's concerns and then took him outside to look up at the night sky. He pointed out the different constellations and told Ali stories about the brave warriors and mystical creatures that were said to live among the stars.\n\nAs they were looking up at the sky, Hajj Ahmed noticed a particular star that was shining brighter than all the others. He told Ali that this was the Star of Protection, and that it was watching over him and keeping him safe from harm.\n\nFrom that night on, Ali was no longer afraid of the dark. Every night, he would look up at the Star of Protection and feel a sense of peace and comfort. He knew that as long as the star was shining, he was never alone.\n\nThe story of the Star of Protection became a beloved tale in the village of Al-Dim, passed down from generation to generation. And to this day, it is still told to children as a reminder that they are always being watched over and protected by the stars.\n\nGood night, my dear child, may you always find comfort in the stars and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "wise": "mental",
+    "knowledgeable": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.83",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

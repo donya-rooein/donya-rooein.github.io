@@ -1,0 +1,23 @@
+{
+  "id": "p-c-9-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. This city was known for its magnificent architecture, bustling markets, and wise caliphs. But what made Baghdad truly special was its rich tradition of storytelling.\n\nIn this enchanting city, there lived a young girl named Noor. She was as kind-hearted as she was curious, and she loved nothing more than listening to her father's tales of adventure, magic, and wonder.\n\nOne day, Noor's father told her a story that was different from any she had heard before. It was a story about a magical lamp that had been lost for centuries. The lamp was said to contain a powerful genie who could grant its owner three wishes.\n\nNoor was fascinated by the story and begged her father to take her on a quest to find the legendary lamp. After much convincing, her father agreed, and they set off on a journey that would take them across the desert and through treacherous mountains.\n\nAlong the way, they encountered all manner of strange and marvelous creatures. They met a talking camel who could solve riddles, a wise old djinn who lived in a hidden cave, and a mischievous afreet who loved to play tricks on unwary travelers.\n\nAt last, after many weeks of travel, Noor and her father arrived at the entrance to a dark and forbidding cave. It was said that the magical lamp was hidden deep within its depths, guarded by a fearsome beast.\n\nUndaunted, Noor and her father ventured into the cave, their hearts pounding with excitement and fear. They fought their way past snarling wolves and screeching bats, until at last they reached the heart of the cave.\n\nThere, glowing in the dim light, was the magical lamp. Noor reached out to touch it, and as she did so, the genie appeared before her.\n\n\"I have been waiting for you, Noor,\" the genie said. \"I have been trapped in this lamp for centuries, and now I am free at last. In return for your kindness, I will grant you three wishes.\"\n\nNoor thought long and hard about what she wanted most in the world. She wished for her family to be safe and happy, for her city to be prosperous and peaceful, and for the magic of storytelling to be preserved for all time.\n\nAnd so it was that Noor's wish came true. She returned home to Baghdad with her father, and together they lived happily ever after, surrounded by the magic of storytelling that would live on for generations to come.\n\nAs Noor drifted off to sleep that night, she knew that the power of imagination and the joy of a good story could transform the world in ways that even the most powerful genie could never dream of. And she knew that as long as she held onto that magic, anything was possible.\n\nSo, my dear daughter, close your eyes and let the magic of storytelling take you on a journey of your own. Who knows where it might lead you?",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "undaunted": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": ""
+}

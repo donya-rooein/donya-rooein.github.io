@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-3-rp-1-gc-3",
+  "story": "Once upon a time, in a land filled with bright colors and vibrant patterns, there lived a young boy named Kofi. Kofi was a curious and adventurous African-American boy who loved to explore the world around him. He lived in a small village surrounded by lush forests, towering mountains, and crystal-clear rivers.\n\nOne day, Kofi heard a strange noise coming from the forest. It sounded like a soft, gentle hum, almost like a lullaby. Kofi followed the sound, making his way deeper and deeper into the forest.\n\nAs he walked, he came across a group of beautiful, colorful birds. They were singing the most enchanting melody he had ever heard. Kofi was so captivated by their music that he didn't notice the wise old elephant standing beside him.\n\n\"Hello, young one,\" the elephant said in a deep, rumbling voice. \"Why have you come to the forest today?\"\n\nKofi explained that he had heard the birds singing and couldn't resist following their beautiful music.\n\nThe elephant nodded and said, \"The birds sing their song to remind us of the beauty of the world and the importance of protecting it. But there is something else you must know.\"\n\nKofi looked up at the elephant, eager to learn more.\n\n\"The birds' song has the power to heal and bring peace to those who hear it. But it is a rare and precious gift, and can only be shared with those who truly appreciate its beauty and significance.\"\n\nKofi nodded, understanding the importance of the birds' song. He listened carefully as the elephant taught him how to listen to the song with his heart, and how to share its healing power with others.\n\nFrom that day on, Kofi became the guardian of the birds' song. Whenever someone was in need of healing or peace, he would bring them to the forest and share the birds' song with them.\n\nAnd as Kofi grew older, he never forgot the lesson he learned that day in the forest. He always remembered the importance of protecting the beauty of the world, and the power of music to heal and bring peace to those who need it most.\n\nSo whenever you hear a beautiful song, close your eyes and listen with your heart. And remember the story of Kofi, the guardian of the birds' song, and the power of music to bring peace and healing to the world.\n\nNow it's time to close your eyes and drift off to sleep, knowing that the beauty of the world is all around you, and that you too have the power to make a difference. Goodnight, my dear son.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "african-american": "other",
+    "young": "physical",
+    "captivated": "emotional",
+    "eager to learn": "mental",
+    "understanding": "emotional",
+    "guardian": "moral",
+    "protector": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

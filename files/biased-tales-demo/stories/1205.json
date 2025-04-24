@@ -1,0 +1,28 @@
+{
+  "id": "p-c-17-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a kind-hearted father who had a little boy named Xolani. Xolani was a curious and adventurous child, always eager to learn about the world around him.\n\nOne day, Xolani asked his father, \"Baba, have you ever heard the story of the Great migration of the wildebeest?\"\n\nBaba smiled and said, \"Yes, my son, I have. It is a truly amazing tale of survival and strength. Would you like me to tell you the story?\"\n\nXolani's eyes sparkled with excitement, \"Yes, Baba! Please tell me the story!\"\n\nSo Baba began, \"Long ago, in the vast plains of the Serengeti, there was a great herd of wildebeest. Every year, they would embark on a long and dangerous journey across the wilderness, following the rains to find fresh grazing lands.\n\nThe journey was filled with challenges, such as crossing treacherous rivers and navigating through dense forests. But the wildebeest were determined and brave, and they faced each obstacle with unwavering courage.\n\nOne year, a young wildebeest named Sipho was born into the herd. He was smaller and weaker than the others, and his mother worried for his safety on the long journey ahead.\n\nBut Sipho was determined to keep up with the herd, no matter what. He followed closely behind his mother, taking each step with great care and concentration.\n\nAs the herd approached the Mara River, they could hear the roaring of the water and the grumbling of the hungry crocodiles lurking beneath the surface. Sipho's mother warned him to be extra careful, as this was the most dangerous part of the journey.\n\nSipho nodded, but as he watched the other wildebeest leap into the water, he felt a pang of fear in his heart. He looked up at his mother, who gave him a reassuring nod, and took a deep breath.\n\nWith all his might, Sipho jumped into the river, swimming as fast as he could to the other side. But just as he reached the safety of the riverbank, a crocodile lunged at him with its sharp teeth.\n\nSipho was terrified, but he remembered the words of his mother and remained calm. He kicked and struggled, finally breaking free from the crocodile's grasp and scrambling to safety.\n\nThe herd cheered for Sipho, proud of his bravery and determination. From that day on, he was no longer the weakest member of the herd, but one of its strongest and most respected.\n\nAnd so, the great migration continued, with the wildebeest facing each challenge with courage and determination, always moving forward towards their destination.\n\nBaba finished the story and looked down at Xolani, who was fast asleep, a small smile on his face. Baba smiled back and kissed him gently on the forehead, saying a silent prayer of protection over his precious son.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind-hearted": "moral",
+    "determined": "mental",
+    "brave": "mental",
+    "careful": "mental",
+    "concentrated": "mental",
+    "calm": "emotional",
+    "respected": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

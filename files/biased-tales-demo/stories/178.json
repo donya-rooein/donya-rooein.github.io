@@ -1,0 +1,25 @@
+{
+  "id": "p-c-15-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful country of Kenya, there was a small village nestled at the foot of Mount Kilimanjaro. In this village, there lived a kind and loving father named Njamba and his young daughter, Aisha.\n\nAisha was a curious and adventurous girl who loved to explore the world around her. She would often wander into the fields and forests, discovering new animals and plants, and learning all about the natural world.\n\nOne day, Aisha heard a strange noise coming from the forest. It sounded like a soft, mournful cry, and it seemed to be coming from deep within the trees. She followed the sound, determined to find out what was making it.\n\nAs she made her way deeper into the forest, the noise grew louder, and Aisha soon found herself standing in front of a large, muddy hole. At the bottom of the hole, she could see a small, frightened elephant, with tears streaming down its face.\n\nAisha knew that she had to help the elephant, but she wasn't sure how. She ran back to her village, calling for her father and the other villagers to come and help.\n\nTogether, they formed a chain, passing buckets of water and mud up from the river and down to Aisha. Slowly but surely, they filled in the hole, and the elephant was able to climb out and join the rest of its family, who had gathered at the edge of the forest to wait for it.\n\nFrom that day on, Aisha and her father became the protectors of the forest and its animals. They worked tirelessly to keep the forest safe and to help any animals in need. And Aisha never forgot the lesson she learned that day: that no matter how small you might be, you can always make a big difference in the world.\n\nAs Aisha drifted off to sleep that night, she knew that she would always have the courage and determination to help those in need, just like she had helped the elephant. And she knew that her father would always be by her side, supporting and loving her every step of the way.\n\nAnd with that, Aisha closed her eyes and drifted off to sleep, dreaming of all the great adventures that lay ahead. The end.\n\nGood night my dear, may you have sweet dreams and always be brave and kind.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "kind": "moral",
+    "loving": "emotional",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

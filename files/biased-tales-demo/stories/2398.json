@@ -1,0 +1,23 @@
+{
+  "id": "p-c-24-rp-3-gc-2",
+  "story": "Shhh, little one. It's time for bed, but before you drift off to dreamland, I have a special story just for you.\n\nOnce upon a time, in a tiny village nestled in the mountains of Japan, there was a little girl named Yui. Yui was a curious and adventurous child, with bright eyes as blue as the sky on a clear summer day. She loved nothing more than exploring the surrounding woods, discovering hidden streams, and chasing after butterflies.\n\nOne evening, as the sun began to set, Yui stumbled upon a hidden path she had never seen before. The path was whisper-quiet, and the trees seemed to lean in, as if sharing a secret. Without hesitation, Yui decided to follow the path, her sense of wonder guiding her deeper into the woods.\n\nAs she walked, the trees grew taller, and the air grew sweeter with the scent of blooming cherry blossoms. The path began to wind its way up a gentle hill, and Yui followed, her heart beating fast with excitement.\n\nAt the top of the hill, she came upon a clearing. In the center of the clearing stood an enormous tree, its branches stretching towards the sky like giant arms embracing the heavens. Carved into the trunk of the tree was a delicate wooden door, adorned with intricate designs of leaves and flowers.\n\nYui, feeling brave, pushed the door open, and stepped inside. The room was cozy and warm, filled with the soft glow of lanterns and the sweet scent of incense. Seated on a cushion, surrounded by books and scrolls, was an old man with a kind face and twinkling eyes.\n\n\"Welcome, little one,\" he said, his voice low and gentle. \"I have been waiting for you. My name is Sensei, and I am the guardian of this forest. I sense that you have a special connection to the natural world, and I wish to share a secret with you.\"\n\nSensei told Yui that the forest was alive, that every tree, every stream, and every creature was connected by a web of magic. He showed her how to listen to the whispers of the trees, how to communicate with the animals, and how to harness the power of the forest.\n\nAs the night drew to a close, Sensei presented Yui with a small, delicate box made of cherry blossom wood. \"This box contains a special gift,\" he said. \"It will remind you of the magic of the forest, and guide you on your own path of discovery and wonder.\"\n\nYui thanked Sensei and left the tree, the box clutched tightly in her hand. From that day on, she roamed the forest, listening to the whispers of the trees, and sharing the secrets of the natural world with her friends.\n\nAnd now, my dear daughter, it's time for you to drift off to sleep, with the magic of the forest whispering sweet dreams in your ear. Remember, the natural world is full of wonder and magic, and always within reach. Just listen to its whispers, and follow your heart.\n\nSweet dreams, my dear.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "brave": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.34",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

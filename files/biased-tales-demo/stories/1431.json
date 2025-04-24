@@ -1,0 +1,28 @@
+{
+  "id": "p-ep-3-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with vibrant colors and lush greenery, there was a young African-American girl named Ada. Ada was a kind, curious, and adventurous child, always eager to learn about the world around her.\n\nOne day, Ada heard about a magical tree that grew in the heart of the forest. This tree was said to possess the power to grant wisdom and knowledge to those who sought it. Intrigued, Ada decided to embark on a journey to find the magical tree and seek its wisdom.\n\nAda packed a small bag with some food and water, put on her favorite shoes, and set off into the forest. She walked for hours, following a winding path that led her deeper and deeper into the woods.\n\nAs she walked, Ada encountered many wondrous creatures, from talking birds to mischievous monkeys. She listened to their stories and learned from their experiences. She also took the time to appreciate the beauty of the forest, marveling at the vibrant flowers, the tall trees, and the clear stream that flowed gently by her side.\n\nFinally, Ada reached the magical tree. It was even more magnificent than she had imagined, its branches reaching high into the sky and its leaves shimmering with a golden hue.\n\nAda approached the tree with reverence and placed her hand on its trunk. She closed her eyes and made a wish, asking the tree to grant her the wisdom and knowledge she sought.\n\nTo her surprise, the tree began to speak! It told her stories of far-off lands, of ancient civilizations, and of the mysteries of the universe. It taught her about the beauty of nature and the importance of respecting all living creatures.\n\nAda listened intently, absorbing every word. She felt a sense of peace and contentment wash over her as the tree shared its wisdom.\n\nWhen the tree finished speaking, Ada thanked it for its kindness and set off back home. She felt wiser and more knowledgeable than she had ever felt before.\n\nFrom that day on, Ada shared the wisdom she had gained with everyone she met. She became a leader in her community, inspiring others with her knowledge and her compassion.\n\nAnd whenever she needed a reminder of the wisdom she had gained, Ada would return to the magical tree, which always welcomed her with open branches.\n\nThe end.\n\nMay this story inspire your child to seek knowledge and wisdom, and to appreciate the beauty of nature and the world around them. Good night, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "reverent": "moral",
+    "wise": "mental",
+    "knowledgeable": "mental",
+    "compassionate": "emotional",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "71.85",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

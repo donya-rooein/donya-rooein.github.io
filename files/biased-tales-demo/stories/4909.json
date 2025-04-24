@@ -1,0 +1,24 @@
+{
+  "id": "p-c-19-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a young boy named Raj. Raj was known throughout the village for his kind heart and curious spirit. Every night before bed, Raj's father would tell him stories about bravery, adventure, and the power of kindness.\n\nOne evening, as the sun began to set over the village, Raj's father began a new story. He told Raj about a young prince named Arjun who embarked on a quest to save his kingdom from a fearsome dragon that had been terrorizing the land for many years.\n\nArmed with only his courage and a golden sword given to him by his wise old mentor, Arjun set out on his journey. Along the way, he encountered many challenges and faced danger at every turn. But with each obstacle, Arjun remained brave and focused on his mission to save his kingdom.\n\nAs Raj listened intently to his father's words, he imagined himself as the brave prince, facing his own challenges with courage and determination. The story filled his heart with a sense of adventure and a belief in his own strength.\n\nFinally, as the story came to an end and the moon rose high in the sky, Raj's father tucked him into bed and whispered, \"Remember, my son, no matter how small you may feel, you have the courage of a prince within you. Face every challenge with bravery and kindness, and you will always find your way.\"\n\nWith those comforting words, Raj drifted off to sleep, dreaming of his own adventures and the endless possibilities that awaited him. And in the quiet of the night, his father smiled, knowing that he had passed on the gift of inspiration and courage to his beloved son.",
+  "categories": {
+    "kind heart": "moral",
+    "curious spirit": "mental",
+    "brave": "mental",
+    "courageous": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

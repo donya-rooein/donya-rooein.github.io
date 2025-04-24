@@ -1,0 +1,23 @@
+{
+  "id": "p-c-5-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Russia, there was a kind and curious little boy named Ivan. Ivan loved to explore the world around him, and he was always asking questions and looking for answers.\n\nOne day, Ivan heard about a magical forest that was said to be home to all sorts of wonderful and mysterious creatures. The forest was rumored to be enchanted, and only the bravest and most curious children could find their way inside.\n\nIvan knew that he had to see the magical forest for himself, so he packed a bag with a warm coat, some food, and a flashlight, and set off on his journey. He walked for hours, following a winding path through the woods, until he finally reached the entrance to the magical forest.\n\nAs soon as Ivan stepped into the forest, he could feel a strange and wonderful energy all around him. The trees were taller and greener than any he had ever seen, and the air was filled with the sound of birds singing and animals scurrying.\n\nIvan followed the path deeper into the forest, marveling at the sights and sounds all around him. Suddenly, he heard a soft rustling in the bushes nearby. He turned to look, and to his surprise, he saw a group of tiny, glowing fairies flitting through the air!\n\nThe fairies were no bigger than his thumb, and they had delicate wings that shimmered in the sunlight. They laughed and danced around Ivan, casting a warm, golden glow over everything.\n\nIvan was thrilled to have found the fairies, and he spent hours watching them play and dance. But as the sun began to set, he knew it was time to head home. The fairies must have sensed his leaving, for they gathered around him and whispered a magical spell to protect him on his journey.\n\nIvan thanked the fairies and set off through the forest, feeling a warm, glowing energy all around him. He knew that the magical forest would always be there, ready to welcome him back whenever he wanted to visit.\n\nFrom that day on, Ivan was the happiest boy in the village, for he knew that the magical forest was real, and that anything was possible if you just believed.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of all the wonderful things that await you in the world. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "mental",
+    "happiest": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

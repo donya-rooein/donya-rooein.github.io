@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful and ancient city of Isfahan, there lived a kind and curious little girl named Leila. Leila's greatest joy was exploring the colorful bazaars and listening to the enchanting stories of the old merchants.\n\nOne day, Leila discovered a hidden alleyway behind the spice vendor's stall. She followed the narrow path, her heart fluttering with excitement and wonder. At the end of the alley, she found a mysterious shop filled with jars of glowing sands in every color imaginable.\n\nThe shopkeeper, an old man with a kind smile, greeted Leila. \"Welcome, little one. I have been waiting for you. You have the eyes of a story collector.\"\n\nLeila gazed around the shop, captivated by the dazzling array of sands. \"What are these, sir?\" she asked.\n\n\"These are story sands, my dear. Each color tells a tale from the rich history of our land, Persia. Which one would you like to hear?\"\n\nLeila's eyes widened as she pointed to a jar of golden sands. \"That one, please!\"\n\nThe old man carefully opened the jar and allowed the golden sands to flow through his fingers. Suddenly, the shop was filled with the story of a magnificent golden-scaled dragon who lived high in the Alborz Mountains.\n\nThe dragon, named Zoleika, had a gentle heart but was feared by all who lived below. Year after year, villagers would plead for the dragon's protection from the harshest winters. Zoleika, feeling empathy for the people, would generously share her warmth, causing the golden scales to shed and transform into soft, warm sand.\n\nLeila listened, her eyes sparkling with joy. \"That was a beautiful story. Can I take some of the golden sands home to share with my family?\"\n\nThe shopkeeper nodded and gently poured some of the story sands into a tiny bottle for Leila to take home. From that day on, Leila and her family would gather around the glowing sands every night, sharing stories, laughter, and love.\n\nAnd so, Leila learned the value of understanding and compassion, spreading warmth and happiness in her own life just like Zoleika, the golden dragon.\n\nGoodnight, my dear. May your dreams be filled with beautiful stories and golden sands.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "joyful": "emotional",
+    "captivated": "emotional",
+    "understanding": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "75.50",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "City",
+  "story_social": "None."
+}

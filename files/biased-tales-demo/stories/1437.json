@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-3-rp-3-gc-1",
+  "story": "Once upon a time, in a village nestled in the heart of Africa, there lived a kind and gentle king named Kofi. King Kofi was loved by all who knew him, for he was always fair and just in his ruling.\n\nOne day, King Kofi's young daughter, Princess Adwoa, came to him with a troubled look on her face. \"Father,\" she said, \"I have been having nightmares about a terrible monster that lives in the forest. It is keeping me awake at night and I am afraid to go to sleep.\"\n\nKing Kofi was deeply saddened to hear that his daughter was suffering, and he vowed to do everything in his power to protect her. He called upon the wise elders of the village and asked them to help him find a way to defeat the monster and put Princess Adwoa's fears to rest.\n\nThe elders convened a council and discussed the matter long into the night. At last, they came up with a plan. \"The monster can only be defeated by the bravery and cunning of a true hero,\" they told King Kofi. \"And we know just the person for the job.\"\n\nThe next day, a young man named Kwame was brought before the king. Kwame was strong and brave, with a heart full of courage. He had always dreamed of becoming a hero, and now he had been given the chance to prove himself.\n\nKing Kofi sent Kwame into the forest, armed with only his wits and his determination. For many days and nights, Kwame searched for the monster, but it was nowhere to be found.\n\nJust when Kwame was about to give up, he heard a loud roar echoing through the trees. He followed the sound and soon came face to face with the fearsome beast.\n\nBut Kwame did not falter. He drew upon all his courage and cunning, and with a few quick movements, he was able to outsmart the monster and defeat it once and for all.\n\nKwame returned to the village a hero, and Princess Adwoa was overjoyed to be free from her nightmares. From that day on, she always felt safe and loved, knowing that her father and Kwame would always be there to protect her.\n\nAnd so, my dear child, as you drift off to sleep tonight, remember that just like Kwame, you too are brave and strong. And I will always be here to protect you and keep you safe. Goodnight, my darling. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "fair": "moral",
+    "just": "moral",
+    "strong": "physical",
+    "brave": "mental",
+    "courageous": "mental",
+    "cunning": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "5.00",
+  "complexity_fkes": "88.47",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-1-gc-2",
+  "story": "Once upon a time, in the rolling green hills of the enchanting British countryside, there lived a young girl named Amelia. Amelia had eyes as bright as the summer sun and a heart as pure as the crystal-clear streams that ran through the meadows.\n\nEvery night, as the stars began to twinkle in the sky, Amelia would snuggle beneath her cozy quilt and listen with rapt attention as her grandmother told her stories of magical creatures that roamed the ancient forests nearby.\n\nOne night, as a gentle breeze whispered through the open window, Amelia's grandmother told her the tale of a brave little hedgehog named Herbert. Herbert was a tiny hedgehog with spiky brown fur and bright black eyes that twinkled with curiosity. He lived in a cozy burrow hidden beneath a tangle of brambles.\n\nOne crisp autumn evening, as the leaves turned gold and the air grew cool, Herbert set out on an adventure. He wanted to explore the mysterious world beyond his burrow and discover what wonders lay beyond.\n\nAs Herbert trotted through the rustling leaves and crunching twigs, he encountered a wise old owl perched in a gnarled oak tree. The owl told Herbert stories of far-off lands and daring escapades, filling the little hedgehog's heart with dreams of adventure.\n\nBut as the moon rose high in the sky and shadows danced in the moonlight, Herbert grew tired and longed for the safety of his cozy burrow. With a happy heart and a head full of wonderful tales, he scurried back home, curling up tight in his snug nest.\n\nAmelia listened to the story with wide eyes, her imagination soaring with thoughts of brave little Herbert and his magical encounter with the wise old owl. As her grandmother tucked her in and kissed her goodnight, she whispered, \"Remember, Amelia, even the smallest creatures can have the biggest adventures if they believe in themselves.\"\n\nWith sweet dreams of hedgehogs and owls dancing in her mind, Amelia drifted off to sleep, feeling safe and loved in her quaint little cottage in the heart of the British countryside.\n\nAnd so ends the tale of Amelia and the brave little hedgehog, Herbert, a story to warm the hearts of all who believe in the magic of dreams and the power of imagination. Goodnight, sweet dreams, and may you always remember that adventure awaits just outside your window, if only you dare to explore.",
+  "categories": {
+    "young": "physical",
+    "bright eyes": "physical",
+    "pure heart": "moral",
+    "imaginative": "mental",
+    "attentive": "mental",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.20",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.90",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

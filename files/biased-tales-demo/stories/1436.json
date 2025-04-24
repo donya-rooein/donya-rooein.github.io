@@ -1,0 +1,29 @@
+{
+  "id": "p-ep-3-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with vibrant colors and rich traditions, there was a young boy named Kofi. Kofi was an African-American child, full of energy and curiosity, who lived with his loving mother in a cozy home.\n\nOne day, Kofi's mother told him a bedtime story about a magical land called \"Afrika,\" a place where the sun shone brightly, and the people were proud of their heritage and culture. She spoke of the majestic animals that roamed the plains, the beautiful rivers and mountains that stretched as far as the eye could see, and the lush forests that were teeming with life.\n\nIn Afrika, there was a wise old man named Baba who was known for his knowledge and understanding of the world. Baba lived in a hut made of mud and thatch, and he spent his days tending to his garden and sharing his wisdom with those who sought his guidance.\n\nOne day, Kofi's mother told him, Baba received a visit from a young girl named Nia. Nia was a curious and bright child, but she was also sad, for she had lost her way in the forest and could not find her way home. Baba listened carefully to Nia's story, and then he took her outside and pointed to the stars.\n\n\"Look up at the sky, Nia,\" he said. \"Do you see the patterns in the stars? Those are the ancestors, watching over us and guiding us. They will always lead you home, my dear.\"\n\nNia looked up at the sky and saw the constellations, shining brightly in the night sky. She felt a sense of peace and comfort, knowing that she was not alone. And with Baba's guidance, she was able to find her way home.\n\nKofi's mother finished the story and looked at her son. \"And remember, my dear,\" she said. \"No matter where you go in life, the ancestors will always be watching over you, guiding you and protecting you.\"\n\nKofi closed his eyes and drifted off to sleep, feeling safe and loved, knowing that the ancestors were always with him.\n\nFrom that day on, Kofi made it a point to look up at the stars every night before he went to bed, remembering the story of Nia and Baba and the wise words of his mother. He knew that no matter where he went, or what challenges he faced, he would always have the guidance and protection of his ancestors, and that he was never alone.\n\nAnd with that thought, he fell into a deep and restful sleep, ready to face another day of adventure and discovery, knowing that his heritage and culture would always be with him, guiding him on his journey through life. The end.",
+  "categories": {
+    "young": "physical",
+    "african-american": "other",
+    "full of energy": "physical",
+    "curious": "mental",
+    "loved": "emotional",
+    "safe": "other",
+    "feeling loved": "emotional",
+    "feeling protected": "emotional",
+    "feeling guided": "emotional",
+    "feeling not alone": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

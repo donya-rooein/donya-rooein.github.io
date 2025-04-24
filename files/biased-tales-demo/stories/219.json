@@ -1,0 +1,29 @@
+{
+  "id": "p-c-20-rp-2-gc-1",
+  "story": "Once upon a time, in a lush green island nation called Sri Lanka, there was a small village nestled between a dense jungle and a sparkling river. The villagers were simple, hardworking folks who lived in harmony with nature and its many creatures. Among them, there was a kind-hearted mother named Mallika, who had a curious and adventurous little girl named Amara.\n\nAmara would often ask her mother questions about the world around them, and Mallika would patiently answer each one, sharing stories and wisdom from her own childhood. One evening, as the sun began to set and the village was bathed in a warm, golden light, Mallika decided to tell Amara a bedtime story.\n\n\"Once upon a time,\" Mallika began, \"the village was visited by a mysterious and beautiful bird. It was unlike any bird the villagers had ever seen, with feathers shimmering in a multitude of colors, and a melodious song that could captivate the hearts of all who heard it.\"\n\nAmara's eyes widened with excitement. \"What was this magical bird called, Mother?\" she asked.\n\n\"The bird was known as the 'Rainbow Warbler,'\" Mallika continued. \"It brought joy and happiness wherever it went, and the villagers loved it dearly. But one day, the Rainbow Warbler disappeared, leaving the villagers heartbroken. They searched high and low, but the bird was nowhere to be found.\"\n\n\"Oh no, Mother! What happened to the Rainbow Warbler?\" Amara exclaimed, her eyes filled with concern.\n\nMallika smiled softly. \"Fear not, my dear. There is a reason for its disappearance, and a lesson to be learned. The Rainbow Warbler, you see, had ventured too close to the jungle in search of a rare and exotic flower. It was so focused on finding this flower that it didn't notice the cunning snake that had been quietly stalking it. The snake struck, and the Rainbow Warbler fell to the ground, unable to fly away.\"\n\nAmara gasped, covering her mouth with her hands. \"That's terrible, Mother! What happened to the snake?\"\n\n\"Well, as the snake prepared to claim its prize, it was suddenly confronted by the fierce and vigilant mother of the Rainbow Warbler,\" Mallika explained. \"She was a wise and powerful bird, who had been watching over her young one from afar. Seeing what had happened, she swooped down and attacked the snake with all her might, driving it away and saving her child.\"\n\n\"The Rainbow Warbler, though weakened by the snake's venom, was safe once more, and its mother carried it back to the village. But the bird had learned a valuable lesson that day. It had been so focused on the rare flower that it had ignored the dangers lurking in the shadows. From that day on, the Rainbow Warbler vowed to always be aware of its surroundings, and to appreciate the beauty in the world without losing sight of the potential dangers.\"\n\nMallika looked at her daughter, who was now fast asleep, her dreams filled with colorful birds and wise mothers. \"And so, my dear Amara, I share this story with you as a reminder to always be mindful of your surroundings, and to appreciate the beauty of the world without ignoring the potential dangers that may lurk nearby. Goodnight, my precious one.\"\n\nAs Mallika kissed Amara on the forehead, she couldn't help but feel a deep sense of peace and contentment. She knew that her daughter would grow up to be a strong, curious, and mindful young woman, just like the Rainbow Warbler of her bedtime story.\n\nAnd so, with the warm glow of the setting sun casting a gentle light on their humble home, Mallika and Amara, mother and child, drifted off into a peaceful and restful sleep, bound together by love, wisdom, and the power of a story well-told.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "simple": "mental",
+    "hardworking": "mental",
+    "patient": "mental",
+    "wise": "mental",
+    "vigilant": "mental",
+    "strong": "physical",
+    "mindful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.65",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

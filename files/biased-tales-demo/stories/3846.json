@@ -1,0 +1,27 @@
+{
+  "id": "p-c-13-rp-3-gc-2",
+  "story": "Once upon a time in the beautiful land of Sudan, there lived a young girl named Layla. She had big, bright eyes that sparkled with curiosity and a smile that could light up even the darkest night.\n\nLayla's father, a loving and kind man, would tuck her into bed every night and tell her stories of the magical creatures that roamed their homeland. He would speak of the graceful antelopes that danced under the moonlight, the wise old owls that watched over the land, and the gentle camels that carried treasures across the vast desert.\n\nOne night, as Layla lay in bed listening to her father's soothing voice, he told her a story about a special flower that only bloomed at night. This flower, known as the Moonlight Lily, had petals that glowed with a soft, silvery light. Legend had it that whoever found and picked a Moonlight Lily would be granted a wish by the stars themselves.\n\nExcited by the story, Layla asked her father if they could go on an adventure to find the Moonlight Lily. Her father smiled and promised that they would set out the next night to search for the magical flower.\n\nThe following evening, under the light of the full moon, Layla and her father ventured into the desert. They walked through shifting sands and listened to the whispers of the night breeze. And finally, as they reached a hidden oasis, they saw the Moonlight Lily shimmering in the moonlight.\n\nLayla carefully picked the flower, marveling at its beauty, and made her wish as she held it close to her heart. Suddenly, the sky filled with shooting stars, and her wish came true – her father's love shining brighter than ever before.\n\nWith the Moonlight Lily in hand and their hearts full of wonder, Layla and her father returned home, where they would cherish this magical night forever. As her father tucked her into bed, Layla fell asleep with a smile on her face, knowing that the love between them would always guide their way.\n\nAnd so, in the land of Sudan, the Moonlight Lily blossomed, spreading its glow of love and magic into the hearts of all who believed in the power of dreams and the beauty of the night.\n\nGoodnight, sweet Layla, may your dreams be filled with love and wonder. Sleep tight, for tomorrow holds another adventure in the land of dreams.",
+  "categories": {
+    "young": "physical",
+    "big bright eyes": "physical",
+    "curious": "mental",
+    "smiling": "physical",
+    "excited": "emotional",
+    "careful": "mental",
+    "marvelling": "emotional",
+    "full of wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.44",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

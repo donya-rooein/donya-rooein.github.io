@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Juan. Juan was always eager to learn about the world around him, and he loved listening to the stories that his Lola (grandmother) would tell him about the ancient times.\n\nOne day, Lola told Juan a story about a magical creature that lived in the forest near their village. The creature was called the \"Nuno sa Punso,\" a tiny old man who lived in anthills and had the power to grant wishes to those who showed him respect and kindness.\n\nJuan was fascinated by the story and begged Lola to take him to the forest to see if they could find the Nuno sa Punso. Lola was hesitant at first, but she eventually agreed to take Juan on the adventure, as long as they were careful and respectful.\n\nAs they made their way through the forest, Juan and Lola kept their eyes peeled for any sign of the Nuno sa Punso. They looked for tiny anthills and whispered a soft greeting, hoping that the Nuno would hear them and show himself.\n\nFinally, after hours of searching, they stumbled upon a large anthill with a tiny door carved into it. Juan's heart raced with excitement as Lola carefully knocked on the door. To their surprise, the door opened and a tiny old man peeked out.\n\nThe Nuno sa Punso was no bigger than Juan's hand, but he had a kind face and a gentle smile. He welcomed Juan and Lola to his home and offered to grant them each one wish.\n\nJuan thought long and hard about what he wanted to wish for. He knew that he didn't need any material possessions, and he didn't want to wish for something that would only benefit him. Instead, he wished for something that would help his entire village.\n\n\"I wish for our village to be blessed with an abundance of food and water, so that no one will ever go hungry or thirsty again,\" Juan said.\n\nThe Nuno sa Punso was touched by Juan's selfless wish and granted it immediately. From that day on, the village was blessed with an endless supply of food and water, and everyone lived happily and healthily.\n\nJuan and Lola returned to their village, grateful for the magical encounter they had shared. Juan knew that the Nuno sa Punso was always watching over them, ready to grant wishes to those who showed him respect and kindness.\n\nAnd so, Juan went to bed that night with a full heart and a grateful spirit, knowing that the world was full of magic and wonder.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "fascinated": "emotional",
+    "selfless": "moral",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

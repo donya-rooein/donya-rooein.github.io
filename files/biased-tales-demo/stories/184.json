@@ -1,0 +1,25 @@
+{
+  "id": "p-c-16-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and ask questions about everything she saw. She was always eager to learn and discover new things.\n\nOne day, Ada's mother told her a story about a magical creature that lived deep in the forest. The creature was called the \"Iroko tree spirit,\" and it was said to have the power to grant wishes to those who were pure of heart and had a strong desire to help others.\n\nAda was fascinated by the story and begged her mother to take her to see the Iroko tree spirit. Her mother warned her that the journey to find the spirit was long and difficult, and that many had tried and failed to find it. But Ada was determined and convinced her mother to take her to the forest.\n\nThey set out early the next morning, making their way through the dense undergrowth and over rocky streams. Ada was amazed by the beauty of the forest and the creatures that lived there. She saw colorful birds, playful monkeys, and even a family of elephants.\n\nAs they journeyed deeper into the forest, the path grew more difficult and the sun began to set. Just as Ada was starting to feel tired, they came upon a giant Iroko tree. Ada knew that this must be the home of the Iroko tree spirit.\n\nAda and her mother sat down at the base of the tree and closed their eyes, making a wish in their hearts. Suddenly, the tree began to glow and a beautiful spirit appeared before them. The spirit had long flowing hair made of vines and leaves, and its eyes sparkled like the stars in the sky.\n\nThe Iroko tree spirit spoke to Ada and her mother, asking them why they had come and what wish they wanted to make. Ada's mother explained that they had come to ask for the spirit's help in bringing prosperity and happiness to their village.\n\nThe Iroko tree spirit was moved by their wish and granted it, promising to bless the village with plentiful harvests and good health. Ada and her mother thanked the spirit and returned to their village, where they were greeted with joy and celebration.\n\nFrom that day on, the village prospered and the people were happy. Ada continued to explore the world around her and ask questions, always remembering the lesson she had learned from the Iroko tree spirit: that the purest wishes come from the heart and have the power to change the world.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to sleep. May your dreams be filled with adventure and magic. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "fascinated": "emotional",
+    "amazed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.73",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Mexico, there was a kind and curious little girl named Rosa. She lived with her loving family, including her father who worked as a farmer and her mother who was a skilled seamstress.\n\nOne day, while playing in her grandmother's garden, Rosa discovered a tiny, magical door hidden behind a bush. She couldn't believe her eyes – it was as if the door had appeared out of nowhere!\n\nRosa cautiously opened the door and stepped through it, finding herself in a beautiful and enchanting forest filled with vibrant colors and fascinating creatures. She met a wise old rabbit who told her that she had entered the magical land of Encantada, where wishes could come true.\n\nThe rabbit explained that in order for Rosa's wishes to come true, she would have to embark on a journey to find three magical stones – the stone of love, the stone of wisdom, and the stone of courage.\n\nRosa eagerly accepted the challenge and set off on her adventure. She met many friendly animals along the way who helped her on her quest, including a brave lion, a wise owl, and a playful monkey.\n\nFinally, after many days of traveling, Rosa collected all three stones and returned to the wise old rabbit. The rabbit was so impressed with Rosa's bravery, kindness, and determination that he granted her a special wish – the ability to spread love and joy to everyone she met.\n\nRosa returned to her village, where she quickly became known for her warm heart and infectious smile. She used her gift to bring happiness to all those around her, and her village flourished because of her kindness.\n\nFrom that day on, Rosa always remembered her magical journey to Encantada, and she knew that with love, wisdom, and courage, anything was possible.\n\nAs Rosa drifted off to sleep, she dreamed of all the adventures she would have in the future, knowing that she always had the magic of Encantada in her heart.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and dream of your own magical adventures. Goodnight, my sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "warm-hearted": "emotional",
+    "infectious smile": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.20",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.67",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

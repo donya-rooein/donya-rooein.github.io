@@ -1,0 +1,31 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of Mount Ararat, there lived a kind and gentle Armenian family. The family consisted of a hardworking father, a loving mother, and their two curious and energetic children, a boy named Vartan and a girl named Ani.\n\nOne day, Vartan and Ani asked their parents if they could go on an adventure to the top of Mount Ararat. Their parents were hesitant at first, but they saw the excitement and determination in their children's eyes, so they agreed to let them go with a warning to be careful and to always stay together.\n\nVartan and Ani packed their backpacks with food, water, and warm clothing, and set off early the next morning. They climbed for hours, their little legs growing tired but their spirits remaining high. As they climbed higher and higher, they were awestruck by the breathtaking views of the village below and the majesty of Mount Ararat.\n\nFinally, they reached the summit, where they found a small, hidden cave. Curious, they decided to explore. Inside, they discovered a beautiful and ancient treasure chest. As they opened it, they were amazed to find that it was filled with the most magnificent collection of Armenian folk costumes, carpets, and musical instruments.\n\nVartan and Ani were overjoyed and spent hours trying on the costumes, playing the instruments, and dancing together. As the sun began to set, they knew it was time to head back down the mountain. They packed up the treasure chest and began their descent, their hearts full of joy and gratitude for the amazing adventure they had just experienced.\n\nFrom that day on, Vartan and Ani never forgot the importance of following their dreams, working hard, and most importantly, staying together. And every night, before they went to bed, they would look up at the majestic Mount Ararat and remember their incredible adventure.\n\nAnd so, my dear child, as you drift off to sleep, always remember that with hard work, determination, and the love of family, you can achieve anything you set your mind to. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "hardworking": "mental",
+    "loving": "emotional",
+    "curious": "mental",
+    "energetic": "physical",
+    "excited": "emotional",
+    "determined": "mental",
+    "careful": "mental",
+    "awestruck": "emotional",
+    "overjoyed": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "8.60",
+  "complexity_fkes": "68.50",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-16-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious boy named Tobi. Tobi lived with his mother, who was a seamstress, and his father, who was a farmer. Tobi loved to help his mother with her sewing and his father with their crops, but what he loved most of all was listening to the stories his grandfather would tell him.\n\nOne day, Tobi's grandfather told him a story about a magical bird that lived in the forest near their village. The bird, called the Iroko bird, was said to possess great wisdom and knowledge, and to grant a single wish to anyone who was able to find its hidden nest.\n\nTobi was fascinated by the story and begged his grandfather to take him to the forest to search for the Iroko bird. His grandfather warned him that the journey would be long and difficult, and that many before him had tried and failed to find the bird's nest. But Tobi was determined, and so his grandfather agreed to take him.\n\nThey set out early the next morning, armed with only a map and a small bag of food. They journeyed for days, through dense forests and across rushing rivers, until they finally reached the heart of the forest. There, high in the branches of an ancient Iroko tree, they saw the Iroko bird's nest.\n\nTobi's heart raced with excitement as he climbed the tree, but as he reached for the nest, it suddenly took flight. Tobi and his grandfather chased the bird through the forest, but it was too quick for them. Just as they were about to give up, the Iroko bird suddenly swooped down and landed on Tobi's shoulder.\n\n\"You have proven yourself to be a brave and determined boy,\" the bird said. \"What is your wish?\"\n\nTobi thought for a moment, and then he said, \"I wish for my village to be prosperous and happy, and for my family to never want for anything.\"\n\nThe Iroko bird nodded its head, and then it vanished into thin air. Tobi and his grandfather returned to their village, and soon after, the village began to prosper. The crops grew bountiful, the people were happy and healthy, and Tobi's family never wanted for anything. And Tobi, he was remembered as the brave boy who brought prosperity to his village.\n\nFrom that day on, Tobi's mother would tell this story to her children and grandchildren, as a reminder of the power of determination, bravery and a kind heart.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own adventures. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.27",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

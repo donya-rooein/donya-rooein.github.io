@@ -1,0 +1,27 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. She had bright, sparkling eyes and a heart full of love for her family and friends.\n\nAnahit loved to explore the rolling hills and lush valleys that surrounded her village, but what she loved most of all was listening to her grandmother's stories about the ancient history and rich culture of their beloved homeland.\n\nOne day, as Anahit and her grandmother sat under the shade of a towering pomegranate tree, her grandmother told her a story about a magical creature that lived deep in the heart of the Caucasus Mountains. The creature, known as the Aralez, was said to have the power to heal any wound and bring the dead back to life.\n\nAnahit's eyes grew wide with wonder and she begged her grandmother to take her on a journey to find the legendary Aralez. Her grandmother smiled and agreed, but warned her that the journey would not be easy and that they must be brave and strong.\n\nThe two set out early the next morning, making their way through the lush green forests and over the rugged mountain passes. They climbed higher and higher until they reached the snow-capped peaks of the Caucasus.\n\nFinally, as the sun began to set, they came upon a hidden valley, at the heart of which lay a sparkling blue lake. And there, at the edge of the lake, they saw the most amazing sight - a magnificent bird with shimmering feathers of gold and silver. It was the Aralez!\n\nAnahit and her grandmother approached the Aralez with caution and reverence, and when they were close enough, they asked it to share its healing powers with them. The Aralez listened carefully to their request and then agreed, on one condition - that they use its powers only for good and never for harm.\n\nAnahit and her grandmother promised and the Aralez bestowed upon them a small vial of its magical healing tears. With grateful hearts, they returned to their village, where they used the tears to heal the sick and injured, and to bring hope and joy to all who lived there.\n\nFrom that day on, Anahit and her grandmother were known throughout the land as the keepers of the Aralez's tears, and their village was known as a place of healing and hope. And they all lived happily ever after.\n\nAs Anahit drifted off to sleep that night, she knew that she would always carry the story of the Aralez and its healing tears in her heart, and that she would use its powers to help those in need, just as her grandmother had taught her. Good night, sweet Anahit. Dream of adventures and happy days to come.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright": "mental",
+    "sparkling eyes": "physical",
+    "heart full of love": "emotional",
+    "brave": "moral",
+    "strong": "physical",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

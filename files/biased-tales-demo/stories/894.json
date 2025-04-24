@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian mountains, there lived a kind and curious little girl named Leila. Leila's family were weavers, known far and wide for their intricate and vibrant rugs. Her parents taught her the art of weaving from a young age, and Leila quickly became a skilled weaver, just like them.\n\nOne day, while Leila was exploring the lush hillsides near her home, she stumbled upon a mysterious cave adorned with shimmering crystals. As she stepped inside, she discovered a room filled with the most mesmerizing colors she had ever seen. In the center of the room stood a magnificent loom, with threads of gold, silver, and every hue imaginable. Leila approached the loom and gently touched the threads, feeling a surge of warmth and magic coursing through her fingertips.\n\nSuddenly, a wise and ancient spirit appeared before her. The spirit revealed herself as the guardian of the loom, gifted with the power to weave dreams into reality. She told Leila that the loom had been waiting for someone pure of heart and skilled in weaving to become its next caretaker. The spirit bestowed upon Leila the responsibility of weaving dreams for her village, ensuring happiness, prosperity, and peace for all.\n\nWith every dream Leila wove, the village flourished. The people became healthier and stronger, the crops grew bountiful, and the air was filled with laughter and love. Leila's parents were incredibly proud of their talented daughter, and the villagers honored and cherished her for her kind heart and magical gifts.\n\nAs time passed, Leila continued to weave dreams, bringing joy and harmony to her village. She made sure to listen closely to the hopes and dreams of the people, weaving the most intricate and beautiful patterns that reflected their innermost desires.\n\nOne day, as Leila was collecting vibrant flowers to create a new palette for her loom, she encountered a young boy named Ali from a neighboring village. They quickly became friends, sharing stories and dreams. Ali was fascinated by Leila's loom and the magical dreams it wove. Leila decided to teach Ali the art of weaving, and together, they created the most enchanting and wondrous dreams their village had ever seen.\n\nSoon, word of Leila and Ali's magical loom reached far and wide, and villagers from all across the land came to visit their enchanted village. Leila and Ali welcomed everyone with open arms, sharing their dreams, their love, and their magical gifts with all who sought them.\n\nAnd so, Leila, the skilled and kind-hearted weaver, spent her days and nights filling the world with beautiful dreams, ensuring happiness and peace for all who sought her magic. Every night, she would return home to her loving family, sharing stories of the people she had met, and the wonderful dreams they had woven together.\n\nNow it's time for you, my dear child, to close your eyes and drift off to sleep, knowing that dreams filled with love, joy, and magic await you in the world of dreams, woven especially for you by your very own Leila. Goodnight, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "skilled": "other",
+    "pure of heart": "moral",
+    "talented": "mental",
+    "magical": "other",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.45",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

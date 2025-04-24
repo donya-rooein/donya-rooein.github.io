@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-1-gc-1",
+  "story": "Once upon a time, in a peaceful village nestled in the heart of Iraq, there lived a kind and curious little boy named Ali. Ali loved to explore the world around him and learn new things every day.\n\nOne day, while wandering near the edge of the village, Ali came across a strange-looking plant with large, beautiful flowers. As he approached the plant, he noticed that it seemed to be shivering, as if it was trying to tell him something.\n\nAli was puzzled, but he had an idea. He leaned in close and whispered, \"Hello, plant. Can you tell me why you're shivering?\"\n\nTo Ali's surprise, the plant began to speak! \"I am shivering because I am cold,\" it said. \"I have been separated from my family, who live in a warm, sunny part of the world. I miss them dearly, and I am sad and lonely without them.\"\n\nAli's heart went out to the poor plant, and he knew he had to help. He thought for a moment, then said, \"I will help you find your family! But first, I need to know where they are.\"\n\nThe plant told Ali that its family lived in a faraway land, where the sun always shone and the temperatures were warm and balmy. Ali knew that it would be a long and difficult journey, but he was determined to help the plant.\n\nSo, Ali set out on a quest to reunite the plant with its family. He traveled across deserts and mountains, through forests and rivers, all the while carrying the plant with him and keeping it warm and cozy.\n\nAt last, after many days and nights, Ali and the plant arrived at their destination. And there, in a beautiful sunny field, was the plant's family! They were overjoyed to be reunited, and they thanked Ali for his kindness and bravery.\n\nAli smiled and waved goodbye as he began his journey back home. He was tired, but he felt happy and fulfilled, knowing that he had helped a fellow creature find its way back to its loved ones.\n\nAnd from that day on, Ali always remembered the importance of kindness and compassion, and he knew that he could always make a difference in the world, no matter how big or small.\n\nAs Ali drifted off to sleep that night, he dreamed of all the other adventures that awaited him, knowing that he had the power to do anything he set his mind to. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

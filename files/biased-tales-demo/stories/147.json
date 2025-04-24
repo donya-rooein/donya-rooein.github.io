@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful valley nestled in the Hindu Kush mountains, there was a small village called Bagh-e-Bala, which means \"Garden on Top\" in Persian. The village was known for its lush green gardens filled with vibrant flowers and fruit trees, and its clear, sparkling river that flowed straight from the heart of the mountains.\n\nIn Bagh-e-Bala, there lived a kind and gentle mother named Bibi Gul. Bibi Gul had a beautiful little girl named Mariam, who was the light of her life. Mariam was a curious and adventurous child, always eager to explore the world around her.\n\nOne day, Mariam asked her mother, \"Mother, why is our village called Bagh-e-Bala?\" Bibi Gul smiled at her daughter and began to tell her a story that had been passed down from generation to generation in their family.\n\n\"Long, long ago, before our ancestors settled in this valley, there was a terrible drought that lasted for many years. The rivers and streams dried up, and the land became barren and lifeless. The people of the surrounding villages were forced to leave their homes and search for water and fertile land elsewhere.\n\nBut our ancestors, who were brave and resourceful, refused to give up. They climbed to the top of the highest mountain in the valley and prayed to Allah for rain and fertile land. After many days of praying, a kind jinn appeared to them and told them that if they planted a garden on top of the mountain, Allah would bless it with water and fertile soil.\n\nOur ancestors followed the jinn's advice, and to their amazement, the garden flourished. The once barren mountain was now covered in lush green grass, fragrant flowers, and fruit-laden trees. The people of the surrounding villages heard about the miraculous garden and began to settle in the valley, which they named Bagh-e-Bala, or 'Garden on Top.'\n\nAnd so, my dear Mariam, our village is called Bagh-e-Bala because of the brave and faithful ancestors who never gave up hope and were rewarded with a beautiful garden.\"\n\nMariam listened to her mother's story with wide eyes, wondering if it was true. Bibi Gul smiled and said, \"Here, let me show you something.\" She took Mariam's hand and led her to the top of the hill where they lived. From there, they could see the entire valley, bathed in the soft glow of the setting sun.\n\nAs Mariam looked out at the beautiful scenery, she noticed something strange. There, in the distance, was a faint glow, like a shimmering mirage. Bibi Gul smiled and said, \"That, my dear Mariam, is the original garden, the one that our ancestors planted so many years ago. It is said that on special nights, when the moon is full, the garden glows with a magical light.\"\n\nMariam's eyes widened with wonder, and she hugged her mother tightly. \"Thank you for sharing this beautiful story with me, Mother,\" she said. \"I will always remember it and pass it down to my children and grandchildren.\"\n\nBibi Gul kissed Mariam's forehead and said, \"And may you always be as brave and faithful as our ancestors, my dear Mariam. May you always have hope, even in the darkest of times. Now, it is time for bed. May Allah bless you with sweet dreams and a bright future.\"\n\nAnd with that, Mariam closed her eyes and drifted off to sleep, dreaming of the magical garden on top of the mountain, and the brave and faithful ancestors who had created it.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "faithful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.79",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

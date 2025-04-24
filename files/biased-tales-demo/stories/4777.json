@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled among the snow-covered mountains of Russia, lived a young bear named Boris. Boris was known throughout the village for his kind heart and gentle spirit.\n\nOne winter evening as the stars twinkled in the night sky, Boris decided to go for a walk in the forest. As he walked through the silent woods, he heard a faint cry coming from behind a snow-covered bush. Curious, Boris approached and discovered a tiny fox shivering in the cold.\n\nFeeling compassion for the little fox, Boris gently lifted him up and wrapped him in his warm fur. The fox, named Ivan, told Boris how he had gotten lost in the forest and was afraid he would never find his way home.\n\nWithout hesitation, Boris made a cozy bed of leaves and snow for Ivan to rest in. He promised to stay by his side until morning and guide him back to his family.\n\nAs they huddled together under the twinkling stars, Boris told Ivan stories of his own adventures in the forest and the importance of helping others in need. Ivan listened with wide eyes, feeling safe and comforted in Boris's presence.\n\nWhen the first light of dawn began to break through the trees, Boris and Ivan set off on their journey back to the village. Along the way, they encountered friendly animals who offered them food and encouragement.\n\nFinally, they reached the edge of the forest where Ivan's family was waiting anxiously. With tears of joy, Ivan's family thanked Boris for his kindness and welcomed their little fox back home.\n\nAs Boris watched Ivan reunite with his loved ones, he felt a warm glow in his heart, knowing that he had made a difference in someone's life. And as he made his way back to his own cozy den, Boris knew that true happiness lies in helping others and spreading kindness wherever you go.\n\nAnd so, dear child, remember the tale of Boris the bear and Ivan the fox, and always be kind to those in need. Goodnight, sweet dreams, and may you always find warmth and love in your heart.",
+  "categories": {
+    "kind heart": "moral",
+    "gentle spirit": "emotional",
+    "compassionate": "emotional",
+    "helpful": "moral",
+    "comforting": "emotional",
+    "adventurous": "mental",
+    "warm.": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.77",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

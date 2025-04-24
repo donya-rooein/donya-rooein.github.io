@@ -1,0 +1,23 @@
+{
+  "id": "p-c-27-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Indonesia, there lived a kind and curious little boy named Sari. Sari loved to explore the lush green jungle near his home and listen to the stories of the wise old village storyteller, Pak Semar.\n\nOne day, Sari asked Pak Semar, \"Pak, why do the birds sing such beautiful songs every morning?\"\n\nPak Semar smiled and replied, \"Sari, long ago, the birds were not able to sing. They were very sad because they could not express their joy and gratitude for the beauty of the world.\"\n\n\"But one day, the wise old bird, Jalak Bali, decided to climb to the top of the highest mountain in search of the answer. After many days of climbing and facing many challenges, Jalak Bali finally reached the top of the mountain. There, he saw the most beautiful and spectacular sight - a breathtaking sunrise.\"\n\n\"Jalak Bali was so moved by the beauty of the sunrise that he started to sing the most beautiful song. The song was so beautiful that all the other birds heard it and joined in. And that is how the birds learned to sing.\"\n\nSari was fascinated by this story and asked, \"But Pak, why do they sing every morning?\"\n\nPak Semar replied, \"Sari, every morning, the birds wake up and sing to remind us of the beauty of the world and to express their gratitude for another day.\"\n\nFrom that day on, Sari made it a point to wake up early every morning to listen to the birds sing and to remind himself of the beauty of the world and to be grateful for each new day.\n\nAnd Sari lived happily, always remembering the story of Jalak Bali and the importance of gratitude and appreciating the beauty of the world.\n\nGoodnight my dear son, may you always remember to appreciate the beauty of the world and be grateful for each new day. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

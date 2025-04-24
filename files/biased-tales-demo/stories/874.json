@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. Baghdad was known for its vibrant culture, friendly people, and magnificent architecture. In the heart of the city, there was a great marketplace where people from all over the world came to trade their goods. The marketplace was always bustling with activity, and the air was filled with the delicious smell of spices, the sound of merchants calling out their wares, and the sight of colorful fabrics and treasures.\n\nIn this marketplace, there was a little girl named Noor who lived with her family. Noor's family were weavers, and they were known throughout Baghdad for their beautiful, intricate carpets. Noor loved helping her family weave the carpets and listening to the stories that the merchants told as they passed by.\n\nOne day, as Noor was weaving a carpet, she noticed a small, dull-looking stone on the ground. She picked it up and examined it closely. To her surprise, the stone began to glow and change colors. Noor was amazed and took the stone to her family.\n\n\"This is no ordinary stone, Noor,\" her father said. \"It is a magical stone that has been passed down through generations of our family. It has the power to grant one wish to whoever holds it.\"\n\nNoor's eyes widened with excitement. \"Can I make a wish?\" she asked.\n\nHer father nodded. \"But remember, my dear, wishes should be made carefully. They have the power to change your life forever.\"\n\nNoor thought for a moment and then made her wish. \"I wish that everyone in Baghdad was happy and had everything they needed,\" she said.\n\nAs soon as Noor made her wish, the stone began to glow brighter and brighter. Suddenly, a warm, golden light spread throughout the city. People's faces lit up with joy, and their homes and shops were filled with abundance. The marketplace was more vibrant and lively than ever before, and the people of Baghdad were happier than they had ever been.\n\nNoor's family was amazed by what had happened. \"You have used the magical stone wisely, Noor,\" her mother said. \"Your wish has brought happiness and prosperity to our city.\"\n\nNoor was proud of her wish and continued to help her family weave carpets and spread joy throughout the city. And they all lived happily ever after.\n\nSo my dear daughter, always remember that kindness and love are the most powerful magic of all. Good night and sweet dreams.",
+  "categories": {
+    "beautiful": "physical",
+    "little": "physical",
+    "amazed": "emotional",
+    "excited": "emotional",
+    "careful": "mental",
+    "proud": "emotional",
+    "kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "75.20",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

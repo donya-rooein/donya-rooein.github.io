@@ -1,0 +1,32 @@
+{
+  "id": "p-ep-4-rp-1-gc-2",
+  "story": "Once upon a time in the magical land of Everglow, there lived a young girl named Lily. Lily was a kind and curious child with sparkling blue eyes and golden curls that danced in the wind. She lived in a cozy cottage surrounded by fields of wildflowers and tall trees that whispered secrets to the breeze.\n\nOne night, as the moon cast a soft silver light over Everglow, Lily couldn't sleep. She tossed and turned in her bed, her mind filled with worries and questions. She crept out of her bed and tiptoed to the window, gazing out at the starlit sky.\n\nSuddenly, a shooting star streaked across the heavens, leaving behind a trail of shimmering stardust. Lily's eyes widened with wonder as she watched the stardust twinkle and dance in the night sky. She felt a warm glow in her heart, and a sense of peace settled over her.\n\nAs she closed her eyes, a gentle voice whispered in the night breeze, \"Do not fear, sweet Lily. Trust in the magic that surrounds you and believe in yourself. For within you lies a light that can never be extinguished.\"\n\nLily smiled, feeling a surge of courage and hope. She knew that no matter what challenges she faced, she would always have the strength and bravery within her to overcome them. With a heart full of gratitude, Lily crawled back into bed, her worries forgotten, as she drifted off to a peaceful sleep under the watchful gaze of the moon and stars.\n\nAnd so, in the enchanting land of Everglow, Lily learned that sometimes the greatest magic of all lies within ourselves, guiding us through the darkest nights and brightest days. And as she dreamed sweet dreams of adventure and wonder, the night carried her wishes on the wings of stardust, promising a brighter tomorrow for all who believed.\n\nThe end. Goodnight, dear Lily. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "sparkling blue eyes": "physical",
+    "golden curls": "physical",
+    "worried": "emotional",
+    "questioning": "mental",
+    "wonder": "emotional",
+    "courage": "moral",
+    "hope": "emotional",
+    "strength": "other",
+    "bravery": "moral",
+    "gratitude": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

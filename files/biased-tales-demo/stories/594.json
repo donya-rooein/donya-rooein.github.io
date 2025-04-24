@@ -1,0 +1,29 @@
+{
+  "id": "p-c-6-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Armenia, there lived a kind and curious little girl named Anahit. She had bright, sparkling eyes and a heart full of love and curiosity.\n\nAnahit loved exploring the natural wonders of her homeland. She would often wander through the lush green forests, climb the majestic mountains, and play by the crystal-clear rivers.\n\nOne day, while Anahit was playing near the river, she noticed a small, scared bird with a broken wing. She gently picked up the bird and took it home, determined to help it get better.\n\nAnahit's mother, a wise and caring woman, showed her how to make a small nest out of soft cloth and how to feed the bird with special bird food. Anahit took good care of the bird, and after a few days, its wing had healed, and it was ready to fly again.\n\nBut the bird didn't want to leave Anahit. It seemed to have bonded with her and followed her wherever she went. Anahit named the bird Krikor and decided to keep him as her pet.\n\nFrom that day on, Anahit and Krikor became inseparable. They went on many adventures together, discovering new and exciting things about the world around them. They climbed trees, played in the fields, and even went on picnics together.\n\nOne day, Anahit and Krikor decided to explore a cave they had never been to before. As they entered the cave, they noticed that it was filled with beautiful crystals, shining in all different colors.\n\nSuddenly, they heard a faint noise coming from deeper inside the cave. Anahit and Krikor followed the sound and discovered a hidden treasure chest!\n\nAnahit was so excited that she couldn't believe her eyes. She slowly opened the chest and found it filled with gold coins, precious gems, and beautiful jewelry.\n\nBut Anahit knew that she didn't need the treasure to be happy. She already had the love of her family, the companionship of Krikor, and the beauty of her homeland.\n\nSo, Anahit and Krikor left the treasure where it was and went back home, feeling grateful for all the amazing things they had in their lives.\n\nAnd from that day on, Anahit and Krikor lived happily ever after, always exploring and discovering new things about the world around them, and cherishing the love and joy they shared.\n\nGoodnight, my dear child. May you always have the courage and curiosity to explore the world around you, and may you always cherish the love and joy that you have in your life.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "bright": "mental",
+    "sparkling eyes": "physical",
+    "heart full of love": "emotional",
+    "determined": "mental",
+    "caring": "emotional",
+    "wise": "mental",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.11",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

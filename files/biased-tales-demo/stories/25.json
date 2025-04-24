@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-3-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a magical forest filled with beautiful, brightly colored flowers and trees that towered above the clouds. The forest was home to many different creatures, but the kindest, most gentle of them all were the flutterbies.\n\nFlutterbies were small, delicate creatures with delicate, shimmering wings and long, flowing tails. They came in all different colors and patterns, each one more beautiful than the last. They lived in a secret glade deep within the forest, and they spent their days flitting about, collecting nectar and spreading pollen.\n\nOne day, a young girl named Lily wandered into the magical forest. She had been out for a walk in the woods, enjoying the fresh air and sunshine, when she stumbled upon the enchanted entrance to the flutterby glade.\n\nAs soon as she stepped into the glade, the flutterbies fluttered down to greet her. They flew around her in a swirling, sparkling dance, their delicate wings sending the pollen swirling through the air. Lily was enchanted by the beautiful creatures and spent hours playing with them, chasing after them as they flitted from flower to flower.\n\nBut as the sun began to set and the shadows grew long, Lily knew it was time to go home. She bid farewell to her new friends and made her way back through the forest.\n\nAs she walked, she noticed that the flowers were beginning to wilt and droop. The once bright and colorful petals were now pale and shriveled, and the once sweet-smelling nectar was now bitter and sour.\n\nLily was worried about the flutterbies and the forest, so she hurried back to the glade to see if they were okay. When she arrived, she found the flutterbies in a panic. The nectar they had been collecting was no good, and they were running out of food.\n\nLily didn't know what to do, but she didn't want the flutterbies to be hungry or sad. So she thought hard, and an idea came to her. She gathered all the wilted flowers and took them to the edge of the glade.\n\nUsing some magic seeds she had brought with her, Lily planted the wilted flowers in the ground. To her amazement, the seeds began to sprout and grow into beautiful, lush flowers almost immediately.\n\nThe flutterbies were overjoyed and thanked Lily for saving their home. From that day on, they all lived happily ever after in the magical forest, with Lily visiting whenever she could to play with her dear, dear flutterby friends.\n\nAnd that, my dear daughter, is the end of the story. Now it is time to close your eyes and drift off to sleep, dreaming of magical forests and wonderful flutterby friends. Goodnight, sweetheart.",
+  "categories": {
+    "young": "physical",
+    "enchanted": "emotional",
+    "worried": "emotional",
+    "thoughtful": "mental",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

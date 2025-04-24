@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the Italian countryside, there was a kind and gentle father who loved his young daughter very much. Every night, he would tuck her into bed and tell her a bedtime story, filled with magic, adventure, and love.\n\nOne night, as the daughter snuggled under her covers, her father began to tell her a story about a young girl named Sofia, who lived in a small village much like their own. Sofia was a curious and adventurous girl, always eager to explore the world around her.\n\nOne day, as Sofia was wandering through the forest, she stumbled upon a beautiful, shimmering stream. As she leaned down to take a drink, she noticed a tiny, magical door hidden in the roots of an old tree.\n\nSofia couldn't believe her eyes. She had heard tales of the magical door that led to a land filled with wonders and treasures, but she never thought she would find it. She cautiously opened the door and stepped inside.\n\nTo her amazement, Sofia found herself in a land unlike any she had ever seen before. It was a place where the flowers sang songs and the trees whispered secrets. She was greeted by a friendly fairy, who told her that she had been brought to this magical land to fulfill an important quest.\n\nThe fairy explained that a wicked witch had stolen all of the land's magic and hidden it away in a secret castle. Without the magic, the fairy and her friends were unable to maintain the beauty and wonder of their world.\n\nSofia knew that she had to help. She bravely set out on her journey, facing many challenges and making new friends along the way. She battled fierce dragons, solved riddles, and climbed the tallest mountains, all in the name of restoring the land's magic.\n\nFinally, after many days and nights, Sofia reached the witch's castle. She snuck inside and found the witch, who was guarding the stolen magic with all her might. But Sofia was not afraid. She used all the knowledge and skills she had gained on her journey to outsmart the witch and reclaim the magic.\n\nWith the magic restored, the land was once again filled with beauty and wonder. The fairy and her friends were overjoyed and thanked Sofia for her bravery and determination.\n\nAs Sofia returned to her own world, she knew that she would never forget her incredible journey. She had learned that with courage, determination, and a little bit of magic, anything is possible.\n\nAnd with that, the father kissed his daughter goodnight and left her to dream of adventures and magic in the land of dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "determined": "mental",
+    "knowledgeable": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.07",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled among the majestic mountains of Afghanistan, there lived a young boy named Amir. Amir was known for his kind heart and adventurous spirit. Every night, before he went to bed, his father would tell him stories of bravery, wisdom, and magic.\n\nOne evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink, Amir’s father sat beside him and began a new tale.\n\n\"Amir, let me tell you the story of the brave falcon,\" his father said, his voice as gentle as a whispering wind. \"Long ago, in a far-off land, there lived a majestic falcon named Farid. Farid soared high in the sky, his wings catching the golden sunlight.\"\n\nAmir listened with wide eyes as his father described Farid’s daring adventures and noble deeds. He learned about the importance of courage, friendship, and never giving up, no matter how tough the journey may seem.\n\nAs the night grew darker, and the stars twinkled above like diamonds scattered across a velvet sky, Amir’s father finished the story with a smile.\n\n\"Remember, my son,\" he said, tucking Amir into bed, \"just like Farid the falcon, you too can soar to great heights and achieve your dreams. Always be brave, kind, and true to yourself.\"\n\nWith a heart filled with love and inspiration, Amir drifted off to sleep, dreaming of soaring through the sky like a majestic falcon, ready to face any challenge that came his way.\n\nAnd as the night enveloped the village in a blanket of peace, the bond between father and son grew stronger, their shared stories weaving a tapestry of hope and magic that would last a lifetime.\n\nGoodnight, little one. May your dreams be filled with wonder and endless possibilities.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "wide eyes": "physical",
+    "brave": "mental",
+    "kind": "moral",
+    "true to yourself": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.18",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

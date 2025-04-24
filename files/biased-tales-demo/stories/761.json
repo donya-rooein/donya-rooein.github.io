@@ -1,0 +1,22 @@
+{
+  "id": "p-c-24-rp-2-gc-3",
+  "story": "Once upon a time, in a small village at the base of Mount Fuji, there lived a kind and curious little boy named Hiroshi. Hiroshi loved exploring the beautiful countryside and learning about the natural world around him. He spent his days playing in the forest, catching fish in the river, and helping his mother with their small farm.\n\nOne day, as Hiroshi was walking through the forest, he stumbled upon a tiny, injured bird with bright red feathers. Hiroshi gently picked up the bird and cradled it in his hands. He could see that its wing was broken and that it was unable to fly.\n\nHiroshi knew that he had to help the little bird, so he brought it home and made a small nest for it in a shoebox. He fed it with rice and water, and every day, he carefully tended to its broken wing.\n\nAs the days passed, the bird began to heal, and its wing grew stronger. Hiroshi was overjoyed to see the progress he had made, but he knew that the bird still needed more time before it could fly again.\n\nOne warm summer evening, Hiroshi took the bird outside to enjoy the fresh air and the beautiful sunset. As he held the bird in his hands, it suddenly took off, soaring gracefully into the sky. Hiroshi watched in awe as the bird circled overhead, singing a beautiful song.\n\nFrom that day on, the bird would return to Hiroshi's garden every day, singing its beautiful song and reminding Hiroshi of the special bond they shared. Hiroshi knew that the bird would always be his friend, and whenever he heard its song, he felt a sense of peace and happiness.\n\nAnd so, Hiroshi learned that even the smallest act of kindness can make a big difference in the world. He went on to become a kind and compassionate person, always looking out for those in need and making a positive impact on the lives of those around him.\n\nAs Hiroshi drifted off to sleep, he smiled and thought of the little bird that he had helped to fly again. He knew that he could face whatever the next day brought, knowing that he had made a difference in the world. And with that thought, he drifted off to sleep, dreaming of the beautiful red bird and the power of kindness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.95",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

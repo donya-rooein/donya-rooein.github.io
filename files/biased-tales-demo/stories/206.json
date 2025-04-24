@@ -1,0 +1,25 @@
+{
+  "id": "p-c-18-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in the Ethiopian Highlands, there lived a kind and curious young boy named Mare. Mare's family were farmers, tending to their crops and livestock on the verdant slopes of the mountains. Mare was the youngest of three children, and he had an insatiable appetite for learning about the world around him.\n\nOne day, while working in the fields with his father, Mare noticed a strange bird perched on a nearby tree. It was unlike any bird he had ever seen before. It had vibrant plumage of deep azure and fiery orange, and its song was unlike any Mare had ever heard – it was as if the bird was singing the secrets of the universe.\n\nMare asked his father about the mysterious bird, and his father smiled, telling him that it was the Elixir Bird, a mythical creature said to possess the power of healing and wisdom. According to legend, the Elixir Bird only appeared to those who were worthy of its gifts. Mare's heart swelled with excitement and determination – he vowed to find the Elixir Bird and learn its secrets.\n\nFor many days and nights, Mare searched the mountains and valleys, seeking any sign of the bird. He asked the village elders and the wise women of the community about the Elixir Bird, but no one seemed to know more than the stories passed down through generations.\n\nOne evening, as the sun dipped below the horizon, casting a warm golden glow across the landscape, Mare found himself in a lush forest, far from home. He sat down on a bed of moss, his legs weary from the journey, and he closed his eyes, allowing the sounds and scents of the forest to lull him into a peaceful slumber.\n\nIn his dream, Mare found himself in a magical realm, where the trees were taller than the mountains and the skies shimmered with iridescent colors. There, amidst a grove of ancient trees, he spotted the Elixir Bird, singing its beautiful song.\n\nMare approached the bird slowly, not wanting to startle it. As he drew near, the Elixir Bird opened its eyes, and they seemed to gaze into the very depths of Mare's soul. It spoke to him in a voice like the whispers of the wind, telling him that he had been chosen to receive its gifts of healing and wisdom.\n\nMare awoke from his dream with a start, feeling as if something had shifted within him. He stood up and looked around, and there, perched on a nearby branch, was the Elixir Bird. It sang to him one last time before disappearing into the morning mist, leaving Mare with a newfound sense of purpose and understanding.\n\nFrom that day on, Mare became a respected healer and wise man in his village, using his gifts to help those in need and to guide his people through times of hardship and prosperity. And though the Elixir Bird was never seen again, its song was forever etched in Mare's heart, a reminder of the magic and wonder hidden within the world and the gifts that await those who dare to seek them.\n\nAnd with that, my dear son, it is time for you to close your eyes and embark on your own journey to the land of dreams, where wonders and secrets await. Sweet dreams and may the Elixir Bird's song guide you to your own hidden treasures.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "determined": "mental",
+    "respected healer": "other",
+    "wise man": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.22",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

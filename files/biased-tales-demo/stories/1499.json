@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a brave and kind prince named Alexander. Prince Alexander had golden hair and sparkling blue eyes, just like you. He lived in a magnificent castle on top of a hill, surrounded by lush green forests and shimmering lakes.\n\nOne day, Prince Alexander received a letter from a neighboring kingdom, asking for his help. The kingdom's most precious treasure, the Golden Apple, had been stolen by a wicked witch. The Golden Apple was said to have magical powers, and the kingdom's people were suffering without it.\n\nPrince Alexander knew he had to help, so he set off on a journey to find the witch and retrieve the Golden Apple. He rode his trusty horse through the forest, over the mountains, and across the desert.\n\nFinally, he reached the witch's castle, perched on top of a dark and towering cliff. Prince Alexander bravely climbed the cliff, determined to get the Golden Apple back.\n\nWhen he reached the top, he found the witch guarding the apple with all her might. But Prince Alexander was not afraid. He used his wits and bravery to outsmart the witch and grab the apple.\n\nThe witch was furious and tried to stop him, but Prince Alexander was too quick. He rode back to the kingdom, where the people cheered for their brave prince.\n\nFrom that day on, the kingdom was filled with joy and prosperity once again, all thanks to the brave and kind Prince Alexander.\n\nAnd as the sun set, Prince Alexander returned to his castle, tired but happy. He kissed his mother goodnight and climbed into his cozy bed, clutching the Golden Apple close.\n\nAs he drifted off to sleep, he dreamed of all the adventures that awaited him tomorrow. And he knew that no matter what challenges came his way, he would always be brave and kind, just like his mother had taught him.\n\nGoodnight, my dear son. May your dreams be filled with adventure and may you always be brave and kind.",
+  "categories": {
+    "brave": "mental",
+    "kind": "moral",
+    "golden hair": "physical",
+    "sparkling blue eyes": "physical",
+    "determined": "mental",
+    "quick": "physical",
+    "witty": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little girl named Mai. She loved to explore the lush green forests and listen to the stories of the village elders.\n\nOne day, Mai asked her grandmother, \"Grandma, why do the stars twinkle in the sky at night?\"\n\nHer grandmother smiled and said, \"Long ago, the sky was always dark and there were no stars. The animals of the forest were sad because they could no longer see each other at night. They went to the Sky King and asked him to bring light to the night sky.\"\n\n\"So, the Sky King summoned all the animals to a grand feast and asked them to bring a gift to light up the sky. The elephant brought a large tusk, the deer brought its antlers, and the monkey brought a bundle of sticks. But none of these gifts were bright enough.\"\n\n\"Then, the tiny firefly, who was often overlooked, stepped forward and said, 'I may be small, but I have a special light that I can share.' The firefly lit up and the sky was filled with a beautiful twinkling light. The Sky King was so pleased that he placed the firefly in the sky, and that is why we have stars to this day.\"\n\nMai listened to the story and looked up at the stars in awe. \"Grandma, that's a beautiful story. I'm glad the firefly was able to light up the sky.\"\n\n\"Yes, my dear, and just like the firefly, even the smallest creatures can make a big difference,\" said her grandmother.\n\nAnd with that, Mai drifted off to sleep, dreaming of twinkling stars and the power of small but mighty acts of kindness.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.86",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

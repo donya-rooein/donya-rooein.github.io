@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Iranian countryside, there lived a kind and gentle girl named Leila. She was known for her love of animals and her warm, caring heart.\n\nOne day, as Leila was walking through the village, she came across a small, injured bird. Its wing was bent at an odd angle and it was unable to fly. Leila gently picked up the bird and brought it home with her.\n\nShe spent the next few days nursing the bird back to health, feeding it and keeping it warm. She talked to the bird and sang it gentle lullabies, and slowly but surely, the bird began to recover.\n\nAs the bird grew stronger, Leila knew it was time for it to return to the wild. She took the bird to a nearby meadow, where it fluttered its wings and took flight, soaring high into the sky.\n\nFrom that day on, Leila was known as \"the bird whisperer\" and the villagers would often bring her injured animals to care for. She was happy to help and always took great care in nursing each animal back to health.\n\nYears went by and Leila grew up to be a wise and loving woman, who always put the needs of others before her own. She became a beloved member of the community and her legacy lived on for generations.\n\nAs you drift off to sleep tonight, my dear daughter, remember the lessons of Leila's story: be kind, be gentle, and always lend a helping hand when you can. For in this way, you too, can make a difference in the world.\n\nGood night my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "love of animals": "emotional",
+    "warm": "emotional",
+    "caring": "emotional",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

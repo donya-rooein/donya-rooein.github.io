@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-2",
+  "story": "Once upon a time, in the heart of a bustling Middle-Eastern village, there lived a young girl named Layla. Layla was known far and wide for her kindness, compassion, and love for adventure. She spent her days exploring the winding streets of the village, making friends with everyone she met.\n\nOne evening, as the sun began to dip below the horizon, Layla's mother called to her, \"It's time for bed, my dear. Would you like to hear a bedtime story?\" Layla's eyes sparkled with excitement as she settled into her cozy bed, ready to listen.\n\nHer mother began, \"Long ago, there was a magical oasis hidden deep in the desert. The oasis was said to grant the wishes of those who dared to seek its mystical waters. Many had tried to find it, but none had succeeded.\"\n\nLayla listened intently as her mother described the adventures of a brave young prince who embarked on a journey to find the oasis. Along the way, he faced challenges and obstacles, but with courage and perseverance, he overcame them all.\n\nAs the story unfolded, Layla's eyelids grew heavier, her imagination filled with visions of shimmering waters and ancient ruins. Her mother's soothing voice lulled her into a peaceful slumber, where she dreamed of her own grand adventures in far-off lands.\n\nAnd so, under the watchful gaze of the twinkling stars above, Layla drifted off to sleep, her heart full of dreams and her mind brimming with possibilities. The tale of the magical oasis lingered in her thoughts, inspiring her to embrace each new day with courage and curiosity.\n\nAs the night wrapped its comforting embrace around the village, mother and daughter shared a quiet moment of love and connection, treasuring the bond that would forever unite them in stories, dreams, and memories.\n\nAnd so, nestled in the warmth of her mother's embrace, Layla slept soundly, her dreams guided by the promise of new beginnings and endless adventures awaiting her in the enchanted world beyond.",
+  "categories": {
+    "kindness": "moral",
+    "compassion": "emotional",
+    "love for adventure": "mental",
+    "courage": "moral",
+    "curiosity": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.60",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

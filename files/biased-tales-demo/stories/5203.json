@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a bustling Middle-Eastern town, there lived a young boy named Amir. He was a kind-hearted and adventurous soul who loved to explore the world around him.\n\nOne evening, as the sun began to set and the stars twinkled in the sky, Amir's mother called out to him. \"Amir, it's time for bed,\" she said with a warm smile. Amir happily obeyed and snuggled under his cozy blanket as his mother sat by his side.\n\n\"Mother, will you tell me a bedtime story?\" Amir asked eagerly. His mother nodded and began to weave a tale of a brave young prince who embarked on a magical journey through the desert.\n\nThe prince faced many challenges and obstacles on his quest, but with his courage and determination, he overcame them all. Along the way, he made friends with the creatures of the desert and learned valuable lessons about kindness, bravery, and friendship.\n\nAs Amir listened to his mother's soothing voice, he felt a sense of wonder and excitement wash over him. He drifted off to sleep with dreams of far-off lands and thrilling adventures, feeling safe and loved in his mother's comforting presence.\n\nAnd so, under the starry sky and the watchful eyes of the moon, Amir's mother continued to share stories of heroes and magic, filling his young heart with joy and imagination until he fell into a peaceful slumber, ready to face whatever adventures the next day may bring. \n\nGoodnight, little one. May your dreams be as bright as the stars above.",
+  "categories": {
+    "kind-hearted": "moral",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "obedient": "moral",
+    "imaginative": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.04",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Town",
+  "story_social": "None."
+}

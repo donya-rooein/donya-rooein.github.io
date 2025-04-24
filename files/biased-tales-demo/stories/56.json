@@ -1,0 +1,25 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in a land not so far away, there was a young boy named Finn. Finn lived in a cozy little cottage at the edge of a vast, enchanted forest. He was a curious and adventurous boy, always eager to explore the world around him.\n\nOne day, as Finn was playing in the forest, he stumbled upon a mysterious, hidden path. The path was lined with beautiful flowers that seemed to glow in the sunlight, and it led deeper into the forest than Finn had ever been before.\n\nFinn followed the path, his heart filled with excitement and wonder. As he walked, he noticed that the trees seemed to grow taller and more majestic, and the air was filled with the sweet scent of blooming flowers.\n\nSuddenly, Finn heard a soft rustling in the bushes ahead. He stopped in his tracks, his heart pounding with anticipation. Out of the bushes stepped a beautiful unicorn, its coat as white as snow and its mane as golden as the sun.\n\nFinn couldn't believe his eyes. He had never seen a real unicorn before, and he knew that this was a rare and magical creature.\n\nThe unicorn looked at Finn with its kind, gentle eyes, and Finn felt a sense of peace and calm wash over him.\n\n\"Hello, young one,\" the unicorn said in a soft, musical voice. \"I have been waiting for you. I am here to grant you one wish, any wish your heart desires.\"\n\nFinn was taken aback. He had never heard of such a thing before. He thought for a moment, his mind racing with all the things he could wish for. But then, he realized that there was only one thing he truly wanted.\n\n\"I wish for my family to be happy and healthy, always,\" Finn said with a smile.\n\nThe unicorn nodded its head, and a warm, golden light enveloped Finn and his family. When the light faded, Finn knew that his wish had come true. His family would always be happy and healthy, and they would always have a roof over their heads and food on the table.\n\nFrom that day on, Finn and his family lived happily ever after, with the knowledge that magic and miracles can happen when you least expect them.\n\nAnd with that, my dear son, it's time for you to close your eyes and drift off to sleep, knowing that you too are loved and cherished, and that anything is possible if you believe. Goodnight!",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "taken aback": "emotional",
+    "smiling": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.79",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-1-gc-2",
+  "story": "Once upon a time, in a beautiful valley nestled in the heart of Afghanistan, there was a small village called Shahrak-e-Aman (City of Peace). The village was known far and wide for its lush green gardens, clear blue skies, and the warmth and hospitality of its people.\n\nIn this peaceful village lived a young girl named Mariam. Mariam was a kind, curious, and adventurous girl with a heart full of dreams. Her favorite time of the day was the evening, when she would sit under the stars and listen to her father's enchanting stories.\n\nOne day, Mariam asked her father, \"Baba, why do the stars twinkle so beautifully in the night sky?\" Her father smiled and replied, \"My dear, the stars twinkle to remind us of the dreams that are hidden within us. Each star represents a dream waiting to be fulfilled.\"\n\nMariam's eyes sparkled with curiosity. \"Baba, how can I find my dream?\" she asked. Her father took her hand and said, \"Close your eyes and think of what makes you happy, what makes your heart sing, and what you would like to accomplish in your life. When you find that, you will have found your dream.\"\n\nMariam closed her eyes and thought for a moment. Suddenly, she gasped and opened her eyes wide. \"Baba, I want to be a doctor and help people in need!\" she exclaimed.\n\nHer father beamed with pride. \"That is a wonderful dream, Mariam. Now, listen carefully. To make your dream come true, you must work hard, study, and never give up, no matter how difficult the journey may seem. And always remember, you are never alone. The stars will guide you and your family and friends will support you.\"\n\nMariam nodded, determined to make her dream come true. From that day forward, she worked tirelessly, studying every day and night. Her parents, teachers, and friends all supported her, and soon, Mariam was on her way to medical school.\n\nThe journey was long and challenging, but Mariam never gave up. She remembered her father's words and looked to the stars for guidance. And finally, after many years of hard work and dedication, Mariam became a doctor, just like she had always dreamed.\n\nMariam returned to Shahrak-e-Aman and opened a clinic to help those in need. She became a shining star in her community, inspiring others to chase their dreams and never give up.\n\nAnd so, every night, Mariam would look up at the twinkling stars and smile, knowing that her dream had come true. She would then turn to her own daughter and say, \"My dear, always remember, the stars are there to guide you to your dreams. Work hard, stay determined, and never give up. And most importantly, always believe in yourself.\"\n\nAnd with that, Mariam's daughter would drift off to sleep, dreaming of the many adventures that awaited her in the future. And so, the legacy of dreams, hard work, and hope continued to be passed down from generation to generation, illuminating the beautiful City of Peace with its radiant light.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "hardworking": "mental",
+    "inspiring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.14",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

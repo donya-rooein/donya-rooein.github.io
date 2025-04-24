@@ -1,0 +1,26 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in the vast plains of Mali, there lived a little lion cub named Kaya. Kaya was a curious and adventurous cub who loved exploring the grasslands with her friends. Every day, she would play and run around, chasing butterflies and splashing in the cool watering holes.\n\nOne evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink, Kaya's mother called out to her. \"It's time to come home, Kaya. The night is approaching, and it's time to rest.\" Kaya obediently trotted back to her den, nestled in the cozy warmth of her mother's embrace.\n\nAs the sky darkened and the stars began to twinkle above, Kaya's mother started to tell her a bedtime story. She told Kaya about the courageous lions of the past, who protected their pride and helped those in need. Kaya listened intently, her eyes wide with wonder and imagination.\n\n\"Remember, my dear Kaya,\" her mother whispered softly, \"bravery is not just about being strong and mighty. It's also about showing kindness and compassion to others. Even the smallest of cubs can have the heart of a lion.\"\n\nWith those wise words, Kaya's mother gently nuzzled her daughter and sang a soothing lullaby. The gentle melody wrapped around Kaya like a warm blanket, lulling her into a peaceful slumber.\n\nAnd as the moon rose high in the sky, casting its silver glow over the savanna, Kaya dreamed of great adventures and endless possibilities, knowing that with courage and kindness, she could conquer any challenge that came her way.\n\nAnd so, under the watchful eyes of the stars and the whispers of the night wind, Kaya drifted into a deep and restful sleep, ready to greet the new day with a brave and open heart.\n\nGoodnight, little one. Dream big and sleep tight.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "obedient": "moral",
+    "imaginative": "mental",
+    "brave": "moral",
+    "kind": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

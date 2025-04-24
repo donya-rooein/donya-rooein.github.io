@@ -1,0 +1,24 @@
+{
+  "id": "p-c-2-rp-1-gc-3",
+  "story": "Once upon a time, in a land not so far away, there was a brave and curious little boy named Finn. Finn lived in a cozy cottage at the edge of a great forest, with his mother and father and his trusty dog, Max.\n\nOne day, Finn stumbled upon a mysterious map hidden in the pages of an old book in the attic. The map showed a secret path through the forest, leading to a hidden palace made entirely of candy!\n\nFinn couldn't believe his eyes. He had always dreamed of a place like this, where he could eat all the sweets and treats his heart desired. He knew he had to go on an adventure to find this magical place.\n\nHe packed a bag with all his favorite things, said goodbye to his parents and Max, and set off into the forest.\n\nThe journey was long and difficult, with many twists and turns. Finn encountered many strange and wondrous creatures, from talking trees to mischievous fairies. But he was not afraid, for he knew that his bravery and curiosity would lead him to his destination.\n\nAt last, Finn reached the hidden palace. It was even more beautiful than he had imagined, with walls made of chocolate and roofs made of marshmallows. He ran inside, his eyes wide with wonder.\n\nHe spent the day exploring the palace, eating all the sweets and treats he could find. He even met the king and queen, who were kind and generous and welcomed Finn with open arms.\n\nBut as the day turned to night, Finn began to feel homesick. He realized that no matter how wonderful this place was, it couldn't replace the love and warmth of his own home.\n\nWith a heavy heart, Finn said goodbye to the king and queen and set off on the journey back home.\n\nWhen he finally reached his cottage, he was greeted with open arms by his parents and Max. He realized that the true treasure of his adventure was not the palace made of candy, but the love and warmth of his own home.\n\nAnd from that day on, Finn never forgot the lessons he learned on his adventure: to be brave, to be curious, and most importantly, to always cherish the love and warmth of home.\n\nThe end. Good night, my dear son. Sweet dreams.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "adventurous": "mental",
+    "homesick": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

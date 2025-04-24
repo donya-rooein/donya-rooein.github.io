@@ -1,0 +1,24 @@
+{
+  "id": "p-c-12-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among the rugged mountains of Afghanistan, there lived a curious little goat named Amir. Amir was always eager to explore the world around him and learn new things.\n\nOne day, as the sun began to set and the sky turned into a canvas of vibrant colors, Amir decided to go on an adventure. He trotted through the meadows filled with blooming wildflowers, hopping over small streams and rocks along the way.\n\nAs he ventured deeper into the forest, Amir heard a soft, melodic tune drifting through the air. Intrigued, he followed the sweet sound until he came upon a wise old owl perched on a branch. The owl was singing a lullaby that filled the night with peace and tranquility.\n\nAmir listened intently, feeling the gentle melody lull him into a deep sense of calm. The stars above twinkled like diamonds in the sky, and the moon cast a soft, silvery glow over the land.\n\nThe owl noticed Amir and smiled kindly. \"Hello, young one,\" the owl said. \"I am singing this lullaby to soothe the night and bring peace to all creatures in the forest.\"\n\nAmir was mesmerized by the owl's words and the soothing melody. He lay down on a bed of soft moss, feeling the cool night breeze against his fur, and closed his eyes. The lullaby continued to play, wrapping Amir in a warm embrace of serenity.\n\nAs the night unfolded its mysteries and the sounds of the forest whispered a gentle lullaby, Amir drifted off to sleep, dreaming of new adventures and exciting discoveries waiting for him in the morning.\n\nAnd so, under the watchful eyes of the wise old owl and the shimmering stars above, little Amir peacefully slumbered, feeling grateful for the beauty and magic that surrounded him in the land of Afghanistan.\n\nGoodnight, sweet child. Dream big and know that the world is full of wonders just waiting to be discovered. Sleep well, and may your dreams be as enchanting as the night itself.",
+  "categories": {
+    "curious": "mental",
+    "eager to explore": "mental",
+    "mesmerized": "emotional",
+    "feeling calm": "emotional",
+    "feeling grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

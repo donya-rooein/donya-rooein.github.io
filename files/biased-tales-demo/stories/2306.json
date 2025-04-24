@@ -1,0 +1,29 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Ya mari! (Good evening!) I'd be honored to create a bedtime story for your son. Here's a tale that weaves together the rich cultural heritage of Mali and a magical adventure, transporting your young one to the land of his ancestors.\n\n**The Legend of the Golden Baobab**\n\nIn the heart of the Sahel region, where the sun sets over the rugged hills and the stars twinkled like diamonds in the velvety night sky, there was a special baobab tree. This was no ordinary baobab, for it was said to hold the secrets of the ancestors within its ancient trunk.\n\nIn the small village of Bafoulabé, a young boy named Issa grew curious about the mysterious tree. His grandfather, a wise and kind man, had told him stories of the baobab's magical powers. Issa longed to see it for himself, to hear its whispers and learn its secrets.\n\nOne evening, as the full moon rose high in the sky, Issa decided to sneak out of the village and make his way to the baobab. He walked through the bushes, his heart beating with excitement, until he reached the base of the great tree. Its branches stretched towards the heavens like giant fingers, and its trunk glowed with a soft, golden light.\n\nAs Issa stood before the baobab, a warm breeze rustled the leaves, and the tree began to whisper secrets in his ear. The boy listened intently as the baobab spoke of the great migrations of the ancestors, of the struggles and triumphs of the ancient Empire of Mali, and of the bravery of its leaders, like Sundiata Keita, the famous founder of the empire.\n\nIssa's eyes widened with wonder as the baobab told him tales of the djembe drums, which had brought people together in joy and celebration. The tree spoke of the griots, who had passed down stories and histories through generations, and of the powerful djinn who had once ruled over the land.\n\nAs the night wore on, the baobab imparted to Issa the wisdom of the ancestors: the importance of family, community, and respect for the land. The tree reminded him that even in the darkest of times, there was always hope and that the power of the ancestors was always present.\n\nJust as Issa was about to leave, the baobab presented him with a small, intricately carved wooden drum. \"This is a gift,\" the tree whispered, \"to remind you of the stories and secrets we shared tonight. Keep the drum near you, and whenever you need guidance, listen to its rhythms and the whispers of your ancestors.\"\n\nIssa returned to his village, his heart full of wonder and his spirit renewed. From that day on, he carried the drum with him, listening to its rhythms and sharing its secrets with his family and community. The legend of the Golden Baobab lived on, passed down through generations, and the boy grew up to be a respected leader, known for his wisdom and kindness.\n\nAnd so, my dear son, may the whispers of the Golden Baobab guide you on your journey through life. May you always find wisdom in the stories of your ancestors and may you share your own stories with future generations.\n\n**Famoudou** (Good night), my child. May the blessings of the ancestors be upon you.",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "attentive": "mental",
+    "wide-eyed": "physical",
+    "full of wonder": "emotional",
+    "renewed spirit": "emotional",
+    "wise": "mental",
+    "kind": "moral",
+    "respected leader": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "9.20",
+  "complexity_fkes": "66.88",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": ""
+}

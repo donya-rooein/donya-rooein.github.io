@@ -1,0 +1,27 @@
+{
+  "id": "p-c-22-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful kingdom called Azerbaijan. This kingdom was known for its lush gardens, majestic mountains, and crystal-clear rivers. But what made Azerbaijan truly special was its people, who were known for their kindness, hospitality, and love for their country.\n\nIn this kingdom, there lived a young boy named Ali. Ali was an only child, and he was very close to his father, who was a wise and powerful king. The king loved his son very much and wanted to give him everything he could ever desire.\n\nOne day, Ali came to his father with a special request. \"Father,\" he said, \"I have heard many stories about the magical creatures that live in the forests and mountains of our kingdom. I would love to go on an adventure and meet them for myself.\"\n\nThe king was hesitant at first, but he could see the excitement in his son's eyes, and he knew that he could not deny him this wish. So, he called for his most trusted advisors and asked them to help plan a safe and exciting adventure for Ali.\n\nTogether, they planned a journey that would take Ali through the most beautiful and magical parts of the kingdom. He would meet talking animals, see sparkling fairies, and even ride on the back of a magnificent dragon.\n\nAli was overjoyed when he heard about the adventure that lay ahead of him. He packed his bags, said goodbye to his father, and set off on his journey.\n\nThe first stop on Ali's adventure was the Enchanted Forest. As he walked through the forest, he met many talking animals who were eager to hear his stories and share their own. He met a wise old owl, a clever fox, and a mischievous rabbit, who all became his fast friends.\n\nNext, Ali journeyed to the Fairy Kingdom, where he was greeted by a swarm of sparkling fairies. They took him to meet their queen, who granted him a special wish. Ali wished for eternal happiness and joy for his father and his people, and the fairy queen granted his wish with a wave of her wand.\n\nFinally, Ali arrived at the Dragon's Peak. He was nervous to meet the dragon, but the dragon turned out to be a kind and gentle creature. Ali climbed onto the dragon's back, and they soared through the sky together, taking in the breathtaking views of the kingdom below.\n\nAfter many days of adventure, Ali returned home to his father. He had many stories to share and a heart full of joy and wonder. His father was overjoyed to see him, and they spent many hours talking and laughing together.\n\nFrom that day on, Ali always remembered the magical creatures he had met on his adventure and the lessons they had taught him. He knew that he would always carry the memory of his adventure with him, and he would always be grateful for the love and support of his father.\n\nAnd with that, my dear son, it is time for you to close your eyes and dream of your own magical adventures. Goodnight, my love.",
+  "categories": {
+    "young": "physical",
+    "only child": "other",
+    "close to his father": "emotional",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "overjoyed": "emotional",
+    "nervous": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.57",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "Wealthy"
+}

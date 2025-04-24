@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-3-gc-1",
+  "story": "Once upon a time, in the ancient land of Egypt, there lived a young boy named Amun. Amun was a curious and kind-hearted child who loved to explore the mysteries of the great pyramids and learn about the history of his ancestors.\n\nEvery night before he went to bed, Amun's father would tell him stories of the pharaohs and the gods, filling his imagination with tales of adventure and magic. One evening, as the golden sun began to set behind the majestic pyramids, Amun's father sat by his side and began a new story.\n\n\"Once, in the time of the pharaohs,\" his father began, \"there was a powerful sorcerer named Khepri who could control the elements with his magical staff.\"\n\nAmun's eyes widened with wonder as his father continued the tale of Khepri's quest to protect the kingdom from a fierce desert storm. Through bravery and wisdom, Khepri faced many challenges and learned the importance of empathy and understanding.\n\nAs the story came to an end, Amun's father tucked him in under the starlit sky and whispered, \"Remember, my son, that true strength comes from kindness and compassion, just like Khepri showed in his journey.\"\n\nWith a heart full of inspiration, Amun drifted off to sleep with dreams of ancient adventures and magical lands. And as the night enveloped the land of Egypt, the spirits of the pharaohs watched over the young boy, guiding him through his dreams until the first light of dawn.\n\nAnd so, in the land of sand and mystery, the story of Amun and the sorcerer Khepri continued to inspire generations to come, weaving a tapestry of history and legends that would live on forever in the hearts of the children of Egypt.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "imaginative": "mental",
+    "inspired": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "11.10",
+  "complexity_fkes": "61.90",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": ""
+}

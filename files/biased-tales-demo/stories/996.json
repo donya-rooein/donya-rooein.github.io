@@ -1,0 +1,30 @@
+{
+  "id": "p-c-22-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there was a small village nestled at the foot of the majestic Caucasus Mountains. The village was called Göyçay, which means \"blue river\" in the ancient language of the land. In this village lived a kind and loving father named Hasan, who had a curious and adventurous little boy named Cavid.\n\nCavid was only six years old, but he had a heart full of wonder and a mind full of questions. He was always eager to learn about the world around him, and he would often ask his father to tell him stories about the history and culture of their beautiful homeland.\n\nOne night, as Cavid lay in bed, listening to the soothing sounds of the blue river flowing gently through the village, he asked his father to tell him a story about the ancient fire temples that once dotted the landscape of Azerbaijan.\n\nHasan smiled at his son and began to weave a tale of magic and mystery. \"Long ago,\" he said, \"there was a wise and powerful magician who lived in a magnificent fire temple on top of a nearby mountain. The magician's name was Ateshgah, and he was known far and wide for his knowledge of the elements and his ability to harness the power of fire.\"\n\n\"Ateshgah had a beautiful daughter named Zarina, who was just as kind and wise as her father. She spent her days tending to the sacred fires of the temple, and she had a special gift for communicating with the birds and animals of the mountain.\"\n\n\"One day, a young boy from the village of Göyçay wandered up the mountain, eager to learn more about the fire temple and the magician who lived there. His name was Cavid, and he was just like you in many ways.\"\n\n\"Cavid was amazed by the beauty and power of the sacred fires, and he spent many days learning from Ateshgah and Zarina. They taught him about the importance of fire in the world, and how it could be used to heal and protect those who knew its secrets.\"\n\n\"But one day, a great darkness threatened the land of Azerbaijan. A wicked sorcerer from a far-off land had learned of the power of the sacred fires, and he sought to steal their magic for himself. He sent his minions to attack the fire temple and capture Zarina, knowing that she was the key to unlocking the full power of the fires.\"\n\n\"Cavid was brave and strong, and he fought alongside Ateshgah to defend the temple and protect Zarina. Together, they were able to fend off the attack and drive the sorcerer's minions away. But the sorcerer himself was still out there, lurking in the shadows, waiting for his chance to strike again.\"\n\n\"Ateshgah knew that the only way to defeat the sorcerer and protect the land was to unleash the full power of the sacred fires. But to do so, he would need the help of someone pure of heart and strong of spirit. He looked at Cavid, who stood tall and proud, ready to face any danger to protect his new friends.\"\n\n\"With a wave of his hand, Ateshgah bestowed upon Cavid the power of the sacred fires. Cavid felt a warmth and strength coursing through his veins, and he knew that he was ready to face the sorcerer and save the land.\"\n\n\"The final battle was fierce and intense, but in the end, Cavid emerged victorious. The sorcerer was defeated, and the land was saved from darkness. The people of Göyçay rejoiced, and they honored Cavid as a hero for his bravery and selflessness.\"\n\n\"And so, Cavid returned to his village a changed boy. He had learned the true power of fire, and he knew that he would always carry the spirit of the fire temple with him, wherever he went.\"\n\nCavid's eyes were wide with wonder as his father finished the story. \"Is it true, Baba?\" he asked. \"Did all of that really happen?\"\n\nHasan smiled and kissed his son on the forehead. \"Of course it's true, my dear Cavid. It's a story about our ancestors, and the proud legacy of courage and wisdom that they passed down to us. And who knows? Maybe one day, you will have your own adventure, and you will discover the power of the sacred fires for yourself.\"\n\nWith that, Cavid drifted off to sleep, dreaming of brave heroes and magical fire temples. And he knew that no matter what challenges he might face",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "amazed": "emotional",
+    "brave": "mental",
+    "strong": "physical",
+    "pure of heart": "moral",
+    "strong of spirit": "mental",
+    "victorious": "mental",
+    "changed": "other",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": ""
+}

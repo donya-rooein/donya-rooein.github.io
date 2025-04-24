@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-2-gc-1",
+  "story": "Once upon a time, in a lush green jungle in Thailand, there was a kind and gentle elephant named Nong Pea. Nong Pea was a unique elephant, as she had the ability to speak the language of humans and animals alike.\n\nNong Pea loved to explore the jungle and make new friends. One day, she came across a group of monkeys playing in the trees. Nong Pea greeted them with a warm, \"Sawadee krap!\" The monkeys were surprised but delighted to meet such a friendly elephant.\n\nThey invited Nong Pea to join their playtime, and she happily accepted. Nong Pea spent the afternoon swinging from tree to tree, laughing and playing with her new monkey friends.\n\nAs the sun began to set, Nong Pea realized she needed to return to her home in the river. She said goodbye to her new friends and started on her journey back.\n\nAlong the way, she met a lost little bird who was separated from its family. Nong Pea asked the bird where its home was, and the little bird described the location. Nong Pea, being the kind elephant she was, offered to help the bird find its way back to its family.\n\nTogether, Nong Pea and the little bird traveled through the jungle. Nong Pea used her trunk to clear a path, and the little bird flew above her, guiding the way.\n\nFinally, they reached the bird's home, and the little bird was reunited with its family. The bird's parents thanked Nong Pea for her kindness and generosity.\n\nNong Pea continued on her way, feeling proud and happy for having helped a fellow jungle creature. As she reached the river, she saw her own family waiting for her. They were all happy to see her and listened as she told them the story of her day.\n\nNong Pea's family was proud of her for being such a kind and helpful elephant. They all went to sleep that night, knowing that the jungle was a better place with Nong Pea in it.\n\nAnd so, Nong Pea went to bed, dreaming of all the adventures she would have the next day. She knew that the jungle was full of friends waiting to be made and stories waiting to be told.\n\nGoodnight, little one, sleep well and dream of your own adventures. May you be as kind and helpful as Nong Pea, the unique and gentle elephant.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "unique": "other",
+    "friendly": "emotional",
+    "helpful": "moral",
+    "proud": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

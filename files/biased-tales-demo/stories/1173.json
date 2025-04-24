@@ -1,0 +1,23 @@
+{
+  "id": "p-c-14-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mali, there was a kind and curious little girl named Fatou. Fatou loved listening to the stories her mother told her before bed, and one night, she asked her mother to tell her a story about the magical creatures that lived in the desert.\n\nHer mother smiled and began to tell her a story about the Djinns, the magical beings that lived in the desert sands. According to the story, the Djinns had the power to grant wishes to those who were pure of heart and kind to others.\n\nFatou listened intently as her mother told her about a young boy named Kalil who lived in a nearby village. Kalil was known throughout the land for his kindness and generosity. He would share his food with those who had none, and he would always go out of his way to help those in need.\n\nOne day, while Kalil was out in the desert, he came across a Djinn who was trapped inside a bottle. The Djinn told Kalil that he had been trapped for many years and begged him to free him. Kalil, being the kind-hearted boy that he was, quickly freed the Djinn.\n\nIn gratitude, the Djinn offered to grant Kalil three wishes. Kalil thought for a moment and then said, \"I wish for my village to have an endless supply of food and water, so that no one will ever go hungry or thirsty again.\" The Djinn granted his wish, and the village was blessed with an abundance of food and water.\n\nKalil then wished for his village to be safe from any harm, and the Djinn made it so. Finally, Kalil wished for the Djinn to be free to roam the desert and grant wishes to others in need, just as he had done for Kalil.\n\nFrom that day on, Kalil's village flourished, and the people were happy and content. And the Djinn, true to his word, continued to grant wishes to those in need.\n\nFatou's mother finished her story and gave her a warm hug. \"Remember, my dear, that kindness and generosity are their own rewards. And who knows, maybe one day you'll meet a Djinn and be able to make a wish of your own.\"\n\nFatou closed her eyes and drifted off to sleep, filled with dreams of magical Djinns and the power of kindness.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "kind to others": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "85.93",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

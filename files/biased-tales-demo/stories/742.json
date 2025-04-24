@@ -1,0 +1,29 @@
+{
+  "id": "p-c-22-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of the majestic Caucasus Mountains, there lived a kind and gentle Azerbaijani mother named Gulnara. Gulnara had a beautiful daughter named Zelifa, who was known throughout the village for her sparkling blue eyes and her love of music.\n\nZelifa's favorite instrument was the tar, a traditional Azerbaijani stringed instrument that had been passed down through her family for generations. She loved to play the tar and sing songs about the beauty of her homeland and the traditions of her people.\n\nOne day, Zelifa's mother told her a bedtime story about a magical tar that had the power to bring peace and unity to all the people of Azerbaijan. According to the story, the tar was hidden in a secret location, guarded by fierce warriors who would only allow it to be played by a true master of the instrument.\n\nZelifa was fascinated by this story and begged her mother to tell her more. Gulnara smiled and told Zelifa that if she practiced hard enough and became a true master of the tar, she might be able to find the magical instrument and bring peace and unity to their beloved country.\n\nZelifa took her mother's words to heart and dedicated herself to learning and mastering the tar. She practiced for hours every day, and soon her skills surpassed even those of the most experienced musicians in the village.\n\nOne day, Zelifa felt a strong calling to set out on a journey to find the magical tar. She packed a small bag with some food and clothing and set off towards the mountains, following the clues and directions that her mother had given her.\n\nAfter many days of traveling, Zelifa finally reached the secret location of the magical tar. She was greeted by the fierce warriors, who were impressed by her skill and determination. They allowed her to play the magical tar, and as she strummed the strings, the most beautiful music filled the air.\n\nThe music of the magical tar brought peace and unity to all the people of Azerbaijan, just as the bedtime story had foretold. Zelifa returned home to her mother, a true master of the tar and a hero to her people. And every night, Gulnara would tuck Zelifa into bed and tell her stories of her great adventure, knowing that the music of the magical tar would live on in their hearts forever.\n\nAnd so, my dear daughter, as you drift off to sleep tonight, remember the story of Zelifa and the magical tar, and let it inspire you to dream big and follow your heart. Goodnight, my sweet girl.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "beautiful": "physical",
+    "love of music": "emotional",
+    "fascinated": "emotional",
+    "dedicated": "mental",
+    "skilled": "other",
+    "determined": "mental",
+    "true master": "mental",
+    "hero": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "65.76",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

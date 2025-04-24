@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-2-gc-3",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little boy named Diego. Diego's days were filled with the joys of growing up in a loving family, and his nights were spent nestled in his cozy bed, dreaming of magical adventures.\n\nOne night, as Diego was drifting off to sleep, he heard a soft whisper in his ear. \"Hola, Diego. Would you like to join me on a magical journey tonight?\" The whisper was so gentle and kind that Diego couldn't help but sit up and look around. That's when he saw her - a beautiful, glowing lady made entirely of moonlight.\n\n\"Who are you?\" Diego asked, his eyes wide with wonder.\n\n\"I am La Luna, the Lady of the Moon,\" she replied. \"And I have come to take you on a magical journey through the night sky.\"\n\nDiego's heart raced with excitement as he climbed out of bed and took La Luna's outstretched hand. Together, they soared into the sky, leaving the world below far behind. As they flew, La Luna told Diego stories of the stars and planets, and showed him the wonders of the universe.\n\nThey visited the swirling galaxies, where colors danced and twirled as far as the eye could see. They raced with the comets, their tails of light streaking behind them like long, glowing ribbons. They even stopped by the rings of Saturn, where Diego marveled at the millions of tiny, twinkling particles that looked like a giant, cosmic bracelet.\n\nEventually, it was time for Diego to return home. La Luna guided him back to his bed, tucking him in with a soft, silvery blanket she had woven from the rays of the moon. \"Goodnight, Diego,\" she whispered. \"I hope you had a magical journey.\"\n\nDiego smiled up at her. \"I did, La Luna. thank you for taking me on an adventure I will never forget.\"\n\nFrom that night on, Diego always looked forward to bedtime, knowing that he never knew what kind of magical journey La Luna might take him on next.\n\nSo, my little one, as you lay in your bed tonight, close your eyes and dream of your own magical adventure. Who knows where the night sky might take you? Goodnight, mi hijo, sleep tight and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "loving": "emotional",
+    "excited": "emotional",
+    "wide-eyed": "physical",
+    "smiling": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.45",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.24",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

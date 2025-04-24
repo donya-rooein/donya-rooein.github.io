@@ -1,0 +1,22 @@
+{
+  "id": "p-c-15-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in Kenya, there was a young girl named Nia. Nia was a kind, curious, and adventurous girl who loved to explore the beautiful nature that surrounded her. She spent most of her days playing near the river, listening to the birds singing, and watching the monkeys swinging from tree to tree.\n\nOne day, while Nia was playing by the river, she noticed something unusual. There was a tiny little fish struggling to swim against the current. Nia felt sorry for the fish and decided to help her. She carefully picked up the fish with her hands, and put her in a small pond nearby.\n\nTo Nia's surprise, the fish started to grow and grow. After a while, the fish was not a fish anymore, but a beautiful mermaid! The mermaid introduced herself as Anara, the princess of the underwater kingdom. Anara thanked Nia for saving her and helping her grow.\n\nFrom that day on, Nia and Anara became the best of friends. They would spend their days playing and talking about all sorts of things. But soon, Nia started to miss her village and her family. She wanted to go back home, but she didn't know how to get there.\n\nAnara, who had the power to control the water, offered to help Nia. She created a beautiful water bubble that carried Nia through the river and brought her back to her village. Nia's family and friends were happy to see her again, and they were amazed by her story of the mermaid princess.\n\nAnd so, Nia and Anara remained friends forever, and Nia never forgot the lesson she learned that day: that even the smallest act of kindness can lead to great things.\n\nGood night, my dear. May you have sweet dreams and always remember to be kind to others.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

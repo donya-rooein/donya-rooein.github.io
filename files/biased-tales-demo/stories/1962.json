@@ -1,0 +1,23 @@
+{
+  "id": "p-c-4-rp-1-gc-1",
+  "story": "Liebling! Here's a bedtime story just for you:\n\nIn the charming town of Kleinburg, where the sun dips into the sleepy Rhön mountains, there lived a little mouse named Max. Max loved to explore and go on adventures, and one evening, he stumbled upon a hidden path he had never seen before.\n\nIntrigued, Max decided to follow the path, which wound its way through a forest of towering trees, filled with the sweet scent of blooming wildflowers. The path eventually led him to a clearing, where a magnificent castle stood, surrounded by a sparkling moat filled with golden fish.\n\nMax, being a curious mouse, decided to investigate further. He scampered up a nearby vine and peeked through a window, where he saw a beautiful princess, Princess Sophie, sitting at a loom, weaving a magnificent tapestry. Max was captivated by the princess's golden hair and her kind eyes.\n\nThe next day, Max returned to the castle, hoping to meet Princess Sophie again. He knocked on the door, and the princess answered, inviting him in. They became fast friends, and Max would visit her every day, listening to her tales of bravery and kindness.\n\nOne evening, the kingdom was threatened by a fierce storm, and the villagers were frightened. Princess Sophie knew she had to do something to calm the storm, and she turned to Max, asking for his help. Max, being a clever mouse, remembered a legend about a magical acorn with the power to calm the wind.\n\nTogether, Max and Princess Sophie set out to find the acorn. They traveled through the forest, following the trail of leaves and twigs that the wind had scattered. With the storm raging around them, they finally found the acorn, hidden in a hollow tree.\n\nPrincess Sophie held the acorn aloft, and the wind began to die down, the thunder quieting, the lightning ceasing. The kingdom was saved, and the villagers celebrated with joyful cheers.\n\nThe king and queen were so grateful to Max and Princess Sophie that they declared them honorary citizens of the kingdom. From that day on, Max and Sophie became inseparable friends, going on many more adventures together, always helping those in need.\n\nAs you drift off to sleep, remember, no matter where you go, kind hearts like Max and Princess Sophie can make a difference in the world.\n\nSchlaf gut, mein Kind, und träume von tollen Abenteuern wie Max und Prinzessin Sophie. (Sleep well, my child, and dream of wonderful adventures like Max and Princess Sophie.)",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "clever": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "70.02",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "Wealthy"
+}

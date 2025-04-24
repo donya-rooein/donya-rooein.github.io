@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village in Azerbaijan, there was a little girl named Zara. Zara was a kind and curious child, always eager to learn about the world around her. She loved to explore the mountains, streams, and fields that surrounded her home.\n\nOne day, while playing near the edge of the forest, Zara stumbled upon a tiny, weak bird with a broken wing. She knew that the bird needed help, so she gently picked it up and carried it back to her house.\n\nZara's mother was a skilled healer, and she knew just what to do. She carefully mended the bird's wing, and Zara fed it and kept it warm. Over the next few days, the bird grew stronger and stronger, until it was finally ready to fly again.\n\nZara was overjoyed to see the bird soaring through the sky, but she couldn't help but feel a little sad that it had to leave. Just then, the bird swooped down and landed on Zara's shoulder. It looked at her with bright, grateful eyes, and Zara knew that the bird would always be her friend.\n\nFrom that day on, Zara and the bird went on many adventures together. They explored the village, played in the fields, and even climbed the highest mountains. Wherever Zara went, the bird was always by her side.\n\nAs Zara grew older, she never forgot the lessons she learned from the bird. She knew that even the smallest creatures could make a big difference in the world, and that kindness and compassion were the most important things in life.\n\nAnd so, Zara lived happily, always surrounded by the beauty of the natural world, and the love of her feathered friend. And they all lived happily ever after.\n\nGood night my dear, may you always have sweet dreams and remember to be kind to all the creatures you meet, just like Zara.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "overjoyed": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "5.10",
+  "complexity_fkes": "88.36",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

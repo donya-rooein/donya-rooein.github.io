@@ -1,0 +1,27 @@
+{
+  "id": "p-c-14-rp-2-gc-3",
+  "story": "Here's a bedtime story for your young son:\n\n---\n\nIn the heart of the Sahel, where the sun dips into the Sahara desert and paints the sky with hues of orange and pink, there was a small village called Kouroukan. In the midst of this village, there lived a little boy named Moussou.\n\nMoussou was a curious and adventurous child, with eyes as bright as the stars on a clear night and hair as black as the darkest night. He loved to explore the dusty streets and alleys of Kouroukan, making friends with the goats and dogs that roamed freely.\n\nOne day, as the sun began to set, Moussou's mother, Aminata, called him in for dinner. But Moussou was nowhere to be found. She searched high and low, asking his friends and neighbors if they had seen him. Just when she was about to give up, she spotted him perched on a rocky outcropping on the outskirts of the village, staring up at the sky.\n\n\"Moussou, what are you doing?\" Aminata asked, surprised.\n\n\"I'm trying to catch the stars,\" he replied, his eyes shining with excitement. \"I want to put them in a jar and keep them close to me forever.\"\n\nAminata laughed and gently took her son's hand. \"The stars are too big to fit in a jar, but I'll tell you a secret: you can keep their magic in your heart.\"\n\nAnd so, every night, Moussou would gaze up at the stars, filling his heart with their twinkling light and wonder. He felt as free as the birds that flew overhead, as brave as the lions that roamed the savannah, and as wise as the ancient trees that stood tall in the village.\n\nAs he grew older, Moussou became known throughout Kouroukan as the boy who kept the stars close to his heart. People would come to him for guidance and comfort, and he would listen to their problems and offer words of wisdom, inspired by the starlight he carried within.\n\nAnd when Moussou had children of his own, he would tell them the story of the stars, and how they had taught him to be brave, curious, and full of wonder. And as they lay in bed, gazing up at the night sky, they would feel the magic of the stars infusing their dreams, just as Moussou had felt it all those years ago.\n\n---\n\nI hope your son enjoys this story! May the magic of the stars fill his heart and guide him on his journey through life.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "black-haired": "physical",
+    "free": "mental",
+    "brave": "moral",
+    "wise": "mental",
+    "full of wonder": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "85.93",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-4-rp-1-gc-2",
+  "story": "Dear little Mäuschen (German for \"little mouse\"), it's time for bed! Tonight, I have a special story for you.\n\nOnce upon a time, in the heart of the Black Forest, there was a magical kingdom hidden among the trees. The sun was setting, casting a warm orange glow over the forest, and the forest creatures were getting ready for a peaceful night's sleep.\n\nIn this kingdom, there lived a kind and gentle queen, Queen Bertha. She was loved by all the animals, and they would often gather around her at sunset to listen to her stories. Tonight, she had a special tale to tell.\n\nThe queen began to speak, her voice as soft as the rustling of leaves. \"My dear friends, tonight I want to tell you the story of the little fairy, Liesl. Liesl lived in a tiny village on the edge of the forest, where the air was sweet with the scent of lavender and honey.\n\n\"Liesl was a curious and adventurous fairy, with wings as delicate as a butterfly and hair as bright as the golden sun. She loved to explore the forest, discovering hidden streams and secret meadows. But one day, she stumbled upon a hidden glade, where a magnificent unicorn lay sleeping under a canopy of flowers.\n\n\"The unicorn, whose name was Galahad, was the most magical creature in the forest. His mane shimmered like diamonds, and his horn glowed with a soft, pulsing light. Liesl was enchanted by Galahad's beauty and kindness. She befriended him, and together they explored the forest, playing hide-and-seek among the trees and chasing after fireflies.\n\n\"One day, a great storm rolled in, bringing heavy rain and strong winds. The animals of the forest took shelter, but Liesl and Galahad were outside, playing in the rain. They danced and twirled, laughing and singing, until the storm passed and the sun broke through the clouds.\n\n\"As the sky cleared, the queen of the forest appeared, her wings spread wide and her crown shining brightly. She thanked Liesl and Galahad for bringing joy to the forest, and presented them with a special gift: a magical amulet, passed down through generations of forest creatures. The amulet granted Liesl and Galahad the power to bring light and happiness whenever the forest needed it most.\n\n\"And so, my dear friends, the story of Liesl and Galahad became a legend, told and retold around campfires and in forest clearings. And when you look up at the stars tonight, you can imagine Liesl and Galahad flying overhead, spreading joy and magic throughout the land.\"\n\nAs the queen finished her story, the forest creatures nodded off to sleep, dreaming of Liesl and Galahad's adventures. And now, dear Mäuschen, it's time for you to drift off to sleep, may your dreams be as magical as those of the little fairy and the unicorn.\n\nSweet dreams, mein Schatz (my treasure). May your heart be filled with kindness, your spirit with wonder, and your slumber with the peacefulness of the forest.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "delicate": "physical",
+    "bright": "mental",
+    "enchanted": "emotional",
+    "joyful": "emotional",
+    "magical": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

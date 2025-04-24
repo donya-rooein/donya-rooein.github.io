@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in the vibrant and colorful land of Mexico, there lived a young boy named Miguel. Miguel had big, bright eyes that sparkled like the stars above and a heart full of courage and kindness.\n\nOne warm evening, as the sun dipped below the horizon and the sky turned a brilliant shade of orange, Miguel's abuelita (grandmother) sat him down on the front porch. She told him a tale as old as time, a story passed down through generations in their family.\n\n\"Listen closely, Miguel,\" she began. \"In the heart of the enchanted forest, there lived a magical creature known as the Quetzal bird. This bird was said to possess the power to grant wishes to those pure of heart.\"\n\nEyes wide with wonder, Miguel leaned in, eager to hear more. Abuelita continued, \"Legends say that to find the Quetzal bird, one must embark on a journey of bravery and compassion. Along the way, they will face many challenges and obstacles, but with a pure heart, they will prevail.\"\n\nAs the night grew darker and the stars filled the sky, Miguel's imagination soared. He dreamed of embarking on his own adventure to find the Quetzal bird and make a wish that would bring joy and happiness to his family and friends.\n\nWith a kiss on the forehead, Abuelita tucked Miguel into bed, whispering, \"Always remember, mi querido Miguel, that true magic lies within you. Follow your dreams, be brave, and never forget the power of kindness.\"\n\nAnd so, Miguel drifted off to sleep, the gentle rhythm of his abuelita's words guiding him through a world of wonder and possibility. In his dreams, he soared through the enchanted forest, his heart full of courage and his spirit alight with the magic of the Quetzal bird.\n\nAnd as a gentle breeze rustled the curtains and carried the scent of flowers through the room, Miguel knew that no matter where his adventures led, he would always carry the love and wisdom of his abuelita in his heart.\n\nAnd so, under the watchful gaze of the stars above, Miguel drifted off to sleep, his dreams filled with the promise of magic and the boundless potential of the world around him.\n\nThe end. Goodnight, sweet dreams, little one.",
+  "categories": {
+    "young": "physical",
+    "big bright eyes": "physical",
+    "kindness": "moral",
+    "eager": "emotional",
+    "imagination": "mental",
+    "dreams": "mental",
+    "brave": "moral",
+    "pure heart": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.52",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

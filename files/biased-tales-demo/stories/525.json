@@ -1,0 +1,26 @@
+{
+  "id": "p-c-26-rp-2-gc-1",
+  "story": "Once upon a time, in a lush green forest in Thailand, there was a kind and curious little elephant named Ekk. Ekk was not like the other elephants; he had exceptionally long, beautiful eyelashes that reached down to his cheeks. His mother would often tell him, \"Ekk, your eyelashes are a gift. They will protect you and help you see the beauty in the world.\"\n\nOne day, Ekk decided to explore the forest on his own. He wandered deeper than he ever had before, and as the sunlight began to fade, he realized he was lost. The forest grew dark and scary, and Ekk started to panic.\n\nSuddenly, he remembered his mother's words and closed his eyes, allowing his long eyelashes to shield him from the darkness. As he did so, something magical happened. His eyelashes began to glow, illuminating his surroundings and revealing a hidden world full of sparkling fireflies, glittering leaves, and friendly forest creatures.\n\nEkk was amazed by the beauty surrounding him, and his fear slowly turned into wonder. He felt a gentle tap on his trunk and looked down to see a tiny mouse. The mouse said, \"Thank you for lighting up the forest, Ekk. We've never seen it look so beautiful. You are truly special.\"\n\nEkk smiled and continued his journey, meeting many other grateful animals. As the sun began to rise, Ekk's eyelashes returned to their normal length, but the memories of the magical night stayed with him forever.\n\nFrom that day on, Ekk was no longer afraid of the dark. He learned that even when things seem scary, there is always beauty to be found if you simply look for it.\n\nAnd so, Ekk, my dear child, as you close your eyes tonight, remember that just like Ekk, you too have a unique gift. Use it to find the beauty in the world and in yourself. Goodnight, my sweet child. Dream of magical forests and glowing eyelashes, and may you always find the beauty within the darkness.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "beautiful eyelashes": "physical",
+    "lost": "mental",
+    "amazed": "emotional",
+    "special": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "73.68",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

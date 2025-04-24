@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious little boy named Juan. Juan lived with his loving family, and they were very happy together.\n\nOne day, Juan's mother told him a story about a magical creature that lived in the forest near their village. This creature was called the \"Manananggal,\" a mythical being that could separate its upper torso from its lower body and fly around the forest at night, looking for food.\n\nJuan was fascinated by the story and begged his mother to take him to the forest to see if he could catch a glimpse of the Manananggal. At first, his mother hesitated, worried for his safety. But Juan was so persistent that she finally agreed, with some strict rules to keep him safe.\n\nThe next day, Juan and his mother set out early in the morning to the forest. They walked for hours, deeper and deeper into the woods, until they came upon a clearing. Juan's mother warned him to stay still and quiet, and they waited.\n\nAs the sun began to set, the forest came alive with the sounds of crickets and other nocturnal creatures. Suddenly, Juan saw a strange sight. A beautiful woman, with long black hair and wings like a bat, flew out of the shadows. It was the Manananggal!\n\nJuan was both scared and excited. He wanted to run, but he was also curious. He watched as the Manananggal flew around the clearing, searching for food. It eventually landed on a nearby tree and started to eat a raw heart that it had brought with it.\n\nJuan couldn't believe what he was seeing. He wanted to get closer, but he remembered his mother's warning. Just as he was about to turn and run, the Manananggal suddenly looked in his direction. Its eyes glowed red, and it let out a blood-curdling scream.\n\nJuan's mother quickly grabbed him and they ran as fast as they could out of the forest. They didn't stop running until they reached the safety of their village.\n\nWhen they got home, Juan's father asked them what had happened. Juan's mother told him the story, and Juan added, \"It's true, Dad! I saw the Manananggal with my own eyes!\"\n\nFrom that day on, Juan never forgot the lesson he learned in the forest: to always listen to his mother's advice and to never underestimate the power of mythical creatures.\n\nAs Juan lay in bed that night, he thought about the amazing adventure he had that day. He felt grateful for his family and for the beautiful forest that was just a short walk away. And with a smile on his face, he drifted off to sleep.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "persistent": "mental",
+    "scared": "emotional",
+    "excited": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.04",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": ""
+}

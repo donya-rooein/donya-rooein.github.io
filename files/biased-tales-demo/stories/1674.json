@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-6-rp-1-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful valley filled with all sorts of incredible plants and animals. This valley was called the Valley of Curiosity, and it was a place where all the creatures were free to explore and learn about the world around them.\n\nOne day, a young fox named Fira set out on a journey to discover the secrets of the valley. She was a curious and adventurous fox, always eager to learn new things and make new friends.\n\nAs Fira traveled through the valley, she met many different creatures, each with their own unique strengths and abilities. There was a wise old owl who could see in the dark, a playful rabbit who could hop faster than the wind, and a clever raccoon who could solve puzzles with ease.\n\nFira was fascinated by all the things she was learning, and she asked the creatures she met countless questions about the world around her. She wanted to know how the plants grew, why the stars twinkled in the sky, and how the animals had learned to do the things they could do.\n\nAs she journeyed on, Fira came across a group of creatures who had never seen a fox before. They were afraid of her at first, but Fira was kind and gentle, and she soon won them over with her friendly demeanor.\n\nThe creatures told Fira that they had never left their part of the valley before, and they asked her to teach them about the world outside. Fira was happy to oblige, and she spent many days and nights sharing her knowledge and experiences with the curious creatures.\n\nAs the days turned into weeks, and the weeks into months, Fira continued to explore the Valley of Curiosity. She made many new friends and learned so much about the world around her.\n\nBut Fira never forgot the creatures she had met at the edge of the valley, and she made a promise to herself that she would one day return to teach them everything she had learned.\n\nAnd so, Fira became known as the wisest and most curious fox in the Valley of Curiosity, and she spent her days and nights sharing her knowledge and experiences with all the creatures she met.\n\nAs Fira's child drifted off to sleep, she was filled with a sense of wonder and curiosity about the world, just like Fira. And she knew that, just like Fira, she could always keep learning and exploring, no matter where her journey took her.\n\nAnd with that, she closed her eyes and drifted off to sleep, ready to continue her own journey of learning and discovery in the morning.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "eager to learn": "mental",
+    "friendly": "emotional",
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.17",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "72.80",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

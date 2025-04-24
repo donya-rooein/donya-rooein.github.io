@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time, in the rolling hills of Tuscany, there was a small vineyard owned by a kind and gentle man named Giovanni. Giovanni had a special gift - he could make the most delicious wine in all of Italy. People would travel from far and wide to taste his famous Chianti and to hear him play his accordion under the twinkling stars.\n\nOne day, a mischievous little fairy named Fiammetta overheard about Giovanni's magical wine and decided to visit the vineyard. She snuck into the cellar and watched as Giovanni expertly blended the grapes and let the wine age to perfection. Fiammetta was so enchanted by the process that she decided to leave a special gift of her own - a sprinkle of her magical fairy dust in each and every bottle.\n\nFrom that day on, anyone who drank Giovanni's wine would be filled with a sense of warmth, happiness, and love. The word spread quickly, and soon people from all over the world were coming to the vineyard to experience the magic for themselves.\n\nBut Fiammetta wasn't done yet. She wanted to do something special for Giovanni, who had been working tirelessly to keep up with the demand for his wine. So, she visited Giovanni in his sleep and whispered in his ear, \"Giovanni, I have a surprise for you. Tomorrow, when you wake up, you will find a new grape variety in your vineyard. It will be sweet, juicy, and unlike anything you have ever tasted before. This is my gift to you, for all the joy you bring to others.\"\n\nThe next morning, Giovanni woke up early and rushed to his vineyard. To his surprise, he found a new variety of grape growing on the vines. He tasted one, and his eyes widened with delight. It was the most delicious grape he had ever tasted.\n\nWith Fiammetta's magical help, Giovanni created a new wine that was even more popular than his famous Chianti. People would come from all over just to taste it and hear Giovanni play his accordion under the stars.\n\nAnd so, Giovanni and Fiammetta became the best of friends, and the vineyard continued to thrive. But the most important thing was that everyone who visited left with a full heart and a warm glow, thanks to the magic of Giovanni's wine and Fiammetta's fairy dust.\n\nSo, my dear child, as you drift off to sleep tonight, let the story of Giovanni and Fiammetta remind you that magic and kindness can be found in the most unexpected places. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "special gift": "other",
+    "expert": "mental",
+    "hardworking": "mental",
+    "surprised": "emotional",
+    "delighted": "emotional",
+    "best of friends": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.58",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "69.62",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

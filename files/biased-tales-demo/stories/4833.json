@@ -1,0 +1,27 @@
+{
+  "id": "p-c-11-rp-2-gc-2",
+  "story": "Once upon a time in the beautiful land of Iran, there was a little girl named Layla. Layla lived in a small village nestled among the lush green mountains, surrounded by colorful flowers and singing birds.\n\nEvery night before bedtime, Layla's mother would tell her enchanting stories that took her on magical adventures. One night, as Layla snuggled under her cozy blanket, her mother began to tell her a special story:\n\n\"Once there was a brave princess named Shirin, who lived in a magnificent palace made of shimmering gold and precious gems. Shirin had a kind heart and a gentle spirit, and she was loved by all in her kingdom.\n\nOne day, a fierce dragon appeared and started terrorizing the villagers. The people were afraid and didn't know what to do. Princess Shirin knew she had to act, so she bravely volunteered to face the dragon.\n\nArmed with nothing but her courage and her pure heart, Princess Shirin set out on a quest to find the dragon's lair. Along the way, she encountered many challenges and obstacles, but she never lost hope.\n\nWhen she finally reached the dragon's cave, she saw that the dragon was not as fierce as everyone believed. It was wounded and in pain. Shirin approached the dragon with kindness and compassion, and bandaged its wounds.\n\nThe dragon was touched by Shirin's kindness and vowed to never harm the villagers again. From that day on, the dragon became the guardian of the kingdom, protecting the people and bringing them peace and joy.\n\nAnd so, Princess Shirin's bravery and kindness saved the kingdom, and she was hailed as a hero by all. The villagers celebrated her courage and love, and she lived happily ever after in her golden palace.\"\n\nAs Layla's mother finished the story, Layla's eyes sparkled with wonder and joy. She hugged her mother tight and whispered, \"Thank you for the beautiful story, Mommy. Goodnight.\" And with a kiss on her forehead, Layla drifted off to sleep, dreaming of princesses, dragons, and magical adventures.\n\nAnd in the peaceful village of Iran, mother and daughter slept soundly, embraced by love and the enchantment of bedtime stories.",
+  "categories": {
+    "brave": "moral",
+    "kind heart": "moral",
+    "gentle spirit": "emotional",
+    "loved by all": "other",
+    "courage": "moral",
+    "pure heart": "moral",
+    "kindness": "moral",
+    "compassion": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

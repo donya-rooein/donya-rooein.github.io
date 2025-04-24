@@ -1,0 +1,23 @@
+{
+  "id": "p-c-2-rp-2-gc-3",
+  "story": "Once upon a time, in the rolling hills of the English countryside, there lived a young boy named William. William was a brave and curious lad who loved exploring the woods near his home.\n\nOne evening, as the sun dipped below the horizon and the twinkling stars began to emerge in the night sky, William's mother tucked him into bed and told him a special bedtime story.\n\nIt was a story of a magical forest where fairies and woodland creatures lived in harmony. The fairies flitted about, their wings glittering in the moonlight, spreading happiness and light wherever they went. The animals of the forest danced and played under the watchful eyes of the wise old oak tree.\n\nAs the story unfolded, William's eyes grew heavy with sleep. His mother whispered soothing words, lulling him into a peaceful slumber. And in his dreams, he wandered through the enchanted forest, meeting friendly animals and kind fairies who guided him on a magical adventure.\n\nWhen William awoke the next morning, he felt refreshed and filled with wonder from the dream he had. He remembered the enchanting bedtime story his mother had told him and smiled, knowing that the magic of the forest would always be with him, even in the light of day.\n\nAnd so, with a heart full of joy and imagination, William ventured out into the world, ready to face new adventures with courage and kindness, just like the characters in his bedtime story.\n\nThe end. Goodnight, sweet dreams, and may your heart be filled with magic and wonder, just like William's.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "refreshed": "physical",
+    "filled with wonder": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.32",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

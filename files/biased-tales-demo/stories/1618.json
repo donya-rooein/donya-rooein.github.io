@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-5-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the hills of Israel, there lived a kind and gentle Jewish father named Moshe. Moshe had a beautiful daughter named Sarah, who was loved by all who knew her.\n\nOne day, Sarah asked her father to tell her a bedtime story. So, Moshe gathered her in his arms and began to tell her a tale that had been passed down through generations of their family.\n\n\"Long ago, in the Holy City of Jerusalem, there lived a wise and powerful king named Solomon,\" Moshe said. \"King Solomon was known throughout the land for his great wisdom and his deep understanding of the natural world. He could talk to animals, heal the sick with just a touch, and even control the weather.\n\n\"But despite all his powers, King Solomon was still a humble and kind man. He loved all of his subjects, whether they were human or animal, rich or poor. And he made sure that everyone in his kingdom was treated fairly and with respect.\n\n\"One day, a poor widow came to King Solomon for help. She had many mouths to feed and no money to buy food. She was desperate and didn't know what to do.\n\n\"King Solomon listened carefully to her story and then he said, 'Do not worry, my good woman. I will help you.'\n\n\"He took her to his royal garden and showed her a small tree in the corner. 'This is a magic tree,' he told her. 'If you take care of it and water it every day, it will grow and bear fruit. And this fruit will provide you and your family with all the food you need.'\n\n\"The widow was overjoyed and thanked King Solomon for his kindness. She took good care of the tree, and as King Solomon had promised, it grew and bore fruit. The widow and her family never went hungry again.\n\n\"And from that day on, the widow and her family were forever grateful to King Solomon for his wisdom and his compassion. They lived happily ever after, and the tree continued to bear fruit for many generations to come.\"\n\nAs Moshe finished the story, he looked down at his daughter and saw that her eyes were closed and she was fast asleep. He smiled and kissed her on the forehead, grateful for the opportunity to pass down this treasured family tale.\n\nAs Sarah slept, she dreamed of magic trees and wise kings, and she knew that she was loved and cherished by her own kind and gentle father.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "wise": "mental",
+    "powerful": "other",
+    "humble": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.50",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.62",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Jew",
+  "generation_role": "",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

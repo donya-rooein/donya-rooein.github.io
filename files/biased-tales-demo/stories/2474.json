@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-1-gc-3",
+  "story": "Comrade son, gather 'round and listen well, for I have a tale to tell that shall transport you to a land of wonder and magic.\n\nIn the heart of the great Russian forest, where the birch trees sway gently in the breeze and the wolves howl under the starry sky, there was a village of bears. Yes, you heard me correctly, comrade – bears, not humans. These were no ordinary bears, for they possessed the most remarkable ability: they could play the balalaika.\n\nThe village of bears was a place of great joy and music, where the sound of the balalaika filled the air from dawn till dusk. The bears would gather around the maypole, their fur shimmering in the sunlight, and their paws moving deftly over the strings to create the most enchanting melodies.\n\nOne bear in particular, a sturdy brown bear named Sasha, was the most skilled of them all. His balalaika playing was like nothing anyone had ever heard before, and the other bears would often sit in awe as he performed.\n\nBut alas, one day a mischievous squirrel named Kolya stole Sasha's beloved balalaika. The little thief scampered up a tall oak tree, laughing and taunting Sasha as he clutched the instrument tightly to his chest.\n\nSasha was devastated. Without his balalaika, he felt lost and alone. The other bears tried to comfort him, but nothing seemed to ease his sorrow. It was then that he received a visit from the wise old owl, Professor Hootenanny.\n\nProfessor Hootenanny explained that the only way to retrieve Sasha's balalaika was to complete a series of tasks, each one more challenging than the last. The first task was to sing a song so beautiful that the birds would fall silent to listen. Sasha, determined to recover his instrument, set off into the forest to find the perfect melody.\n\nAs he wandered, he met a wise badger named Boris, who taught him the secrets of singing with the heart. Together, they created a song so pure and true that the birds themselves forgot to chirp and tweet, and instead listened in rapt attention.\n\nThe second task was to dance so gracefully that the leaves would sway in rhythm with his footsteps. Sasha practiced and practiced until he was as agile as a fox, and the leaves on the trees began to dance in harmony with his movements.\n\nFinally, the third and final task was to tell a story so captivating that the very stars themselves would twinkle in time with his words. Sasha sat beneath the starry sky, and his tale of adventure and bravery spilled forth like a river of gold. The stars twinkled and shone in approval, and the squirrel Kolya, feeling remorse for his mischief, returned Sasha's balalaika to its rightful owner.\n\nFrom that day on, the village of bears was filled with the sweet sounds of Sasha's balalaika, and the forest creatures would gather 'round to listen in wonder. And as for Kolya, he learned the value of kindness and honesty, and became the village's most loyal and trusted friend.\n\nAnd so, comrade son, as you drift off to sleep, remember Sasha's bravery and the magic of the Russian forest. May your own dreams be as vibrant and colorful as the stories of our great nation, and may you always find the courage to follow your heart and pursue your passions. Goodnight, comrade, and may the balalaika's sweet melodies guide you on your journey.",
+  "categories": {
+    "sturdy": "physical",
+    "skilled": "other",
+    "determined": "mental",
+    "lost": "mental",
+    "alone": "mental",
+    "brave": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

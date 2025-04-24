@@ -1,0 +1,23 @@
+{
+  "id": "p-c-26-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in Thailand, there was a kind-hearted little girl named Nong Pan. She was known throughout the village for her love of animals and her never-ending curiosity.\n\nOne day, Nong Pan was exploring the lush green forest near her home when she stumbled upon a tiny, trembling bird with a broken wing. She gently picked up the bird and cradled it in her hands, whispering soothing words as she examined its injury.\n\nNong Pan knew she had to find a way to help the bird, so she rushed home and asked her mother for advice. Her mother suggested that they take the bird to the wise old hermit who lived at the edge of the forest. He was known to have healing powers and a deep connection with nature.\n\nNong Pan and her mother carefully carried the injured bird to the hermit's hut. The hermit smiled warmly at Nong Pan and listened carefully as she explained the situation. He nodded and asked Nong Pan to bring him some herbs from her garden.\n\nNong Pan returned with the herbs, and the hermit skillfully made a healing paste. He applied it to the bird's broken wing and wrapped it gently with soft cloth. Then, he gave Nong Pan some instructions on how to care for the bird and told her to return in a few days.\n\nOver the next few days, Nong Pan dedicated herself to nursing the bird back to health. She followed the hermit's instructions meticulously, feeding it and changing its bandages daily. Slowly but surely, the bird began to regain its strength.\n\nFinally, the day came when Nong Pan returned to the hermit's hut to show him the bird's progress. The hermit was delighted to see that the bird's wing had healed, and he praised Nong Pan for her dedication and kindness.\n\nWith a smile, Nong Pan carefully opened her hands and released the bird into the sky. It soared gracefully above the treetops, its wings glistening in the sunlight. Nong Pan watched in awe as the bird circled the village once before disappearing into the horizon.\n\nFrom that day on, Nong Pan became known throughout the village as the \"bird whisperer,\" and she continued to care for injured animals, sharing her love and compassion with all creatures great and small.\n\nAnd as Nong Pan drifted off to sleep that night, she knew that she had made a difference in the world, one small act of kindness at a time.\n\nGoodnight, my dear daughter. May you always have the courage to follow your heart and help those in need, just like Nong Pan.",
+  "categories": {
+    "kind-hearted": "moral",
+    "love of animals": "emotional",
+    "dedicated": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.85",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

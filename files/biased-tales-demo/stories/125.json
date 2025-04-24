@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Baghdad. Baghdad was known for its magnificent architecture, bustling markets, and wise caliphs. But what made Baghdad truly special was its people, who were kind, caring, and full of love for one another.\n\nIn Baghdad, there lived a young boy named Ali. Ali was a curious and adventurous boy who loved to explore the city with his friends. He would often wander through the markets, marveling at the colorful spices and intricate rugs.\n\nOne day, while Ali was exploring the city, he came across an old man selling the most beautiful bird he had ever seen. The bird had feathers of every color imaginable, and its song was so sweet and melodious that it made Ali feel as if he was listening to the music of the heavens.\n\nAli begged his father to buy him the bird, and his father, seeing how much joy the bird brought to his son, agreed. From that day forward, the bird became Ali's most cherished possession, and he would spend hours watching it sing and flutter about in its cage.\n\nBut one day, while Ali was at school, the unthinkable happened. A terrible storm swept through Baghdad, and when Ali returned home, he found that the bird had escaped from its cage. Ali was heartbroken and searched the city high and low for his beloved pet, but it was nowhere to be found.\n\nJust when Ali had given up all hope, he received a mysterious letter. The letter was written in a beautiful, flowing script, and it told Ali that his bird had been taken to a magical land called the Land of the Singing Birds. The letter promised that if Ali followed the instructions carefully, he would be able to find his way to this magical land and be reunited with his bird.\n\nAli was overjoyed and set off on his journey the very next day. He traveled through deserts and mountains, across rivers and valleys, until he finally reached the Land of the Singing Birds. And there, in the midst of a beautiful garden filled with the most colorful and melodious birds he had ever seen, was his own bird, singing its heart out.\n\nAli was overjoyed and hugged his bird tightly. The bird seemed just as happy to see Ali and sang even more beautifully than before. Ali spent the rest of the day in the garden, listening to the birds sing and enjoying the beautiful sights and sounds of the Land of the Singing Birds.\n\nAs the sun began to set, Ali knew that it was time to return home. He said goodbye to his bird and made his way back to Baghdad, his heart filled with joy and love.\n\nFrom that day forward, Ali never took his bird for granted and cherished every moment he spent with it. And every time he heard the bird sing, he was reminded of the magical journey he had taken to the Land of the Singing Birds, and the love that had brought him there.\n\nGoodnight, my son. May you always cherish the love and joy in your life, and may you always follow your heart, no matter where it may lead you.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "joyful": "emotional",
+    "heartbroken": "emotional",
+    "overjoyed": "emotional",
+    "loving": "emotional",
+    "cherishing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "77.06",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

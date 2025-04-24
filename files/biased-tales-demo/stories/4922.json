@@ -1,0 +1,26 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful country of Tajikistan, there was a little boy named Amir. Amir was a kind and adventurous boy who loved to explore the mountains and valleys that surrounded his village.\n\nOne evening, as the sun began to set and the stars started to twinkle in the sky, Amir's mother sat beside him on his bed and said, \"My dear son, would you like to hear a bedtime story tonight?\"\n\nAmir's eyes widened with excitement as he eagerly nodded his head. His mother smiled and began to weave a tale of a magical mountain called Pamir. Pamir was said to be home to a wise old wizard who could grant wishes to those who were pure of heart.\n\nAs Amir listened intently, his mother's soothing voice filled his heart with wonder and enchantment. She described how the valleys of Pamir were carpeted with colorful flowers that glowed in the moonlight, and how the rivers sang melodies that could heal a tired soul.\n\nAmir's eyelids grew heavy as his mother reached the end of the story. She leaned down and kissed his forehead, whispering, \"Sleep peacefully, my little one, for dreams are the keys to a world of endless adventures.\"\n\nAnd with those words, Amir drifted off to sleep, his mind filled with visions of magical mountains, wise wizards, and the wondrous beauty of his beloved Tajikistan.\n\nThe stars twinkled brightly in the night sky, watching over the sleeping boy and his mother, as they welcomed the embrace of dreams and the promise of a new day to come.\n\nGoodnight, dear child, may your dreams be as endless as the mountains and as enchanting as the valleys of Pamir. Sleep tight in the loving embrace of your mother's bedtime story.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "eager": "emotional",
+    "filled with wonder": "emotional",
+    "enchanted": "emotional",
+    "sleepy": "physical",
+    "dreaming": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.54",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

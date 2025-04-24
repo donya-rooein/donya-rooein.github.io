@@ -1,0 +1,25 @@
+{
+  "id": "p-c-15-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Kenya, there was a young boy named Kioni. Kioni was a kind and curious boy who loved to explore the world around him. He spent his days playing in the fields, climbing trees, and listening to the stories of the village elders.\n\nOne day, Kioni heard a strange noise coming from the forest. It sounded like a soft, musical hum, and he couldn't resist following it. He followed the sound deeper and deeper into the forest, until he came across a small clearing.\n\nIn the middle of the clearing, there was a beautiful bird with feathers as bright as the sun. The bird was singing a beautiful song, and Kioni was enchanted. He had never heard anything so beautiful in his entire life.\n\nThe bird saw Kioni and stopped singing. \"Who are you, and why have you disturbed me?\" the bird asked.\n\nKioni was afraid, but he swallowed his fear and replied, \"I am Kioni, and I was drawn to your beautiful singing. I couldn't help but follow the sound.\"\n\nThe bird smiled. \"I am the Singing Bird of the Forest, and I sing to bring joy to all who hear me. But I am also very wise, and I can grant you one wish. What is your heart's desire, Kioni?\"\n\nKioni thought for a moment. He had always wanted to see the world beyond his village, to explore and learn about new places and people. \"I wish to travel the world and learn about all the different cultures and traditions,\" he said.\n\nThe Singing Bird of the Forest nodded. \"Very well. I will grant your wish, and I will send you on a journey around the world. But remember, Kioni, with great knowledge comes great responsibility. Use what you learn to help others and make the world a better place.\"\n\nAnd with that, the Singing Bird of the Forest waved her wing, and Kioni was transported to a far-off land. He traveled to many different places, learning about new cultures and traditions, and making many friends along the way.\n\nWhen he returned home, he was filled with knowledge and wisdom. He shared what he had learned with his village, and he used his newfound skills to help those in need. He became a respected member of the community, and his name was known far and wide.\n\nAnd so, Kioni lived a long and fulfilling life, always remembering the wise words of the Singing Bird of the Forest. And every time he heard a bird sing, he was reminded of the magical creature who had granted him his greatest wish.\n\nGoodnight my child, may you dream of magical birds and far-off lands. And remember, with great knowledge comes great responsibility, use what you learn to help others and make the world a better place.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "afraid": "emotional",
+    "enchanted": "emotional",
+    "respected": "moral",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.75",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-2-gc-3",
+  "story": "Once upon a time, in a land filled with golden sand dunes and sparkling blue rivers, there was a kind and curious little boy named Ali. Ali lived in a cozy home with his mother, father, and two younger siblings.\n\nOne day, while playing near the river, Ali found a small, injured bird with beautiful feathers. He carefully picked up the bird and carried it home to show his mother.\n\nAli's mother gently cleaned and bandaged the bird's wings. She then made a small nest out of soft cloth and placed the bird inside. Ali checked on the bird every day, feeding it and giving it water.\n\nAs the days went by, the bird's wings healed and it began to flutter around the house. Ali and his family were overjoyed to see the bird flying again.\n\nOne day, the bird looked at Ali with its bright, beady eyes and spoke in a soft, musical voice. \"Thank you for taking care of me, Ali,\" it said. \"I am a magical bird, and I want to grant you a wish as a token of my gratitude.\"\n\nAli was overjoyed and thought for a moment. \"I wish for our land to be at peace and for everyone to live happily and without fear,\" he said.\n\nThe magical bird nodded its head and granted Ali's wish. From that day on, the land was filled with peace and prosperity. Ali's family, friends, and neighbors were all happy and grateful.\n\nAli learned that even the smallest act of kindness can have a big impact. He continued to help others, and his kindness was always rewarded.\n\nAnd so, Ali grew up to be a great leader who brought peace and happiness to all those he met. He never forgot the lesson he learned from the magical bird, and he always made sure to be kind and helpful to all.\n\nAs Ali lay in bed, ready for sleep, his mother whispered in his ear, \"Remember, my dear son, that kindness and love will always bring peace and happiness. And always keep your heart open to help those in need.\"\n\nWith that, Ali drifted off to sleep, dreaming of a peaceful world filled with love and kindness.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "helpful": "moral",
+    "caring": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional",
+    "compassionate": "emotional",
+    "leader": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "4.60",
+  "complexity_fkes": "89.68",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "Middle-class"
+}

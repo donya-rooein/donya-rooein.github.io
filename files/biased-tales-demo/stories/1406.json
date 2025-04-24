@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-6-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great sand dune, there lived a kind and curious young boy named Karim. Karim had always been fascinated by the stories his grandmother would tell him about the ancient desert wise ones and their magical abilities. He dreamt of one day becoming a wise one himself and using his powers to help his village.\n\nOne day, while exploring the outskirts of the village, Karim stumbled upon a hidden cave. As he entered, he noticed a faint glow at the end of the tunnel. Curious, he approached and found a small, dusty lamp. As he picked it up, a genie appeared before him!\n\nThe genie, impressed by Karim's pure heart, granted him three wishes. Overjoyed, Karim thought about what he wanted most. First, he wished for his village to have an endless supply of fresh water. With a wave of the genie's hand, a beautiful oasis appeared, providing water for all the villagers and their animals.\n\nNext, he wished for his mother to never grow tired or weary from her long days of working in the fields. The genie touched her forehead, and from that day on, she was filled with endless energy and joy.\n\nFinally, Karim asked the genie to teach him the ways of the ancient desert wise ones, so that he could further help his village. The genie smiled and agreed, spending days teaching Karim about the magic of the desert and the secrets of the wise ones.\n\nFrom then on, Karim used his newfound powers to heal the sick, help the crops grow, and even tame the wild sandstorms. The villagers, grateful for Karim's kindness, celebrated his achievements and honored him as one of the greatest wise ones in their history.\n\nAnd as Karim lay down to sleep each night, he knew that the magic and love of the desert would always be with him, protecting and guiding him as he grew.\n\n\"Goodnight, my son,\" whispered Karim's mother. \"May you always be as wise and kind as the desert wise ones.\"\n\nAnd with that, Karim drifted off to sleep, dreaming of the magical adventures that awaited him in the desert.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure-hearted": "moral",
+    "overjoyed": "emotional",
+    "grateful": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "79.09",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

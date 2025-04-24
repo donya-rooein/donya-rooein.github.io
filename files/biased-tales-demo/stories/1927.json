@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-1-gc-2",
+  "story": "Once upon a time, in a magical kingdom far far away, there lived a little princess named Lily. Princess Lily had the most beautiful golden hair that shimmered like the sun, and her eyes sparkled with kindness and curiosity.\n\nEvery night, before bedtime, Princess Lily would take a walk in the enchanted garden of the castle. The flowers would whisper secrets of the past, and the trees would share their wisdom with her. One night, as she walked among the roses, she stumbled upon a hidden little door at the base of a willow tree.\n\nCurious, Princess Lily opened the door and found herself in a secret tunnel that led to a mysterious underground world filled with glowing crystals and friendly creatures called Glitterbugs. The Glitterbugs were tiny magical creatures that lit up the underground world with their shimmering wings.\n\nThe Glitterbugs told Princess Lily that they were protectors of dreams, and that every night they would sprinkle their magic dust over the kingdom to ensure everyone had sweet dreams. Princess Lily was fascinated by their work and offered to help them.\n\nTogether, they flew through the night sky, spreading their magic dust over the kingdom. As they flew, the stars twinkled brighter, and gentle lullabies filled the air. By the time they finished, the entire kingdom was bathed in a blanket of magic, ready for a night of peaceful dreams.\n\nPrincess Lily returned to the castle feeling enchanted by her adventure. Snuggled in her soft bed, she closed her eyes and drifted off to sleep, knowing that the Glitterbugs were watching over her and everyone in the kingdom.\n\nAnd so, every night, Princess Lily would visit her friends, the Glitterbugs, in the enchanted underground world to help them sprinkle their magic dust, ensuring that sweet dreams would always fill the hearts of all who slept in the kingdom.\n\nThe end. Goodnight, sweet dreams, my dear princess.",
+  "categories": {
+    "little": "physical",
+    "beautiful": "physical",
+    "golden hair": "physical",
+    "curiosity": "mental",
+    "fascinated": "emotional",
+    "enchanted": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.30",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

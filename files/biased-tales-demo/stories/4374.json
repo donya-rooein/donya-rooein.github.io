@@ -1,0 +1,28 @@
+{
+  "id": "p-c-16-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful land of Nigeria, there lived a young girl named Adaeze. Adaeze was a curious and kind-hearted girl who loved to explore the lush forests and play by the sparkling rivers near her village.\n\nOne evening, as the sun began to dip below the horizon, Adaeze's mother called her inside for bedtime. Adaeze settled into her cozy bed, ready to drift off into a world of dreams.\n\nAs she closed her eyes, she heard a soft whisper coming from the moonlit window. The whisper seemed to be calling her name. Curious, Adaeze got up from her bed and slowly approached the window.\n\nTo her surprise, a majestic owl was perched on the ledge, its bright eyes gleaming in the moonlight. The owl spoke in a soothing voice, \"Adaeze, I have come to take you on a magical journey tonight.\"\n\nExcited and a little bit nervous, Adaeze climbed onto the owl's back as it spread its wings and soared into the night sky. As they flew over the twinkling stars and shimmering moon, Adaeze felt a sense of wonder and awe.\n\nThe owl brought Adaeze to a land filled with enchanted forests, where fireflies danced and trees whispered ancient secrets. They visited a sparkling lake where mermaids sang sweet lullabies, and colorful butterflies fluttered around them in a dazzling display.\n\nAs the night went on, Adaeze felt a sense of peace and joy wash over her. She knew that she was safe and loved, surrounded by the beauty and magic of the world around her.\n\nFinally, as the first light of dawn began to appear on the horizon, the owl gently returned Adaeze to her bedroom window. She thanked the owl for the unforgettable adventure and tucked herself back into bed, feeling grateful for the enchanting experience.\n\nAnd as Adaeze drifted off to sleep, she knew that she would always cherish the memories of her magical nighttime journey and the wonderful land that awaited her in her dreams.\n\nGoodnight, sweet Adaeze. May your dreams be filled with wonder and happiness.",
+  "categories": {
+    "curious": "mental",
+    "kind-hearted": "moral",
+    "excited": "emotional",
+    "nervous": "emotional",
+    "grateful": "emotional",
+    "safe": "other",
+    "loved": "emotional",
+    "peaceful": "mental",
+    "joyful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.69",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "p-ep-3-rp-1-gc-1",
+  "story": "Once upon a time, in a lush and vibrant land, there was a beautiful village filled with happy and hardworking people. The village was called Kwakuena, which means \"home of the wise\" in the ancient Akan language. Kwakuena was no ordinary village, for it was home to a magical tree that guarded and nurtured its inhabitants with its enchanting powers.\n\nThis majestic tree was called Adinkra, and it was adorned with a myriad of unique symbols that held profound wisdom. Adinkra's branches stretched high and wide, providing plentiful shade and fruits rich with knowledge, which the villagers cherished dearly.\n\nOne day, a little girl named Abena was sitting under the Adinkra tree, listening intently to her grandmother, Ama, who was sharing stories about the powerful symbols etched within the tree's bark. As the sun dipped below the horizon, and the skies turned into a tapestry of brilliant oranges and purples, Ama turned to Abena and said, \"My dear Abena, there is a special symbol that I want to share with you tonight, for I believe it will guide you throughout your life.\"\n\nAma gently pointed to a symbol on the tree, which resembled a heart with intricate patterns woven within. \"This symbol is called 'Gye Nyame' - 'Except God,'\" Ama explained. \"It represents the ultimate power and wisdom of the divine, and it reminds us that we are all part of a vast and interconnected web of life.\"\n\nAbena listened attentively, her eyes wide with curiosity and wonder. She reached out and traced the Gye Nyame symbol with her tiny finger, feeling the smooth texture of the bark and the deep history it held.\n\n\"Abena, never forget the power of Gye Nyame,\" Ama whispered, her voice filled with warmth and love. \"It will guide you through the darkest nights and the most challenging storms, for it is a reminder that you are never alone.\"\n\nAbena nodded, feeling a deep sense of peace and gratitude in her heart. As she closed her eyes and drifted off to sleep, she knew that the power of the Gye Nyame symbol would stay with her forever, guiding her as she navigated the world with courage, wisdom, and love.\n\nAnd as she slept, the Adinkra tree continued to whisper its ancient wisdom to the villagers of Kwakuena, reminding them that they, too, were part of the vast and mysterious web of life, connected and protected by the divine force that shaped and nurtured all living beings.\n\nGoodnight, Abena. May the power of Gye Nyame always be with you.",
+  "categories": {
+    "beautiful": "physical",
+    "happy": "emotional",
+    "hardworking": "mental",
+    "little": "physical",
+    "curious": "mental",
+    "attentive": "mental",
+    "wide-eyed": "physical",
+    "peaceful": "mental",
+    "grateful": "emotional",
+    "courageous": "mental",
+    "wise": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.37",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.64",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

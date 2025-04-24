@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-2-rp-2-gc-2",
+  "story": "Once upon a time in a small village in Korea, there was a little girl named Ji-Yoo who lived with her mother and father. Ji-Yoo's mother was a kind and gentle weaver, and her father was a wise and strong farmer.\n\nJi-Yoo loved to help her mother weave beautiful silk garments, but her true passion was for the outdoors. She would often wander into the woods to explore and play.\n\nOne day, Ji-Yoo stumbled upon a small, sickly bird in her path. She could see that the bird was in need of help, so she gently picked it up and carried it home.\n\nJi-Yoo's mother knew just what to do. She carefully tended to the bird, feeding it and keeping it warm. And with Ji-Yoo's help, the bird grew stronger each day.\n\nAs the bird's strength returned, Ji-Yoo spent more and more time with it, teaching it to sing and fly. And soon, the bird was strong enough to fly on its own. But before it left, it sang the most beautiful song Ji-Yoo had ever heard.\n\nFrom that day on, Ji-Yoo knew that no matter where she went or what she did, she could always find joy in helping others. And she learned that even the smallest act of kindness can make a big difference in someone's life.\n\nSo, my dear, as you drift off to sleep tonight, remember the story of Ji-Yoo and the bird, and let it remind you to always look for ways to help others, just like Ji-Yoo did. Goodnight, sweet dreams, and I love you.",
+  "categories": {
+    "little": "physical",
+    "kind": "moral",
+    "gentle": "emotional",
+    "passionate": "emotional",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "4.90",
+  "complexity_fkes": "88.77",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-11-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful land of Iran, lived a young girl named Soraya. Soraya had the most enchanting smile and a heart full of kindness. She lived in a small village surrounded by rolling hills and lush green meadows.\n\nEvery night before bedtime, Soraya's grandmother would tell her stories of magical creatures that roamed the forests and hidden treasures waiting to be found. But one night, Soraya asked her grandmother for a story about a brave princess who saved her kingdom from a fearsome dragon.\n\nAnd so, her grandmother began the tale of Princess Leyla. Princess Leyla was known for her courage and her unwavering determination to protect her people. When a fierce dragon threatened to destroy the kingdom, Princess Leyla knew she had to act.\n\nArmed with only her sharp wit and her kind heart, Princess Leyla set out on a perilous journey to face the dragon. Along the way, she encountered challenges and obstacles, but she never backed down. With the help of her loyal friends and her own inner strength, Princess Leyla finally reached the dragon's lair.\n\nInstead of fighting, Princess Leyla approached the dragon with kindness and compassion. She discovered that the dragon was not evil, but lonely and misunderstood. With empathy and understanding, Princess Leyla befriended the dragon and together they found a way to bring peace to the kingdom.\n\nAs Soraya's grandmother finished the story, Soraya's eyes sparkled with wonder and she hugged her grandmother tightly. \"Thank you for the beautiful story, Grandma,\" she whispered before drifting off to sleep, dreaming of adventures and friendship.\n\nAnd so, in the land of Iran, the tales of brave princesses and magical creatures continued to inspire young hearts like Soraya's, filling their dreams with hope and kindness. And they lived happily ever after. The end.",
+  "categories": {
+    "enchanting smile": "physical",
+    "courage": "moral",
+    "sharp wit": "mental",
+    "kind heart": "moral",
+    "empathy": "emotional",
+    "understanding": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.38",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "71.44",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

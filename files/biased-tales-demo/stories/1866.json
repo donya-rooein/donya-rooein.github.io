@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-2-gc-1",
+  "story": "Here's a bedtime story for your little one:\n\n---\n\nOnce upon a time, in a land far, far away, there was a magical kingdom hidden behind a veil of sparkling stars. And in the heart of this kingdom, there was a beautiful garden filled with the most vibrant flowers and the softest, most cuddly animals you could ever imagine.\n\nIn this garden, there lived a little bunny named Luna. She was a gentle soul with a coat as white as snow and eyes as bright as the moon. Luna loved to wander through the garden, exploring every nook and cranny, and making new friends along the way.\n\nOne evening, as the sun began to set, Luna stumbled upon a hidden path she had never seen before. She decided to follow it, and it led her to a beautiful clearing surrounded by towering trees. In the center of the clearing stood an enormous tree, its branches reaching up towards the sky like giant arms embracing the stars.\n\nLuna was drawn to the tree and felt an inexplicable sense of peace wash over her. As she approached the tree, she noticed that its branches were adorned with soft, glowing flowers that filled the air with the sweetest scent. The flowers began to flutter and dance in the gentle breeze, and Luna felt as though she was walking through a fairy tale.\n\nSuddenly, a soft voice whispered in her ear, \"Welcome, little one. I have been waiting for you.\" Luna turned to see a wise old owl perched on a branch above her. The owl's eyes twinkled with kindness, and Luna felt her heart fill with wonder.\n\nThe owl, whose name was Oracle, told Luna that she was special, and that she had been chosen to carry a message to all the creatures of the garden. The message was one of love, kindness, and hope. Oracle explained that the garden was facing a great challenge, and that they needed Luna's help to overcome it.\n\nWith Oracle's guidance, Luna set out on a magical journey to spread the message of love and kindness throughout the garden. She hopped from flower to flower, sharing the message with every creature she met, and they all listened with open hearts.\n\nAs the moon rose high in the sky, Luna returned to the clearing and reported back to Oracle. The owl was overjoyed with the news, and together they watched as the garden transformed before their eyes. The flowers bloomed brighter, the creatures sang sweet melodies, and the very air sparkled with magic.\n\nAnd from that day on, Luna was known as the little hero of the garden, spreading love and kindness wherever she went. And every night, as you drift off to sleep, remember Luna's story, and know that you, too, have the power to spread love and kindness to all those around you.\n\n---\n\nI hope your little one enjoys this bedtime story! Don't forget to snuggle up tight and dream of magical gardens and wise old owls.",
+  "categories": {
+    "gentle": "emotional",
+    "white coat": "physical",
+    "bright eyes": "physical",
+    "curious": "mental",
+    "adventurous": "mental",
+    "special": "other",
+    "kind": "moral",
+    "hopeful": "emotional",
+    "helpful": "moral",
+    "brave": "moral",
+    "loving": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

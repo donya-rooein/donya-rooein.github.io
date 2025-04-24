@@ -1,0 +1,29 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time, in a small fishing village in the Philippines, there lived a kind and gentle father named Manong Antonio and his curious and adventurous daughter named Maria. They lived in a small nipa hut near the beach, where they could hear the waves crashing and the seagulls chirping every day.\n\nManong Antonio was a hardworking fisherman who would go out to sea early in the morning and come back in the afternoon with a basket full of fresh fish. Maria, on the other hand, was an inquisitive and lively young girl who loved to explore the beach and the nearby forest, always finding something new and interesting to discover.\n\nOne day, as Maria was playing near the shoreline, she stumbled upon a strange and beautiful crystal that sparkled in the sun. It was shaped like a star, with different colors swirling around inside. Maria picked it up and held it close to her heart, feeling a warmth and a sense of peace that she had never felt before.\n\nAs she ran to show her father the crystal, Maria noticed that the fish in their aquarium were swimming in unusual patterns, and the water was glowing with a soft light. Curious, she asked Manong Antonio if he had ever seen anything like it before.\n\nManong Antonio smiled and said, \"Ah, my dear Maria, you have found a magical crystal that comes from the bottom of the sea. It is said to have the power to heal and to make dreams come true.\"\n\nMaria's eyes widened with excitement as she asked her father how to use the crystal. Manong Antonio told her that she needed to hold the crystal in her hand and make a wish. \"What is your deepest wish, my child?\" he asked.\n\nMaria thought for a moment, then said, \"I want to be able to explore the bottom of the sea and see all the amazing creatures that live there. I want to discover new things and learn about the world beneath the waves.\"\n\nManong Antonio nodded and held Maria's hand, telling her to close her eyes and make her wish. Maria squeezed her eyes shut and held the crystal tightly, making her wish with all her heart. Suddenly, she felt a rush of water around her, and when she opened her eyes, she found herself at the bottom of the sea.\n\nMaria was awestruck by the beauty of the underwater world. She saw colorful coral reefs, exotic fish, and even a friendly sea turtle that swam alongside her as she explored. She saw mermaids singing to each other and dolphins jumping with joy in the water. She even discovered a hidden treasure chest filled with gold coins and precious gemstones.\n\nBut as the day turned into night, Maria realized that she needed to return to the surface. She closed her eyes and made a wish on the crystal, hoping that she could return to her father safely. Suddenly, she found herself back on the beach, holding the crystal tightly in her hand.\n\nManong Antonio was waiting for her, smiling with pride and happiness. \"You have discovered the magic of the crystal, my child,\" he said. \"You have fulfilled your deepest wish, and you have brought back a treasure beyond compare.\"\n\nMaria hugged her father and held up the crystal. \"Thank you, Father,\" she said gratefully. \"I will treasure this crystal forever, and I will always remember this incredible adventure.\"\n\nThat night, Maria fell asleep with the crystal under her pillow, dreaming of all the adventures that awaited her. And as she slept, the crystal glowed with a soft light, filling her room with warmth and peace.\n\nFrom that day on, Maria became a brave and adventurous explorer, discovering new things and learning about the world. She would always carry the magical crystal with her, making wishes and making her dreams come true. And every night, as she closed her eyes and drifted off to sleep, she knew that anything was possible, as long as she believed in the magic of the crystal and the power of her wishes.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "inquisitive": "mental",
+    "lively": "emotional",
+    "excited": "emotional",
+    "awestruck": "emotional",
+    "grateful": "emotional",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

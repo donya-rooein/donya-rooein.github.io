@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-2-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of Mexico, there lived a kind and curious little girl named Maria. Maria lived with her mother and father in a brightly colored adobe house, surrounded by fields of golden marigolds and tall, green cornstalks.\n\nMaria's mother was a skilled weaver, and she spent her days creating intricate tapestries and blankets, filled with vibrant colors and patterns inspired by the natural beauty of their village. Maria loved to watch her mother weave, and she would often ask her to tell her stories about the pictures and symbols woven into the fabric.\n\nOne day, as Maria was helping her mother in the field, she noticed a strange, glowing insect flitting among the marigolds. It was unlike any insect she had ever seen before – its wings were a shimmering gold, and its body was adorned with tiny, sparkling gems.\n\nMaria was fascinated by the insect and followed it as it flitted from flower to flower. Suddenly, the insect flew straight towards Maria, and she could see that it had a tiny message tied to its leg. Maria carefully untied the message and unfolded it. It was written in a beautiful, flowing script, and it read:\n\n\"Dear Maria,\n\nI am the Marigold Fairy, and I have a special mission for you. I have been watching you and your mother, and I am so impressed by your kindness and curiosity. I would like to invite you to my palace, where I will teach you the secrets of weaving and help you create the most beautiful tapestry the world has ever seen.\n\nWith all my fairy magic,\nThe Marigold Fairy\"\n\nMaria was overjoyed and couldn't believe her luck. She ran back to her mother, who was equally thrilled by the news. Together, they prepared for Maria's journey to the Marigold Fairy's palace.\n\nAs the sun began to set, Maria closed her eyes and wished herself to the palace. When she opened her eyes, she found herself in a magnificent garden filled with towering marigolds and vibrant flowers she had never seen before. In the center of the garden stood a beautiful palace made entirely of golden marigolds.\n\nThe Marigold Fairy greeted Maria warmly and led her inside the palace. There, Maria learned the secrets of weaving and how to create the most beautiful tapestries using the fairy's magic. She worked tirelessly, weaving intricate patterns and incorporating the sparkling gems from the Marigold Fairy's wings.\n\nAs the days passed, Maria's tapestry grew more and more beautiful. It was filled with symbols and pictures inspired by the natural beauty of her village, as well as the new wonders she had discovered in the Marigold Fairy's palace.\n\nFinally, the tapestry was complete, and Maria knew it was time to return home. The Marigold Fairy cast a spell to send Maria back to her village, and she carried the tapestry with her.\n\nWhen Maria arrived home, she presented the tapestry to her mother, who was speechless with amazement. The tapestry was more beautiful than anything she had ever created, and it was filled with love and magic.\n\nFrom that day on, Maria's tapestry became a symbol of the love and magic that flowed between mother and daughter, and it was cherished by all who saw it. And every time Maria looked at the tapestry, she was reminded of the special bond she shared with her mother and the magic of the Marigold Fairy.\n\nThe end. Goodnight, my dear.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "thrilled": "emotional",
+    "hardworking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.35",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.70",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-ep-4-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful princess named Lily. Lily had the most magnificent garden in all the kingdom, filled with the most vibrant and colorful flowers you could ever imagine. She spent hours upon hours tending to her garden, making sure each and every flower was happy and healthy.\n\nOne day, while Princess Lily was tending to her flowers, she noticed that one of her roses was looking a little sad. The petals were wilted and it didn't have the same bright and colorful glow as the other roses. Princess Lily knew she had to do something to help her rose, so she sat down next to it and began to sing a soft and soothing lullaby.\n\nAs she sang, she noticed something magical happening. The wilted petals of the rose began to perk up and regain their vibrant color. The rose was coming back to life!\n\nPrincess Lily was overjoyed and continued to sing to her rose until it was once again the most beautiful flower in the garden. From that day forward, Princess Lily made it a point to sing to her flowers every night before she went to bed, and her garden became the most magical and enchanting place in the entire kingdom.\n\nAnd so, my dear, as you drift off to sleep tonight, remember the power of a kind word and a gentle song. Just like Princess Lily's flowers, you too can bloom and grow with a little love and care. Goodnight, my dear, sweet princess. Dream of magical gardens and enchanting lullabies. I love you.",
+  "categories": {
+    "beautiful": "physical",
+    "caring": "emotional",
+    "attentive": "mental",
+    "joyful": "emotional",
+    "magical": "other",
+    "enchanting": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.29",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "White",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

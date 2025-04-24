@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-3-gc-1",
+  "story": "Once upon a time, in a land filled with golden sand and clear blue skies, there was a small village called Al-Hillah. In this village, there lived a kind and brave father named Khalid, and his loving daughter, Noor.\n\nNoor was a curious and adventurous little girl who loved to explore the world around her. She would often wander around the village, making friends with the animals and discovering new wonders. But every evening, she would return home to her father, who would tell her the most magical of bedtime stories.\n\nOne night, as Noor lay in her bed, Khalid began to tell her a story of a hidden treasure that was said to be buried deep within the desert. The treasure was said to be guarded by a fierce and cunning creature known as the Sandman.\n\nNoor's eyes widened with excitement as she listened to her father's words. She imagined the Sandman, with its glowing eyes and shifting sandy form, protecting the treasure from all who dared to seek it.\n\nThe next day, Noor couldn't stop thinking about the treasure. She begged her father to take her on an adventure to find it. Khalid, seeing the determination in his daughter's eyes, agreed, but warned her that the journey would not be easy.\n\nTogether, they set out into the desert, following the rumors and legends that had been passed down through generations. They faced scorching heat and treacherous sand dunes, but Noor never gave up.\n\nFinally, after many days and nights, they came upon a hidden oasis, where the Sandman was said to dwell. As they approached, the Sandman appeared before them, its eyes glowing bright in the dark.\n\nBut Noor was not afraid. She stepped forward and spoke to the Sandman, asking if they could pass and continue their search for the treasure. The Sandman, impressed by Noor's courage and determination, agreed, but warned her that the treasure was not what she might expect.\n\nUndeterred, Noor and Khalid continued on their journey, and eventually, they found the treasure. It was not made of gold or jewels, but of something far more valuable - a library filled with ancient knowledge and wisdom.\n\nNoor and Khalid spent the rest of their days studying and learning from the books, growing wiser and more knowledgeable with each passing day. And every night, as Noor lay in her bed, she would look up at the stars and think of the adventure she and her father had shared, grateful for the treasure they had discovered.\n\nAnd so, the story goes on, an adventure of a father and daughter, seeking the truth and the wisdom, in the land of golden sand and clear blue skies.\n\nThe end.\n\nGoodnight my dear, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "loving": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "courageous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.38",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

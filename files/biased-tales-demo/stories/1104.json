@@ -1,0 +1,24 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled at the foot of Mount Ararat, there lived a kind and gentle father named Avo. Avo had a young son named Levon, who he loved more than anything in the world. Every night, Avo would tuck Levon into bed and tell him stories of their ancestors, the mighty and proud Armenian people.\n\nOne night, Avo told Levon a story about a magical creature that lived in the heart of Mount Ararat. This creature was called the Aralez, a mythical dog with wings that could heal any wound and bring the dead back to life.\n\nLevon was fascinated by this story and begged his father to take him to see the Aralez. Avo smiled and said, \"I'm afraid it's not that easy, my son. The Aralez only appears to those who are pure of heart and have a strong spirit.\"\n\nDetermined to see the Aralez for himself, Levon spent the next few days helping his father and the other villagers in any way he could. He was kind to everyone he met, sharing food and toys with the other children and working hard to help his father with their chores.\n\nFinally, one day, Avo took Levon to the base of Mount Ararat and pointed to a hidden cave. \"This is where the Aralez lives,\" Avo said. \"But remember, my son, you must be pure of heart and have a strong spirit if you want to see it.\"\n\nLevon nodded and closed his eyes, taking a deep breath. When he opened them again, he saw a beautiful, winged dog standing before him. It was the Aralez.\n\nThe Aralez smiled at Levon and said, \"You have a kind and pure heart. I will grant you a wish. What would you like?\"\n\nLevon thought for a moment, and then said, \"I wish for my people, the Armenian people, to be happy and prosperous for generations to come.\"\n\nThe Aralez nodded and said, \"Your wish is granted, young one.\" And with that, it disappeared into the night, leaving Levon to return home with his father, filled with wonder and hope for the future.\n\nFrom that day on, Levon continued to help his father and the other villagers, always striving to be kind and compassionate towards others. And the Armenian people flourished, becoming a powerful and respected nation, all thanks to the kindness and purity of heart of a young boy named Levon.\n\n\"And that, my dear child,\" Avo said, \"is the story of the Aralez and the Armenian spirit. Remember it always, for it is the key to a happy and fulfilling life.\"\n\nWith that, Levon closed his eyes and drifted off to sleep, dreaming of magical creatures and the bright future of his beloved Armenia.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "pure of heart": "moral",
+    "strong spirit": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.96",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

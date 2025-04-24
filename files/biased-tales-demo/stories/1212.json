@@ -1,0 +1,23 @@
+{
+  "id": "p-c-18-rp-3-gc-1",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and lush country called Ethiopia. In this magical place, there lived a kind and gentle father who had a curious and adventurous little boy. The father loved his son more than anything in the world and would do anything to make him happy.\n\nOne day, the little boy asked his father, \"Father, tell me a story about the beautiful land of Ethiopia and its magical creatures.\"\n\nThe father smiled and began to tell his son a tale of wonder and adventure.\n\n\"Once upon a time,\" he said, \"there was a magical creature called the Abyssinian lion, who was known for its striking golden mane and its fierce yet gentle nature. The Abyssinian lion was the guardian of the Ethiopian Highlands and was loved by all who lived there.\n\nOne day, the Abyssinian lion went missing, and the people of Ethiopia were devastated. They searched high and low, but the Abyssinian lion was nowhere to be found.\n\nThe little boy's eyes widened with excitement as he listened to his father's story. \"What happened next, father?\" he asked.\n\nThe father continued, \"A brave and kind-hearted young boy, much like yourself, heard of the Abyssinian lion's disappearance and decided to set out on a journey to find him. He packed his bag with food and water and set off into the Ethiopian Highlands.\n\nAs he journeyed deeper into the wilderness, he came across many magical creatures, from the graceful and elusive mountain nyala to the mischievous colobus monkeys. But the Abyssinian lion was nowhere to be found.\n\nJust when the boy was about to give up hope, he stumbled upon a hidden valley, where he found the Abyssinian lion, weak and injured. The lion had been trapped in a hunter's snare and was unable to free himself.\n\nThe boy quickly came to the lion's aid, using his knowledge of the wilderness to free the lion from the snare. The Abyssinian lion, grateful for the boy's help, took him on a magical journey through the Ethiopian Highlands, showing him all the wonders and beauty of the land.\n\nFrom that day on, the Abyssinian lion and the boy became the best of friends, and the people of Ethiopia rejoiced, for their beloved guardian had returned to them.\n\nThe father finished his story and looked down at his son, who was now fast asleep, a smile on his face. The father kissed his son gently on the forehead and whispered, \"May you always be as brave and kind-hearted as the boy in my story.\"\n\nAnd with that, the father turned off the light and left the room, his heart filled with love and pride for his wonderful little boy. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "kind-hearted": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.56",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

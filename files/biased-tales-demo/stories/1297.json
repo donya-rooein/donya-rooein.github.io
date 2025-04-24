@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya loved to explore the world around her, and she was always asking questions and looking for adventure.\n\nOne day, Maya heard about a magical waterfall deep in the jungle, said to grant a single wish to anyone who was brave enough to find it. Maya's heart filled with excitement and she knew she had to find this magical waterfall.\n\nShe packed a small bag with a bottle of water, some food, and a flashlight, and set off on her journey. The jungle was thick and dense, but Maya was determined and used her sharp senses and keen eyes to navigate through it.\n\nAs she walked deeper into the jungle, she encountered many exotic animals, such as colorful birds, mischievous monkeys, and even a friendly elephant. But Maya was not afraid, for she knew that the jungle was full of wonder and beauty.\n\nFinally, after a long and tiring journey, Maya reached the magical waterfall. It was even more breathtaking than she had imagined, with sparkling clear water cascading down a tall cliff.\n\nMaya approached the waterfall and closed her eyes, making her wish. When she opened her eyes, she saw a small, shiny stone at her feet. She picked it up and noticed that it was warm to the touch and shimmered with a beautiful, magical light.\n\nMaya knew that this stone was a special gift from the magical waterfall. She put it in her pocket and made her way back home, feeling grateful and happy.\n\nFrom that day on, Maya always carried the magical stone with her, and she knew that as long as she had it, she could make her dreams come true.\n\nAnd so, Maya lived happily ever after, always exploring and discovering the magic in the world around her.\n\nGoodnight my dear, may you always have sweet dreams and never stop exploring and discovering the magic in the world around you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "mental",
+    "grateful": "emotional",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.51",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

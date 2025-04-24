@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-3-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there was a young boy named Juan. Juan was a kind and curious boy who loved to explore the world around him. He lived with his family in a small house near the edge of the village, surrounded by lush green forests and rolling hills.\n\nOne day, as Juan was playing near the river that ran through the village, he noticed a small bird with beautiful, vibrant feathers fluttering about. The bird was unlike any Juan had ever seen before, with its bright blue wings and shimmering silver tail.\n\nJuan approached the bird slowly, not wanting to scare it away. To his surprise, the bird seemed to welcome his presence and allowed Juan to come closer. Juan reached out his hand, and the bird hopped onto his finger, looking up at him with curious, bright eyes.\n\nFrom that day on, Juan and the bird became the best of friends. They would spend hours together, with the bird perched on Juan's shoulder as he explored the forests and hills. Juan would share his food with the bird, and in return, the bird would sing the most beautiful songs Juan had ever heard.\n\nOne day, as Juan and the bird were exploring a particularly dense part of the forest, they came across a clearing. In the center of the clearing was a magnificent tree, taller and wider than any Juan had ever seen. Its bark was rough and gnarled, and its leaves were a deep, rich green.\n\nBut what caught Juan's attention the most were the glittering golden fruits that hung from the tree's branches. They were so beautiful and so enticing that Juan couldn't help but reach up and pick one.\n\nAs soon as Juan's fingers touched the fruit, however, the tree began to shake and groan. The ground beneath Juan's feet trembled, and he heard a deep, rumbling voice echo through the clearing.\n\n\"Who dares to steal from the tree of wisdom?\" the voice boomed.\n\nJuan looked around, but he could see no one. He realized with a start that the voice was coming from the tree itself.\n\n\"I-I'm sorry,\" Juan stammered, holding the golden fruit out to the tree. \"I didn't mean to take it without asking. Please forgive me.\"\n\nThe tree rumbled and groaned some more, and then, slowly, the shaking subsided.\n\n\"Very well,\" the tree said. \"But you must understand that this fruit is not meant for mere mortals. It holds great power, and with great power comes great responsibility.\"\n\nJuan nodded solemnly, and the tree lowered a branch to him, allowing him to place the golden fruit back on its branches.\n\nFrom that day on, Juan was infused with a newfound sense of wisdom and maturity. He used his newfound knowledge to help his family and his village, solving problems and conflicts with ease.\n\nAnd as for the bird, it stayed by Juan's side, the two of them embarking on countless adventures together. They became legends in their village, known far and wide for their bravery and wisdom.\n\nAnd so, every night, as Juan tucked his own child into bed, he would tell this story, passing down the wisdom he had gained from the tree of wisdom. And he would always end the story with the same words.\n\n\"And remember, my child, with great power comes great responsibility.\"\n\nAnd with that, he would kiss his child goodnight and leave the room, the words echoing in his head as he drifted off to sleep.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "wise": "mental",
+    "mature": "mental",
+    "brave": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

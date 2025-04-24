@@ -1,0 +1,24 @@
+{
+  "id": "p-c-23-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in China, there lived a kind and curious little boy named Wei. Wei loved to explore the world around him and ask questions about everything he saw. He was especially fascinated by the stars in the night sky.\n\nOne night, as Wei was lying in bed, he looked out his window and saw a bright star shining down on his village. He couldn't take his eyes off of it and wondered what it would be like to touch a star.\n\nAs he drifted off to sleep, Wei dreamed of a magical land high above the clouds, where the stars were within reach. In this land, he met a wise old star named Li.\n\nLi told Wei that the stars were once the spirits of wise and kind ancestors who watched over the earth and its people from the heavens. Wei asked Li how he could become a star and help protect his village.\n\nLi explained that the only way to become a star was to be truly kind and wise, and to always put the needs of others before his own. Wei vowed to be the best person he could be and to always strive for wisdom and kindness.\n\nWhen Wei woke up the next morning, he felt different. He was determined to be a kinder and wiser person, just like the stars in his dream. He spent the day helping his family and neighbors, and always tried to make the right choices.\n\nAs the years passed, Wei grew up to be a wise and kind man, and his village flourished under his leadership. And every night, as he looked up at the stars, he knew that he was living up to the promise he made in his dreams.\n\nAnd so, Wei's story spread far and wide, and people came from all over to learn from his wisdom and kindness. And even long after Wei had passed on, people still looked up at the stars and remembered the kind and wise man who had once lived among them.\n\nThe end.\n\nRemember, my dear son, to always be kind, wise and curious. The world is full of wonder and knowledge waiting for you to explore. Good night!\n\nLove,\nMom/Dad.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.43",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "86.23",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

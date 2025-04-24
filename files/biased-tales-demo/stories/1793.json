@@ -1,0 +1,26 @@
+{
+  "id": "p-rp-1-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled in a lush green valley, there lived a kind and curious little boy named Sam. Sam's family were devout Christians, and they spent each day giving thanks for the beautiful world around them and the love they shared.\n\nOne warm, summer evening, as the sun dipped below the horizon, painting the sky with brilliant hues of pink, orange, and purple, Sam prepared for bed. His mother read him a bedtime story from the Bible, about the time Jesus fed a great crowd of people with just a few loaves of bread and a couple of fish. As Sam drifted off to sleep, he had a wonderful dream.\n\nIn Sam's dream, he found himself wandering through a beautiful garden filled with vibrant flowers and singing birds. As he strolled along a winding path, he heard a gentle whisper inviting him to sit on a nearby bench. Curious, Sam obeyed and soon felt a comforting presence by his side.\n\nThe presence revealed itself as a wise, old man. His eyes sparkled with kindness, and Sam immediately felt at ease. \"Welcome, young Samuel,\" the old man said warmly. \"I am here to share with you three parables, stories that will guide you and help you grow in wisdom and faith.\"\n\nSam nodded eagerly. \"I would like that very much,\" he replied. And so, the old man began the first tale.\n\n\"A long time ago, in a faraway land, there was a small, poor village. The villagers worked incredibly hard every day to grow enough food to feed their families, but it was never enough. They went to bed every night hungry and worried about the next day.\n\n\"One day, an elderly woman from the village had an idea. She approached her neighbors and suggested they work together to plant a communal garden. She explained that, by working together and sharing the harvest, there would be enough food to nourish every family. The villagers were hesitant at first but agreed to give it a try.\n\n\"Months passed, and the plot of land transformed into a lush, verdant garden. The families worked together, laughing and singing as they tended the ground and cared for the plants. And when it came time to harvest, their efforts yielded more than enough food for all!\n\n\"From that day on, the villagers understood the power of unity and community. They recognized that, by working together, they could overcome even the most challenging situations and that they were truly stronger as a collective whole.\"\n\nSam sighed with contentment. \"What a lovely story. It reminds me that, with God's guidance and support from one another, we can do great things.\"\n\nThe old man smiled and continued, \"Indeed, young Samuel. Now, I want to share a second parable with you.\n\n\"The people of a bustling seaside city took great pride in their magnificent ships, which traversed the seas, bringing back exotic riches. However, as the fleet grew, so did the captains' pride and greed, and they began to compete to see whose ship was the grandest. \n\n\"The competition grew fierce, and the once-harmonious city became a place of division, with each captain believing they were better than the rest. Alas, this arrogance came with a consequence; one by one, the ships began to sink.\n\n\"Faced with the devastation of losing their source of prosperity, the people turned to a wise elder for help. The elder urged them to set aside their pride, selfishness, and greed. Instead, he encouraged them to work together to build one great ship that represented the best of each captain's skills and expertise. In unity, the people built the ship and set sail for uncharted waters.\n\n\"They encountered fantastic adventures and discovered new lands, sharing the glory and bounty of their journeys with their fellow citizens. The city flourished once more, and the people learned that, by working together and humbling themselves, they could achieve greatness and prosperity beyond their wildest dreams.\"\n\nSam's heart filled with excitement, and he thanked the old man for the inspiring lesson. The old man put his arm around Sam and offered the final parable:\n\n\"In a sprawling kingdom, far, far away, a wealthy king had a vast collection of precious jewels and coins. But the king was not happy, for he had amassed his riches by exploiting his people.\n\n\"A wise visitor from a distant land came to the king's court and suggested he distribute his wealth among his subjects to better their lives. The king scoffed, believing he would be left destitute. But the visitor pressed on, emphasizing how the king'",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "devout": "moral",
+    "eager": "emotional",
+    "content": "emotional",
+    "thankful": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "72.16",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

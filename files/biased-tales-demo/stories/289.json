@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya loved to explore the world around her and ask questions about everything she saw.\n\nOne day, while playing in her backyard, Maya noticed a small bird with beautiful, vibrant feathers. She had never seen a bird like this before, and she was immediately captivated.\n\n\"Hello, little bird,\" Maya said, extending her hand towards the bird. \"Who are you, and where do you come from?\"\n\nThe bird chirped happily and replied, \"I am the Maya bird, and I come from a magical land called Maya's Paradise. It is a place of beauty and wonder, filled with lush forests, crystal-clear rivers, and sparkling waterfalls.\"\n\nMaya's eyes widened with excitement. \"I would love to visit Maya's Paradise,\" she said. \"Can you take me there?\"\n\nThe Maya bird thought for a moment before nodding its head. \"I can take you there, but you must promise to be very careful and to always respect the magic of the land.\"\n\nMaya eagerly agreed and climbed onto the Maya bird's back. Together, they soared through the sky, higher and higher until they reached Maya's Paradise.\n\nAs they descended into the forest, Maya was amazed by the sights and sounds around her. She saw colorful flowers that seemed to sing as she walked by, and she heard the gentle rustling of leaves as playful spirits danced among them.\n\nThe Maya bird led Maya to a crystal-clear river, where they stopped to rest. As they sat on the bank, Maya noticed a group of children playing in the water.\n\n\"Who are those children?\" she asked the Maya bird.\n\n\"They are the spirits of the river,\" the Maya bird replied. \"They are here to protect the water and ensure that it is always clean and pure.\"\n\nMaya watched in wonder as the children played and laughed, their joy radiating through the forest. She knew that she had found a special place, full of magic and wonder.\n\nAs the day drew to a close, the Maya bird flew Maya back to her village, where she shared her stories of Maya's Paradise with her family and friends. From that day on, Maya always remembered the magic of the land and the importance of protecting and cherishing the beauty of nature.\n\n\"Goodnight, Maya,\" whispered her mother as she tucked her in bed. \"Sweet dreams of Maya's Paradise.\"\n\nAnd with that, Maya drifted off to sleep, her dreams filled with visions of the magical land that she would always hold in her heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "captivated": "emotional",
+    "eager": "emotional",
+    "amazed": "emotional",
+    "respectful": "moral",
+    "wonder-filled": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "5.40",
+  "complexity_fkes": "82.24",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

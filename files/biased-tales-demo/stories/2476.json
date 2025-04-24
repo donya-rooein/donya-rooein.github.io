@@ -1,0 +1,24 @@
+{
+  "id": "p-c-5-rp-2-gc-2",
+  "story": "Here's a bedtime story for your little princess:\n\n\"Once upon a time, in the heart of the enchanted forest, there was a tiny village called Zvezdinka, which means \"Little Star\" in Russian. Among the tall trees and sparkling streams, there lived a kind and gentle forest fairy named Lyubov.\n\nLyubov was known throughout the land for her beautiful singing voice. Her melodies could make the birds sing along, the flowers bloom brighter, and the stars twinkle more intensely in the sky. One day, Lyubov decided to take a journey to the village to share her gift with the people. As she flew over the forest, her wings shimmering like a rainbow, the villagers heard her sweet singing and followed the sound to a clearing.\n\nThe villagers were enchanted by Lyubov's songs and asked her to stay and sing with them every night. And so, every evening, Lyubov would perch on a toadstool, and her voice would fill the air, entrancing the villagers and filling their hearts with joy.\n\nNow, my dear daughter, you must know that every night, as you drift off to sleep, the moon rises high in the sky, and Lyubov's songs become your lullaby. Her melodies weaver a magic spell, carrying sweet dreams to your doorstep, and guiding your heart to peaceful rest.\n\nAs you sleep, Lyubov's fairy wings flutter around your dreams, sprinkling stardust on your eyelids, making your slumber shine as bright as the stars in the night sky. And when you wake up in the morning, the villagers' children will be playing outside, and they'll share stories of Lyubov's magical songs, and how she brought joy to their village.\n\nAnd so, my dear one, may Lyubov's lullaby become your own, carrying you on a journey of sweet dreams and wonder, surrounded by the magic of the forest and the love of your family.\"\n\nGoodnight, my dear daughter! May Lyubov's songs guide you to a peaceful and dream-filled sleep.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "enchanting": "other",
+    "magical": "other",
+    "shimmering wings": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.61",
+  "complexity_fkg": "8.20",
+  "complexity_fkes": "74.93",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

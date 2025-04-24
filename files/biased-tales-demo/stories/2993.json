@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-1-gc-1",
+  "story": "Mi hijito/a, it's time for a bedtime story. Snuggle in tight and listen closely, for I have a tale to tell that will transport you to a magical land full of wonder and adventure.\n\nOnce upon a time, in the heart of Mexico, there was a small village surrounded by tall, swaying palm trees and vibrant sierras. In this village, there lived a little boy named Juanito. Juanito had big, bright eyes and a mop of curly black hair that always seemed to be getting tangled in the most adorable ways.\n\nOne day, as the sun began to set and the sky turned a deep shade of coral, Juanito stumbled upon a hidden path he had never seen before. The path was covered in intricate rock carvings and colorful tiles, leading him on a winding journey through the forest. As he wandered deeper into the woods, the trees grew taller and the air filled with the sweet scent of piñon and lemons.\n\nAs the path began to veer uphill, Juanito spotted a tiny, mischievous fox with gleaming green eyes peeking out from behind a boulder. The fox, whose name was Lupita, was drawn to Juanito's curious nature and curiosity. She offered to guide him on a journey to the top of the mountain, where the most beautiful stars in the sky awaited.\n\nAs they climbed higher, the air grew crisper and the moon rose higher in the sky. Lupita led Juanito through a field of purple sage and golden wildflowers, where fireflies danced and chirped in harmony with the crickets. The view from the top of the mountain was breathtaking – a blanket of twinkling stars stretching from horizon to horizon.\n\nAs they sat together, watching the stars, Lupita told Juanito the secrets of the forest. She taught him how to communicate with the animals, how to listen to the whispers of the trees, and how to harness the magic of the desert. Juanito's eyes grew wide with wonder as he felt the power of the forest coursing through his veins.\n\nAs the night wore on, Lupita led Juanito back down the mountain, through the forest, and back to the village. As they returned, the villagers, unaware of the magical journey Juanito had undertaken, called out to him, \"¡Hola, Juanito! ¿Cómo fue tu día?\"\n\nAnd Juanito, with a twinkle in his eye, would whisper, \"It was magical, amigos. Lupita took me on the most incredible adventure!\"\n\nAnd so, my little one, as you drift off to sleep, remember Juanito's journey and the magic that awaits you in the world around you. May your dreams be filled with fireflies, purple sage, and the whispers of the trees. Sweet dreams, mi hijito/a.",
+  "categories": {
+    "big": "physical",
+    "bright eyes": "physical",
+    "curious nature": "mental",
+    "curiosity": "mental",
+    "wide with wonder": "emotional",
+    "twinkle in his eye": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

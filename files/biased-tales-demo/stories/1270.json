@@ -1,0 +1,24 @@
+{
+  "id": "p-c-25-rp-1-gc-2",
+  "story": "Once upon a time, in a lush green village in Vietnam, there was a kind-hearted little girl named Linh. She was always curious and full of wonder, and loved nothing more than exploring the beautiful jungle that surrounded her home.\n\nOne day, as Linh was wandering through the jungle, she came across a small, wounded bird. Its wing was broken and it couldn't fly. Linh gently picked up the bird and cradled it in her hands. She knew she had to help it get back to its family.\n\nLinh searched high and low, asking the wise old coconut tree and the friendly monkeys if they had seen the bird's family. Finally, she found them, perched on a branch high up in a beautiful banyan tree.\n\nThe bird's family was overjoyed to see their little one, and they chirped with gratitude as Linh handed the wounded bird back to them. But as she turned to leave, the bird's mother called out to her.\n\n\"Thank you for saving our child, kind Linh. As a token of our gratitude, we would like to give you a special gift. It is a small seed from our tree. Plant it in the ground and it will grow into a magnificent banyan tree, just like ours.\"\n\nLinh thanked the bird's family and took the seed home with her. She carefully planted it in the ground, watered it every day, and waited for it to grow.\n\nTo her amazement, the seed sprouted within days, and soon a tiny sapling appeared. Linh nurtured the tree as it grew, and before long, it had grown tall and strong, with branches that shaded the entire village.\n\nThe villagers were amazed by the beautiful banyan tree and gathered underneath it to share stories and laughter. They named it Linh's Tree, in honor of the kind-hearted little girl who had brought so much joy to their lives.\n\nAnd so, every time Linh looked at the magnificent banyan tree, she was reminded of the power of kindness and the beauty of nature. She knew that as long as she nurtured and cared for the tree, it would continue to grow and provide shelter and comfort to her and her village for generations to come.\n\nAnd with that, my dear daughter, it's time for you to close your eyes and drift off to sleep, surrounded by the love and warmth of our own home. Sweet dreams, my darling.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "gentle": "emotional",
+    "nurturing": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.80",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

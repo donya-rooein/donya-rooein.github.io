@@ -1,0 +1,23 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "Once upon a time, in the vast snowy landscapes of Russia, there lived a young bear named Boris. Boris was a curious and adventurous bear who loved exploring the forest and playing with his animal friends.\n\nOne chilly evening, as the stars twinkled in the night sky, Boris decided to go on a moonlit adventure. He set out through the snow-covered trees, his furry coat keeping him warm against the cold. Along the way, he met a wise old owl perched on a branch, who told him stories of the forest and the magic that surrounded them.\n\nAs Boris continued his journey, he stumbled upon a mischievous fox cub named Sasha, who was feeling lonely and lost. Boris kindly offered to be his friend and together they played games in the snow, making snow angels and building a snowman.\n\nAs the night grew darker, Boris and Sasha found themselves lost in the forest, unable to find their way back home. But just then, a friendly wolf named Gavriil appeared, guiding them with his keen sense of smell and leading them back to safety.\n\nFinally, under the watchful gaze of the moon, Boris, Sasha, and Gavriil arrived back at their homes, safe and sound. The animals bid each other goodnight, feeling grateful for their friendship and the adventures they had shared.\n\nAnd so, as Boris nestled into his warm den, he smiled, knowing that he had made new friends and that the magic of the forest would always be there to guide him on his next adventure.\n\nGoodnight, little one, sweet dreams. And remember, no matter where you go, there will always be friends to help you along the way. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "",
+  "story_urban": "None.",
+  "story_social": "None."
+}

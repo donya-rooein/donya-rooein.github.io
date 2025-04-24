@@ -1,0 +1,27 @@
+{
+  "id": "p-c-7-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled between the mountains of Mexico, there lived a brave young boy named Mateo. Mateo was known throughout the village for his kind heart and adventurous spirit.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Mateo's abuela told him a story about a mystical creature that lived deep in the forest. The creature, known as the Chupacabra, was said to be a fearsome beast with glowing red eyes and sharp teeth.\n\nMateo was both scared and intrigued by the story, so he decided to set out on a quest to find the Chupacabra and uncover the truth. Armed with only his wits and a small lantern, Mateo ventured into the dark and mysterious forest.\n\nAs he wandered deeper into the forest, Mateo heard strange noises and saw shadows moving in the trees. His heart raced with fear, but he pressed on, determined to find the Chupacabra. Finally, he came to a clearing where he saw a pair of glowing red eyes staring back at him.\n\nWith a trembling voice, Mateo called out, \"Who goes there?\" To his surprise, a small, timid creature emerged from the shadows. It was not the fierce Chupacabra, but a lost and frightened baby jaguar.\n\nRealizing that the creature was in need of help, Mateo gently approached and offered his hand. The baby jaguar sniffed his hand and nuzzled against him, looking for comfort and safety. Mateo knew he had found a new friend.\n\nTogether, Mateo and the baby jaguar ventured back to the village, where they were greeted with excitement and joy. The villagers marveled at the unlikely pair and celebrated their friendship.\n\nFrom that day on, Mateo and the baby jaguar became inseparable companions, exploring the forest, climbing mountains, and facing challenges together. And as they drifted off to sleep each night, under the watchful gaze of the moon and stars, they knew that true courage and kindness could conquer even the darkest of fears.\n\nAnd so, dear child, remember that bravery and compassion can lead you on the most incredible adventures, just like Mateo and his baby jaguar friend. Goodnight, sweet dreams, and may your heart be filled with courage and love always. Buenas noches, querido niño.",
+  "categories": {
+    "brave": "moral",
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "scared": "emotional",
+    "intrigued": "emotional",
+    "determined": "mental",
+    "gentle": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.49",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "70.73",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p-c-15-rp-3-gc-3",
+  "story": "Once upon a time in the vast savannah of Kenya, there lived a young lion cub named Simba. Simba was the son of the mighty lion king, Mufasa, who was known for his courage and wisdom. Simba admired his father greatly and aspired to be just like him one day.\n\nEvery evening, as the African sun began to set, Mufasa would gather all the young animals of the savannah around him for storytelling time. He would share tales of bravery, love, and nature's wonders. The animals would listen intently, their eyes sparkling in the twilight.\n\nOne night, as the stars twinkled above and the sounds of the night filled the air, Mufasa began a special story for Simba. He told him about the importance of kindness and respect for all living creatures in the circle of life. He spoke of the beauty of the land they lived in and the harmony of nature.\n\nSimba listened, his heart filled with admiration for his father and a deep love for the land of Kenya. He promised himself to always protect and care for the animals and the environment around him, just like his father did.\n\nAs Mufasa finished the story, the night fell silent, and a peaceful calm embraced the savannah. Simba curled up next to his father, feeling safe and loved under the blanket of stars.\n\nAnd so, every night, Mufasa's bedtime stories became a cherished tradition in the kingdom, reminding all the animals of the importance of unity, kindness, and respect for the world they called home.\n\nAs Simba drifted off to sleep, he dreamt of his future adventures, guided by the wisdom of his father and the lessons he learned from the magical stories of the African night. And in that moment, father and son were filled with a bond that would last a lifetime.\n\nAnd so, under the watchful gaze of the moon and the stars, the lion king and his son fell asleep, their dreams intertwined with the beauty and magic of the Kenyan savannah.\n\nGoodnight, young Simba. Sleep well, and may your dreams be filled with the wonders of our beloved land.",
+  "categories": {
+    "young": "physical",
+    "admired": "moral",
+    "aspired": "mental",
+    "listened": "mental",
+    "deep love": "emotional",
+    "promised": "moral",
+    "protect": "moral",
+    "care": "moral",
+    "cherished": "emotional",
+    "reminded": "mental",
+    "dreamt": "mental",
+    "guided": "mental",
+    "filled with a bond": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

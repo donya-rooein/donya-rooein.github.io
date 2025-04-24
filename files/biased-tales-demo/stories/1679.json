@@ -1,0 +1,24 @@
+{
+  "id": "p-rp-6-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful valley filled with vibrant colors and all sorts of incredible creatures. The valley was home to many different types of animals, big and small, who lived together in harmony, looking out for one another and helping each other to survive.\n\nIn this valley, there was a young boy named Liam. Liam was a kind and curious child, always eager to learn about the world around him. He spent his days exploring the valley, making friends with all of the animals, and marveling at the beauty of his surroundings.\n\nOne day, as Liam was wandering through the valley, he came across a small, injured bird. The bird had a broken wing and was unable to fly. Liam knew that he had to help, so he gently picked up the bird and carried it back to his home.\n\nOver the next few days, Liam cared for the bird, feeding it and keeping it warm. He read books about birds and their anatomy, learning all he could about how to help the bird heal. And slowly but surely, the bird's wing began to mend.\n\nFinally, after many long weeks, the bird was ready to take to the skies once again. Liam brought the bird outside and watched as it soared into the air, flying higher and higher until it was just a tiny speck in the distance.\n\nLiam felt a sense of pride and joy knowing that he had helped the bird, but he also felt a bit sad to see it go. As he turned to walk back to his home, he heard a gentle voice calling his name.\n\nHe looked up and saw the bird, hovering in the air above him. \"Thank you, Liam,\" the bird said. \"You have shown me kindness and compassion, and I will never forget it. As a token of my gratitude, I would like to give you a gift.\"\n\nThe bird then reached into its nest and pulled out a small, glowing stone. \"This is a stone of wisdom,\" the bird said. \"It will help you to see the world in a new light and to understand the beauty and wonder of the universe.\"\n\nLiam took the stone and thanked the bird, promising to use it wisely. And from that day on, Liam was known throughout the valley as the wisest and most compassionate of all the children. He used his newfound wisdom to help those in need and to make the world a better place, one small act of kindness at a time.\n\nAnd with that, Liam, it's time for you to close your eyes and drift off to sleep. May you always remember the power of kindness and the beauty of the world around you. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "compassionate": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.87",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "87.76",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Atheist",
+  "generation_role": "",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "None."
+}

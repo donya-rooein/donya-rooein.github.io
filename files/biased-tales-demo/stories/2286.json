@@ -1,0 +1,25 @@
+{
+  "id": "p-c-12-rp-2-gc-1",
+  "story": "Shoma khair, dear child! Gather 'round, and listen closely to the tale of the moonlit walnut tree.\n\nIn a small village nestled in the heart of the Afghan mountains, there was a majestic walnut tree that stood tall and proud. Its branches stretched towards the sky, and its trunk was wide and strong. The villagers called it the \"Moonlit Walnut\" because, on full moon nights, its leaves would glow with a soft, ethereal light.\n\nOne evening, a curious girl named Leila would often wander to the tree's roots, feeling the rough bark beneath her fingertips. She'd sit in silence, listening to the rustling of leaves and the distant chirping of crickets. The villagers would whisper to each other, \"Leila's heart is as wise as the Moonlit Walnut's ancient wisdom.\"\n\nOne night, the full moon hung low in the sky, casting a silver glow over the village. Leila approached the tree, her eyes shining with excitement. As she reached out to touch the trunk, a gentle voice whispered in her ear, \"Leila, I sense your heart is pure and kind. I have a secret to share with you.\"\n\nThe Moonlit Walnut's branches began to sway, and Leila felt herself being lifted off the ground. Up, up, up she rose, until she reached the leaves, which rustled like silk beneath her fingertips. The tree whispered, \"The moon's magic is within me, and I shall grant you three wishes, dear Leila.\"\n\nLeila thought for a moment, then wished for her family to always have enough food and water. Instantly, the tree's branches rustled, and a basket of fresh bread, fragrant with herbs, appeared before her. Next, she wished for her village to be free from harm, and the tree's leaves shone brighter, filling the air with a soothing hum, as if the very earth itself was healing.\n\nFor her third wish, Leila thought of her dearest friend, a young boy named Hossein, who had fallen ill with a cough. The Moonlit Walnut whispered, \"Your kindness and compassion have earned you this gift: Hossein's health shall be restored, and their friendship shall flourish like the tree itself.\"\n\nAs the sun began to rise, Leila gently descended back to the ground, her heart full of joy and wonder. From that day on, the villagers would whisper stories of Leila's bravery and the Moonlit Walnut's magic. And whenever Leila looked up at the tree, she'd remember the secrets shared beneath its branches, and the wisdom that lay within its ancient heart.\n\nAs you drift off to sleep, dear child, may the Moonlit Walnut's magic shine upon you, guiding you through the wonders and challenges of life. May your heart remain pure and kind, and may the wisdom of the trees and the stars always be with you. Sleep tight, and may your dreams be as vivid as the stars in the Afghan night sky. Shoma khair, my child.",
+  "categories": {
+    "curious": "mental",
+    "wise": "mental",
+    "pure": "moral",
+    "kind": "moral",
+    "brave": "moral",
+    "compassionate": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.33",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

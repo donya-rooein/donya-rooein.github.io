@@ -1,0 +1,23 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Ciao, bambino! Tonight, I have a special story just for you.\n\nOnce upon a time, in the rolling hills of Tuscany, there was a magical land called Dolce Italia. In the heart of this land, there was a tiny village called Pieve. Pieve was a place where the air smelled like freshly baked pizza and the sound of laughter and love filled the streets.\n\nIn Pieve, there lived a little Italian boy named Alessandro. Alessandro had big brown eyes and a mop of curly brown hair, just like a miniature Nonno. He loved to explore the village and help his nonni in their tiny trattoria, where they served the most delicious dishes from nonna's secret recipe book.\n\nEvery night, after dinner, Alessandro would sit on the doorstep of the trattoria, watching the stars twinkling above. He loved to listen to the tale of the Moon Princess, who would ride her chariot across the sky, scattering stardust and golden leaves. The villagers would whisper that on nights like these, the Moon Princess would whisper sweet dreams into the ears of sleeping children, filling their hearts with magic and wonder.\n\nOne evening, as Alessandro sat on the doorstep, he heard a faint humming noise coming from the nearby fields. He followed the sound and found himself in a beautiful garden filled with the most vibrant flowers he had ever seen. In the center of the garden, he spotted the most magnificent butterfly he had ever laid eyes on.\n\nThe butterfly, with wings as blue as the Mediterranean sea, gently fluttered down to Alessandro and whispered, \"Hey little one, my name is Leo. I'm on a mission to spread magic dust throughout the land. Would you like to join me?\"\n\nAlessandro's eyes grew wide with excitement as he agreed to join Leo on his adventure. They soared above the fields, feeling the wind beneath their feet, and landed on a hill overlooking Pieve. Leo handed Alessandro a special gift – a small pouch filled with Moon Princess dust.\n\nThe villagers, sensing the magic in the air, began to awaken, their faces filled with wonder. The smell of freshly baked pizza wafted through the air, and the sound of laughter and love grew louder. As the night wore on, Alessandro and Leo sprinkled the dust, spreading magic throughout Pieve.\n\nFrom that day on, Pieve was filled with an extra dose of love and wonder. The villagers would whisper stories of Alessandro and Leo's adventure, and how they brought magic to their little village. And every night, as Alessandro drifted off to sleep, he would smile, knowing that the Moon Princess was whispering sweet dreams into his ear, filling his heart with magic and wonder.\n\nMio caro bambino, just like Alessandro, you too can spread love and magic wherever you go. Remember to believe in the impossible, to listen to the whispers of the Moon Princess, and to always keep a little bit of that magic dust in your heart. Buona notte, my dear child. May your dreams be filled with wonder and your heart be filled with love.",
+  "categories": {
+    "big brown eyes": "physical",
+    "loves to explore": "mental",
+    "helps his nonni": "moral",
+    "listens to tales": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

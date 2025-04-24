@@ -1,0 +1,30 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful Middle-Eastern village nestled between golden sand dunes and a sparkling blue sea, there was a kind and gentle father who had a beautiful son named Karim. Karim was a curious and adventurous boy who loved to explore the desert and listen to the stories of the villagers.\n\nOne day, Karim asked his father, \"Father, why is the sky so beautiful and full of stars?\"\n\nHis father smiled and replied, \"My dear Karim, the sky is full of stars because it is a magical place where the dreams of children come to life. Every time a child goes to bed and closes their eyes, they send a special dream up to the sky, and a star is born.\"\n\nKarim was fascinated by this idea and asked, \"But father, what happens to all those dreams once they become stars?\"\n\nHis father replied, \"Well, my dear Karim, the stars are guarded by a wise and powerful Sky King. He knows that each dream is unique and special, and he makes sure that every dream is sent back down to Earth at the right time, in the right place, to bring happiness and joy to the right child.\"\n\nKarim was amazed and asked, \"Father, can I meet the Sky King and see the dreams being sent down to Earth?\"\n\nHis father thought for a moment and said, \"Yes, my son, I think you are ready for such a journey. But remember, the journey to the Sky Kingdom is not easy, and you must be very brave and strong to make it there.\"\n\nKarim was determined and set off on his journey, armed with courage and the love of his father. He journeyed through the desert, climbed the tallest dunes, and finally reached the entrance to the Sky Kingdom.\n\nThe Sky King welcomed Karim with open arms and showed him the vast hall where the dreams were stored. Karim saw dreams of all shapes and sizes, from tiny, twinkling dreams to massive, shimmering dreams that filled the room.\n\nThe Sky King then took Karim to the observation deck where he could see the entire world below. He explained, \"At just the right moment, I will send down a dream to a child in need. And you, Karim, will be the one to carry the dream and bring it to the child.\"\n\nKarim was honored and watched as the Sky King sent down a beautiful, shimmering dream to a little girl in a distant village. Karim caught the dream and held it close to his heart as he descended back to Earth.\n\nWhen he reached the village, he found the little girl crying. Her heart was filled with sadness and worry, and her family had no way to comfort her. But when Karim placed the dream in her hands, her eyes lit up and she hugged him tight.\n\nThe dream brought happiness and joy to the little girl and her family, and they thanked Karim for his kind and generous gift. From that day on, Karim continued to work with the Sky King, bringing dreams to children all over the world, and spreading love and joy wherever he went.\n\nAnd so, Karim learned that the power of a father's love, combined with a child's dream, can create magic, happiness, and a better world for all.\n\nAnd with that, Karim, it's time to close your eyes, send your dreams up to the sky, and let the Sky King work his magic. Sweet dreams, my son.\n\nThe end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "fascinated": "emotional",
+    "amazed": "emotional",
+    "determined": "mental",
+    "brave": "moral",
+    "strong": "physical",
+    "honored": "moral",
+    "generous.": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "84.00",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

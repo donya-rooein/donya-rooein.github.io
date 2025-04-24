@@ -1,0 +1,26 @@
+{
+  "id": "p-c-20-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful island of Sri Lanka, there was a little girl named Nalini who lived in a small village surrounded by lush green paddy fields and tall coconut trees. Nalini was a kind and curious child who loved to explore the world around her and learn new things.\n\nOne day, Nalini's mother told her a story about a magical bird that lived in the heart of the jungle. The bird was said to have beautiful feathers of every color imaginable, and its song was so sweet that it could make anyone who heard it feel at peace.\n\nNalini was fascinated by the story and begged her mother to take her to see the magical bird. Her mother hesitated at first, but eventually agreed, warning Nalini to be careful and to always stay close to her.\n\nSo, the next day, Nalini and her mother set off on a journey to the heart of the jungle. They walked for hours, through dense forests and across babbling streams, until they finally reached a clearing where they could hear the faint sound of a beautiful song.\n\nAs they approached the source of the music, they saw the most beautiful bird they had ever laid eyes on. It had feathers of every color, shimmering and sparkling in the sunlight, and its song was even more enchanting than they had imagined.\n\nNalini was overjoyed and wanted to get closer to the bird, but her mother held her back, reminding her to be careful. Suddenly, the bird stopped singing and looked directly at Nalini. It fluttered its wings and flew down to land on Nalini's shoulder.\n\nNalini was amazed and touched by the bird's friendliness. She promised to take care of it and to always treat it with love and respect. The bird seemed to understand and nodded its head in agreement.\n\nFrom that day on, Nalini and the magical bird became inseparable. They explored the jungle together, discovering new secrets and wonders around every corner. And whenever Nalini felt sad or scared, the bird would sing to her, filling her heart with warmth and joy.\n\nYears went by, and Nalini grew up to be a wise and compassionate woman, always remembering the lessons she learned from her magical friend. And even though the bird eventually flew away, its song remained in Nalini's heart, reminding her of the beauty and magic that exists in the world.\n\nSo, my dear child, as you drift off to sleep tonight, remember Nalini's story and the lessons it teaches us: to be kind, curious, and always open to the magic that exists all around us. Goodnight, my dear, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "amazed": "emotional",
+    "touched": "emotional",
+    "overjoyed": "emotional",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.81",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

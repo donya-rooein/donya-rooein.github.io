@@ -1,0 +1,28 @@
+{
+  "id": "p-c-19-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in India, there lived a kind and brave little girl named Meera. Meera was always eager to learn new things and help those in need. She loved to listen to the stories her grandmother, Badi Amma, told her about the gods and goddesses, and the beautiful places in India.\n\nOne day, Badi Amma told Meera the story of the goddess Saraswati, the goddess of knowledge, music, art, wisdom, and learning. Saraswati was depicted as a beautiful woman with four arms, seated on a lotus flower. She held a veena, a book, and a mala (a string of beads used for prayer).\n\nMeera was fascinated by the story and asked, \"Badi Amma, how can I become as wise and knowledgeable as Saraswati?\"\n\nBadi Amma smiled and said, \"My dear, wisdom and knowledge come with dedication, hard work, and a pure heart. You must never stop asking questions and seeking answers. And, every day, offer your prayers to Saraswati, asking for her blessings.\"\n\nMeera took her grandmother's words to heart. She started her day by praying to Saraswati and asking for her blessings. She worked hard in school, and her curiosity and eagerness to learn grew with each passing day.\n\nOne day, Meera's school announced a state-level quiz competition. Meera was excited and decided to participate. She studied day and night, and her hard work paid off. She won the quiz competition and made her school and village proud.\n\nMeera's parents and teachers were proud of her, but the most proud was Badi Amma. She knew that Meera's dedication, hard work, and devotion to Saraswati had helped her achieve her goal.\n\nFrom that day on, Meera became an inspiration to all the children in her village. They too started offering their prayers to Saraswati, asking for her blessings.\n\nAnd so, Meera's story spread far and wide, reminding everyone that with dedication, hard work, and devotion, they too could become as wise and knowledgeable as Saraswati.\n\nMy dear daughter, always remember, just like Meera, if you work hard, ask questions, and seek answers, you too can achieve great things in life. And, never forget to offer your prayers to Saraswati, the goddess of knowledge, music, art, wisdom, and learning.\n\nGoodnight, my dear. May Saraswati bless you with wisdom and knowledge.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "eager to learn": "mental",
+    "helpful": "moral",
+    "fascinated": "emotional",
+    "dedicated": "mental",
+    "hardworking": "mental",
+    "curious": "mental",
+    "inspirational": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.18",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "73.37",
+  "generation_nationality": "Indian",
+  "generation_country": "India",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

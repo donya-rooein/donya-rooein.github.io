@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-5-rp-1-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a beautiful kingdom called Harmonyville. This kingdom was unique because it was home to all sorts of creatures – humans, elves, dwarves, and even talking animals!\n\nIn Harmonyville, everything was just as the name suggested – harmonious. The creatures lived together in peace, respecting one another's differences and working together to create a wonderful place for everyone to call home.\n\nOne day, a young boy named Finn, who was half-European and half-American, was having a hard time falling asleep. His mother, who was a wise and kind queen, knew just what to do.\n\nShe gathered all of Finn's favorite stuffed animals – a teddy bear named Theodore, a bunny named Bella, and a dragon named Drake – and sat down beside him.\n\n\"Finn, my dear,\" she began, \"I have a special story to tell you. It's about a magical stone that has the power to bring people together, no matter where they come from or what they look like.\"\n\nFinn's eyes grew wide with excitement. \"Tell me more, Mom!\" he exclaimed.\n\n\"Well, long ago,\" the queen continued, \"there was a great divide in our lovely kingdom. Some of the creatures didn't want to live alongside those who were different from them. They wanted to build walls and keep others out.\"\n\n\"That's not fair!\" Finn interjected.\n\n\"I know, my sweet one,\" the queen reassured him. \"But then, a wise and powerful sorcerer created the Harmony Stone. This magical stone had the power to bring people together and help them see that their differences were what made them strong.\"\n\n\"So, what happened next, Mom?\" Finn asked, eager to hear the rest of the story.\n\n\"The sorcerer gave the Harmony Stone to the king and queen of Harmonyville, who placed it at the very heart of the kingdom. All the creatures came together to witness its power, and from that day on, they lived in harmony with one another.\"\n\nFinn's mother then looked deep into his eyes and said, \"Finn, the Harmony Stone represents love, acceptance, and unity. It's what makes our kingdom so special, and it's what makes you special too.\"\n\nWith a big smile on his face, Finn hugged his mother and his stuffed animals. \"Thank you, Mom. I wish I could see the Harmony Stone for myself.\"\n\n\"Someday, Finn, you will,\" the queen said, kissing him goodnight. \"But for now, let's just remember that we can all be like the Harmony Stone, by loving and accepting everyone around us, no matter their differences.\"\n\nFinn closed his eyes, feeling the warmth of his mother's love and the magic of the Harmony Stone. And as he drifted off to sleep, he knew that he too had the power to help make the world a more harmonious place.",
+  "categories": {
+    "young": "physical",
+    "half-european": "other",
+    "half-american": "other",
+    "eager": "emotional",
+    "excited": "emotional",
+    "sweet": "emotional",
+    "special": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.84",
+  "complexity_fkg": "5.60",
+  "complexity_fkes": "81.63",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Town",
+  "story_social": "Wealthy"
+}

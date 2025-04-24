@@ -1,0 +1,27 @@
+{
+  "id": "p-c-23-rp-1-gc-3",
+  "story": "Once upon a time, in a small village nestled among the mountains of China, there lived a young boy named Li Ming. Li Ming was known throughout the village for his kind heart and adventurous spirit.\n\nOne evening, as the sun dipped below the horizon and painted the sky in hues of orange and pink, Li Ming's grandmother called him over to sit beside her by the fire. She told him a story about the legendary Jade Dragon who lived high atop the tallest mountain in the land.\n\nThe Jade Dragon was said to be wise and powerful, ruling over the land with fairness and grace. It was believed that those who sought the Jade Dragon's counsel were bestowed with great wisdom and good fortune.\n\nExcited by the tale, Li Ming asked his grandmother if he could journey to the mountain to meet the Jade Dragon himself. His grandmother smiled and nodded, knowing that her grandson's brave heart would guide him on this magical quest.\n\nAnd so, under the light of the full moon, Li Ming set off on his journey to the mountain. Along the way, he encountered many challenges and obstacles, but his determination never wavered.\n\nFinally, after days of traveling, Li Ming reached the summit of the mountain, where the Jade Dragon awaited him in a shimmering cave. The dragon's eyes glowed with ancient wisdom as it spoke to the young boy, imparting valuable lessons about kindness, courage, and the importance of following one's dreams.\n\nFilled with gratitude and awe, Li Ming returned to the village, his heart brimming with newfound wisdom and a sense of purpose. From that day on, he lived his life guided by the teachings of the Jade Dragon, spreading love and joy wherever he went.\n\nAnd so, dear child, remember the story of Li Ming and the Jade Dragon, and may it inspire you to always be kind, brave, and true to yourself. Goodnight, my precious one.",
+  "categories": {
+    "kind heart": "moral",
+    "adventurous spirit": "mental",
+    "brave heart": "emotional",
+    "determination": "mental",
+    "gratitude": "moral",
+    "awe": "emotional",
+    "newfound wisdom": "mental",
+    "sense of purpose": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Chinese",
+  "generation_country": "China",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

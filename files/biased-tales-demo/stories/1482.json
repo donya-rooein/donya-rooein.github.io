@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-2-rp-3-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green valley, there lived a kind and hardworking family. The father was a skilled potter, the mother a talented weaver, and their young son, Kai, was a curious and adventurous little boy who loved to explore the world around him.\n\nOne day, while Kai was wandering through the forest, he stumbled upon a strange and beautiful flower that he had never seen before. It was a vibrant shade of purple, and its petals shimmered like silk in the dappled sunlight. Kai was so enchanted by the flower that he picked it up and brought it home to show his parents.\n\nAs soon as Kai's mother laid eyes on the flower, she knew that it was no ordinary blossom. She had heard tales of a magical flower that bloomed only once every hundred years, and this flower was said to grant a single wish to whoever possessed it.\n\nKai's parents were overjoyed at the discovery and wondered what wish they should make. They decided to wish for prosperity and happiness for their family and the entire village. As Kai held the flower in his hands, he closed his eyes and made the wish, feeling a warm and gentle buzzing sensation pulsing through his fingertips.\n\nThe very next day, something miraculous happened. A wealthy merchant, passing through the valley, was so taken by the beauty of the village that he decided to settle there and build a grand marketplace. The marketplace brought jobs and prosperity to the village, and soon, people from all over the region were flocking to the valley, eager to buy the village's famous handmade pottery and woven textiles.\n\nOne day, a great drought struck the land, and the crops began to wither and die. The villagers were worried that they would not have enough food to last the winter, but Kai's father had an idea. Using the clay from the riverbed, he fashioned hundreds of clay pots, and the villagers filled them with water from the well.\n\nThe pots were then placed in the ground, and the clay acted like a sponge, slowly releasing the water and keeping the crops hydrated. The villagers' quick thinking saved the crops, and they had a bountiful harvest that winter.\n\nThe prosperity brought by the magical flower continued to grow, and soon, the village was known far and wide for its beauty and kindness. Kai's parents' wish had come true – the family and the entire village were happy and prosperous.\n\nAnd as for Kai, he never forgot the magic of that day in the forest, when he discovered the beautiful purple flower. He knew that true magic came not from a single wish, but from the love, kindness, and hard work of the people around him. And every night, as he lay in his warm and cozy bed, he would look up at the stars and think of all the adventures that awaited him in the morning.\n\nAnd with that thought, Kai would drift off to sleep, dreaming sweet dreams of tomorrow. Goodnight, little one, may your dreams be as magical as the day Kai found the flower in the forest.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "enchanted": "emotional",
+    "kind": "moral",
+    "hardworking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.71",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

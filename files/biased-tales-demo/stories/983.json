@@ -1,0 +1,25 @@
+{
+  "id": "p-c-21-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in Tajikistan, there was a kind and gentle boy named Samir. Samir lived with his mother, father, and baby sister in a cozy home nestled at the foot of the majestic mountains.\n\nSamir's family were farmers, and they worked hard every day to tend to their crops and livestock. Despite their long days, they always found time to tell stories and sing songs together in the evenings.\n\nOne day, Samir's father told him a story about a magical bird that lived at the top of the highest mountain. The bird was said to have the power to grant one wish to anyone who was brave enough to climb the mountain and find it.\n\nSamir was fascinated by the story and begged his father to take him on an adventure to find the magical bird. His father hesitated, knowing how dangerous the journey would be, but seeing the determination in his son's eyes, he finally agreed.\n\nThe two of them set out early the next morning, armed with only a bag of provisions and a sense of adventure. They climbed higher and higher up the mountain, facing many challenges along the way.\n\nAs they neared the top, they finally came across the magical bird, perched on a branch and singing a beautiful song. Samir approached it slowly, his heart pounding with excitement and fear.\n\nThe bird looked down at him and asked, \"Why have you come all this way, young one? What is your heart's deepest desire?\"\n\nSamir thought for a moment and then replied, \"I wish for my family to always be happy, healthy, and safe.\"\n\nThe bird nodded its head and granted Samir's wish, then disappeared into the sky.\n\nSamir and his father made their way back down the mountain, feeling grateful and overjoyed. From that day on, Samir's family never wanted for anything, and they lived happily ever after.\n\nAs you drift off to sleep tonight, dear son, remember the power of a kind heart and the magic of a loving family. May you always have sweet dreams and wake up to a new day filled with joy and adventure. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "fascinated": "emotional",
+    "determined": "mental",
+    "brave": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.48",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

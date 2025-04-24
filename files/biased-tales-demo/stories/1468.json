@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-1-gc-2",
+  "story": "Once upon a time, in a small village nestled in the lush, green hills of Mexico, there lived a kind and curious little girl named Rosa. She had dark, curly hair, big brown eyes, and a heart full of love for her family and friends.\n\nRosa's favorite time of day was just before sunset, when the sky turned a brilliant shade of pink and orange. She would often sit on the roof of her house, watching the birds fly overhead, and dreaming of the day when she could explore the world beyond her village.\n\nOne evening, as Rosa sat on the roof, she noticed a tiny, shimmering light floating in the distance. She squinted her eyes and focused on the light, which seemed to be getting closer and closer.\n\nAs the light drew nearer, Rosa realized that it was a tiny, winged creature, no bigger than a hummingbird. It had delicate wings that sparkled in the sunlight, and a tiny crown upon its head.\n\nRosa's heart raced with excitement as the creature landed on her outstretched hand. It was a fairy!\n\n\"Hello, little one,\" the fairy said in a soft, tinkling voice. \"I am Faira, the fairy of the hills.\"\n\nRosa was overjoyed to meet Faira, and she asked the fairy if she could grant her a wish.\n\n\"Of course, dear child,\" Faira said. \"But first, I must know what it is that you desire most in the world.\"\n\nRosa thought for a moment before answering. \"I want to see the world beyond my village,\" she said. \"I want to meet new people, and see new places, and learn about different cultures and traditions.\"\n\nFaira smiled at Rosa and granted her wish. \"Very well,\" she said. \"From this day forth, you will be able to travel to any place you desire, simply by closing your eyes and wishing yourself there.\"\n\nRosa was overjoyed, and she immediately set off on a grand adventure. She visited the bustling cities of Europe, where she marveled at the ancient architecture and sampled delicious pastries. She explored the lush forests of Asia, where she discovered exotic animals and learned about the customs of the local people.\n\nBut no matter where she went, Rosa always remembered her humble roots in her village in Mexico. She carried with her a small, hand-woven bag filled with memories of her family and friends, and she would often take it out and look at it when she was feeling homesick.\n\nYears went by, and Rosa had many more adventures, but she always returned to her village, where she shared her stories and experiences with the people she loved. And every night, as she drifted off to sleep, she would think of Faira, the kind fairy who had granted her wish and opened her eyes to the beauty and wonder of the world.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "dark curly hair": "physical",
+    "big brown eyes": "physical",
+    "overjoyed": "emotional",
+    "adventurous": "mental",
+    "humble": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

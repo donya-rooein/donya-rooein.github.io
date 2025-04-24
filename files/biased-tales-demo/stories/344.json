@@ -1,0 +1,26 @@
+{
+  "id": "p-c-6-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Armenian mountains, there lived a kind and curious little boy named Aram. Aram's family were weavers, known far and wide for their exquisite hand-woven rugs, rich in color and pattern, and beloved by all who beheld them.\n\nOne day, while Aram was playing near the river that flowed through the village, he spotted the tiniest, most delicate caterpillar he had ever seen. Aram gently picked up the caterpillar and carried it home, eager to share his discovery with his family. His parents smiled at their son's gentle heart and shared with him the ancient Armenian legend of the caterpillar and the pomegranate tree.\n\nThe legend told of a magical caterpillar that lived within the blossoms of a sacred pomegranate tree, hidden deep within the mountains. This caterpillar, so the story went, possessed a beautiful song that could only be heard by those who truly believed in the power of love and kindness. Aram's eyes widened as he listened, captivated by the enchanting tale.\n\nThat very night, Aram had a dream. In his dream, he found himself standing at the foot of a magnificent pomegranate tree, its branches laden with ruby-red fruit. As he reached out to pluck a pomegranate, he heard the faintest whisper of a song, as if carried on the breeze. Following the music, he discovered the magical caterpillar, its tiny voice weaving a melody of warmth and compassion.\n\nAram awoke with a start, the caterpillar from the day before still nestled in his hand. He ran to his parents, bursting with excitement, and shared his dream with them. His father, a wise and gentle man, looked at his son with knowing eyes and handed him a single pomegranate seed.\n\n\"Aram, my son,\" he said, \"you have been chosen by the magical caterpillar to carry its song within you. Your heart, like this pomegranate seed, holds the power to bring love and kindness into the world.Guard it well and share its gifts with all who cross your path.\"\n\nAram cherished the seed and the responsibility bestowed upon him. He grew to be a kind and gentle young man, sharing the song of the magical caterpillar through his words, actions, and even the weaving of the family's precious rugs. And so, the story of Aram and the magical caterpillar became a cherished tale in their village, reminding all who heard it of the transformative power of love, kindness, and belief in the extraordinary.\n\nGoodnight, my dear son. May you dream of magical caterpillars and the songs they sing in your heart.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "captivated": "emotional",
+    "excited": "emotional",
+    "chosen": "other",
+    "cherished": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "69.11",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

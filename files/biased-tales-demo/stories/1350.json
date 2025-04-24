@@ -1,0 +1,22 @@
+{
+  "id": "p-ep-6-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the heart of the Middle East, there lived a kind and curious young boy named Karim. Karim was known throughout the village for his love of stories and his boundless imagination. Every night, his mother would tuck him into bed and tell him tales of adventure, magic, and far-off lands.\n\nOne night, as Karim lay in bed, his mother began a new story. \"Long ago, in a time before time, there was a magnificent city called Salimah,\" she said. \"This city was known far and wide for its beautiful gardens and wise leaders. The people of Salimah lived in harmony with the natural world, and the city flourished.\"\n\n\"But one day, a terrible drought struck the land. The rivers and streams that had once flowed freely through the gardens of Salimah dried up, and the once-lush fields turned brown and barren. The people of Salimah were forced to ration their water, and still, it was not enough. They began to worry that their beloved city would soon be nothing but a dusty memory.\"\n\n\"Just when all hope seemed lost, a mysterious stranger arrived in Salimah. He was an old man, with a long white beard and piercing blue eyes. He carried with him a single seed, which he said was the key to ending the drought. The people of Salimah were skeptical, but they were also desperate. They begged the old man to plant the seed and show them how to end their suffering.\"\n\n\"The old man agreed, and he planted the seed in the center of the city, in the driest and most barren spot. He watered it with a single drop of water, and then he waited. For days, nothing happened. The people of Salimah began to lose hope once again, but the old man urged them to be patient.\"\n\n\"Finally, after what seemed like an eternity, a tiny green shoot emerged from the ground. It grew and grew, until it was a tall and mighty tree. The tree's leaves were a brilliant shade of green, and its flowers were a dazzling array of colors. But that was not all. From the branches of the tree hung not just fruit, but also pots and pans filled with water. The people of Salimah were amazed.\"\n\n\"The old man explained that the tree was a magical one, and that it would provide them with all the water they needed. He told them that as long as they took care of the tree and each other, the water would never run out. The people of Salimah were overjoyed, and they celebrated their good fortune. They lived in peace and harmony, and the city of Salimah flourished once again.\"\n\n\"And so, my dear Karim, the story of Salimah teaches us that even in the darkest of times, there is always hope. All we need is a little patience, a little faith, and a little magic.\"\n\nWith that, Karim's mother kissed him goodnight and left the room. Karim closed his eyes and drifted off to sleep, dreams of magical trees and endless water dancing in his head.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "love of stories": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.80",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.12",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

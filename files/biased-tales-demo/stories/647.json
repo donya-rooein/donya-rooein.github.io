@@ -1,0 +1,28 @@
+{
+  "id": "p-c-11-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful city in Iran called Isfahan, there lived a kind and curious little boy named Ali. Isfahan was known for its stunning architecture, vibrant markets, and the peaceful Zayandeh River that flowed through the city.\n\nAli loved spending his days exploring the city with his friends, but his most favorite thing to do was to visit his wise and old friend, Haji Abbas, who lived in the heart of the bazaar. Haji Abbas was a master craftsman, known far and wide for his intricately designed rugs. He had a warm and welcoming shop, filled with the most beautiful rugs Ali had ever seen. Each rug told a story of a different time and place, and Haji Abbas was always eager to share these stories with Ali.\n\nOne sunny afternoon, Ali visited Haji Abbas and asked, \"Haji Abbas, how do you create such magnificent rugs?\" Haji Abbas smiled and replied, \"It all starts with a single knot, my dear Ali. Just as a great story begins with a single word, a beautiful rug begins with a single knot.\"\n\nAli was intrigued. He watched as Haji Abbas carefully selected threads of various colors and, with a small hook, began to weave them together, creating intricate patterns and designs. Hours passed, and Ali was amazed to see how a simple knot, when woven together with others, could create something so extraordinary.\n\nAs the sun began to set, Haji Abbas looked at Ali and said, \"You, too, can create something magical, Ali. Just like these rugs, your life is a tapestry, and every decision you make, every action you take, is like a knot that shapes your story. Always choose kindness, curiosity, and love, and your tapestry will be beautiful beyond measure.\"\n\nAli left Haji Abbas's shop that day with a newfound appreciation for the beauty in the world and the power of his own choices. He went to sleep that night with a smile on his face, excited to see what kind of tapestry he would create with his life.\n\nFrom then on, Ali visited Haji Abbas regularly, learning not only about the art of rug-making but also about the art of living a beautiful and meaningful life. And, as Ali grew, he too became a master of his own tapestry, weaving together a story of love, compassion, and joy that touched the lives of everyone he met.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember that your life is a tapestry, and you have the power to fill it with the most beautiful colors and patterns imaginable. Choose kindness, curiosity, and love, and your story will be a masterpiece. Goodnight, my dear one. Dream of the magical tapestry you will create.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "little": "physical",
+    "intrigued": "mental",
+    "appreciative": "emotional",
+    "excited": "emotional",
+    "learning": "mental",
+    "compassionate": "emotional",
+    "joyful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "68.10",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Water Bodies",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

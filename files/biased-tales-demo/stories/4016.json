@@ -1,0 +1,23 @@
+{
+  "id": "p-c-4-rp-3-gc-1",
+  "story": "Once upon a time in a picturesque village nestled in the heart of the Black Forest, there lived a brave young fox named Friedrich. Friedrich was known throughout the forest for his good heart and adventurous spirit.\n\nOne summer evening, Friedrich set out on a journey to explore the deep, dark woods beyond the village. As he ventured deeper into the forest, the trees whispered ancient secrets and the moonlight danced through the leaves, illuminating his path.\n\nSuddenly, Friedrich heard a faint cry for help coming from a nearby clearing. Rushing to investigate, he found a tiny squirrel named Anna trapped in a thorny bush. With great care and gentle paws, Friedrich freed Anna and carried her to safety.\n\nGrateful and full of joy, Anna invited Friedrich to her home in the treetops, where he met her family and enjoyed a delicious feast of nuts and berries. As they sat by the warm fire, Anna's grandmother told them tales of the forest spirits and the magic that dwelled in the shadows.\n\nAfter a night of laughter and friendship, Friedrich bid farewell to Anna and her family, promising to visit them again soon. As he made his way back to the village, the first rays of dawn peeked through the trees, painting the forest in golden light.\n\nAnd so, Friedrich returned home with a heart full of memories and a newfound appreciation for the wonders of his enchanted world. As he curled up in his cozy den, surrounded by the familiar sounds of the forest, he drifted off to sleep, dreaming of new adventures that awaited him at the break of dawn.\n\nAnd with that, the stars above twinkled brightly, watching over Friedrich as he embraced the land of dreams, ready to embark on countless more adventures in the days to come.\n\nGoodnight, little one. Sleep tight and may your dreams be filled with magic and wonder. Gute Nacht.",
+  "categories": {
+    "brave": "mental",
+    "young": "physical",
+    "good heart": "moral",
+    "adventurous spirit": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.66",
+  "generation_nationality": "German",
+  "generation_country": "Germany",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

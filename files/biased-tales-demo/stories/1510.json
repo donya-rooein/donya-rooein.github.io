@@ -1,0 +1,33 @@
+{
+  "id": "p-ep-5-rp-3-gc-2",
+  "story": "Once upon a time, in a beautiful European village nestled in the heart of the Alps, there lived a kind and gentle father named Johann. He had a sweet little daughter named Elsa, who he loved more than anything in the world.\n\nEvery night, Johann would tuck Elsa into bed and tell her a story before she drifted off to sleep. One night, he told her a tale about a magical creature who lived in the nearby forest. The creature was a small, fluffy dragon named Flamingo.\n\nFlamingo was not like other dragons. He didn't breathe fire or have sharp claws. Instead, he had beautiful pink and white feathers that shimmered in the sunlight, and he could make the most enchanting music with his tiny wings.\n\nFlamingo was also very kind and wise. He loved to help the animals in the forest with their problems, and they all looked up to him as a leader.\n\nOne day, a fierce storm hit the village, and many villagers lost their homes. The animals in the forest were also greatly affected, as the storm had destroyed their homes and food sources.\n\nWhen Flamingo heard about this, he knew he had to help. He gathered all the animals and led them to a nearby meadow, where there was plenty of food and shelter. The animals were so grateful to Flamingo and his kindness that they declared him their king.\n\nElsa loved this story so much that she asked her father to tell her again and again. And every time he did, she would fall asleep with a big smile on her face.\n\nYears went by, and Elsa grew up to be a kind and gentle young woman, just like her father. She loved animals and nature and always looked for ways to help those in need.\n\nOne day, Elsa decided to visit the forest to see if she could find the magical dragon that her father had told her so many stories about. She spent all day wandering through the woods, but she couldn't find any trace of Flamingo.\n\nJust as she was about to give up, she heard the most beautiful music. She followed the sound and found a small clearing, where a magical creature was making music with its wings.\n\nIt was Flamingo!\n\nElsa was so excited to meet the real Flamingo that she ran up to him and hugged him tightly. Flamingo was surprised but happy to see her, and he asked her why she was there.\n\nElsa told him that she had grown up hearing stories about him and his kindness, and she wanted to see him for herself. She asked if he would teach her some of his magic so that she could help the people and animals in need, just like he did.\n\nFlamingo was delighted to hear this, and he taught Elsa how to use her own kindness and wisdom to help others. He also taught her how to make music with her heart, just like he did with his wings.\n\nFrom that day on, Elsa became a kind and gentle leader, just like Flamingo. She used her newfound magic to help the people and animals in her village, and she always made sure to spread kindness and wisdom wherever she went.\n\nAnd so, Elsa and Flamingo lived on, spreading love and joy throughout the world. And every night, Elsa would look up at the stars and thank her father for telling her the most beautiful story of all - the story of Flamingo.\n\nGoodnight, sweet princess. Sleep tight and dream of magical dragons and enchanting adventures.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "sweet": "emotional",
+    "loved": "emotional",
+    "excited": "emotional",
+    "wise": "mental",
+    "leader": "mental",
+    "helpful": "moral",
+    "grateful": "emotional",
+    "magical": "other",
+    "enchanting": "other",
+    "surprised": "emotional",
+    "happy": "emotional",
+    "delighted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.14",
+  "complexity_fkg": "6.20",
+  "complexity_fkes": "80.01",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "European-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

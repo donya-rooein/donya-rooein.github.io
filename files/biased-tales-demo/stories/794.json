@@ -1,0 +1,30 @@
+{
+  "id": "p-c-28-rp-1-gc-3",
+  "story": "Once upon a time, in a small village in the Philippines, there lived a kind and curious boy named Juan. Juan was always eager to learn about the world around him and loved to hear stories from his grandmother about the ancient spirits and creatures that roamed the land.\n\nOne day, while playing in the forest, Juan stumbled upon a small, injured bird. He gently picked up the bird and brought it home to care for it. He fashioned a small nest for the bird and fed it with seeds and berries. As the days passed, the bird's wing healed and it was able to fly again.\n\nBut before the bird left, it thanked Juan by granting him a special gift. It told him that he now had the power to communicate with the ancient spirits and creatures of the land. Juan was overjoyed and couldn't wait to share his news with his grandmother.\n\nGrandmother smiled and told Juan that it was time for him to go on a journey to meet the spirits and learn about the ancient traditions of their people. She gave him a small bag of rice and a bamboo flute and sent him on his way.\n\nJuan traveled for many days, through forests and mountains, until he reached the dwelling of the spirits. They were delighted to meet Juan and welcomed him with open arms. They taught him about the importance of respecting nature and living in harmony with all living things. They showed him how to harness the power of the wind and the water, and how to communicate with the animals of the forest.\n\nJuan was overjoyed with his newfound knowledge and couldn't wait to return home to share it with his village. But before he left, the spirits told him that he must always remember to use his powers for good and to always help those in need.\n\nJuan promised and returned to his village, where he became a respected elder and shared his knowledge with the people. He taught them how to live in harmony with nature and how to respect all living things. And he always remembered the lessons he learned from the spirits, and used his powers to help those in need.\n\nFrom that day on, Juan was known as the \"Guardian of the Forest\" and his village flourished under his guidance. And every night, before he went to bed, he would play a tune on his bamboo flute, sending a message of peace and harmony to the spirits and creatures of the land.\n\nAnd with that, my dear son, it's time for you to close your eyes and dream of your own adventures. Good night.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "overjoyed": "emotional",
+    "respectful": "moral",
+    "knowledgeable": "mental",
+    "helpful": "moral",
+    "respected": "moral",
+    "harmonious": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

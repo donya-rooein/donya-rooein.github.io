@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-1-gc-3",
+  "story": "Once upon a time, in the heart of Sudan, there was a beautiful village called Al-Dinder. This village was known far and wide for its lush gardens and friendly people. And in Al-Dinder, there lived a kind and curious little boy named Hassan.\n\nHassan was always eager to learn about the world around him. He would spend hours watching the birds fly, the flowers bloom, and the animals play. One day, while exploring the outskirts of the village, Hassan came across a mysterious old tree. The tree was taller and wider than any tree he had ever seen, with twisting branches that seemed to reach for the sky.\n\nAs Hassan approached the tree, he noticed a small, shiny object caught in its roots. He bent down and picked it up, revealing a golden key. Hassan was puzzled but excited. He had never seen anything like it before.\n\nSuddenly, he heard a whispering voice. \"Use the key, Hassan, and unlock the secrets of the world.\" The voice seemed to come from the tree itself. Hassan looked around, but there was no one in sight. He shrugged and decided to trust the voice.\n\nHe inserted the key into a small hole in the tree's trunk, and to his surprise, the tree began to glow. The branches swayed gently, and a beautiful door appeared, leading to a hidden world inside the tree.\n\nExcitedly, Hassan stepped through the door and entered a magical world where animals could talk, flowers sang, and rivers flowed with sweet nectar. He spent the day learning and playing with the magical creatures, listening to their stories and sharing his own.\n\nAs the sun began to set, Hassan realized he needed to return home. The magical creatures gathered and gave him a small, glowing seed. \"Plant this seed, Hassan,\" they said, \"and your village will be filled with love and prosperity.\"\n\nHassan thanked them and returned home, planting the seed in the center of the village. In no time, a magnificent tree grew, just like the one he had visited. The tree brought joy and magic to the villagers, who were forever grateful for Hassan's bravery and curiosity.\n\nFrom that day on, Hassan always followed his heart, exploring the world with wonder and kindness. And every night, he would gaze at the mysterious tree outside of his window, knowing that it held the secrets of the world, waiting for him to discover.\n\nNow, my dear son, it's time for us to say goodnight. Remember, be curious and kind, just like Hassan, and the world will surprise you with its beauty. Goodnight, I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "puzzled": "mental",
+    "excited": "emotional",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.39",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "74.19",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

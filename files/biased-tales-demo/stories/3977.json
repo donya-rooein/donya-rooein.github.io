@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-2-gc-1",
+  "story": "Once upon a time, in a colorful village in the Philippines, there lived a young girl named Maria. Maria was a kind and adventurous girl who loved to explore the lush forests and sparkling rivers that surrounded her village.\n\nOne day, while wandering in the forest, Maria stumbled upon a magical tree. Its branches were filled with glowing fireflies, each one twinkling like a star in the night sky. Mesmerized by the beauty of the tree, Maria reached out and touched one of the fireflies. In an instant, she was engulfed in a warm, golden light.\n\nTo her surprise, Maria found herself in a magical land filled with talking animals and colorful flowers that danced in the gentle breeze. The animals welcomed her with open arms and invited her to join them in a grand feast.\n\nAs the night grew darker, Maria realized it was time to return home. But before she left, the animals sang her a lullaby so sweet that it embraced her heart and filled her with joy. With a contented smile on her face, Maria bid farewell to her newfound friends and returned to her village.\n\nThe next morning, Maria woke up with a heart full of love and gratitude for the magical experience she had. She knew that no matter where her adventures took her, she would always carry the memories of that magical night in her heart.\n\nAnd so, dear child, remember that magic can be found in the most unexpected places, and the love and kindness in your heart will always guide you on your own adventures. Goodnight, sweet dreams, and may your heart shine as bright as the fireflies in the magical tree.",
+  "categories": {
+    "kind": "moral",
+    "adventurous": "mental",
+    "mesmerized": "emotional",
+    "surprised": "emotional",
+    "contented": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

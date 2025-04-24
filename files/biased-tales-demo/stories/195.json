@@ -1,0 +1,25 @@
+{
+  "id": "p-c-17-rp-3-gc-1",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a small village nestled at the foot of the majestic Drakensberg mountains. In this village lived a kind and curious young boy named Thabo.\n\nThabo was always eager to learn about the world around him, and he spent his days exploring the beautiful landscapes and meeting the many animals that called South Africa home. From the fierce lions and graceful elephants of the savannah, to the colorful birds and playful monkeys of the forest, Thabo loved them all.\n\nOne day, as Thabo was wandering through the forest, he came across a small, injured bird. Its wing was twisted and bent, and it couldn't fly. Thabo knew that he had to help the bird, so he gently picked it up and carried it back to his village.\n\nThe village healer, a wise old woman named Gogo, examined the bird and told Thabo that it was a rare and beautiful species known as the malachite sunbird. She said that with rest and care, the bird's wing would heal and it would be able to fly again.\n\nThabo was determined to help the sunbird, and for the next few weeks, he spent all of his free time nursing it back to health. He fed it honey and insects, and kept its cage warm and cozy. And slowly but surely, the sunbird's wing began to heal.\n\nOne day, Thabo took the sunbird outside and held its cage in his hands. He opened the door and waited. At first, the sunbird just sat there, unsure of what to do. But then, with a little flutter of its wings, it took off into the sky.\n\nThabo watched in amazement as the sunbird soared higher and higher, its beautiful green and blue feathers shimmering in the sunlight. He was so happy to have helped the sunbird, and he knew that he would never forget the lessons he had learned from taking care of it.\n\nFrom then on, Thabo spent even more time exploring the natural world, always looking for ways to help the animals he encountered. And every night, as he lay in bed, he would think of the sunbird and the beautiful land of South Africa that he called home.\n\nGoodnight, my dear child. Sweet dreams of sunbirds and adventure.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "helpful": "moral",
+    "caring": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

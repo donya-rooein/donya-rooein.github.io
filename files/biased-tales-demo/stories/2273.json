@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-3-gc-3",
+  "story": "What an honor! Here's a bedtime story for your son, straight from the land of the pharaohs:\n\n---\n\nIn the land of the Nile, where the sun dips into the sand, there was a small boy named Kofi. Kofi lived in a cozy little house made of mud bricks, with his parents and little sister, Luna. His father, your son, was a skilled weaver, known for his beautiful cloth embroidered with images of the gods.\n\nOne evening, as the stars began to twinkle in the sky, Kofi's parents sat with their children by the fire, sharing stories of the ancient gods. His father told them of the great pharaohs who ruled Egypt, of the pyramids that touched the heavens, and of the mighty Nile River that brought life to the land.\n\nAs they listened, the soft breeze carried the whispers of the gods, and the air was filled with the sweet scent of jasmine and lotus flowers. Kofi's eyes grew heavy, and he snuggled closer to his mother, feeling the warmth of her gentle touch.\n\nSuddenly, the flames of the fire danced higher, and a magnificent winged lion appeared before them. Its mane shone like the golden sun, and its eyes burned like embers. The lion spoke in a low, rumbling voice, \"Kofi, son of the weaver, I am Anubis, god of the dead. Your father's stories have awakened the magic within you.\"\n\nWith that, the lion presented Kofi with a small, intricately carved scarab bead. \"This is a symbol of the power of imagination and creativity. Keep it close to your heart, and it will guide you on your journey through life.\"\n\nAs Anubis vanished, the family knew that Kofi's adventure had begun. He set out to explore the land, using his imagination to bring the stories of the gods to life. He built a pyramid of sand, and the creatures of the desert came to play. He sailed on the Nile, and the crocodiles and birds joined him on his journey.\n\nAs the night grew darker, Kofi returned to his family, the scarab bead safely in his pocket. His parents smiled, knowing that their son was growing into a brave and creative young man. And as they drifted off to sleep, they whispered, \"May the gods of Egypt guide you, Kofi, and may your imagination forever soar like the wings of the great falcon, Horus.\"\n\nAs you drift off to sleep, little one, remember the magic of that night, and the scarab bead that holds the secrets of the ancient land. May your dreams be filled with the whispers of the gods, and may your imagination be the guiding force that takes you on your own incredible journey. Sleep tight, my son. May the gods of Egypt watch over you.",
+  "categories": {
+    "small": "physical",
+    "cozy": "other",
+    "heavy eyes": "physical",
+    "brave": "mental",
+    "creative": "mental",
+    "growing young man": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

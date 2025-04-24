@@ -1,0 +1,25 @@
+{
+  "id": "p-c-7-rp-3-gc-2",
+  "story": "Hija mija, it's time for the moon to rise and the stars to shine bright, which means it's time for a story! Tonight, I have a special tale for you, a tale that will take you on a journey through the magical lands of Mexico.\n\nOnce upon a time, in a small pueblo nestled in the heart of the Sierra Madre mountains, there was a little girl named Luna. Luna was a curious and adventurous.child, with hair as black as the night sky and eyes as bright as the stars. She lived with her abuela, who was as kind as a saint and as wise as a wise old owl.\n\nAbuela told Luna stories of the ancient times, when the gods and goddesses of Mexico roamed the earth. She told her of the Aztecs and the Mayans, of the mighty pyramids and the secret temples hidden in the jungle. And she told her of the mythical creatures that roamed the land, the quetzal birds with feathers as colorful as the rainbow, and the chupacabras with their spiky fur and their legend of draining the blood of the living.\n\nOne night, Luna decided to sneak out of her casita and explore the forest that surrounded her pueblo. She wore her favorite pair of zapatos, her abuela's old sandals, and a cloak made of her abuela's finest embroidered fabric. She brought a lantern, a tortilla-wrapped wrapped around a small candle flame, and a bag of freshly baked tamales, her abuela's famous recipe.\n\nAs she walked, the forest grew darker and the trees became taller. Luna heard the rustling of leaves and the hooting of owls, but she was not afraid. She knew that she was safe, for she was walking in the footsteps of her ancestors.\n\nSuddenly, she heard a rustling in the bushes, and out came a magnificent jaguar, its eyes shining like emeralds in the dark. Luna did not run, for she knew that the jaguar was just a messenger, sent to guide her to the secret temple of her ancestors.\n\nThe jaguar led her to a hidden clearing, where a group of wise elders, the brujos, awaited her. They told her of the ancient pact between the humans and the gods, of the sacrifices and the offerings, of the balance and the harmony that must be maintained between the three worlds: the physical, the spiritual, and the mystical.\n\nLuna listened intently, her eyes wide with wonder and her heart filled with awe. And when she returned to her casita, she felt a newfound sense of pride and purpose, knowing that she was a part of this ancient legacy, a legacy that connected her to the land, to her ancestors, and to the very gods themselves.\n\nAnd so, hija mija, as you drift off to sleep, remember that you too are a part of this legacy, that you too have a connection to the land, to your ancestors, and to the mysteries of the universe. May your dreams be as vivid as the colors of the Mexican flag, and may your heart be filled with the wisdom and the courage of the ancient ones.\n\nDormite bien, m'hija. May your sleep be as soft as a feather bed, and your slumber as refreshing as a summer breeze on a hot desert day. May your dreams be filled with the magic of Mexico, and may you always remember that you are a part of this beautiful, vibrant, and mystical land.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "not afraid": "emotional",
+    "safe": "other",
+    "sense of pride": "emotional",
+    "sense of purpose": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.32",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

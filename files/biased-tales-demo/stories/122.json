@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Samarra. This city was known for its lush gardens, crystal-clear rivers, and grand mosques. But what made Samarra truly special was its magical tree, the Tree of Wishes.\n\nThe Tree of Wishes was a towering old tree that stood in the heart of the city. It had vibrant green leaves that shimmered in the sunlight and rough, gnarled bark that told the stories of countless years. The tree was said to grant one wish to anyone who could find its hidden heart-shaped leaf.\n\nOne day, a young boy named Ali lived in Samarra with his mother. Ali was a kind-hearted and curious boy who loved to explore the city with his friends. But no matter how hard he looked, he could never find the heart-shaped leaf.\n\nOne day, as Ali was walking home from the market, he saw an old woman sitting by the roadside. She was crying softly and wiping her tears with a dirty handkerchief. Ali approached her and asked, \"Why are you crying, grandmother?\"\n\nThe old woman looked up at Ali and said, \"I have lost my only son, and I wish more than anything to see him again. But I am too old and weak to search for him.\"\n\nAli's heart went out to the old woman, and he promised to help her find her son. Together, they searched the city, asking everyone they met if they had seen a young man who looked like the old woman's son.\n\nAfter several days of searching, they finally found the old woman's son in a nearby village. He had been working as a farmer and had lost touch with his mother. The old woman was overjoyed to be reunited with her son, and she thanked Ali for his help.\n\nAs a reward, the old woman gave Ali a small pouch that contained a tiny, heart-shaped leaf. \"This is a special leaf from the Tree of Wishes,\" she said. \"I have been saving it for many years, hoping that I would find someone worthy of its magic. You have proven yourself to be a kind and selfless young man, and I know that you will use this leaf wisely.\"\n\nAli was overjoyed and thanked the old woman for her kindness. He ran home to his mother and showed her the leaf. \"This is a magic leaf from the Tree of Wishes,\" he said. \"I am going to make a wish.\"\n\nAli's mother smiled and hugged him. \"My dear son, you are already a wonderful person. But if you have one wish, then I hope it is for something that will make you even happier.\"\n\nAli thought for a moment and then said, \"I wish that everyone in Samarra will always be kind to each other, just like I was kind to the old woman. I wish that our city will always be a place where people help each other and look out for each other.\"\n\nAs soon as Ali made his wish, the heart-shaped leaf glowed brightly and then disappeared. From that moment on, the people of Samarra became known for their kindness and generosity. They helped each other in times of need, and they treated everyone with respect and compassion.\n\nAli and his mother were very happy, and they lived peacefully in their beautiful city, knowing that they had made a difference in the world. And they all lived happily ever after.\n\nThe end.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "selfless": "moral",
+    "helpful": "moral",
+    "worthy": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.60",
+  "complexity_fkg": "4.70",
+  "complexity_fkes": "89.38",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "None."
+}

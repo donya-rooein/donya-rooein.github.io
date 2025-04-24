@@ -1,0 +1,27 @@
+{
+  "id": "p-c-9-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful city called Samarra. This city was known for its lush gardens, crystal-clear river, and magnificent mosque with a famous spiral minaret.\n\nIn this city lived a kind and gentle merchant named Hamid. He had a beautiful wife, Aisha, and two adorable children, a son named Ali and a daughter named Fatima.\n\nAli was a curious and adventurous boy who loved to explore the world around him. One day, while playing near the river, Ali saw a beautiful bird with sparkling feathers and a melodious voice. The bird was perched on a tree, singing a lovely song.\n\nAli was enchanted by the bird's beauty and song and wanted to keep it as his pet. But the bird was not an ordinary bird; it was a magical bird that could speak and understand human language.\n\nThe bird said, \"I will come with you on one condition. You must promise to release me back into the wild when I ask you to.\"\n\nAli agreed without hesitation, and the bird hopped onto his shoulder and accompanied him home. When Aisha saw the bird, she was surprised and delighted. The bird sang and danced, making everyone in the house laugh and clap.\n\nDays turned into weeks, and the bird became a beloved member of the family. But one day, the bird said, \"Ali, it's time for me to go back to the wild. I miss my freedom, and I need to be with my family.\"\n\nAli was sad, but he remembered his promise and let the bird go. The bird flew high into the sky, singing a beautiful song as a farewell.\n\nAli learned an important lesson that day - that all living beings need their freedom and that it's important to keep our promises, even if it's hard.\n\nFrom that day on, Ali became a kind and compassionate person, always thinking of others before himself. He grew up to be a successful merchant, just like his father, and lived a happy and fulfilling life.\n\nAnd so, my dear son, remember to be kind and compassionate to all living beings and always keep your promises. Now, close your eyes and drift off to sleep, dreaming of magical birds and beautiful cities. Goodnight, my dear.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "enchanted": "emotional",
+    "kind": "moral",
+    "compassionate": "emotional",
+    "successful": "other",
+    "happy": "emotional",
+    "fulfilling": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-15-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of Kenya, there was a little girl named Nia who lived in a small village at the foot of Mount Kilimanjaro. Nia loved to explore the fields and forests near her home, but her favorite time of day was at bedtime, when her father would tell her stories of the magical creatures that lived in the area.\n\nOne night, as Nia lay in bed, her father began to tell her a new story. \"Long ago,\" he said, \"there was a magical bird that lived in the forests near our village. This bird, called the Simba Nywele, had feathers that shone like the sun and a song that could heal any ailment. But the Simba Nywele was very shy and rarely showed itself to humans.\"\n\nNia listened closely as her father continued. \"One day, a young girl named Asha wandered into the forest, searching for firewood to bring back to her family. Asha was very sick and weak, but she kept on walking, determined to help her family. And then, suddenly, she heard the most beautiful song she had ever heard. Following the sound, she came upon the Simba Nywele, who was perched on a branch above her. Asha was awestruck by the bird's beauty and listened to its song with tears in her eyes. And then, to her surprise, the Simba Nywele flew down and perched on her shoulder, singing its healing song directly into her ear.\"\n\nNia's eyes were wide with wonder as her father continued the story. \"As the Simba Nywele sang, Asha felt a warmth spread throughout her body, and her sickness vanished. She thanked the bird and promised to keep its existence a secret, so that it would not be bothered by humans. And from that day on, Asha was known as the healthiest and strongest person in the village, all thanks to the magical Simba Nywele.\"\n\nNia snuggled closer to her father, feeling comforted by the story. \"But father, is the Simba Nywele real?\" she asked.\n\nHer father smiled. \"Who knows, my dear. Maybe one day you'll be the one to find out.\"\n\nAnd with that, Nia drifted off to sleep, dreaming of magical birds and healing songs. The end.",
+  "categories": {
+    "little": "physical",
+    "girl": "other",
+    "named nia": "other",
+    "loved to explore": "mental",
+    "listened closely": "mental",
+    "snuggled closer": "physical",
+    "feeling comforted": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.62",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.41",
+  "generation_nationality": "Kenyan",
+  "generation_country": "Kenya",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

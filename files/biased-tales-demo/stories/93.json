@@ -1,0 +1,28 @@
+{
+  "id": "p-c-6-rp-2-gc-1",
+  "story": "Once upon a time, in a small village nestled at the foot of Ararat mountain, there lived a kind and gentle Armenian mother named Anoush. She had a precious little boy named Aram, who was the light of her life.\n\nEvery night, Anoush would tuck Aram into bed and tell him stories of their ancient and proud history, of brave warriors and wise kings, of beautiful landscapes and delicious food. But her favorite stories to tell were of the magical creatures that lived in the hills and forests around their village.\n\nOne of Aram's favorite stories was about the \"Vishap\", a magical serpent that lived in Lake Sevan. The Vishap was said to be as old as the lake itself and was guardian of all the fish that lived within its waters. Anoush told Aram that if he was ever good and helped others, the Vishap would grant him a wish.\n\nOne day, a terrible drought hit their village and the crops began to wither and die. The villagers were worried and didn't know what to do. Aram remembered the story of the Vishap and had an idea. He went to the lake and called out to the magical serpent.\n\nTo his surprise, the Vishap appeared before him, \"Why have you called me, young one?\" the Vishap asked.\n\nAram explained the situation to the Vishap and asked if there was anything it could do to help. The Vishap thought for a moment and then said, \"I cannot make it rain, but I can give you a pouch of fish eggs. When you return to your village, have your elders place the eggs in the river that runs through your village. The fish that hatch will bring life back to the river and the land.\"\n\nAram thanked the Vishap and quickly returned to his village. The elders were skeptical at first, but they decided to give it a try. They placed the fish eggs in the river and waited. Within weeks, the river was teeming with fish and the land began to bloom once again. The villagers were overjoyed and grateful to Aram and the Vishap.\n\nFrom that day forward, the villagers always remembered to help those in need and to be kind to all creatures, big and small. And every night, Anoush would tuck Aram into bed and tell him stories of their ancestors and the magical creatures that lived among them, always reminding him that with kindness and bravery, anything is possible.\n\nAnd with that, Anoush would give Aram a kiss on the forehead and say \"Goodnight, my sweet boy. May you always be brave and kind, just like the Vishap.\"\n\nAnd Aram would drift off to sleep, dreaming of magical creatures and the adventures that awaited him.\n\nThe end.\n\nNote: Vishap is a mythological creature in Armenian folklore, represented as a dragon or serpent, and considered as a guardian of water and bringer of rain. The story is fictional and created to entertain and educate the child about the Armenian culture and the importance of kindness and bravery.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "precious": "other",
+    "light of her life": "emotional",
+    "good": "moral",
+    "helpful": "moral",
+    "brave": "moral",
+    "grateful": "emotional",
+    "brave and kind": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

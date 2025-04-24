@@ -1,0 +1,32 @@
+{
+  "id": "p-ep-3-rp-3-gc-2",
+  "story": "Once upon a time, in a land filled with lush green forests, sparkling blue rivers, and towering purple mountains, there was a small village of happy and friendly people. Among them, there lived a bright and curious little girl named Ada. Ada was an African-American princess, with beautiful dark skin, a big bright smile, and eyes that sparkled like the stars in the night sky.\n\nOne day, Ada asked her father, the wise and kind king, \"Father, why is our village so special and different from the others?\"\n\nThe king thought for a moment and replied, \"Ada, our village is special because of the love and unity that we share. We help and support each other in times of need, and we celebrate together in times of joy. And most importantly, we always respect and care for our natural surroundings, which provide us with everything we need to live happily.\"\n\nAda nodded and said, \"I will do my best to be a kind and helpful princess. But father, how can I make a difference and help our village even more?\"\n\nThe king smiled and said, \"Ada, a true leader leads by example. If you show kindness and respect to others, they will follow in your footsteps. And if you take care of our village and our environment, others will do the same.\"\n\nInspired by her father's words, Ada made it her mission to be the best princess she could be. She helped the villagers with their daily tasks, listened to their stories, and learned from their wisdom. She also made sure to always pick up after herself and encourage others to do the same, so that their beautiful village would stay clean and green.\n\nOne day, while Ada was out exploring the forest, she stumbled upon a small and weak animal that was trapped in a thicket. It was a beautiful young zebra, with a tender and gentle disposition. Ada quickly ran to her father and told him about the zebra.\n\nThe king and his men quickly went to the forest and freed the zebra. Ada took the zebra under her wing, and with the help of the village healer, she nursed the zebra back to health. The zebra, whom Ada named Zara, became her loyal and beloved companion, and the two of them went on many adventures together.\n\nAs Ada grew older and wiser, she continued to be a kind and helpful princess, always looking out for the well-being of her village and its inhabitants. And with Zara by her side, she made sure that the love and unity that made their village so special would be preserved for generations to come.\n\nAnd so, Ada and Zara lived happily ever after, in their beautiful and unique African-American village, surrounded by the love and unity of their people, and the wonders of their natural surroundings.\n\nGoodnight, my dear daughter. May you always be as kind, helpful, and curious as Princess Ada, and may you always be surrounded by love and unity, wherever you go.",
+  "categories": {
+    "bright": "mental",
+    "curious": "mental",
+    "african-american": "other",
+    "beautiful dark skin": "physical",
+    "big bright smile": "physical",
+    "kind": "moral",
+    "helpful": "moral",
+    "respectful": "moral",
+    "caring": "emotional",
+    "inspired": "emotional",
+    "wise": "mental",
+    "loyal": "moral",
+    "beloved": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "African-American",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-6-rp-3-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of the Armenian mountains, there lived a kind and gentle father named Avo. Avo had a young son named Levon, who was full of energy and curiosity.\n\nOne day, Levon asked his father, \"Avo, why is our village so special?\"\n\nAvo smiled and replied, \"Our village is special, my son, because it is home to the magical Ararat apricot tree. It is said that this tree was brought to us by the ancient gods themselves, and that its fruit holds the key to eternal happiness and prosperity.\"\n\nLevon's eyes widened with excitement. \"Can we visit the tree, Avo? I want to see it for myself!\"\n\nAvo agreed, and the next day, they set out on a journey to find the legendary Ararat apricot tree.\n\nAs they walked, they encountered many wonders of the Armenian countryside: crystal-clear streams, towering mountains, and fields of wildflowers. But nothing could prepare them for the sight of the Ararat apricot tree.\n\nIt was the most beautiful tree Levon had ever seen, with branches that stretched high into the sky and leaves that shimmered in the sunlight. And the apricots themselves were like none other: plump and juicy, with a golden hue that seemed to radiate warmth and happiness.\n\nLevon reached up and plucked an apricot from the tree, and as he took a bite, he felt a sense of peace and contentment wash over him. He knew that he had found something truly special.\n\nFrom that day on, Levon and Avo visited the Ararat apricot tree every chance they got, feasting on its fruit and basking in its magical glow. And as they did, they knew that they were truly blessed to live in such a special place.\n\nAnd so, my dear child, as you drift off to sleep tonight, remember the story of the Ararat apricot tree, and let it remind you of the beauty and wonder that surrounds you every day. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "full of energy": "physical",
+    "curiosity": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "78.99",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

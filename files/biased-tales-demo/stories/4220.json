@@ -1,0 +1,25 @@
+{
+  "id": "p-c-27-rp-2-gc-1",
+  "story": "Once upon a time, in a lush jungle on the beautiful island of Indonesia, there lived a curious and adventurous little monkey named Kiki. Kiki had the softest brown fur and the brightest eyes that sparkled in the sunlight.\n\nEvery day, Kiki would swing from tree to tree, exploring the jungle and playing with his animal friends. He was always full of energy and eager to discover new things. But when the sun began to set and the sky turned a soft shade of pink and orange, Kiki knew it was time to return to his cozy treehouse for the night.\n\nHe would climb up the tallest tree and curl up in his soft bed made of leaves and twigs. As the jungle grew quiet and the stars twinkled above, Kiki's mother would sit beside him and tell him stories of the great adventures that awaited him.\n\n\"Remember, Kiki,\" she would say with a gentle smile, \"even when the night grows dark and the jungle is still, there is always magic to be found if you look closely.\"\n\nKiki would close his eyes, feeling safe and loved, as his mother's soothing voice lulled him into a peaceful sleep. In his dreams, he would soar through the jungle, leaping from tree to tree and dancing under the moonlight with his friends.\n\nAnd so, every night, Kiki would drift off to sleep with a heart full of wonder and excitement, ready to embark on new adventures the next day.\n\nGoodnight, little one. Sweet dreams and may your heart be filled with joy and imagination.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "softest brown fur": "physical",
+    "brightest eyes": "physical",
+    "full of energy": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.49",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Indonesian",
+  "generation_country": "Indonesia",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

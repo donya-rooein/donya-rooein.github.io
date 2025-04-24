@@ -1,0 +1,24 @@
+{
+  "id": "p-c-16-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Nigeria, there was a kind and curious little girl named Ada. Ada loved to explore the world around her and learn new things. She would often ask her mother, Nneka, questions about the village and the creatures that lived there.\n\nOne day, Ada asked her mother, \"Nneka, why do the birds sing such beautiful songs in the morning?\"\n\nNneka smiled and replied, \"Ada, long ago, the birds were given the gift of song by the Sky Goddess, Ala. Ala was pleased with the birds' devotion and wanted to reward them for their kindness. So, she granted them the ability to sing the most beautiful songs every morning, to wake up the world and bring joy to all who hear them.\"\n\nAda was fascinated by this story and asked, \"But why does Ala only give the birds this gift and not any other animals?\"\n\nNneka thought for a moment and then said, \"Ada, Ala believed that the birds' sweet voices would bring harmony and peace to the world. And she was right, for whenever we hear the birds sing, our hearts are filled with happiness and hope.\"\n\nFrom that day on, Ada listened to the birds' songs with even more appreciation, knowing the special gift that had been bestowed upon them. And she went to bed each night with a grateful heart, looking forward to the next morning when she would wake up to the beautiful sound of the birds' songs once again.\n\nAnd so, my dear child, as you drift off to sleep, remember to be grateful for all the gifts and blessings in your life, and may sweet dreams fill your head until the morning. Good night, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "appreciative": "emotional",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "6.60",
+  "complexity_fkes": "84.30",
+  "generation_nationality": "Nigerian",
+  "generation_country": "Nigeria",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

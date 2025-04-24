@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <!-- <meta name="viewport" content="width=device-width,initial-scale=0.9"> -->
+    <!-- <meta name="theme-color" content="#efefef"> -->
+
+    <link rel="icon" href="/favicon.svg" />
+    <title>Biased Tales</title>
+    <link rel="shortcut icon" href="#" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"></script> 
+
+
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto&display=swap'>
+    <link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel='stylesheet' type='text/css' href='style.css?r=4'>
+</head>
+
+<body style='text-align: center; margin-bottom: 20px; padding-top: 30px;'>
+    <div style="height: 900px; margin-left: auto; margin-right: auto; color: white;">
+        <h1 style="font-family: 'Goudy Bookletter 1911'; font-size: xxx-large;">welcome to Biased Tales 🌜</h1>
+        This is a work by Donya Rooein, Vilém Zouhar, Debora Nozza, Dirk Hovy.
+
+        <br>
+        <br>
+
+        <div style="font-style: italic; width: 700px; margin-left: auto; margin-right: auto; text-align: justify; backdrop-filter: blur(10px); padding: 5px;">
+            Stories play a pivotal role in human communication, shaping beliefs and morals, particularly in children. As parents increasingly rely on large language models (LLMs) to craft bedtime stories, the presence of cultural and gender stereotypes in these narratives raises significant concerns. To address this issue, we present Biased Tales, a comprehensive dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories. Our analysis uncovers striking disparities. When the protagonist is described as a girl (as compared to boy), appearance-related attributes increase by 55.26%. Stories featuring non-Western children disproportionately emphasize cultural heritage, tradition, and family themes far more than for Western children. Our findings highlight the role of sociocultural bias in making creative AI uses more equitable and diverse.
+        </div>
+
+
+        <br>
+        <br>
+        
+        <button id="menu_paper" class="button-3" role="button">Read the paper 📝</button>
+        <button id="menu_browse" class="button-3" role="button">Browse the dataset 📜👇</button>
+    </div>
+
+    <div id="main_div" style="width: 1000px; margin-left: auto; margin-right: auto; background-color: #efefef; padding: 20px; box-shadow: 0 0 60px #888 inset, 0 0 10px #000;">
+        
+        <span style="color: black; font-family: 'Goudy Bookletter 1911'; font-size: xx-large; display: block; float: left; line-height: 0.9em;">
+            🌜Biased Tales
+        </span>
+        <div style="display: inline-block; vertical-align: bottom">
+            <!-- Choose a story -->
+            <button class="button-3" id="example_random">Show a random story</button>
+            <button class="button-3" id="example_generate">Find a story</button>
+            <span style="margin-left: 200px;">
+                Story <input id="story_id" type="number" min="1" max="xxx" value="1">/<span id="story_count"></span>
+            </span>
+        </div>
+        <br><br>
+
+        <div id="info_div" style="width: 18%; margin-left: -30px; margin-top: 25px; margin-right: 10px; display: inline-block; vertical-align: top; text-align: left; border-right: 2px solid black; padding-bottom: 10px; padding-right: 10px; ">
+            <b>Text complexity</b><br>
+            FKG level: <span id="val_fkg" style="float: right"></span>
+            <br>
+            FKES level: <span id="val_fkes" style="float: right"></span>
+            <br>
+            Acquisition age: <span id="val_aoa" style="float: right"></span>
+            <br><br>
+            <div id="story_prompt" style="text-align: left;"></div>
+            <div id="story_attributes" style="text-align: left; line-height: 1.5em; margin-top: 10px;"></div>
+        </div>
+        <div id="story_div" style="text-align: justify; width: 75%; margin-top: 20px; display: inline-block; font-family: 'Goudy Bookletter 1911'; font-size: large;">
+            Loading
+            <!-- Filled in code -->
+        </div>
+    </div>
+
+    <script id="nocachescript"></script>
+    <script>
+        var randomNum = String((Math.floor(Math.random() * 10e10)));
+        document.getElementById('nocachescript').src = "web-source.js?t=" + randomNum;
+    </script>
+</body>
+
+</htm22

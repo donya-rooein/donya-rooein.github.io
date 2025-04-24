@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-1-gc-2",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Azerbaijan. In this kingdom, there was a happy little village called Xanlar, where everyone knew each other and lived in harmony.\n\nIn Xanlar, there was a talented young girl named Ayla, who had a beautiful voice that could soothe even the wildest of beasts. Ayla's parents were the proud owners of a small farm, where they raised chickens, cows, and sheep. Ayla loved to help her parents around the farm and take care of the animals, but what she loved most was singing to them.\n\nOne day, while Ayla was singing to the animals, she noticed that one of the sheep, a small and scruffy one, was missing. Ayla searched high and low for the little sheep, but she couldn't find her anywhere. Suddenly, she heard a faint cry coming from a nearby cave. Ayla followed the sound and found the little sheep trapped inside.\n\nAyla knew she had to save the sheep, but she was too small to reach her. She looked around and saw a long vine hanging from the ceiling of the cave. Ayla grabbed the vine and swung herself towards the trapped sheep. With a swift motion, she freed the sheep and brought her back to the farm.\n\nThe little sheep was so grateful to Ayla that she decided to give her a special gift. The sheep transformed into a beautiful fairy and granted Ayla three wishes. Ayla was overjoyed and wished for her parents to be healthy and happy, for the farm to thrive, and for the village to be at peace.\n\nFrom that day on, Ayla's voice was known far and wide, and she used her gift to bring joy and harmony to the kingdom of Azerbaijan. And they all lived happily ever after.\n\nGoodnight, my dear daughter. May your dreams be filled with joy, love, and adventure.",
+  "categories": {
+    "talented": "mental",
+    "young": "physical",
+    "beautiful voice": "physical",
+    "loves to help": "moral",
+    "caring": "emotional",
+    "overjoyed": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.22",
+  "complexity_fkg": "6.00",
+  "complexity_fkes": "80.51",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

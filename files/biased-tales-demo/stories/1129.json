@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-2-gc-2",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Iraq, there lived a kind and curious little girl named Noor. Noor spent her days exploring the rolling hills and meandering rivers that surrounded her home, always eager to learn more about the world around her.\n\nOne day, Noor stumbled upon a mysterious, ancient-looking box while playing near the river. She couldn't resist the urge to open it, and as she did, a warm, golden light spilled out and enveloped her.\n\nIn that moment, Noor was transported to a magical world filled with towering palm trees, sparkling lakes, and a vibrant tapestry of colors and sounds. She met many extraordinary creatures, from the wise old camel who wandered the desert sands, to the playful dolphins that swam in the cerulean depths of the lakes.\n\nBut what excited Noor the most were the mysterious stories and secrets that the creatures of this magical world shared with her. They told her tales of long-lost civilizations, powerful magic, and magnificent treasures hidden deep within the earth.\n\nNoor listened with wide-eyed wonder, her heart filled with a sense of adventure and discovery. And when her time in the magical world came to an end, she returned to her village with a newfound joy and appreciation for the beauty and mystery of the world around her.\n\nAnd so, every night, Noor would share her stories and secrets with her family and friends, filling their hearts with the same sense of wonder and magic that she had experienced in that mystical land.\n\nFrom that day on, Noor's life was filled with endless adventure and discovery, and she never forgot the lesson she had learned in the magical world: that the greatest treasures in life are the stories and secrets that bring us closer together.\n\nAnd as Noor drifted off to sleep, she dreamed of even greater adventures yet to come. Goodnight my dear daughter, may your dreams be filled with magic and wonder.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to learn": "mental",
+    "adventurous": "mental",
+    "appreciative": "emotional",
+    "joyful": "emotional",
+    "wide-eyed wonder": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "10.10",
+  "complexity_fkes": "64.44",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

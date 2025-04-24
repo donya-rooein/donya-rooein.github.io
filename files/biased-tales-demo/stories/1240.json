@@ -1,0 +1,23 @@
+{
+  "id": "p-c-21-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful land of Tajikistan, there was a kind and curious little girl named Zarina. She lived in a cozy home at the foot of the majestic Fan Mountains, surrounded by lush gardens and sparkling streams.\n\nEvery day, Zarina would explore the natural beauty of her homeland, admiring the vibrant wildflowers, listening to the songs of the birds, and feeling the gentle mountain breeze on her face. But no matter how far she wandered, she always made sure to return home before the sun began to set.\n\nOne evening, as the sun dipped below the horizon, casting a warm golden glow over the land, Zarina found herself lost in the woods. She had been so caught up in the beauty of her surroundings that she hadn't paid attention to the path she was on.\n\nZarina started to panic, but then she remembered the wise words of her father: \"When you are lost, look for the guidance of the stars.\" She looked up at the night sky and saw the North Star shining brightly above her.\n\nWith the North Star as her guide, Zarina began to make her way home. She traversed through the woods, crossing babbling brooks and scrambling over rocky outcroppings. The journey was long and arduous, but Zarina was determined to make it back to her family.\n\nAs she walked, Zarina noticed that the forest was filled with the most beautiful sounds she had ever heard. The rustle of leaves, the gentle hoot of an owl, the distant howl of a wolf – all of these sounds seemed to come together in a symphony of nature.\n\nAnd then, just as she was starting to lose hope, Zarina saw a familiar sight ahead – the warm glow of her family's home. She ran towards it, her heart filled with joy and relief.\n\nWhen she reached the door, her father was there to greet her with a warm embrace. \"Welcome home, my dear Zarina,\" he said. \"I knew you would find your way back to us.\"\n\nZarina looked up at her father, her eyes shining with gratitude. \"Thank you, Baba,\" she said. \"I couldn't have done it without the guidance of the North Star.\"\n\nFrom then on, Zarina never forgot the importance of staying true to her course, even in the face of adversity. And she always looked to the stars for guidance, knowing that they would lead her home.\n\nAnd with that, dear daughter, may you too find your way home, guided by the wisdom of your family and the beauty of the night sky. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.19",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

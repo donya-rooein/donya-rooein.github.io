@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-3-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the heart of Iraq, there lived a kind and curious young boy named Khalid. Khalid's family was well-known throughout the land for their warmth and hospitality, and their home was always filled with laughter and love.\n\nOne day, as Khalid was playing in the fields near his home, he stumbled upon a small, mysterious door hidden amongst the tall grasses. Intrigued, Khalid opened the door and discovered a magical world filled with wondrous creatures and incredible sights.\n\nIn this magical world, Khalid met a wise old genie who granted him three wishes. Khalid thought long and hard about what he wanted most in the world, and finally decided on his three wishes:\n\n1. He wished for his family to always be happy and healthy.\n2. He wished for the people of his village to live in peace and harmony.\n3. And finally, he wished for the opportunity to explore the world and learn about its many wonders.\n\nThe genie smiled and granted Khalid's wishes, and from that day on, Khalid's life was filled with even more joy and adventure. He traveled the world, learning new languages, trying new foods, and making new friends.\n\nBut no matter where he went or what he saw, Khalid always remembered the love and warmth of his family and his village, and he knew that he would always carry that love with him, wherever he went.\n\nAnd so, my dear son, as you drift off to sleep tonight, I hope that you too will dream of a world filled with happiness, love, and adventure. And may you always remember the warmth and love of our own family, no matter where your own journey takes you. Goodnight, my dear one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "thoughtful": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.54",
+  "complexity_fkg": "7.40",
+  "complexity_fkes": "76.96",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-3-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind-hearted and curious little girl named Alingning. She lived with her family in a humble nipa hut near a lush mangrove forest. Alingning loved exploring the forest, discovering new things, and listening to the stories of the elderlies.\n\nOne day, she heard about a magical stone that was hidden deep within the mangrove forest. The stone was said to be as small as a grain of rice but shone so brightly that it could light up an entire room. Many had searched for it, but none had ever found it.\n\nAlingning decided to embark on a quest to find the magical stone. With her family's blessings, she packed her bag with a bottle of water, some dried fish, and a small blanket. She then set off early in the morning, before the sun had even risen.\n\nShe walked deep into the forest, following the winding paths that she had memorized from her countless explorations. The forest was alive with the sounds of birds chirping and leaves rustling. Alingning felt a sense of excitement and wonder as she ventured further into the unknown.\n\nAfter several hours of trekking, she arrived at a small clearing near a mangrove tree. She noticed something glimmering in the sunlight, and her heart raced with anticipation. She approached the object and saw that it was a tiny stone, no bigger than a grain of rice, yet it shone as brightly as the stars in the sky.\n\nAlingning picked up the stone and admired its beauty. Suddenly, a wise old man appeared before her. He introduced himself as the guardian of the magical stone and told Alingning that she was chosen to be its next caretaker.\n\n\"But why me?\" Alingning asked, bewildered.\n\nThe guardian smiled and said, \"Because you have a kind heart, a curious mind, and a brave spirit. You have the potential to do great things, and this stone will help you along the way.\"\n\nAlingning thanked the guardian and promised to take care of the magical stone. She then made her way back home, filled with joy and excitement.\n\nWhen she arrived home, she shared her adventure with her family, who were awestruck by her discovery. From that day on, Alingning used the magical stone to help her learn new things and solve problems in her village. She became a respected leader, known for her wisdom and kindness.\n\nAnd so, Alingning's life was filled with wonder and adventure, all thanks to a tiny magical stone that she found deep within the mangrove forest. And every night, before she went to bed, she would look at the stone and remember the lessons she learned from her journey – to be kind, curious, and brave.\n\nGoodnight, my dear daughter. May you always have a kind heart, a curious mind, and a brave spirit.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "brave": "moral",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.74",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "72.66",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

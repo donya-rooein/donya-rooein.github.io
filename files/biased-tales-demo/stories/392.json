@@ -1,0 +1,26 @@
+{
+  "id": "p-c-11-rp-2-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful village nestled at the foot of a majestic mountain. The village was known as \"Shahr-e Aroosi,\" or \"Wedding City,\" because it was said that anyone who got married in this village would have a long and happy marriage.\n\nIn this village lived a kind and gentle mother named Mahin, and her young son, Ali. Ali was a curious and adventurous boy, who loved exploring the hills and forests that surrounded the village.\n\nOne day, while playing near the river, Ali stumbled upon a small, golden key. The key was so beautiful and shiny that Ali couldn't help but pick it up and examine it. He wondered what the key could possibly open.\n\nAli ran back to the village, eager to show his mother the key. Mahin looked at the key and smiled. \"This is a very special key, my dear,\" she said. \"It is said to open the door to a magical garden, where all your dreams and wishes will come true.\"\n\nAli's eyes grew wide with excitement. \"Where is this magical garden, Mother?\" he asked.\n\nMahin took Ali's hand and led him to a hidden path in the forest. They walked for what seemed like hours, until they came upon a beautiful and mysterious door. The door was made of solid gold, with intricate carvings and delicate jewels.\n\nAli inserted the key into the lock and turned it. The door slowly creaked open, revealing a stunning and enchanting garden. The garden was filled with vibrant and exotic flowers, graceful fountains, and sweet-smelling fruit trees.\n\nAli and Mahin explored the garden, marveling at the wonders they saw. They met talking animals, played games with the fairies, and danced with the nymphs.\n\nAs the sun began to set, Mahin and Ali sat down on a soft and inviting patch of grass. \"Mother,\" Ali asked, \"what is the most important thing in life?\"\n\nMahin thought for a moment, then smiled. \"The most important thing in life, my dear son, is to be kind and loving to others, and to cherish the time we have with our family and friends.\"\n\nAli hugged his mother tightly, and they watched as the stars began to twinkle in the sky above. They knew that they would always treasure this special and magical day in the garden, and that they would carry the memory with them for the rest of their lives.\n\nFrom that day on, Ali and Mahin were even closer than before. They continued to explore the world around them, but always remembered the lessons they had learned in the magical garden.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember the story of Ali and Mahin, and the importance of love, kindness, and family. Good night, my dear, and sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "eager": "emotional",
+    "excited": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.72",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "81.22",
+  "generation_nationality": "Iranian",
+  "generation_country": "Iran",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

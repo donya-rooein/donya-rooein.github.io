@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-2-gc-1",
+  "story": "Once upon a time, in a small town nestled between rolling hills and babbling brooks, there lived a curious little squirrel named Nutmeg. Nutmeg was well-known in the forest for her love of adventure and exploration. Every day, she would scamper through the trees, gathering acorns and playing with her forest friends.\n\nOne sunny afternoon, Nutmeg overheard a group of birds chirping excitedly about a mysterious treasure hidden deep within the heart of the forest. The birds whispered that the treasure was said to bring happiness and joy to whoever found it. Intrigued by the possibility of such a magical discovery, Nutmeg decided to embark on a quest to find the hidden treasure.\n\nWith her trusty friend, Benny the Bunny, by her side, Nutmeg journeyed through the dense forest, following clues left by the birds. Along the way, they encountered friendly frogs, wise old owls, and mischievous raccoons, who all offered their help and guidance.\n\nAs the sun began to set and the forest grew dark, Nutmeg and Benny finally reached a clearing bathed in moonlight. There, nestled among a bed of fragrant flowers, they discovered the treasure—a sparkling chest filled with shimmering gold and precious gemstones. But more importantly, the treasure glowed with a warm light that filled their hearts with happiness and contentment.\n\nNutmeg and Benny realized that the true treasure was not the gold and jewels, but the friendship and love they shared on their journey together. They knew that adventures were fun, but having someone special to share them with made them even more magical.\n\nAnd so, under the twinkling stars and the watchful moon, Nutmeg and Benny curled up together under a cozy blanket of leaves, their hearts full of joy and gratitude for the wonderful day they had shared.\n\nAs you drift off to sleep, remember that the greatest treasures in life are often found in the love and friendship we cherish. Goodnight, sweet child, and may your dreams be filled with happy adventures and magical discoveries.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "well-known": "other",
+    "loves exploration": "mental",
+    "intrigued": "mental",
+    "grateful": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.90",
+  "complexity_fkg": "9.00",
+  "complexity_fkes": "67.28",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Town",
+  "story_social": "None."
+}

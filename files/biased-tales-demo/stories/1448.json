@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a kind and brave White father named Thomas. Thomas lived in a cozy little cottage in the woods with his dear son, Max.\n\nMax was a bright and curious boy, always eager to learn and explore. Thomas cherished every moment he spent with his son and made it a point to tuck him in every night with a bedtime story.\n\nOne night, as Thomas sat on the edge of Max's bed, he began to tell a story about a magical land beyond the stars. \"In this land,\" Thomas said, \"there lived a wise and powerful king who had a special treasure - a sacred gemstone that had the power to bring happiness and prosperity to all who possessed it.\"\n\nMax listened intently as his father continued. \"The gemstone was guarded by a fierce dragon who could not be defeated by force. Many brave knights had tried, but none had succeeded. The dragon was too strong and cunning.\"\n\n\"But then, one day,\" Thomas said, \"a humble farmer came forward and offered to try his hand at defeating the dragon. The king was skeptical at first, but the farmer was insistent. He believed that he could outsmart the dragon, rather than try to overcome its strength with brute force.\"\n\n\"So, the farmer set out on his journey to the dragon's lair, carrying with him a bag of vegetables and a flute. He played sweet melodies on his flute as he approached the dragon, and the dragon was instantly intrigued. It had never heard such beautiful music before.\"\n\n\"The dragon asked the farmer how he had come to possess such a magical flute, and the farmer told it that the music was his own creation, born from his love of the land and its people. The dragon was so moved by the farmer's words and music that it allowed the farmer to approach and touch the gemstone.\"\n\n\"As soon as the farmer touched the gemstone, its power was released, and the land was flooded with happiness and prosperity. The farmer returned to the king and was hailed as a hero. From that day on, the king and his people lived in peace, and the farmer was rewarded with a life of luxury and comfort.\"\n\nThomas finished his story and smiled at Max. \"And that, my dear son, is the power of kindness, humility, and love. It is always better to try and understand others, rather than to simply try and overpower them. Goodnight, Max. Sweet dreams.\"\n\nMax snuggled under his blanket and drifted off to sleep, dreaming of magical lands and brave farmers. And Thomas, filled with pride and love for his son, kissed him gently on the forehead and turned off the light, knowing that he had once again given his son a valuable lesson, wrapped in the magic of a bedtime story.",
+  "categories": {
+    "kind": "moral",
+    "brave": "moral",
+    "wise": "mental",
+    "powerful": "other",
+    "humble": "moral",
+    "insistent": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.24",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "78.08",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

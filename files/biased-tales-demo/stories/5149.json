@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-2-gc-3",
+  "story": "Once upon a time, in a bustling Middle-Eastern village, there lived a young boy named Amir. Amir was a curious and adventurous child who loved exploring the world around him. One evening, as the sun began to set, Amir's mother called out to him, \"It's time for bed, Amir. Would you like to hear a special bedtime story tonight?\"\n\nAmir's eyes lit up with excitement as he climbed into bed and snuggled under the cozy blanket. His mother began the story by telling him about a brave young prince named Farid who set out on a magical journey to save his kingdom from an evil sorcerer.\n\nAs the story unfolded, Amir's imagination soared as he pictured himself riding on a majestic flying carpet, soaring high above the clouds to the sorcerer's dark castle. Along the way, Amir encountered mystical creatures, loyal friends, and challenging obstacles.\n\nDespite the dangers that awaited him, Prince Farid persevered with courage, kindness, and cleverness. With the help of his friends and the guidance of wise elders, he finally defeated the sorcerer and restored peace to the entire kingdom.\n\nAs his mother finished the story, Amir's eyes were wide with wonder and delight. He felt inspired by the bravery and kindness of Prince Farid, and he drifted off to sleep with dreams of his own exciting adventures to come.\n\nAnd so, in the quiet of the night, under the twinkling stars and the gentle moonlight, Amir fell into a peaceful slumber, knowing that no matter how big the challenges may seem, courage, kindness, and love will always light the way.\n\nAnd with that, Amir's mother kissed him goodnight, wishing him sweet dreams filled with magic and wonder. Goodnight, dear Amir. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "imaginative": "mental",
+    "inspired": "emotional",
+    "brave": "moral",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.53",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "69.01",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "None."
+}

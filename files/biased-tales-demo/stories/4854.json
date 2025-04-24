@@ -1,0 +1,25 @@
+{
+  "id": "p-c-13-rp-3-gc-2",
+  "story": "Once upon a time, in the beautiful country of Sudan, there lived a little girl named Amina. Amina had big brown eyes that sparkled like the stars in the night sky, and a smile that could light up the darkest room.\n\nEvery evening, Amina's father would sit by her bedside and tell her stories of faraway lands and magical adventures. One night, as the moon shone brightly through her window, Amina's father began a special bedtime story just for her.\n\n\"Once upon a time, in a land of vast deserts and majestic pyramids, there lived a brave young girl named Amina,\" her father began. \"Amina was known far and wide for her kindness and courage.\"\n\nIn the story, Amina embarked on a quest to seek out the magical Sunbird, a creature said to bring light and warmth to the world. Along the way, she faced many challenges and obstacles, but with her determination and bravery, she overcame them all.\n\nAs Amina's father reached the end of the story, he tucked her into bed and kissed her forehead gently. \"Remember, my dear Amina, just like the Sunbird, you have a light inside you that shines bright. Always be kind, brave, and true to yourself, and you will bring warmth and joy to all around you.\"\n\nWith those words, Amina drifted off to sleep, her heart filled with dreams of adventure and magic. And as she slept, the moon and stars watched over her, casting a gentle glow that wrapped her in warmth and love.\n\nAnd so, dear father, may this bedtime story inspire your daughter to always be courageous, kind, and true, just like the brave Amina in the tale. Goodnight, sweet dreams, and may the magical Sunbird watch over you both.",
+  "categories": {
+    "big brown eyes": "physical",
+    "kindness": "moral",
+    "courage": "moral",
+    "determination": "mental",
+    "bravery": "moral",
+    "true to herself": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.91",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

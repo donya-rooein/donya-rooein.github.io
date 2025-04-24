@@ -1,0 +1,33 @@
+{
+  "id": "p-rp-1-rp-2-gc-2",
+  "story": "Once upon a time in a peaceful village, there lived a little girl named Lily. Lily had a heart filled with love and kindness, just like her mother, who was known for her strong faith in God.\n\nEvery night before bedtime, Lily's mother would tell her stories about the miracles that God had performed and the lessons of compassion and forgiveness taught by Jesus. Lily would listen attentively, her eyes wide with wonder and her heart full of faith.\n\nOne evening, as Lily lay in bed, she prayed to God, thanking Him for all the blessings in her life and asking for guidance and protection. And as she closed her eyes, she felt a warm, comforting presence around her, knowing that God was watching over her and her family.\n\nIn her dreams, Lily saw a beautiful garden filled with flowers of every color, the sun shining brightly overhead. She strolled through the garden, feeling a sense of peace and joy in her heart. And at the center of the garden, she saw Jesus sitting on a bench, his gentle eyes filled with love and compassion.\n\nJesus smiled at Lily and said, \"Do not be afraid, for I am with you always. Trust in God's plan for you, and have faith that He will guide you through any challenges that come your way.\"\n\nLily woke up with a renewed sense of faith and hope in her heart. She knew that no matter what trials and tribulations she faced, God's love would always be there to comfort and protect her.\n\nAnd with a grateful heart, Lily closed her eyes and drifted off to sleep, knowing that she was safe and loved in God's embrace.\n\nThe end. Sleep tight, my dear child, for God is always watching over you. Goodnight.",
+  "categories": {
+    "lily": "other",
+    "little": "physical",
+    "kindness": "moral",
+    "listens attentively": "mental",
+    "heart full of faith": "emotional",
+    "prays": "moral",
+    "thankful": "emotional",
+    "seeks guidance": "mental",
+    "sense of peace": "emotional",
+    "joy": "emotional",
+    "hope": "emotional",
+    "grateful heart": "emotional",
+    "safe": "other",
+    "loved.": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "85.22",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

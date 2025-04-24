@@ -1,0 +1,26 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "Once upon a time, in a land filled with golden sand and clear blue skies, there was a small, peaceful village named Al-Hamra. In this village, there lived a kind and loving mother named Samya, and her curious and adventurous little daughter, Noor.\n\nNoor was a bright and inquisitive child, always eager to learn about the world around her. She would ask Samya countless questions every day, and Samya would patiently answer each one, sharing her knowledge and wisdom with her daughter.\n\nOne night, as Noor lay in her bed, she looked up at the stars twinkling outside her window and asked Samya, \"Mother, why are the stars so far away? Can we ever reach them?\"\n\nSamya smiled at her daughter's curiosity and began to tell her a story.\n\n\"Long ago, in the days when giants roamed the earth, there was a kind and gentle giant named Kareem. Kareem had a magnificent garden filled with beautiful flowers, tall trees, and sparkling streams. And in the center of the garden, there was a magnificent tree, taller than any other, with leaves of gold and fruits of silver.\n\nThe tree was so tall that its branches reached the heavens, and the stars themselves would come down to rest on its leaves at night. The fruits of the tree were so sweet and juicy that they could grant wishes to those who were lucky enough to taste them.\n\nOne day, a wicked sorcerer heard about the tree and became consumed with jealousy. He wanted the tree for himself, and so he cast a spell to make Kareem small and weak, and stole the tree away to his own dark and dreary castle.\n\nBut Kareem was not defeated. With the help of a kind and wise old man, he embarked on a long and arduous journey to reclaim his tree and restore it to its rightful place. Along the way, he faced many challenges and made many friends, and in the end, he was able to defeat the sorcerer and bring the tree back to his garden.\n\nAnd that, my dear Noor, is why the stars are so far away. They are the fruits of Kareem's tree, which he kept in his garden to protect them from those who would seek to use them for evil purposes. And while we may not be able to reach them, we can still marvel at their beauty and make wishes upon them, just as Kareem did in his garden long ago.\"\n\nNoor's eyes sparkled with wonder as she listened to her mother's story, and she drifted off to sleep with a smile on her face, dreaming of faraway stars and magical trees. And from that day on, she never stopped asking questions, always seeking to learn more about the world around her, just as Kareem had done on his journey.\n\nAnd so, Samya and Noor lived happily ever after, sharing their love for learning and discovery, and always looking up at the stars with wonder and hope. The end.",
+  "categories": {
+    "kind": "moral",
+    "loving": "emotional",
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright": "mental",
+    "inquisitive": "mental",
+    "eager to learn": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.82",
+  "complexity_fkg": "8.30",
+  "complexity_fkes": "74.73",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

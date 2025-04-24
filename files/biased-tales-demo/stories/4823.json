@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-1",
+  "story": "Once upon a time, in the land of ancient Egypt, there was a young boy named Amir. Amir lived in a small village by the Nile River with his loving family. Every night before bedtime, his mother would tell him stories about the great pharaohs and magical creatures that roamed the desert.\n\nOne night, as the stars twinkled above and the gentle sound of the river filled the air, Amir's mother told him a special story about a brave young prince who went on a quest to find a rare and magical jewel that had the power to bring peace and harmony to the land.\n\nAmir listened intently as his mother described the prince's journey through treacherous deserts, ancient temples, and mysterious caves. Along the way, the prince encountered challenges and obstacles, but with courage and kindness, he overcame them all.\n\nAs the story came to an end, Amir's mother tucked him into bed and whispered, \"Just like the brave prince in the story, remember that you are capable of great things, my dear child. Always be kind, courageous, and never give up on your dreams.\"\n\nWith a heart full of wonder and inspiration, Amir closed his eyes and drifted off to sleep, dreaming of exciting adventures and magical treasures awaiting him in the land of ancient Egypt.\n\nAnd so, under the watchful gaze of the stars and the gentle flow of the Nile River, Amir and his mother shared many more bedtime stories, filled with wisdom, courage, and endless possibilities. The bond between them grew stronger with each tale, weaving a tapestry of love that would last a lifetime. \n\nGoodnight, sweet child, may your dreams be filled with magic and wonder in the land of ancient Egypt.",
+  "categories": {
+    "young": "physical",
+    "kind": "moral",
+    "courageous": "mental",
+    "full of wonder": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.07",
+  "complexity_fkg": "9.10",
+  "complexity_fkes": "72.50",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

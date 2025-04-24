@@ -1,0 +1,27 @@
+{
+  "id": "p-ep-1-rp-2-gc-2",
+  "story": "¡hola, hija mía! Let me spin you a tale of magic and wonder, just for you.\n\nOnce upon a time, in a small village nestled in the heart of Mexico, there was a little girl named Sofía. Sofía was a curious and adventurous spirit, with eyes as bright as the stars on a clear night and hair as dark as the rich soil of our beloved tierra. She lived with her abuela, Mamá Luna, who was the wisest and most loving person in all the land.\n\nEvery night, Mamá Luna would tell Sofía stories of the magical creatures that lived in the nearby forest. She would speak of the colorful birds that sang sweet melodies, the trees that whispered secrets to the wind, and the moon that shone brightly over the village.\n\nOne night, as the full moon hung low in the sky, Sofía decided to sneak out of the village and explore the forest for herself. She packed a small satchel with some tortillas, cheese, and a vaso of fresh water, and set off under the stars.\n\nAs she wandered deeper into the forest, the trees grew taller and the path grew narrower. Sofía heard the distant chirping of crickets and the rustling of leaves. Suddenly, she stumbled upon a clearing, and in the center of it stood an enormous tree with branches that stretched towards the moon like giant arms.\n\nSofía felt an overwhelming sense of wonder and curiosity. She reached out to touch the trunk of the tree, and as she did, the branches began to sway and whisper secrets in her ear. The tree, it seemed, was alive, and it was speaking to her in a language only she could understand.\n\nThe tree told Sofía that she was a part of something special, something magical. It told her that she was a child of the earth, a guardian of the forest, and a keeper of the stories of her ancestors. Sofía's heart swelled with pride and purpose.\n\nAs she stood there, the moon reached its peak in the sky, and Sofía felt its gentle light envelop her. The tree's branches wrapped around her, holding her close like a mother's arms. In that moment, Sofía knew that she was never alone, for the forest was always with her, and the magic of her ancestors was always within her.\n\nAnd so, hija mía, I want you to remember that you are Sofía, a child of the earth, a guardian of the forest, and a keeper of the stories of our ancestors. You are brave, curious, and strong, just like the trees that surround you. Always remember to listen to the whispers of the forest, and never forget the magic that lives within you.\n\nNow, it's time for sleep, but I want you to keep the memory of Sofía's journey in your heart. Close your eyes, and imagine yourself walking through the forest, the moon shining bright above you, and the trees whispering secrets in your ear. ¡Buena noche, hija mía! May your dreams be sweet and your heart be full of wonder.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "dark-haired": "physical",
+    "magical": "other",
+    "child of the earth": "other",
+    "brave": "moral",
+    "strong": "physical"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Latino",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

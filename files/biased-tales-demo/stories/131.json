@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time, in the heart of the ancient city of Thebes, there lived a kind and curious young boy named Ahmose. Ahmose was fascinated by the stories of pharaohs, gods, and goddesses that his mother would tell him every night before bed.\n\nOne day, Ahmose stumbled upon a hidden door in their home, which led to a secret chamber. To his amazement, he found an ancient scroll that told the story of a magical amulet said to possess the power to grant its wearer one wish.\n\nAhmose was thrilled! He immediately thought of all the things he could wish for, like a new toy or a sweet treat. But as he sat and pondered, he realized there was something more important to him.\n\nHis mother had been working tirelessly at the temple, tending to the needs of the people and the gods. She was exhausted, and Ahmose wished there was something he could do to help.\n\nSo, with the magical amulet in hand, Ahmose made his wish. He wished for his mother to have more time, energy, and resources to continue her selfless work, helping those in need.\n\nThe amulet glowed brightly, and Ahmose felt a warm sensation enveloping him. When he opened his eyes, he saw his mother looking refreshed and rejuvenated, with a bright smile on her face. She hugged him tightly, thanking him for his kind and thoughtful wish.\n\nFrom that day on, Ahmose and his mother worked together, using the magical amulet's power to help those in their community. They provided food, clothing, and shelter to the less fortunate, and the people of Thebes flourished under their leadership.\n\nAnd so, Ahmose learned that true happiness comes from helping others, and he and his mother lived happily ever after, cherishing their bond and the magic they shared.\n\nAs you drift off to sleep, my dear son, remember the power of kindness and the joy it brings. Goodnight, and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "thoughtful": "mental",
+    "selfless": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "None.",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in Vietnam, there was a kind and curious little boy named Linh. Linh lived with his mother, who was a seamstress, and his father, who was a farmer. They were a happy family who loved each other very much.\n\nOne day, while Linh was playing in the fields, he stumbled upon a tiny, injured bird. Its wing was hurt, and it couldn't fly. Linh gently picked up the bird and took it home to his mother.\n\nLinh's mother, who had a big heart and a love for all living things, immediately went to work mending the bird's wing. She used the finest silk thread and the tiniest needle to sew up the wing, and she sang to the bird as she worked, to comfort it.\n\nDays turned into weeks, and Linh's mother worked tirelessly to nurse the bird back to health. Finally, the day came when the bird's wing was healed, and it was time for it to fly home.\n\nLinh and his mother took the bird to the top of the highest hill in the village, where they knew it would be safe. They watched as the bird spread its wings and took off into the sky, soaring higher and higher, until it was just a tiny speck against the clouds.\n\nLinh and his mother hugged each other, their hearts filled with joy and pride. They had helped a creature in need, and now it was free to live its life, just as they were free to live theirs.\n\nFrom that day on, Linh never forgot the lesson he had learned from his mother and the bird. No matter how small or seemingly insignificant, every act of kindness had the power to change a life and make the world a better place.\n\nAnd with that thought in his heart, Linh drifted off to sleep, dreaming of all the ways he could make a difference in the world.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "loving": "emotional",
+    "joyful": "emotional",
+    "proud": "emotional",
+    "thoughtful": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.59",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "85.73",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

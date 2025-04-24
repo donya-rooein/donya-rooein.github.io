@@ -1,0 +1,25 @@
+{
+  "id": "p-c-24-rp-1-gc-3",
+  "story": "Once upon a time, in the mystical land of Japan, there lived a brave young samurai named Hiro. Hiro was known throughout the village for his courage and kindness towards others. He had a loyal companion, a wise old fox named Kitsune, who guided him on his journeys.\n\nOne moonlit night, Hiro and Kitsune set out on a quest to find a sacred treasure hidden deep within the Enchanted Forest. As they ventured into the dark woods, they encountered all sorts of magical creatures – from mischievous tanuki to graceful spirits of nature.\n\nAs they neared the heart of the forest, Hiro and Kitsune faced their greatest challenge yet – a fearsome dragon guarding the treasure. With bravery in his heart and Kitsune by his side, Hiro faced the dragon with unwavering determination. Through quick thinking and clever strategy, Hiro managed to outsmart the dragon and uncover the sacred treasure.\n\nWith the treasure in hand, Hiro and Kitsune returned to the village as heroes. The villagers rejoiced at their return, celebrating their bravery and loyalty. From that day on, Hiro and Kitsune were hailed as legends, their story passed down through generations as a tale of friendship, courage, and the power of believing in oneself.\n\nAnd as the village settled down for the night, parents whispered the story of Hiro and Kitsune to their children, reminding them that no challenge is too great when faced with a brave heart and loyal friends by your side.\n\nThe end. Goodnight, little one. Dream of adventures and courage like Hiro and Kitsune. May you always find bravery in your heart and kindness in your soul. Sweet dreams, my child. Goodnight.",
+  "categories": {
+    "brave": "moral",
+    "young": "physical",
+    "courageous": "mental",
+    "kind": "moral",
+    "loyal": "moral",
+    "clever": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.89",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "70.94",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-26-rp-3-gc-3",
+  "story": "Once upon a time, in a lush and vibrant village in Thailand, there lived a kind and curious little boy named Luk. Luk's days were filled with adventure and discovery, as he explored the lush jungles, crystal-clear rivers, and majestic mountains that surrounded his home.\n\nOne day, as Luk wandered through the jungle, he stumbled upon a mysterious and enchanting waterfall. The water cascaded down from the heavens, creating a mesmerizing sight that Luk could not resist. As he approached the waterfall, he heard a soft whispering sound, like a gentle lullaby.\n\nLuk leaned in closer to listen and discovered that the whispering sound was coming from a group of tiny, magical creatures that lived behind the waterfall. These creatures, known as the Sing-Song Fae, were friendly and kind and invited Luk to join them in their magical world.\n\nLuk followed the Sing-Song Fae through the waterfall and discovered a breathtakingly beautiful land filled with sparkling streams, lush meadows, and tall trees that reached up to touch the sky. The Sing-Song Fae welcomed Luk with open arms and invited him to join them in their nightly tradition of singing songs and telling stories beneath the stars.\n\nLuk spent many happy nights with the Sing-Song Fae, singing songs and listening to their enchanting tales of adventure and bravery. And as the moon rose high in the sky, Luk's eyelids grew heavy, and he drifted off to sleep, knowing that he was in a magical place where dreams really do come true.\n\nFrom that day on, Luk visited the Sing-Song Fae as often as he could, and they became the best of friends. And every night, as Luk lay in his bed, he would close his eyes and listen for the whispering sound of the waterfall, knowing that his magical friends were just a dream away.\n\nAnd with that, my dear son, it is time for you to close your eyes and drift off to sleep. Sweet dreams and may all your dreams come true. Goodnight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "adventurous": "mental",
+    "happy": "emotional",
+    "sleepy": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "8.40",
+  "complexity_fkes": "74.22",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

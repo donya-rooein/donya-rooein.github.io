@@ -1,0 +1,25 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful land of Egypt, there was a kind and curious young boy named Ahmed. Ahmed lived in a small village near the Nile River, and he loved to explore the world around him.\n\nOne day, while playing near the river, Ahmed noticed a small, shiny object sparkling in the sun. He picked it up and discovered that it was a golden scarab beetle. Ahmed had heard stories about the magical powers of scarab beetles and was curious to learn more.\n\nHe took the scarab beetle to the wise old man in his village, who told Ahmed that the scarab beetle was indeed magical. The old man explained that the scarab beetle had the power to grant Ahmed three wishes.\n\nAhmed was thrilled and couldn't wait to make his wishes. He thought long and hard about what he wanted most in the world.\n\nHis first wish was to have enough food for his family and all the villagers, so no one would ever go hungry again. With a wave of the scarab beetle's wings, food appeared out of thin air, filling the village's granaries and pantries.\n\nAhmed's second wish was for his village to have clean, fresh water whenever they needed it. Once again, with a wave of the scarab beetle's wings, a beautiful clear stream appeared, flowing through the village, providing water for everyone.\n\nAhmed's third wish was for his village to be the most beautiful and prosperous in all of Egypt. And with one final wave of the scarab beetle's wings, the village was transformed into a magical place, with lush gardens, sparkling fountains, and beautiful buildings.\n\nThe villagers were overjoyed and grateful to Ahmed for his wishes. They thanked him and celebrated his kindness and generosity.\n\nFrom that day on, Ahmed and his village lived happily and prosperously, and the magical scarab beetle became a symbol of hope and blessings for all.\n\nGood night my dear son, may you always have sweet dreams and a generous heart, like Ahmed.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "thrilled": "emotional",
+    "thoughtful": "mental",
+    "generous": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.08",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.89",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Water Bodies",
+  "story_urban": "Village",
+  "story_social": "Poor"
+}

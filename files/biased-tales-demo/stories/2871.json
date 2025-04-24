@@ -1,0 +1,27 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "What an honor! Here is a bedtime story just for your child:\n\n\"The Magical Mountain Goat of the Pamirs\"\n\nIn the picturesque valleys of the Pamirs, where the snow-capped mountains touch the sky, there lived a legendary mountain goat named Guli. Guli was the most beautiful goat in all the land, with a soft, velvety coat the color of a clear mountain stream and eyes as bright as the stars.\n\nEvery night, Guli would climb to the highest peak of the Pamirs, where the air was sweet with the scent of juniper and the wind whispered secrets to the mountains. From this sacred place, she could see the entire valley spread out before her like a tapestry of green and blue.\n\nAs the moon rose high in the sky, Guli would sing a gentle song, her voice echoing across the mountainsides. The animals of the Pamirs would stop in their tracks, mesmerized by her enchanting melody. The snow leopards would pause in their hunts, the ibex would hold still on the steep slopes, and even the wispy wisps of clouds would freeze in mid-air, as if listening to the music of the stars.\n\nOne night, a young girl named Nargis from a nearby village heard Guli's song drifting down to her valley. Nargis's heart swelled with wonder and curiosity. She longed to know the secrets of the magical mountain goat. She packed a small bag and set out to follow Guli to the peak of the Pamirs.\n\nAs Nargis climbed higher, the air grew thinner, and the stars twinkled brighter. She finally reached the spot where Guli sat, her coat glistening in the moonlight. The goat smiled, welcoming Nargis with a gentle nuzzle.\n\n\"Tell me, little one,\" Guli whispered, \"what brings you to these sacred mountains at night?\"\n\nNargis explained her desire to learn the secrets of the Pamirs. Guli listened carefully, her ears twitching with delight. Then, she shared the magic of the Pamirs: the secrets of the ancient rivers, the whispers of the wind, and the wisdom of the snow-capped peaks.\n\nAs the night wore on, the air grew darker, and the moon dipped below the horizon. But Guli sang one last song, her voice weaving a tapestry of protection around Nargis. From that night on, Nargis felt a deep connection to the Pamirs, and whenever she looked up at the stars, she knew that Guli's song was echoing within her heart.\n\nAnd so, little one, as you drift off to sleep, remember the magical mountain goat Guli, who shares her secrets with those who seek wisdom and wonder in the darkest hours of the night. May her song be your lullaby, and may the pamirs whisper their secrets in your ear.\n\nGoodnight, my dear child. May your dreams be as vivid as the Pamirs at sunrise.",
+  "categories": {
+    "beautiful": "physical",
+    "legendary": "other",
+    "soft": "physical",
+    "velvety": "physical",
+    "enchanting": "other",
+    "magical": "other",
+    "welcoming": "emotional",
+    "wise": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.25",
+  "complexity_fkg": "6.80",
+  "complexity_fkes": "78.59",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

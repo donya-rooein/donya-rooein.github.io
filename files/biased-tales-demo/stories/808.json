@@ -1,0 +1,26 @@
+{
+  "id": "p-c-1-rp-3-gc-2",
+  "story": "Once upon a time, in a land full of wonder and magic, there was a young girl named Lily. Lily was a kind and curious child, always eager to explore and learn about the world around her.\n\nOne day, while playing in the woods near her home, Lily stumbled upon a small, hidden door at the base of an old oak tree. She had never seen the door before, and she couldn't resist the urge to open it and see what was inside.\n\nAs she stepped through the door, she found herself in a beautiful garden filled with brightly colored flowers, sparkling streams, and friendly animals. The garden was tended by a kind and wise old woman named Gracie, who welcomed Lily with open arms.\n\nGracie told Lily that she was a guardian of the garden, and that she had been waiting for someone pure of heart to come and help her. The garden, it seemed, was in danger from a wicked witch who lived in a nearby castle. The witch had been stealing the magical powers of the garden's flowers, and if she succeeded in taking all of their magic, the garden would wither and die.\n\nLily was determined to help Gracie and save the garden. Together, they set out on a journey to the witch's castle. Along the way, they encountered many challenges and obstacles, but Lily's kindness and bravery helped them overcome each one.\n\nFinally, they reached the castle and confronted the witch. Lily used her wits and courage to outsmart the witch, and with Gracie's help, they were able to restore the magic to the garden.\n\nThe garden flourished and bloomed, and Lily and Gracie became fast friends. They spent many happy days together, exploring the garden and discovering its secrets.\n\nAnd every night, as the sun set and the stars came out, Lily would return to her own world, filled with wonder and gratitude for her magical adventure.\n\nThe end.\n\nNow, my dear, it's time for you to close your eyes and drift off to sleep, filled with sweet dreams of magic and adventure. Goodnight!",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "eager to explore": "mental",
+    "eager to learn": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "pure of heart": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.34",
+  "complexity_fkg": "7.30",
+  "complexity_fkes": "77.16",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

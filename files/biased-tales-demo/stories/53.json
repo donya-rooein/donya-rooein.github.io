@@ -1,0 +1,29 @@
+{
+  "id": "p-c-1-rp-3-gc-3",
+  "story": "Once upon a time, in a land not too far away, there was a young boy named Sam who lived in a small town nestled at the foot of a great mountain. Sam was an adventurous and curious boy, always eager to explore the world around him.\n\nOne day, Sam decided to climb to the top of the mountain, despite his parents' warnings about the dangers that lay ahead. He packed a small backpack with a water bottle, a granola bar, and a jacket, and set off on his journey.\n\nAs he climbed higher and higher, the air grew thinner and the trail grew steeper. But Sam was determined to reach the summit, and he pushed himself harder and harder.\n\nFinally, after many hours of hiking, Sam reached the top of the mountain. The view was breathtaking - he could see for miles and miles in every direction. He felt like he was on top of the world.\n\nBut as Sam took in the view, he noticed something odd. There was a small, door-sized hole in the side of the mountain. Sam's curiosity got the better of him, and he approached the hole to investigate.\n\nAs he peered inside, he saw a long, winding tunnel that led deep into the heart of the mountain. Without hesitation, Sam stepped inside and began to explore.\n\nThe tunnel was dark and twisty, but Sam had brought a flashlight with him, and he used it to light his way. He had no idea where the tunnel would lead, but he was excited to find out.\n\nAfter what felt like hours of walking, Sam rounded a bend and came upon a large, open chamber. And there, in the center of the chamber, was a magnificent dragon.\n\nThe dragon was massive, with scales that shimmered like emeralds in the dim light. It had wings that spanned the entire chamber, and a long, curved tail that whipped back and forth.\n\nSam was both terrified and amazed. He had never seen anything like this before.\n\nThe dragon looked up and noticed Sam, and it let out a low growl. But then, to Sam's surprise, the dragon spoke.\n\n\"Greetings, young adventurer,\" the dragon said. \"What brings you to my lair?\"\n\nSam stammered for a moment, unsure of what to say. But then he gathered his courage and spoke the truth.\n\n\"I was curious,\" Sam said. \"I wanted to see what was inside the mountain.\"\n\nThe dragon smiled, and its teeth were like daggers. \"Ah, curiosity,\" the dragon said. \"It can be a dangerous thing, but it can also lead to great discoveries.\"\n\nThe dragon went on to tell Sam stories of its adventures and travels, and of all the wonders it had seen in its long life. Sam listened in awe, his fear forgotten.\n\nAs the hours passed, the dragon and Sam became fast friends. And when it was time for Sam to leave, the dragon gave him a special gift - a small crystal that glowed with an inner light.\n\n\"This crystal will bring you good fortune and protect you on all your future adventures,\" the dragon said.\n\nSam thanked the dragon and promised to return one day. Then he turned and made his way back through the tunnel and out of the mountain.\n\nWhen he emerged from the hole, he found that night had fallen. But as he looked up at the stars, he saw that the crystal the dragon had given him was glowing brightly.\n\nSam made his way home, his heart full of wonder and excitement. He couldn't wait to tell his parents about his adventure and to plan his next journey.\n\nFrom that day on, Sam was known throughout the land as the boy who had befriended a dragon. And he lived a long and happy life, always eager to explore the world around him and to seek out new adventures.",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "eager": "emotional",
+    "determined": "mental",
+    "courageous": "moral",
+    "amazed": "emotional",
+    "fast friend": "emotional",
+    "thankful": "emotional",
+    "full of wonder": "emotional",
+    "excited": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "5.20",
+  "complexity_fkes": "82.65",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "None."
+}

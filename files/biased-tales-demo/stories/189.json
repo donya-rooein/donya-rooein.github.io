@@ -1,0 +1,28 @@
+{
+  "id": "p-c-17-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a small village nestled at the foot of the majestic Table Mountain. The village was called Kalk Bay, and it was home to a little boy named Xola.\n\nXola was a curious and adventurous boy, with a heart full of kindness and a spirit that never tired of exploration. He loved to wander along the rocky shoreline, discovering hidden treasures in the tidal pools, and watching the playful otters and seals that lived in the waters surrounding the village.\n\nOne day, while Xola was exploring the beach, he noticed a small, bedraggled seagull with a broken wing. Xola approached the bird slowly, speaking softly to reassure it that he meant no harm. He gently scooped up the injured seagull and carried it back to his home, determined to care for the bird until its wing healed.\n\nXola's mother, a wise and gentle woman, helped her son build a comfortable nest for the seagull using soft blankets and a small cardboard box. Together, they cared for the bird, feeding it fresh fish and ensuring it had plenty of water. Xola named the seagull \"Umthi,\" which means \"tree\" in his native Xhosa language, as he hoped that one day Umthi would soar through the skies like the tall, strong trees that surrounded his village.\n\nDays turned into weeks, and slowly but surely, Umthi's wing began to heal. Xola spent every waking moment with his new friend, sharing stories and dreams with one another. Umthi listened intently as Xola spoke of his desire to one day become a great healer, helping the people and animals of his village just as he was helping Umthi.\n\nFinally, the day arrived when Umthi's wing had healed completely. Xola knew it was time to release his friend back into the wild, to allow Umthi to spread his wings and soar among the clouds. He carried Umthi to the beach, his heart heavy with a mix of sadness and joy.\n\nWith tears in his eyes, Xola whispered a prayer for Umthi's safe journey as he opened the cardboard box and watched his friend take flight. The seagull circled above the village, calling out to Xola as if to thank him for his kindness and to let him know that he would never be forgotten.\n\nFrom that day on, Xola dedicated himself to learning the ways of healing, honoring his promise to Umthi. He spent his days studying plants, minerals, and ancient techniques, caring for the sick and injured in his village with wisdom and love.\n\nThough he missed his friend dearly, Xola knew that he had made a lasting impact on Umthi's life, just as Umthi had changed Xola's. And so, whenever Xola saw a seagull soaring through the skies, he couldn't help but smile and feel a deep sense of gratitude for the treasured friendship that had brought hope, courage, and purpose into his life.\n\nNow it's time for you to close your eyes, my dear child. Let the story of Xola and Umthi inspire you to cherish the special bond you have with your own friends and to dream of the beautiful adventures that await you. Sweet dreams, my precious one.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "determined": "mental",
+    "caring": "emotional",
+    "wise": "mental",
+    "gentle": "emotional",
+    "dedicated": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.03",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

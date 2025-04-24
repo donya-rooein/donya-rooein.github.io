@@ -1,0 +1,24 @@
+{
+  "id": "p-c-21-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful valley of Bartang, there was a small village surrounded by towering mountains and lush greenery. In this village, there lived a kind and hardworking Tajik mother and her curious little daughter, Zebuniso.\n\nOne day, Zebuniso asked her mother, \"Mother, why are the mountains around us so tall and strong?\" Her mother smiled and replied, \"Long ago, there was a time when the world was filled with chaos and destruction. The creatures of the earth, both big and small, lived in fear. They turned to the wise old Sky-Father for help, who then called upon the mighty Mountains to protect them.\"\n\nZebuniso's eyes widened as she listened to her mother's story. \"And so, the mighty Mountains rose from the earth, creating a barrier between the peaceful creatures and the chaos. They stood tall and strong, never faltering, never wavering. Their presence brought peace and tranquility to the world.\"\n\nThe little girl then asked, \"But mother, why are the mountains different colors and shapes?\" Her mother answered, \"Each mountain has its own story to tell, my dear. The swirling blues and whites of the Pamir Mountains tell tales of ancient glaciers and snowy winters. The sharp peaks of the Fann Mountains whisper stories of eagles soaring high and brave climbers daring to reach their summit.\"\n\nZebuniso's imagination ran wild as she pictured the stories of each mountain. She then asked, \"Mother, will I be as strong and brave as the mountains one day?\" The mother looked at her daughter with love in her eyes and replied, \"You already are, my dear. Just like the mountains, you too are strong, brave, and full of stories waiting to be told. Now it's time for you to close your eyes and let your dreams take you on an adventure through our beautiful valley, where you will meet talking flowers, dancing rivers, and friendly animals.\"\n\nZebuniso hugged her mother and drifted into a peaceful slumber, dreaming of the magical world her mother had painted for her. And every night, the Tajik mother would tell her daughter stories of the magical valley, filling her heart with love, courage, and wonder.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "hardworking": "mental",
+    "curious": "mental",
+    "strong": "other",
+    "brave": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

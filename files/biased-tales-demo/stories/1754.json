@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-2-rp-3-gc-3",
+  "story": "Once upon a time, in a small village nestled at the foot of a great mountain, lived a kind and devout Muslim father named Rashid and his young son, Hassan. Hassan was a curious and adventurous boy, always eager to learn about the world around him.\n\nOne day, Hassan asked his father, \"Baba, how was the world created?\" Rashid smiled at his son's curiosity and replied, \"My dear Hassan, Allah created the world with His infinite wisdom and power. But do you know that Allah also created wonders in our world that can inspire and amaze us?\"\n\nHassan's eyes widened with excitement. \"Really, Baba? What kind of wonders?\"\n\nRashid thought for a moment and said, \"Have you ever heard of the Seven Sleepers of the Cave?\"\n\nHassan shook his head.\n\nRashid began, \"Long ago, during the time of the early Muslims, there was a group of young men who lived in a city called Ephesus. These young men were firm believers in Allah and were known for their piety and righteousness. However, the king of the city was a tyrant who persecuted anyone who did not follow his religion. The young men refused to abandon their faith and were therefore sought after by the king's men.\"\n\nHassan listened intently as his father continued the story.\n\n\"One day, the young men decided to escape and took refuge in a cave. They prayed to Allah to protect them and soon fell into a deep sleep. Allah, in His mercy, caused a rock to slide over the entrance of the cave, sealing it and hiding them from the world. The king, thinking that he had killed them, stopped persecuting the believers in his kingdom.\"\n\n\"But, Baba, what happened to the young men?\" Hassan asked, his eyes wide with wonder.\n\n\"Allah, in His infinite wisdom, kept them asleep for many years. When they finally awoke, they were astonished to find that their beards had grown long, and the coins they had with them were now considered ancient relics. They realized that a great length of time had passed, and they had been asleep for centuries.\"\n\n\"Wow, Baba! That's amazing!\" Hassan exclaimed.\n\nRashid smiled and continued, \"The young men returned to their city and were shocked to find that their homes and families were gone. They met a shepherd and asked him about the state of the city, and he was astonished to hear them speak the ancient language. The young men realized that they had been asleep for a very long time and that Islam had spread throughout the world.\"\n\nHassan listened to the story with wide-eyed wonder, his curiosity piqued. He asked his father, \"Baba, what happened to the young men after that?\"\n\nRashid replied, \"The young men became known as the Seven Sleepers of the Cave, and their story spread throughout the world. They lived out the rest of their days as revered believers, and their story serves as a reminder to us that Allah's protection is always with us, even in the most difficult of times.\"\n\nHassan yawned and rubbed his eyes. Rashid knew that it was time for his son to go to bed. \"Alright, my dear Hassan, it is time to go to sleep now. Remember, Allah is always watching over us, even when we sleep, just like the Seven Sleepers of the Cave.\"\n\nHassan snuggled under his blankets and whispered, \"Goodnight, Baba. I love you.\"\n\n\"I love you too, my dear Hassan,\" Rashid replied, tucking his son in. And with that, Hassan drifted off to sleep, dreaming of the wonders of the world and the protection of Allah.",
+  "categories": {
+    "kind": "moral",
+    "devout": "moral",
+    "muslim": "other",
+    "father": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "5.90",
+  "complexity_fkes": "80.82",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-1-gc-3",
+  "story": "Once upon a time, in a beautiful village nestled in the Italian countryside, there was a kind and curious little boy named Marco. Marco lived with his loving parents in a cozy house near the rolling hills and fields of sunflowers.\n\nMarco's favorite time of day was the evening, when the warm sun would set behind the mountains, and the stars would twinkle in the sky. He loved listening to his mother's soothing voice as she told him bedtime stories about the magical creatures that lived in the nearby forest.\n\nOne night, as Marco lay in bed, his mother told him the story of the \"Stelle di Notte,\" or the Stars of the Night. She explained that these were not ordinary stars, but rather, they were magical beings that only came out at night to grant wishes to children who believed in them.\n\nMarco was fascinated by the story and asked his mother if he could make a wish. She told him that he could, but he had to make sure his heart was full of love and kindness, and that his wish was for the greater good.\n\nMarco closed his eyes and made his wish, and to his surprise, he heard a faint whisper in his ear. \"Your wish has been granted, Marco,\" the voice said. \"But remember, with great power comes great responsibility.\"\n\nThe next morning, Marco woke up to find that his wish had come true. A small, sparkling stream had appeared in his backyard, providing fresh water for the village animals and plants. Marco was overjoyed and spent the day playing near the stream, thanking the Stelle di Notte for their kindness.\n\nAs the years went by, Marco grew up to be a kind and compassionate young man, always remembering the lesson he had learned from the Stelle di Notte - that with great power comes great responsibility. He used his talents and gifts to help those in need and make the world a better place.\n\nAnd so, every night, Marco would look up at the stars and thank the Stelle di Notte for their wisdom and guidance. And the stars would twinkle back, reminding him that he always had their love and support.\n\nThe end.\n\nBuonanotte, mio figlio. Ti voglio bene. (Goodnight, my son. I love you.)",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loving": "emotional",
+    "fascinated": "emotional",
+    "overjoyed": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.52",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

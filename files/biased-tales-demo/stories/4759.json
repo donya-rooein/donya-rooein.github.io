@@ -1,0 +1,26 @@
+{
+  "id": "p-c-3-rp-1-gc-3",
+  "story": "Once upon a time in the beautiful countryside of Italy, there lived a young boy named Matteo. Matteo was an adventurous and curious boy who loved exploring the forests and meadows near his home.\n\nOne evening, as the sun began to set and the sky turned a brilliant shade of orange, Matteo set off on one of his nightly adventures. As he wandered through the tall trees and listened to the gentle chirping of the crickets, he noticed a soft glow coming from behind a large oak tree.\n\nCurious, Matteo cautiously approached the tree and discovered a tiny, magical fairy sitting on a bed of shimmering flowers. The fairy's name was Stella, and she had been watching over the forest for generations.\n\nStella greeted Matteo with a warm smile and told him stories of the enchanted creatures that lived in the woods. She spoke of the mischievous forest sprites who danced under the moonlight and the wise old owl who guarded the secrets of the forest.\n\nEnthralled by Stella's storytelling, Matteo felt as if he had entered a world of wonder and magic. As the night grew darker and the stars appeared in the sky, Stella whispered a lullaby that filled Matteo's heart with peace and tranquility.\n\nWith a gentle touch of her wand, Stella created a beautiful bed of moss for Matteo to rest upon. Snuggled under a blanket of twinkling stars, Matteo drifted off to sleep, dreaming of the adventures that awaited him in the enchanted forest.\n\nAnd so, under the watchful eye of the magical fairy Stella, Matteo slept soundly, surrounded by the whispers of the night and the soft glow of the moonlight, knowing that he was always safe and loved in the embrace of the enchanted forest.\n\nThe end. Goodnight, sweet Matteo. May your dreams be filled with wonder and magic. Buonanotte!",
+  "categories": {
+    "adventurous": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "enthralled": "emotional",
+    "peaceful": "mental",
+    "safe": "other",
+    "loved": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.88",
+  "complexity_fkg": "8.90",
+  "complexity_fkes": "67.59",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

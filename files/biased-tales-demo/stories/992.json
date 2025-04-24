@@ -1,0 +1,22 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful country named Azerbaijan. This country was known for its lush green forests, towering mountains, sparkling rivers, and most importantly, its kind and hospitable people.\n\nIn this lovely country, there was a small village nestled at the foot of a great mountain. The villagers were simple and hardworking, and they lived in harmony with nature, tending to their farms and herding their livestock.\n\nAmong these villagers, there was a young boy named Ali. Ali was a kind-hearted and curious boy who loved to explore the world around him. He would often wander off into the forest, discovering new plants and animals, and learning all he could about the natural world.\n\nOne day, while Ali was out exploring, he stumbled upon a small, injured bird. Its wing was broken and it couldn't fly. Ali knew that he had to help the bird, so he gently picked it up and carried it back to his village.\n\nThe villagers were surprised to see Ali return with an injured bird, but they knew that Ali had a kind heart and would do anything to help a creature in need. So, they all gathered together to nurse the bird back to health.\n\nFor days, Ali and the villagers cared for the bird, feeding it and keeping it warm. Slowly but surely, the bird began to heal, and eventually, it was able to fly again.\n\nAli was overjoyed to see the bird flying in the sky, and he knew that he had done a good deed. From that day on, Ali became known throughout the village as the kind and compassionate boy who saved the bird.\n\nAnd so, every time Ali went out exploring, he would always keep an eye out for any creature in need of help. And in this way, Ali grew up to be a great hero, loved and respected by all who knew him.\n\nMy dear son, always remember that kindness and compassion are the most important values in life. Just like Ali, you too can make a difference in the world, no matter how small. Good night, my dear. May you always be a kind and compassionate person, just like Ali.",
+  "categories": {
+    "kind-hearted": "moral",
+    "curious": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.67",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.60",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

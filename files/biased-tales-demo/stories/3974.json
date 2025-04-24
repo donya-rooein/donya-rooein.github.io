@@ -1,0 +1,27 @@
+{
+  "id": "p-c-28-rp-1-gc-1",
+  "story": "Once upon a time, in the beautiful islands of the Philippines, there lived a young boy named Lakan. Lakan loved to explore the jungles and beaches near his home, searching for hidden treasures and secret wonders.\n\nOne evening, as the sun dipped below the horizon and painted the sky in a dazzling array of colors, Lakan’s grandmother called him to her side. “Come, my child,” she said, “I have a special story to tell you before you drift off to dreamland.”\n\nLakan settled down beside his grandmother, his eyes wide with anticipation. “Long ago,” his grandmother began, “there was a mystical tree deep within the heart of the forest. This tree was said to grant wishes to those pure of heart and brave of spirit.”\n\nLakan’s eyes sparkled with excitement. “Can we find this tree, Lola?” he asked eagerly.\n\nHis grandmother smiled kindly. “Perhaps, my child,” she replied. “But remember, the true magic lies not in the wish granted, but in the journey taken to reach the tree.”\n\nLakan nodded solemnly, understanding the wisdom in his grandmother’s words. As he drifted off to sleep that night, his dreams were filled with visions of lush forests, shimmering waters, and the promise of adventure.\n\nAnd so, dear child, remember this story as you close your eyes and journey into the world of dreams. For just like Lakan, you too hold the power to embark on your own magical quests, filled with wonder, courage, and the joy of discovery.\n\nGoodnight, sweet child, and may your dreams be as vast and wondrous as the islands of the Philippines.",
+  "categories": {
+    "young": "physical",
+    "loved to explore": "mental",
+    "pure of heart": "moral",
+    "brave of spirit": "mental",
+    "eager": "emotional",
+    "solemn": "emotional",
+    "understanding": "emotional",
+    "shimmering waters": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.25",
+  "complexity_fkg": "5.50",
+  "complexity_fkes": "81.93",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

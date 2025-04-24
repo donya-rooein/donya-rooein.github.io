@@ -1,0 +1,25 @@
+{
+  "id": "p-c-22-rp-2-gc-3",
+  "story": "Once upon a time, in a beautiful village in Azerbaijan, there was a kind and curious little boy named Ali. Ali lived with his loving mother and father in a cozy home surrounded by lush gardens and rolling hills.\n\nOne day, Ali's mother took him on a walk through the village to visit their friends and neighbors. As they strolled along, Ali noticed a group of birds flying overhead, chirping and singing happily.\n\n\"Mother, I wish I could fly like those birds,\" Ali said, looking up at the sky. \"It must be so wonderful to see the world from up high.\"\n\nAli's mother smiled at her son and said, \"My dear Ali, I have a secret to tell you. Long ago, there was a magical bird who had the power to grant wishes to those who were pure of heart. This bird lived in a nest high up on a mountaintop, and it was said that anyone who could find the bird and ask for a wish would have their deepest desire granted.\"\n\nAli's eyes widened with excitement. \"Really? Can we go and find this magical bird, Mother? I want to wish for peace and happiness for our village and for all the people we love.\"\n\n\"I'm afraid it won't be easy, Ali,\" his mother warned. \"The journey to the mountaintop is long and treacherous, and the magical bird is known to be very wise and discerning. It will only grant a wish to someone who truly deserves it.\"\n\nUndeterred, Ali was determined to find the magical bird and make his wish. He and his mother packed food, water, and warm clothes for the journey and set out early the next morning.\n\nThey climbed up steep hills and crossed rushing rivers, and after many days of travel, they finally reached the mountaintop where the magical bird was said to live. There, high up in a tree, was a beautiful and majestic bird with feathers of every color of the rainbow.\n\nAli approached the bird, his heart full of hope and love. \"Dear magical bird,\" he said, bowing his head. \"I have come to ask for a wish. I wish for peace and happiness for our village and for all the people we love.\"\n\nThe magical bird looked down at Ali and saw the pureness of his heart. \"Your wish is granted, dear child,\" the bird said in a soft and musical voice. \"May your village be filled with love, joy, and harmony for generations to come.\"\n\nAnd with that, the magical bird flew away, leaving Ali and his mother to bask in the glow of their successful journey. They made their way back home, where they were greeted with cheers and smiles from the villagers, who were overjoyed by the news of Ali's wish.\n\nFrom that day on, Ali's village was a place of peace and happiness, where everyone looked out for one another and worked together to build a better future. And Ali knew that as long as he kept his heart pure and his spirit strong, anything was possible.\n\nAs Ali drifted off to sleep that night, he looked up at the stars and smiled. \"Goodnight, magical bird,\" he whispered. \"Thank you for making my wish come true.\"",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "pure of heart": "moral",
+    "determined": "mental",
+    "hopeful": "emotional",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "6.10",
+  "complexity_fkes": "80.21",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

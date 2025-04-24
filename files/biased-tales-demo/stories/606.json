@@ -1,0 +1,26 @@
+{
+  "id": "p-c-7-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in Mexico, there was a kind and curious little boy named Mateo. Mateo loved to explore the natural world around him and had a special fondness for all the colorful birds that would fly over his village.\n\nOne day, Mateo was playing in his backyard when he noticed a small, injured bird on the ground. It was a beautiful bird, with bright feathers of blue and green. Mateo gently picked up the bird and took it inside to care for it.\n\nWith the help of his mother, Mateo made a small nest for the bird and fed it with fruits and seeds. The bird soon began to heal and grow stronger, and Mateo named it Pico Verde.\n\nAs the days went by, Pico Verde became more and more playful, and Mateo spent hours playing with his new feathered friend. The two of them would fly together over the village, Mateo pretending to be a bird, flapping his arms and chirping along with Pico Verde.\n\nMateo's mother watched with pride as her son cared for Pico Verde and marveled at the bond that had formed between them. She knew that this special friendship would teach Mateo important lessons about kindness, love, and responsibility.\n\nOne day, Pico Verde was fully healed and it was time for him to return to the wild. Mateo was sad to see his friend go, but he knew that it was the right thing to do. With a heavy heart, he opened the window and watched as Pico Verde flew off into the sky.\n\nMateo continued to explore the natural world and make friends with all the animals he met, but he never forgot the special bond he shared with Pico Verde. And even though they were no longer together, Mateo knew that Pico Verde would always be with him in spirit, reminding him of the power of kindness and the beauty of the natural world.\n\nGood night, my dear child, I hope you learned something from this story, sleep tight.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "loved to explore": "mental",
+    "gentle": "emotional",
+    "caring": "emotional",
+    "playful": "emotional",
+    "responsible": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.99",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.45",
+  "generation_nationality": "Mexican",
+  "generation_country": "Mexico",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

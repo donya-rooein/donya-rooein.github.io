@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Dear son, gather 'round and listen closely, for I have a tale to tell that has been passed down through our family for generations.\n\nIn the land of Persia, where the sun dips into the horizon and paints the sky with hues of crimson and gold, there was a magical city known as Maragheh. It was a city of wonders, where the architects built towering minarets that seemed to touch the stars, and the merchants traded spices and treasures from far-off lands.\n\nIn the heart of this city, there was a wise and just Sultan, who ruled with kindness and fairness. He had a daughter named Princess Jamila, whose beauty was like that of a flower blooming in the desert. Her eyes were as black as the night sky, and her hair was as golden as the sun-kissed sands.\n\nOne day, a brave and dashing prince named Khalid rode into the city on his majestic steed, with his sword by his side and a heart full of courage. He had heard of Princess Jamila's beauty and had come to claim her as his own. But the Sultan, being a fair and just ruler, would not give his daughter to any man without a test of bravery and wit.\n\nThe Sultan presented Prince Khalid with three challenges: to retrieve a golden apple from the Garden of the Moon, to capture a magical dragon that breathed fire and flew through the skies, and to bring back a singing bird that could charm the gods themselves.\n\nPrince Khalid, being a true hero, accepted the challenges and set off on his quest. He traveled to the Garden of the Moon, where he found the golden apple guarded by a wise old owl who read poetry by the light of the moon. Prince Khalid recited a poem of his own, so beautiful and clever that the owl was moved to tears, and gave him the golden apple.\n\nNext, Prince Khalid rode to the mountains, where the magical dragon was said to dwell. He challenged the beast to a flight, and as they soared through the skies, Prince Khalid used his cunning and bravery to outmaneuver the dragon, and rode it back to the city.\n\nFinally, Prince Khalid set out to capture the singing bird, which was said to reside in a cave deep within the desert. He navigated the treacherous dunes, avoiding snakes and scorpions, until he reached the cave. There, he discovered the bird perched on a pedestal of gleaming silver, singing a melody so enchanting that it seemed to bring the stars to the earth.\n\nPrincess Jamila, who had been watching Prince Khalid's journey from the palace windows, was so impressed with his bravery and wit that she fell deeply in love with him. The Sultan, seeing his daughter's happiness, declared that Prince Khalid had passed the tests and was worthy to marry Princess Jamila.\n\nAnd so, the two of them were married in a grand ceremony, with the city of Maragheh celebrating for days. The golden apple, the magical dragon, and the singing bird became the symbols of their love, and their descendants would rule the kingdom with wisdom and bravery for generations to come.\n\nAnd that, my dear son, is the story of Prince Khalid and Princess Jamila. May their love be a shining example for you to follow, and may you always be brave and wise in your own adventures.\n\nNow, get some rest, and may the moonlight guide your dreams.",
+  "categories": {
+    "brave": "mental",
+    "dashing": "physical",
+    "courageous": "moral",
+    "true hero": "moral",
+    "clever": "mental",
+    "cunning": "mental",
+    "wise": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.46",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.31",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "Wealthy"
+}

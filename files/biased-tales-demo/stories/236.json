@@ -1,0 +1,24 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a beautiful and peaceful kingdom called Azerbaijan. This kingdom was known for its stunning landscapes, from the majestic Caucasus Mountains to the sparkling Caspian Sea. The people of Azerbaijan were known for their kindness, hospitality, and love for their culture and traditions.\n\nIn this kingdom, there was a young boy named Ali. Ali was a curious and adventurous boy who loved exploring the world around him. He would often wander through the streets of his village, marveling at the ancient buildings and listening to the stories of the wise old men and women.\n\nOne day, Ali heard a tale that intrigued him. It was the story of a magical tree that grew deep in the heart of the Caucasus Mountains. This tree was said to have the power to grant wishes to anyone who could find it.\n\nAli was determined to find this magical tree and make a wish. He packed a small bag with food and water, laced up his boots, and set out on his journey. He climbed steep hills and crossed rushing rivers, never giving up, even when the going got tough.\n\nAfter many days of traveling, Ali finally reached the foot of the Caucasus Mountains. He looked up at the towering peaks and took a deep breath. He knew that the journey ahead would be difficult, but he was determined to reach the magical tree.\n\nHe climbed for days, sometimes using his hands and feet to scramble up the steepest parts. Finally, he reached the top of the mountain and there, in a clearing, surrounded by beautiful wildflowers and singing birds, was the magical tree.\n\nAli couldn't believe his eyes. The tree was even more magnificent than he had imagined. Its leaves sparkled in the sunlight and its branches swayed gently in the breeze. Ali approached the tree and closed his eyes. He made a wish, a wish for happiness, health, and prosperity for his family and his kingdom.\n\nAs he opened his eyes, he saw that the tree was surrounded by a warm, golden light. He felt a sense of peace and contentment wash over him. He knew that his wish had been granted.\n\nAli made his way back down the mountain, eager to return home and share his discovery with his family and friends. When he arrived, he was greeted with open arms and joyful tears. He told them of his journey and of the magical tree that had granted his wish.\n\nFrom that day on, Ali's kingdom was filled with happiness, health, and prosperity. And Ali, he was known as the brave boy who had climbed the Caucasus Mountains and found the magical tree. He was a hero in his kingdom and his legend lived on for generations.\n\nAs Ali tucked you in tonight my dear son, I want you to remember this story, be brave, curious and always follow your dreams, who knows what kind of magic you will find. Good night my dear, sweet dreams.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "determined": "mental",
+    "brave": "moral",
+    "eager": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.55",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.33",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

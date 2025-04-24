@@ -1,0 +1,23 @@
+{
+  "id": "p-rp-3-rp-2-gc-3",
+  "story": "Once upon a time, in a small village in India, there lived a kind and generous Hindu mother named Sita. She had a young son named Ravi, who was curious and always full of questions.\n\nOne day, Ravi asked his mother, \"Mother, why do we pray to the gods and goddesses every day?\"\n\nSita thought for a moment and said, \"My dear Ravi, we pray to the gods and goddesses to give us strength, wisdom, and prosperity. But most importantly, we pray to be good and kind to others, just as the gods and goddesses are to us.\"\n\nRavi was still curious, so Sita decided to tell him a bedtime story about the importance of being kind and compassionate.\n\n\"Once upon a time, in a far-off kingdom, there was a cruel king who only cared about his own desires and pleasures. He never showed any kindness or compassion to his subjects.\n\nOne day, a wise old sage came to the king's court and warned him that his cruel ways would bring disaster upon his kingdom. But the king paid no heed to the sage's words.\n\nSoon enough, a great drought struck the kingdom, and the crops failed. The people were starving, and there was no food to be found. The king, however, was unaffected, as he had hoarded food and wealth for himself.\n\nBut the gods and goddesses, seeing the suffering of the people, decided to teach the cruel king a lesson. They sent a mythical bird, the Garuda, to steal all of the king's food and wealth and distribute it among the people.\n\nThe king was furious and ordered his soldiers to capture the Garuda. But the bird was too quick and clever for them, and it continued to steal from the king and give to the people.\n\nIn the end, the king realized his mistakes and begged the gods and goddesses for forgiveness. They appeared before him and told him that the only way to atone for his sins was to show kindness and compassion to his people.\n\nFrom that day forward, the king changed his ways and became a benevolent ruler. He shared his wealth and resources with his people, and the kingdom flourished once again.\n\nAnd so, my dear Ravi, we must always remember to be kind and compassionate to others, just as the gods and goddesses are to us.\"\n\nRavi listened to his mother's story and fell asleep, dreaming of a world where everyone was kind and compassionate to one another. And Sita smiled, knowing that her son had learned an important lesson.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "wise": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.48",
+  "complexity_fkg": "6.70",
+  "complexity_fkes": "78.69",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "None.",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-6-rp-3-gc-3",
+  "story": "Once upon a time, in a bustling Middle-Eastern village, there lived a young boy named Omar. Omar was a kind and curious child who loved exploring the dusty streets and playing in the golden sands of the desert. Every evening, as the sun began to set behind the distant sand dunes, Omar's father would gather him around the flickering fire to tell him stories of far-off lands and mystical creatures.\n\nOne night, as the stars twinkled brightly in the velvet sky, Omar's father began a tale of a brave young prince who set out on a daring adventure to save his kingdom from a terrible curse. The prince faced many challenges along the way - from treacherous deserts to enchanted forests - but he never lost hope or courage.\n\nAs Omar listened intently to his father's soothing voice, he imagined himself as the fearless prince, riding gallantly on his noble steed through the vast expanse of the desert. He felt a surge of bravery and determination, knowing that even in the face of darkness, he could triumph with kindness and courage.\n\nAnd so, as the fire crackled and the moon rose high in the sky, Omar drifted into a peaceful slumber, his heart filled with dreams of adventure and bravery. And as his father quietly watched over him, he whispered a silent prayer for his son's safety and happiness, knowing that in the warmth of their love, Omar would always find the courage to face whatever challenges life may bring.\n\nAnd with that, the night unfolded its velvet blanket over the slumbering village, cradling young Omar in a world of dreams and possibilities. And in his heart, he carried the strength and wisdom of his father's words, ready to face each new day with a brave and kind spirit.\n\nThe end. Goodnight, little one. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fearless": "mental",
+    "brave": "moral",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.03",
+  "complexity_fkg": "9.60",
+  "complexity_fkes": "71.18",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "Middle-Eastern",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-3-gc-3",
+  "story": "Once upon a time in a beautiful village in the Italian countryside, there was a kind and curious little boy named Marco. Marco lived with his parents in a cozy stone house with a vibrant garden filled with bright flowers and delicious vegetables. Marco's father was a skilled carpenter, and his mother was an amazing cook who made the most delicious pasta and pizza in the entire region.\n\nOne sunny day, Marco decided to go on an adventure to find the legendary Golden Apple Tree, which was said to bear the most delicious fruit in the world. He packed a bag with a bottle of water, a piece of focaccia, and a small knife, and set off towards the mountains.\n\nAs Marco climbed higher and higher, he encountered many obstacles, from fierce winds to steep cliffs. But he was determined to find the Golden Apple Tree, and he refused to give up.\n\nAfter many hours of hiking, Marco finally reached the top of the mountain and stumbled upon a hidden grove filled with golden trees. In the center of the grove stood a magnificent tree laden with golden apples that shimmered in the sunlight.\n\nMarco's eyes widened with amazement as he approached the tree and picked one of the golden apples. It was the most delicious fruit he had ever tasted, sweet and tart with a hint of honey.\n\nJust as Marco was about to take another bite, he heard a rustling in the bushes. He turned to see a small, frightened fox hiding behind a bush.\n\n\"Hello, little fox,\" Marco said softly. \"Are you lost?\"\n\nThe fox whimpered and nodded its head. Marco felt a pang of sadness in his heart. He knew how it felt to be lost and alone.\n\n\"Don't worry, little fox,\" Marco said. \"I'll help you find your way home.\"\n\nTogether, Marco and the little fox made their way down the mountain. Along the way, they shared stories and laughter, and Marco even gave the fox a few bites of his golden apple.\n\nWhen they finally reached the village, Marco and the little fox were greeted with cheers and applause from the villagers. Marco's parents rushed to his side, beaming with pride and joy.\n\n\"Marco, you've been gone for days!\" his mother cried, hugging him tightly.\n\n\"But look what he brought back!\" his father exclaimed, pointing to the golden apple in Marco's hand.\n\nFrom that day on, Marco and the little fox became the best of friends, and the villagers would often see them playing together in the garden. And whenever Marco took a bite of the golden apple, he was reminded of the day he helped a lost little fox and found a true friend.\n\nAs Marco lay in bed that night, his father whispered a bedtime story in his ear, a story of courage, determination, and friendship that Marco would remember for the rest of his life.\n\n\"Buonanotte, mio ​​figlio,\" Marco's father said softly, kissing him on the forehead. \"Sweet dreams.\"\n\nAnd with a smile on his face, Marco drifted off to sleep, dreaming of golden apples and adventures yet to come.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "helpful": "moral",
+    "courageous": "mental",
+    "adventurous": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.92",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "72.46",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

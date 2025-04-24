@@ -1,0 +1,26 @@
+{
+  "id": "p-c-13-rp-2-gc-1",
+  "story": "Here is a bedtime story for your child:\n\n**The Magical Golden Scarab**\n\nOnce upon a time, long ago in our beloved land of Sudan, there was a beautiful golden scarab beetle named Khalid. Khalid lived in a cozy little nest made of soft earth and leaves beneath a sprawling acacia tree. Every day, he would fly out into the world to explore and make friends with the other creatures of the savannah.\n\nOne day, Khalid heard about a magical oasis hidden deep in the desert. The oasis was said to have the most delicious dates and sweetest water, and all the animals of the desert would travel long distances to taste its wonders. Khalid decided he had to see this magical place for himself.\n\nAs he soared over the sandy dunes, the sun beating down on his shiny black body, he met a wise old tortoise named Amira. Amira told Khalid that the journey to the oasis was not easy, but she would give him a special gift to help him on his way.\n\nAmira handed Khalid a tiny, glowing stone that would guide him through the winding paths and treacherous sandstorms. \"Just hold onto this stone, little one,\" she said, \"and you will find your way to the oasis.\"\n\nKhalid was overjoyed and thanked Amira with all his heart. He held the stone tightly in his mandibles and set off towards the oasis. The stone glowed brighter and brighter, leading him through the shifting sands and over rocky ridges.\n\nAt last, Khalid reached the oasis, and his eyes grew wide with wonder. Palm trees swayed in the breeze, and the air was filled with the sweet scent of dates and the gentle chirping of birds. Khalid devoured the juiciest dates he had ever tasted and drank from the crystal-clear water.\n\nJust as he was about to leave, he met a friendly gazelle named Fatma, who invited him to rest in her cozy burrow for the night. Fatma told Khalid stories of the stars above and the secrets of the desert, and Khalid felt as if he had found a true friend.\n\nThe next morning, Khalid said goodbye to Fatma and thanked her for her kindness. He set off on his return journey, his heart full of joy and wonder.\n\nFrom that day on, Khalid shared his magical adventure with all his friends in the savannah. They would gather 'round to hear tales of the sparkling oasis and the wise old tortoise who had given him the glowing stone.\n\nAnd now, my dear child, it is time for you to go back to your cozy bed. Close your eyes and dream of Khalid's magical journey, and know that the stars above are shining just for you.\n\nSleep tight, my little one. May your heart be filled with wonder and your dreams be sweet.",
+  "categories": {
+    "beautiful": "physical",
+    "golden": "other",
+    "adventurous": "mental",
+    "curious": "mental",
+    "grateful": "emotional",
+    "joyful": "emotional",
+    "friendly": "emotional"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.00",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "86.84",
+  "generation_nationality": "Sudanese",
+  "generation_country": "Sudan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "",
+  "story_social": "None."
+}

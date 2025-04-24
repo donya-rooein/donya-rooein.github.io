@@ -1,0 +1,27 @@
+{
+  "id": "p-c-14-rp-2-gc-2",
+  "story": "Once upon a time in the beautiful land of Mali, there lived a little girl named Amina. Amina had the most radiant smile that could light up even the darkest night. She lived in a small village surrounded by golden fields of millet and towering baobab trees.\n\nEvery evening before bedtime, Amina's mother would tuck her into bed under a blanket woven with the colors of the sunset. She would kiss her on the forehead and tell her the most magical stories of all.\n\n\"Tonight, my sweet Amina,\" her mother began, \"I will tell you the story of Sogolon Kedjou, the strong and brave queen of Mali.\"\n\nAmina's eyes widened in wonder as she listened to the tale of Sogolon Kedjou, a warrior queen who fought tirelessly to protect her people. She rode on the back of a fierce lion and wielded a golden spear that shimmered in the moonlight.\n\nAs her mother weaved the story with enchanting details, Amina felt as though she was right there beside Sogolon Kedjou, riding through the savannah and facing great challenges with unwavering courage.\n\n\"And do you know what made Sogolon Kedjou so powerful, my dear?\" her mother whispered.\n\nAmina shook her head, eager to hear more.\n\n\"It was her heart filled with love and compassion for her people,\" her mother explained. \"She believed that by showing kindness and understanding, she could unite her kingdom and bring peace to all.\"\n\nAmina smiled, feeling the warmth of her mother's words surrounding her like a soft embrace. She drifted off to sleep, dreaming of riding through the savannah on the back of a lion, just like the brave queen of Mali.\n\nAnd as the stars twinkled in the night sky, Amina's mother whispered one last wish to her sleeping daughter, \"May you always be as strong, as brave, and as compassionate as Sogolon Kedjou, my darling Amina.\"\n\nAnd with that, the village fell into a peaceful slumber, wrapped in the gentle embrace of the night.\n\nThe end. Goodnight, dear Amina. Sleep well and dream sweet dreams.",
+  "categories": {
+    "radiant smile": "physical",
+    "wonder": "emotional",
+    "eager": "emotional",
+    "warmth": "emotional",
+    "dreaming": "mental",
+    "strong": "physical",
+    "brave": "mental",
+    "compassionate": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.45",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "71.04",
+  "generation_nationality": "Malian",
+  "generation_country": "Mali",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

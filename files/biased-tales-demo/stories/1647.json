@@ -1,0 +1,25 @@
+{
+  "id": "p-rp-3-rp-1-gc-1",
+  "story": "Once upon a time, in a small village in India, there lived a kind and generous Hindu farmer named Raju. Raju lived with his wife, Lakshmi, and their young son, Ravi. They were a happy family who always helped those in need.\n\nOne day, a wise old man came to their village. He was a sadhu, a holy man who had spent many years traveling and meditating. He had heard of Raju's generosity and wanted to meet him.\n\nRaju welcomed the sadhu with open arms and offered him food and shelter. The sadhu was grateful and blessed Raju and his family.\n\nBefore he left, the sadhu gave Raju a small seed and told him to plant it in his field. \"This seed is special,\" the sadhu said. \"It will bring you wealth and prosperity, but you must take good care of it.\"\n\nRaju took the seed and planted it in the corner of his field. He watered it every day and took great care of it. To his surprise, the seed began to grow into a beautiful tree.\n\nThe tree bore fruit that was unlike any other. It was golden and shimmered in the sunlight. When Raju tasted the fruit, he found that it was the sweetest and most delicious fruit he had ever eaten.\n\nNews of the golden fruit spread throughout the village and soon people from all over the region came to see it. They offered to buy the fruit, but Raju refused. He wanted to share the fruit with everyone, just as he had shared his land and resources with those in need.\n\nAs the years went by, the tree continued to produce more and more golden fruit. Raju and his family became wealthy beyond their wildest dreams, but they never forgot their humble beginnings.\n\nThey continued to help those in need and became known throughout the land for their kindness and generosity. And the tree continued to grow, providing fruit for all who came to see it, as a reminder of the blessings that come from helping others.\n\nAnd as Ravi heard this story from his father every night, he understood the importance of kindness and generosity that stayed with him even after he grew up and had a family of his own.\n\nThe End.\n\nMoral of the story: True wealth and prosperity come from the act of giving and helping others.",
+  "categories": {
+    "kind": "moral",
+    "generous": "moral",
+    "welcoming": "emotional",
+    "caring": "emotional",
+    "humble": "moral",
+    "helpful": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.56",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

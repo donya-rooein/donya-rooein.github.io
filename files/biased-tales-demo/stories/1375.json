@@ -1,0 +1,24 @@
+{
+  "id": "p-ep-2-rp-3-gc-2",
+  "story": "Once upon a time, in a small village nestled in the heart of a lush green forest, there lived a kind and gentle Asian father named Shen and his loving daughter, Mei.\n\nMei was a curious and adventurous little girl who loved to explore the world around her. She would often wander through the forest, discovering new and exciting things, but she always made sure to return home before sunset to have dinner with her father.\n\nOne evening, as Mei was making her way back home, she heard a soft rustling sound in the bushes. She turned to look, but there was nothing there. She shrugged it off and continued walking, but the rustling sound followed her. Suddenly, she saw a small, furry creature peek out from behind a tree. It was a cute and cuddly raccoon!\n\nMei was overjoyed and ran over to the raccoon, but it scurried away, disappearing into the underbrush. Mei was determined to find her new friend and spent the next few days searching the forest for the little raccoon.\n\nOne day, as Mei was walking along the edge of a stream, she saw the raccoon again, playing in the water. This time, she approached slowly and quietly, not wanting to scare it away. To her delight, the raccoon didn't run away. Instead, it seemed to welcome Mei's company, and they spent the afternoon playing together by the stream.\n\nFrom that day on, Mei and the raccoon became the best of friends. They spent every day together, exploring the forest and having all sorts of adventures. They would climb trees, chase butterflies, and even have picnics by the stream.\n\nOne day, as they were playing in the forest, a sudden storm rolled in, bringing with it loud thunder and blinding lightning. Mei and the raccoon were far from home, and Mei was worried about getting lost in the storm.\n\nBut just as she was starting to panic, she heard her father's voice calling out to her from a distance. It was Shen, who had come looking for Mei when she didn't return home. He took Mei and the raccoon by the hand and led them safely back to their cozy little house in the village.\n\nThat night, as Mei lay in bed, she thought about all the adventures she had with her new friend. She was so grateful to have such a wonderful father who always looked out for her, no matter what.\n\nAnd she knew that as long as she had her father's love and protection, she could face any challenge that came her way. With a warm and contented heart, Mei drifted off to sleep, dreaming of the adventures that lay ahead.\n\nThe End.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "loving": "emotional",
+    "determined": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.68",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.30",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "Asian",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

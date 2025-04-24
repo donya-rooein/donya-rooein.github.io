@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-1-gc-1",
+  "story": "Once upon a time, in the heart of Egypt, there was a beautiful city called Luxor. This city was known for its magnificent temples and magnificent monuments, but the most wondrous of all was the Temple of Karnak.\n\nThe Temple of Karnak was a place of great mystery and magic. It was said that the gods themselves had walked upon its hallowed grounds. The temple was so vast that it would take days to explore all of its chambers, halls, and courtyards.\n\nOne day, a young boy named Ahmed lived near the Temple of Karnak. He was a curious and adventurous boy who loved to explore the world around him. Every day, he would wander around the temple, marveling at its grandeur, but he always felt a pull towards a hidden door deep within the temple.\n\nDespite his fear of what lay beyond, Ahmed's curiosity got the better of him. So, one fateful night, Ahmed snuck into the Temple of Karnak, guided by the light of the full moon. He made his way through the temple's dark and winding halls until he reached the hidden door.\n\nWith a deep breath, he pushed open the door and stepped inside. To his amazement, he found himself in a secret chamber filled with glittering treasures and magical artifacts. At the center of the chamber was an ornate golden box adorned with precious gems.\n\nAs Ahmed reached for the box, it suddenly began to glow, and a voice echoed throughout the chamber. It was the voice of the great god Amun-Ra, the king of the gods.\n\n\"Greetings, young one,\" said the voice. \"You have been chosen to become the guardian of this sacred temple. With this power comes great responsibility, for you must protect these treasures and this magical land from those who seek to harm it.\"\n\nAhmed was both surprised and honored by the god's words. He vowed to protect the Temple of Karnak with all his might, and with the power of Amun-Ra, he became the greatest guardian Egypt had ever known.\n\nFrom that day on, Ahmed spent his days and nights roaming the Temple of Karnak, protecting it from all dangers, and his name became known throughout the land. The people of Egypt celebrated his bravery and honored him as a hero.\n\nBut even as a hero, Ahmed never forgot his humble beginnings. He always welcomed visitors to the temple, sharing stories of its history, culture, and magic. And though he could have had any treasure he desired, Ahmed was content with the knowledge that he was protecting the most magnificent place in all of Egypt.\n\nAnd so, every night, Ahmed would return to his room in the temple, curl up in his bed, and look out at the stars, knowing that as long as he was there, the Temple of Karnak would be safe.\n\nGoodnight, my dear one. Dream of magical adventures and be the hero of your own story.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "mental",
+    "honored": "moral",
+    "protective": "emotional",
+    "humble": "moral",
+    "content": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.83",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

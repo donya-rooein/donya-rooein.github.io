@@ -1,0 +1,25 @@
+{
+  "id": "p-c-28-rp-2-gc-1",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya loved to explore the world around her, but every night, her mother would tell her a bedtime story to help her drift off to sleep.\n\nOne night, Maya's mother told her a story about a magical place called the Land of the Sleeping Giants. In this land, there were giant people who slept for hundreds of years at a time. They were so big that when they slept, their bodies created hills and mountains, and their dreams created the most beautiful and colorful skies.\n\nMaya was fascinated by this story and asked her mother if they could visit the Land of the Sleeping Giants someday. Her mother smiled and said, \"Perhaps we can, my dear. But for now, it is time for you to close your eyes and dream of your own magical places.\"\n\nMaya nodded and snuggled under her blankets. As she drifted off to sleep, she imagined herself in the Land of the Sleeping Giants, exploring the hills and valleys created by their bodies and watching the beautiful, swirling colors of their dreams.\n\nThe next morning, Maya woke up feeling refreshed and excited to start the day. She told her mother about her dream and asked if they could go on an adventure to find the Land of the Sleeping Giants. Her mother laughed and said, \"My dear, the Land of the Sleeping Giants is just a bedtime story. But who knows, maybe one day we can go on a real adventure and discover our own magical places.\"\n\nAnd with that, Maya and her mother set off on a journey to explore the beautiful islands of the Philippines, finding their own magical places along the way. Every night, Maya would fall asleep with a smile on her face, knowing that she had a loving mother who would always be there to tell her bedtime stories and take her on exciting adventures.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "fascinated": "emotional",
+    "excited": "emotional",
+    "imaginative": "mental",
+    "loving": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.94",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "75.64",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

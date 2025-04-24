@@ -1,0 +1,23 @@
+{
+  "id": "p-c-17-rp-2-gc-3",
+  "story": "Once upon a time, in the beautiful land of South Africa, there was a kind and curious young boy named Thabo. Thabo lived in a cozy house at the foot of the majestic Drakensberg mountains, surrounded by lush forests and rolling hills.\n\nThabo's favorite time of day was twilight, when the sun began to set and the sky turned brilliant shades of pink, orange, and purple. He would often spend his evenings sitting on the porch, watching the animals gather at the nearby watering hole.\n\nOne evening, as Thabo was enjoying the sunset, he noticed a tiny, glowing light flickering in the distance. Intrigued, he decided to follow it, wandering deeper into the forest than he had ever been before.\n\nAs Thabo got closer to the light, he realized that it was coming from a tiny, winged creature with shimmering golden wings. It was a small fairy, no bigger than Thabo's thumb, and she was surrounded by a group of other fairies, all busy preparing for a special celebration.\n\nThabo watched in awe as the fairies danced and sang, their voices like the sweetest birdsong. They invited Thabo to join them, and he spent the most magical evening of his life dancing and laughing with his new fairy friends.\n\nAs the night drew to a close, the fairy queen approached Thabo and thanked him for joining their celebration. She granted him a special gift - the ability to see and hear the fairies whenever he wanted. From that day forward, Thabo spent many happy evenings with his fairy friends, listening to their stories and learning their secrets.\n\nAnd so, Thabo grew up to be a kind, curious, and magical young man, cherishing the memories of his special friendship with the fairies of the Drakensberg mountains.\n\nAs Thabo drifted off to sleep that night, his mother smiled and whispered, \"Goodnight, my dear Thabo. May your dreams be filled with fairies and magic.\"\n\nAnd they were.\n\nThe end.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "magical": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.29",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

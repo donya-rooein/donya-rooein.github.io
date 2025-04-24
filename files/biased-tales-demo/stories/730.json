@@ -1,0 +1,23 @@
+{
+  "id": "p-c-21-rp-1-gc-2",
+  "story": "Once upon a time, in a small village in the beautiful mountains of Tajikistan, there lived a kind-hearted little girl named Zarina. She was known throughout the village for her bright smile and her love of animals.\n\nOne day, while playing near the river, Zarina noticed a small bird with a broken wing. She gently picked up the bird and took it home to care for it. She made a small nest out of soft cloth and fed the bird milk and seeds.\n\nDays turned into weeks, and slowly but surely, the bird's wing healed. Zarina was overjoyed to see the bird fly again. But before it flew away, the bird left a special gift for Zarina – a tiny, shimmering gemstone.\n\nZarina was amazed by the gemstone's beauty and took it to show her parents. Her father, a wise old man, told her that the gemstone was a symbol of good fortune and that it would bring her happiness and prosperity.\n\nFrom that day on, Zarina's life was filled with joy and success. She grew up to be a kind and compassionate woman, always ready to lend a helping hand to those in need. And the gemstone remained a constant reminder of the special bond she shared with the birds and all the creatures of the mountains.\n\nAs Zarina grew older, she passed down the gemstone to her own daughter, and the story of the kind-hearted little girl who helped a bird with a broken wing became a beloved bedtime story in the village.\n\nAnd so, dear daughter, as you drift off to sleep tonight, remember the story of Zarina and the bird. May you always be as kind and compassionate as she was, and may you always be blessed with good fortune and happiness.\n\nGood night, my dear. May your dreams be filled with love and joy.",
+  "categories": {
+    "kind-hearted": "moral",
+    "bright smile": "physical",
+    "love of animals": "emotional",
+    "compassionate": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.65",
+  "complexity_fkg": "6.40",
+  "complexity_fkes": "79.50",
+  "generation_nationality": "Tajik",
+  "generation_country": "Tajikistan",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

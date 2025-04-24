@@ -1,0 +1,26 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Magandang gabi, anak! (Good evening, child!)\n\nOnce upon a time, in a small barrio in the Philippines, there was a magical land hidden behind a waterfall. The people who lived there were called the Luntiang Buh-ok, which means \"Green and Lively\" in our native tongue.\n\nIn this magical land, there was a young boy named Pogi, which means \"handsome\" in Tagalog. Pogi had big brown eyes and curly black hair, just like you, anak! He lived with his loving family in a small village surrounded by lush green mountains and sparkling rivers.\n\nPogi loved to explore the magical land and play with his friends. One day, while wandering through the forest, he stumbled upon a hidden cave behind the waterfall. As he entered the cave, he saw a beautiful fairy perched on a rock, surrounded by twinkling fireflies and glowing mushrooms.\n\nThe fairy introduced herself as Makiling, the guardian of the land. She told Pogi that the Luntiang Buh-ok were in trouble. A wicked sorcerer had cast a spell on the land, causing the green to wither and the rivers to dry up. The people were struggling to find food and water, and darkness had begun to creep over the land.\n\nMakiling asked Pogi to help her break the spell and save the Luntiang Buh-ok. Pogi, being a brave and kind-hearted young boy, agreed to take on the challenge.\n\nTogether, Pogi and Makiling set out on a journey to find the sorcerer's lair. Along the way, they met many creatures who helped them on their quest. There were friendly tamaraws (water buffaloes) who carried them across rivers, and a wise old owl who gave them wise advice. They even met a mischievous baka (monkey) who tried to trick them, but ended up becoming their friend.\n\nAs they approached the sorcerer's lair, they found it was guarded by a fierce dragon. But Pogi was not afraid. With his quick thinking and bravery, he outsmarted the dragon and they entered the lair.\n\n Inside, they found the sorcerer, a wicked old man with a long white beard. He revealed that he was indeed behind the curse and laughed, thinking he had won. But Pogi and Makiling were not deterred. With the help of their new friends, they broke the curse and restored the magic to the land.\n\nThe Luntiang Buh-ok cheered as the green returned, the rivers flowed again, and the sun shone bright. The people celebrated with feasts and music, and Pogi was hailed as a hero.\n\nAnd so, anak, remember that even the smallest among us can make a big difference when we work together and believe in ourselves. Just like Pogi, you too can be brave and kind, and make the world a brighter and more wonderful place.\n\nNow, get some rest, anak. May the magic of the Luntiang Buh-ok guide you in your dreams, and may your heart remain full of courage and kindness.\n\nMahal na mahal kita, anak! (I love you so much, child!)",
+  "categories": {
+    "young": "physical",
+    "handsome": "physical",
+    "big brown eyes": "physical",
+    "curly black hair": "physical",
+    "brave": "mental",
+    "kind-hearted": "moral",
+    "quick thinking": "mental"
+  },
+  "model": "llama3",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "5.30",
+  "complexity_fkes": "82.44",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "Village",
+  "story_social": "None."
+}

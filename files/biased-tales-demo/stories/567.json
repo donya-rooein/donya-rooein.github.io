@@ -1,0 +1,25 @@
+{
+  "id": "p-c-3-rp-1-gc-1",
+  "story": "Once upon a time, in a small village nestled in the rolling hills of Tuscany, there lived a young boy named Marco. Marco was a curious and adventurous boy, who loved nothing more than exploring the countryside and discovering new things.\n\nOne sunny afternoon, after a long day of playing in the fields and orchards, Marco decided to take a shortcut through the forest on his way home. As he walked along the winding path, he heard a gentle rustling in the bushes beside him.\n\nAt first, Marco thought it might be a rabbit or a squirrel, but as he peered into the underbrush, he saw a small, frightened bird with bright red feathers. The bird was trapped in a hunter's snare, and its wing was twisted and broken.\n\nMarco's heart went out to the poor creature, and he knew he had to help. Carefully, he untangled the bird from the snare and cradled it in his hands, whispering soothing words as he examined its injured wing.\n\nThe bird looked up at Marco with grateful eyes, and he knew that he had made a new friend. From that day on, Marco and the bird, whom he named Rosso, became inseparable. They spent their days exploring the hills and fields together, and Marco took great care to make sure that Rosso was always safe and well-fed.\n\nAs the seasons changed, Marco and Rosso grew stronger and closer, and they had many adventures together. They climbed trees, swam in streams, and chased butterflies through the meadows. And whenever Marco felt sad or lonely, he knew that he could always count on Rosso to make him smile.\n\nYears went by, and Marco grew up to be a strong and healthy young man, with Rosso by his side every step of the way. And even though they were no longer as agile and playful as they once were, they still enjoyed spending their days together, basking in the warm Tuscan sun and reveling in the beauty of the world around them.\n\nAnd so, Marco and Rosso lived happily ever after, a testament to the power of friendship, love, and the enduring bond between a boy and his bird.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "caring": "emotional",
+    "compassionate": "emotional",
+    "strong": "physical",
+    "healthy": "physical"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

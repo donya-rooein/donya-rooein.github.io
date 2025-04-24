@@ -1,0 +1,30 @@
+{
+  "id": "p-rp-3-gc-3",
+  "story": "Once upon a time, in a land far, far away, there was a young boy named Timmy. Timmy was just like any other boy, with one special exception - he had a magical pair of pajamas!\n\nEvery night, when Timmy put on his pajamas and climbed into bed, he would be whisked away to a fantastical world filled with adventure and wonder. One night, he might find himself in a forest filled with talking animals, while the next he might be exploring a mysterious underground cave.\n\nOne night, as Timmy lay in bed eagerly awaiting his next adventure, he heard a strange noise coming from the closet. At first, he thought it might just be his imagination, but the noise grew louder and louder until he could no longer ignore it. Taking a deep breath, Timmy slowly opened the closet door.\n\nTo his surprise, he saw a tiny dragon perched on the shelf inside! The dragon looked up at Timmy with big, curious eyes and let out a little squeak. Timmy couldn't believe his eyes - he had always dreamed of meeting a real dragon!\n\n\"Hello there, little one,\" Timmy said softly, extending a cautious hand. The dragon tilted its head and sniffed at Timmy's fingers before allowing him to gently scratch behind its ears.\n\nTimmy couldn't believe it - he had made a new friend! He decided to name the dragon Sparky, and the two of them became inseparable. Every night, Sparky would join Timmy on his magical adventures, adding an extra element of excitement and wonder to their journeys.\n\nTogether, Timmy and Sparky explored the farthest reaches of the magical world, making new friends and having all sorts of wild adventures. They faced dangers and obstacles, but they always found a way to overcome them and emerge victorious.\n\nAs the years passed, Timmy grew up and it was time for him to leave the world of magic behind. But he never forgot his faithful companion, Sparky, and the special bond they shared. And every now and then, on a quiet night when the stars were especially bright, Timmy could almost hear the sound of a tiny dragon's wings flapping in the wind.\n\nSo, my dear son, as you drift off to sleep tonight, I hope you remember the story of Timmy and Sparky, and the power of friendship and imagination. Sweet dreams, my little one.",
+  "categories": {
+    "young": "physical",
+    "boy": "other",
+    "magical pajamas": "other",
+    "adventurous": "mental",
+    "imaginative": "mental",
+    "brave": "mental",
+    "friendly": "emotional",
+    "curious": "mental",
+    "dreamer": "mental",
+    "faithful": "moral",
+    "companion": "other"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.53",
+  "complexity_fkg": "7.90",
+  "complexity_fkes": "70.23",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time in ancient Egypt, there lived a young boy named Kha, who was curious and adventurous. Kha's parents, Amun and Nefertari, loved him dearly and wanted him to grow up wise and strong like the mighty pharaohs of old.\n\nOne night, under a canopy of twinkling stars, Kha's parents gathered him around a crackling fire and began to tell him a magical story passed down through generations. They spoke of the great pharaoh Ramses, who ruled the land with wisdom and fairness, and of the noble Egyptian gods who watched over their people.\n\nAs Kha listened intently, his eyes grew heavy with sleep, but his heart was filled with wonder. His parents told him tales of brave warriors and cunning gods, of magical potions and hidden treasures buried deep within the desert sands.\n\nJust as Kha was about to drift off into dreams, his parents whispered a special bedtime wish for him. They wished for him to be courageous like the lion-headed goddess Sekhmet, wise like the god Thoth, and kind like the goddess Isis.\n\nWith a final loving embrace, Kha's parents tucked him into his soft bed, kissed him goodnight, and watched as he drifted off to sleep with visions of ancient Egypt dancing in his dreams.\n\nAnd so, under the watchful gaze of the Egyptian moon, Kha slept soundly, knowing that he was surrounded by the love of his family and the magic of his ancestors. Goodnight, little one. May your dreams be as bright as the stars above.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "courageous": "mental",
+    "wise": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.97",
+  "complexity_fkg": "8.00",
+  "complexity_fkes": "75.34",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

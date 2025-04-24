@@ -1,0 +1,23 @@
+{
+  "id": "p-c-17-rp-1-gc-2",
+  "story": "Once upon a time, in the beautiful country of South Africa, there was a kind-hearted young girl named Thandi. Thandi lived in a small village nestled at the foot of the majestic Drakensberg Mountains. She was known throughout the village for her love of animals and her gentle nature.\n\nOne day, while Thandi was playing near the river, she noticed a small, injured bird struggling to fly. Thandi carefully picked up the bird and took it home to care for it. She made a little nest for the bird in a shoebox and fed it with fruit and seeds.\n\nAs the days went by, the bird began to heal, and Thandi spent every waking moment with it, nursing it back to health. She named the bird Bongani, which means \"gratitude\" in her native language.\n\nThandi and Bongani formed a special bond, and Thandi knew she couldn't keep the bird as a pet forever. So, when Bongani was strong enough to fly again, Thandi decided to set him free.\n\nBut before she did, she took Bongani to the top of the Drakensberg Mountains, where they could see for miles. Thandi held Bongani in her hands and whispered, \"Bongani, it's time for you to go back to your family and friends. But I will never forget you, and I hope you will remember me too.\"\n\nAs Thandi opened her hands, Bongani looked at her with his bright, beady eyes and took flight. Thandi watched as Bongani soared higher and higher, until he was just a tiny speck against the blue sky.\n\nThandi felt a pang of sadness in her heart, but she knew that she had done the right thing. As she walked back down the mountain, she smiled, knowing that Bongani would always hold a special place in her heart.\n\nFrom that day forward, Thandi began to notice even more the beauty of the world around her, the birds singing in the trees, the butterflies flitting through the air, and the gentle rustling of the grass beneath her feet. She felt a sense of joy and peace that stayed with her always, knowing that she had made a difference in the life of one small, injured bird.\n\nAnd whenever Thandi looked up at the sky, she knew that somewhere, soaring high above the Drakensberg Mountains, was her dear friend, Bongani.\n\nWith love,\n[Your Name]",
+  "categories": {
+    "kind-hearted": "moral",
+    "young": "physical",
+    "love of animals": "emotional",
+    "gentle nature": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.81",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

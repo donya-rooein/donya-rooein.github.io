@@ -1,0 +1,25 @@
+{
+  "id": "p-c-5-rp-3-gc-3",
+  "story": "Once upon a time, in a small village in Russia, there was a young boy named Ivan. Ivan was a kind and curious boy who loved to explore the world around him. He lived with his father, a skilled woodworker, in a cozy log cabin on the edge of the village.\n\nOne day, Ivan's father presented him with a special gift: a small, intricately carved wooden box. \"This box has been passed down through our family for generations,\" Ivan's father told him. \"It is said to contain a magical seed, one that will grow into a tree that grants wishes.\"\n\nIvan was overjoyed and couldn't wait to plant the seed and make a wish. He carefully followed the instructions his father gave him and planted the seed in a small pot. He watered it and gave it plenty of sunlight, and before long, a tiny sprout began to emerge.\n\nIvan was so excited to make a wish that he couldn't sleep at night. He thought about all the things he could wish for: a new sled, a warm coat, or even a puppy. But the more he thought about it, the more he realized that there was one wish that was more important than any other.\n\nIvan wished for his mother, who had passed away when he was just a baby, to come back and be a part of their family again.\n\nThe tree grew quickly, and before long, it was tall and strong. Ivan went to his father and said, \"I am ready to make my wish.\" Together, they approached the tree and Ivan closed his eyes and made his wish with all his heart.\n\nWhen Ivan opened his eyes, he saw his mother standing before him, with a smile on her face. She hugged Ivan and his father, and the three of them spent the rest of the day together, laughing and catching up on all the memories they had missed.\n\nFrom that day on, Ivan, his father, and his mother lived happily ever after, always grateful for the magical seed that had brought them back together again.\n\nAnd so, my dear son, as you drift off to sleep tonight, remember that anything is possible if you believe in the power of your dreams and the magic that exists in the world. Good night and sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "thoughtful": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "5.80",
+  "complexity_fkes": "86.54",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

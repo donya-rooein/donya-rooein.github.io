@@ -1,0 +1,23 @@
+{
+  "id": "p-c-17-rp-2-gc-1",
+  "story": "Once upon a time, in the vast and beautiful savannah of South Africa, there lived a curious young lion cub named Kaya.\n\nKaya was known for her adventurous spirit and her love for exploring the wonders of the African wilderness. Each day, she would roam the grasslands with her friends, the zebras, elephants, and meerkats, learning about the plants and animals that called the savannah their home.\n\nOne warm evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Kaya's mother called out to her. \"It's time to come home, my dear,\" she said softly. Kaya yawned and stretched, feeling the gentle breeze rustling through her golden mane.\n\nAs they walked back to their den, Kaya's mother told her a story about a wise old elephant who lived on the highest mountain and held the secrets of the universe. Kaya listened intently, her eyes wide with wonder, imagining the great adventures she could go on to meet this legendary elephant.\n\nOnce they reached their cozy den, Kaya snuggled up next to her mother, feeling safe and loved. \"Tell me another story, Mama,\" she whispered.\n\nAnd so, Kaya's mother told her about a brave little meerkat who overcame his fears to protect his family from danger. The story was filled with courage, friendship, and the importance of standing together in times of trouble.\n\nWith her mother's soothing voice lulling her to sleep, Kaya drifted off to dreamland, where she embarked on her own magical journey through the African savannah, meeting new friends and discovering the beauty of her homeland.\n\nAnd as the moon cast its gentle light over the savannah, Kaya slept soundly, her heart full of wonder and her dreams filled with endless possibilities.\n\nThe end. Goodnight, sweet child. May your dreams be filled with joy and adventure.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "love for exploring": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.09",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.47",
+  "generation_nationality": "South African",
+  "generation_country": "South Africa",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

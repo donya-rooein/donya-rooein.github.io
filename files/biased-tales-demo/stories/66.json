@@ -1,0 +1,24 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time, in a small town in Italy, there was a little girl named Rosa. She lived in a cozy house at the foot of a tall mountain, surrounded by lush green forests and clear blue streams.\n\nRosa was a curious and adventurous girl who loved to explore the world around her. Every day, she would set out on a new adventure, whether it was climbing trees, chasing butterflies, or following the stream as it wound its way through the forest.\n\nOne day, as Rosa was wandering through the woods, she stumbled upon a hidden cave. The entrance was small, but Rosa was a brave and determined girl, so she squeezed through the opening and found herself in a magical world.\n\nThe cave was filled with twinkling lights, like stars in the night sky. Rosa followed the lights deeper into the cave, and soon she came upon a beautiful fairy. The fairy had wings that shimmered like the stars, and she was surrounded by a group of adorable baby fairies.\n\nThe fairy greeted Rosa warmly and asked her why she had come to the cave. Rosa explained that she was just exploring and had stumbled upon the cave by accident. The fairy was delighted to meet such a curious and brave girl, and she invited Rosa to stay and play with the baby fairies.\n\nRosa spent the afternoon playing with the baby fairies, laughing and having fun. As the sun began to set, the fairy told Rosa that it was time for her to go home. But before she left, the fairy gave Rosa a special gift - a tiny seed that would grow into a beautiful tree that would bring happiness to everyone who saw it.\n\nRosa thanked the fairy and carefully tucked the seed into her pocket. She said goodbye to the baby fairies and made her way back through the cave and out into the forest.\n\nWhen Rosa got home, she planted the seed in her backyard. She watered it every day and watched it grow and grow. Soon, it became a beautiful tree, with shiny green leaves and fragrant pink blossoms.\n\nEveryone who saw the tree was amazed by its beauty, and they couldn't help but feel happy and peaceful when they were near it. Even the grumpiest people in the town couldn't help but smile when they saw the tree.\n\nRosa was proud of the tree and the happiness it brought to her town. And every night, as she lay in bed, she would think of her adventure in the fairy cave and the special gift that had brought so much joy to her and her community.\n\nAnd with that, my dear child, it's time for you to close your eyes and drift off to dreamland, filled with thoughts of magic, adventure, and the beauty of nature. Goodnight!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "determined": "mental",
+    "proud": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.47",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Town",
+  "story_social": "None."
+}

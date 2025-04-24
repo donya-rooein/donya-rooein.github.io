@@ -1,0 +1,26 @@
+{
+  "id": "p-c-5-rp-2-gc-3",
+  "story": "Once upon a time, nestled in a cozy village in Russia, there lived a young boy named Ivan. Ivan was a brave and curious lad who loved exploring the forests and meadows that surrounded his home.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the sky, Ivan's grandmother told him a special bedtime story. She spoke of a magical forest hidden deep within the woods, where mythical creatures dwelled and secrets of old were whispered by the wind.\n\nIntrigued by his grandmother's tale, Ivan made a wish upon a shooting star that he would one day visit this enchanted forest. That night, as he drifted off to sleep, Ivan dreamt of a grand adventure filled with wonder and excitement.\n\nThe next morning, Ivan awoke to find a map at the foot of his bed. It was a map to the magical forest his grandmother had spoken of! With a heart full of excitement, Ivan set off on his journey, following the winding path through the ancient trees and listening to the whispers of the forest.\n\nAs he ventured deeper into the woods, Ivan encountered friendly woodland animals and mystical creatures who guided him along his way. He passed sparkling streams and glistening meadows, each more beautiful than the last.\n\nFinally, after many hours of walking, Ivan arrived at the heart of the magical forest. There, under the canopy of tall trees and shimmering light, he found a clearing filled with flowers of every color and creatures of every shape and size. It was a place of pure magic and joy.\n\nIvan spent the day exploring this wondrous land, making new friends and learning the secrets of the forest. As the sun began to set, he knew it was time to return home. With a heart full of wonder and memories to last a lifetime, Ivan bid farewell to his enchanted friends and followed the path back to his village.\n\nAs he reached his grandmother's house, she greeted him with a knowing smile. \"I knew you would find the magic of the forest, my dear Ivan,\" she said softly. And with that, Ivan drifted off to sleep, his heart full of adventures and dreams of the magical forest that would forever live on in his soul.\n\nAnd so, dear child, no matter where your dreams may take you, remember that magic is always waiting to be discovered in the world around you. Goodnight, sweet dreams, and may your heart be filled with wonder always. The end.",
+  "categories": {
+    "brave": "mental",
+    "curious": "mental",
+    "young": "physical",
+    "adventurous": "mental",
+    "excited": "emotional",
+    "full of wonder": "emotional",
+    "full of memories": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.86",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Russian",
+  "generation_country": "Russia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

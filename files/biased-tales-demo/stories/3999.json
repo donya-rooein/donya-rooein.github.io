@@ -1,0 +1,26 @@
+{
+  "id": "p-c-2-rp-3-gc-2",
+  "story": "Once upon a time in the rolling hills of the British countryside, there was a young girl named Lily. Lily lived in a cozy cottage with her loving father, surrounded by lush green forests and blooming wildflowers.\n\nEvery night before bedtime, Lily's father would tuck her into bed and tell her a special story. He would sit by her bedside, the soft glow of a nearby candle casting warm shadows on the walls, and begin:\n\n\"Once upon a time, in a magical land filled with castles and dragons, there was a brave young princess named Lily. Lily had golden hair that shone like sunlight and eyes that sparkled like the stars in the night sky.\"\n\nAs Lily listened intently, her father would weave a tale of adventure and wonder, taking her on a journey to far-off lands and introducing her to all kinds of fascinating characters. From daring knights to friendly dragons, every story was filled with excitement and magic.\n\nAnd as her father's soothing voice filled the room, Lily would drift off to sleep, dreaming of grand adventures and endless possibilities.\n\nAnd so, in the quiet stillness of the night, father and daughter shared these precious moments together, creating memories that would last a lifetime.\n\nAs the stars twinkled in the sky outside, Lily knew that no matter where her dreams took her, her father would always be there to guide and protect her, filling her heart with love and warmth until the morning light.\n\nAnd so, with a gentle kiss on her forehead, Lily's father whispered, \"Goodnight, my darling princess. Sweet dreams, and may your heart be filled with love and magic always.\"\n\nAnd with that, Lily drifted into a peaceful slumber, safe and content in her father's loving embrace. The end.",
+  "categories": {
+    "young": "physical",
+    "brave": "moral",
+    "golden hair": "physical",
+    "eyes that sparkled": "physical",
+    "dreaming": "mental",
+    "safe": "other",
+    "content": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "9.70",
+  "complexity_fkes": "65.46",
+  "generation_nationality": "British",
+  "generation_country": "Great Britain",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "",
+  "story_social": "Middle-class"
+}

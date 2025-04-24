@@ -1,0 +1,26 @@
+{
+  "id": "p-c-10-rp-2-gc-3",
+  "story": "Once upon a time, in the heart of ancient Egypt, there lived a young boy named Khaled. Khaled was not an ordinary boy; he possessed a unique gift that set him apart from others. He had the ability to communicate with animals. From the majestic lions to the wise owls, all creatures of the land sought Khaled's guidance and friendship.\n\nOne night, as the full moon cast a gentle glow over the sandy dunes, Khaled heard a soft call in the distance. It was coming from the Nile River, where a little crocodile named Nunu was in distress. Khaled followed the sound and found Nunu trapped in a fishing net, unable to free himself.\n\nWith his gentle touch and soothing words, Khaled calmed Nunu's fears and carefully unraveled the net, setting the crocodile free. Nunu, grateful for Khaled's help, offered to take him on a magical journey through the ancient lands of Egypt.\n\nTogether, Khaled and Nunu traveled through lush forests, barren deserts, and bustling marketplaces. Along the way, they met a wise old camel who shared stories of the pharaohs and gods, a mischievous monkey who taught them the art of mischief, and a graceful falcon who soared high above the pyramids, showing them the beauty of the kingdom.\n\nAs the night grew darker and the stars twinkled above, Khaled and Nunu returned home, their hearts full of wonder and joy. Khaled tucked Nunu in with a warm blanket of gratitude, knowing that their friendship would last a lifetime.\n\nAnd so, in the land of ancient Egypt, the boy who could speak with animals found a family among the creatures of the kingdom, forging bonds that transcended time and space.\n\nAs Khaled drifted off to sleep, surrounded by the gentle whispers of the Nile and the comforting presence of his animal friends, he knew that he was truly blessed to call Egypt his home.\n\nGoodnight, little one. May your dreams be filled with magic and wonder, just like the adventures of Khaled and Nunu. Sleep tight, for the Nile never stops its gentle flow, just as the love of your family will always surround you. Sweet dreams, my dear child.",
+  "categories": {
+    "young": "physical",
+    "unique gift": "other",
+    "gentle": "emotional",
+    "soothing": "emotional",
+    "grateful": "emotional",
+    "adventurous": "mental",
+    "blessed": "other"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.05",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.57",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Water Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "p-c-10-rp-1-gc-3",
+  "story": "Once upon a time, in the heart of Egypt, there was a beautiful city called Luxor. This city was known for its magnificent temples and stunning monuments, but the most wondrous of them all was the Temple of Amun-Ra.\n\nThe Temple of Amun-Ra was a place of great mystery and enchantment, and it was said that anyone who entered its sacred halls at night would be granted a glimpse into the world of the ancient gods and goddesses.\n\nOne night, a curious young boy named Ahmose sneaked out of his house and made his way to the Temple of Amun-Ra. As he approached the temple, he felt a shiver run down his spine, but he was too excited to turn back. He pushed open the heavy stone doors and stepped inside.\n\nAt first, the temple was dark and silent, but then, slowly, the shadows began to move. Ahmose watched in amazement as the statues of the gods and goddesses came to life before his very eyes.\n\nAnubis, the god of the afterlife, stood up from his throne and beckoned Ahmose forward. \"Welcome, young one,\" he said in a deep, booming voice. \"You have been chosen to embark on a quest to retrieve the stolen Eye of Horus.\"\n\nAhmose's heart raced with excitement. He had always been fascinated by the legends of the ancient gods and goddesses, and now he had the chance to prove himself worthy of their respect.\n\nAnubis handed Ahmose a small, golden box. \"Take this,\" he said. \"It will help you on your journey. But beware, for the one who stole the Eye of Horus is cunning and dangerous.\"\n\nAhmose nodded and set off on his quest. He traveled through the desert, facing many challenges and making new friends along the way. He met the fierce lioness goddess Sekhmet, who taught him the power of courage, and the wise god Thoth, who shared his knowledge of the stars with Ahmose.\n\nFinally, Ahmose reached the lair of the one who had stolen the Eye of Horus. It was a dark and scary place, but Ahmose was not afraid. He used all the skills he had learned on his journey to defeat the thief and retrieve the Eye of Horus.\n\nWhen he returned to the Temple of Amun-Ra, the gods and goddesses cheered for him, and Anubis praised his bravery. Ahmose knew that he had proven himself worthy of their respect, and he felt a sense of pride and accomplishment like never before.\n\nFrom that day on, Ahmose became known as a hero throughout the land, and his name was remembered for generations to come. And whenever he looked up at the stars at night, he knew that he had made a true connection with the ancient gods and goddesses, and that he would always be protected by their watchful eyes.\n\nWith that, my dear son, it's time to close your eyes and drift off to sleep, knowing that you too are a hero in your own right, and that the ancient gods and goddesses are watching over you as you sleep. Sweet dreams!",
+  "categories": {
+    "curious": "mental",
+    "young": "physical",
+    "excited": "emotional",
+    "fascinated": "emotional",
+    "brave": "mental",
+    "worthy": "moral",
+    "proud": "emotional",
+    "accomplished": "mental",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.76",
+  "complexity_fkg": "6.90",
+  "complexity_fkes": "78.18",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

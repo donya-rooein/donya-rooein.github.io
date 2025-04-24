@@ -1,0 +1,27 @@
+{
+  "id": "p-c-3-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among the rolling hills of Italy, there lived a little mouse named Giovanni. Giovanni was a curious and adventurous mouse who loved to explore every nook and cranny of his village.\n\nOne evening, as the sun began to set and the moon rose high in the sky, Giovanni decided to go on a nighttime adventure. He scampered through the narrow cobblestone streets, his tiny feet pitter-pattering softly as he made his way towards the village square.\n\nAs he reached the square, Giovanni saw a group of fireflies dancing in the night sky, their twinkling lights like a magical spectacle. Mesmerized by the beauty of the fireflies, Giovanni followed them as they led him through the village, past charming little houses adorned with colorful flowers and ivy-covered walls.\n\nThe fireflies eventually led Giovanni to a cozy little garden filled with fragrant blooms and lush greenery. In the middle of the garden, there was a majestic olive tree standing tall, its branches reaching up towards the starlit sky.\n\nGiovanni nestled himself in the soft, cool grass beneath the olive tree and gazed up at the twinkling stars above. The gentle rustling of the leaves and the sweet scent of the olive tree filled him with a sense of peace and contentment.\n\nAs Giovanni closed his eyes and listened to the soothing sounds of the night, he felt a warm breeze wash over him, carrying with it the soft lullaby of the Italian countryside. The gentle melody whispered through the leaves of the olive tree, lulling Giovanni into a deep and peaceful slumber.\n\nAnd so, under the watchful gaze of the olive tree and the twinkling stars above, Giovanni drifted off to sleep, dreaming of his next adventure in the enchanting village of Italy.\n\nAnd in the morning, as the sun rose over the hills, Giovanni woke up with a smile on his face, ready to embark on a new day of wonder and discovery.\n\nThe end. Good night, little one. Sleep well and dream sweet dreams. Buonanotte!",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "little": "physical",
+    "mesmerized": "emotional",
+    "peaceful": "emotional",
+    "content": "emotional",
+    "sleepy": "physical",
+    "smiling": "physical"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.14",
+  "complexity_fkg": "9.30",
+  "complexity_fkes": "66.57",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p-c-25-rp-1-gc-1",
+  "story": "Once upon a time, in a lush green valley surrounded by towering mountains, there was a small village called Mai Hoa. The village was home to a kind and gentle community of people who lived in harmony with nature. They farmed the land, fished in the river, and tended to their beloved animals.\n\nIn the heart of the village stood a magnificent banyan tree, its roots stretching wide and deep, providing shade and shelter to all who lived nearby. It was said that the tree was home to a wise old spirit, who watched over the villagers and offered guidance and comfort for those who sought it.\n\nOne day, a curious little girl named Mei came to the banyan tree with a troubled heart. She had lost her favorite lucky charm, a tiny jade pig given to her by her beloved grandmother. Mei was certain that she had dropped it while playing in the village square, but despite several days of searching, the amulet remained nowhere to be found.\n\nThe wise old spirit within the tree sensed the girl's heartache and decided to help. The spirit appeared to Mei in the form of a wise, loving grandmotherly figure. She comforted the child and said, \"My dear Mei, there is a secret to finding things that are lost. When you truly love something, and have faith in your own heart, that love will guide you back to the treasure you seek.\"\n\nMei, determined to locate her lucky charm, asked the spirit what she should do. The spirit told her, \"Tomorrow morning, walk down to the river and release a red origami fish into the water. Then, follow the river as it flows through the valley. When you reach the place where the water turns and the sun is directly overhead, you will find what you seek.\"\n\nMei, still skeptical, asked the spirit, \"How can a fish lead me to my lucky charm? It seems so unlikely!\" The spirit merely winked and said, \"Sometimes magic can be found in the most unlikely of places, young one. The important thing is that you believe.\"\n\nThe next morning, Mei followed the spirit's instructions and walked down to the river, releasing a red origami fish into the gently flowing water. She watched as the fish drifted away, wondering if the wisdom she was given was just a kind fable or if there was truly some magic involved.\n\nWith newfound determination, Mei set off down the riverbank, following her origami fish as it made its way through the lush vegetation bordering the water. She passed fields of rice and corn, and caught sight of birds taking flight above her, their wings iridescent in the morning sun.\n\nThe sun climbed higher in the sky and Mei continued her journey, the origami fish never straying far from her sight. Hours passed as she made her way beneath the protective canopy of the trees, her heart swelling with the beauty of the world around her.\n\nFinally, as the sun reached its zenith, Mei arrived at the place where the water turned and the sun shone down with an intensity she had not yet felt that day. The origami fish floated serenely, as if waiting for her.\n\nShe scanned the area, her eyes coming to rest on a glint of green among the pebbles lining the riverbed. With a cry of joy, she scrambled down the bank and reached for her lucky charm, the tiny jade pig shining in the sunlight. A sense of warmth and completeness washed over her, and she knew that the spirit of the banyan tree had been right.\n\nMei returned to the village, clutching her lucky charm with joy and gratitude, forever changed by the wisdom and magic she had experienced that day. From that time on, whenever she lost something of sentimental value, she would close her eyes and remember the spirit's words, releasing a red origami fish into the river and allowing her heart to guide her.\n\nAnd so it was that the little girl from Mai Hoa never truly lost a thing she held dear, for the love and magic of the village and its wise old guardian lived within her forever.\n\nMay this tale of love, magic, and faith guide you, as you grow from childhood into the marvelous person you are destined to be. Goodnight, my dear child.",
+  "categories": {
+    "curious": "mental",
+    "troubled": "emotional",
+    "determined": "mental",
+    "skeptical": "mental",
+    "joyful": "emotional",
+    "grateful": "emotional",
+    "forever changed": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.11",
+  "complexity_fkg": "7.60",
+  "complexity_fkes": "76.35",
+  "generation_nationality": "Vietnamese",
+  "generation_country": "Vietnam",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

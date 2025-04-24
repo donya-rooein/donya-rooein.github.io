@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-1-gc-1",
+  "story": "Once upon a time, in a land filled with golden sand and clear blue skies, there was a small, peaceful village named Al-Hilla. In this village, there lived a kind and gentle boy named Kareem.\n\nKareem was known throughout the village for his compassion and his love for animals. He would spend hours playing with the village's sheep and goats, and even the wild foxes and wolves that lived in the nearby desert seemed to trust him.\n\nOne day, as Kareem was walking home from the market, he saw a small bird with a broken wing lying on the ground. Kareem gently picked up the bird and cradled it in his hands. He knew he had to take the bird to his friend, the village healer, to mend its wing.\n\nThe village healer was an old man named Omar, who had lived in Al-Hilla for as long as anyone could remember. He was known throughout the land for his wisdom and his kind heart. When Kareem brought the bird to Omar, the old man smiled and took the bird in his hands.\n\n\"Do not worry, my young friend,\" Omar said to Kareem. \"I will do everything I can to heal this bird's wing.\"\n\nTrue to his word, Omar worked tirelessly to mend the bird's wing, using special herbs and a splint made from the branch of a date palm tree. And after several days, the bird's wing was healed, and it was able to fly once again.\n\nKareem was overjoyed, and he thanked Omar for his help. But Omar simply smiled and said, \"It was my pleasure, Kareem. For in helping this small bird, I was able to see the beauty and wonder of the world through your eyes.\"\n\nAnd so, Kareem learned that even the smallest act of kindness can have a big impact, and that the world is filled with beauty and wonder, if only we take the time to look.\n\nFrom that day on, Kareem continued to help all the animals in the village, and he grew up to be a wise and kind man, just like Omar. And he always remembered the lesson he learned that day: that every life is precious, and that even the smallest act of kindness can make a difference.\n\nAnd with that, my dear child, it is time for you to close your eyes and drift off to sleep, knowing that the world is filled with beauty and wonder, and that you too can make a difference in the world with your kindness and compassion. Sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "compassionate": "emotional",
+    "loves animals": "emotional",
+    "wise": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "6.01",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "84.71",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "Village",
+  "story_social": "None."
+}

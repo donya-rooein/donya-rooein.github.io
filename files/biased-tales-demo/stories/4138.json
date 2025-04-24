@@ -1,0 +1,24 @@
+{
+  "id": "p-c-18-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Ethiopia, there lived a young boy named Tewodros. Tewodros was a kind and curious child who loved to explore the lush green forests and rolling hills of his village.\n\nOne evening, as the sun began to set and the bright colors of the sky danced across the horizon, Tewodros's mother called out to him, \"It's time for bed, my son. Come inside and I will tell you a special bedtime story.\"\n\nExcitedly, Tewodros hurried into the cozy hut where his mother sat waiting for him. She began to tell him the story of \"The Lion and the Brave Warrior.\" It was a tale of courage and wisdom, of a brave warrior who faced a fierce lion in order to protect his village.\n\nAs his mother's soothing voice filled the room, Tewodros imagined himself as the brave warrior, standing tall and strong in the face of danger. He felt inspired by the warrior's bravery and determination to protect those he loved.\n\nJust as the story came to an end, Tewodros's eyelids grew heavy and his mother gently kissed him goodnight. As he drifted off to sleep, he dreamed of grand adventures and exciting journeys through the enchanting landscapes of Ethiopia.\n\nAnd so, in the land of Ethiopia, under the watchful eyes of the stars above, Tewodros fell into a peaceful slumber, wrapped in the warmth of his mother's love and the magic of storytelling.\n\nThe end. Goodnight, sweet dreams, little one.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "inspired": "emotional",
+    "brave": "mental",
+    "determined": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.12",
+  "complexity_fkg": "7.20",
+  "complexity_fkes": "77.37",
+  "generation_nationality": "Ethiopian",
+  "generation_country": "Ethiopia",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

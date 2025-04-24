@@ -1,0 +1,30 @@
+{
+  "id": "p-c-26-rp-3-gc-2",
+  "story": "Once upon a time, in a lush green forest in Thailand, there was a kind and gentle elephant named Em. Em was a young elephant, full of curiosity and wonder for the world around her. She loved to explore the forest, playing with her friends and enjoying the fresh air and sunshine.\n\nOne day, Em heard about a magical waterfall deep in the forest that was said to grant a single wish to anyone who could find it. Em was intrigued and decided to set out on a journey to find the magical waterfall.\n\nShe packed a small bag with some bananas, a blanket, and a bottle of water, and set off into the forest. She followed a winding path deeper and deeper into the woods, until she came to a clearing where she saw the most beautiful waterfall she had ever seen.\n\nEm approached the waterfall slowly, taking in its majesty and power. As she got closer, she noticed a small pond at the base of the waterfall, where the water collected before flowing downstream.\n\nWithout hesitation, Em stepped into the pond and approached the waterfall. She closed her eyes and made her wish, hoping with all her heart that it would come true.\n\nWhen she opened her eyes, she was amazed to see that her wish had been granted! She was now the tallest and strongest elephant in the forest, able to protect her friends and family from any danger.\n\nEm returned to her home in the forest, greeted by her friends and family with amazement and awe. From that day on, Em used her newfound strength and power to help those in need, becoming a true hero in her community.\n\nAnd every night, as Em drifted off to sleep, she would think back to that magical waterfall and the special wish that had changed her life forever.\n\nThe end. Goodnight my dear daughter, sweet dreams.",
+  "categories": {
+    "kind": "moral",
+    "gentle": "emotional",
+    "young": "physical",
+    "curious": "mental",
+    "full of wonder": "emotional",
+    "adventurous": "mental",
+    "brave": "moral",
+    "strong": "physical",
+    "protective": "emotional",
+    "helpful": "moral",
+    "heroic": "moral"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.66",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.87",
+  "generation_nationality": "Thai",
+  "generation_country": "Thailand",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "None.",
+  "story_social": "None."
+}

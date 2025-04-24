@@ -1,0 +1,26 @@
+{
+  "id": "p-c-22-rp-1-gc-3",
+  "story": "Once upon a time, in the beautiful land of Azerbaijan, there lived a young boy named Ali. Ali was a curious and adventurous child who loved exploring the vast landscapes and charming villages that surrounded his home.\n\nOne night, as Ali lay in his bed, gazing out of his window at the twinkling stars above, he heard a soft rustling outside. Curious, Ali tiptoed out of his room and followed the gentle sound to his backyard. There, under the shimmering moonlight, he saw a small, glowing butterfly fluttering around a blooming flower.\n\nThe butterfly beckoned Ali to follow as it led him on a magical journey through the enchanted forest. Along the way, they encountered friendly woodland creatures and vibrant flowers that emitted a sweet fragrance that filled the air.\n\nAs they reached the heart of the forest, Ali and the butterfly arrived at a sparkling lake that reflected the moon's gentle glow. The butterfly landed on a lily pad, and Ali sat down beside it, mesmerized by the tranquility of the scene.\n\nThe butterfly then spoke in a soft, melodious voice, telling Ali stories of hidden treasures and ancient legends passed down through generations. Ali listened intently, feeling a sense of peace and wonder wash over him.\n\nAfter what felt like an eternity, the butterfly gently fluttered away, bidding Ali goodnight as he made his way back home. As Ali nestled back into his bed, he felt grateful for the magical adventure he had experienced and drifted off to sleep with a heart full of joy.\n\nAnd so, in the land of Azerbaijan, Ali's dreams were filled with the enchanting memories of his journey with the glowing butterfly, reminding him that magic can be found in the most unexpected places.\n\nThe end. Goodnight, sweet child. May your dreams be as wondrous as the journey you embarked on with the glowing butterfly.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "young": "physical",
+    "grateful": "emotional",
+    "mesmerized": "emotional",
+    "intently listening": "mental",
+    "filled with joy": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.06",
+  "complexity_fkg": "8.50",
+  "complexity_fkes": "68.60",
+  "generation_nationality": "Azerbaijani",
+  "generation_country": "Azerbaijan",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p-c-24-rp-1-gc-1",
+  "story": "Once upon a time, in a beautiful village nestled among the cherry blossom trees, there lived a young fox named Kiyoshi. Kiyoshi was known throughout the village for his bravery and kindness. Every evening, he would wander through the village, making sure that all the animals were safe and happy.\n\nOne night, as Kiyoshi was on his nightly rounds, he heard a faint whimpering coming from the edge of the forest. Curious, he followed the sound and found a tiny kitten shivering in the cold. The kitten had lost her way and was too scared to find her way home.\n\nKiyoshi knew he had to help the kitten. So, he gently picked her up in his mouth and carried her back to the village. As they walked, Kiyoshi told the kitten stories of the stars and the moon, bringing a smile to her face.\n\nWhen they reached the village, Kiyoshi found the kitten's worried family looking for her. They were overjoyed to see her safe and sound, thanks to the kind-hearted fox.\n\nFrom that day on, the kitten and Kiyoshi became the best of friends. They would roam the village together, spreading joy and happiness wherever they went.\n\nAnd so, every night, as the moon rose high in the sky, the village would be filled with the laughter of the friends, reminding everyone of the power of kindness and friendship.\n\nThe end. Goodnight, dear child. Dream sweet dreams filled with love and kindness.",
+  "categories": {
+    "bravery": "moral",
+    "kindness": "moral",
+    "curious": "mental",
+    "gentle": "emotional",
+    "kind-hearted": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.30",
+  "complexity_fkg": "5.70",
+  "complexity_fkes": "81.43",
+  "generation_nationality": "Japanese",
+  "generation_country": "Japan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

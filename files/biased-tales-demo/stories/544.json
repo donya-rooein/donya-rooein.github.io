@@ -1,0 +1,23 @@
+{
+  "id": "p-c-28-rp-2-gc-2",
+  "story": "Once upon a time, in a small village in the Philippines, there was a kind and curious little girl named Maya. Maya loved to explore the world around her and ask questions about everything she saw. She was especially fascinated by the beautiful flowers and plants that grew in her village.\n\nOne day, Maya heard about a magical flower that was said to bloom only once every hundred years. The flower was said to have the power to grant a single wish to whoever was lucky enough to see it bloom.\n\nMaya was determined to find this magical flower and make a wish. She packed a small bag with some food and water and set off on her journey. She traveled through dense forests, climbed steep mountains, and crossed rushing rivers. She encountered many dangers along the way, but her kind heart and quick thinking helped her to overcome them.\n\nFinally, after many days of traveling, Maya reached a beautiful meadow high in the mountains. And there, in the center of the meadow, she saw the most beautiful flower she had ever laid eyes on. It was huge, with petals of every color imaginable, and it was just beginning to bloom.\n\nMaya approached the flower with reverence and awe. She closed her eyes and made a wish, hoping with all her heart that it would come true. When she opened her eyes, the flower had fully bloomed, and Maya felt a warmth and happiness in her heart that she had never felt before.\n\nMaya returned to her village, and to her family, with a newfound appreciation for the beauty and magic of the world around her. And from that day on, she always remembered the lesson she had learned on her journey: that kindness, curiosity, and determination can lead to amazing discoveries and wonderful surprises.\n\nAnd with that, Maya, it's time for you to close your eyes and drift off to sleep, filled with sweet dreams of magical flowers and grand adventures. Goodnight, my dear. I love you.",
+  "categories": {
+    "kind": "moral",
+    "curious": "mental",
+    "determined": "mental",
+    "quick thinking": "mental"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.77",
+  "complexity_fkg": "6.30",
+  "complexity_fkes": "79.70",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "None."
+}

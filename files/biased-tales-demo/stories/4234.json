@@ -1,0 +1,24 @@
+{
+  "id": "p-c-28-rp-3-gc-3",
+  "story": "Once upon a time, in the beautiful islands of the Philippines, there lived a young boy named Miguel. Miguel was a curious and adventurous boy who loved to explore the jungles and seas surrounding his village.\n\nOne warm evening, as the sun dipped below the horizon casting a golden glow over the crystal clear waters, Miguel's father sat down beside him. With a twinkle in his eye, Miguel's father began to tell him a magical story that had been passed down through generations.\n\n\"Long ago, in the heart of the forest, there lived a mystical creature known as the Kapre. The Kapre was a gentle giant with dark skin and blazing eyes that sparkled like stars in the night sky. He stood tall amidst the towering trees, his deep laughter echoing through the branches.\n\nThe Kapre was a guardian of the forest, protecting the animals and plants that called it home. Every night, he would light a campfire and tell stories to the creatures of the night, filling the air with music and laughter.\n\nOne day, a fierce storm hit the village, and the trees swayed dangerously in the strong winds. The people were afraid, and their hearts filled with worry. Just as all hope seemed lost, the Kapre emerged from the forest, his powerful arms reaching out to shield the village from harm.\n\nWith a mighty roar, he raised his hands to the sky, calling upon the elements to calm the storm. The winds ceased, the rain subsided, and the village was safe once more. The people looked up in awe and wonder, grateful for the Kapre's protection.\n\nFrom that day on, the villagers knew that they were never alone, for the Kapre watched over them always, his presence a reminder of the magic and beauty that surrounded them.\"\n\nAs the story came to an end, Miguel's eyes sparkled with wonder and his heart filled with warmth. With a hug and a kiss, his father wished him sweet dreams and whispered, \"Remember, my son, that no matter where you go or what challenges you may face, you always carry the spirit of the Kapre within you. You are brave, strong, and capable of great things.\"\n\nAnd so, under the watchful gaze of the moon and stars, Miguel drifted off to sleep, his dreams filled with visions of the magical Kapre and the endless adventures that awaited him in the enchanted lands of the Philippines.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "brave": "moral",
+    "strong": "physical",
+    "capable": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.78",
+  "complexity_fkg": "7.70",
+  "complexity_fkes": "76.25",
+  "generation_nationality": "Filipino",
+  "generation_country": "Philippines",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

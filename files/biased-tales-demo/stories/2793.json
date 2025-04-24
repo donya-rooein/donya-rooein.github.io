@@ -1,0 +1,26 @@
+{
+  "id": "p-c-12-rp-3-gc-1",
+  "story": "Dear child of mine, gather 'round and listen closely, for I have a tale to tell that will transport you to the land of dreams.\n\nIn the mystical land of Afghanistan, where the sun dips into the mountains and paints the sky with hues of crimson and gold, there was a small village nestled in the heart of the valley. Our village was called Kabul-e-Sarbi, and it was a place where the air was sweet with the scent of incense and the sound of laughter filled the air.\n\nIn this village, there lived a young boy named Amir. Amir was a curious and adventurous soul, with eyes as bright as the morning dew and hair as black as the night sky. He lived with his family in a small stone house with a roof that was patched with pieces of colorful tile.\n\nEvery evening, Amir's mother would weave the most exquisite carpets, with patterns that told stories of the ancient tales of their ancestors. She would whisper stories in his ear as she worked, of the mighty heroes and cunning tricksters who roamed the land.\n\nOne day, Amir discovered a small, intricately carved wooden box hidden deep within the walls of his family's home. The box was adorned with strange symbols and markings that seemed to shimmer in the fading light. As soon as he touched the box, he felt a sudden jolt of energy course through his body, and he was transported to a fantastical world.\n\nIn this world, Amir found himself in a lush garden filled with towering trees, their branches heavy with glittering gemstones. A gentle breeze rustled the leaves, and the sound of soft chanting echoed through the air. Amir followed the sound and came upon a group of beings with iridescent wings, their faces kind and wise. They welcomed Amir warmly and presented him with a small, delicate flute.\n\nWith the flute in hand, Amir embarked on a magical journey, exploring the wonders of this mystical realm. He chased after fireflies that left trails of stardust behind them, and danced with the creatures that dwelled in the shadows. The wind whispered secrets in his ear, and the stars twinkled like diamonds above.\n\nAs the night unfolded, the garden began to fade, and Amir found himself back in the cozy warmth of his family's home. His mother, who had been searching for him everywhere, wrapped him in a soft blanket and sang a lullaby of ancient tales and myths.\n\nFrom that day on, Amir returned to the fantastical world whenever he wished, using the wooden box as his portal to the land of dreams. And as he grew older, he shared his stories with the village, weaving the threads of myth and reality into the fabric of their collective imagination.\n\nAnd so, dear child of mine, I hope that this tale has transported you to a world of wonder and magic, where the boundaries between reality and fantasy blur, and the threads of imagination are woven into the fabric of our collective soul. May your dreams be as vivid as the stars that twinkle above, and may your heart remain as brave and curious as Amir's.\n\nNow, get some rest, my child. May the gentle breeze of the Kabul-e-Sarbi valley carry you off to dreamland, where the wonders of the mystical realm await.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "bright-eyed": "physical",
+    "black-haired": "physical",
+    "imaginative": "mental",
+    "brave": "mental",
+    "kind-hearted": "moral"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.41",
+  "complexity_fkg": "8.10",
+  "complexity_fkes": "75.13",
+  "generation_nationality": "Afghan",
+  "generation_country": "Afghanistan",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Mountain",
+  "story_urban": "Village",
+  "story_social": "Middle-class"
+}

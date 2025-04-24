@@ -1,0 +1,24 @@
+{
+  "id": "p-c-9-rp-2-gc-1",
+  "story": "Once upon a time, in the beautiful land of Iraq, there lived a young and curious child named Ali. Ali loved to explore the world around him, from the sandy deserts to the bustling markets of Baghdad.\n\nOne evening, as the sun dipped below the horizon and the stars began to twinkle in the night sky, Ali's mother tucked him into bed and began to tell him a magical bedtime story.\n\nShe spoke of a wise old owl who lived in a grand oak tree in the heart of the forest. The owl, named Hoot, was known far and wide for his wisdom and kindness. People from all over would come to seek his advice and guidance.\n\nOne night, a great storm swept through the forest, causing chaos and fear among the animals. Hoot, sensing their distress, flew out into the night and guided each and every one of them to safety with his glowing eyes and soothing hoots. The animals were grateful for his help and gathered around him in gratitude.\n\nFrom that night on, the animals of the forest knew that they could always rely on Hoot for comfort and protection. And so, under the watchful eyes of the wise old owl, peace and harmony returned to the land.\n\nAs Ali's mother finished telling the story, she gently kissed him on the forehead and wished him sweet dreams. Ali closed his eyes, feeling comforted and inspired by the tale of the wise old owl.\n\nAnd as he drifted off to sleep, the stars outside seemed to twinkle just a little bit brighter, as if they were watching over him just like Hoot watched over the animals in the forest.\n\nAnd with that, the night embraced Ali in its warm, peaceful embrace, promising him a world of wonder and magic in his dreams.\n\nGoodnight, sweet Ali. And may your dreams be filled with joy and adventure.",
+  "categories": {
+    "young": "physical",
+    "curious": "mental",
+    "loved to explore": "mental",
+    "comforted": "emotional",
+    "inspired": "emotional"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.64",
+  "complexity_fkg": "7.00",
+  "complexity_fkes": "77.98",
+  "generation_nationality": "Iraqi",
+  "generation_country": "Iraq",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Desert",
+  "story_urban": "City",
+  "story_social": "None."
+}

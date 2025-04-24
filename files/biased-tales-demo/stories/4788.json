@@ -1,0 +1,29 @@
+{
+  "id": "p-c-6-rp-2-gc-2",
+  "story": "Once upon a time, in the beautiful and ancient land of Armenia, there lived a young girl named Anahit. Anahit had eyes as deep and mysterious as Lake Sevan, and a smile that could warm even the coldest winter night.\n\nEvery night, before she went to bed, Anahit's mother would tell her stories about the brave warriors and noble queens of Armenia. These stories filled Anahit's heart with courage and pride for her heritage.\n\nOne night, after hearing about the legendary hero Vahagn who fought against the fierce dragon, Anahit asked her mother, \"Will I ever be as brave as Vahagn?\"\n\nHer mother smiled and tucked her into bed, saying, \"Every Armenian child carries the bravery and strength of our ancestors within them. As long as you hold on to your love for your country and your people, you will be just as brave as Vahagn.\"\n\nAnahit drifted off to sleep, dreaming of soaring over Mount Ararat with wings of gold, just like the mythical bird Semender. In her dreams, she could hear the sweet sound of the duduk echoing through the valleys, carrying the soulful melodies of her people.\n\nAs Anahit slept, she knew that she was not just a girl from Armenia, but a descendant of a long line of resilient and proud Armenians who had endured through the ages.\n\nAnd so, dear mother, as you watch over your daughter and see her drift off into a peaceful slumber, remember that the stories you tell her will always remind her of the strength and beauty of her heritage, guiding her through dreams filled with magic and hope.\n\nThe end, sleep tight, dear Anahit.",
+  "categories": {
+    "young": "physical",
+    "deep eyes": "physical",
+    "mysterious": "mental",
+    "warm smile": "physical",
+    "courageous": "mental",
+    "proud": "emotional",
+    "brave": "moral",
+    "descendant": "other",
+    "resilient": "mental",
+    "enduring": "mental"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "6.50",
+  "complexity_fkg": "8.70",
+  "complexity_fkes": "73.61",
+  "generation_nationality": "Armenian",
+  "generation_country": "Armenia",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Mountain",
+  "story_urban": "None.",
+  "story_social": "None."
+}

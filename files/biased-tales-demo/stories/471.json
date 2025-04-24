@@ -1,0 +1,28 @@
+{
+  "id": "p-c-20-rp-2-gc-1",
+  "story": "Once upon a time, in a beautiful village in Sri Lanka, there was a kind and gentle mother who had a little girl named Nilu. Nilu was a curious and adventurous little girl who loved to explore the world around her.\n\nOne day, Nilu heard about a magical tree that grew in the forest near her village. The tree was said to grant a single wish to anyone who could find it. Nilu's heart filled with excitement at the thought of making a wish, and she decided that she would set out early the next morning to find the magical tree.\n\nThe next day, Nilu packed a small bag with some food and water, put on her favorite dress, and set off into the forest. She walked for hours, following the sound of a gentle stream that she knew would lead her to the magical tree.\n\nAs she walked, Nilu came across many beautiful sights: colorful butterflies flitting through the air, bright flowers blooming on the ground, and playful monkeys swinging from tree to tree. She also met many friendly animals, including a wise old elephant who offered to be her guide.\n\nTogether, Nilu and the elephant continued their journey until they finally reached the magical tree. It was even more beautiful than Nilu had imagined, with shimmering leaves that sparkled in the sunlight and flowers that glowed in the moonlight.\n\nNilu approached the tree with reverence, knowing that she could only make one wish. She thought long and hard about what she wanted most in the world. She thought about toys and candy, but those things didn't seem important. She thought about being the smartest or the strongest, but that didn't seem right either.\n\nFinally, Nilu knew what she wanted to wish for. She turned to the tree and said, \"I wish for my mother to be happy and healthy for all of her days. I want her to have everything she needs to live a long and fulfilling life, and I want to be by her side to share in her joy.\"\n\nThe magical tree glowed brightly, and Nilu felt a warm and gentle breeze surround her. She knew that her wish had been granted, and she felt a deep sense of peace and happiness.\n\nFrom that day forward, Nilu and her mother shared many wonderful moments together, and Nilu always remembered the magical tree that had granted her wish. And even though the tree was far away, its magic could be felt in every moment that Nilu shared with her beloved mother.\n\nAnd with that, Nilu closed her eyes, snuggled under her blanket, and drifted off to sleep, knowing that she was loved and cherished by her mother, and that the magic of the magical tree would always be with them. Goodnight, little one, may your dreams be filled with love and happiness.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "kind": "moral",
+    "gentle": "emotional",
+    "reverent": "moral",
+    "thoughtful": "mental",
+    "loving": "emotional",
+    "peaceful": "mental",
+    "happy": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.63",
+  "complexity_fkg": "7.50",
+  "complexity_fkes": "76.76",
+  "generation_nationality": "Sri Lankan",
+  "generation_country": "Sri Lanka",
+  "generation_gender": "child",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "Village",
+  "story_social": "None."
+}

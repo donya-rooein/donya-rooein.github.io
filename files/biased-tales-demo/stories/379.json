@@ -1,0 +1,23 @@
+{
+  "id": "p-c-10-rp-1-gc-2",
+  "story": "Once upon a time, in the heart of the Egyptian desert, there was a beautiful oasis called Siwa. This oasis was known far and wide for its clear, cool water and lush palm trees. It was also said to be home to a wise old sage named Khonsu.\n\nKhonsu was known throughout the land for his knowledge and his kind heart. People would travel from all over to seek his advice and wisdom. And although he was getting on in years, he still had a twinkle in his eye and a mischievous smile on his face.\n\nOne day, a young girl named Amina came to visit Khonsu. She had heard tales of his wisdom and wanted to ask him a question that had been bothering her for some time.\n\n\"Dear Khonsu,\" she said, \"I am trying to be a good person and make my parents proud, but it seems like no matter what I do, I always make mistakes. How can I become a better person?\"\n\nKhonsu listened carefully to Amina's question and then smiled. \"Amina, my dear, becoming a better person is a journey, not a destination. It takes time, patience, and practice. But here are a few things that might help you on your way.\"\n\nHe handed her a small scroll and said, \"This scroll contains three secrets to becoming a better person. Study it carefully and put it into practice, and you will find that you are well on your way to becoming the person you want to be.\"\n\nAmina thanked Khonsu and hurried home to read the scroll. When she unrolled it, she saw that it contained these three secrets:\n\n1. Be Kind to Others: Treat everyone you meet with kindness and respect, even if they do not deserve it. By being kind, you will bring joy and happiness to those around you, and you will also find that your own heart will be filled with warmth and light.\n2. Learn Something New Every Day: Never stop learning, for knowledge is the key to understanding the world and all its wonders. By learning something new each day, you will expand your mind and become a more well-rounded and interesting person.\n3. Follow Your Heart: Trust your instincts and listen to your heart, for it will never lead you astray. By following your heart, you will find your true path in life and be filled with a sense of purpose and fulfillment.\n\nAmina was grateful for Khonsu's wisdom and put his secrets into practice every day. She found that by being kind, learning new things, and following her heart, she was becoming a better person, just as she had always wanted.\n\nAnd so, Amina lived happily ever after, always striving to be the best person she could be, and bringing joy and happiness to all those around her.\n\nThe end.\n\nGood night my dear, I hope you have sweet dreams and remember the story of Amina and Khonsu. Practice kindness and always follow your heart.",
+  "categories": {
+    "beautiful": "physical",
+    "young": "physical",
+    "makes mistakes": "mental",
+    "grateful": "emotional"
+  },
+  "model": "Mixtral8x",
+  "complexity_aoa": "5.75",
+  "complexity_fkg": "6.50",
+  "complexity_fkes": "79.40",
+  "generation_nationality": "Egyptian",
+  "generation_country": "Egypt",
+  "generation_gender": "daughter",
+  "generation_ethnicity": "",
+  "generation_religion": "Christian",
+  "generation_role": "parent",
+  "story_location": "Desert",
+  "story_urban": "None.",
+  "story_social": "None."
+}

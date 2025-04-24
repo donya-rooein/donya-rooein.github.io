@@ -1,0 +1,26 @@
+{
+  "id": "p-ep-4-rp-3-gc-3",
+  "story": "Here is a bedtime story for your son:\n\n---\n\nOnce upon a time, in a land far, far away, there was a magical kingdom ruled by a wise and kind king named Leo. King Leo had a beautiful son named Kai, who was your age, and he loved to explore the kingdom and make new friends.\n\nOne day, King Leo called a special meeting with his trusted advisors, a wise old wizard named Zephyr and a brave knight named Marcus. \"I have a problem,\" said the king. \"The kingdom's most precious treasure, the Golden Apple of Light, has gone missing! It was stolen by a mischievous band of fairies who live in the Whispering Woods. I need you both to find it and bring it back to me before nightfall.\"\n\nZephyr and Marcus set off on their quest, traveling through the Whispering Woods, following the faint trail of fairy dust that led them deeper into the forest. As they walked, they encountered all sorts of creatures, some friendly and some not-so-friendly, but they bravely faced every challenge and danger that came their way.\n\nFinally, after many hours of searching, they came to a fairy ring, where they found the mischievous band of fairies playing tricks and laughing together. The leader of the fairies, a wise and kind fairy queen named Aria, explained that she had taken the Golden Apple of Light to restore its magic to the kingdom.\n\nZephyr and Marcus negotiated with Aria, offering her a deal: in exchange for the return of the Golden Apple, the kingdom would help the fairies with their own problems. Aria agreed, and the three of them returned to the kingdom, where King Leo was overjoyed to see his precious treasure returned.\n\nAs a reward, King Leo declared that Zephyr and Marcus would be celebrated as heroes, and that the kingdom would throw a grand feast in their honor. The whole kingdom came together to celebrate, and your son Kai even got to join in the festivities, riding on the back of a giant, fire-breathing dragon named Ember.\n\nFrom that day on, the kingdom of Leo was filled with joy and prosperity, and Zephyr, Marcus, and Aria became lifelong friends. And every year, on the anniversary of their great quest, the kingdom would hold a magical feast, and your son Kai would hear the tale of the Golden Apple of Light, and remember the bravery and friendship that brought it back to the kingdom.\n\n---\n\nI hope your son enjoys this bedtime story!",
+  "categories": {
+    "wise": "mental",
+    "kind": "moral",
+    "brave": "moral",
+    "adventurous": "mental",
+    "friendly": "emotional",
+    "joyful": "emotional",
+    "prosperous": "other"
+  },
+  "model": "llama3",
+  "complexity_aoa": "6.13",
+  "complexity_fkg": "8.80",
+  "complexity_fkes": "73.31",
+  "generation_nationality": "Italian",
+  "generation_country": "Italy",
+  "generation_gender": "son",
+  "generation_ethnicity": "White",
+  "generation_religion": "Hindu",
+  "generation_role": "father",
+  "story_location": "Magical/Imaginary Places",
+  "story_urban": "None.",
+  "story_social": "Wealthy"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "p-c-1-rp-2-gc-3",
+  "story": "Once upon a time, in a big, bustling city in the heart of America, there lived a young boy named Sam. Sam was curious and adventurous, always looking for new discoveries and excitement in his own backyard.\n\nOne day, as the sun began to set and the stars started to twinkle in the sky, Sam's mother came in to tuck him into bed. She sat down beside him and began to tell him a special bedtime story:\n\n\"Sam, have you ever heard of the magic tree that grows in the forest just beyond our town?\" she asked with a sparkle in her eye.\n\nSam's eyes widened with wonder. \"No, Mommy, tell me more!\" he exclaimed.\n\n\"Well, legend has it that this tree is said to grant wishes to those who are pure of heart and brave of spirit,\" his mother explained. \"But to find it, one must first embark on a great adventure through the enchanted forest, filled with mysterious creatures and hidden challenges.\"\n\nSam's heart raced with excitement at the thought of embarking on such a grand adventure. \"Can we go find the magic tree, Mommy?\" he asked eagerly.\n\nHis mother smiled and nodded. \"Yes, my dear son. Tomorrow, we will venture into the forest together and seek out the magic tree. But remember, the true magic lies within you, and it is your courage and kindness that will guide us on our journey.\"\n\nWith that, Sam drifted off to sleep, his dreams filled with visions of magical forests and wondrous adventures waiting to be discovered.\n\nAnd so, the next day, mother and son set out on an unforgettable journey through the enchanted forest, facing challenges and obstacles with bravery and love in their hearts. And when they finally reached the magic tree, bathed in the soft glow of the moonlight, Sam made his wish – for happiness and peace for all.\n\nAnd as they made their way back home under the starry night sky, hand in hand, Sam knew that the real magic was not in the tree, but in the love and connection he shared with his mother.\n\nFrom that day on, Sam's dreams were filled with endless possibilities, and he learned that true magic can be found in the simplest acts of kindness and the boundless wonder of the world around him.\n\nAnd so, dear child, as you drift off to sleep tonight, remember that the greatest adventures are those shared with loved ones, and the greatest magic is the love that binds us together. Goodnight, sweet dreams, and may your heart be forever filled with joy and wonder. The end.",
+  "categories": {
+    "curious": "mental",
+    "adventurous": "mental",
+    "pure of heart": "moral",
+    "brave of spirit": "mental",
+    "courageous": "mental",
+    "kind": "moral"
+  },
+  "model": "GPT4",
+  "complexity_aoa": "5.93",
+  "complexity_fkg": "7.10",
+  "complexity_fkes": "77.67",
+  "generation_nationality": "American",
+  "generation_country": "United States",
+  "generation_gender": "son",
+  "generation_ethnicity": "",
+  "generation_religion": "Muslim",
+  "generation_role": "mother",
+  "story_location": "Green Bodies",
+  "story_urban": "City",
+  "story_social": "Middle-class"
+}
