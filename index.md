@@ -27,9 +27,31 @@ I am also interested in NLP for social good, and I work on studies related to bi
 - **November 2024 – February 2025**: Visiting researcher at [ETH Zurich, Language, Reasoning and Education (LRE) Lab](https://lre.inf.ethz.ch/).
 
 
-
-
 ## Selected Projects
+
+### 📚 Biased Tales
+<img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
+A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.  
+🔗 [View Demo](files/biased-tales-demo/index.html)  
+<br clear="left"/>
+
+---
+
+### ⚖️ LegalBot
+<img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
+A collaborative project between Politecnico di Milano and Tribunale di Milano aimed at improving access to legal information. LegalBot uses a chatbot interface to assist users in understanding common legal concepts.  
+🔗 [View Demo](https://legalbot.i3lab.group/)  
+<br clear="left"/>
+
+---
+
+### 🧑‍🏫 TalkyTutor
+<img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
+A chatbot designed to support educators and students through adaptive, chatbot-mediated learning. Built using the aCHAT framework, TalkyTutor empowers non-technical users (e.g., teachers) to customize both content and conversation flow.  
+<br clear="left"/>
+
+
+<!-- ## Selected Projects
 
 <div style="margin-bottom: 20px;">
   <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
@@ -52,7 +74,7 @@ I am also interested in NLP for social good, and I work on studies related to bi
   <strong>TalkyTutor</strong><br/>
   <span>A chatbot for supporting different educational actors using chatbot-mediated learning. It uses aCHAT framework that allows non-technical actors (e.g., teachers) to customize the learning experience, including content and conversational aspects. TalkyTutor chatbot uses the configuration to reduce time and effort in delivering a chatbot for adaptive learning experiences. </span>
   <br clear="left"/>
-</div>
+</div> -->
 
 
 
