@@ -30,7 +30,7 @@ I am also interested in NLP for social good, and I work on studies related to bi
 ## Selected Projects
 
 ### 📚 Biased Tales
-<img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
+<!-- <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/> -->
 A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.  
 🔗 [View Demo](files/biased-tales-demo/index.html)  
 <br clear="left"/>
@@ -38,7 +38,7 @@ A dataset designed to analyze how biases influence protagonists' attributes and 
 ---
 
 ### ⚖️ LegalBot
-<img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
+<!-- <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/> -->
 A collaborative project between Politecnico di Milano and Tribunale di Milano aimed at improving access to legal information. LegalBot uses a chatbot interface to assist users in understanding common legal concepts.  
 🔗 [View Demo](https://legalbot.i3lab.group/)  
 <br clear="left"/>
@@ -46,7 +46,7 @@ A collaborative project between Politecnico di Milano and Tribunale di Milano ai
 ---
 
 ### 🧑‍🏫 TalkyTutor
-<img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
+<!-- <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/> -->
 A chatbot designed to support educators and students through adaptive, chatbot-mediated learning. Built using the aCHAT framework, TalkyTutor empowers non-technical users (e.g., teachers) to customize both content and conversation flow.  
 <br clear="left"/>
 
@@ -80,18 +80,16 @@ A chatbot designed to support educators and students through adaptive, chatbot-m
 
 ## Selected Publications
 Please find all publications on my [Google Scholar](https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en).
-- (**Rooein** et al., NAACL 2025) Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification [link](https://arxiv.org/abs/2406.09123) 
+- Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification. (NAACL 2025) [link](https://arxiv.org/abs/2406.09123) 
 
-- (**Rooein** et al., NAACL 2024) Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts [link](https://aclanthology.org/2024.bea-1.5) 
+- Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts. (NAACL 2024) [link](https://aclanthology.org/2024.bea-1.5) 
 
-- **Rooein, Donya**, and Dirk Hovy. "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels." arXiv preprint arXiv:2404.10475 (2024).
+- Conversations as a Source for Teaching Scientific Concepts at Different Education Levels. (arXiv preprint 2024)[link](https://arxiv.org/pdf/2404.10475).
 
-- **Rooein, D.**; Paolini, P. and Pernici, B. (2022). Educational Chatbots: A Sustainable Approach for Customizable Conversations for Education.  In Proceedings of the 14th International Conference on Computer Supported Education - Volume 1, ISBN 978-989-758-562-3, ISSN 2184-5026, pages 314-321.
+- aCHAT-WF: Generating conversational agents for teaching business process models. (Journal of Software System Model 2021). [link](https://doi.org/10.1007/s10270-021-00925-7).
 
-- **Rooein, D.**, Bianchini, D., Leotta, F. et al. aCHAT-WF: Generating conversational agents for teaching business process models. Software System Model (2021). [link](https://doi.org/10.1007/s10270-021-00925-7).
+- Chatting About Processes in Digital Factories: A Model-Based Approach. (BPMDS 2020) [link](https://link.springer.com/chapter/10.1007/978-3-030-49418-6_5).
 
-
-- **Donya Rooein**. 2019. Data-Driven Edu Chatbots. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 46-49. 
-[Link](https://doi.org/10.1145/3308560.3314191).
+- Data-Driven Edu Chatbots. (The 2019 World Wide Web Conference)[Link](https://doi.org/10.1145/3308560.3314191).
 
 
