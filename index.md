@@ -34,83 +34,42 @@ I am also interested in NLP for social good, and I work on studies related to bi
 <div style="margin-bottom: 20px;">
   <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
   <strong>Biased Tales</strong><br/>
-  <span>A dataset of annotated, LLM-generated children's bedtime stories.</span><br/>
+  <span>A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.</span><br/>
   <a href="files/biased-tales-demo/index.html" target="_blank">🚀 View Demo</a>
-  <br clear="left"/>
-</div>
-
-
-<div style="margin-bottom: 20px;">
-  <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
-  <strong>TalkyTutor</strong><br/>
-  <span>The chatbot that supports your learning experience.</span>
   <br clear="left"/>
 </div>
 
 <div style="margin-bottom: 20px;">
   <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
-  <strong>BOT Easy Access Tribunale</strong><br/>
-  <span>The chatbot that supports citizens in legal systems.</span>
+  <strong>LegalBot</strong><br/>
+  <span>LegalBot is an innovative project born out of a collaborative effort between Politecnico di Milano and Tribunale di Milano. Its mission is to enhance accessibility to vital legal information for the end-users. By leveraging the capabilities of a sophisticated chatbot, it provides a seamless and user-friendly UI for individuals seeking common legal information.</span>
   <a href="https://legalbot.i3lab.group/" target="_blank">🚀 View Demo</a>
   <br clear="left"/>
 </div>
 
-
-<div class="docs-section" id="publications">
-  <h4>Publications</h4>
-
-  <p>Please find all publications on my 
-    <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en" target="_blank">Google Scholar</a>.  
-  </p>
-
-  <div class="paper">
-    <p class="title"><b>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification</b></p>
-    <p><i>To appear at NAACL 2025</i></p>
-    <p><a class="button" href="https://arxiv.org/abs/2406.09123" target="_blank">arXiv</a></p>
-  </div>
-
-  <div class="paper">
-    <p class="title"><b>Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts</b></p>
-    <p><i>Proceedings of BEA 2024</i></p>
-    <p><a class="button" href="https://aclanthology.org/2024.bea-1.5" target="_blank">Paper</a></p>
-  </div>
-
-  <div class="paper">
-    <p class="title"><b>Conversations as a Source for Teaching Scientific Concepts at Different Education Levels</b></p>
-    <p><i>arXiv preprint, 2024</i></p>
-    <p><a class="button" href="https://arxiv.org/abs/2404.10475" target="_blank">arXiv</a></p>
-  </div>
-
-  <div class="paper">
-    <p class="title"><b>Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?</b></p>
-    <p><i>arXiv preprint, 2023</i></p>
-    <p><a class="button" href="https://arxiv.org/abs/2312.02065" target="_blank">arXiv</a></p>
-  </div>
-
-
-
-  <div class="paper">
-    <p class="title"><b>aCHAT-WF: Generating Conversational Agents for Teaching Business Process Models</b></p>
-    <p><i>Software and Systems Modeling (SoSyM), 2021</i></p>
-    <p><a class="button" href="https://doi.org/10.1007/s10270-021-00925-7" target="_blank">Springer</a></p>
-  </div>
-
-
-
-  <div class="paper">
-    <p class="title"><b>Data-Driven Edu Chatbots</b></p>
-    <p><i>WWW '19 Companion Proceedings</i></p>
-    <p><a class="button" href="https://doi.org/10.1145/3308560.3314191" target="_blank">ACM</a></p>
-  </div>
+<div style="margin-bottom: 20px;">
+  <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
+  <strong>TalkyTutor</strong><br/>
+  <span>A chatbot for supporting different educational actors using chatbot-mediated learning. It uses aCHAT framework that allows non-technical actors (e.g., teachers) to customize the learning experience, including content and conversational aspects. TalkyTutor chatbot uses the configuration to reduce time and effort in delivering a chatbot for adaptive learning experiences. </span>
+  <br clear="left"/>
 </div>
 
 
 
+## Selected Publications
+Please find all publications on my [Google Scholar](https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en).
+- (**Rooein** et al., NAACL 2025) Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification [link](https://arxiv.org/abs/2406.09123) 
+
+- (**Rooein** et al., NAACL 2024) Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts [link](https://aclanthology.org/2024.bea-1.5) 
+
+- **Rooein, Donya**, and Dirk Hovy. "Conversations as a Source for Teaching Scientific Concepts at Different Education Levels." arXiv preprint arXiv:2404.10475 (2024).
+
+- **Rooein, D.**; Paolini, P. and Pernici, B. (2022). Educational Chatbots: A Sustainable Approach for Customizable Conversations for Education.  In Proceedings of the 14th International Conference on Computer Supported Education - Volume 1, ISBN 978-989-758-562-3, ISSN 2184-5026, pages 314-321.
+
+- **Rooein, D.**, Bianchini, D., Leotta, F. et al. aCHAT-WF: Generating conversational agents for teaching business process models. Software System Model (2021). [link](https://doi.org/10.1007/s10270-021-00925-7).
 
 
-<!--
-## Contact
-**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
-<br>
-**Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
--->
+- **Donya Rooein**. 2019. Data-Driven Edu Chatbots. In Companion Proceedings of The 2019 World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 46-49. 
+[Link](https://doi.org/10.1145/3308560.3314191).
+
+
