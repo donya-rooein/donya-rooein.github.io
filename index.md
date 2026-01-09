@@ -95,18 +95,8 @@ A chatbot designed to support educators and students through adaptive, chatbot-m
 
 
 
-## Selected Publications
+## Publications
 Please find all publications on my [Google Scholar](https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en).
-- Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification. (NAACL 2025). [link](https://arxiv.org/abs/2406.09123) 
 
-- Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts. (NAACL 2024). [link](https://aclanthology.org/2024.bea-1.5) 
-
-- Conversations as a Source for Teaching Scientific Concepts at Different Education Levels. (arXiv preprint 2024). [link](https://arxiv.org/pdf/2404.10475)
-
-- aCHAT-WF: Generating conversational agents for teaching business process models. (Journal of Software System Model 2021). [link](https://doi.org/10.1007/s10270-021-00925-7)
-
-- Chatting About Processes in Digital Factories: A Model-Based Approach. (BPMDS 2020). [link](https://link.springer.com/chapter/10.1007/978-3-030-49418-6_5)
-
-- Data-Driven Edu Chatbots. (The 2019 World Wide Web Conference). [Link](https://doi.org/10.1145/3308560.3314191).
 
 
