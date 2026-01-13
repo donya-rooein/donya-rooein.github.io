@@ -46,6 +46,14 @@ and the Path Forward]([[https://aclanthology.org/2025.bea-1.44.pdf](https://acla
 
 ## Selected Projects
 
+### 📚 PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors
+<!-- <img align="left" width="100" src="files/PATS-icon.png" style="margin-right: 15px;"/> -->
+A taxonomy of teaching strategies was developed based on learning science literature and LLM-based evaluations of different teaching strategies. 
+🔗 [View Demo](https://donya-rooein.github.io/PATS/)  
+<br clear="left"/>
+
+---
+
 ### 📚 Biased Tales
 <!-- <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/> -->
 A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.  
