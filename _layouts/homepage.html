@@ -68,7 +68,7 @@
     </style>
     
     <div class="wrapper">
-      <header>
+      <header class="site-sidebar">
         
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
@@ -88,8 +88,17 @@
         <email>{{ site.email }}</email>
         {% endif %}
 
-        <br>
-        <br>
+        <div class="sidebar-note">
+          Research in NLP, educational AI, evaluation, and child-centred human-AI interaction.
+        </div>
+
+        <div class="sidebar-tags">
+          <span>NLP</span>
+          <span>Education</span>
+          <span>LLM Evaluation</span>
+          <span>Child-Centred AI</span>
+        </div>
+
         <div class="social-icons">
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
@@ -126,10 +135,9 @@
         </a>
         {% endif %}
         </div>
-        <br>
-
       </header>
-      <section>
+      <main class="content-column">
+      <section class="page-content">
 
       {{ content }}
 
@@ -178,6 +186,7 @@
         <br>
         <br>
       </footer>
+      </main>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
