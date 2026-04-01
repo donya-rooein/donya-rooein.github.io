@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Child-Safe AI</title>
+  <style>
+    :root {
+      --bg: #f5efe3;
+      --panel: rgba(255, 251, 245, 0.92);
+      --ink: #1f2a24;
+      --muted: #5f6d66;
+      --accent: #147a73;
+      --accent-2: #ef8b42;
+      --line: rgba(31, 42, 36, 0.12);
+      --shadow: 0 24px 60px rgba(54, 44, 27, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at top left, rgba(20, 122, 115, 0.18), transparent 28%),
+        radial-gradient(circle at bottom right, rgba(239, 139, 66, 0.18), transparent 26%),
+        linear-gradient(135deg, #f8f2e7 0%, #efe5d1 100%);
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      color: var(--ink);
+      padding: 28px;
+    }
+
+    .page {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+      background: var(--panel);
+      border: 1px solid rgba(255, 255, 255, 0.7);
+      border-radius: 28px;
+      box-shadow: var(--shadow);
+      padding: 52px 56px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .page::before,
+    .page::after {
+      content: "";
+      position: absolute;
+      border-radius: 999px;
+    }
+
+    .page::before {
+      width: 320px;
+      height: 320px;
+      right: -110px;
+      top: -120px;
+      background: radial-gradient(circle, rgba(20, 122, 115, 0.16), transparent 68%);
+    }
+
+    .page::after {
+      width: 260px;
+      height: 260px;
+      left: -90px;
+      bottom: -90px;
+      background: radial-gradient(circle, rgba(239, 139, 66, 0.16), transparent 68%);
+    }
+
+    .eyebrow {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: rgba(20, 122, 115, 0.12);
+      color: var(--accent);
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 18px 0 12px;
+      font-size: 48px;
+      line-height: 1.06;
+      max-width: 900px;
+    }
+
+    .lead {
+      max-width: 900px;
+      font-size: 22px;
+      line-height: 1.5;
+      color: var(--muted);
+      margin-bottom: 34px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1.18fr 0.82fr;
+      gap: 24px;
+      align-items: start;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.72);
+      padding: 24px;
+      backdrop-filter: blur(6px);
+    }
+
+    .card h2 {
+      margin: 0 0 16px;
+      font-size: 15px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    .problem {
+      font-size: 30px;
+      line-height: 1.28;
+      margin: 0;
+    }
+
+    .stakeholders {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .pill {
+      border-radius: 18px;
+      padding: 16px 16px 14px;
+      background: linear-gradient(180deg, rgba(20, 122, 115, 0.1), rgba(20, 122, 115, 0.04));
+      border: 1px solid rgba(20, 122, 115, 0.12);
+    }
+
+    .pill strong {
+      display: block;
+      font-size: 17px;
+      margin-bottom: 6px;
+    }
+
+    .pill span {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    li {
+      margin: 0 0 14px;
+      font-size: 18px;
+      line-height: 1.4;
+    }
+
+    .impact {
+      margin-top: 18px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      font-size: 18px;
+      line-height: 1.45;
+    }
+
+    .impact strong {
+      color: var(--accent-2);
+    }
+
+    .back {
+      margin-top: 26px;
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    @media (max-width: 980px) {
+      body {
+        padding: 16px;
+      }
+
+      .page {
+        padding: 34px 22px;
+      }
+
+      .grid,
+      .stakeholders {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 36px;
+      }
+
+      .problem {
+        font-size: 25px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <div class="eyebrow">Selected Project</div>
+    <h1>Child-Safe AI</h1>
+    <p class="lead">
+      Understanding how children use AI and what safer AI for young users should look like.
+    </p>
+
+    <img src="../Child-Safe AI.png" alt="Illustration for Child-Safe AI project" style="width: 100%; border-radius: 26px; margin-bottom: 24px; border: 1px solid rgba(31,42,36,0.08); background: rgba(255,255,255,0.5);" />
+
+    <section class="grid">
+      <article class="card">
+        <h2>Project Overview</h2>
+        <p class="problem">
+          This project uses aligned surveys for children, parents, and educators to understand real-world AI use, identify the main safety and learning risks, and translate those insights into practical recommendations for child-safe AI.
+        </p>
+
+        <div class="stakeholders">
+          <div class="pill">
+            <strong>Children</strong>
+            <span>How often they use AI, what they use it for, how much they trust it, and whether they share personal information or seek emotional support.</span>
+          </div>
+          <div class="pill">
+            <strong>Parents</strong>
+            <span>Awareness of children’s AI use, concerns about privacy and monitoring, and the need for stronger controls and guidance.</span>
+          </div>
+          <div class="pill">
+            <strong>Educators</strong>
+            <span>Observed classroom use, academic integrity concerns, learning impact, AI literacy needs, and policy requirements.</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <h2>Research Focus</h2>
+        <ul>
+          <li>Measure how children use AI across learning, creativity, entertainment, advice-seeking, and emotional contexts.</li>
+          <li>Compare children’s experiences with adult perceptions to surface awareness and supervision gaps.</li>
+          <li>Assess risks including misinformation, inappropriate content, risky advice, privacy exposure, dependency, and misuse.</li>
+          <li>Identify what support is missing in product design, family guidance, and school policy.</li>
+        </ul>
+
+        <div class="impact">
+          <strong>Outcome:</strong> Evidence-based recommendations for safer AI systems, better AI literacy, and age-appropriate safeguards for young users.
+        </div>
+      </article>
+    </section>
+
+    <a class="back" href="../../index.html">Back to homepage</a>
+  </main>
+</body>
+</html>

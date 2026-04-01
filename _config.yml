@@ -7,11 +7,11 @@ email: donya.rooein (at) unibocconi.it
 
 # Search Engine Optimization (SEO)
 keywords: donya rooein, donyarooein, rooeindonya, donyarooein
-canonical: https://milanlproc.github.io/authors/donya_rooein/
+canonical: https://donya-rooein.github.io/
 description: Donya Rooein is a postdoctoral fellow at Bocconi University. Her research lies in NLP, Conversational AI, and Applied ML.
 
 # The option is used to enable the Johns Hopkins template.
-enable_jhu_logo: true
+enable_jhu_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/in/donya-rooein/
 twitter: https://twitter.com/donyarooein/
 
 # Images 
-avatar: files/donya-rooein-avatar.JPG
+avatar: files/donya-rooein-avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
