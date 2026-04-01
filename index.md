@@ -6,11 +6,7 @@ layout: homepage
 
 <div class="highlight-banner">Open to academic and industry opportunities for 2026</div>
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at the Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)), where I contribute to [INTERGRATOR](https://milanlproc.github.io/project/integrator/), a project studying demographic factors in language technologies and their implications for the future of conversational AI.
-
-<p class="lead-note">
-My research sits at the intersection of Natural Language Processing and Human-Computer Interaction, with a strong emphasis on educational applications. I am particularly interested in evaluating large language models in educational settings, especially for young users, and in understanding how culture, difficulty, fairness, and human factors shape AI systems in practice.
-</p>
+I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at the Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)), where I contribute to [INTERGRATOR](https://milanlproc.github.io/project/integrator/), a project studying demographic factors in language technologies and their implications for the future of conversational AI. My research sits at the intersection of Natural Language Processing and Human-Computer Interaction, with a strong emphasis on educational applications. I am particularly interested in evaluating large language models in educational settings, especially for young users, and in understanding how culture, difficulty, fairness, and human factors shape AI systems in practice.
 
 I am also interested in NLP for social good, including biases and social norms in Farsi language technologies.
 
@@ -21,21 +17,21 @@ My Ph.D. thesis was "A Scalable, Reconfigurable, and Adaptive Framework for Chat
 ## Recent News
 
 <ul class="news-list">
-  <li><strong>March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
-  <li><strong>February 2026:</strong> <em><a href="https://aclanthology.org/2026.wassa-1.8.pdf">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> at <strong>WASSA, EACL 2026</strong>.</li>
-  <li><strong>January 2026:</strong> <em><a href="https://github.com/MilaNLProc/PATS_project">PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</a></em> at <strong>EACL 2026</strong>.</li>
-  <li><strong>January 2026:</strong> <em><a href="https://arxiv.org/pdf/2506.19467">Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</a></em> at <strong>EACL 2026</strong>.</li>
-  <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.babylm-main.25.pdf">Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</a></em> at <strong>BabyLM, EMNLP 2025</strong>.</li>
-  <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-main.3.pdf">Biased Tales: Cultural and Topic Bias in Generating Children's Stories</a></em> at <strong>EMNLP 2025</strong>.</li>
-  <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-demos.25/">Co-detect: Collaborative Discovery of Edge Cases in Text Classification</a></em> at <strong>EMNLP 2025</strong>.</li>
-  <li><strong>September 2025:</strong> <em><a href="https://arxiv.org/pdf/2509.05719">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> on <strong>arXiv</strong>.</li>
-  <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">Measuring Gender Bias in Language Models in Farsi</a></em> at <strong>GeBNLP, ACL 2025</strong>.</li>
-  <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.28.pdf">Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-  <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.29.pdf">Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-  <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.44.pdf">Are Large Language Models for Education Reliable for All Languages?</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-  <li><strong>April 2025:</strong> <em><a href="https://arxiv.org/abs/2406.09123">Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification</a></em> at <strong>NAACL 2025</strong>.</li>
-  <li><strong>April 2025:</strong> Invited talk at Universita della Svizzera italiana (USI) on <a href="https://www.usi.ch/en/feeds/31424">Child-Centred AI in Education</a>.</li>
-  <li><strong>November 2024 to February 2025:</strong> Visiting researcher at <a href="https://lre.inf.ethz.ch/">ETH Zurich, Language, Reasoning and Education Lab</a>.</li>
+  <li><strong> March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
+  <li><strong> February 2026:</strong> <em><a href="https://aclanthology.org/2026.wassa-1.8.pdf">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> at <strong>WASSA, EACL 2026</strong>.</li>
+  <li><strong> January 2026:</strong> <em><a href="https://github.com/MilaNLProc/PATS_project">PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</a></em> at <strong>EACL 2026</strong>.</li>
+  <li><strong> January 2026:</strong> <em><a href="https://arxiv.org/pdf/2506.19467">Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</a></em> at <strong>EACL 2026</strong>.</li>
+  <li><strong> November 2025:</strong> <em><a href="https://aclanthology.org/2025.babylm-main.25.pdf">Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</a></em> at <strong>BabyLM, EMNLP 2025</strong>.</li>
+  <li><strong> November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-main.3.pdf">Biased Tales: Cultural and Topic Bias in Generating Children's Stories</a></em> at <strong>EMNLP 2025</strong>.</li>
+  <li><strong> November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-demos.25/">Co-detect: Collaborative Discovery of Edge Cases in Text Classification</a></em> at <strong>EMNLP 2025</strong>.</li>
+  <li><strong> September 2025:</strong> <em><a href="https://arxiv.org/pdf/2509.05719">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> on <strong>arXiv</strong>.</li>
+  <li><strong> July 2025:</strong> <em><a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">Measuring Gender Bias in Language Models in Farsi</a></em> at <strong>GeBNLP, ACL 2025</strong>.</li>
+  <li><strong> July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.28.pdf">Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+  <li><strong> July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.29.pdf">Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+  <li><strong> July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.44.pdf">Are Large Language Models for Education Reliable for All Languages?</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+  <li><strong> April 2025:</strong> <em><a href="https://arxiv.org/abs/2406.09123">Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification</a></em> at <strong>NAACL 2025</strong>.</li>
+  <li><strong> April 2025:</strong> Invited talk at Universita della Svizzera italiana (USI) on <a href="https://www.usi.ch/en/feeds/31424">Child-Centred AI in Education</a>.</li>
+  <li><strong> November 2024 to February 2025:</strong> Visiting researcher at <a href="https://lre.inf.ethz.ch/">ETH Zurich, Language, Reasoning and Education Lab</a>.</li>
 </ul>
 
 ## Selected Projects
