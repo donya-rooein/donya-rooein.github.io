@@ -29,6 +29,13 @@ I am also interested in NLP for social good, and I work on studies related to bi
 
 ## Selected Projects
 
+### 🧒 Child-Safe AI
+Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.  
+🔗 [Project Overview](files/child-safe-ai/index.html)  
+<br clear="left"/>
+
+---
+
 ### 📚 Biased Tales
 <!-- <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/> -->
 A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.  
@@ -91,5 +98,4 @@ Please find all publications on my [Google Scholar](https://scholar.google.com/c
 - Chatting About Processes in Digital Factories: A Model-Based Approach. (BPMDS 2020). [link](https://link.springer.com/chapter/10.1007/978-3-030-49418-6_5)
 
 - Data-Driven Edu Chatbots. (The 2019 World Wide Web Conference). [Link](https://doi.org/10.1145/3308560.3314191).
-
 
