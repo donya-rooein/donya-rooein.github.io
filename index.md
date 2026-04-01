@@ -20,6 +20,8 @@ I am also interested in NLP for social good, and I work on studies related to bi
 My Ph.D. thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During My Ph.D., I focused on adaptive conversational agents; in particular, I designed and developed highly configurable chatbots in education to support various actors with different demographics.
 
 ## Recent News
+- **March 2026**:   Attenging in **EACL 2026** at Rabat, and presenting three papers 🎉.
+- **February 2026**:  *[Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models](https://aclanthology.org/2026.wassa-1.8.pdf)* at **WASSA, EACL 2026**
 - **January 2026**:   *[PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors](https://github.com/MilaNLProc/PATS_project)* at **EACL 2026**
 - **January 2026**:   *[Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?](https://arxiv.org/pdf/2506.19467)* at **EACL 2026**
 - **November 2025**:   *[Teacher Demonstrations in a BabyLM’s Zone of Proximal Development for Contingent Multi-Turn Interaction](https://aclanthology.org/2025.babylm-main.25.pdf)* at **🏆 BabyLM EMNLP 2025**
@@ -45,6 +47,11 @@ and the Path Forward]([[https://aclanthology.org/2025.bea-1.44.pdf](https://acla
 
 
 ## Selected Projects
+### 🧒 Child-Safe AI
+<img align="left" width="100" src="files/project-child-safe-ai.svg" style="margin-right: 15px;"/>
+Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.  
+🔗 [Project Overview](files/child-safe-ai/index.html)  
+<br clear="left"/>
 
 ### 📚 PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors
 <!-- <img align="left" width="100" src="files/PATS-icon.png" style="margin-right: 15px;"/> -->
