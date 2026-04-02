@@ -128,3 +128,14 @@ layout: homepage
     <li><strong>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification.</strong> NAACL 2025. <a href="https://arxiv.org/abs/2406.09123">link</a></li>
   </ol>
 </div>
+
+## Datasets
+
+<div class="section-card">
+  <ol class="publication-list">
+    <li>
+      <strong>Biased Tales.</strong> A dataset for studying cultural and topic bias in LLM-generated children's stories, covering protagonists' attributes and story elements across diverse cultural contexts.
+      <a href="https://huggingface.co/datasets/Donya/biased_tales">Hugging Face</a>
+    </li>
+  </ol>
+</div>
