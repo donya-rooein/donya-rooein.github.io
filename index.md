@@ -63,9 +63,10 @@ layout: homepage
 
 <div class="section-card">
   <div class="project-grid">
-    <article class="project-card no-image">
+    <article class="project-card">
+      <img src="files/project-child-AI.png" alt="KidAlign AI project illustration">
       <div>
-        <h3>Child-Safe AI</h3>
+        <h3>KidAlign AI</h3>
         <p>Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.</p>
         <a class="project-link" href="files/child-safe-ai/index.html">Project overview</a>
       </div>
