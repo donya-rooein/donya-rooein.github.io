@@ -370,29 +370,52 @@
           <label for="cf-message">Anything you'd like to add (optional)</label>
           <textarea id="cf-message" name="message" placeholder="e.g. age range of children, country, questions…"></textarea>
         </div>
-        <button type="submit">Send via email</button>
+        <button type="submit" id="submitBtn">Send</button>
+        <p class="full-width" id="formStatus" style="display:none; margin:0; font-size:15px;"></p>
       </form>
     </section>
 
     <script>
-      document.getElementById('contactForm').addEventListener('submit', function(e) {
+      document.getElementById('contactForm').addEventListener('submit', async function(e) {
         e.preventDefault();
-        var name    = document.getElementById('cf-name').value.trim();
-        var role    = document.getElementById('cf-role').value;
-        var email   = document.getElementById('cf-email').value.trim();
-        var school  = document.getElementById('cf-school').value.trim();
-        var message = document.getElementById('cf-message').value.trim();
+        var btn    = document.getElementById('submitBtn');
+        var status = document.getElementById('formStatus');
 
-        var body = 'Name: ' + name + '\n'
-                 + 'Role: ' + role + '\n'
-                 + 'Email: ' + email + '\n'
-                 + (school  ? 'School/Organisation: ' + school + '\n' : '')
-                 + (message ? '\nMessage:\n' + message : '');
+        btn.disabled = true;
+        btn.textContent = 'Sending…';
+        status.style.display = 'none';
 
-        var subject = 'Child-Safe AI Research – ' + role + ' participation interest';
-        window.location.href = 'mailto:donya.rooein@unibocconi.it'
-          + '?subject=' + encodeURIComponent(subject)
-          + '&body='    + encodeURIComponent(body);
+        var data = {
+          name:    document.getElementById('cf-name').value.trim(),
+          role:    document.getElementById('cf-role').value,
+          email:   document.getElementById('cf-email').value.trim(),
+          school:  document.getElementById('cf-school').value.trim(),
+          message: document.getElementById('cf-message').value.trim()
+        };
+
+        try {
+          var res = await fetch('https://formspree.io/f/mdaplada', {
+            method: 'POST',
+            headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+          });
+
+          if (res.ok) {
+            status.style.color = '#147a73';
+            status.textContent = 'Thank you! We will be in touch soon.';
+            e.target.reset();
+            btn.textContent = 'Sent';
+          } else {
+            throw new Error('Server error');
+          }
+        } catch (_) {
+          status.style.color = '#c0392b';
+          status.textContent = 'Something went wrong. Please try again or email us directly at donya.rooein@unibocconi.it';
+          btn.disabled = false;
+          btn.textContent = 'Send';
+        }
+
+        status.style.display = 'block';
       });
     </script>
 
