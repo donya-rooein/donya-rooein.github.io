@@ -43,7 +43,7 @@ layout: homepage
   <ul class="news-list">
     <li><strong>March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
     <li><strong>February 2026:</strong> <em><a href="https://aclanthology.org/2026.wassa-1.8.pdf">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> at <strong>WASSA, EACL 2026</strong>.</li>
-    <li><strong>January 2026:</strong> <em><a href="https://github.com/MilaNLProc/PATS_project">PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</a></em> at <strong>EACL 2026</strong>.</li>
+    <li><strong>January 2026:</strong> <em><a href="https://aclanthology.org/2026.findings-eacl.219.pdf">PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</a></em> at <strong>EACL 2026</strong>.</li>
     <li><strong>January 2026:</strong> <em><a href="https://arxiv.org/pdf/2506.19467">Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</a></em> at <strong>EACL 2026</strong>.</li>
     <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.babylm-main.25.pdf">Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</a></em> at <strong>BabyLM, EMNLP 2025</strong>.</li>
     <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-main.3.pdf">Biased Tales: Cultural and Topic Bias in Generating Children's Stories</a></em> at <strong>EMNLP 2025</strong>.</li>
