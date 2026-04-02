@@ -32,7 +32,7 @@ layout: homepage
     </aside>
   </div>
 
-  <p>I received my Ph.D. in Information Technology Engineering from [Politecnico di Milano](https://www.polimi.it/), where I was advised by [Prof. Barbara Pernici](https://pernici.faculty.polimi.it/) and [Prof. Paolo Paolini](https://www.deib.polimi.it/eng/people/details/60294). I was also a research visitor at [ETH Zurich](https://ethz.ch/en.html) during the final year of my Ph.D.</p>
+  <p>I received my Ph.D. in Information Technology Engineering from <a href="https://www.polimi.it/">Politecnico di Milano</a>, where I was advised by <a href="https://pernici.faculty.polimi.it/">Prof. Barbara Pernici</a> and <a href="https://www.deib.polimi.it/eng/people/details/60294">Prof. Paolo Paolini</a>. I was also a research visitor at <a href="https://ethz.ch/en.html">ETH Zurich</a> during the final year of my Ph.D.</p>
 
   <p>My Ph.D. thesis was "A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education." During my doctoral work, I focused on adaptive conversational agents and designed configurable educational chatbots that support diverse users with different demographic backgrounds and learning needs.</p>
 </div>
