@@ -82,7 +82,7 @@ layout: homepage
     </article>
 
     <article class="project-card">
-      <img src="files/project-bias.png" alt="Biased Tales project image">
+      <img src="files/project-bias.jpg" alt="Biased Tales project image">
       <div>
         <h3>Biased Tales</h3>
         <p>A dataset for analyzing how biases influence protagonists' attributes and story elements in LLM-generated stories for children.</p>
