@@ -68,7 +68,7 @@ layout: homepage
       <div>
         <h3>KidAlign AI</h3>
         <p>Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.</p>
-        <a class="project-link" href="files/child-safe-ai/index.html">Project overview</a>
+        <a class="project-link" href="files/child-safe-ai/index.html">View Project</a>
       </div>
     </article>
 
@@ -77,7 +77,7 @@ layout: homepage
       <div>
         <h3>PATS</h3>
         <p>Personality-Aware Teaching Strategies with Large Language Model Tutors, grounded in learning science and LLM-based evaluation of tutoring strategies.</p>
-        <a class="project-link" href="https://donya-rooein.github.io/PATS/">View project</a>
+        <a class="project-link" href="https://donya-rooein.github.io/PATS/">View Project</a>
       </div>
     </article>
 
@@ -86,7 +86,7 @@ layout: homepage
       <div>
         <h3>Biased Tales</h3>
         <p>A dataset for analyzing how biases influence protagonists' attributes and story elements in LLM-generated stories for children.</p>
-        <a class="project-link" href="files/biased-tales-demo/index.html">View demo</a>
+        <a class="project-link" href="files/biased-tales-demo/index.html">View Project</a>
       </div>
     </article>
 
@@ -95,7 +95,7 @@ layout: homepage
       <div>
         <h3>LegalBot</h3>
         <p>A collaboration between Politecnico di Milano and Tribunale di Milano aimed at improving access to legal information through a conversational interface.</p>
-        <a class="project-link" href="https://legalbot.i3lab.group/">View demo</a>
+        <a class="project-link" href="https://legalbot.i3lab.group/">View Project</a>
       </div>
     </article>
 
