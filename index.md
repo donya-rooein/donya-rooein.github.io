@@ -11,8 +11,8 @@ layout: homepage
     <div>
       <p class="hero-intro">I study how language technologies can be made more useful, fair, and human-centred, with a particular focus on education and young users.</p>
       <p>I am currently a postdoctoral fellow in the Department of Computer Science at <a href="https://www.unibocconi.it/">Bocconi University</a>. I work with <a href="https://milanlproc.github.io/authors/1_dirk_hovy/">Prof. Dirk Hovy</a> at the Milan Natural Language Processing Group (<a href="https://milanlproc.github.io/#about">MilaNLP Lab</a>), where I contribute to <a href="https://milanlproc.github.io/project/integrator/">INTERGRATOR</a>, a project studying demographic factors in language technologies and their implications for the future of conversational AI.</p>
-      <p class="lead-note">My research sits at the intersection of Natural Language Processing and Human-Computer Interaction, with a strong emphasis on educational applications. I am particularly interested in evaluating large language models in educational settings, especially for young users, and in understanding how culture, difficulty, fairness, and human factors shape AI systems in practice.</p>
-      <p>I am also interested in NLP for social good, including biases and social norms in Farsi language technologies.</p>
+      <p>My research sits at the intersection of Natural Language Processing and Human-Computer Interaction, with a strong emphasis on educational applications. I am particularly interested in evaluating large language models in educational settings, especially for young users, and in understanding how culture, difficulty, fairness, and human factors shape AI systems in practice.</p>
+      <p>I am also interested in NLP for social good, including biases and social norms for low-resource languages such as Farsi.</p>
     </div>
 
     <aside class="about-side">
