@@ -116,7 +116,7 @@ layout: homepage
 
   <ol class="publication-list">
     <li><strong>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models.</strong> WASSA, EACL 2026. <a href="https://aclanthology.org/2026.wassa-1.8.pdf">link</a></li>
-    <li><strong>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors.</strong> EACL 2026. <a href="https://github.com/MilaNLProc/PATS_project">link</a></li>
+    <li><strong>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors.</strong> EACL 2026. <a href="https://aclanthology.org/2026.findings-eacl.219.pdf">link</a></li>
     <li><strong>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</strong> EACL 2026. <a href="https://arxiv.org/pdf/2506.19467">link</a></li>
     <li><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction.</strong> BabyLM, EMNLP 2025. <a href="https://aclanthology.org/2025.babylm-main.25.pdf">link</a></li>
     <li><strong>Biased Tales: Cultural and Topic Bias in Generating Children's Stories.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-main.3.pdf">link</a></li>
