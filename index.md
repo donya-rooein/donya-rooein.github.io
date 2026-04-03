@@ -133,15 +133,15 @@ layout: homepage
 
 <div class="section-card">
   <ul class="dataset-list">
-    <li>
-      <strong>Biased Tales</strong> — Cultural and topic bias in LLM-generated children's stories.
-      <a href="https://huggingface.co/datasets/Donya/biased_tales" class="hf-link">
+      <li>
+      <strong>PATS</strong> — Personality-aware teaching dialogues at three difficulty levels (stories &amp; images).
+      <a href="https://huggingface.co/datasets/Donya/pats-tasks" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
     <li>
-      <strong>PATS Tasks</strong> — Personality-aware teaching dialogues at three difficulty levels (stories &amp; images).
-      <a href="https://huggingface.co/datasets/Donya/pats-tasks" class="hf-link">
+      <strong>Biased Tales</strong> — Cultural and topic bias in LLM-generated children's stories.
+      <a href="https://huggingface.co/datasets/Donya/biased_tales" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
