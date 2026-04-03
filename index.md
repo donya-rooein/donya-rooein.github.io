@@ -146,7 +146,7 @@ layout: homepage
       </a>
     </li>
        <li>
-      <strong>Farsi Subjective Tasks</strong> — Survey of 110 publications on sentiment, emotion, and toxicity detection in Farsi.
+      <strong>Farsi Subjective Tasks</strong> — Survey of 110 papers on sentiment, emotion, and toxicity detection in Farsi.
       <a href="https://huggingface.co/datasets/Donya/subjective-tasks-farsi" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
