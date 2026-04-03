@@ -145,23 +145,25 @@ layout: homepage
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
-    <li>
-      <strong>ISN</strong> — Iranian Social Norms: 1,699 bilingual (Farsi/English) samples labelled as Expected, Normal, or Taboo.
-      <a href="https://huggingface.co/datasets/Donya/ISN" class="hf-link">
+       <li>
+      <strong>Subjective Tasks in Farsi</strong> — Survey of 110 publications on sentiment, emotion, and toxicity detection in Farsi.
+      <a href="https://huggingface.co/datasets/Donya/subjective-tasks-farsi" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
-    <li>
+        <li>
       <strong>GBFA</strong> — Farsi translations of ISEAR, BBQ, and HONEST for gender bias evaluation in Farsi LMs.
       <a href="https://huggingface.co/datasets/Donya/GBFA" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
     <li>
-      <strong>Subjective Tasks in Farsi</strong> — Survey of 110 publications on sentiment, emotion, and toxicity detection in Persian NLP.
-      <a href="https://huggingface.co/datasets/Donya/subjective-tasks-farsi" class="hf-link">
+      <strong>ISN</strong> — Iranian Social Norms: 1,699 bilingual (Farsi/English) samples labelled with social norms.
+      <a href="https://huggingface.co/datasets/Donya/ISN" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
+
+
   </ul>
 </div>
