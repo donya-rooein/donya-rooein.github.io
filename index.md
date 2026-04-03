@@ -133,7 +133,7 @@ layout: homepage
 
 <div class="section-card">
   <ul class="dataset-list">
-      <li>
+    <li>
       <strong>PATS</strong> — Personality-aware teaching dialogues at three difficulty levels (stories &amp; images).
       <a href="https://huggingface.co/datasets/Donya/pats-tasks" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
@@ -142,6 +142,24 @@ layout: homepage
     <li>
       <strong>Biased Tales</strong> — Cultural and topic bias in LLM-generated children's stories.
       <a href="https://huggingface.co/datasets/Donya/biased_tales" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+    <li>
+      <strong>ISN</strong> — Iranian Social Norms: 1,699 bilingual (Farsi/English) samples labelled as Expected, Normal, or Taboo.
+      <a href="https://huggingface.co/datasets/Donya/ISN" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+    <li>
+      <strong>GBFA</strong> — Farsi translations of ISEAR, BBQ, and HONEST for gender bias evaluation in Farsi LMs.
+      <a href="https://huggingface.co/datasets/Donya/GBFA" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+    <li>
+      <strong>Subjective Tasks in Farsi</strong> — Survey of 110 publications on sentiment, emotion, and toxicity detection in Persian NLP.
+      <a href="https://huggingface.co/datasets/Donya/subjective-tasks-farsi" class="hf-link">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
       </a>
     </li>
