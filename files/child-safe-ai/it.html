@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KidAlign AI</title>
+    <style>
+        :root {
+            --bg: #f5efe3;
+            --panel: rgba(255, 251, 245, 0.92);
+            --ink: #1f2a24;
+            --muted: #5f6d66;
+            --accent: #147a73;
+            --accent-2: #ef8b42;
+            --line: rgba(31, 42, 36, 0.12);
+            --shadow: 0 24px 60px rgba(54, 44, 27, 0.12);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            background: radial-gradient(circle at top left, rgba(20, 122, 115, 0.18), transparent 28%), radial-gradient(circle at bottom right, rgba(239, 139, 66, 0.18), transparent 26%), linear-gradient(135deg, #f8f2e7 0%, #efe5d1 100%);
+            font-family: "Avenir Next", "Segoe UI", sans-serif;
+            color: var(--ink);
+            padding: 28px;
+        }
+
+        .page {
+            width: min(1180px, 100%);
+            margin: 0 auto;
+            background: var(--panel);
+            border: 1px solid rgba(255, 255, 255, 0.7);
+            border-radius: 28px;
+            box-shadow: var(--shadow);
+            padding: 52px 56px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .page::before,
+        .page::after {
+            content: "";
+            position: absolute;
+            border-radius: 999px;
+        }
+
+        .page::before {
+            width: 320px;
+            height: 320px;
+            right: -110px;
+            top: -120px;
+            background: radial-gradient(circle, rgba(20, 122, 115, 0.16), transparent 68%);
+        }
+
+        .page::after {
+            width: 260px;
+            height: 260px;
+            left: -90px;
+            bottom: -90px;
+            background: radial-gradient(circle, rgba(239, 139, 66, 0.16), transparent 68%);
+        }
+
+        .eyebrow {
+            display: inline-block;
+            padding: 8px 14px;
+            border-radius: 999px;
+            background: rgba(20, 122, 115, 0.12);
+            color: var(--accent);
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            margin: 18px 0 12px;
+            font-size: 48px;
+            line-height: 1.06;
+            max-width: 900px;
+        }
+
+        .lead {
+            max-width: 900px;
+            font-size: 22px;
+            line-height: 1.5;
+            color: var(--muted);
+            margin-bottom: 34px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1.18fr 0.82fr;
+            gap: 24px;
+            align-items: start;
+        }
+
+        .card {
+            border: 1px solid var(--line);
+            border-radius: 24px;
+            background: rgba(255, 255, 255, 0.72);
+            padding: 24px;
+            backdrop-filter: blur(6px);
+        }
+
+        .card h2 {
+            margin: 0 0 16px;
+            font-size: 15px;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--accent);
+        }
+
+        .problem {
+            font-size: 30px;
+            line-height: 1.28;
+            margin: 0;
+        }
+
+        .stakeholders {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+            margin-top: 18px;
+        }
+
+        .pill {
+            border-radius: 18px;
+            padding: 16px 16px 14px;
+            background: linear-gradient(180deg, rgba(20, 122, 115, 0.1), rgba(20, 122, 115, 0.04));
+            border: 1px solid rgba(20, 122, 115, 0.12);
+        }
+
+        .pill strong {
+            display: block;
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+
+        .pill span {
+            color: var(--muted);
+            font-size: 14px;
+            line-height: 1.35;
+        }
+
+        ul {
+            margin: 0;
+            padding-left: 22px;
+        }
+
+        li {
+            margin: 0 0 14px;
+            font-size: 18px;
+            line-height: 1.4;
+        }
+
+        .impact {
+            margin-top: 18px;
+            padding-top: 18px;
+            border-top: 1px solid var(--line);
+            font-size: 18px;
+            line-height: 1.45;
+        }
+
+        .impact strong {
+            color: var(--accent-2);
+        }
+
+        .join-section {
+            margin-top: 32px;
+        }
+
+        .join-section h2 {
+            font-size: 15px;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin: 0 0 8px;
+        }
+
+        .join-section p {
+            font-size: 17px;
+            color: var(--muted);
+            margin: 0 0 20px;
+            line-height: 1.5;
+        }
+
+        .contact-form {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 14px;
+        }
+
+        .contact-form .full-width {
+            grid-column: 1 / -1;
+        }
+
+        .contact-form label {
+            display: block;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 6px;
+        }
+
+        .contact-form input,
+        .contact-form select,
+        .contact-form textarea {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.8);
+            font-family: inherit;
+            font-size: 16px;
+            color: var(--ink);
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .contact-form input:focus,
+        .contact-form select:focus,
+        .contact-form textarea:focus {
+            border-color: var(--accent);
+        }
+
+        .contact-form textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+
+        .contact-form button {
+            grid-column: 1 / -1;
+            padding: 14px 28px;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            border-radius: 12px;
+            font-family: inherit;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .contact-form button:hover {
+            background: #0f5e59;
+        }
+
+        .back {
+            margin-top: 26px;
+            display: inline-block;
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        @media (max-width: 980px) {
+            body {
+                padding: 16px;
+            }
+
+            .page {
+                padding: 34px 22px;
+            }
+
+            .grid,
+            .stakeholders {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 36px;
+            }
+
+            .problem {
+                font-size: 25px;
+            }
+
+            .contact-form {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-form .full-width,
+            .contact-form button {
+                grid-column: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <span class="eyebrow">Progetto Selezionato</span>
+
+        <h1>KidAlign AI</h1>
+        <p class="lead">Capire come i bambini usano l'IA e come dovrebbe essere un'IA più sicura per gli utenti più giovani.</p>
+
+        <div class="grid">
+            <div>
+                <div class="card">
+                    <h2>Panoramica del Progetto</h2>
+                    <p>Questo progetto utilizza sondaggi allineati rivolti a bambini, genitori ed educatori per comprendere l'uso reale dell'IA, identificare i principali rischi per la sicurezza e l'apprendimento, e tradurre queste informazioni in raccomandazioni pratiche per un'IA sicura per i minori.</p>
+                    <div class="stakeholders">
+                        <div class="pill">
+                            <strong>Bambini</strong>
+                            <span>Con quale frequenza usano l'IA, per cosa la usano, quanto si fidano di essa, e se condividono informazioni personali o cercano supporto emotivo.</span>
+                        </div>
+                        <div class="pill">
+                            <strong>Genitori</strong>
+                            <span>Consapevolezza dell'uso dell'IA da parte dei figli, preoccupazioni sulla privacy e il monitoraggio, e la necessità di controlli e orientamenti più forti.</span>
+                        </div>
+                        <div class="pill">
+                            <strong>Educatori</strong>
+                            <span>Uso osservato in classe, preoccupazioni sull'integrità accademica, impatto sull'apprendimento, necessità di alfabetizzazione all'IA e requisiti di policy.</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card" style="margin-top: 24px;">
+                    <h2>Focus della Ricerca</h2>
+                    <ul>
+                        <li>Misurare come i bambini usano l'IA in contesti di apprendimento, creatività, intrattenimento, ricerca di consigli ed emotivi.</li>
+                        <li>Confrontare le esperienze dei bambini con le percezioni degli adulti per evidenziare lacune nella consapevolezza e nella supervisione.</li>
+                        <li>Valutare i rischi tra cui disinformazione, contenuti inappropriati, consigli rischiosi, esposizione della privacy, dipendenza e uso improprio.</li>
+                        <li>Identificare il supporto mancante nella progettazione dei prodotti, nella guida familiare e nella politica scolastica.</li>
+                    </ul>
+                    <div class="impact">
+                        <strong>Risultato:</strong> Raccomandazioni basate su evidenze per sistemi di IA più sicuri, una migliore alfabetizzazione all'IA e salvaguardie adeguate all'età per gli utenti più giovani.
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="card">
+                    <div class="join-section">
+                        <h2>Partecipa alla Ricerca</h2>
+                        <p>Sei un genitore o un educatore interessato a partecipare? Compila il modulo qui sotto e ti contatteremo.</p>
+
+                        <form id="contactForm" class="contact-form">
+                            <div class="full-width">
+                                <label for="cf-name">Nome</label>
+                                <input type="text" id="cf-name" name="name" required>
+                            </div>
+
+                            <div>
+                                <label for="cf-role">Ruolo</label>
+                                <select id="cf-role" name="role" required>
+                                    <option value="">Seleziona il tuo ruolo</option>
+                                    <option value="Parent">Genitore</option>
+                                    <option value="Educator">Educatore</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label for="cf-email">La tua email</label>
+                                <input type="email" id="cf-email" name="email" required>
+                            </div>
+
+                            <div class="full-width">
+                                <label for="cf-school">Scuola / Organizzazione (facoltativo)</label>
+                                <input type="text" id="cf-school" name="school">
+                            </div>
+
+                            <div class="full-width">
+                                <label for="cf-message">Qualcosa che vorresti aggiungere (facoltativo)</label>
+                                <textarea id="cf-message" name="message"></textarea>
+                            </div>
+
+                            <button type="submit" id="submitBtn">Invia</button>
+                            <div id="formStatus" style="display: none; text-align: center; margin-top: 12px; font-size: 14px;"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <a href="https://donya-rooein.github.io" class="back">Torna alla homepage</a>
+    </div>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            var btn = document.getElementById('submitBtn');
+            var status = document.getElementById('formStatus');
+            btn.disabled = true;
+            btn.textContent = 'Invio in corso…';
+            status.style.display = 'none';
+
+            var data = {
+                name: document.getElementById('cf-name').value.trim(),
+                role: document.getElementById('cf-role').value,
+                email: document.getElementById('cf-email').value.trim(),
+                school: document.getElementById('cf-school').value.trim(),
+                message: document.getElementById('cf-message').value.trim()
+            };
+
+            try {
+                var res = await fetch('https://formspree.io/f/mdaplada', {
+                    method: 'POST',
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                if (res.ok) {
+                    status.style.color = '#147a73';
+                    status.textContent = 'Grazie! Ti contatteremo a breve.';
+                    e.target.reset();
+                    btn.textContent = 'Inviato';
+                } else {
+                    throw new Error('Server error');
+                }
+            } catch (_) {
+                status.style.color = '#c0392b';
+                status.textContent = 'Qualcosa è andato storto. Riprova o scrivici direttamente a donya.rooein@unibocconi.it';
+                btn.disabled = false;
+                btn.textContent = 'Invia';
+            }
+
+            status.style.display = 'block';
+        });
+    </script>
+</body>
+</html>
