@@ -47,17 +47,99 @@ layout: homepage
     <li><strong>January 2026:</strong> <em><a href="https://arxiv.org/pdf/2506.19467">Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</a></em> at <strong>EACL 2026</strong>.</li>
     <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.babylm-main.25.pdf">Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</a></em> at <strong>BabyLM, EMNLP 2025</strong>.</li>
     <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-main.3.pdf">Biased Tales: Cultural and Topic Bias in Generating Children's Stories</a></em> at <strong>EMNLP 2025</strong>.</li>
-    <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-demos.25/">Co-detect: Collaborative Discovery of Edge Cases in Text Classification</a></em> at <strong>EMNLP 2025</strong>.</li>
-    <li><strong>September 2025:</strong> <em><a href="https://arxiv.org/pdf/2509.05719">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> on <strong>arXiv</strong>.</li>
-    <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">Measuring Gender Bias in Language Models in Farsi</a></em> at <strong>GeBNLP, ACL 2025</strong>.</li>
-    <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.28.pdf">Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-    <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.29.pdf">Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-    <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.44.pdf">Are Large Language Models for Education Reliable for All Languages?</a></em> at <strong>BEA, ACL 2025</strong>.</li>
-    <li><strong>April 2025:</strong> <em><a href="https://arxiv.org/abs/2406.09123">Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification</a></em> at <strong>NAACL 2025</strong>.</li>
-    <li><strong>April 2025:</strong> Invited talk at Universita della Svizzera italiana (USI) on <a href="https://www.usi.ch/en/feeds/31424">Child-Centred AI in Education</a>.</li>
-    <li><strong>November 2024 to February 2025:</strong> Visiting researcher at <a href="https://lre.inf.ethz.ch/">ETH Zurich, Language, Reasoning and Education Lab</a>.</li>
   </ul>
+  <div class="news-more-wrap" id="newsMoreWrap">
+    <ul class="news-list news-hidden-list" id="newsHiddenList">
+      <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-demos.25/">Co-detect: Collaborative Discovery of Edge Cases in Text Classification</a></em> at <strong>EMNLP 2025</strong>.</li>
+      <li><strong>September 2025:</strong> <em><a href="https://arxiv.org/pdf/2509.05719">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> on <strong>arXiv</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">Measuring Gender Bias in Language Models in Farsi</a></em> at <strong>GeBNLP, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.28.pdf">Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.29.pdf">Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.44.pdf">Are Large Language Models for Education Reliable for All Languages?</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>April 2025:</strong> <em><a href="https://arxiv.org/abs/2406.09123">Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification</a></em> at <strong>NAACL 2025</strong>.</li>
+      <li><strong>April 2025:</strong> Invited talk at Universita della Svizzera italiana (USI) on <a href="https://www.usi.ch/en/feeds/31424">Child-Centred AI in Education</a>.</li>
+      <li><strong>November 2024 to February 2025:</strong> Visiting researcher at <a href="https://lre.inf.ethz.ch/">ETH Zurich, Language, Reasoning and Education Lab</a>.</li>
+    </ul>
+  </div>
+  <div class="news-toggle-wrap">
+    <button class="news-toggle-btn" id="newsToggleBtn" onclick="toggleNews()">
+      <span id="newsToggleText">See more</span>
+      <svg id="newsToggleIcon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+  </div>
 </div>
+
+<style>
+.news-more-wrap {
+  position: relative;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.45s ease;
+}
+.news-more-wrap.expanded {
+  max-height: 1000px;
+}
+.news-fade {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 48px;
+  background: linear-gradient(to bottom, transparent, #fff);
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+.news-fade.hidden { opacity: 0; }
+.news-hidden-list {
+  margin-top: 0;
+  padding-top: 0;
+}
+.news-toggle-wrap {
+  text-align: center;
+  margin-top: 6px;
+}
+.news-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: 1px solid #d0d0d0;
+  border-radius: 20px;
+  padding: 5px 16px;
+  font-size: 13px;
+  color: #555;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.news-toggle-btn:hover {
+  background: #f5f5f5;
+  border-color: #aaa;
+  color: #333;
+}
+#newsToggleIcon {
+  transition: transform 0.35s ease;
+}
+#newsToggleIcon.rotated {
+  transform: rotate(180deg);
+}
+</style>
+
+<script>
+function toggleNews() {
+  var wrap = document.getElementById('newsMoreWrap');
+  var btn = document.getElementById('newsToggleBtn');
+  var text = document.getElementById('newsToggleText');
+  var icon = document.getElementById('newsToggleIcon');
+  var expanded = wrap.classList.contains('expanded');
+  if (expanded) {
+    wrap.classList.remove('expanded');
+    text.textContent = 'See more';
+    icon.classList.remove('rotated');
+  } else {
+    wrap.classList.add('expanded');
+    text.textContent = 'See less';
+    icon.classList.add('rotated');
+  }
+}
+</script>
 
 ## Selected Projects
 
