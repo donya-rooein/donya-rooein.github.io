@@ -203,13 +203,41 @@ function toggleNews() {
     <li><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction.</strong> BabyLM, EMNLP 2025. <a href="https://aclanthology.org/2025.babylm-main.25.pdf">link</a></li>
     <li><strong>Biased Tales: Cultural and Topic Bias in Generating Children's Stories.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-main.3.pdf">link</a></li>
     <li><strong>Co-detect: Collaborative Discovery of Edge Cases in Text Classification.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-demos.25/">link</a></li>
-    <li><strong>Measuring Gender Bias in Language Models in Farsi.</strong> GeBNLP, ACL 2025. <a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">link</a></li>
-    <li><strong>Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.28.pdf">link</a></li>
-    <li><strong>Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.29.pdf">link</a></li>
-    <li><strong>Are Large Language Models for Education Reliable for All Languages?</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.44.pdf">link</a></li>
-    <li><strong>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification.</strong> NAACL 2025. <a href="https://arxiv.org/abs/2406.09123">link</a></li>
   </ol>
+  <div class="news-more-wrap" id="pubMoreWrap">
+    <ol class="publication-list pub-hidden-list" id="pubHiddenList" start="7">
+      <li><strong>Measuring Gender Bias in Language Models in Farsi.</strong> GeBNLP, ACL 2025. <a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">link</a></li>
+      <li><strong>Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.28.pdf">link</a></li>
+      <li><strong>Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.29.pdf">link</a></li>
+      <li><strong>Are Large Language Models for Education Reliable for All Languages?</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.44.pdf">link</a></li>
+      <li><strong>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification.</strong> NAACL 2025. <a href="https://arxiv.org/abs/2406.09123">link</a></li>
+    </ol>
+  </div>
+  <div class="news-toggle-wrap">
+    <button class="news-toggle-btn" id="pubToggleBtn" onclick="togglePub()">
+      <span id="pubToggleText">See more</span>
+      <svg id="pubToggleIcon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+  </div>
 </div>
+
+<script>
+function togglePub() {
+  var wrap = document.getElementById('pubMoreWrap');
+  var text = document.getElementById('pubToggleText');
+  var icon = document.getElementById('pubToggleIcon');
+  var expanded = wrap.classList.contains('expanded');
+  if (expanded) {
+    wrap.classList.remove('expanded');
+    text.textContent = 'See more';
+    icon.classList.remove('rotated');
+  } else {
+    wrap.classList.add('expanded');
+    text.textContent = 'See less';
+    icon.classList.add('rotated');
+  }
+}
+</script>
 
 ## Datasets
 
