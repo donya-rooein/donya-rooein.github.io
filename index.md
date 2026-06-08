@@ -4,98 +4,276 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Bocconi University](https://www.unibocconi.it/). I am fortunate to work with [Prof. Dirk Hovy](https://milanlproc.github.io/authors/1_dirk_hovy/) at Milan Natural Language Processing Group ([MilaNLP Lab](https://milanlproc.github.io/#about)). I joined MilaNLP LAB for [INTERGRATOR](https://milanlproc.github.io/project/integrator/) project to study demographic factors to language processing systems and their role of them in the future of Conversational AI. 
-<p>
-    <b>I'm on the academic and industry job market 2025-26.</b> If you think I’d be a good fit to your team, I’d love to hear from you!
-</p>
-<p>
-My research focuses on the intersection of Natural Language Processing (NLP) and Human-Computer Interaction (HCI), with a special emphasis on educational applications. I am particularly interested in evaluating Large Language Models (LLMs) in educational settings, with a focus on young users. My work includes developing metrics for text difficulty, creating benchmarks for complexity prediction, and examining cultural relevance and biases in AI-generated content for children.
+<div class="section-card about-card">
+  <div class="highlight-banner">Open to academic and industry opportunities for 2026</div>
 
-I am also interested in NLP for social good, and I work on studies related to biases and social norms in the Farsi language.
-</p>
+  <div class="about-grid">
+    <div>
+      <p class="hero-intro">I study how language technologies can be made more useful, fair, and human-centred, with a particular focus on education and young users.</p>
+      <p>I am currently a postdoctoral fellow in the Department of Computer Science at <a href="https://www.unibocconi.it/">Bocconi University</a>. I work with <a href="https://milanlproc.github.io/authors/1_dirk_hovy/">Prof. Dirk Hovy</a> at the Milan Natural Language Processing Group (<a href="https://milanlproc.github.io/#about">MilaNLP Lab</a>), where I contribute to <a href="https://milanlproc.github.io/project/integrator/">INTERGRATOR</a>, a project studying demographic factors in language technologies and their implications for the future of conversational AI.</p>
+      <p>My research sits at the intersection of Natural Language Processing and Human-Computer Interaction, with a strong emphasis on educational applications. I am particularly interested in evaluating large language models in educational settings, especially for young users, and in understanding how culture, difficulty, fairness, and human factors shape AI systems in practice.</p>
+      <p>I am also interested in NLP for social good, including biases and social norms for low-resource languages such as Farsi.</p>
+    </div>
 
+    <aside class="about-side">
+      <div class="fact-card">
+        <span class="fact-label">Current Role</span>
+        <strong>Postdoctoral Fellow</strong>
+        <span>Bocconi University</span>
+      </div>
+      <div class="fact-card">
+        <span class="fact-label">Focus Areas</span>
+        <span>Educational AI, LLM evaluation, child-centred AI, bias and social norms</span>
+      </div>
+      <div class="fact-card">
+        <span class="fact-label">Background</span>
+        <span>Ph.D. in Information Technology Engineering, Politecnico di Milano</span>
+      </div>
+    </aside>
+  </div>
 
- I received my Ph.D. in Information Technology Engineering at [Politecnico di Milano](https://www.polimi.it/), where I was fortunate to be advised by [Prof. Barbara Pernici](https://pernici.faculty.polimi.it/) and [Prof. Paolo Paolini](https://www.deib.polimi.it/eng/people/details/60294). I was also a research visitor at [ETH Zurich](https://ethz.ch/en.html) at my last year of PhD. 
- 
-  My Ph.D. thesis was “A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education”. During My Ph.D., I focused on adaptive conversational agents; in particular, I designed and developed highly configurable chatbots in education to support various actors with different demographics.
+  <p>I received my Ph.D. in Information Technology Engineering from <a href="https://www.polimi.it/">Politecnico di Milano</a>, where I was advised by <a href="https://pernici.faculty.polimi.it/">Prof. Barbara Pernici</a> and <a href="https://www.deib.polimi.it/eng/people/details/60294">Prof. Paolo Paolini</a>. I was also a research visitor at <a href="https://ethz.ch/en.html">ETH Zurich</a> during the final year of my Ph.D.</p>
+
+  <p>My Ph.D. thesis was "A Scalable, Reconfigurable, and Adaptive Framework for Chatbots in Education." During my doctoral work, I focused on adaptive conversational agents and designed configurable educational chatbots that support diverse users with different demographic backgrounds and learning needs.</p>
+</div>
 
 ## Recent News
 
-- **April 2025**: Presenting paper *[Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification](https://arxiv.org/abs/2406.09123)* at **NAACL 2025**.
+<div class="section-card news-card">
+  <ul class="news-list">
+    <li><strong>March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
+    <li><strong>February 2026:</strong> <em><a href="https://aclanthology.org/2026.wassa-1.8.pdf">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> at <strong>WASSA, EACL 2026</strong>.</li>
+    <li><strong>January 2026:</strong> <em><a href="https://aclanthology.org/2026.findings-eacl.219.pdf">PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors</a></em> at <strong>EACL 2026</strong>.</li>
+    <li><strong>January 2026:</strong> <em><a href="https://arxiv.org/pdf/2506.19467">Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</a></em> at <strong>EACL 2026</strong>.</li>
+    <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.babylm-main.25.pdf">Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</a></em> at <strong>BabyLM, EMNLP 2025</strong>.</li>
+    <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-main.3.pdf">Biased Tales: Cultural and Topic Bias in Generating Children's Stories</a></em> at <strong>EMNLP 2025</strong>.</li>
+  </ul>
+  <div class="news-more-wrap" id="newsMoreWrap">
+    <ul class="news-list news-hidden-list" id="newsHiddenList">
+      <li><strong>November 2025:</strong> <em><a href="https://aclanthology.org/2025.emnlp-demos.25/">Co-detect: Collaborative Discovery of Edge Cases in Text Classification</a></em> at <strong>EMNLP 2025</strong>.</li>
+      <li><strong>September 2025:</strong> <em><a href="https://arxiv.org/pdf/2509.05719">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> on <strong>arXiv</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">Measuring Gender Bias in Language Models in Farsi</a></em> at <strong>GeBNLP, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.28.pdf">Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.29.pdf">Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>July 2025:</strong> <em><a href="https://aclanthology.org/2025.bea-1.44.pdf">Are Large Language Models for Education Reliable for All Languages?</a></em> at <strong>BEA, ACL 2025</strong>.</li>
+      <li><strong>April 2025:</strong> <em><a href="https://arxiv.org/abs/2406.09123">Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification</a></em> at <strong>NAACL 2025</strong>.</li>
+      <li><strong>April 2025:</strong> Invited talk at Universita della Svizzera italiana (USI) on <a href="https://www.usi.ch/en/feeds/31424">Child-Centred AI in Education</a>.</li>
+      <li><strong>November 2024 to February 2025:</strong> Visiting researcher at <a href="https://lre.inf.ethz.ch/">ETH Zurich, Language, Reasoning and Education Lab</a>.</li>
+    </ul>
+  </div>
+  <div class="news-toggle-wrap">
+    <button class="news-toggle-btn" id="newsToggleBtn" onclick="toggleNews()">
+      <span id="newsToggleText">See more</span>
+      <svg id="newsToggleIcon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+  </div>
+</div>
 
-- **April 2025**: Invited talk at Università della Svizzera italiana (USI) on [Child-Centred AI in Education](https://www.usi.ch/en/feeds/31424).
-- **November 2024 – February 2025**: Visiting researcher at [ETH Zurich, Language, Reasoning and Education (LRE) Lab](https://lre.inf.ethz.ch/).
+<style>
+.news-more-wrap {
+  position: relative;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.45s ease;
+}
+.news-more-wrap.expanded {
+  max-height: 1000px;
+}
+.news-fade {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 48px;
+  background: linear-gradient(to bottom, transparent, #fff);
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+.news-fade.hidden { opacity: 0; }
+.news-hidden-list {
+  margin-top: 0;
+  padding-top: 0;
+}
+.news-toggle-wrap {
+  text-align: center;
+  margin-top: 6px;
+}
+.news-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: 1px solid #d0d0d0;
+  border-radius: 20px;
+  padding: 5px 16px;
+  font-size: 13px;
+  color: #555;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.news-toggle-btn:hover {
+  background: #f5f5f5;
+  border-color: #aaa;
+  color: #333;
+}
+#newsToggleIcon {
+  transition: transform 0.35s ease;
+}
+#newsToggleIcon.rotated {
+  transform: rotate(180deg);
+}
+</style>
 
+<script>
+function toggleNews() {
+  var wrap = document.getElementById('newsMoreWrap');
+  var btn = document.getElementById('newsToggleBtn');
+  var text = document.getElementById('newsToggleText');
+  var icon = document.getElementById('newsToggleIcon');
+  var expanded = wrap.classList.contains('expanded');
+  if (expanded) {
+    wrap.classList.remove('expanded');
+    text.textContent = 'See more';
+    icon.classList.remove('rotated');
+  } else {
+    wrap.classList.add('expanded');
+    text.textContent = 'See less';
+    icon.classList.add('rotated');
+  }
+}
+</script>
 
 ## Selected Projects
 
-### 🧒 Child-Safe AI
-Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.  
-🔗 [Project Overview](files/child-safe-ai/index.html)  
-<br clear="left"/>
+<div class="section-card">
+  <div class="project-grid">
+    <article class="project-card">
+      <img src="files/project-child-AI.png" alt="KidAlign AI project illustration">
+      <div>
+        <h3>KidAlign AI</h3>
+        <p>Survey-based research on how children use AI across learning, creativity, social interaction, and emotional support, bringing together the perspectives of children, parents, and educators to identify safety gaps and design needs.</p>
+        <a class="project-link" href="files/child-safe-ai/index.html">View Project</a>
+      </div>
+    </article>
 
----
+    <article class="project-card">
+      <img src="files/PATS-icon.png" alt="PATS project illustration">
+      <div>
+        <h3>PATS</h3>
+        <p>Personality-Aware Teaching Strategies with Large Language Model Tutors, grounded in learning science and LLM-based evaluation of tutoring strategies.</p>
+        <a class="project-link" href="https://donya-rooein.github.io/PATS/">View Project</a>
+      </div>
+    </article>
 
-### 📚 Biased Tales
-<!-- <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/> -->
-A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.  
-🔗 [View Demo](files/biased-tales-demo/index.html)  
-<br clear="left"/>
+    <article class="project-card">
+      <img src="files/project-bias.jpg" alt="Biased Tales project image">
+      <div>
+        <h3>Biased Tales</h3>
+        <p>A dataset for analyzing how biases influence protagonists' attributes and story elements in LLM-generated stories for children.</p>
+        <a class="project-link" href="files/biased-tales-demo/index.html">View Project</a>
+      </div>
+    </article>
 
----
+    <article class="project-card">
+      <img src="files/project-BT.jpg" alt="LegalBot project image">
+      <div>
+        <h3>LegalBot</h3>
+        <p>A collaboration between Politecnico di Milano and Tribunale di Milano aimed at improving access to legal information through a conversational interface.</p>
+        <a class="project-link" href="https://legalbot.i3lab.group/">View Project</a>
+      </div>
+    </article>
 
-### ⚖️ LegalBot
-<!-- <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/> -->
-A collaborative project between Politecnico di Milano and Tribunale di Milano aimed at improving access to legal information. LegalBot uses a chatbot interface to assist users in understanding common legal concepts.  
-🔗 [View Demo](https://legalbot.i3lab.group/)  
-<br clear="left"/>
-
----
-
-### 🧑‍🏫 TalkyTutor
-<!-- <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/> -->
-A chatbot designed to support educators and students through adaptive, chatbot-mediated learning. Built using the aCHAT framework, TalkyTutor empowers non-technical users (e.g., teachers) to customize both content and conversation flow.  
-<br clear="left"/>
-
-
-<!-- ## Selected Projects
-
-<div style="margin-bottom: 20px;">
-  <img align="left" width="100" src="files/project-bias.png" style="margin-right: 15px;"/>
-  <strong>Biased Tales</strong><br/>
-  <span>A dataset designed to analyze how biases influence protagonists' attributes and story elements in LLM-generated stories.</span><br/>
-  <a href="files/biased-tales-demo/index.html" target="_blank">🚀 View Demo</a>
-  <br clear="left"/>
+    <article class="project-card">
+      <img src="files/project-TT.png" alt="TalkyTutor project image">
+      <div>
+        <h3>TalkyTutor</h3>
+        <p>An adaptive educational chatbot built with the aCHAT framework so teachers and other non-technical users can customize content and conversational learning flows.</p>
+      </div>
+    </article>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <img align="left" width="90" height="100" src="files/project-BT.jpg" style="margin-right: 15px;"/>
-  <strong>LegalBot</strong><br/>
-  <span>LegalBot is an innovative project born out of a collaborative effort between Politecnico di Milano and Tribunale di Milano. Its mission is to enhance accessibility to vital legal information for the end-users. By leveraging the capabilities of a sophisticated chatbot, it provides a seamless and user-friendly UI for individuals seeking common legal information.</span>
-  <a href="https://legalbot.i3lab.group/" target="_blank">🚀 View Demo</a>
-  <br clear="left"/>
+## Publications
+
+<div class="section-card publication-card">
+  <p>Please find all publications on my <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en">Google Scholar</a>.</p>
+
+  <ol class="publication-list">
+    <li><strong>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models.</strong> WASSA, EACL 2026. <a href="https://aclanthology.org/2026.wassa-1.8.pdf">link</a></li>
+    <li><strong>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors.</strong> EACL 2026. <a href="https://aclanthology.org/2026.findings-eacl.219.pdf">link</a></li>
+    <li><strong>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</strong> EACL 2026. <a href="https://arxiv.org/pdf/2506.19467">link</a></li>
+    <li><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction.</strong> BabyLM, EMNLP 2025. <a href="https://aclanthology.org/2025.babylm-main.25.pdf">link</a></li>
+    <li><strong>Biased Tales: Cultural and Topic Bias in Generating Children's Stories.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-main.3.pdf">link</a></li>
+    <li><strong>Co-detect: Collaborative Discovery of Edge Cases in Text Classification.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-demos.25/">link</a></li>
+  </ol>
+  <div class="news-more-wrap" id="pubMoreWrap">
+    <ol class="publication-list pub-hidden-list" id="pubHiddenList" start="7">
+      <li><strong>Measuring Gender Bias in Language Models in Farsi.</strong> GeBNLP, ACL 2025. <a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">link</a></li>
+      <li><strong>Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.28.pdf">link</a></li>
+      <li><strong>Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.29.pdf">link</a></li>
+      <li><strong>Are Large Language Models for Education Reliable for All Languages?</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.44.pdf">link</a></li>
+      <li><strong>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification.</strong> NAACL 2025. <a href="https://arxiv.org/abs/2406.09123">link</a></li>
+    </ol>
+  </div>
+  <div class="news-toggle-wrap">
+    <button class="news-toggle-btn" id="pubToggleBtn" onclick="togglePub()">
+      <span id="pubToggleText">See more</span>
+      <svg id="pubToggleIcon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <img align="left" width="100" height="100" src="files/project-TT.png" style="margin-right: 15px;"/>
-  <strong>TalkyTutor</strong><br/>
-  <span>A chatbot for supporting different educational actors using chatbot-mediated learning. It uses aCHAT framework that allows non-technical actors (e.g., teachers) to customize the learning experience, including content and conversational aspects. TalkyTutor chatbot uses the configuration to reduce time and effort in delivering a chatbot for adaptive learning experiences. </span>
-  <br clear="left"/>
-</div> -->
+<script>
+function togglePub() {
+  var wrap = document.getElementById('pubMoreWrap');
+  var text = document.getElementById('pubToggleText');
+  var icon = document.getElementById('pubToggleIcon');
+  var expanded = wrap.classList.contains('expanded');
+  if (expanded) {
+    wrap.classList.remove('expanded');
+    text.textContent = 'See more';
+    icon.classList.remove('rotated');
+  } else {
+    wrap.classList.add('expanded');
+    text.textContent = 'See less';
+    icon.classList.add('rotated');
+  }
+}
+</script>
+
+## Datasets
+
+<div class="section-card">
+  <ul class="dataset-list">
+    <li>
+      <strong>PATS</strong> — Personality-aware teaching dialogues at three difficulty levels (stories &amp; images).
+      <a href="https://huggingface.co/datasets/Donya/pats-tasks" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+    <li>
+      <strong>Biased Tales</strong> — Cultural and topic bias in LLM-generated children's stories.
+      <a href="https://huggingface.co/datasets/Donya/biased_tales" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+       <li>
+      <strong>Farsi Subjective Tasks</strong> — Survey of 110 papers on sentiment, emotion, and toxicity detection in Farsi.
+      <a href="https://huggingface.co/datasets/Donya/subjective-tasks-farsi" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+        <li>
+      <strong>GBFA</strong> — Farsi translations of ISEAR, BBQ, and HONEST for gender bias evaluation in Farsi LMs.
+      <a href="https://huggingface.co/datasets/Donya/GBFA" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
+    <li>
+      <strong>ISN</strong> — Iranian Social Norms: 1,699 bilingual (Farsi/English) samples labelled with social norms.
+      <a href="https://huggingface.co/datasets/Donya/ISN" class="hf-link">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" class="hf-logo"> Dataset
+      </a>
+    </li>
 
 
-
-## Selected Publications
-Please find all publications on my [Google Scholar](https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en).
-- Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models’ Capabilities on Iranian Social Norm Classification. (NAACL 2025). [link](https://arxiv.org/abs/2406.09123) 
-
-- Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts. (NAACL 2024). [link](https://aclanthology.org/2024.bea-1.5) 
-
-- Conversations as a Source for Teaching Scientific Concepts at Different Education Levels. (arXiv preprint 2024). [link](https://arxiv.org/pdf/2404.10475)
-
-- aCHAT-WF: Generating conversational agents for teaching business process models. (Journal of Software System Model 2021). [link](https://doi.org/10.1007/s10270-021-00925-7)
-
-- Chatting About Processes in Digital Factories: A Model-Based Approach. (BPMDS 2020). [link](https://link.springer.com/chapter/10.1007/978-3-030-49418-6_5)
-
-- Data-Driven Edu Chatbots. (The 2019 World Wide Web Conference). [Link](https://doi.org/10.1145/3308560.3314191).
-
+  </ul>
+</div>
