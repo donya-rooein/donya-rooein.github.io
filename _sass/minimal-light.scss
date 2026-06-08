@@ -7,7 +7,7 @@
   --surface-strong: #fffdf9;
   --surface-line: rgba(36, 49, 60, 0.1);
   --ink: #273139;
-  --muted: #60706a;
+  --muted: #3d4f48;
   --heading: #183b4c;
   --accent: #147a73;
   --accent-soft: rgba(20, 122, 115, 0.1);
@@ -158,7 +158,7 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #20212b;
+    background: #20212b;
     color: #dadbdf;
   }
 
