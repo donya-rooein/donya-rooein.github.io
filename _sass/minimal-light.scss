@@ -760,6 +760,30 @@ footer {
   height: 18px;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --muted: #9eb0a9;
+    --surface: rgba(38, 50, 56, 0.96);
+    --surface-line: rgba(255, 255, 255, 0.08);
+  }
+
+  .fact-card,
+  .project-card {
+    background: rgba(45, 60, 68, 0.9);
+    border-color: rgba(255, 255, 255, 0.07);
+  }
+
+  header {
+    background: rgba(38, 50, 58, 0.92);
+    border-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .sidebar-note {
+    background: rgba(45, 60, 68, 0.7);
+    border-color: rgba(255, 255, 255, 0.07);
+  }
+}
+
 @media print, screen and (max-width: 1100px) {
   .wrapper {
     width: auto;
