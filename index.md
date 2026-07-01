@@ -23,11 +23,7 @@ layout: homepage
       </div>
       <div class="fact-card">
         <span class="fact-label">Focus Areas</span>
-        <span>Educational AI, LLM evaluation, child-centred AI, bias and social norms</span>
-      </div>
-      <div class="fact-card">
-        <span class="fact-label">Background</span>
-        <span>Ph.D. in Information Technology Engineering, Politecnico di Milano</span>
+        <span>Educational AI, LLM evaluation, child-centered AI, bias and social norms</span>
       </div>
     </aside>
   </div>
