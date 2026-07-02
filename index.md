@@ -33,6 +33,7 @@ layout: homepage
 
 <div class="section-card news-card">
   <ul class="news-list">
+    <li><strong>July 2026: We present <em><a href="https://aclanthology.org/anthology-files/pdf/bea/2026.bea-1.50.pdf">Incentives Of EdTech: A Systematic Review Of EduNLP Research</a></em> at BEA workshop at ACL 2026.</li>
     <li><strong>June 2026:</strong> Invited talk at <strong>Cambridge University</strong> for <em><a href="https://talks.cam.ac.uk/talk/index/247449/">NLP Seminars</a></em>.</li>
     <li><strong>March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
     <li><strong>February 2026:</strong> <em><a href="https://aclanthology.org/2026.wassa-1.8.pdf">Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models</a></em> at <strong>WASSA, EACL 2026</strong>.</li>
