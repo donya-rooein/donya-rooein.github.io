@@ -191,6 +191,9 @@ function toggleNews() {
   <p>Please find all publications on my <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en">Google Scholar</a>.</p>
 
   <ol class="publication-list">
+    <li><strong>Incentives of EdTech: A Systematic Review of EduNLP Research.</strong> BEA, ACL 2026. <a href="https://aclanthology.org/anthology-files/pdf/bea/2026.bea-1.50.pdf">link</a></li>
+    <li><strong>GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns.</strong> arXiv preprint 2026. <a href="https://arxiv.org/pdf/2606.12419">link</a></li>
+    <li><strong>Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation.</strong> arXiv preprint 2026. <a href="https://arxiv.org/pdf/2603.15547">link</a></li>
     <li><strong>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models.</strong> WASSA, EACL 2026. <a href="https://aclanthology.org/2026.wassa-1.8.pdf">link</a></li>
     <li><strong>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors.</strong> EACL 2026. <a href="https://aclanthology.org/2026.findings-eacl.219.pdf">link</a></li>
     <li><strong>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</strong> EACL 2026. <a href="https://arxiv.org/pdf/2506.19467">link</a></li>
