@@ -18,7 +18,7 @@ layout: homepage
       <div class="fact-card">
         <span class="fact-label">Current Role</span>
         <strong>Postdoctoral Fellow</strong>
-        <span>Bocconi University</span>
+        <span>ETH Zurich</span>
       </div>
       <div class="fact-card">
         <span class="fact-label">Focus Areas</span>
@@ -34,6 +34,15 @@ layout: homepage
 
 <div class="section-card news-card">
   <ul class="news-list">
+    <li><strong>Oct 2026:</strong> We present three papers at <strong>EMNLP 2026</strong> in Budapest:
+  <ul>
+    <li><a href="https://arxiv.org/abs/2609.16993">The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</a></li>
+    <li><a href="https://arxiv.org/abs/2603.15547">Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation</a></li>
+    <li>SEAL: SocioEconomic Alignment in LLMs (NLP4PI Workshop)</li>
+  </ul>
+</li>
+    <li><strong>[October 2026]:</strong> I joined <a href="https://lre.inf.ethz.ch/">ETH Zurich</a> as a Postdoctoral Researcher.</li>
+    <li><strong>Sep 2026:</strong> Our paper <a href="https://arxiv.org/abs/2606.12419">GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns</a> was accepted at <strong>NeurIPS 2026</strong>.</li>
     <li><strong>July 2026:</strong> We present <em><a href="https://aclanthology.org/anthology-files/pdf/bea/2026.bea-1.50.pdf">Incentives Of EdTech: A Systematic Review Of EduNLP Research</a></em> at the BEA Workshop at ACL 2026 in San Diego.</li>
     <li><strong>June 2026:</strong> Invited talk at <strong>Cambridge University</strong> for <em><a href="https://talks.cam.ac.uk/talk/index/247449/">NLP Seminars</a></em>.</li>
     <li><strong>March 2026:</strong> Attending <strong>EACL 2026</strong> in Rabat and presenting three papers.</li>
