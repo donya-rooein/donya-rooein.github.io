@@ -27,7 +27,7 @@ layout: homepage
     </aside>
   </div>
 
-  <p>I received my Ph.D. in Information Technology Engineering from <a href="https://www.polimi.it/">Politecnico di Milano</a>, where I was advised by <a href="https://pernici.faculty.polimi.it/">Prof. Barbara Pernici</a> and <a href="https://www.deib.polimi.it/eng/people/details/60294">Prof. Paolo Paolini</a>. I was also a research visitor at <a href="https://ethz.ch/en.html">ETH Zurich</a> during the final year of my Ph.D.</p>
+  <p>I received my Ph.D. in Information Technology Engineering from <a href="https://www.polimi.it/">Politecnico di Milano</a>, and I worked with <a href="https://milanlproc.github.io/authors/1_dirk_hovy/">Prof. Dirk Hovy</a> at the MilaNLP Group (<a href="https://milanlproc.github.io/#about">MilaNLP Lab</a>), where I contribute to <a href="https://milanlproc.github.io/project/integrator/">INTERGRATOR</a>, a project studying demographic factors in language technologies and their implications for the future of conversational AI.y</p>
 </div>
 
 ## Recent News
