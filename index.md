@@ -199,26 +199,6 @@ function toggleNews() {
 
 <div class="section-card publication-card">
   <p>Please find all publications on my <a href="https://scholar.google.com/citations?user=1iRLeoMAAAAJ&hl=en">Google Scholar</a>.</p>
-
-  <ol class="publication-list">
-    <li><strong>Incentives of EdTech: A Systematic Review of EduNLP Research.</strong> BEA, ACL 2026. <a href="https://aclanthology.org/anthology-files/pdf/bea/2026.bea-1.50.pdf">link</a></li>
-    <li><strong>GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns.</strong> arXiv preprint 2026. <a href="https://arxiv.org/pdf/2606.12419">link</a></li>
-    <li><strong>Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation.</strong> arXiv preprint 2026. <a href="https://arxiv.org/pdf/2603.15547">link</a></li>
-    <li><strong>Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Models.</strong> WASSA, EACL 2026. <a href="https://aclanthology.org/2026.wassa-1.8.pdf">link</a></li>
-    <li><strong>PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors.</strong> EACL 2026. <a href="https://aclanthology.org/2026.findings-eacl.219.pdf">link</a></li>
-    <li><strong>Can Reasoning Help Large Language Models Capture Human Annotator Disagreement?</strong> EACL 2026. <a href="https://arxiv.org/pdf/2506.19467">link</a></li>
-    <li><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction.</strong> BabyLM, EMNLP 2025. <a href="https://aclanthology.org/2025.babylm-main.25.pdf">link</a></li>
-    <li><strong>Biased Tales: Cultural and Topic Bias in Generating Children's Stories.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-main.3.pdf">link</a></li>
-    <li><strong>Co-detect: Collaborative Discovery of Edge Cases in Text Classification.</strong> EMNLP 2025. <a href="https://aclanthology.org/2025.emnlp-demos.25/">link</a></li>
-  </ol>
-  <div class="news-more-wrap" id="pubMoreWrap">
-    <ol class="publication-list pub-hidden-list" id="pubHiddenList" start="7">
-      <li><strong>Measuring Gender Bias in Language Models in Farsi.</strong> GeBNLP, ACL 2025. <a href="https://aclanthology.org/2025.gebnlp-1.21.pdf">link</a></li>
-      <li><strong>Large Language Models for Education: Understanding the Needs of Stakeholders, Current Capabilities and the Path Forward.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.28.pdf">link</a></li>
-      <li><strong>Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting.</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.29.pdf">link</a></li>
-      <li><strong>Are Large Language Models for Education Reliable for All Languages?</strong> BEA, ACL 2025. <a href="https://aclanthology.org/2025.bea-1.44.pdf">link</a></li>
-      <li><strong>Can I Introduce My Boyfriend to My Grandmother? Evaluating Large Language Models' Capabilities on Iranian Social Norm Classification.</strong> NAACL 2025. <a href="https://arxiv.org/abs/2406.09123">link</a></li>
-    </ol>
   </div>
   <div class="news-toggle-wrap">
     <button class="news-toggle-btn" id="pubToggleBtn" onclick="togglePub()">
