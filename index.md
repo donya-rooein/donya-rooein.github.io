@@ -34,7 +34,7 @@ layout: homepage
 
 <div class="section-card news-card">
   <ul class="news-list">
-    <li><strong>Oct 2026:</strong> <strong>KidAlign</strong>strong> survey is online. If you are interested, check <a href="https://lnkd.in/p/eSNVTw7R">here.</a></li>
+    <li><strong>Oct 2026:</strong> <strong>KidAlign</strong> survey is online. If you are interested, check <a href="https://lnkd.in/p/eSNVTw7R">here.</a></li>
     <li><strong>Oct 2026:</strong> We present three papers at <strong>EMNLP 2026</strong> in Budapest:
   <ul>
     <li><a href="https://arxiv.org/abs/2609.16993">The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment</a></li>
